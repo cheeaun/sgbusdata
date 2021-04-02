@@ -1,0 +1,315 @@
+{
+	"routes": [
+		{
+			"name": "240A",
+			"color": "#5BC824",
+			"text_color": "#FFFFFF",
+			"live_line_code": "SBSTBuses240A",
+			"brand": "SBSTBuses",
+			"mode": "bus",
+			"supports_routeinfo": true,
+			"url": "https://citymapper.com/singapore/l/sbs-transit-240a",
+			"patterns": [
+				{
+					"path": [
+						[
+							1.33251,
+							103.72332
+						],
+						[
+							1.33422,
+							103.72274
+						],
+						[
+							1.334788,
+							103.72249
+						],
+						[
+							1.33595,
+							103.72198
+						],
+						[
+							1.337297,
+							103.721142
+						],
+						[
+							1.33746,
+							103.72129
+						],
+						[
+							1.33768,
+							103.72121
+						],
+						[
+							1.3379,
+							103.72105
+						],
+						[
+							1.338,
+							103.72095
+						],
+						[
+							1.33822,
+							103.7209
+						],
+						[
+							1.33884,
+							103.72184
+						],
+						[
+							1.33896,
+							103.72177
+						],
+						[
+							1.339181,
+							103.722083
+						],
+						[
+							1.34004,
+							103.7233
+						],
+						[
+							1.34069,
+							103.72276
+						],
+						[
+							1.34109,
+							103.72222
+						],
+						[
+							1.34157,
+							103.72155
+						],
+						[
+							1.341784,
+							103.721452
+						],
+						[
+							1.34192,
+							103.72139
+						],
+						[
+							1.34243,
+							103.72133
+						],
+						[
+							1.34285,
+							103.72135
+						],
+						[
+							1.34304,
+							103.72139
+						],
+						[
+							1.3433,
+							103.72149
+						],
+						[
+							1.3438,
+							103.72175
+						],
+						[
+							1.34405,
+							103.72182
+						],
+						[
+							1.34444,
+							103.72183
+						],
+						[
+							1.34459,
+							103.72177
+						],
+						[
+							1.34472,
+							103.72155
+						],
+						[
+							1.34475,
+							103.7214
+						],
+						[
+							1.3446,
+							103.7208
+						],
+						[
+							1.344351,
+							103.720092
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_Blk65_N",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_OppBlk117_N",
+							"path_index": 2
+						},
+						{
+							"id": "SingaporeStop_Blk357_NW",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_Blk354_N",
+							"path_index": 12
+						},
+						{
+							"id": "SingaporeStop_YuanChingSecSch_NW",
+							"path_index": 17
+						},
+						{
+							"id": "SingaporeStop_LakesideStn_W",
+							"path_index": 30
+						}
+					],
+					"name": "towards Lakeside Stn",
+					"id": "240A_0"
+				}
+			],
+			"live_availability": 0,
+			"ui_color": "#5BC824",
+			"long_name": "Blk 65 - Lakeside Stn",
+			"aliases": [
+				"sbs-transit-240a"
+			]
+		}
+	],
+	"stops": {
+		"SingaporeStop_YuanChingSecSch_NW": {
+			"live_code": "SingaporeStop_YuanChingSecSch_NW",
+			"routes": [
+				"SBSTBuses154",
+				"SBSTBuses154A",
+				"SBSTBuses240",
+				"SBSTBuses240A",
+				"SBSTBuses246"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "Yuan Ching Sec Sch",
+			"coords": [
+				1.341766,
+				103.721414
+			],
+			"stop_code": "21661",
+			"bearing": "NW"
+		},
+		"SingaporeStop_LakesideStn_W": {
+			"live_code": "SingaporeStop_LakesideStn_W",
+			"routes": [
+				"SBSTBuses154",
+				"SBSTBuses154A",
+				"SMRTBuses180",
+				"SMRTBuses187",
+				"SBSTBuses240",
+				"SBSTBuses240A",
+				"SBSTBuses240M",
+				"SBSTBuses246",
+				"TTSBuses49",
+				"TTSBuses98",
+				"TTSBuses98A",
+				"TTSBuses98B",
+				"TTSBuses98M"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"name": "Lakeside Stn",
+			"coords": [
+				1.344258,
+				103.720125
+			],
+			"stop_code": "28091",
+			"bearing": "W"
+		},
+		"SingaporeStop_Blk354_N": {
+			"live_code": "SingaporeStop_Blk354_N",
+			"routes": [
+				"SBSTBuses240",
+				"SBSTBuses240A"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "Blk 354",
+			"coords": [
+				1.339215,
+				103.722059
+			],
+			"stop_code": "21621",
+			"bearing": "NW"
+		},
+		"SingaporeStop_Blk357_NW": {
+			"live_code": "SingaporeStop_Blk357_NW",
+			"routes": [
+				"SBSTBuses240",
+				"SBSTBuses240A",
+				"SBSTBuses30",
+				"TTSBuses49",
+				"TTSBuses98",
+				"TTSBuses98M"
+			],
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"name": "Blk 357",
+			"coords": [
+				1.33727,
+				103.721098
+			],
+			"stop_code": "21601",
+			"bearing": "NW"
+		},
+		"SingaporeStop_Blk65_N": {
+			"live_code": "SingaporeStop_Blk65_N",
+			"routes": [
+				"SBSTBuses240",
+				"SBSTBuses240A",
+				"SBSTBuses246",
+				"SBSTBuses30",
+				"TTSBuses98",
+				"TTSBuses98M"
+			],
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"name": "Blk 65",
+			"coords": [
+				1.332434,
+				103.723286
+			],
+			"stop_code": "21581",
+			"bearing": "NW"
+		},
+		"SingaporeStop_OppBlk117_N": {
+			"live_code": "SingaporeStop_OppBlk117_N",
+			"routes": [
+				"SBSTBuses240",
+				"SBSTBuses240A",
+				"SBSTBuses246",
+				"SBSTBuses30",
+				"TTSBuses98",
+				"TTSBuses98M"
+			],
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"name": "Opp Blk 117",
+			"coords": [
+				1.334761,
+				103.722428
+			],
+			"stop_code": "21591",
+			"bearing": "NW"
+		}
+	},
+	"feeds": [],
+	"status": 0
+}

@@ -1,0 +1,1104 @@
+{
+	"routes": [
+		{
+			"name": "58B",
+			"color": "#5BC824",
+			"text_color": "#FFFFFF",
+			"live_line_code": "SBSTBuses58B",
+			"brand": "SBSTBuses",
+			"mode": "bus",
+			"supports_routeinfo": true,
+			"url": "https://citymapper.com/singapore/l/sbs-transit-58b",
+			"patterns": [
+				{
+					"path": [
+						[
+							1.37373,
+							103.95004
+						],
+						[
+							1.37397,
+							103.94923
+						],
+						[
+							1.37424,
+							103.94913
+						],
+						[
+							1.37436,
+							103.94917
+						],
+						[
+							1.37442,
+							103.94927
+						],
+						[
+							1.37433,
+							103.94982
+						],
+						[
+							1.3749,
+							103.94996
+						],
+						[
+							1.37525,
+							103.94887
+						],
+						[
+							1.37574,
+							103.94771
+						],
+						[
+							1.376627,
+							103.94607
+						],
+						[
+							1.3772,
+							103.94501
+						],
+						[
+							1.3777,
+							103.9442
+						],
+						[
+							1.37821,
+							103.9435
+						],
+						[
+							1.37815,
+							103.94345
+						],
+						[
+							1.378686,
+							103.942802
+						],
+						[
+							1.37897,
+							103.94246
+						],
+						[
+							1.380073,
+							103.941006
+						],
+						[
+							1.38054,
+							103.94039
+						],
+						[
+							1.38141,
+							103.93949
+						],
+						[
+							1.382287,
+							103.938699
+						],
+						[
+							1.38253,
+							103.93848
+						],
+						[
+							1.38356,
+							103.93675
+						],
+						[
+							1.38353,
+							103.93649
+						],
+						[
+							1.38337,
+							103.93633
+						],
+						[
+							1.382902,
+							103.936078
+						],
+						[
+							1.380643,
+							103.934862
+						],
+						[
+							1.37966,
+							103.93423
+						],
+						[
+							1.378367,
+							103.933291
+						],
+						[
+							1.3782,
+							103.93317
+						],
+						[
+							1.37776,
+							103.93288
+						],
+						[
+							1.374442,
+							103.931359
+						],
+						[
+							1.37307,
+							103.93073
+						],
+						[
+							1.37276,
+							103.93061
+						],
+						[
+							1.37224,
+							103.93049
+						],
+						[
+							1.37146,
+							103.93042
+						],
+						[
+							1.370789,
+							103.930511
+						],
+						[
+							1.367573,
+							103.930945
+						],
+						[
+							1.36739,
+							103.93097
+						],
+						[
+							1.362391,
+							103.930963
+						],
+						[
+							1.3601,
+							103.93096
+						],
+						[
+							1.359457,
+							103.930842
+						],
+						[
+							1.3589,
+							103.93074
+						],
+						[
+							1.35757,
+							103.93014
+						],
+						[
+							1.35376,
+							103.92804
+						],
+						[
+							1.35018,
+							103.92615
+						],
+						[
+							1.34917,
+							103.92554
+						],
+						[
+							1.34863,
+							103.92512
+						],
+						[
+							1.34828,
+							103.92474
+						],
+						[
+							1.34792,
+							103.92414
+						],
+						[
+							1.34715,
+							103.9226
+						],
+						[
+							1.34594,
+							103.91975
+						],
+						[
+							1.34579,
+							103.91946
+						],
+						[
+							1.34532,
+							103.91906
+						],
+						[
+							1.34493,
+							103.91886
+						],
+						[
+							1.3444,
+							103.91871
+						],
+						[
+							1.34193,
+							103.91871
+						],
+						[
+							1.34128,
+							103.91864
+						],
+						[
+							1.33998,
+							103.91826
+						],
+						[
+							1.33867,
+							103.918
+						],
+						[
+							1.33817,
+							103.91802
+						],
+						[
+							1.33781,
+							103.91605
+						],
+						[
+							1.33767,
+							103.91545
+						],
+						[
+							1.33761,
+							103.915298
+						],
+						[
+							1.33738,
+							103.91472
+						],
+						[
+							1.336138,
+							103.912083
+						],
+						[
+							1.3356,
+							103.91094
+						],
+						[
+							1.335327,
+							103.909892
+						],
+						[
+							1.3351,
+							103.90902
+						],
+						[
+							1.334793,
+							103.907492
+						],
+						[
+							1.33467,
+							103.90688
+						],
+						[
+							1.33451,
+							103.90624
+						],
+						[
+							1.33428,
+							103.9057
+						],
+						[
+							1.333482,
+							103.904104
+						],
+						[
+							1.33319,
+							103.90367
+						],
+						[
+							1.33178,
+							103.9023
+						],
+						[
+							1.332989,
+							103.901044
+						],
+						[
+							1.33435,
+							103.89963
+						],
+						[
+							1.33445,
+							103.89936
+						],
+						[
+							1.33441,
+							103.89918
+						],
+						[
+							1.33432,
+							103.89902
+						],
+						[
+							1.333805,
+							103.898444
+						],
+						[
+							1.33348,
+							103.89808
+						],
+						[
+							1.33259,
+							103.89595
+						],
+						[
+							1.33243,
+							103.89575
+						],
+						[
+							1.331912,
+							103.894426
+						],
+						[
+							1.33178,
+							103.89409
+						],
+						[
+							1.33171,
+							103.89377
+						],
+						[
+							1.33071,
+							103.89129
+						],
+						[
+							1.33024,
+							103.88951
+						],
+						[
+							1.330799,
+							103.889402
+						],
+						[
+							1.33282,
+							103.88901
+						],
+						[
+							1.33418,
+							103.88875
+						],
+						[
+							1.33495,
+							103.88847
+						],
+						[
+							1.33542,
+							103.88823
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_PasirRisInt_E",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_Blk500A_NW",
+							"path_index": 9
+						},
+						{
+							"id": "SingaporeStop_AftBlk601_NW",
+							"path_index": 14
+						},
+						{
+							"id": "SingaporeStop_Blk626_W",
+							"path_index": 16
+						},
+						{
+							"id": "SingaporeStop_Blk713_W",
+							"path_index": 19
+						},
+						{
+							"id": "SingaporeStop_Blk717_SW",
+							"path_index": 24
+						},
+						{
+							"id": "SingaporeStop_AftPasirRisSt72_S",
+							"path_index": 25
+						},
+						{
+							"id": "SingaporeStop_Blk747A_W",
+							"path_index": 27
+						},
+						{
+							"id": "SingaporeStop_AftTpe_S_1",
+							"path_index": 30
+						},
+						{
+							"id": "SingaporeStop_OppHnsMicroSiltronic_S",
+							"path_index": 35
+						},
+						{
+							"id": "SingaporeStop_OppTampinesDormitory_S",
+							"path_index": 36
+						},
+						{
+							"id": "SingaporeStop_BefTampinesAve9_SE",
+							"path_index": 38
+						},
+						{
+							"id": "SingaporeStop_BefTampinesAve5_S",
+							"path_index": 40
+						},
+						{
+							"id": "SingaporeStop_OppKakiBtCtr_SW",
+							"path_index": 62
+						},
+						{
+							"id": "SingaporeStop_Blk151_W_1",
+							"path_index": 64
+						},
+						{
+							"id": "SingaporeStop_BefJlnDamai_S",
+							"path_index": 66
+						},
+						{
+							"id": "SingaporeStop_Blk660ACp_SE",
+							"path_index": 68
+						},
+						{
+							"id": "SingaporeStop_KakiBtIndEst_SW",
+							"path_index": 72
+						},
+						{
+							"id": "SingaporeStop_OppEunosTechnolink_NW",
+							"path_index": 75
+						},
+						{
+							"id": "SingaporeStop_AftRegentMotors_SW",
+							"path_index": 80
+						},
+						{
+							"id": "SingaporeStop_HdbCp_W",
+							"path_index": 84
+						},
+						{
+							"id": "SingaporeStop_TrafficPolice_W",
+							"path_index": 87
+						},
+						{
+							"id": "SingaporeStop_LeCrescendo_NW",
+							"path_index": 89
+						},
+						{
+							"id": "SingaporeStop_AftTaiSengStn_N",
+							"path_index": 93
+						}
+					],
+					"name": "towards Aft Tai Seng Stn",
+					"id": "58B_0"
+				}
+			],
+			"live_availability": 0,
+			"ui_color": "#5BC824",
+			"long_name": "Pasir Ris Int - Aft Tai Seng Stn",
+			"aliases": [
+				"sbs-transit-58b"
+			]
+		}
+	],
+	"stops": {
+		"SingaporeStop_PasirRisInt_E": {
+			"live_code": "SingaporeStop_PasirRisInt_E",
+			"routes": [
+				"GASBuses12",
+				"GASBuses12E",
+				"GASBuses15",
+				"GASBuses15A",
+				"GASBuses17",
+				"SBSTBuses21",
+				"GASBuses3",
+				"GASBuses354",
+				"GASBuses358",
+				"GASBuses359",
+				"GASBuses3B",
+				"GASBuses403",
+				"SBSTBuses4N",
+				"SBSTBuses5",
+				"GASBuses518",
+				"GASBuses518A",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"GASBuses6",
+				"GASBuses68",
+				"SBSTBuses88"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Pasir Ris Int",
+			"coords": [
+				1.373722,
+				103.950212
+			],
+			"stop_code": "77009",
+			"bearing": "NW"
+		},
+		"SingaporeStop_TrafficPolice_W": {
+			"live_code": "SingaporeStop_TrafficPolice_W",
+			"routes": [
+				"SBSTBuses58",
+				"SBSTBuses58B"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "Traffic Police",
+			"coords": [
+				1.330632,
+				103.891321
+			],
+			"stop_code": "70099",
+			"bearing": "W"
+		},
+		"SingaporeStop_AftTpe_S_1": {
+			"live_code": "SingaporeStop_AftTpe_S_1",
+			"routes": [
+				"GASBuses118",
+				"GASBuses118A",
+				"SBSTBuses168",
+				"SBSTBuses27",
+				"SBSTBuses27A",
+				"GASBuses34",
+				"GASBuses34A",
+				"GASBuses34B",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"GASBuses68"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Aft TPE",
+			"coords": [
+				1.374387,
+				103.931479
+			],
+			"stop_code": "75359",
+			"bearing": "S"
+		},
+		"SingaporeStop_Blk713_W": {
+			"live_code": "SingaporeStop_Blk713_W",
+			"routes": [
+				"GASBuses359",
+				"GASBuses518",
+				"GASBuses518A",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"SBSTBuses88"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Blk 713",
+			"coords": [
+				1.382238,
+				103.938644
+			],
+			"stop_code": "77251",
+			"bearing": "W"
+		},
+		"SingaporeStop_Blk747A_W": {
+			"live_code": "SingaporeStop_Blk747A_W",
+			"routes": [
+				"SBSTBuses109",
+				"GASBuses3",
+				"SBSTBuses39",
+				"GASBuses3A",
+				"SBSTBuses53",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"GASBuses68",
+				"SBSTBuses81",
+				"SBSTBuses88",
+				"SBSTBuses89"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Blk 747A",
+			"coords": [
+				1.378297,
+				103.933388
+			],
+			"stop_code": "77331",
+			"bearing": "W"
+		},
+		"SingaporeStop_Blk151_W_1": {
+			"live_code": "SingaporeStop_Blk151_W_1",
+			"routes": [
+				"GASBuses15",
+				"GASBuses15A",
+				"SBSTBuses5",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"SBSTBuses59",
+				"SBSTBuses87"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Blk 151",
+			"coords": [
+				1.336013,
+				103.912142
+			],
+			"stop_code": "84701",
+			"bearing": "W"
+		},
+		"SingaporeStop_OppHnsMicroSiltronic_S": {
+			"live_code": "SingaporeStop_OppHnsMicroSiltronic_S",
+			"routes": [
+				"GASBuses118",
+				"GASBuses118A",
+				"SBSTBuses168",
+				"SBSTBuses27",
+				"SBSTBuses27A",
+				"GASBuses34",
+				"GASBuses34A",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"GASBuses68"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Bef Tampines Lk",
+			"coords": [
+				1.370796,
+				103.930565
+			],
+			"stop_code": "75369",
+			"bearing": "S"
+		},
+		"SingaporeStop_Blk717_SW": {
+			"live_code": "SingaporeStop_Blk717_SW",
+			"routes": [
+				"GASBuses359",
+				"GASBuses518",
+				"GASBuses518A",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"SBSTBuses88"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Blk 717",
+			"coords": [
+				1.382858,
+				103.936159
+			],
+			"stop_code": "77261",
+			"bearing": "SW"
+		},
+		"SingaporeStop_BefJlnDamai_S": {
+			"live_code": "SingaporeStop_BefJlnDamai_S",
+			"routes": [
+				"GASBuses15",
+				"GASBuses15A",
+				"SBSTBuses5",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"SBSTBuses59",
+				"SBSTBuses87"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "BEF KAKI BT STN EXIT B",
+			"coords": [
+				1.335219,
+				103.90992
+			],
+			"stop_code": "72031",
+			"bearing": "W"
+		},
+		"SingaporeStop_Blk500A_NW": {
+			"live_code": "SingaporeStop_Blk500A_NW",
+			"routes": [
+				"GASBuses358",
+				"GASBuses359",
+				"SBSTBuses4N",
+				"GASBuses518",
+				"GASBuses518A",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"GASBuses68",
+				"SBSTBuses88"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Blk 500A",
+			"coords": [
+				1.376548,
+				103.946028
+			],
+			"stop_code": "77191",
+			"bearing": "NW"
+		},
+		"SingaporeStop_KakiBtIndEst_SW": {
+			"live_code": "SingaporeStop_KakiBtIndEst_SW",
+			"routes": [
+				"GASBuses15",
+				"GASBuses15A",
+				"SBSTBuses5",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"SBSTBuses59",
+				"SBSTBuses87"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Kaki Bt Ind Est",
+			"coords": [
+				1.33344,
+				103.904125
+			],
+			"stop_code": "72051",
+			"bearing": "SW"
+		},
+		"SingaporeStop_AftRegentMotors_SW": {
+			"live_code": "SingaporeStop_AftRegentMotors_SW",
+			"routes": [
+				"SBSTBuses137",
+				"SBSTBuses58",
+				"SBSTBuses58B"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "Aft Regent Motors",
+			"coords": [
+				1.333722,
+				103.898518
+			],
+			"stop_code": "70079",
+			"bearing": "SW"
+		},
+		"SingaporeStop_OppKakiBtCtr_SW": {
+			"live_code": "SingaporeStop_OppKakiBtCtr_SW",
+			"routes": [
+				"GASBuses15",
+				"GASBuses15A",
+				"SBSTBuses21",
+				"SBSTBuses22",
+				"SBSTBuses228",
+				"SBSTBuses5",
+				"SBSTBuses506",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"SBSTBuses59",
+				"SBSTBuses60",
+				"SBSTBuses65",
+				"TTSBuses66",
+				"TTSBuses66A",
+				"SBSTBuses8",
+				"SBSTBuses87"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"name": "Aft Bedok Ind Pk C",
+			"coords": [
+				1.337532,
+				103.915329
+			],
+			"stop_code": "84481",
+			"bearing": "SW"
+		},
+		"SingaporeStop_Blk660ACp_SE": {
+			"live_code": "SingaporeStop_Blk660ACp_SE",
+			"routes": [
+				"GASBuses15",
+				"GASBuses15A",
+				"SBSTBuses5",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"SBSTBuses59",
+				"SBSTBuses87"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Blk 660A CP",
+			"coords": [
+				1.334687,
+				103.907513
+			],
+			"stop_code": "72041",
+			"bearing": "W"
+		},
+		"SingaporeStop_BefTampinesAve5_S": {
+			"live_code": "SingaporeStop_BefTampinesAve5_S",
+			"routes": [
+				"GASBuses118",
+				"GASBuses118A",
+				"GASBuses34",
+				"GASBuses34A",
+				"GASBuses34B",
+				"SBSTBuses58",
+				"SBSTBuses58B"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Bef Tampines Ave 5",
+			"coords": [
+				1.35943,
+				103.93099
+			],
+			"stop_code": "75379",
+			"bearing": "S"
+		},
+		"SingaporeStop_LeCrescendo_NW": {
+			"live_code": "SingaporeStop_LeCrescendo_NW",
+			"routes": [
+				"SBSTBuses158",
+				"SBSTBuses22",
+				"SBSTBuses24",
+				"SBSTBuses28",
+				"GASBuses43",
+				"GASBuses43E",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"SBSTBuses70",
+				"SBSTBuses70M",
+				"SBSTBuses76",
+				"SBSTBuses8",
+				"SBSTBuses80"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Le Crescendo",
+			"coords": [
+				1.330782,
+				103.889315
+			],
+			"stop_code": "70271",
+			"bearing": "NW"
+		},
+		"SingaporeStop_HdbCp_W": {
+			"live_code": "SingaporeStop_HdbCp_W",
+			"routes": [
+				"SBSTBuses58",
+				"SBSTBuses58B"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "HDB CP",
+			"coords": [
+				1.331877,
+				103.89444
+			],
+			"stop_code": "70089",
+			"bearing": "W"
+		},
+		"SingaporeStop_AftBlk601_NW": {
+			"live_code": "SingaporeStop_AftBlk601_NW",
+			"routes": [
+				"GASBuses358",
+				"GASBuses359",
+				"SBSTBuses4N",
+				"GASBuses518",
+				"GASBuses518A",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"GASBuses68",
+				"SBSTBuses88"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Pasir Ris Elias CC",
+			"coords": [
+				1.37864,
+				103.942764
+			],
+			"stop_code": "77201",
+			"bearing": "W"
+		},
+		"SingaporeStop_AftTaiSengStn_N": {
+			"live_code": "SingaporeStop_AftTaiSengStn_N",
+			"routes": [
+				"SBSTBuses158",
+				"SBSTBuses22",
+				"SBSTBuses24",
+				"SBSTBuses28",
+				"GASBuses43",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"GASBuses62",
+				"SBSTBuses70",
+				"SBSTBuses70M",
+				"SBSTBuses76",
+				"SBSTBuses80",
+				"SBSTBuses93"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Aft Tai Seng Stn",
+			"coords": [
+				1.335306,
+				103.888
+			],
+			"stop_code": "70281",
+			"bearing": "NW"
+		},
+		"SingaporeStop_OppEunosTechnolink_NW": {
+			"live_code": "SingaporeStop_OppEunosTechnolink_NW",
+			"routes": [
+				"SBSTBuses25",
+				"SBSTBuses45",
+				"SBSTBuses51",
+				"SBSTBuses55",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"SMRTBuses854",
+				"SBSTBuses87",
+				"SBSTBuses93",
+				"SBSTBuses94",
+				"SBSTBuses94A"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Opp Eunos Technolink",
+			"coords": [
+				1.332915,
+				103.900972
+			],
+			"stop_code": "71089",
+			"bearing": "NW"
+		},
+		"SingaporeStop_OppTampinesDormitory_S": {
+			"live_code": "SingaporeStop_OppTampinesDormitory_S",
+			"routes": [
+				"GASBuses118",
+				"GASBuses118A",
+				"SBSTBuses127",
+				"SBSTBuses168",
+				"SBSTBuses27",
+				"SBSTBuses27A",
+				"GASBuses34",
+				"GASBuses34A",
+				"GASBuses34B",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"GASBuses68",
+				"SBSTBuses72"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Opp Tampines Dormitory",
+			"coords": [
+				1.367593,
+				103.931091
+			],
+			"stop_code": "75319",
+			"bearing": "SE"
+		},
+		"SingaporeStop_Blk626_W": {
+			"live_code": "SingaporeStop_Blk626_W",
+			"routes": [
+				"GASBuses358",
+				"GASBuses359",
+				"SBSTBuses4N",
+				"GASBuses518",
+				"GASBuses518A",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"SBSTBuses88"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Blk 626",
+			"coords": [
+				1.379992,
+				103.940945
+			],
+			"stop_code": "77211",
+			"bearing": "W"
+		},
+		"SingaporeStop_AftPasirRisSt72_S": {
+			"live_code": "SingaporeStop_AftPasirRisSt72_S",
+			"routes": [
+				"GASBuses359",
+				"GASBuses518",
+				"GASBuses518A",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"SBSTBuses88"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Aft Pasir Ris St 72",
+			"coords": [
+				1.38059,
+				103.934961
+			],
+			"stop_code": "77271",
+			"bearing": "S"
+		},
+		"SingaporeStop_BefTampinesAve9_SE": {
+			"live_code": "SingaporeStop_BefTampinesAve9_SE",
+			"routes": [
+				"GASBuses118",
+				"GASBuses118A",
+				"SBSTBuses168",
+				"SBSTBuses27",
+				"SBSTBuses27A",
+				"GASBuses34",
+				"GASBuses34A",
+				"GASBuses34B",
+				"SBSTBuses58",
+				"SBSTBuses58B",
+				"SBSTBuses72"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Bef Tampines Ave 9",
+			"coords": [
+				1.362391,
+				103.931066
+			],
+			"stop_code": "75299",
+			"bearing": "SE"
+		}
+	},
+	"feeds": [],
+	"status": 0
+}

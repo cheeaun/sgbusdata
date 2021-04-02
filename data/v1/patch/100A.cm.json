@@ -1,0 +1,589 @@
+{
+	"routes": [
+		{
+			"name": "100A",
+			"color": "#5BC824",
+			"text_color": "#FFFFFF",
+			"live_line_code": "SBSTBuses100A",
+			"brand": "SBSTBuses",
+			"mode": "bus",
+			"supports_routeinfo": true,
+			"url": "https://citymapper.com/singapore/l/sbs-transit-100a",
+			"patterns": [
+				{
+					"path": [
+						[
+							1.35064,
+							103.87136
+						],
+						[
+							1.35059,
+							103.87122
+						],
+						[
+							1.35026,
+							103.87133
+						],
+						[
+							1.34986,
+							103.87142
+						],
+						[
+							1.34897,
+							103.87154
+						],
+						[
+							1.34876,
+							103.87165
+						],
+						[
+							1.34862,
+							103.87179
+						],
+						[
+							1.34819,
+							103.87262
+						],
+						[
+							1.346997,
+							103.87204
+						],
+						[
+							1.34498,
+							103.87106
+						],
+						[
+							1.344862,
+							103.871016
+						],
+						[
+							1.34466,
+							103.87094
+						],
+						[
+							1.34414,
+							103.87082
+						],
+						[
+							1.3438,
+							103.87078
+						],
+						[
+							1.34292,
+							103.87083
+						],
+						[
+							1.3425,
+							103.87088
+						],
+						[
+							1.34196,
+							103.8709
+						],
+						[
+							1.34167,
+							103.87078
+						],
+						[
+							1.33981,
+							103.87087
+						],
+						[
+							1.338466,
+							103.870727
+						],
+						[
+							1.33831,
+							103.87071
+						],
+						[
+							1.33793,
+							103.87086
+						],
+						[
+							1.33781,
+							103.87109
+						],
+						[
+							1.33764,
+							103.87329
+						],
+						[
+							1.337674,
+							103.873622
+						],
+						[
+							1.33789,
+							103.87575
+						],
+						[
+							1.33778,
+							103.87625
+						],
+						[
+							1.33764,
+							103.87652
+						],
+						[
+							1.33744,
+							103.877
+						],
+						[
+							1.33681,
+							103.87775
+						],
+						[
+							1.33668,
+							103.87784
+						],
+						[
+							1.334766,
+							103.878267
+						],
+						[
+							1.33305,
+							103.87865
+						],
+						[
+							1.332901,
+							103.878697
+						],
+						[
+							1.33261,
+							103.87879
+						],
+						[
+							1.3326,
+							103.87876
+						],
+						[
+							1.32927,
+							103.879628
+						],
+						[
+							1.326606,
+							103.880483
+						],
+						[
+							1.32618,
+							103.88062
+						],
+						[
+							1.32408,
+							103.8812
+						],
+						[
+							1.323213,
+							103.881366
+						],
+						[
+							1.32236,
+							103.88153
+						],
+						[
+							1.31981,
+							103.881841
+						],
+						[
+							1.31843,
+							103.88201
+						],
+						[
+							1.31767,
+							103.88198
+						],
+						[
+							1.31653,
+							103.88187
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_SerangoonInt_S",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_Blk403_SW",
+							"path_index": 8
+						},
+						{
+							"id": "SingaporeStop_AftSunshineLodge_S",
+							"path_index": 10
+						},
+						{
+							"id": "SingaporeStop_AftBartleyRd_S",
+							"path_index": 16
+						},
+						{
+							"id": "SingaporeStop_WoodleighStn_S",
+							"path_index": 19
+						},
+						{
+							"id": "SingaporeStop_AftBidadariPkDr_SE",
+							"path_index": 24
+						},
+						{
+							"id": "SingaporeStop_BefJooSengRd_S",
+							"path_index": 31
+						},
+						{
+							"id": "SingaporeStop_AftBlk4_S",
+							"path_index": 33
+						},
+						{
+							"id": "SingaporeStop_AljuniedPk_SE",
+							"path_index": 36
+						},
+						{
+							"id": "SingaporeStop_AftCanossaConventPr_S",
+							"path_index": 37
+						},
+						{
+							"id": "SingaporeStop_Blk125_S",
+							"path_index": 40
+						},
+						{
+							"id": "SingaporeStop_Blk102_SE",
+							"path_index": 42
+						},
+						{
+							"id": "SingaporeStop_AljuniedStn_S",
+							"path_index": 45
+						}
+					],
+					"name": "towards Aljunied Stn",
+					"id": "100A_0"
+				}
+			],
+			"live_availability": 0,
+			"ui_color": "#5BC824",
+			"long_name": "S'Goon Int - Aljunied Stn",
+			"aliases": [
+				"sbs-transit-100a"
+			]
+		}
+	],
+	"stops": {
+		"SingaporeStop_Blk102_SE": {
+			"live_code": "SingaporeStop_Blk102_SE",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses155",
+				"SBSTBuses158",
+				"SBSTBuses40",
+				"GASBuses62",
+				"GASBuses62A",
+				"SBSTBuses63"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Blk 102",
+			"coords": [
+				1.319823,
+				103.881947
+			],
+			"stop_code": "81099",
+			"bearing": "S"
+		},
+		"SingaporeStop_AljuniedStn_S": {
+			"live_code": "SingaporeStop_AljuniedStn_S",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses137",
+				"SBSTBuses158",
+				"SBSTBuses158A",
+				"SBSTBuses40",
+				"GASBuses62",
+				"GASBuses62A",
+				"SBSTBuses63",
+				"SBSTBuses80",
+				"SBSTBuses80A"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Aljunied Stn",
+			"coords": [
+				1.316282,
+				103.882022
+			],
+			"stop_code": "81089",
+			"bearing": "S"
+		},
+		"SingaporeStop_AftCanossaConventPr_S": {
+			"live_code": "SingaporeStop_AftCanossaConventPr_S",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"GASBuses62",
+				"GASBuses62A",
+				"SBSTBuses64"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Aft Canossa Convent Pr",
+			"coords": [
+				1.326626,
+				103.880544
+			],
+			"stop_code": "70029",
+			"bearing": "S"
+		},
+		"SingaporeStop_WoodleighStn_S": {
+			"live_code": "SingaporeStop_WoodleighStn_S",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses107",
+				"SBSTBuses107M",
+				"SBSTBuses13",
+				"SBSTBuses133",
+				"SBSTBuses135",
+				"SBSTBuses147",
+				"SBSTBuses147A",
+				"SBSTBuses155",
+				"SMRTBuses853",
+				"SMRTBuses853M"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Woodleigh Stn Exit A",
+			"coords": [
+				1.338453,
+				103.870849
+			],
+			"stop_code": "61039",
+			"bearing": "SE"
+		},
+		"SingaporeStop_AftSunshineLodge_S": {
+			"live_code": "SingaporeStop_AftSunshineLodge_S",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses107",
+				"SBSTBuses107M",
+				"SBSTBuses133",
+				"SBSTBuses135",
+				"SBSTBuses147",
+				"SBSTBuses147A",
+				"SBSTBuses153",
+				"SMRTBuses853",
+				"SMRTBuses853M"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Aft Sunshine Lodge",
+			"coords": [
+				1.344833,
+				103.871092
+			],
+			"stop_code": "62119",
+			"bearing": "S"
+		},
+		"SingaporeStop_AftBlk4_S": {
+			"live_code": "SingaporeStop_AftBlk4_S",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses135",
+				"SBSTBuses155"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "Aft Blk 4",
+			"coords": [
+				1.332907,
+				103.878715
+			],
+			"stop_code": "70049",
+			"bearing": "S"
+		},
+		"SingaporeStop_Blk125_S": {
+			"live_code": "SingaporeStop_Blk125_S",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses125",
+				"SBSTBuses155",
+				"SBSTBuses158",
+				"SBSTBuses40",
+				"GASBuses62",
+				"GASBuses62A",
+				"SBSTBuses63",
+				"SBSTBuses64"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Blk 125",
+			"coords": [
+				1.32323,
+				103.881457
+			],
+			"stop_code": "70019",
+			"bearing": "S"
+		},
+		"SingaporeStop_AftBidadariPkDr_SE": {
+			"live_code": "SingaporeStop_AftBidadariPkDr_SE",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses135",
+				"SBSTBuses155"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "Aft Bidadari Pk Dr",
+			"coords": [
+				1.337778,
+				103.873611
+			],
+			"stop_code": "70069",
+			"bearing": "SE"
+		},
+		"SingaporeStop_AljuniedPk_SE": {
+			"live_code": "SingaporeStop_AljuniedPk_SE",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses135",
+				"SBSTBuses154",
+				"SBSTBuses155",
+				"SMRTBuses61",
+				"GASBuses62",
+				"GASBuses62A",
+				"SBSTBuses64",
+				"SBSTBuses65",
+				"TTSBuses66"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"name": "Aljunied Pk",
+			"coords": [
+				1.329303,
+				103.879756
+			],
+			"stop_code": "70039",
+			"bearing": "SE"
+		},
+		"SingaporeStop_SerangoonInt_S": {
+			"live_code": "SingaporeStop_SerangoonInt_S",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses101",
+				"SBSTBuses103",
+				"SBSTBuses105",
+				"SBSTBuses109",
+				"SBSTBuses109A",
+				"SBSTBuses158",
+				"SBSTBuses315",
+				"SBSTBuses317"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "S'Goon Int",
+			"coords": [
+				1.350466,
+				103.87169
+			],
+			"stop_code": "66009",
+			"bearing": "S"
+		},
+		"SingaporeStop_Blk403_SW": {
+			"live_code": "SingaporeStop_Blk403_SW",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses107",
+				"SBSTBuses107M",
+				"SBSTBuses133",
+				"SBSTBuses135",
+				"SBSTBuses147",
+				"SBSTBuses147A",
+				"SBSTBuses153",
+				"SMRTBuses853",
+				"SMRTBuses853M"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Blk 403",
+			"coords": [
+				1.34699,
+				103.872055
+			],
+			"stop_code": "62129",
+			"bearing": "SW"
+		},
+		"SingaporeStop_AftBartleyRd_S": {
+			"live_code": "SingaporeStop_AftBartleyRd_S",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses107",
+				"SBSTBuses107M",
+				"SBSTBuses13",
+				"SBSTBuses133",
+				"SBSTBuses135",
+				"SBSTBuses147",
+				"SBSTBuses147A",
+				"SBSTBuses155",
+				"SMRTBuses853",
+				"SMRTBuses853M"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Aft Bartley Rd",
+			"coords": [
+				1.341963,
+				103.870969
+			],
+			"stop_code": "61049",
+			"bearing": "S"
+		},
+		"SingaporeStop_BefJooSengRd_S": {
+			"live_code": "SingaporeStop_BefJooSengRd_S",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses135",
+				"SBSTBuses155"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "Blk 7",
+			"coords": [
+				1.334776,
+				103.878312
+			],
+			"stop_code": "70059",
+			"bearing": "S"
+		}
+	},
+	"feeds": [],
+	"status": 0
+}

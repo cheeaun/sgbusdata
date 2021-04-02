@@ -1,0 +1,12 @@
+[
+	{
+		"name": "From Clementi Int to Clementi Int",
+		"stops": [
+			"17009",
+			"17211",
+			"17201",
+			"17219",
+			"17009"
+		]
+	}
+]

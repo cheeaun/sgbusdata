@@ -1,0 +1,422 @@
+{
+	"routes": [
+		{
+			"name": "169B",
+			"color": "#5BC824",
+			"text_color": "#FFFFFF",
+			"live_line_code": "SMRTBuses169B",
+			"brand": "SMRTBuses",
+			"mode": "bus",
+			"supports_routeinfo": true,
+			"url": "https://citymapper.com/singapore/l/smrt-169b",
+			"patterns": [
+				{
+					"path": [
+						[
+							1.43776,
+							103.78645
+						],
+						[
+							1.43722,
+							103.78494
+						],
+						[
+							1.43727,
+							103.78483
+						],
+						[
+							1.43743,
+							103.78479
+						],
+						[
+							1.43754,
+							103.78485
+						],
+						[
+							1.43774,
+							103.78543
+						],
+						[
+							1.43787,
+							103.78548
+						],
+						[
+							1.43807,
+							103.78542
+						],
+						[
+							1.43845,
+							103.78645
+						],
+						[
+							1.43858,
+							103.78658
+						],
+						[
+							1.4388,
+							103.78666
+						],
+						[
+							1.43895,
+							103.78664
+						],
+						[
+							1.43903,
+							103.78675
+						],
+						[
+							1.43965,
+							103.78717
+						],
+						[
+							1.43984,
+							103.78712
+						],
+						[
+							1.440521,
+							103.785958
+						],
+						[
+							1.4411,
+							103.78497
+						],
+						[
+							1.44182,
+							103.78549
+						],
+						[
+							1.442156,
+							103.785899
+						],
+						[
+							1.44228,
+							103.78605
+						],
+						[
+							1.444422,
+							103.78929
+						],
+						[
+							1.44509,
+							103.7903
+						],
+						[
+							1.44573,
+							103.79136
+						],
+						[
+							1.44591,
+							103.79176
+						],
+						[
+							1.446509,
+							103.793625
+						],
+						[
+							1.44743,
+							103.79649
+						],
+						[
+							1.447899,
+							103.797617
+						],
+						[
+							1.44957,
+							103.801148
+						],
+						[
+							1.45022,
+							103.80252
+						],
+						[
+							1.45047,
+							103.80266
+						],
+						[
+							1.45068,
+							103.80266
+						],
+						[
+							1.452511,
+							103.801836
+						],
+						[
+							1.45388,
+							103.80122
+						],
+						[
+							1.454727,
+							103.800921
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_WoodlandsTempInt_N",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_OppBlk802_NW",
+							"path_index": 15
+						},
+						{
+							"id": "SingaporeStop_RepublicPolytechnic_NE",
+							"path_index": 18
+						},
+						{
+							"id": "SingaporeStop_OppBlk872_NE",
+							"path_index": 20
+						},
+						{
+							"id": "SingaporeStop_OppBlk757ACp_E",
+							"path_index": 24
+						},
+						{
+							"id": "SingaporeStop_OppBlk773_NE",
+							"path_index": 26
+						},
+						{
+							"id": "SingaporeStop_AftWoodlandsIndPkE6_E",
+							"path_index": 27
+						},
+						{
+							"id": "SingaporeStop_OppPacificVinitex_NW",
+							"path_index": 31
+						},
+						{
+							"id": "SingaporeStop_BefAdmiraltyRdWest_NE",
+							"path_index": 33
+						}
+					],
+					"name": "towards Bef Admiralty Rd West",
+					"id": "169B_0"
+				}
+			],
+			"live_availability": 0,
+			"ui_color": "#5BC824",
+			"long_name": "W'Lands Temp Int - Bef Admiralty Rd West",
+			"aliases": [
+				"smrt-169b"
+			]
+		}
+	],
+	"stops": {
+		"SingaporeStop_WoodlandsTempInt_N": {
+			"live_code": "SingaporeStop_WoodlandsTempInt_N",
+			"routes": [
+				"SBSTBuses161",
+				"SBSTBuses168",
+				"SMRTBuses169",
+				"SMRTBuses169A",
+				"SMRTBuses169B",
+				"SMRTBuses178",
+				"SMRTBuses178A",
+				"SMRTBuses187",
+				"SMRTBuses856",
+				"SMRTBuses856A",
+				"SMRTBuses858",
+				"SMRTBuses858A",
+				"SMRTBuses900",
+				"SMRTBuses900A",
+				"SMRTBuses901",
+				"SMRTBuses901M",
+				"SMRTBuses902",
+				"SMRTBuses903",
+				"SMRTBuses903M",
+				"SMRTBuses904",
+				"SMRTBuses911",
+				"SMRTBuses912",
+				"SMRTBuses912A",
+				"SMRTBuses912B",
+				"SMRTBuses912M",
+				"SMRTBuses913",
+				"SMRTBuses913M",
+				"SMRTBuses925",
+				"SMRTBuses925A",
+				"SMRTBuses925M",
+				"SMRTBuses926",
+				"SMRTBuses950",
+				"SMRTBuses960",
+				"SMRTBuses960E",
+				"SMRTBuses961",
+				"SMRTBuses961M",
+				"SMRTBuses962",
+				"SMRTBuses963",
+				"SMRTBuses963R",
+				"SMRTBuses963E",
+				"SMRTBuses964",
+				"SMRTBuses965",
+				"SMRTBuses965A",
+				"SMRTBuses966",
+				"SMRTBuses969"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "W'Lands Temp Int",
+			"coords": [
+				1.437628,
+				103.7865
+			],
+			"stop_code": "46009",
+			"bearing": "NW"
+		},
+		"SingaporeStop_OppBlk872_NE": {
+			"live_code": "SingaporeStop_OppBlk872_NE",
+			"routes": [
+				"SMRTBuses169",
+				"SMRTBuses169A",
+				"SMRTBuses169B"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Blk 872",
+			"coords": [
+				1.444544,
+				103.78921
+			],
+			"stop_code": "46451",
+			"bearing": "NE"
+		},
+		"SingaporeStop_AftWoodlandsIndPkE6_E": {
+			"live_code": "SingaporeStop_AftWoodlandsIndPkE6_E",
+			"routes": [
+				"SMRTBuses169",
+				"SMRTBuses169A",
+				"SMRTBuses169B",
+				"SMRTBuses858",
+				"SMRTBuses858A",
+				"SMRTBuses964"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Aft Woodlands Ind Pk E6",
+			"coords": [
+				1.449644,
+				103.801113
+			],
+			"stop_code": "46481",
+			"bearing": "E"
+		},
+		"SingaporeStop_OppBlk802_NW": {
+			"live_code": "SingaporeStop_OppBlk802_NW",
+			"routes": [
+				"SMRTBuses169",
+				"SMRTBuses169A",
+				"SMRTBuses169B",
+				"SMRTBuses903",
+				"SMRTBuses903M"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Blk 802",
+			"coords": [
+				1.440402,
+				103.785888
+			],
+			"stop_code": "46271",
+			"bearing": "NW"
+		},
+		"SingaporeStop_OppPacificVinitex_NW": {
+			"live_code": "SingaporeStop_OppPacificVinitex_NW",
+			"routes": [
+				"SMRTBuses169",
+				"SMRTBuses169A",
+				"SMRTBuses169B"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Bef W'Lands Ind Pk E7",
+			"coords": [
+				1.452489,
+				103.801788
+			],
+			"stop_code": "46721",
+			"bearing": "NW"
+		},
+		"SingaporeStop_RepublicPolytechnic_NE": {
+			"live_code": "SingaporeStop_RepublicPolytechnic_NE",
+			"routes": [
+				"SMRTBuses169",
+				"SMRTBuses169A",
+				"SMRTBuses169B",
+				"SMRTBuses902"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Republic Poly",
+			"coords": [
+				1.442173,
+				103.785885
+			],
+			"stop_code": "46269",
+			"bearing": "NE"
+		},
+		"SingaporeStop_OppBlk773_NE": {
+			"live_code": "SingaporeStop_OppBlk773_NE",
+			"routes": [
+				"SMRTBuses169",
+				"SMRTBuses169A",
+				"SMRTBuses169B",
+				"SMRTBuses858",
+				"SMRTBuses858A",
+				"SMRTBuses964"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Blk 773",
+			"coords": [
+				1.447969,
+				103.797588
+			],
+			"stop_code": "46471",
+			"bearing": "NE"
+		},
+		"SingaporeStop_OppBlk757ACp_E": {
+			"live_code": "SingaporeStop_OppBlk757ACp_E",
+			"routes": [
+				"SMRTBuses169",
+				"SMRTBuses169A",
+				"SMRTBuses169B",
+				"SMRTBuses858",
+				"SMRTBuses858A"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Blk 757A CP",
+			"coords": [
+				1.446596,
+				103.793597
+			],
+			"stop_code": "46461",
+			"bearing": "E"
+		},
+		"SingaporeStop_BefAdmiraltyRdWest_NE": {
+			"live_code": "SingaporeStop_BefAdmiraltyRdWest_NE",
+			"routes": [
+				"SMRTBuses169",
+				"SMRTBuses169A",
+				"SMRTBuses169B"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Bef Admiralty Rd West",
+			"coords": [
+				1.454702,
+				103.80085
+			],
+			"stop_code": "46711",
+			"bearing": "NE"
+		}
+	},
+	"feeds": [],
+	"status": 0
+}

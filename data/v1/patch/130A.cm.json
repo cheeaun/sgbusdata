@@ -1,0 +1,378 @@
+{
+	"routes": [
+		{
+			"name": "130A",
+			"color": "#5BC824",
+			"text_color": "#FFFFFF",
+			"live_line_code": "SBSTBuses130A",
+			"brand": "SBSTBuses",
+			"mode": "bus",
+			"supports_routeinfo": true,
+			"url": "https://citymapper.com/singapore/l/sbs-transit-130a",
+			"patterns": [
+				{
+					"path": [
+						[
+							1.369891,
+							103.848533
+						],
+						[
+							1.36994,
+							103.84883
+						],
+						[
+							1.37013,
+							103.84917
+						],
+						[
+							1.36897,
+							103.84983
+						],
+						[
+							1.36876,
+							103.84891
+						],
+						[
+							1.36872,
+							103.84824
+						],
+						[
+							1.36875,
+							103.84771
+						],
+						[
+							1.368885,
+							103.846626
+						],
+						[
+							1.36899,
+							103.84578
+						],
+						[
+							1.36893,
+							103.84558
+						],
+						[
+							1.36876,
+							103.84545
+						],
+						[
+							1.36839,
+							103.84538
+						],
+						[
+							1.36753,
+							103.84502
+						],
+						[
+							1.36624,
+							103.84411
+						],
+						[
+							1.36611,
+							103.84411
+						],
+						[
+							1.36568,
+							103.84376
+						],
+						[
+							1.36449,
+							103.84323
+						],
+						[
+							1.36451,
+							103.84316
+						],
+						[
+							1.36374,
+							103.84293
+						],
+						[
+							1.3607,
+							103.84192
+						],
+						[
+							1.361424,
+							103.840329
+						],
+						[
+							1.36187,
+							103.83935
+						],
+						[
+							1.36184,
+							103.83907
+						],
+						[
+							1.3617,
+							103.83884
+						],
+						[
+							1.361009,
+							103.838503
+						],
+						[
+							1.36051,
+							103.83826
+						],
+						[
+							1.35969,
+							103.83985
+						],
+						[
+							1.35831,
+							103.8392
+						],
+						[
+							1.3581,
+							103.83932
+						],
+						[
+							1.35783,
+							103.83937
+						],
+						[
+							1.357532,
+							103.839005
+						],
+						[
+							1.3573,
+							103.83872
+						],
+						[
+							1.35679,
+							103.83852
+						],
+						[
+							1.35661,
+							103.83841
+						],
+						[
+							1.35561,
+							103.83759
+						],
+						[
+							1.3553,
+							103.83721
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_AngMoKioInt_S",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_Blk324_SW",
+							"path_index": 7
+						},
+						{
+							"id": "SingaporeStop_AftBlk304_S",
+							"path_index": 13
+						},
+						{
+							"id": "SingaporeStop_Citycab_W",
+							"path_index": 20
+						},
+						{
+							"id": "SingaporeStop_Semac_S",
+							"path_index": 24
+						},
+						{
+							"id": "SingaporeStop_Blk22ACp_SW",
+							"path_index": 30
+						},
+						{
+							"id": "SingaporeStop_Blk25_SW_1",
+							"path_index": 35
+						}
+					],
+					"name": "towards Blk 25",
+					"id": "130A_0"
+				}
+			],
+			"live_availability": 0,
+			"ui_color": "#5BC824",
+			"long_name": "Ang Mo Kio Int - Blk 25",
+			"aliases": [
+				"sbs-transit-130a"
+			]
+		}
+	],
+	"stops": {
+		"SingaporeStop_Blk324_SW": {
+			"live_code": "SingaporeStop_Blk324_SW",
+			"routes": [
+				"SBSTBuses130",
+				"SBSTBuses130A",
+				"SBSTBuses132",
+				"SBSTBuses133",
+				"GASBuses136",
+				"SBSTBuses165",
+				"SBSTBuses166",
+				"SBSTBuses1N",
+				"SBSTBuses265",
+				"SBSTBuses268",
+				"SBSTBuses268C",
+				"SBSTBuses269",
+				"SBSTBuses269A",
+				"SBSTBuses74",
+				"SBSTBuses74E",
+				"SBSTBuses76",
+				"SBSTBuses88",
+				"SBSTBusesCt8"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Blk 324",
+			"coords": [
+				1.368755,
+				103.84661
+			],
+			"stop_code": "54248",
+			"bearing": "SW"
+		},
+		"SingaporeStop_AftBlk304_S": {
+			"live_code": "SingaporeStop_AftBlk304_S",
+			"routes": [
+				"SBSTBuses13",
+				"SBSTBuses130",
+				"SBSTBuses130A",
+				"SBSTBuses133",
+				"GASBuses136",
+				"SBSTBuses13A",
+				"SBSTBuses74",
+				"SBSTBuses851",
+				"SBSTBuses851E",
+				"SBSTBuses852",
+				"SBSTBuses88"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Blk 307A",
+			"coords": [
+				1.366187,
+				103.844183
+			],
+			"stop_code": "54019",
+			"bearing": "S"
+		},
+		"SingaporeStop_AngMoKioInt_S": {
+			"live_code": "SingaporeStop_AngMoKioInt_S",
+			"routes": [
+				"SBSTBuses130",
+				"SBSTBuses130A",
+				"SBSTBuses133",
+				"SBSTBuses135",
+				"GASBuses136",
+				"SBSTBuses138",
+				"SBSTBuses138A",
+				"SBSTBuses138B",
+				"SBSTBuses166",
+				"SMRTBuses169",
+				"SBSTBuses22",
+				"SBSTBuses24",
+				"SBSTBuses25",
+				"SBSTBuses261",
+				"SBSTBuses262",
+				"SBSTBuses265",
+				"SBSTBuses269",
+				"SBSTBuses269A",
+				"SBSTBuses73",
+				"SBSTBuses73A",
+				"SBSTBuses86"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Ang Mo Kio Int",
+			"coords": [
+				1.369688,
+				103.848567
+			],
+			"stop_code": "54009",
+			"bearing": "S"
+		},
+		"SingaporeStop_Blk22ACp_SW": {
+			"live_code": "SingaporeStop_Blk22ACp_SW",
+			"routes": [
+				"SBSTBuses130",
+				"SBSTBuses130A"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "Blk 22A CP",
+			"coords": [
+				1.357548,
+				103.838992
+			],
+			"stop_code": "53199",
+			"bearing": "SW"
+		},
+		"SingaporeStop_Blk25_SW_1": {
+			"live_code": "SingaporeStop_Blk25_SW_1",
+			"routes": [
+				"SBSTBuses130",
+				"SBSTBuses130A"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "Blk 25",
+			"coords": [
+				1.354963,
+				103.836811
+			],
+			"stop_code": "53189",
+			"bearing": "SW"
+		},
+		"SingaporeStop_Citycab_W": {
+			"live_code": "SingaporeStop_Citycab_W",
+			"routes": [
+				"SBSTBuses130",
+				"SBSTBuses130A",
+				"SBSTBuses162",
+				"SBSTBuses162M",
+				"SBSTBuses410",
+				"SBSTBuses410W",
+				"SBSTBuses52"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "Opp Eunoia JC",
+			"coords": [
+				1.36135,
+				103.840295
+			],
+			"stop_code": "53321",
+			"bearing": "W"
+		},
+		"SingaporeStop_Semac_S": {
+			"live_code": "SingaporeStop_Semac_S",
+			"routes": [
+				"SBSTBuses130",
+				"SBSTBuses130A"
+			],
+			"brands": [
+				"SBSTBuses"
+			],
+			"name": "Aft Nea Reg Off",
+			"coords": [
+				1.360998,
+				103.838527
+			],
+			"stop_code": "53209",
+			"bearing": "S"
+		}
+	},
+	"feeds": [],
+	"status": 0
+}

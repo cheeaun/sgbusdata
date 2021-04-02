@@ -1,0 +1,865 @@
+{
+	"routes": [
+		{
+			"name": "901",
+			"color": "#5BC824",
+			"text_color": "#FFFFFF",
+			"live_line_code": "SMRTBuses901",
+			"brand": "SMRTBuses",
+			"mode": "bus",
+			"supports_routeinfo": true,
+			"url": "https://citymapper.com/singapore/l/smrt-901",
+			"patterns": [
+				{
+					"path": [
+						[
+							1.43776,
+							103.78645
+						],
+						[
+							1.43722,
+							103.78494
+						],
+						[
+							1.43727,
+							103.78483
+						],
+						[
+							1.43743,
+							103.78479
+						],
+						[
+							1.43754,
+							103.78485
+						],
+						[
+							1.43774,
+							103.78543
+						],
+						[
+							1.43787,
+							103.78548
+						],
+						[
+							1.43807,
+							103.78542
+						],
+						[
+							1.43848,
+							103.78659
+						],
+						[
+							1.43847,
+							103.78674
+						],
+						[
+							1.43838,
+							103.78688
+						],
+						[
+							1.43828,
+							103.78697
+						],
+						[
+							1.4378,
+							103.78717
+						],
+						[
+							1.43775,
+							103.78729
+						],
+						[
+							1.43774,
+							103.78737
+						],
+						[
+							1.43821,
+							103.78871
+						],
+						[
+							1.43824,
+							103.78898
+						],
+						[
+							1.43766,
+							103.78912
+						],
+						[
+							1.43733,
+							103.78913
+						],
+						[
+							1.436907,
+							103.789063
+						],
+						[
+							1.4367,
+							103.78903
+						],
+						[
+							1.4363,
+							103.78889
+						],
+						[
+							1.43603,
+							103.78874
+						],
+						[
+							1.43557,
+							103.78862
+						],
+						[
+							1.43525,
+							103.78859
+						],
+						[
+							1.43485,
+							103.78864
+						],
+						[
+							1.43422,
+							103.78849
+						],
+						[
+							1.43377,
+							103.78828
+						],
+						[
+							1.433162,
+							103.788114
+						],
+						[
+							1.43271,
+							103.78799
+						],
+						[
+							1.43245,
+							103.78805
+						],
+						[
+							1.43234,
+							103.7882
+						],
+						[
+							1.43229,
+							103.78834
+						],
+						[
+							1.43227,
+							103.78913
+						],
+						[
+							1.43214,
+							103.78971
+						],
+						[
+							1.43194,
+							103.79014
+						],
+						[
+							1.431823,
+							103.790304
+						],
+						[
+							1.43161,
+							103.7906
+						],
+						[
+							1.4312,
+							103.79101
+						],
+						[
+							1.43062,
+							103.79137
+						],
+						[
+							1.42886,
+							103.79198
+						],
+						[
+							1.42855,
+							103.79212
+						],
+						[
+							1.42812,
+							103.7924
+						],
+						[
+							1.42785,
+							103.79269
+						],
+						[
+							1.42767,
+							103.79296
+						],
+						[
+							1.42748,
+							103.79348
+						],
+						[
+							1.427448,
+							103.793623
+						],
+						[
+							1.42742,
+							103.79375
+						],
+						[
+							1.4274,
+							103.79426
+						],
+						[
+							1.42921,
+							103.79421
+						],
+						[
+							1.42943,
+							103.79425
+						],
+						[
+							1.42972,
+							103.79437
+						],
+						[
+							1.430414,
+							103.794783
+						],
+						[
+							1.43175,
+							103.79558
+						],
+						[
+							1.43189,
+							103.79576
+						],
+						[
+							1.43191,
+							103.79603
+						],
+						[
+							1.431848,
+							103.79644
+						],
+						[
+							1.431593,
+							103.798127
+						],
+						[
+							1.43154,
+							103.79848
+						],
+						[
+							1.43141,
+							103.79871
+						],
+						[
+							1.43036,
+							103.79928
+						],
+						[
+							1.43013,
+							103.7988
+						],
+						[
+							1.42988,
+							103.79839
+						],
+						[
+							1.42946,
+							103.79797
+						],
+						[
+							1.42906,
+							103.79772
+						],
+						[
+							1.428725,
+							103.797606
+						],
+						[
+							1.42856,
+							103.79755
+						],
+						[
+							1.42768,
+							103.79744
+						],
+						[
+							1.42768,
+							103.79707
+						],
+						[
+							1.427501,
+							103.795991
+						],
+						[
+							1.42734,
+							103.79502
+						],
+						[
+							1.42732,
+							103.79399
+						],
+						[
+							1.42734,
+							103.79374
+						],
+						[
+							1.42741,
+							103.79346
+						],
+						[
+							1.42762,
+							103.79291
+						],
+						[
+							1.42778,
+							103.79263
+						],
+						[
+							1.42809,
+							103.7923
+						],
+						[
+							1.42851,
+							103.79199
+						],
+						[
+							1.42883,
+							103.79184
+						],
+						[
+							1.43024,
+							103.79139
+						],
+						[
+							1.43059,
+							103.79123
+						],
+						[
+							1.43113,
+							103.79089
+						],
+						[
+							1.43131,
+							103.79074
+						],
+						[
+							1.431329,
+							103.79066
+						],
+						[
+							1.43137,
+							103.79049
+						],
+						[
+							1.4316,
+							103.79024
+						],
+						[
+							1.43175,
+							103.78998
+						],
+						[
+							1.43183,
+							103.79008
+						],
+						[
+							1.43209,
+							103.78943
+						],
+						[
+							1.43214,
+							103.78911
+						],
+						[
+							1.43217,
+							103.78836
+						],
+						[
+							1.43211,
+							103.78769
+						],
+						[
+							1.43351,
+							103.788044
+						],
+						[
+							1.43377,
+							103.78811
+						],
+						[
+							1.43427,
+							103.78834
+						],
+						[
+							1.43485,
+							103.78847
+						],
+						[
+							1.43575,
+							103.7885
+						],
+						[
+							1.43609,
+							103.7886
+						],
+						[
+							1.43643,
+							103.78878
+						],
+						[
+							1.437005,
+							103.788919
+						],
+						[
+							1.43768,
+							103.78896
+						],
+						[
+							1.43809,
+							103.78887
+						],
+						[
+							1.43809,
+							103.78875
+						],
+						[
+							1.43753,
+							103.78723
+						],
+						[
+							1.43766,
+							103.78714
+						],
+						[
+							1.43818,
+							103.78695
+						],
+						[
+							1.43831,
+							103.78687
+						],
+						[
+							1.4384,
+							103.78673
+						],
+						[
+							1.4384,
+							103.78657
+						],
+						[
+							1.43806,
+							103.78562
+						],
+						[
+							1.43793,
+							103.78567
+						],
+						[
+							1.43792,
+							103.78583
+						],
+						[
+							1.43818,
+							103.78659
+						],
+						[
+							1.43813,
+							103.78672
+						],
+						[
+							1.43794,
+							103.78677
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_WoodlandsTempInt_N",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_Blk892CCp_S",
+							"path_index": 19
+						},
+						{
+							"id": "SingaporeStop_Blk511_S",
+							"path_index": 28
+						},
+						{
+							"id": "SingaporeStop_WoodgrovePrSch_SE",
+							"path_index": 36
+						},
+						{
+							"id": "SingaporeStop_WlandsSthStnExit2_NE",
+							"path_index": 46
+						},
+						{
+							"id": "SingaporeStop_OppBlk583_NE",
+							"path_index": 52
+						},
+						{
+							"id": "SingaporeStop_Blk554_E",
+							"path_index": 56
+						},
+						{
+							"id": "SingaporeStop_OppBlk575_S",
+							"path_index": 57
+						},
+						{
+							"id": "SingaporeStop_OppWoodgroveSecSch_SW",
+							"path_index": 65
+						},
+						{
+							"id": "SingaporeStop_OppBlk589_W",
+							"path_index": 69
+						},
+						{
+							"id": "SingaporeStop_OppBlk540_NW",
+							"path_index": 76
+						},
+						{
+							"id": "SingaporeStop_OppBlk507_NW",
+							"path_index": 83
+						},
+						{
+							"id": "SingaporeStop_Blk370_N",
+							"path_index": 92
+						},
+						{
+							"id": "SingaporeStop_OppBlk892CCp_W",
+							"path_index": 99
+						},
+						{
+							"id": "SingaporeStop_WoodlandsTempInt_N",
+							"path_index": 114
+						}
+					],
+					"name": "towards W'Lands Temp Int",
+					"id": "901_0",
+					"is_circular": true
+				}
+			],
+			"live_availability": 0,
+			"ui_color": "#5BC824",
+			"long_name": "W'Lands Temp Int - W'Lands Temp Int",
+			"aliases": [
+				"smrt-901"
+			]
+		}
+	],
+	"stops": {
+		"SingaporeStop_WoodlandsTempInt_N": {
+			"live_code": "SingaporeStop_WoodlandsTempInt_N",
+			"routes": [
+				"SBSTBuses161",
+				"SBSTBuses168",
+				"SMRTBuses169",
+				"SMRTBuses169A",
+				"SMRTBuses169B",
+				"SMRTBuses178",
+				"SMRTBuses178A",
+				"SMRTBuses187",
+				"SMRTBuses856",
+				"SMRTBuses856A",
+				"SMRTBuses858",
+				"SMRTBuses858A",
+				"SMRTBuses900",
+				"SMRTBuses900A",
+				"SMRTBuses901",
+				"SMRTBuses901M",
+				"SMRTBuses902",
+				"SMRTBuses903",
+				"SMRTBuses903M",
+				"SMRTBuses904",
+				"SMRTBuses911",
+				"SMRTBuses912",
+				"SMRTBuses912A",
+				"SMRTBuses912B",
+				"SMRTBuses912M",
+				"SMRTBuses913",
+				"SMRTBuses913M",
+				"SMRTBuses925",
+				"SMRTBuses925A",
+				"SMRTBuses925M",
+				"SMRTBuses926",
+				"SMRTBuses950",
+				"SMRTBuses960",
+				"SMRTBuses960E",
+				"SMRTBuses961",
+				"SMRTBuses961M",
+				"SMRTBuses962",
+				"SMRTBuses963",
+				"SMRTBuses963R",
+				"SMRTBuses963E",
+				"SMRTBuses964",
+				"SMRTBuses965",
+				"SMRTBuses965A",
+				"SMRTBuses966",
+				"SMRTBuses969"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "W'Lands Temp Int",
+			"coords": [
+				1.437628,
+				103.7865
+			],
+			"stop_code": "46009",
+			"bearing": "NW"
+		},
+		"SingaporeStop_OppWoodgroveSecSch_SW": {
+			"live_code": "SingaporeStop_OppWoodgroveSecSch_SW",
+			"routes": [
+				"SMRTBuses901"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Woodgrove Sec Sch",
+			"coords": [
+				1.428706,
+				103.797663
+			],
+			"stop_code": "47539",
+			"bearing": "SW"
+		},
+		"SingaporeStop_OppBlk892CCp_W": {
+			"live_code": "SingaporeStop_OppBlk892CCp_W",
+			"routes": [
+				"SBSTBuses161",
+				"SBSTBuses168",
+				"SMRTBuses901",
+				"SMRTBuses901M",
+				"SMRTBuses912",
+				"SMRTBuses912A",
+				"SMRTBuses962"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "W'Lands Stn Exit 4",
+			"coords": [
+				1.437022,
+				103.788849
+			],
+			"stop_code": "46639",
+			"bearing": "W"
+		},
+		"SingaporeStop_OppBlk583_NE": {
+			"live_code": "SingaporeStop_OppBlk583_NE",
+			"routes": [
+				"SMRTBuses901",
+				"SMRTBuses901M"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Blk 583",
+			"coords": [
+				1.430462,
+				103.794702
+			],
+			"stop_code": "47501",
+			"bearing": "NE"
+		},
+		"SingaporeStop_OppBlk575_S": {
+			"live_code": "SingaporeStop_OppBlk575_S",
+			"routes": [
+				"SMRTBuses901",
+				"SMRTBuses901M"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Blk 575",
+			"coords": [
+				1.431653,
+				103.798136
+			],
+			"stop_code": "47521",
+			"bearing": "SE"
+		},
+		"SingaporeStop_Blk892CCp_S": {
+			"live_code": "SingaporeStop_Blk892CCp_S",
+			"routes": [
+				"SBSTBuses161",
+				"SBSTBuses168",
+				"SMRTBuses901",
+				"SMRTBuses901M",
+				"SMRTBuses912",
+				"SMRTBuses912A",
+				"SMRTBuses962"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "W'Lands Stn Exit 5",
+			"coords": [
+				1.436893,
+				103.789153
+			],
+			"stop_code": "46631",
+			"bearing": "S"
+		},
+		"SingaporeStop_Blk554_E": {
+			"live_code": "SingaporeStop_Blk554_E",
+			"routes": [
+				"SMRTBuses901",
+				"SMRTBuses901M"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Blk 554",
+			"coords": [
+				1.431904,
+				103.796448
+			],
+			"stop_code": "47511",
+			"bearing": "E"
+		},
+		"SingaporeStop_OppBlk589_W": {
+			"live_code": "SingaporeStop_OppBlk589_W",
+			"routes": [
+				"TTSBuses665",
+				"SMRTBuses901"
+			],
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"name": "Opp Blk 589",
+			"coords": [
+				1.427428,
+				103.796003
+			],
+			"stop_code": "46999",
+			"bearing": "W"
+		},
+		"SingaporeStop_OppBlk540_NW": {
+			"live_code": "SingaporeStop_OppBlk540_NW",
+			"routes": [
+				"TTSBuses665",
+				"SMRTBuses901",
+				"SMRTBuses901M"
+			],
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"name": "W'lands Sth Stn Exit 1",
+			"coords": [
+				1.428023,
+				103.792213
+			],
+			"stop_code": "46989",
+			"bearing": "NW"
+		},
+		"SingaporeStop_WoodgrovePrSch_SE": {
+			"live_code": "SingaporeStop_WoodgrovePrSch_SE",
+			"routes": [
+				"SMRTBuses901",
+				"SMRTBuses901M"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Woodgrove Pr Sch",
+			"coords": [
+				1.431876,
+				103.790342
+			],
+			"stop_code": "46971",
+			"bearing": "SE"
+		},
+		"SingaporeStop_OppBlk507_NW": {
+			"live_code": "SingaporeStop_OppBlk507_NW",
+			"routes": [
+				"SMRTBuses901",
+				"SMRTBuses901M"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Blk 507",
+			"coords": [
+				1.431306,
+				103.790654
+			],
+			"stop_code": "46979",
+			"bearing": "NW"
+		},
+		"SingaporeStop_Blk370_N": {
+			"live_code": "SingaporeStop_Blk370_N",
+			"routes": [
+				"SBSTBuses161",
+				"SBSTBuses168",
+				"SMRTBuses901",
+				"SMRTBuses901M",
+				"SMRTBuses912",
+				"SMRTBuses912B",
+				"SMRTBuses912M"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Bef W'Lands Stn Exit 7",
+			"coords": [
+				1.433526,
+				103.787983
+			],
+			"stop_code": "46339",
+			"bearing": "NW"
+		},
+		"SingaporeStop_Blk511_S": {
+			"live_code": "SingaporeStop_Blk511_S",
+			"routes": [
+				"SBSTBuses161",
+				"SBSTBuses168",
+				"SMRTBuses901",
+				"SMRTBuses901M",
+				"SMRTBuses912",
+				"SMRTBuses912B",
+				"SMRTBuses912M"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Blk 511",
+			"coords": [
+				1.433148,
+				103.788164
+			],
+			"stop_code": "46331",
+			"bearing": "S"
+		},
+		"SingaporeStop_WlandsSthStnExit2_NE": {
+			"live_code": "SingaporeStop_WlandsSthStnExit2_NE",
+			"routes": [
+				"TTSBuses665",
+				"SMRTBuses901",
+				"SMRTBuses901M"
+			],
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"name": "W'lands Sth Stn Exit 2",
+			"coords": [
+				1.42742,
+				103.793617
+			],
+			"stop_code": "46981",
+			"bearing": "NE"
+		}
+	},
+	"feeds": [],
+	"status": 0
+}

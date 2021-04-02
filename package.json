@@ -1,0 +1,28 @@
+{
+  "name": "sgbusdata",
+  "version": "1.0.0",
+  "description": "Singapore Bus data",
+  "scripts": {
+    "cleanup": "del data/v1/raw/services/** && del data/v1/patch/*.cm.json",
+    "fetch": "node scripts/fetch-bus-stops && node scripts/fetch-bus-services && node scripts/fetch-bus-services-routes",
+    "datamall": "node scripts/fetch-bus-stops-datamall && node scripts/fetch-bus-routes-datamall",
+    "patch": "node scripts/patch-missing-routes && node scripts/patch-multiline-routes && node scripts/patch-bus-stop-names",
+    "generate": "node scripts/generate-data && node scripts/generate-data.firstlast",
+    "build": "npm run cleanup && npm run fetch && npm run datamall && npm run patch && npm run generate"
+  },
+  "author": "Lim Chee Aun <cheeaun@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/polyline": "~1.1.1",
+    "@tmcw/togeojson": "~4.4.0",
+    "@turf/helpers": "~6.3.0",
+    "del-cli": "~3.0.1",
+    "dotenv": "~8.2.0",
+    "fast-xml-parser": "~3.19.0",
+    "fastest-validator": "~1.10.1",
+    "form-data": "~4.0.0",
+    "got": "~11.8.2",
+    "simplify-js": "~1.2.4",
+    "xmldom": "~0.5.0"
+  }
+}

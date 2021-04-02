@@ -1,0 +1,291 @@
+{
+	"failedXMLs": [],
+	"failedKMLs": [
+		{
+			"fileName": "118B-1.kml",
+			"e": {
+				"name": "HTTPError",
+				"timings": {
+					"start": 1617363952632,
+					"socket": 1617363952632,
+					"lookup": 1617363952632,
+					"connect": 1617363952638,
+					"secureConnect": 1617363952645,
+					"upload": 1617363952645,
+					"response": 1617363952666,
+					"end": 1617363952666,
+					"phases": {
+						"wait": 0,
+						"dns": 0,
+						"tcp": 6,
+						"tls": 7,
+						"request": 0,
+						"firstByte": 21,
+						"download": 0,
+						"total": 34
+					}
+				}
+			}
+		},
+		{
+			"fileName": "135-2.kml",
+			"e": {
+				"name": "HTTPError",
+				"timings": {
+					"start": 1617363980780,
+					"socket": 1617363980780,
+					"lookup": 1617363980780,
+					"connect": 1617363980786,
+					"secureConnect": 1617363980792,
+					"upload": 1617363980792,
+					"response": 1617363980817,
+					"end": 1617363980817,
+					"phases": {
+						"wait": 0,
+						"dns": 0,
+						"tcp": 6,
+						"tls": 6,
+						"request": 0,
+						"firstByte": 25,
+						"download": 0,
+						"total": 37
+					}
+				}
+			}
+		},
+		{
+			"fileName": "169B-1.kml",
+			"e": {
+				"name": "HTTPError",
+				"timings": {
+					"start": 1617364043144,
+					"socket": 1617364043144,
+					"lookup": 1617364043144,
+					"connect": 1617364043153,
+					"secureConnect": 1617364043159,
+					"upload": 1617364043159,
+					"response": 1617364043183,
+					"end": 1617364043183,
+					"phases": {
+						"wait": 0,
+						"dns": 0,
+						"tcp": 9,
+						"tls": 6,
+						"request": 0,
+						"firstByte": 24,
+						"download": 0,
+						"total": 39
+					}
+				}
+			}
+		},
+		{
+			"fileName": "307-2.kml",
+			"e": {
+				"name": "HTTPError",
+				"timings": {
+					"start": 1617364188286,
+					"socket": 1617364188286,
+					"lookup": 1617364188287,
+					"connect": 1617364188294,
+					"secureConnect": 1617364188301,
+					"upload": 1617364188301,
+					"response": 1617364188325,
+					"end": 1617364188325,
+					"phases": {
+						"wait": 0,
+						"dns": 1,
+						"tcp": 7,
+						"tls": 7,
+						"request": 0,
+						"firstByte": 24,
+						"download": 0,
+						"total": 39
+					}
+				}
+			}
+		},
+		{
+			"fileName": "33A-1.kml",
+			"e": {
+				"name": "HTTPError",
+				"timings": {
+					"start": 1617364205218,
+					"socket": 1617364205218,
+					"lookup": 1617364205219,
+					"connect": 1617364205224,
+					"secureConnect": 1617364205233,
+					"upload": 1617364205233,
+					"response": 1617364205256,
+					"end": 1617364205256,
+					"phases": {
+						"wait": 0,
+						"dns": 1,
+						"tcp": 5,
+						"tls": 9,
+						"request": 0,
+						"firstByte": 23,
+						"download": 0,
+						"total": 38
+					}
+				}
+			}
+		},
+		{
+			"fileName": "34B-1.kml",
+			"e": {
+				"name": "HTTPError",
+				"timings": {
+					"start": 1617364209648,
+					"socket": 1617364209648,
+					"lookup": 1617364209648,
+					"connect": 1617364209655,
+					"secureConnect": 1617364209663,
+					"upload": 1617364209663,
+					"response": 1617364209687,
+					"end": 1617364209687,
+					"phases": {
+						"wait": 0,
+						"dns": 0,
+						"tcp": 7,
+						"tls": 8,
+						"request": 0,
+						"firstByte": 24,
+						"download": 0,
+						"total": 39
+					}
+				}
+			}
+		},
+		{
+			"fileName": "382A-1.kml",
+			"e": {
+				"name": "HTTPError",
+				"timings": {
+					"start": 1617364228519,
+					"socket": 1617364228519,
+					"lookup": 1617364228520,
+					"connect": 1617364228561,
+					"secureConnect": 1617364228600,
+					"upload": 1617364228600,
+					"response": 1617364228693,
+					"end": 1617364228693,
+					"phases": {
+						"wait": 0,
+						"dns": 1,
+						"tcp": 41,
+						"tls": 39,
+						"request": 0,
+						"firstByte": 93,
+						"download": 0,
+						"total": 174
+					}
+				}
+			}
+		},
+		{
+			"fileName": "58B-1.kml",
+			"e": {
+				"name": "HTTPError",
+				"timings": {
+					"start": 1617364306206,
+					"socket": 1617364306206,
+					"lookup": 1617364306207,
+					"connect": 1617364306245,
+					"secureConnect": 1617364306284,
+					"upload": 1617364306284,
+					"response": 1617364306377,
+					"end": 1617364306378,
+					"phases": {
+						"wait": 0,
+						"dns": 1,
+						"tcp": 38,
+						"tls": 39,
+						"request": 0,
+						"firstByte": 93,
+						"download": 1,
+						"total": 172
+					}
+				}
+			}
+		},
+		{
+			"fileName": "67A-1.kml",
+			"e": {
+				"name": "HTTPError",
+				"timings": {
+					"start": 1617364331026,
+					"socket": 1617364331026,
+					"lookup": 1617364331026,
+					"connect": 1617364331065,
+					"secureConnect": 1617364331102,
+					"upload": 1617364331102,
+					"response": 1617364331195,
+					"end": 1617364331195,
+					"phases": {
+						"wait": 0,
+						"dns": 0,
+						"tcp": 39,
+						"tls": 37,
+						"request": 0,
+						"firstByte": 93,
+						"download": 0,
+						"total": 169
+					}
+				}
+			}
+		},
+		{
+			"fileName": "856A-1.kml",
+			"e": {
+				"name": "HTTPError",
+				"timings": {
+					"start": 1617364404971,
+					"socket": 1617364404971,
+					"lookup": 1617364404972,
+					"connect": 1617364404978,
+					"secureConnect": 1617364404985,
+					"upload": 1617364404985,
+					"response": 1617364405008,
+					"end": 1617364405008,
+					"phases": {
+						"wait": 0,
+						"dns": 1,
+						"tcp": 6,
+						"tls": 7,
+						"request": 0,
+						"firstByte": 23,
+						"download": 0,
+						"total": 37
+					}
+				}
+			}
+		},
+		{
+			"fileName": "901M-1.kml",
+			"e": {
+				"name": "HTTPError",
+				"timings": {
+					"start": 1617364440130,
+					"socket": 1617364440130,
+					"lookup": 1617364440132,
+					"connect": 1617364440172,
+					"secureConnect": 1617364440212,
+					"upload": 1617364440212,
+					"response": 1617364440310,
+					"end": 1617364440311,
+					"phases": {
+						"wait": 0,
+						"dns": 2,
+						"tcp": 40,
+						"tls": 40,
+						"request": 0,
+						"firstByte": 98,
+						"download": 1,
+						"total": 181
+					}
+				}
+			}
+		}
+	]
+}

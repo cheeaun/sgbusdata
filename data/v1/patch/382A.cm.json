@@ -1,0 +1,281 @@
+{
+	"routes": [
+		{
+			"name": "382A",
+			"color": "#5BC824",
+			"text_color": "#FFFFFF",
+			"live_line_code": "GASBuses382A",
+			"brand": "GASBuses",
+			"mode": "bus",
+			"supports_routeinfo": true,
+			"url": "https://citymapper.com/singapore/l/go-ahead-singapore-382a",
+			"patterns": [
+				{
+					"path": [
+						[
+							1.40362,
+							103.90239
+						],
+						[
+							1.40349,
+							103.90232
+						],
+						[
+							1.40307,
+							103.90304
+						],
+						[
+							1.40139,
+							103.90205
+						],
+						[
+							1.401872,
+							103.900892
+						],
+						[
+							1.4025,
+							103.89938
+						],
+						[
+							1.40279,
+							103.898493
+						],
+						[
+							1.40316,
+							103.89736
+						],
+						[
+							1.403463,
+							103.895532
+						],
+						[
+							1.403819,
+							103.893383
+						],
+						[
+							1.4041,
+							103.89145
+						],
+						[
+							1.40408,
+							103.89137
+						],
+						[
+							1.403577,
+							103.891163
+						],
+						[
+							1.4029,
+							103.89107
+						],
+						[
+							1.40277,
+							103.89113
+						],
+						[
+							1.40271,
+							103.89118
+						],
+						[
+							1.40264,
+							103.89134
+						],
+						[
+							1.40233,
+							103.89359
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_PunggolTempInt_E",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_OppBlk272C_W",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_OppBlk268D_W",
+							"path_index": 6
+						},
+						{
+							"id": "SingaporeStop_Blk218_W",
+							"path_index": 8
+						},
+						{
+							"id": "SingaporeStop_Blk227A_W",
+							"path_index": 9
+						},
+						{
+							"id": "SingaporeStop_BeforeSumangLane_SE",
+							"path_index": 12
+						},
+						{
+							"id": "SingaporeStop_Blk226A_NE",
+							"path_index": 17
+						}
+					],
+					"name": "towards Blk 226A",
+					"id": "382A_0"
+				}
+			],
+			"live_availability": 0,
+			"ui_color": "#5BC824",
+			"long_name": "Punggol Temp Int - Blk 226A",
+			"aliases": [
+				"go-ahead-singapore-382a"
+			]
+		}
+	],
+	"stops": {
+		"SingaporeStop_OppBlk268D_W": {
+			"live_code": "SingaporeStop_OppBlk268D_W",
+			"routes": [
+				"GASBuses119",
+				"GASBuses381",
+				"GASBuses382",
+				"GASBuses382A",
+				"GASBuses382G"
+			],
+			"brands": [
+				"GASBuses"
+			],
+			"name": "Opp Blk 268D",
+			"coords": [
+				1.402865,
+				103.898518
+			],
+			"bearing": "W"
+		},
+		"SingaporeStop_PunggolTempInt_E": {
+			"live_code": "SingaporeStop_PunggolTempInt_E",
+			"routes": [
+				"SBSTBuses117",
+				"GASBuses118",
+				"GASBuses119",
+				"GASBuses136",
+				"GASBuses3",
+				"GASBuses34",
+				"GASBuses34A",
+				"GASBuses381",
+				"GASBuses382",
+				"GASBuses382A",
+				"GASBuses382G",
+				"GASBuses382W",
+				"GASBuses384",
+				"GASBuses386",
+				"GASBuses386A",
+				"GASBuses43",
+				"GASBuses43M",
+				"GASBuses43E",
+				"SBSTBuses50",
+				"GASBuses62",
+				"GASBuses62A",
+				"GASBuses82",
+				"GASBuses83",
+				"GASBuses84",
+				"GASBuses85"
+			],
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"name": "Punggol Temp Int",
+			"coords": [
+				1.403706,
+				103.902243
+			],
+			"stop_code": "65009",
+			"bearing": "E"
+		},
+		"SingaporeStop_Blk226A_NE": {
+			"live_code": "SingaporeStop_Blk226A_NE",
+			"routes": [
+				"GASBuses382",
+				"GASBuses382A",
+				"GASBuses382G"
+			],
+			"brands": [
+				"GASBuses"
+			],
+			"name": "Blk 226A",
+			"coords": [
+				1.4024,
+				103.8936
+			],
+			"bearing": "NE"
+		},
+		"SingaporeStop_OppBlk272C_W": {
+			"live_code": "SingaporeStop_OppBlk272C_W",
+			"routes": [
+				"GASBuses119",
+				"GASBuses381",
+				"GASBuses382",
+				"GASBuses382A",
+				"GASBuses382G"
+			],
+			"brands": [
+				"GASBuses"
+			],
+			"name": "Opp Blk 272C",
+			"coords": [
+				1.401947,
+				103.900923
+			],
+			"bearing": "W"
+		},
+		"SingaporeStop_BeforeSumangLane_SE": {
+			"live_code": "SingaporeStop_BeforeSumangLane_SE",
+			"routes": [
+				"GASBuses382",
+				"GASBuses382A",
+				"GASBuses382G"
+			],
+			"brands": [
+				"GASBuses"
+			],
+			"name": "Before Sumang Lane",
+			"coords": [
+				1.403562,
+				103.8912
+			],
+			"bearing": "SE"
+		},
+		"SingaporeStop_Blk227A_W": {
+			"live_code": "SingaporeStop_Blk227A_W",
+			"routes": [
+				"GASBuses382",
+				"GASBuses382A",
+				"GASBuses382G"
+			],
+			"brands": [
+				"GASBuses"
+			],
+			"name": "Blk 227A",
+			"coords": [
+				1.40374,
+				103.89337
+			],
+			"bearing": "W"
+		},
+		"SingaporeStop_Blk218_W": {
+			"live_code": "SingaporeStop_Blk218_W",
+			"routes": [
+				"GASBuses382",
+				"GASBuses382A",
+				"GASBuses382G"
+			],
+			"brands": [
+				"GASBuses"
+			],
+			"name": "BLK 218",
+			"coords": [
+				1.403479,
+				103.895535
+			],
+			"bearing": "W"
+		}
+	},
+	"feeds": [],
+	"status": 0
+}

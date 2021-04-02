@@ -1,0 +1,455 @@
+{
+	"routes": [
+		{
+			"name": "856A",
+			"color": "#5BC824",
+			"text_color": "#FFFFFF",
+			"live_line_code": "SMRTBuses856A",
+			"brand": "SMRTBuses",
+			"mode": "bus",
+			"supports_routeinfo": true,
+			"url": "https://citymapper.com/singapore/l/smrt-856a",
+			"patterns": [
+				{
+					"path": [
+						[
+							1.43776,
+							103.78645
+						],
+						[
+							1.43722,
+							103.78494
+						],
+						[
+							1.43727,
+							103.78483
+						],
+						[
+							1.43743,
+							103.78479
+						],
+						[
+							1.43754,
+							103.78485
+						],
+						[
+							1.43774,
+							103.78543
+						],
+						[
+							1.43787,
+							103.78548
+						],
+						[
+							1.438,
+							103.78545
+						],
+						[
+							1.43775,
+							103.78475
+						],
+						[
+							1.43761,
+							103.78465
+						],
+						[
+							1.43746,
+							103.78462
+						],
+						[
+							1.43734,
+							103.78464
+						],
+						[
+							1.43591,
+							103.78518
+						],
+						[
+							1.43535,
+							103.78356
+						],
+						[
+							1.43517,
+							103.78324
+						],
+						[
+							1.43345,
+							103.78147
+						],
+						[
+							1.433259,
+							103.781212
+						],
+						[
+							1.43314,
+							103.78105
+						],
+						[
+							1.43287,
+							103.78061
+						],
+						[
+							1.43266,
+							103.78018
+						],
+						[
+							1.43231,
+							103.77926
+						],
+						[
+							1.43219,
+							103.77868
+						],
+						[
+							1.432185,
+							103.778223
+						],
+						[
+							1.432141,
+							103.774596
+						],
+						[
+							1.43212,
+							103.77281
+						],
+						[
+							1.43499,
+							103.77232
+						],
+						[
+							1.435552,
+							103.772152
+						],
+						[
+							1.43616,
+							103.77197
+						],
+						[
+							1.43653,
+							103.77177
+						],
+						[
+							1.43744,
+							103.77111
+						],
+						[
+							1.4377,
+							103.77105
+						],
+						[
+							1.438046,
+							103.771039
+						],
+						[
+							1.44192,
+							103.77091
+						],
+						[
+							1.44198,
+							103.77095
+						],
+						[
+							1.44272,
+							103.77094
+						],
+						[
+							1.443,
+							103.77082
+						],
+						[
+							1.44332,
+							103.77048
+						],
+						[
+							1.44339,
+							103.77022
+						],
+						[
+							1.44332,
+							103.76988
+						],
+						[
+							1.44312,
+							103.7696
+						],
+						[
+							1.44299,
+							103.76949
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_WoodlandsTempInt_N",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_Blk347_W",
+							"path_index": 16
+						},
+						{
+							"id": "SingaporeStop_Blk320_W",
+							"path_index": 22
+						},
+						{
+							"id": "SingaporeStop_OppMarsilingStn_NW",
+							"path_index": 23
+						},
+						{
+							"id": "SingaporeStop_OppBlk144_NW",
+							"path_index": 26
+						},
+						{
+							"id": "SingaporeStop_WoodlandsTownGdn_NW",
+							"path_index": 31
+						},
+						{
+							"id": "SingaporeStop_WoodlandsTrainCheckpt_SE",
+							"path_index": 40
+						}
+					],
+					"name": "towards W'Lands Train Checkpt",
+					"id": "856A_0"
+				}
+			],
+			"live_availability": 0,
+			"ui_color": "#5BC824",
+			"long_name": "W'Lands Temp Int - W'Lands Train Checkpt",
+			"aliases": [
+				"smrt-856a"
+			]
+		}
+	],
+	"stops": {
+		"SingaporeStop_OppMarsilingStn_NW": {
+			"live_code": "SingaporeStop_OppMarsilingStn_NW",
+			"routes": [
+				"SMRTBuses187",
+				"SMRTBuses856",
+				"SMRTBuses856A",
+				"SMRTBuses925",
+				"SMRTBuses925A",
+				"SMRTBuses925M",
+				"SMRTBuses926",
+				"SMRTBuses950",
+				"SMRTBuses960",
+				"SMRTBuses960E",
+				"SMRTBuses961",
+				"SMRTBuses961M",
+				"SMRTBuses963",
+				"SMRTBuses963R",
+				"SMRTBuses963E",
+				"SMRTBuses966"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Marsiling Stn",
+			"coords": [
+				1.432082,
+				103.774597
+			],
+			"stop_code": "46529",
+			"bearing": "NW"
+		},
+		"SingaporeStop_WoodlandsTempInt_N": {
+			"live_code": "SingaporeStop_WoodlandsTempInt_N",
+			"routes": [
+				"SBSTBuses161",
+				"SBSTBuses168",
+				"SMRTBuses169",
+				"SMRTBuses169A",
+				"SMRTBuses169B",
+				"SMRTBuses178",
+				"SMRTBuses178A",
+				"SMRTBuses187",
+				"SMRTBuses856",
+				"SMRTBuses856A",
+				"SMRTBuses858",
+				"SMRTBuses858A",
+				"SMRTBuses900",
+				"SMRTBuses900A",
+				"SMRTBuses901",
+				"SMRTBuses901M",
+				"SMRTBuses902",
+				"SMRTBuses903",
+				"SMRTBuses903M",
+				"SMRTBuses904",
+				"SMRTBuses911",
+				"SMRTBuses912",
+				"SMRTBuses912A",
+				"SMRTBuses912B",
+				"SMRTBuses912M",
+				"SMRTBuses913",
+				"SMRTBuses913M",
+				"SMRTBuses925",
+				"SMRTBuses925A",
+				"SMRTBuses925M",
+				"SMRTBuses926",
+				"SMRTBuses950",
+				"SMRTBuses960",
+				"SMRTBuses960E",
+				"SMRTBuses961",
+				"SMRTBuses961M",
+				"SMRTBuses962",
+				"SMRTBuses963",
+				"SMRTBuses963R",
+				"SMRTBuses963E",
+				"SMRTBuses964",
+				"SMRTBuses965",
+				"SMRTBuses965A",
+				"SMRTBuses966",
+				"SMRTBuses969"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "W'Lands Temp Int",
+			"coords": [
+				1.437628,
+				103.7865
+			],
+			"stop_code": "46009",
+			"bearing": "NW"
+		},
+		"SingaporeStop_WoodlandsTrainCheckpt_SE": {
+			"live_code": "SingaporeStop_WoodlandsTrainCheckpt_SE",
+			"routes": [
+				"SBSTBuses170",
+				"SBSTBuses170A",
+				"SMRTBuses178",
+				"SMRTBuses856",
+				"SMRTBuses856A",
+				"SMRTBuses903",
+				"SMRTBuses911",
+				"SMRTBuses912",
+				"SMRTBuses912B",
+				"SMRTBuses950",
+				"SMRTBusesNr2"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "W'Lands Train Checkpt",
+			"coords": [
+				1.442889,
+				103.769338
+			],
+			"stop_code": "46069",
+			"bearing": "SE"
+		},
+		"SingaporeStop_Blk320_W": {
+			"live_code": "SingaporeStop_Blk320_W",
+			"routes": [
+				"SMRTBuses187",
+				"SMRTBuses856",
+				"SMRTBuses856A",
+				"SMRTBuses925",
+				"SMRTBuses925A",
+				"SMRTBuses925M",
+				"SMRTBuses926",
+				"SMRTBuses950",
+				"SMRTBuses960",
+				"SMRTBuses960E",
+				"SMRTBuses961",
+				"SMRTBuses961M",
+				"SMRTBuses963",
+				"SMRTBuses963R",
+				"SMRTBuses963E",
+				"SMRTBuses966"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Blk 320",
+			"coords": [
+				1.4321,
+				103.778224
+			],
+			"stop_code": "46539",
+			"bearing": "W"
+		},
+		"SingaporeStop_Blk347_W": {
+			"live_code": "SingaporeStop_Blk347_W",
+			"routes": [
+				"SMRTBuses187",
+				"SMRTBuses856",
+				"SMRTBuses856A",
+				"SMRTBuses925",
+				"SMRTBuses925A",
+				"SMRTBuses925M",
+				"SMRTBuses926",
+				"SMRTBuses950",
+				"SMRTBuses960",
+				"SMRTBuses960E",
+				"SMRTBuses961",
+				"SMRTBuses961M",
+				"SMRTBuses963",
+				"SMRTBuses963R",
+				"SMRTBuses963E",
+				"SMRTBuses966"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Blk 347",
+			"coords": [
+				1.433198,
+				103.781257
+			],
+			"stop_code": "46549",
+			"bearing": "W"
+		},
+		"SingaporeStop_OppBlk144_NW": {
+			"live_code": "SingaporeStop_OppBlk144_NW",
+			"routes": [
+				"SBSTBuses160",
+				"SMRTBuses178",
+				"SMRTBuses856",
+				"SMRTBuses856A",
+				"SMRTBuses912",
+				"SMRTBuses912B",
+				"SMRTBuses913M",
+				"SMRTBuses950"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Opp Blk 144",
+			"coords": [
+				1.435548,
+				103.772138
+			],
+			"stop_code": "46519",
+			"bearing": "N"
+		},
+		"SingaporeStop_WoodlandsTownGdn_NW": {
+			"live_code": "SingaporeStop_WoodlandsTownGdn_NW",
+			"routes": [
+				"SBSTBuses160",
+				"SMRTBuses178",
+				"SMRTBuses856",
+				"SMRTBuses856A",
+				"SMRTBuses911",
+				"SMRTBuses912",
+				"SMRTBuses912B",
+				"SMRTBuses950"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Marsiling Pk",
+			"coords": [
+				1.438044,
+				103.770964
+			],
+			"stop_code": "46509",
+			"bearing": "NW"
+		}
+	},
+	"feeds": [],
+	"status": 0
+}

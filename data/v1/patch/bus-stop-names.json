@@ -1,0 +1,1792 @@
+[
+	{
+		"number": "02101",
+		"name": "AFT S'PORE FLYER",
+		"newName": "Aft S'pore Flyer"
+	},
+	{
+		"number": "03071",
+		"name": "OPP SO SOFITEL S'PORE",
+		"newName": "Opp SO Sofitel S'pore"
+	},
+	{
+		"number": "04019",
+		"name": "OPP BENCOOLEN STN EXIT B",
+		"newName": "Opp Bencoolen Stn Exit B"
+	},
+	{
+		"number": "04029",
+		"name": "BEF BENCOOLEN STN EXIT A",
+		"newName": "Bef Bencoolen Stn Exit A"
+	},
+	{
+		"number": "04121",
+		"name": "SMU",
+		"newName": "SMU"
+	},
+	{
+		"number": "04179",
+		"name": "AFT BRAS BASAH STN EXIT A",
+		"newName": "Aft Bras Basah Stn Exit A"
+	},
+	{
+		"number": "04331",
+		"name": "BEF FORT CANNING STN",
+		"newName": "Bef Fort Canning Stn"
+	},
+	{
+		"number": "04339",
+		"name": "FORT CANNING STN EXIT B",
+		"newName": "Fort Canning Stn Exit B"
+	},
+	{
+		"number": "05431",
+		"name": "TOWER 15",
+		"newName": "Tower 15"
+	},
+	{
+		"number": "06049",
+		"name": "BEF OUTRAM FLYOVER",
+		"newName": "Bef Outram Flyover"
+	},
+	{
+		"number": "07351",
+		"name": "ARC 380",
+		"newName": "Arc 380"
+	},
+	{
+		"number": "07359",
+		"name": "OPP ARC 380",
+		"newName": "Opp Arc 380"
+	},
+	{
+		"number": "07517",
+		"name": "IBIS S'PORE ON BENCOOLEN",
+		"newName": "ibis S'pore on Bencoolen"
+	},
+	{
+		"number": "07518",
+		"name": "OPP NAFA CAMPUS 3",
+		"newName": "Opp NAFA Campus 3"
+	},
+	{
+		"number": "07529",
+		"name": "JLN BESAR STN EXIT A",
+		"newName": "Jln Besar Stn Exit A"
+	},
+	{
+		"number": "07571",
+		"name": "SUNSHINE PLAZA",
+		"newName": "Sunshine Plaza"
+	},
+	{
+		"number": "08041",
+		"name": "YMCA",
+		"newName": "YMCA"
+	},
+	{
+		"number": "08069",
+		"name": "BENCOOLEN STN EXIT B",
+		"newName": "Bencoolen Stn Exit B"
+	},
+	{
+		"number": "10011",
+		"name": "BEF NEIL RD",
+		"newName": "Bef Neil Rd"
+	},
+	{
+		"number": "10041",
+		"name": "BEF KAMPONG BAHRU TER",
+		"newName": "Bef Kampong Bahru Ter"
+	},
+	{
+		"number": "10049",
+		"name": "OPP KAMPONG BAHRU TER",
+		"newName": "Opp Kampong Bahru Ter"
+	},
+	{
+		"number": "10101",
+		"name": "OPP BT MERAH SEC SCH",
+		"newName": "Opp Bt Merah Sec Sch"
+	},
+	{
+		"number": "10109",
+		"name": "BT MERAH SEC SCH",
+		"newName": "Bt Merah Sec Sch"
+	},
+	{
+		"number": "10181",
+		"name": "BEF AR-RABITAH MQUE",
+		"newName": "Bef Ar-Rabitah Mque"
+	},
+	{
+		"number": "10431",
+		"name": "ENABLING VILLAGE",
+		"newName": "Enabling Village"
+	},
+	{
+		"number": "10439",
+		"name": "OPP ENABLING VILLAGE",
+		"newName": "Opp Enabling Village"
+	},
+	{
+		"number": "10499",
+		"name": "KAMPONG BAHRU TER",
+		"newName": "Kampong Bahru Ter"
+	},
+	{
+		"number": "12091",
+		"name": "SIM HQ",
+		"newName": "SIM HQ"
+	},
+	{
+		"number": "13062",
+		"name": "STELLAR RV",
+		"newName": "Stellar RV"
+	},
+	{
+		"number": "13063",
+		"name": "RV SUITES",
+		"newName": "RV Suites"
+	},
+	{
+		"number": "13069",
+		"name": "RV RESIDENCES",
+		"newName": "RV Residences"
+	},
+	{
+		"number": "13091",
+		"name": "AFT KIM YAM RD",
+		"newName": "Aft Kim Yam Rd"
+	},
+	{
+		"number": "13099",
+		"name": "BEF KIM YAM RD",
+		"newName": "Bef Kim Yam Rd"
+	},
+	{
+		"number": "14501",
+		"name": "OPP BLK 91A",
+		"newName": "Opp Blk 91A"
+	},
+	{
+		"number": "14509",
+		"name": "BLK 92B",
+		"newName": "Blk 92B"
+	},
+	{
+		"number": "15109",
+		"name": "LP 30",
+		"newName": "LP 30"
+	},
+	{
+		"number": "16041",
+		"name": "OPP LUXE VILLE",
+		"newName": "Opp Luxe Ville"
+	},
+	{
+		"number": "16049",
+		"name": "WHITEHAVEN",
+		"newName": "Whitehaven"
+	},
+	{
+		"number": "16209",
+		"name": "HORIZON RESIDENCES",
+		"newName": "Horizon Residences"
+	},
+	{
+		"number": "17099",
+		"name": "YALE-NUS COLLEGE",
+		"newName": "Yale-NUS College"
+	},
+	{
+		"number": "18071",
+		"name": "NUH",
+		"newName": "NUH"
+	},
+	{
+		"number": "18221",
+		"name": "NUH",
+		"newName": "NUH"
+	},
+	{
+		"number": "19021",
+		"name": "SP SMA",
+		"newName": "SP SMA"
+	},
+	{
+		"number": "20021",
+		"name": "NEWEST",
+		"newName": "NEWest"
+	},
+	{
+		"number": "20029",
+		"name": "OPP NEWEST",
+		"newName": "Opp NEWest"
+	},
+	{
+		"number": "21029",
+		"name": "AFT CORP PL",
+		"newName": "Aft Corp Pl"
+	},
+	{
+		"number": "21171",
+		"name": "OPP CORP PL",
+		"newName": "Opp Corp Pl"
+	},
+	{
+		"number": "21179",
+		"name": "CORP PL",
+		"newName": "Corp Pl"
+	},
+	{
+		"number": "21261",
+		"name": "AFT CHIN BEE AVE",
+		"newName": "Aft Chin Bee Ave"
+	},
+	{
+		"number": "21321",
+		"name": "UTOC ENGRG",
+		"newName": "UTOC Engrg"
+	},
+	{
+		"number": "21329",
+		"name": "OPP UTOC ENGRG",
+		"newName": "Opp UTOC Engrg"
+	},
+	{
+		"number": "21351",
+		"name": "BEF BOON LAY WAY",
+		"newName": "Bef Boon Lay Way"
+	},
+	{
+		"number": "21359",
+		"name": "AFT ST KINETICS",
+		"newName": "Aft ST Kinetics"
+	},
+	{
+		"number": "21381",
+		"name": "ST. JOSEPH'S HME",
+		"newName": "St. Joseph's Hme"
+	},
+	{
+		"number": "21389",
+		"name": "OPP ST. JOSEPH'S HME",
+		"newName": "Opp St. Joseph's Hme"
+	},
+	{
+		"number": "21461",
+		"name": "BEF TUKANG INNOVATION DR",
+		"newName": "Bef Tukang Innovation Dr"
+	},
+	{
+		"number": "21471",
+		"name": "AFT TUKANG INNOVATION DR",
+		"newName": "Aft Tukang Innovation Dr"
+	},
+	{
+		"number": "21481",
+		"name": "GRUNDFOS",
+		"newName": "Grundfos"
+	},
+	{
+		"number": "21489",
+		"name": "OPP GRUNDFOS",
+		"newName": "Opp Grundfos"
+	},
+	{
+		"number": "21619",
+		"name": "AFT CORP RD",
+		"newName": "Aft Corp Rd"
+	},
+	{
+		"number": "21691",
+		"name": "OPP SUMMERDALE",
+		"newName": "Opp Summerdale"
+	},
+	{
+		"number": "21699",
+		"name": "SUMMERDALE",
+		"newName": "Summerdale"
+	},
+	{
+		"number": "21771",
+		"name": "AFT CORP DR",
+		"newName": "Aft Corp Dr"
+	},
+	{
+		"number": "24441",
+		"name": "GSK",
+		"newName": "GSK"
+	},
+	{
+		"number": "24511",
+		"name": "GUL CIRCLE STN EXIT A",
+		"newName": "Gul Circle Stn Exit A"
+	},
+	{
+		"number": "24519",
+		"name": "GUL CIRCLE STN EXIT B",
+		"newName": "Gul Circle Stn Exit B"
+	},
+	{
+		"number": "24701",
+		"name": "TUAS CRES STN EXIT B",
+		"newName": "Tuas Cres Stn Exit B"
+	},
+	{
+		"number": "24709",
+		"name": "TUAS CRES STN EXIT A",
+		"newName": "Tuas Cres Stn Exit A"
+	},
+	{
+		"number": "24711",
+		"name": "TUAS WEST RD STN EXIT B",
+		"newName": "Tuas West Rd Stn Exit B"
+	},
+	{
+		"number": "24719",
+		"name": "TUAS WEST RD STN EXIT A",
+		"newName": "Tuas West Rd Stn Exit A"
+	},
+	{
+		"number": "25341",
+		"name": "ROCKWOOL",
+		"newName": "ROCKWOOL"
+	},
+	{
+		"number": "25411",
+		"name": "BEF TUAS TER",
+		"newName": "Bef Tuas Ter"
+	},
+	{
+		"number": "25421",
+		"name": "OPP TUAS LINK STN",
+		"newName": "Opp Tuas Lk Stn"
+	},
+	{
+		"number": "25429",
+		"name": "TUAS LINK STN",
+		"newName": "Tuas Lk Stn"
+	},
+	{
+		"number": "25511",
+		"name": "MICHELMAN",
+		"newName": "Michelman"
+	},
+	{
+		"number": "25519",
+		"name": "OPP MICHELMAN",
+		"newName": "Opp Michelman"
+	},
+	{
+		"number": "25531",
+		"name": "ST KINETICS",
+		"newName": "ST Kinetics"
+	},
+	{
+		"number": "25539",
+		"name": "FUJIFILM",
+		"newName": "Fujifilm"
+	},
+	{
+		"number": "25541",
+		"name": "PEC",
+		"newName": "PEC"
+	},
+	{
+		"number": "25549",
+		"name": "CAST LABORATORIES",
+		"newName": "CAST Laboratories"
+	},
+	{
+		"number": "25551",
+		"name": "GARMCO",
+		"newName": "GARMCO"
+	},
+	{
+		"number": "25559",
+		"name": "LEE WELDED MESH",
+		"newName": "Lee Welded Mesh"
+	},
+	{
+		"number": "25561",
+		"name": "INVISTA",
+		"newName": "INVISTA"
+	},
+	{
+		"number": "25569",
+		"name": "OPP INVISTA",
+		"newName": "Opp INVISTA"
+	},
+	{
+		"number": "25571",
+		"name": "OPP WEST STAR",
+		"newName": "Opp West Star"
+	},
+	{
+		"number": "25579",
+		"name": "WEST STAR",
+		"newName": "West Star"
+	},
+	{
+		"number": "25589",
+		"name": "CROWN EQUIPMENT",
+		"newName": "Crown Equipment"
+	},
+	{
+		"number": "25591",
+		"name": "OPP WYETH PHARMACEUTICALS",
+		"newName": "Opp Wyeth Pharmaceuticals"
+	},
+	{
+		"number": "25599",
+		"name": "WYETH PHARMACEUTICALS",
+		"newName": "Wyeth Pharmaceuticals"
+	},
+	{
+		"number": "25601",
+		"name": "PFIZER GLOBAL",
+		"newName": "Pfizer Global"
+	},
+	{
+		"number": "25611",
+		"name": "OPP WESTLINK TWO",
+		"newName": "Opp WestLink Two"
+	},
+	{
+		"number": "25621",
+		"name": "STARBURST ENGRG",
+		"newName": "Starburst Engrg"
+	},
+	{
+		"number": "25631",
+		"name": "CONTAINER CONNECTIONS",
+		"newName": "Container Connections"
+	},
+	{
+		"number": "25641",
+		"name": "OPP ROCHE S'PORE TECH",
+		"newName": "Opp Roche S'pore Tech"
+	},
+	{
+		"number": "25651",
+		"name": "NOVARTIS",
+		"newName": "Novartis"
+	},
+	{
+		"number": "25661",
+		"name": "BEF TUAS BAY LINK",
+		"newName": "Bef Tuas Bay Lk"
+	},
+	{
+		"number": "25669",
+		"name": "AFT TUAS BAY LINK",
+		"newName": "Aft Tuas Bay Lk"
+	},
+	{
+		"number": "25671",
+		"name": "BEF OFFSHORE MARINE CTR",
+		"newName": "Bef Offshore Marine Ctr"
+	},
+	{
+		"number": "25681",
+		"name": "BEF TUAS WEST AVE",
+		"newName": "Bef Tuas West Ave"
+	},
+	{
+		"number": "25689",
+		"name": "AFT TUAS WEST AVE",
+		"newName": "Aft Tuas West Ave"
+	},
+	{
+		"number": "25691",
+		"name": "AFT TUAS WEST RD STN",
+		"newName": "Aft Tuas West Rd Stn"
+	},
+	{
+		"number": "25701",
+		"name": "GLAXOSMITHKLINE",
+		"newName": "GlaxoSmithKline"
+	},
+	{
+		"number": "25709",
+		"name": "EDGEN MURRAY",
+		"newName": "Edgen Murray"
+	},
+	{
+		"number": "25711",
+		"name": "OPP THE INDEX",
+		"newName": "Opp The Index"
+	},
+	{
+		"number": "25719",
+		"name": "THE INDEX",
+		"newName": "The Index"
+	},
+	{
+		"number": "25729",
+		"name": "ABBOTT",
+		"newName": "Abbott"
+	},
+	{
+		"number": "25741",
+		"name": "HALLIBURTON",
+		"newName": "Halliburton"
+	},
+	{
+		"number": "25751",
+		"name": "BEF TUAS STH AVE 14",
+		"newName": "Bef Tuas Sth Ave 14"
+	},
+	{
+		"number": "25761",
+		"name": "OPP REC S'PORE",
+		"newName": "Opp REC S'pore"
+	},
+	{
+		"number": "25771",
+		"name": "AFT TUAS STH ST 7",
+		"newName": "Aft Tuas Sth St 7"
+	},
+	{
+		"number": "25781",
+		"name": "OPP SLS",
+		"newName": "Opp SLS"
+	},
+	{
+		"number": "25791",
+		"name": "BEF TUAS STH AVE 10",
+		"newName": "Bef Tuas Sth Ave 10"
+	},
+	{
+		"number": "25801",
+		"name": "BEF TUAS STH AVE 7",
+		"newName": "Bef Tuas Sth Ave 7"
+	},
+	{
+		"number": "25811",
+		"name": "SIEM SENG HING",
+		"newName": "Siem Seng Hing"
+	},
+	{
+		"number": "25819",
+		"name": "OPP BEYONICS TECHNOLOGY",
+		"newName": "Opp Beyonics Technology"
+	},
+	{
+		"number": "25821",
+		"name": "TUAS AMENITY CTR",
+		"newName": "Tuas Amenity Ctr"
+	},
+	{
+		"number": "26019",
+		"name": "PROGRESS GALVANIZING",
+		"newName": "Progress Galvanizing"
+	},
+	{
+		"number": "26029",
+		"name": "CHIA HOCK TRADING CO",
+		"newName": "Chia Hock Trading Co"
+	},
+	{
+		"number": "26039",
+		"name": "ASIA POLYURETHANE",
+		"newName": "Asia Polyurethane"
+	},
+	{
+		"number": "26041",
+		"name": "HIAP SENG ENGRG LTD",
+		"newName": "Hiap Seng Engrg Ltd"
+	},
+	{
+		"number": "26051",
+		"name": "BLASTING ABRASIVES",
+		"newName": "Blasting Abrasives"
+	},
+	{
+		"number": "26059",
+		"name": "PAXOCEAN",
+		"newName": "PaxOcean"
+	},
+	{
+		"number": "26061",
+		"name": "B S DEVELOPMENT",
+		"newName": "BS Development"
+	},
+	{
+		"number": "26071",
+		"name": "UNIFINE STAR PETROCHEM",
+		"newName": "Unifine Star Petrochem"
+	},
+	{
+		"number": "26081",
+		"name": "BEF TUAS AVE 18A",
+		"newName": "Bef Tuas Ave 18A"
+	},
+	{
+		"number": "26091",
+		"name": "ROTARY ENGRG",
+		"newName": "Rotary Engrg"
+	},
+	{
+		"number": "26101",
+		"name": "BASF STH EAST ASIA",
+		"newName": "BASF Sth East Asia"
+	},
+	{
+		"number": "26209",
+		"name": "MSD",
+		"newName": "MSD"
+	},
+	{
+		"number": "27041",
+		"name": "CP 7",
+		"newName": "CP 7"
+	},
+	{
+		"number": "27501",
+		"name": "NTUC HEALTH NURSING HME",
+		"newName": "NTUC Health Nursing Hme"
+	},
+	{
+		"number": "27539",
+		"name": "BEF XINGNAN PR SCH",
+		"newName": "Bef Xingnan Pr Sch"
+	},
+	{
+		"number": "28011",
+		"name": "BEF TOH TUCK AVE",
+		"newName": "Bef Toh Tuck Ave"
+	},
+	{
+		"number": "28021",
+		"name": "OPP 8 @TRADEHUB 21",
+		"newName": "Opp 8 @Tradehub 21"
+	},
+	{
+		"number": "28029",
+		"name": "8 @ TRADEHUB 21",
+		"newName": "8 @ Tradehub 21"
+	},
+	{
+		"number": "30119",
+		"name": "AFT CHOA CHU KANG AVE 6",
+		"newName": "Aft Choa Chu Kang Ave 6"
+	},
+	{
+		"number": "30129",
+		"name": "OPP BLK 805D",
+		"newName": "Opp Blk 805D"
+	},
+	{
+		"number": "40011",
+		"name": "LITTLE INDIA STN EXIT A",
+		"newName": "Little India Stn Exit A"
+	},
+	{
+		"number": "40021",
+		"name": "BEF WINSTEDT RD",
+		"newName": "Bef Winstedt Rd"
+	},
+	{
+		"number": "40209",
+		"name": "NOVOTEL MERCURE @ STEVENS",
+		"newName": "Novotel Mercure @ Stevens"
+	},
+	{
+		"number": "40261",
+		"name": "LP 52",
+		"newName": "LP 52"
+	},
+	{
+		"number": "40269",
+		"name": "LP 57",
+		"newName": "LP 57"
+	},
+	{
+		"number": "40371",
+		"name": "OPP BLK 465A",
+		"newName": "Opp Blk 465A"
+	},
+	{
+		"number": "41161",
+		"name": "AFT KHEAM HOCK RD",
+		"newName": "Aft Kheam Hock Rd"
+	},
+	{
+		"number": "42111",
+		"name": "WOH HUP BLDG",
+		"newName": "Woh Hup Bldg"
+	},
+	{
+		"number": "42991",
+		"name": "BEF HILLVIEW STN EXIT B",
+		"newName": "Bef Hillview Stn Exit B"
+	},
+	{
+		"number": "43069",
+		"name": "HILLVIEW STN EXIT A",
+		"newName": "Hillview Stn Exit A"
+	},
+	{
+		"number": "43452",
+		"name": "AFT BT BATOK WEST AVE 3",
+		"newName": "Aft Bt Batok West Ave 3"
+	},
+	{
+		"number": "43453",
+		"name": "BEF PIE",
+		"newName": "Bef PIE"
+	},
+	{
+		"number": "43681",
+		"name": "BT BATOK HME FOR THE AGED",
+		"newName": "Bt Batok Hme for the Aged"
+	},
+	{
+		"number": "43719",
+		"name": "MINDEF CP",
+		"newName": "MINDEF CP"
+	},
+	{
+		"number": "43789",
+		"name": "BLK 436A",
+		"newName": "Blk 436A"
+	},
+	{
+		"number": "43891",
+		"name": "AFT DAIRY FARM CRES",
+		"newName": "Aft Dairy Farm Cres"
+	},
+	{
+		"number": "43899",
+		"name": "BEF DAIRY FARM CRES",
+		"newName": "Bef Dairy Farm Cres"
+	},
+	{
+		"number": "43961",
+		"name": "AFT DAIRY FARM HTS",
+		"newName": "Aft Dairy Farm Hts"
+	},
+	{
+		"number": "43969",
+		"name": "BEF DAIRY FARM HTS",
+		"newName": "Bef Dairy Farm Hts"
+	},
+	{
+		"number": "43991",
+		"name": "OPP BLK 635A",
+		"newName": "Opp Blk 635A"
+	},
+	{
+		"number": "44691",
+		"name": "BLK 485",
+		"newName": "Blk 485"
+	},
+	{
+		"number": "44699",
+		"name": "BLK 457",
+		"newName": "Blk 457"
+	},
+	{
+		"number": "44831",
+		"name": "BLK 519",
+		"newName": "Blk 519"
+	},
+	{
+		"number": "44861",
+		"name": "BLK 636A",
+		"newName": "Blk 636A"
+	},
+	{
+		"number": "44881",
+		"name": "BLK 816B",
+		"newName": "Blk 816B"
+	},
+	{
+		"number": "44891",
+		"name": "APSN",
+		"newName": "APSN"
+	},
+	{
+		"number": "44911",
+		"name": "BLK 450",
+		"newName": "Blk 450"
+	},
+	{
+		"number": "45009",
+		"name": "BT PANJANG INT",
+		"newName": "Bt Panjang Int"
+	},
+	{
+		"number": "45489",
+		"name": "BEF CHOA CHU KANG LK",
+		"newName": "Bef Choa Chu Kang Lk"
+	},
+	{
+		"number": "45491",
+		"name": "BEF CHOA CHU KANG NTH 5",
+		"newName": "Bef Choa Chu Kang Nth 5"
+	},
+	{
+		"number": "45581",
+		"name": "BLK 325",
+		"newName": "Blk 325"
+	},
+	{
+		"number": "46351",
+		"name": "WOODHAVEN",
+		"newName": "Woodhaven"
+	},
+	{
+		"number": "46739",
+		"name": "BLK 782",
+		"newName": "Blk 782"
+	},
+	{
+		"number": "47099",
+		"name": "MASTERDON",
+		"newName": "Masterdon"
+	},
+	{
+		"number": "47169",
+		"name": "CHUAN LIM CONSTRN",
+		"newName": "Chuan Lim Constrn"
+	},
+	{
+		"number": "47491",
+		"name": "TWIN FOUNTAINS",
+		"newName": "Twin Fountains"
+	},
+	{
+		"number": "47499",
+		"name": "OPP TWIN FOUNTAINS",
+		"newName": "Opp Twin Fountains"
+	},
+	{
+		"number": "47509",
+		"name": "BLK 583",
+		"newName": "Blk 583"
+	},
+	{
+		"number": "47529",
+		"name": "BLK 573A",
+		"newName": "Blk 573A"
+	},
+	{
+		"number": "48031",
+		"name": "LP 162",
+		"newName": "LP 162"
+	},
+	{
+		"number": "48039",
+		"name": "LP 159",
+		"newName": "LP 159"
+	},
+	{
+		"number": "49029",
+		"name": "SIT LEY TIMBER",
+		"newName": "Sit Ley Timber"
+	},
+	{
+		"number": "49099",
+		"name": "AFT KRANJI WATER RECLAMATION PLANT",
+		"newName": "Aft Kranji Wtr Reclam Plt"
+	},
+	{
+		"number": "49171",
+		"name": "OPP SHINGDA CONSTRN",
+		"newName": "Opp Shingda Constrn"
+	},
+	{
+		"number": "51051",
+		"name": "AFT ANDREW RD",
+		"newName": "Aft Andrew Rd"
+	},
+	{
+		"number": "51059",
+		"name": "AFT TOA PAYOH RISE",
+		"newName": "Aft Toa Payoh Rise"
+	},
+	{
+		"number": "52021",
+		"name": "OPP BLK 1004",
+		"newName": "Opp Blk 1004"
+	},
+	{
+		"number": "52031",
+		"name": "OPP BLK 998",
+		"newName": "Opp Blk 998"
+	},
+	{
+		"number": "52051",
+		"name": "BLK 147",
+		"newName": "Blk 147"
+	},
+	{
+		"number": "53011",
+		"name": "ST. THERESA'S HME",
+		"newName": "St. Theresa's Hme"
+	},
+	{
+		"number": "53019",
+		"name": "OPP ST. THERESA'S HME",
+		"newName": "Opp St. Theresa's Hme"
+	},
+	{
+		"number": "53221",
+		"name": "BLK 115",
+		"newName": "Blk 115"
+	},
+	{
+		"number": "53231",
+		"name": "BISHAN STN",
+		"newName": "Bishan Stn"
+	},
+	{
+		"number": "53239",
+		"name": "OPP BISHAN STN",
+		"newName": "Opp Bishan Stn"
+	},
+	{
+		"number": "53241",
+		"name": "OPP BLK 217",
+		"newName": "Opp Blk 217"
+	},
+	{
+		"number": "53249",
+		"name": "BLK 210",
+		"newName": "Blk 210"
+	},
+	{
+		"number": "53251",
+		"name": "BLK 125",
+		"newName": "Blk 125"
+	},
+	{
+		"number": "53421",
+		"name": "BLK 151A MKT",
+		"newName": "Blk 151A Mkt"
+	},
+	{
+		"number": "54079",
+		"name": "OPP BLK 315",
+		"newName": "Opp Blk 315"
+	},
+	{
+		"number": "54081",
+		"name": "TECK GHEE CT",
+		"newName": "Teck Ghee Ct"
+	},
+	{
+		"number": "54089",
+		"name": "OPP ANG MO KIO SWIM CPLX",
+		"newName": "Opp Ang Mo Kio Swim Cplx"
+	},
+	{
+		"number": "54091",
+		"name": "BLK 331",
+		"newName": "Blk 331"
+	},
+	{
+		"number": "54099",
+		"name": "OPP BLK 333",
+		"newName": "Opp Blk 333"
+	},
+	{
+		"number": "54181",
+		"name": "BLK 258",
+		"newName": "Blk 258"
+	},
+	{
+		"number": "54189",
+		"name": "BLK 110",
+		"newName": "Blk 110"
+	},
+	{
+		"number": "54191",
+		"name": "BLK 170",
+		"newName": "Blk 170"
+	},
+	{
+		"number": "54199",
+		"name": "BLK 163",
+		"newName": "Blk 163"
+	},
+	{
+		"number": "54201",
+		"name": "OPP BLK 155",
+		"newName": "Opp Blk 155"
+	},
+	{
+		"number": "54209",
+		"name": "BET BLKS 152/155",
+		"newName": "Bet Blks 152/155"
+	},
+	{
+		"number": "54211",
+		"name": "MAYFLOWER SEC SCH",
+		"newName": "Mayflower Sec Sch"
+	},
+	{
+		"number": "54219",
+		"name": "OPP MAYFLOWER SEC SCH",
+		"newName": "Opp Mayflower Sec Sch"
+	},
+	{
+		"number": "54531",
+		"name": "OPP BISHAN PK",
+		"newName": "Opp Bishan Pk"
+	},
+	{
+		"number": "54539",
+		"name": "BISHAN PK",
+		"newName": "Bishan Pk"
+	},
+	{
+		"number": "54611",
+		"name": "BLK 220",
+		"newName": "Blk 220"
+	},
+	{
+		"number": "54619",
+		"name": "OPP BLK 220",
+		"newName": "Opp Blk 220"
+	},
+	{
+		"number": "54621",
+		"name": "BLK 223",
+		"newName": "Blk 223"
+	},
+	{
+		"number": "54629",
+		"name": "OPP BLK 223",
+		"newName": "Opp Blk 223"
+	},
+	{
+		"number": "55021",
+		"name": "OPP SEASONS PK",
+		"newName": "Opp Seasons Pk"
+	},
+	{
+		"number": "55029",
+		"name": "SEASONS PK",
+		"newName": "Seasons Pk"
+	},
+	{
+		"number": "55131",
+		"name": "BLK 612",
+		"newName": "Blk 612"
+	},
+	{
+		"number": "55139",
+		"name": "BLK 641",
+		"newName": "Blk 641"
+	},
+	{
+		"number": "55141",
+		"name": "OPP BLK 622",
+		"newName": "Opp Blk 622"
+	},
+	{
+		"number": "55149",
+		"name": "BLK 622",
+		"newName": "Blk 622"
+	},
+	{
+		"number": "55289",
+		"name": "LP 94",
+		"newName": "LP 94"
+	},
+	{
+		"number": "57039",
+		"name": "SPIRITUAL GRACE PRESBY CH",
+		"newName": "Spiritual Grace Presby Ch"
+	},
+	{
+		"number": "58199",
+		"name": "OPP AUCKLAND ROAD WEST",
+		"newName": "Opp Auckland Rd West"
+	},
+	{
+		"number": "58261",
+		"name": "VISIONAIRE",
+		"newName": "Visionaire"
+	},
+	{
+		"number": "58269",
+		"name": "OPP VISIONAIRE",
+		"newName": "Opp Visionaire"
+	},
+	{
+		"number": "58369",
+		"name": "BEF ACACIA HME",
+		"newName": "Bef Acacia Hme"
+	},
+	{
+		"number": "58519",
+		"name": "OPP BLK 104B",
+		"newName": "Opp Blk 104B"
+	},
+	{
+		"number": "58521",
+		"name": "BLK 106A",
+		"newName": "Blk 106A"
+	},
+	{
+		"number": "58529",
+		"name": "BLK 108 CP",
+		"newName": "Blk 108 CP"
+	},
+	{
+		"number": "58531",
+		"name": "BLK 129A",
+		"newName": "Blk 129A"
+	},
+	{
+		"number": "58539",
+		"name": "BLK 120A",
+		"newName": "Blk 120A"
+	},
+	{
+		"number": "58991",
+		"name": "BLK 767",
+		"newName": "Blk 767"
+	},
+	{
+		"number": "59479",
+		"name": "OPP BLK 430B",
+		"newName": "Opp Blk 430B"
+	},
+	{
+		"number": "59601",
+		"name": "BLK 391",
+		"newName": "Blk 391"
+	},
+	{
+		"number": "60011",
+		"name": "BENDEMEER STN EXIT A",
+		"newName": "Bendemeer Stn Exit A"
+	},
+	{
+		"number": "60019",
+		"name": "BENDEMEER STN EXIT B",
+		"newName": "Bendemeer Stn Exit B"
+	},
+	{
+		"number": "60031",
+		"name": "BEF GEYLANG BAHRU STN",
+		"newName": "Bef Geylang Bahru Stn"
+	},
+	{
+		"number": "60221",
+		"name": "BLK 73/GEYLANG BAHRU STN",
+		"newName": "Blk 73/Geylang Bahru Stn"
+	},
+	{
+		"number": "62071",
+		"name": "BARTLEY STN EXIT A",
+		"newName": "Bartley Stn Exit A"
+	},
+	{
+		"number": "62079",
+		"name": "AFT BARTLEY STN EXIT B",
+		"newName": "Aft Bartley Stn Exit B"
+	},
+	{
+		"number": "62231",
+		"name": "BEF S'PORE GIRLS' HME",
+		"newName": "Bef S'pore Girls' Hme"
+	},
+	{
+		"number": "62239",
+		"name": "OPP S'PORE GIRLS' HME",
+		"newName": "Opp S'pore Girls' Hme"
+	},
+	{
+		"number": "63131",
+		"name": "THE TEMBUSU",
+		"newName": "The Tembusu"
+	},
+	{
+		"number": "63221",
+		"name": "KOVAN HUB",
+		"newName": "Kovan Hub"
+	},
+	{
+		"number": "63239",
+		"name": "OPP BLK 211",
+		"newName": "Opp Blk 211"
+	},
+	{
+		"number": "64089",
+		"name": "OPP HOUGANG 1",
+		"newName": "Opp Hougang 1"
+	},
+	{
+		"number": "64099",
+		"name": "HOUGANG SEC SCH",
+		"newName": "Hougang Sec Sch"
+	},
+	{
+		"number": "64149",
+		"name": "LP 137",
+		"newName": "LP 137"
+	},
+	{
+		"number": "65091",
+		"name": "BLK 301A",
+		"newName": "Blk 301A"
+	},
+	{
+		"number": "65099",
+		"name": "BLK 604A",
+		"newName": "Blk 604A"
+	},
+	{
+		"number": "65221",
+		"name": "BLK 303D",
+		"newName": "Blk 303D"
+	},
+	{
+		"number": "65561",
+		"name": "WATERWAY PR SCH",
+		"newName": "Waterway Pr Sch"
+	},
+	{
+		"number": "65569",
+		"name": "OPP WATERWAY PR SCH",
+		"newName": "Opp Waterway Pr Sch"
+	},
+	{
+		"number": "65571",
+		"name": "BLK 218",
+		"newName": "Blk 218"
+	},
+	{
+		"number": "65579",
+		"name": "BLK 258A",
+		"newName": "Blk 258A"
+	},
+	{
+		"number": "66569",
+		"name": "OPP BLK 991B",
+		"newName": "Opp Blk 991B"
+	},
+	{
+		"number": "66579",
+		"name": "BLK 998B",
+		"newName": "Blk 998B"
+	},
+	{
+		"number": "67641",
+		"name": "BEF ANCHORVALE ST",
+		"newName": "Bef Anchorvale St"
+	},
+	{
+		"number": "67649",
+		"name": "AFT ANCHORVALE ST",
+		"newName": "Aft Anchorvale St"
+	},
+	{
+		"number": "67691",
+		"name": "BLK 338A",
+		"newName": "Blk 338A"
+	},
+	{
+		"number": "67699",
+		"name": "BLK 334A",
+		"newName": "Blk 334A"
+	},
+	{
+		"number": "67701",
+		"name": "AFT BLK 467B",
+		"newName": "Aft Blk 467B"
+	},
+	{
+		"number": "67759",
+		"name": "COMPASSVALE INT",
+		"newName": "Compassvale Int"
+	},
+	{
+		"number": "67761",
+		"name": "OPP BLK 326D",
+		"newName": "Opp Blk 326D"
+	},
+	{
+		"number": "67769",
+		"name": "BLK 326D",
+		"newName": "Blk 326D"
+	},
+	{
+		"number": "70089",
+		"name": "HDB CP",
+		"newName": "HDB CP"
+	},
+	{
+		"number": "70161",
+		"name": "OPP MATTAR STN EXIT A",
+		"newName": "Opp Mattar Stn Exit A"
+	},
+	{
+		"number": "70191",
+		"name": "OPP BLK 66",
+		"newName": "Opp Blk 66"
+	},
+	{
+		"number": "70201",
+		"name": "OPP MACPHERSON STN EXIT D",
+		"newName": "Opp MacPherson Stn Exit D"
+	},
+	{
+		"number": "70231",
+		"name": "OPP MATTAR STN EXIT B",
+		"newName": "Opp Mattar Stn Exit B"
+	},
+	{
+		"number": "70361",
+		"name": "BEF GENTING LK",
+		"newName": "Bef Genting Lk"
+	},
+	{
+		"number": "70401",
+		"name": "BEF UBI RD 4",
+		"newName": "Bef Ubi Rd 4"
+	},
+	{
+		"number": "70409",
+		"name": "BLK 3032A",
+		"newName": "Blk 3032A"
+	},
+	{
+		"number": "71121",
+		"name": "UBI STN EXIT B",
+		"newName": "Ubi Stn Exit B"
+	},
+	{
+		"number": "71129",
+		"name": "UBI STN EXIT A",
+		"newName": "Ubi Stn Exit A"
+	},
+	{
+		"number": "71291",
+		"name": "THE LEO",
+		"newName": "The Leo"
+	},
+	{
+		"number": "71299",
+		"name": "EMPIRE TECHNOCENTRE",
+		"newName": "Empire Technocentre"
+	},
+	{
+		"number": "71331",
+		"name": "KAKI BT AUTOHUB",
+		"newName": " Kaki Bt Autohub"
+	},
+	{
+		"number": "71339",
+		"name": "OPP KAKI BT AUTOHUB",
+		"newName": " Opp Kaki Bt Autohub"
+	},
+	{
+		"number": "72031",
+		"name": "BEF KAKI BT STN EXIT B",
+		"newName": "Bef Kaki Bt Stn Exit B"
+	},
+	{
+		"number": "72039",
+		"name": "KAKI BT STN EXIT A",
+		"newName": "Kaki Bt Stn Exit A"
+	},
+	{
+		"number": "72131",
+		"name": "OPP TECH VIEW",
+		"newName": "Opp Tech View"
+	},
+	{
+		"number": "72139",
+		"name": "TECH VIEW",
+		"newName": "Tech View"
+	},
+	{
+		"number": "72141",
+		"name": "BARTLEY BIZ CTR",
+		"newName": "Bartley Biz Ctr"
+	},
+	{
+		"number": "72149",
+		"name": "SHUN LI IND PK",
+		"newName": "Shun Li Ind Pk"
+	},
+	{
+		"number": "72151",
+		"name": "AUTOBAY @ KAKI BT",
+		"newName": "Autobay @ Kaki Bt"
+	},
+	{
+		"number": "72159",
+		"name": "OPP AUTOBAY @ KAKI BT",
+		"newName": "Opp Autobay @ Kaki Bt"
+	},
+	{
+		"number": "72161",
+		"name": "AFT BARTLEY VIADUCT",
+		"newName": "Aft Bartley Viaduct"
+	},
+	{
+		"number": "72169",
+		"name": "BEF BARTLEY VIADUCT",
+		"newName": "Bef Bartley Viaduct"
+	},
+	{
+		"number": "73021",
+		"name": "LP 223R12",
+		"newName": "LP 223R12"
+	},
+	{
+		"number": "75021",
+		"name": "BLK 879B",
+		"newName": "Blk 879B"
+	},
+	{
+		"number": "75051",
+		"name": "TAMPINES WEST STN EXIT B",
+		"newName": "Tampines West Stn Exit B"
+	},
+	{
+		"number": "75059",
+		"name": "BEF TAMPINES WEST STN",
+		"newName": "Bef Tampines West Stn"
+	},
+	{
+		"number": "75171",
+		"name": "UWCSEA",
+		"newName": "UWCSEA"
+	},
+	{
+		"number": "75381",
+		"name": "T5@TAMPINES",
+		"newName": "T5@Tampines"
+	},
+	{
+		"number": "75391",
+		"name": "OPP SILTRONIC",
+		"newName": "Opp Siltronic"
+	},
+	{
+		"number": "75401",
+		"name": "AFT TAMPINES AVE 1",
+		"newName": "Aft Tampines Ave 1"
+	},
+	{
+		"number": "75409",
+		"name": "THE SANTORINI",
+		"newName": "The Santorini"
+	},
+	{
+		"number": "75411",
+		"name": "BEF TAMPINES FIRE STN",
+		"newName": "Bef Tampines Fire Stn"
+	},
+	{
+		"number": "75419",
+		"name": "AFT TAMPINES AVE 5",
+		"newName": "Aft Tampines Ave 5"
+	},
+	{
+		"number": "76031",
+		"name": "TAMPINES EAST STN EXIT B",
+		"newName": "Tampines East Stn Exit B"
+	},
+	{
+		"number": "76039",
+		"name": "TAMPINES EAST STN EXIT C",
+		"newName": "Tampines East Stn Exit C"
+	},
+	{
+		"number": "76041",
+		"name": "BLK 842C",
+		"newName": "Blk 842C"
+	},
+	{
+		"number": "76049",
+		"name": "OPP BLK 842C",
+		"newName": "Opp Blk 842C"
+	},
+	{
+		"number": "76191",
+		"name": "BLK 401",
+		"newName": "Blk 401"
+	},
+	{
+		"number": "76199",
+		"name": "BLK 503",
+		"newName": "Blk 503"
+	},
+	{
+		"number": "76221",
+		"name": "TAMPINES EAST STN EXIT A",
+		"newName": "Tampines East Stn Exit A"
+	},
+	{
+		"number": "76229",
+		"name": "OPP TAMPINES EAST STN",
+		"newName": "Opp Tampines East Stn"
+	},
+	{
+		"number": "76431",
+		"name": "BLK 333",
+		"newName": " Blk 333"
+	},
+	{
+		"number": "76441",
+		"name": "OPP BLK 345",
+		"newName": "Opp Blk 345"
+	},
+	{
+		"number": "76451",
+		"name": "BLK 324",
+		"newName": "Blk 324"
+	},
+	{
+		"number": "76471",
+		"name": "BLK 444",
+		"newName": "Blk 444"
+	},
+	{
+		"number": "76511",
+		"name": "THE TAMPINES TRILLIANT",
+		"newName": "The Tampines Trilliant"
+	},
+	{
+		"number": "76519",
+		"name": "BET BLKS 524B/523D",
+		"newName": "Bet Blks 524B/523D"
+	},
+	{
+		"number": "76521",
+		"name": "OPP BLK 519A",
+		"newName": "Opp Blk 519A"
+	},
+	{
+		"number": "76529",
+		"name": "BLK 519A",
+		"newName": "Blk 519A"
+	},
+	{
+		"number": "76551",
+		"name": "TAMPINES STN EXIT D",
+		"newName": "Tampines Stn Exit D"
+	},
+	{
+		"number": "76559",
+		"name": "AFT TAMPINES STN EXIT E",
+		"newName": "Aft Tampines Stn Exit E"
+	},
+	{
+		"number": "77091",
+		"name": "AFT PASIR RIS AVE",
+		"newName": "Aft Pasir Ris Ave"
+	},
+	{
+		"number": "80011",
+		"name": "AFT PADANG JERINGAU",
+		"newName": "Aft Padang Jeringau"
+	},
+	{
+		"number": "80171",
+		"name": "CP F",
+		"newName": "CP F"
+	},
+	{
+		"number": "81191",
+		"name": "AFT OLD AIRPORT RD",
+		"newName": "Aft Old Airport Rd"
+	},
+	{
+		"number": "81199",
+		"name": "BEF OLD AIRPORT RD",
+		"newName": "Bef Old Airport Rd"
+	},
+	{
+		"number": "84141",
+		"name": "OPP LION HME FOR ELDERS",
+		"newName": "Opp Lion Hme for Elders"
+	},
+	{
+		"number": "84149",
+		"name": "LION HME FOR ELDERS",
+		"newName": "Lion Hme For Elders"
+	},
+	{
+		"number": "84161",
+		"name": "BLK 3",
+		"newName": "Blk 3"
+	},
+	{
+		"number": "84169",
+		"name": "OPP BLK 3",
+		"newName": "Opp Blk 3"
+	},
+	{
+		"number": "84201",
+		"name": "BEDOK RESVR STN EXIT A",
+		"newName": "Bedok Resvr Stn Exit A"
+	},
+	{
+		"number": "84451",
+		"name": "BEDOK NTH STN EXIT A",
+		"newName": "Bedok Nth Stn Exit A"
+	},
+	{
+		"number": "84539",
+		"name": "BEDOK NTH STN EXIT B",
+		"newName": "Bedok Nth Stn Exit B"
+	},
+	{
+		"number": "84551",
+		"name": "BLK 51",
+		"newName": "Blk 51"
+	},
+	{
+		"number": "84561",
+		"name": "BLK 53",
+		"newName": "Blk 53"
+	},
+	{
+		"number": "84571",
+		"name": "OPP BLK 55",
+		"newName": "Opp Blk 55"
+	},
+	{
+		"number": "91111",
+		"name": "CP B1",
+		"newName": "CP B1"
+	},
+	{
+		"number": "92159",
+		"name": "ST. PATRICK'S SCH",
+		"newName": "St. Patrick's Sch"
+	},
+	{
+		"number": "93179",
+		"name": "CP D3",
+		"newName": "CP D3"
+	},
+	{
+		"number": "95179",
+		"name": "DHL",
+		"newName": "DHL"
+	},
+	{
+		"number": "95209",
+		"name": "CHANGI AIRPORT PTB4",
+		"newName": "Changi Airport PTB4"
+	},
+	{
+		"number": "95901",
+		"name": "BEF SIMEI RD",
+		"newName": "Bef Simei Rd"
+	},
+	{
+		"number": "95909",
+		"name": "AFT SOMAPAH RD",
+		"newName": "Aft Somapah Rd"
+	},
+	{
+		"number": "96049",
+		"name": "UPP CHANGI STN/SUTD",
+		"newName": "Upp Changi Stn/SUTD"
+	},
+	{
+		"number": "96241",
+		"name": "LAGUNA NATL COUNTRY CLUB",
+		"newName": "Laguna Natl Country Club"
+	},
+	{
+		"number": "96301",
+		"name": "EXPO STN EXIT B",
+		"newName": "Expo Stn Exit B"
+	},
+	{
+		"number": "96309",
+		"name": "EXPO STN EXIT E",
+		"newName": "Expo Stn Exit E"
+	},
+	{
+		"number": "96311",
+		"name": "BEF CHANGI STH ST 2",
+		"newName": "Bef Changi Sth St 2"
+	},
+	{
+		"number": "96329",
+		"name": "DHL",
+		"newName": "DHL"
+	},
+	{
+		"number": "96371",
+		"name": "STANDARD CHARTERED BANK",
+		"newName": "Standard Chartered Bank"
+	},
+	{
+		"number": "96411",
+		"name": "OPP EIGHTRIUM",
+		"newName": "Opp Eightrium"
+	},
+	{
+		"number": "96419",
+		"name": "EIGHTRIUM",
+		"newName": "Eightrium"
+	},
+	{
+		"number": "96421",
+		"name": "OPP CHANGI LODGE 2",
+		"newName": "Opp Changi Lodge 2"
+	},
+	{
+		"number": "96429",
+		"name": "CHANGI LODGE 2",
+		"newName": "Changi Lodge 2"
+	},
+	{
+		"number": "96431",
+		"name": "OPP CHANGI NAVAL BASE",
+		"newName": "Opp Changi Naval Base"
+	},
+	{
+		"number": "96439",
+		"name": "CHANGI NAVAL BASE",
+		"newName": "Changi Naval Base"
+	},
+	{
+		"number": "96441",
+		"name": "OPP SUTD",
+		"newName": "Opp SUTD"
+	},
+	{
+		"number": "96449",
+		"name": "SUTD",
+		"newName": "SUTD"
+	},
+	{
+		"number": "98111",
+		"name": "BLK 256/OPP LOYANG PT",
+		"newName": "Blk 256/Opp Loyang Pt"
+	},
+	{
+		"number": "98291",
+		"name": "OPP PALM ISLES",
+		"newName": "Opp Palm Isles"
+	},
+	{
+		"number": "98299",
+		"name": "PARC OLYMPIA",
+		"newName": "Parc Olympia"
+	},
+	{
+		"number": "99079",
+		"name": "OPP OLD PIER ROAD",
+		"newName": "Opp Old Pier Rd"
+	}
+]
