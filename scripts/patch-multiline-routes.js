@@ -48,28 +48,53 @@ writeFile(
   multilineGeoJSONs,
 );
 
+// (async () => {
+//   for (let i = 0; i < multilineGeoJSONs.length; i++) {
+//     const multilineGeoJSON = multilineGeoJSONs[i];
+//     const { number } = multilineGeoJSON;
+//     const {
+//       results,
+//     } = await fetch(
+//       `https://citymapper.com/api/2/findtransport?query=${number}&region_id=sg-singapore`,
+//       { json: true },
+//     );
+//     if (results?.length) {
+//       const firstResult = results.find((r) => r.display_name == number);
+//       const routeInfo = await fetch(
+//         `https://citymapper.com/api/1/routeinfo?route=${firstResult.id}&region_id=sg-singapore&weekend=1&status_format=rich`,
+//         { json: true },
+//       );
+//       if (routeInfo.routes.length) {
+//         writeFile(`data/v1/patch/${number}.cm.json`, routeInfo);
+//       }
+//     }
+
+//     // Wait a second
+//     await new Promise((res) => setTimeout(res, 1000));
+//   }
+// })();
+
 (async () => {
-  for (let i = 0; i < multilineGeoJSONs.length; i++) {
-    const multilineGeoJSON = multilineGeoJSONs[i];
-    const { number } = multilineGeoJSON;
-    const {
-      results,
-    } = await fetch(
-      `https://citymapper.com/api/2/findtransport?query=${number}&region_id=sg-singapore`,
+  const { access_token } = await fetch(
+    'https://developers.onemap.sg/publicapi/publicsessionid',
+    {
+      json: true,
+    },
+  );
+  const multilineServices = [
+    ...new Set(multilineGeoJSONs.map((g) => '' + g.number)),
+  ];
+  for (let i = 0; i < multilineServices.length; i++) {
+    const number = multilineServices[i];
+    const directions = await fetch(
+      `https://developers.onemap.sg/publicapi/busexp/getBusRoutes?busNo=${number}&token=${access_token}`,
       { json: true },
     );
-    if (results?.length) {
-      const firstResult = results.find((r) => r.display_name == number);
-      const routeInfo = await fetch(
-        `https://citymapper.com/api/1/routeinfo?route=${firstResult.id}&region_id=sg-singapore&weekend=1&status_format=rich`,
-        { json: true },
-      );
-      if (routeInfo.routes.length) {
-        writeFile(`data/v1/patch/${number}.cm.json`, routeInfo);
-      }
+    if (directions.BUS_DIRECTION_ONE) {
+      writeFile(`data/v1/patch/${number}.om.json`, directions);
+    } else {
+      throw 'what';
+      console.warn(`Bus service ${number} is missing`);
     }
-
-    // Wait a second
-    await new Promise((res) => setTimeout(res, 1000));
   }
 })();

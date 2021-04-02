@@ -24,27 +24,42 @@ const missingServices = failedKMLs.map((d) => {
 });
 
 (async () => {
+  const { access_token } = await fetch(
+    'https://developers.onemap.sg/publicapi/publicsessionid',
+    {
+      json: true,
+    },
+  );
   for (let i = 0; i < missingServices.length; i++) {
     const missingService = missingServices[i];
     if (!missingService) continue;
     const [number] = missingService;
-    const {
-      results,
-    } = await fetch(
-      `https://citymapper.com/api/2/findtransport?query=${number}&region_id=sg-singapore`,
+    const directions = await fetch(
+      `https://developers.onemap.sg/publicapi/busexp/getBusRoutes?busNo=${number}&token=${access_token}`,
       { json: true },
     );
-    if (results?.length) {
-      const firstResult = results.find((r) => r.display_name == number);
-      const routeInfo = await fetch(
-        `https://citymapper.com/api/1/routeinfo?route=${firstResult.id}&region_id=sg-singapore&weekend=1&status_format=rich`,
+    if (directions.BUS_DIRECTION_ONE) {
+      writeFile(`data/v1/patch/${number}.om.json`, directions);
+    } else {
+      console.log(
+        `⛔️ Bus service ${number} is missing. Falling back to CityMapper`,
+      );
+      const {
+        results,
+      } = await fetch(
+        `https://citymapper.com/api/2/findtransport?query=${number}&region_id=sg-singapore`,
         { json: true },
       );
-      if (routeInfo.routes.length) {
-        writeFile(`data/v1/patch/${number}.cm.json`, routeInfo);
+      if (results?.length) {
+        const firstResult = results.find((r) => r.display_name == number);
+        const routeInfo = await fetch(
+          `https://citymapper.com/api/1/routeinfo?route=${firstResult.id}&region_id=sg-singapore&weekend=1&status_format=rich`,
+          { json: true },
+        );
+        if (routeInfo.routes.length) {
+          writeFile(`data/v1/patch/${number}.cm.json`, routeInfo);
+        }
       }
     }
   }
 })();
-
-console.log(missingServices);

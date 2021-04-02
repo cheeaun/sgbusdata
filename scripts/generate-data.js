@@ -134,21 +134,72 @@ services
 
     const patterns = kmlFile.map((f) => path.parse(f).name);
     if (faultyRoutesServices.includes(num)) {
-      const patchRoute = readFile(`./data/v1/patch/${num}.cm.json`);
-      const cleanerPatterns = patchRoute.routes[0].patterns.map((p) => {
-        return {
-          path: p.path,
-          stops: p.stop_points.map((sp) => patchRoute.stops[sp.id].stop_code),
-        };
-      });
+      const patchPatterns = [];
+      try {
+        // First, read from OneMap
+        const patchRoute = readFile(`./data/v1/patch/${num}.om.json`);
+        const { BUS_DIRECTION_ONE, BUS_DIRECTION_TWO } = patchRoute;
+        if (BUS_DIRECTION_ONE) {
+          const firstStop = BUS_DIRECTION_ONE.find((s) => s.BUS_SEQUENCE === 1)
+            .START_BUS_STOP_NUM;
+          const coordinates = BUS_DIRECTION_ONE.reduce((acc, v) => {
+            const line = polyline
+              .decode(v.GEOMETRIES)
+              .map((coords) => coords.reverse());
+            if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
+              line.shift(); // Remove first coord
+            }
+            acc.push(...line);
+            return acc;
+          }, []);
+          patchPatterns.push({
+            firstStop,
+            coordinates,
+          });
+        }
+        if (BUS_DIRECTION_TWO) {
+          const firstStop = BUS_DIRECTION_TWO.find((s) => s.BUS_SEQUENCE === 1)
+            .START_BUS_STOP_NUM;
+          const coordinates = BUS_DIRECTION_TWO.reduce((acc, v) => {
+            const line = polyline
+              .decode(v.GEOMETRIES)
+              .map((coords) => coords.reverse());
+            if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
+              line.shift(); // Remove first coord
+            }
+            acc.push(...line);
+            return acc;
+          }, []);
+          patchPatterns.push({
+            firstStop,
+            coordinates,
+          });
+        }
+      } catch (e) {
+        // If fails, read from CityMapper
+        const patchRoute = readFile(`./data/v1/patch/${num}.cm.json`);
+        patchRoute.routes[0].patterns.forEach((p) => {
+          const firstStop = patchRoute.stops[p.stop_points[0].id].stop_code;
+          const coordinates = p.path.map((coords) => coords.reverse());
+          patchPatterns.push({
+            firstStop,
+            coordinates,
+          });
+        });
+      }
+
       route.forEach((pattern, i) => {
-        const theRightPattern = cleanerPatterns.find(
-          (p) => p.stops[0] == pattern.stops[0],
+        const theRightPattern = patchPatterns.find(
+          (p) => p.firstStop == pattern.stops[0],
         );
-        const coordinates = theRightPattern.path.map(([lat, lng]) => [
-          lng,
-          lat,
-        ]);
+        if (!theRightPattern) {
+          // This means the route might contain 2 patterns
+          // But somehow one of them is missing
+          // Affected bus service: 135
+          console.warn(`Bus service {num} doesn't have pattern ${i}`);
+          return;
+        }
+        const coordinates = theRightPattern.coordinates;
         routesPolylines[num][i] = coords2polyline(coordinates);
         routesFeatures.push({
           type: 'Feature',
