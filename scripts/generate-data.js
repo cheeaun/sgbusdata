@@ -126,7 +126,13 @@ services
       });
     });
 
-    const stopsRoutes = route.map((r) => r.stops);
+    const stopsRoutes = route.map((r) =>
+      r.stops.filter((s) => {
+        // Filter out stops that are non-existent?
+        return !!stopsData[s];
+      }),
+    );
+
     servicesJSON[num] = {
       name: generateRoutesName(stopsRoutes),
       routes: stopsRoutes,
