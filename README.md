@@ -22,7 +22,7 @@ It's in the `/data` folder.
 
 ### `npm run cleanup`
 
-Delete files in `data/v1/raw/services/*` and `data/v1/patch/*.cm.json`, _before_ running the commands below.
+Delete files in `data/v1/raw/services/*`, `data/v1/patch/*.cm.json` and `data/v1/patch/*.om.json`, _before_ running the commands below.
 
 ### `npm run fetch`
 
