@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Singapore Bus data",
   "scripts": {
-    "cleanup": "del data/v1/raw/services/** && del data/v1/patch/*.cm.json",
+    "cleanup": "del data/v1/raw/services/** && del data/v1/patch/*.cm.json && del data/v1/patch/*.om.json",
     "fetch": "node scripts/fetch-bus-stops && node scripts/fetch-bus-services && node scripts/fetch-bus-services-routes",
     "datamall": "node scripts/fetch-bus-stops-datamall && node scripts/fetch-bus-routes-datamall",
     "patch": "node scripts/patch-missing-routes && node scripts/patch-multiline-routes && node scripts/patch-bus-stop-names",
