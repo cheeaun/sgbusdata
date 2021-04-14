@@ -202,7 +202,7 @@ services
           // This means the route might contain 2 patterns
           // But somehow one of them is missing
           // Affected bus service: 135
-          console.warn(`Bus service {num} doesn't have pattern ${i}`);
+          console.warn(`⚠️⚠️⚠️ Bus service ${num} doesn't have pattern ${i}`);
           return;
         }
         const coordinates = theRightPattern.coordinates;

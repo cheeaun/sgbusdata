@@ -17,6 +17,13 @@ services.forEach((service) => {
       );
       const { features } = geojson;
       if (features.length > 1) {
+        const allFeaturesSame = features.every(
+          (f) =>
+            f.geometry.coordinates.join() ===
+            features[0].geometry.coordinates.join(),
+        );
+        console.log(`🤪 Service ${number} features are all the same 🤦‍♂️`);
+        if (allFeaturesSame) return;
         multilineGeoJSONs.push({
           number,
           numberPattern,
