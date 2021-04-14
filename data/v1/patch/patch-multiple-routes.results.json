@@ -1,11 +1,5 @@
 [
 	{
-		"number": "100A",
-		"numberPattern": "100A-1",
-		"e": "More than 1 feature",
-		"count": 3
-	},
-	{
 		"number": 105,
 		"numberPattern": "105-1",
 		"e": "Not LineString but is GeometryCollection",
@@ -150,12 +144,6 @@
 		"count": 57
 	},
 	{
-		"number": "240A",
-		"numberPattern": "240A-1",
-		"e": "More than 1 feature",
-		"count": 2
-	},
-	{
 		"number": 25,
 		"numberPattern": "25-1",
 		"e": "Not LineString but is GeometryCollection",
@@ -172,24 +160,6 @@
 		"numberPattern": "262-1",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 78
-	},
-	{
-		"number": "268A",
-		"numberPattern": "268A-1",
-		"e": "More than 1 feature",
-		"count": 2
-	},
-	{
-		"number": "268B",
-		"numberPattern": "268B-1",
-		"e": "More than 1 feature",
-		"count": 2
-	},
-	{
-		"number": "268C",
-		"numberPattern": "268C-1",
-		"e": "More than 1 feature",
-		"count": 2
 	},
 	{
 		"number": 269,
@@ -252,12 +222,6 @@
 		"count": 2
 	},
 	{
-		"number": "33B",
-		"numberPattern": "33B-1",
-		"e": "More than 1 feature",
-		"count": 3
-	},
-	{
 		"number": 37,
 		"numberPattern": "37-1",
 		"e": "Not LineString but is GeometryCollection",
@@ -292,12 +256,6 @@
 		"numberPattern": "53-1",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 6184
-	},
-	{
-		"number": "53A",
-		"numberPattern": "53A-1",
-		"e": "More than 1 feature",
-		"count": 2
 	},
 	{
 		"number": 59,
@@ -414,12 +372,6 @@
 		"count": 45
 	},
 	{
-		"number": "903M",
-		"numberPattern": "903M-1",
-		"e": "More than 1 feature",
-		"count": 2
-	},
-	{
 		"number": 904,
 		"numberPattern": "904-1",
 		"e": "Not LineString but is GeometryCollection",
@@ -430,18 +382,6 @@
 		"numberPattern": "912-1",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 234
-	},
-	{
-		"number": 913,
-		"numberPattern": "913-2",
-		"e": "More than 1 feature",
-		"count": 2
-	},
-	{
-		"number": "913M",
-		"numberPattern": "913M-1",
-		"e": "More than 1 feature",
-		"count": 2
 	},
 	{
 		"number": 92,
