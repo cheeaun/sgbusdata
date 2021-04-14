@@ -418,5 +418,6 @@ e = validator.validate(Object.entries(routesPolylines), {
     ],
   },
 });
+if (e.length) throw e;
 writeFile('./data/v1/routes.json', routesPolylines);
 writeFile('./data/v1/routes.min.json', routesPolylines);
