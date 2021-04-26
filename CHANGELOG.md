@@ -65,7 +65,7 @@
 - `67W` Tampines Int → Little India Stn Exit A
 - `75A` Gali Batu Ter → Opp SIM HQ
 
-Bus Stop Changes To Routes: 11
+### Bus Stop Changes To Routes: 11
 
 - `85A` Yishun Int → Sengkang Community Hub: -1
 - `15` Pasir Ris Int ⟲ Opp Parkway Parade: +2

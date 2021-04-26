@@ -116,7 +116,7 @@ if (servicesDiff.length) {
   });
 
   if (changedRoutesServices.size) {
-    log(`Bus Stop Changes To Routes: ${changedRoutesServices.size}\n`);
+    log(`### Bus Stop Changes To Routes: ${changedRoutesServices.size}\n`);
     changedRoutesServices.forEach((s) => {
       const oldRoutes = oldServices[s].routes;
       const newRoutes = newServices[s].routes;
