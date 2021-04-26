@@ -30,6 +30,9 @@ const missingServices = failedKMLs.map((d) => {
       json: true,
     },
   );
+
+  const srslyMissingServices = [];
+
   for (let i = 0; i < missingServices.length; i++) {
     const missingService = missingServices[i];
     if (!missingService) continue;
@@ -68,7 +71,15 @@ const missingServices = failedKMLs.map((d) => {
       );
       if (routeInfo.routes.length) {
         writeFile(`data/v1/patch/${number}.cm.json`, routeInfo);
+      } else {
+        console.log(`⛔️ Bus service ${number} is also missing on CityMapper!`);
+        srslyMissingServices.push(number);
       }
+    } else {
+      console.log(`⛔️ Bus service ${number} is also missing on CityMapper!`);
+      srslyMissingServices.push(number);
     }
   }
+
+  writeFile('data/v1/patch/missing-services.json', srslyMissingServices);
 })();

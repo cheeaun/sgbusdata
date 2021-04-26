@@ -29,7 +29,9 @@ const failedKMLs = [];
         const { direction } = json.route;
         const route = direction.map((d) => {
           const { name, busstop } = d;
-          return { name, stops: busstop.map((s) => s.name) };
+          // Sometimes, `busstop` is undefined.
+          // The XML looks like this (missing data): `<direction name="From to" />`
+          return { name, stops: busstop?.map((s) => s.name) || [] };
         });
 
         writeFile(

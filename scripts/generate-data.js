@@ -36,6 +36,8 @@ const faultyRoutesServices = [
   ...multilineRoutesServices,
 ];
 
+const missingServices = readFile('./data/v1/patch/missing-services.json');
+
 const servicesJSON = {};
 const stopsJSON = {};
 
@@ -104,7 +106,12 @@ function generateRoutesName(routes) {
 }
 
 services
-  .filter((s) => !/^-/.test(s.number) && /^(CITYDIRECT|TRUNK)$/.test(s.type))
+  .filter(
+    (s) =>
+      !/^-/.test(s.number) &&
+      /^(CITYDIRECT|TRUNK)$/.test(s.type) &&
+      !missingServices.includes(s.number),
+  )
   .sort((a, b) => {
     if ('' + a.number < '' + b.number) return -1;
     if ('' + a.number > '' + b.number) return 1;
@@ -115,7 +122,11 @@ services
     const num = '' + number;
     if (!routesPolylines[num]) routesPolylines[num] = [];
 
-    const route = readFile(`./data/v1/raw/services/${type}/${number}.json`);
+    const route = readFile(`./data/v1/raw/services/${type}/${number}.json`)
+      // So, some routes have patterns that don't have stops
+      // They're known as "missing data"
+      // So here we're filtering them out and later *try* to link to the correct patterns and lines
+      .filter((pattern) => !!pattern.stops.length);
     route.forEach((pattern) => {
       pattern.stops.forEach((s) => {
         if (stopsServices[s]) {
