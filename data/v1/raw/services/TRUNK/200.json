@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Buona Vista Ter to Blk 46",
+		"name": "From Buona Vista Ter to Buona Vista Ter",
 		"stops": [
 			"11379",
 			"11381",
@@ -45,7 +45,8 @@
 			"18141",
 			"11361",
 			"11189",
-			"11389"
+			"11389",
+			"11379"
 		]
 	}
 ]

@@ -12,12 +12,6 @@
 		"count": 2
 	},
 	{
-		"number": "107M",
-		"numberPattern": "107M-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 18
-	},
-	{
 		"number": 111,
 		"numberPattern": "111-1",
 		"e": "Not LineString but is GeometryCollection",
@@ -34,6 +28,12 @@
 		"numberPattern": "130A-1",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 2
+	},
+	{
+		"number": 135,
+		"numberPattern": "135-1",
+		"e": "Not LineString but is GeometryCollection",
+		"count": 44
 	},
 	{
 		"number": 136,

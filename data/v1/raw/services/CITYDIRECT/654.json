@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Blk 336B to Opp MAS Bldg",
+		"name": "From Farmway Stn Exit A to Opp MAS Bldg",
 		"stops": [
 			"67319",
 			"67429",
@@ -18,7 +18,7 @@
 		]
 	},
 	{
-		"name": "From Mapletree Anson to Blk 330",
+		"name": "From Mapletree Anson to Farmway Stn Exit B",
 		"stops": [
 			"03241",
 			"03111",

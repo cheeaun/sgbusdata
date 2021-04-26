@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Bt Batok Int to Opp MAS Bldg",
+		"name": "From Bt Batok Int to Shenton Way Ter",
 		"stops": [
 			"43009",
 			"43179",
@@ -48,7 +48,8 @@
 			"03539",
 			"03529",
 			"03129",
-			"03218"
+			"03218",
+			"03239"
 		]
 	},
 	{
