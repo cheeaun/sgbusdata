@@ -235,15 +235,44 @@ services
         if (!route[i]) return;
         const geojson = readFile(`./data/v1/raw/services/${type}/${p}.geojson`);
         const feature = geojson.features[0];
-        routesPolylines[num][i] = coords2polyline(feature.geometry.coordinates);
-        routesFeatures.push({
-          type: 'Feature',
-          properties: {
-            number: num,
-            pattern: i,
-          },
-          geometry: feature.geometry,
-        });
+        if (feature.geometry.type === 'GeometryCollection') {
+          const coordinates = feature.geometry.geometries.reduce((acc, g) => {
+            const line = g.coordinates;
+            if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
+              line.shift(); // Remove first coord
+            }
+            acc.push(...line);
+            return acc;
+          }, []);
+          routesPolylines[num][i] = coords2polyline(coordinates);
+          routesFeatures.push({
+            type: 'Feature',
+            properties: {
+              number: num,
+              pattern: i,
+            },
+            geometry: {
+              type: 'LineString',
+              coordinates,
+            },
+          });
+        } else if (feature.geometry.type === 'LineString') {
+          routesPolylines[num][i] = coords2polyline(
+            feature.geometry.coordinates,
+          );
+          routesFeatures.push({
+            type: 'Feature',
+            properties: {
+              number: num,
+              pattern: i,
+            },
+            geometry: feature.geometry,
+          });
+        } else {
+          throw new Error(
+            'Feature is neither GeometryCollection or LineString.',
+          );
+        }
       });
     }
   });

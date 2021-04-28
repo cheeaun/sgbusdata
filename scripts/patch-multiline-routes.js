@@ -15,6 +15,8 @@ services.forEach((service) => {
       const geojson = readFile(
         `data/v1/raw/services/${type}/${numberPattern}.geojson`,
       );
+
+      // Check for multiple features
       const { features } = geojson;
       if (features.length > 1) {
         const allFeaturesSame = features.every(
@@ -32,7 +34,31 @@ services.forEach((service) => {
         });
         return;
       }
+
       const { geometry } = features[0];
+
+      // Check for multiple *connected* LineStrings
+      if (
+        geometry.type === 'GeometryCollection' &&
+        geometry.geometries.every((g) => g.type === 'LineString')
+      ) {
+        const isConnected = geometry.geometries.every(
+          (geometry, index, geometries) => {
+            // Ignore last geometry - just return true
+            return (
+              index === geometries.length - 1 ||
+              geometry.coordinates[geometry.coordinates.length - 1].join(
+                ',',
+              ) === geometries[index + 1].coordinates[0].join(',')
+            );
+          },
+        );
+        if (isConnected) {
+          return;
+        }
+      }
+
+      // For anything else, just reject them
       if (geometry.type !== 'LineString') {
         multilineGeoJSONs.push({
           number,
