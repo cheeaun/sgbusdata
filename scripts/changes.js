@@ -135,3 +135,19 @@ if (servicesDiff.length) {
     });
   }
 }
+
+const [oldRoutes, newRoutes] = readOldNewData('data/v1/routes.json');
+const routesDiff = diff(oldRoutes, newRoutes);
+
+if (routesDiff.length) {
+  const services = new Set(routesDiff.map((d) => d.path[0]));
+  nlog(`## Routes changed: ${services.size}\n`);
+  services.forEach((service) => {
+    log(`- \`${service}\` ${newServices[service].name}`);
+  });
+}
+
+// Throw an error to stop everything if there are no changes
+if (!stopsDiff.length && !servicesDiff.length && !routesDiff) {
+  throw new Error('There are no changes at all!');
+}
