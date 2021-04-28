@@ -404,8 +404,8 @@
 		}
 	],
 	"stops": {
-		"SingaporeStop_OppNeoTiewRd_NE": {
-			"live_code": "SingaporeStop_OppNeoTiewRd_NE",
+		"SingaporeStop_B19LimChuKangRd_NE": {
+			"live_code": "SingaporeStop_B19LimChuKangRd_NE",
 			"routes": [
 				"SMRTBuses975",
 				"SMRTBuses975B",
@@ -414,13 +414,387 @@
 			"brands": [
 				"SMRTBuses"
 			],
-			"name": "Opp Neo Tiew Rd",
+			"name": "B19 Lim Chu Kang Rd",
 			"coords": [
-				1.42179,
-				103.703245
+				1.419591,
+				103.70223
 			],
-			"stop_code": "33021",
+			"stop_code": "33011",
 			"bearing": "NE"
+		},
+		"SingaporeStop_OppLimChuKangLane5_N": {
+			"live_code": "SingaporeStop_OppLimChuKangLane5_N",
+			"routes": [
+				"SMRTBuses975",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Lim Chu Kang Lane 5",
+			"coords": [
+				1.435186,
+				103.708048
+			],
+			"stop_code": "34021",
+			"bearing": "NW"
+		},
+		"SingaporeStop_OppTrack14_W": {
+			"live_code": "SingaporeStop_OppTrack14_W",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Track 14",
+			"coords": [
+				1.374399,
+				103.726143
+			],
+			"stop_code": "30059",
+			"bearing": "W"
+		},
+		"SingaporeStop_AftLimChuKangLane8_N": {
+			"live_code": "SingaporeStop_AftLimChuKangLane8_N",
+			"routes": [
+				"SMRTBuses975",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Aft Lim Chu Kang Lane 8",
+			"coords": [
+				1.442756,
+				103.707754
+			],
+			"stop_code": "34051",
+			"bearing": "NW"
+		},
+		"SingaporeStop_Blk352_SE": {
+			"live_code": "SingaporeStop_Blk352_SE",
+			"routes": [
+				"SMRTBuses188",
+				"SMRTBuses188R",
+				"SMRTBuses188E",
+				"SMRTBuses301",
+				"SMRTBuses307",
+				"SMRTBuses67",
+				"TTSBuses974",
+				"TTSBuses974A",
+				"SMRTBuses975",
+				"SMRTBuses975A",
+				"SMRTBuses975B",
+				"SMRTBuses975C",
+				"SMRTBuses976",
+				"SMRTBuses982E"
+			],
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"name": "Blk 352",
+			"coords": [
+				1.382571,
+				103.743005
+			],
+			"stop_code": "44461",
+			"bearing": "SE"
+		},
+		"SingaporeStop_AftTrack11_NW": {
+			"live_code": "SingaporeStop_AftTrack11_NW",
+			"routes": [
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Aft Track 11",
+			"coords": [
+				1.409294,
+				103.700979
+			],
+			"stop_code": "32051",
+			"bearing": "NW"
+		},
+		"SingaporeStop_ArmyLogisticsBase_W": {
+			"live_code": "SingaporeStop_ArmyLogisticsBase_W",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Army Logistics Base",
+			"coords": [
+				1.374322,
+				103.719819
+			],
+			"stop_code": "30039",
+			"bearing": "W"
+		},
+		"SingaporeStop_Blk289_SW": {
+			"live_code": "SingaporeStop_Blk289_SW",
+			"routes": [
+				"SMRTBuses300",
+				"SBSTBuses3N",
+				"SMRTBuses975",
+				"SMRTBuses975A",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Blk 289",
+			"coords": [
+				1.379485,
+				103.740569
+			],
+			"stop_code": "44511",
+			"bearing": "SW"
+		},
+		"SingaporeStop_BefLimChuKangRd_W": {
+			"live_code": "SingaporeStop_BefLimChuKangRd_W",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Bef Lim Chu Kang Rd",
+			"coords": [
+				1.373366,
+				103.696197
+			],
+			"stop_code": "31159",
+			"bearing": "W"
+		},
+		"SingaporeStop_OppChengtaiNursery_SW": {
+			"live_code": "SingaporeStop_OppChengtaiNursery_SW",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Chengtai Nursery",
+			"coords": [
+				1.379722,
+				103.731228
+			],
+			"stop_code": "30099",
+			"bearing": "SW"
+		},
+		"SingaporeStop_B25OldChoaChuKangRd_W": {
+			"live_code": "SingaporeStop_B25OldChoaChuKangRd_W",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "B25 Old Choa Chu Kang Rd",
+			"coords": [
+				1.370976,
+				103.709315
+			],
+			"stop_code": "31199",
+			"bearing": "W"
+		},
+		"SingaporeStop_AftHaiInnSeeTp_NW": {
+			"live_code": "SingaporeStop_AftHaiInnSeeTp_NW",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses975",
+				"SMRTBuses975A",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Aft Hai Inn See Tp",
+			"coords": [
+				1.37716,
+				103.734092
+			],
+			"stop_code": "30089",
+			"bearing": "NW"
+		},
+		"SingaporeStop_B03LimChuKangRd_N": {
+			"live_code": "SingaporeStop_B03LimChuKangRd_N",
+			"routes": [
+				"SMRTBuses975",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "B03 Lim Chu Kang Rd",
+			"coords": [
+				1.438865,
+				103.707907
+			],
+			"stop_code": "34041",
+			"bearing": "NW"
+		},
+		"SingaporeStop_OppLp173_N": {
+			"live_code": "SingaporeStop_OppLp173_N",
+			"routes": [
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp LP 173",
+			"coords": [
+				1.411463,
+				103.70006
+			],
+			"stop_code": "32061",
+			"bearing": "N"
+		},
+		"SingaporeStop_OppBlk464_W": {
+			"live_code": "SingaporeStop_OppBlk464_W",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses975",
+				"SMRTBuses975A",
+				"SMRTBuses975B",
+				"SMRTBuses975C",
+				"SMRTBuses991",
+				"SMRTBuses991C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Blk 464",
+			"coords": [
+				1.376575,
+				103.736347
+			],
+			"stop_code": "44079",
+			"bearing": "SW"
+		},
+		"SingaporeStop_KeatHongCamp_W": {
+			"live_code": "SingaporeStop_KeatHongCamp_W",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Keat Hong Camp",
+			"coords": [
+				1.374156,
+				103.717096
+			],
+			"stop_code": "30029",
+			"bearing": "W"
+		},
+		"SingaporeStop_SunshinePl_SW": {
+			"live_code": "SingaporeStop_SunshinePl_SW",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses300",
+				"SMRTBuses301",
+				"SBSTBuses3N",
+				"SMRTBuses975",
+				"SMRTBuses975A",
+				"SMRTBuses975B",
+				"SMRTBuses975C",
+				"SMRTBuses991",
+				"SMRTBusesNr3"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Sunshine Pl",
+			"coords": [
+				1.37811,
+				103.738499
+			],
+			"stop_code": "44689",
+			"bearing": "SW"
+		},
+		"SingaporeStop_BefLimChuKangLane3A_N": {
+			"live_code": "SingaporeStop_BefLimChuKangLane3A_N",
+			"routes": [
+				"SMRTBuses975",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Bef Lim Chu Kang Lane 3A",
+			"coords": [
+				1.430249,
+				103.706834
+			],
+			"stop_code": "33051",
+			"bearing": "N"
+		},
+		"SingaporeStop_AftLimChuKangLane6_N": {
+			"live_code": "SingaporeStop_AftLimChuKangLane6_N",
+			"routes": [
+				"SMRTBuses975",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Aft Lim Chu Kang Lane 6",
+			"coords": [
+				1.437666,
+				103.707957
+			],
+			"stop_code": "34031",
+			"bearing": "NW"
+		},
+		"SingaporeStop_TeenChallenge_W": {
+			"live_code": "SingaporeStop_TeenChallenge_W",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Teen Challenge",
+			"coords": [
+				1.372451,
+				103.701219
+			],
+			"stop_code": "31169",
+			"bearing": "W"
 		},
 		"SingaporeStop_OppLimChuKangLane3_N": {
 			"live_code": "SingaporeStop_OppLimChuKangLane3_N",
@@ -439,6 +813,68 @@
 			],
 			"stop_code": "33041",
 			"bearing": "N"
+		},
+		"SingaporeStop_AftOldLimChuKangRd_NW": {
+			"live_code": "SingaporeStop_AftOldLimChuKangRd_NW",
+			"routes": [
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Aft Old Lim Chu Kang Rd",
+			"coords": [
+				1.384407,
+				103.697904
+			],
+			"stop_code": "34101",
+			"bearing": "NW"
+		},
+		"SingaporeStop_OppChoaChuKangStn_W": {
+			"live_code": "SingaporeStop_OppChoaChuKangStn_W",
+			"routes": [
+				"SMRTBuses307",
+				"SMRTBuses307A",
+				"TTSBuses974",
+				"TTSBuses974A",
+				"SMRTBuses975",
+				"SMRTBuses975A",
+				"SMRTBuses975B",
+				"SMRTBuses975C",
+				"SMRTBusesNr3"
+			],
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"name": "Opp Choa Chu Kang Stn",
+			"coords": [
+				1.384254,
+				103.744536
+			],
+			"stop_code": "44531",
+			"bearing": "NW"
+		},
+		"SingaporeStop_HomeTeamAcademy_W": {
+			"live_code": "SingaporeStop_HomeTeamAcademy_W",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Home Team Academy",
+			"coords": [
+				1.374313,
+				103.723837
+			],
+			"stop_code": "30049",
+			"bearing": "W"
 		},
 		"SingaporeStop_Blk183_SW": {
 			"live_code": "SingaporeStop_Blk183_SW",
@@ -475,169 +911,6 @@
 			"stop_code": "44259",
 			"bearing": "SW"
 		},
-		"SingaporeStop_AftLp93_N": {
-			"live_code": "SingaporeStop_AftLp93_N",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Aft LP 93",
-			"coords": [
-				1.398372,
-				103.699646
-			],
-			"stop_code": "32111",
-			"bearing": "N"
-		},
-		"SingaporeStop_OppLp173_N": {
-			"live_code": "SingaporeStop_OppLp173_N",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Opp LP 173",
-			"coords": [
-				1.411463,
-				103.70006
-			],
-			"stop_code": "32061",
-			"bearing": "N"
-		},
-		"SingaporeStop_AftLimChuKangLane8_N": {
-			"live_code": "SingaporeStop_AftLimChuKangLane8_N",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Aft Lim Chu Kang Lane 8",
-			"coords": [
-				1.442756,
-				103.707754
-			],
-			"stop_code": "34051",
-			"bearing": "NW"
-		},
-		"SingaporeStop_PoliceCoastGuard_S": {
-			"live_code": "SingaporeStop_PoliceCoastGuard_S",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Police Coast Guard",
-			"coords": [
-				1.444827,
-				103.707567
-			],
-			"stop_code": "34009",
-			"bearing": "S"
-		},
-		"SingaporeStop_AftJlnBahtera_NE": {
-			"live_code": "SingaporeStop_AftJlnBahtera_NE",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Aft Jln Bahtera",
-			"coords": [
-				1.42398,
-				103.704226
-			],
-			"stop_code": "33031",
-			"bearing": "NE"
-		},
-		"SingaporeStop_Blk289_SW": {
-			"live_code": "SingaporeStop_Blk289_SW",
-			"routes": [
-				"SMRTBuses300",
-				"SBSTBuses3N",
-				"SMRTBuses975",
-				"SMRTBuses975A",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SBSTBuses",
-				"SMRTBuses"
-			],
-			"name": "Blk 289",
-			"coords": [
-				1.379485,
-				103.740569
-			],
-			"stop_code": "44511",
-			"bearing": "SW"
-		},
-		"SingaporeStop_OppHq5ThSibCampI_N": {
-			"live_code": "SingaporeStop_OppHq5ThSibCampI_N",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Opp HQ 5th SIB Camp I",
-			"coords": [
-				1.380563,
-				103.697325
-			],
-			"stop_code": "31081",
-			"bearing": "N"
-		},
-		"SingaporeStop_AftTrack11_NW": {
-			"live_code": "SingaporeStop_AftTrack11_NW",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Aft Track 11",
-			"coords": [
-				1.409294,
-				103.700979
-			],
-			"stop_code": "32051",
-			"bearing": "NW"
-		},
-		"SingaporeStop_OppLimChuKangLane4_N": {
-			"live_code": "SingaporeStop_OppLimChuKangLane4_N",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Opp Lim Chu Kang Lane 4",
-			"coords": [
-				1.433182,
-				103.707823
-			],
-			"stop_code": "34011",
-			"bearing": "N"
-		},
 		"SingaporeStop_BetBlks1314_NW": {
 			"live_code": "SingaporeStop_BetBlks1314_NW",
 			"routes": [
@@ -659,10 +932,29 @@
 			"stop_code": "44271",
 			"bearing": "NW"
 		},
-		"SingaporeStop_OppChengtaiNursery_SW": {
-			"live_code": "SingaporeStop_OppChengtaiNursery_SW",
+		"SingaporeStop_AftChineseCemyPath11_N": {
+			"live_code": "SingaporeStop_AftChineseCemyPath11_N",
 			"routes": [
-				"SMRTBuses172",
+				"SBSTBuses405",
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Aft Chinese Cemy Path 11",
+			"coords": [
+				1.378533,
+				103.69626
+			],
+			"stop_code": "31071",
+			"bearing": "N"
+		},
+		"SingaporeStop_AftLp93_N": {
+			"live_code": "SingaporeStop_AftLp93_N",
+			"routes": [
 				"SMRTBuses975",
 				"SMRTBuses975B",
 				"SMRTBuses975C"
@@ -670,18 +962,17 @@
 			"brands": [
 				"SMRTBuses"
 			],
-			"name": "Opp Chengtai Nursery",
+			"name": "Aft LP 93",
 			"coords": [
-				1.379722,
-				103.731228
+				1.398372,
+				103.699646
 			],
-			"stop_code": "30099",
-			"bearing": "SW"
+			"stop_code": "32111",
+			"bearing": "N"
 		},
-		"SingaporeStop_ArmyLogisticsBase_W": {
-			"live_code": "SingaporeStop_ArmyLogisticsBase_W",
+		"SingaporeStop_OppNeoTiewRd_NE": {
+			"live_code": "SingaporeStop_OppNeoTiewRd_NE",
 			"routes": [
-				"SMRTBuses172",
 				"SMRTBuses975",
 				"SMRTBuses975B",
 				"SMRTBuses975C"
@@ -689,43 +980,90 @@
 			"brands": [
 				"SMRTBuses"
 			],
-			"name": "Army Logistics Base",
+			"name": "Opp Neo Tiew Rd",
 			"coords": [
-				1.374322,
-				103.719819
+				1.42179,
+				103.703245
 			],
-			"stop_code": "30039",
-			"bearing": "W"
+			"stop_code": "33021",
+			"bearing": "NE"
 		},
-		"SingaporeStop_Blk352_SE": {
-			"live_code": "SingaporeStop_Blk352_SE",
+		"SingaporeStop_AftJlnBahtera_NE": {
+			"live_code": "SingaporeStop_AftJlnBahtera_NE",
 			"routes": [
-				"SMRTBuses188",
-				"SMRTBuses188R",
-				"SMRTBuses188E",
-				"SMRTBuses301",
-				"SMRTBuses307",
-				"SMRTBuses67",
-				"TTSBuses974",
-				"TTSBuses974A",
 				"SMRTBuses975",
-				"SMRTBuses975A",
 				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Aft Jln Bahtera",
+			"coords": [
+				1.42398,
+				103.704226
+			],
+			"stop_code": "33031",
+			"bearing": "NE"
+		},
+		"SingaporeStop_AftTrack13_NE": {
+			"live_code": "SingaporeStop_AftTrack13_NE",
+			"routes": [
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Aft Track 13",
+			"coords": [
+				1.416025,
+				103.700568
+			],
+			"stop_code": "32071",
+			"bearing": "NE"
+		},
+		"SingaporeStop_OppLimChuKangCampIi_N": {
+			"live_code": "SingaporeStop_OppLimChuKangCampIi_N",
+			"routes": [
+				"SBSTBuses405",
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"name": "Opp Lim Chu Kang Camp II",
+			"coords": [
+				1.375947,
+				103.69557
+			],
+			"stop_code": "31061",
+			"bearing": "N"
+		},
+		"SingaporeStop_AftBlk202_W": {
+			"live_code": "SingaporeStop_AftBlk202_W",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses190",
+				"SMRTBuses975",
 				"SMRTBuses975C",
-				"SMRTBuses976",
-				"SMRTBuses982E"
+				"SMRTBuses985",
+				"SMRTBuses991"
 			],
 			"brands": [
-				"SMRTBuses",
-				"TTSBuses"
+				"SMRTBuses"
 			],
-			"name": "Blk 352",
+			"name": "Aft Blk 202",
 			"coords": [
-				1.382571,
-				103.743005
+				1.38289,
+				103.74831
 			],
-			"stop_code": "44461",
-			"bearing": "SE"
+			"stop_code": "44391",
+			"bearing": "NW"
 		},
 		"SingaporeStop_OppChoaChuKangPolyclinic_W": {
 			"live_code": "SingaporeStop_OppChoaChuKangPolyclinic_W",
@@ -749,6 +1087,24 @@
 			"stop_code": "44291",
 			"bearing": "W"
 		},
+		"SingaporeStop_OppHq5ThSibCampI_N": {
+			"live_code": "SingaporeStop_OppHq5ThSibCampI_N",
+			"routes": [
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp HQ 5th SIB Camp I",
+			"coords": [
+				1.380563,
+				103.697325
+			],
+			"stop_code": "31081",
+			"bearing": "N"
+		},
 		"SingaporeStop_OppAmaKengRd_NE": {
 			"live_code": "SingaporeStop_OppAmaKengRd_NE",
 			"routes": [
@@ -767,8 +1123,8 @@
 			"stop_code": "32031",
 			"bearing": "NE"
 		},
-		"SingaporeStop_BefLimChuKangRd_W": {
-			"live_code": "SingaporeStop_BefLimChuKangRd_W",
+		"SingaporeStop_AftJlnBerseri_W": {
+			"live_code": "SingaporeStop_AftJlnBerseri_W",
 			"routes": [
 				"SMRTBuses172",
 				"SMRTBuses975",
@@ -778,47 +1134,31 @@
 			"brands": [
 				"SMRTBuses"
 			],
-			"name": "Bef Lim Chu Kang Rd",
+			"name": "Aft Jln Berseri",
 			"coords": [
-				1.373366,
-				103.696197
+				1.372344,
+				103.703551
 			],
-			"stop_code": "31159",
+			"stop_code": "31179",
 			"bearing": "W"
 		},
-		"SingaporeStop_OppLimChuKangLane5_N": {
-			"live_code": "SingaporeStop_OppLimChuKangLane5_N",
+		"SingaporeStop_SgGedongCamp_NE": {
+			"live_code": "SingaporeStop_SgGedongCamp_NE",
 			"routes": [
 				"SMRTBuses975",
+				"SMRTBuses975B",
 				"SMRTBuses975C"
 			],
 			"brands": [
 				"SMRTBuses"
 			],
-			"name": "Opp Lim Chu Kang Lane 5",
+			"name": "Sg Gedong Camp",
 			"coords": [
-				1.435186,
-				103.708048
+				1.417446,
+				103.701204
 			],
-			"stop_code": "34021",
-			"bearing": "NW"
-		},
-		"SingaporeStop_BefLimChuKangLane3A_N": {
-			"live_code": "SingaporeStop_BefLimChuKangLane3A_N",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Bef Lim Chu Kang Lane 3A",
-			"coords": [
-				1.430249,
-				103.706834
-			],
-			"stop_code": "33051",
-			"bearing": "N"
+			"stop_code": "32081",
+			"bearing": "NE"
 		},
 		"SingaporeStop_OppPhoenixStn_W": {
 			"live_code": "SingaporeStop_OppPhoenixStn_W",
@@ -849,8 +1189,8 @@
 			"stop_code": "44149",
 			"bearing": "W"
 		},
-		"SingaporeStop_AftOldLimChuKangRd_NW": {
-			"live_code": "SingaporeStop_AftOldLimChuKangRd_NW",
+		"SingaporeStop_AftMuraiFarmway_N": {
+			"live_code": "SingaporeStop_AftMuraiFarmway_N",
 			"routes": [
 				"SMRTBuses975",
 				"SMRTBuses975B",
@@ -859,35 +1199,16 @@
 			"brands": [
 				"SMRTBuses"
 			],
-			"name": "Aft Old Lim Chu Kang Rd",
+			"name": "Aft Murai Farmway",
 			"coords": [
-				1.384407,
-				103.697904
+				1.385414,
+				103.697445
 			],
-			"stop_code": "34101",
-			"bearing": "NW"
+			"stop_code": "32101",
+			"bearing": "N"
 		},
-		"SingaporeStop_OppTengahAirBase_SW": {
-			"live_code": "SingaporeStop_OppTengahAirBase_SW",
-			"routes": [
-				"SMRTBuses172",
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Opp Tengah Air Base",
-			"coords": [
-				1.373333,
-				103.713658
-			],
-			"stop_code": "30019",
-			"bearing": "SW"
-		},
-		"SingaporeStop_AftLimChuKangLane6_N": {
-			"live_code": "SingaporeStop_AftLimChuKangLane6_N",
+		"SingaporeStop_PoliceCoastGuard_S": {
+			"live_code": "SingaporeStop_PoliceCoastGuard_S",
 			"routes": [
 				"SMRTBuses975",
 				"SMRTBuses975C"
@@ -895,71 +1216,13 @@
 			"brands": [
 				"SMRTBuses"
 			],
-			"name": "Aft Lim Chu Kang Lane 6",
+			"name": "Police Coast Guard",
 			"coords": [
-				1.437666,
-				103.707957
+				1.444827,
+				103.707567
 			],
-			"stop_code": "34031",
-			"bearing": "NW"
-		},
-		"SingaporeStop_OppTrack14_W": {
-			"live_code": "SingaporeStop_OppTrack14_W",
-			"routes": [
-				"SMRTBuses172",
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Opp Track 14",
-			"coords": [
-				1.374399,
-				103.726143
-			],
-			"stop_code": "30059",
-			"bearing": "W"
-		},
-		"SingaporeStop_AftBlk202_W": {
-			"live_code": "SingaporeStop_AftBlk202_W",
-			"routes": [
-				"SMRTBuses172",
-				"SMRTBuses190",
-				"SMRTBuses975",
-				"SMRTBuses975C",
-				"SMRTBuses985",
-				"SMRTBuses991"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Aft Blk 202",
-			"coords": [
-				1.38289,
-				103.74831
-			],
-			"stop_code": "44391",
-			"bearing": "NW"
-		},
-		"SingaporeStop_AftTrack13_NE": {
-			"live_code": "SingaporeStop_AftTrack13_NE",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Aft Track 13",
-			"coords": [
-				1.416025,
-				103.700568
-			],
-			"stop_code": "32071",
-			"bearing": "NE"
+			"stop_code": "34009",
+			"bearing": "S"
 		},
 		"SingaporeStop_Blk280_SW": {
 			"live_code": "SingaporeStop_Blk280_SW",
@@ -983,108 +1246,6 @@
 			"stop_code": "44521",
 			"bearing": "SW"
 		},
-		"SingaporeStop_SunshinePl_SW": {
-			"live_code": "SingaporeStop_SunshinePl_SW",
-			"routes": [
-				"SMRTBuses172",
-				"SMRTBuses300",
-				"SMRTBuses301",
-				"SBSTBuses3N",
-				"SMRTBuses975",
-				"SMRTBuses975A",
-				"SMRTBuses975B",
-				"SMRTBuses975C",
-				"SMRTBuses991",
-				"SMRTBusesNr3"
-			],
-			"brands": [
-				"SBSTBuses",
-				"SMRTBuses"
-			],
-			"name": "Sunshine Pl",
-			"coords": [
-				1.37811,
-				103.738499
-			],
-			"stop_code": "44689",
-			"bearing": "SW"
-		},
-		"SingaporeStop_SgGedongCamp_NE": {
-			"live_code": "SingaporeStop_SgGedongCamp_NE",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Sg Gedong Camp",
-			"coords": [
-				1.417446,
-				103.701204
-			],
-			"stop_code": "32081",
-			"bearing": "NE"
-		},
-		"SingaporeStop_TeenChallenge_W": {
-			"live_code": "SingaporeStop_TeenChallenge_W",
-			"routes": [
-				"SMRTBuses172",
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Teen Challenge",
-			"coords": [
-				1.372451,
-				103.701219
-			],
-			"stop_code": "31169",
-			"bearing": "W"
-		},
-		"SingaporeStop_AftChineseCemyPath11_N": {
-			"live_code": "SingaporeStop_AftChineseCemyPath11_N",
-			"routes": [
-				"SBSTBuses405",
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SBSTBuses",
-				"SMRTBuses"
-			],
-			"name": "Aft Chinese Cemy Path 11",
-			"coords": [
-				1.378533,
-				103.69626
-			],
-			"stop_code": "31071",
-			"bearing": "N"
-		},
-		"SingaporeStop_B25OldChoaChuKangRd_W": {
-			"live_code": "SingaporeStop_B25OldChoaChuKangRd_W",
-			"routes": [
-				"SMRTBuses172",
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "B25 Old Choa Chu Kang Rd",
-			"coords": [
-				1.370976,
-				103.709315
-			],
-			"stop_code": "31199",
-			"bearing": "W"
-		},
 		"SingaporeStop_OppLp160_N": {
 			"live_code": "SingaporeStop_OppLp160_N",
 			"routes": [
@@ -1103,8 +1264,8 @@
 			"stop_code": "32041",
 			"bearing": "NW"
 		},
-		"SingaporeStop_B03LimChuKangRd_N": {
-			"live_code": "SingaporeStop_B03LimChuKangRd_N",
+		"SingaporeStop_OppLimChuKangLane4_N": {
+			"live_code": "SingaporeStop_OppLimChuKangLane4_N",
 			"routes": [
 				"SMRTBuses975",
 				"SMRTBuses975C"
@@ -1112,214 +1273,13 @@
 			"brands": [
 				"SMRTBuses"
 			],
-			"name": "B03 Lim Chu Kang Rd",
+			"name": "Opp Lim Chu Kang Lane 4",
 			"coords": [
-				1.438865,
-				103.707907
+				1.433182,
+				103.707823
 			],
-			"stop_code": "34041",
-			"bearing": "NW"
-		},
-		"SingaporeStop_KeatHongCamp_W": {
-			"live_code": "SingaporeStop_KeatHongCamp_W",
-			"routes": [
-				"SMRTBuses172",
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Keat Hong Camp",
-			"coords": [
-				1.374156,
-				103.717096
-			],
-			"stop_code": "30029",
-			"bearing": "W"
-		},
-		"SingaporeStop_OppChoaChuKangStn_W": {
-			"live_code": "SingaporeStop_OppChoaChuKangStn_W",
-			"routes": [
-				"SMRTBuses307",
-				"SMRTBuses307A",
-				"TTSBuses974",
-				"TTSBuses974A",
-				"SMRTBuses975",
-				"SMRTBuses975A",
-				"SMRTBuses975B",
-				"SMRTBuses975C",
-				"SMRTBusesNr3"
-			],
-			"brands": [
-				"SMRTBuses",
-				"TTSBuses"
-			],
-			"name": "Opp Choa Chu Kang Stn",
-			"coords": [
-				1.384254,
-				103.744536
-			],
-			"stop_code": "44531",
-			"bearing": "NW"
-		},
-		"SingaporeStop_AftHaiInnSeeTp_NW": {
-			"live_code": "SingaporeStop_AftHaiInnSeeTp_NW",
-			"routes": [
-				"SMRTBuses172",
-				"SMRTBuses975",
-				"SMRTBuses975A",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Aft Hai Inn See Tp",
-			"coords": [
-				1.37716,
-				103.734092
-			],
-			"stop_code": "30089",
-			"bearing": "NW"
-		},
-		"SingaporeStop_B19LimChuKangRd_NE": {
-			"live_code": "SingaporeStop_B19LimChuKangRd_NE",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "B19 Lim Chu Kang Rd",
-			"coords": [
-				1.419591,
-				103.70223
-			],
-			"stop_code": "33011",
-			"bearing": "NE"
-		},
-		"SingaporeStop_OppLimChuKangCampIi_N": {
-			"live_code": "SingaporeStop_OppLimChuKangCampIi_N",
-			"routes": [
-				"SBSTBuses405",
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SBSTBuses",
-				"SMRTBuses"
-			],
-			"name": "Opp Lim Chu Kang Camp II",
-			"coords": [
-				1.375947,
-				103.69557
-			],
-			"stop_code": "31061",
+			"stop_code": "34011",
 			"bearing": "N"
-		},
-		"SingaporeStop_AftJlnBerseri_W": {
-			"live_code": "SingaporeStop_AftJlnBerseri_W",
-			"routes": [
-				"SMRTBuses172",
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Aft Jln Berseri",
-			"coords": [
-				1.372344,
-				103.703551
-			],
-			"stop_code": "31179",
-			"bearing": "W"
-		},
-		"SingaporeStop_OppBlk464_W": {
-			"live_code": "SingaporeStop_OppBlk464_W",
-			"routes": [
-				"SMRTBuses172",
-				"SMRTBuses975",
-				"SMRTBuses975A",
-				"SMRTBuses975B",
-				"SMRTBuses975C",
-				"SMRTBuses991",
-				"SMRTBuses991C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Opp Blk 464",
-			"coords": [
-				1.376575,
-				103.736347
-			],
-			"stop_code": "44079",
-			"bearing": "SW"
-		},
-		"SingaporeStop_AftMuraiFarmway_N": {
-			"live_code": "SingaporeStop_AftMuraiFarmway_N",
-			"routes": [
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Aft Murai Farmway",
-			"coords": [
-				1.385414,
-				103.697445
-			],
-			"stop_code": "32101",
-			"bearing": "N"
-		},
-		"SingaporeStop_HomeTeamAcademy_W": {
-			"live_code": "SingaporeStop_HomeTeamAcademy_W",
-			"routes": [
-				"SMRTBuses172",
-				"SMRTBuses975",
-				"SMRTBuses975B",
-				"SMRTBuses975C"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Home Team Academy",
-			"coords": [
-				1.374313,
-				103.723837
-			],
-			"stop_code": "30049",
-			"bearing": "W"
-		},
-		"SingaporeStop_Blk8_W": {
-			"live_code": "SingaporeStop_Blk8_W",
-			"routes": [
-				"SMRTBuses190",
-				"SMRTBuses975",
-				"SMRTBuses975C",
-				"SMRTBuses982E",
-				"SMRTBuses985",
-				"SMRTBusesNr3"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Blk 8",
-			"coords": [
-				1.381049,
-				103.754227
-			],
-			"stop_code": "44281",
-			"bearing": "W"
 		},
 		"SingaporeStop_BtPanjangInt_NE": {
 			"live_code": "SingaporeStop_BtPanjangInt_NE",
@@ -1350,6 +1310,46 @@
 			],
 			"stop_code": "45009",
 			"bearing": "NE"
+		},
+		"SingaporeStop_Blk8_W": {
+			"live_code": "SingaporeStop_Blk8_W",
+			"routes": [
+				"SMRTBuses190",
+				"SMRTBuses975",
+				"SMRTBuses975C",
+				"SMRTBuses982E",
+				"SMRTBuses985",
+				"SMRTBusesNr3"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Blk 8",
+			"coords": [
+				1.381049,
+				103.754227
+			],
+			"stop_code": "44281",
+			"bearing": "W"
+		},
+		"SingaporeStop_OppTengahAirBase_SW": {
+			"live_code": "SingaporeStop_OppTengahAirBase_SW",
+			"routes": [
+				"SMRTBuses172",
+				"SMRTBuses975",
+				"SMRTBuses975B",
+				"SMRTBuses975C"
+			],
+			"brands": [
+				"SMRTBuses"
+			],
+			"name": "Opp Tengah Air Base",
+			"coords": [
+				1.373333,
+				103.713658
+			],
+			"stop_code": "30019",
+			"bearing": "SW"
 		}
 	},
 	"feeds": [],

@@ -1,3 +1,28 @@
+# 28 April 2021
+
+## Routes change: 20
+
+- `15` Pasir Ris Int ⟲ Opp Parkway Parade
+- `30` Bedok Int ⇄ Boon Lay Int
+- `32` Bedok Int ⇄ Buona Vista Ter
+- `43` Punggol Temp Int ⇄ Upp East Coast Ter
+- `45` Upp East Coast Ter ⇄ Ang Mo Kio Depot
+- `75` Gali Batu Ter ⇄ Marina Ctr Ter
+- `99` Clementi Int ⇄ Joo Koon Int
+- `105` S'Goon Int ⇄ Jurong East Int
+- `135` Ang Mo Kio Int ⇄ Kembangan Stn
+- `170` Queen St Ter ⇄ Larkin Ter
+- `172` Choa Chu Kang Int ⇄ Boon Lay Int
+- `187` W'Lands Temp Int ⇄ Boon Lay Int
+- `671` Opp The Rivervale / The Rivervale ⇄ Marina Bay Financial Ctr / Marina Bay Stn
+- `855` Yishun Int ⇄ HarbourFront Int
+- `974` Joo Koon Int ⟲ Bt Panjang Stn Exit A/Lrt
+- `991` Bt Batok Int ⇄ Choa Chu Kang Int
+- `130A` Ang Mo Kio Int → Blk 25
+- `269A` Ang Mo Kio Int → Opp Yio Chu Kang Cc
+- `807B` Yishun Int → Jiemin Pr Sch
+- `974A` Joo Koon Int → Lot 1/Choa Chu Kang Stn
+
 # 26 April 2021
 
 ## Stops count change: 5044 ⮕ 5048
