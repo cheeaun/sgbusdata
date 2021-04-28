@@ -8,6 +8,8 @@ This is a data-only repository to complement [BusRouter SG](https://github.com/c
 
 It's in the `/data` folder.
 
+Or, browse through them on the data server: https://data.busrouter.sg/
+
 ## Terminologies
 
 - **Stop** - the bus stop itself
