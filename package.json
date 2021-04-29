@@ -9,8 +9,8 @@
     "patch": "node scripts/patch-missing-routes && node scripts/patch-multiline-routes && node scripts/patch-bus-stop-names",
     "generate": "node scripts/generate-data && node scripts/generate-data.firstlast",
     "changes": "echo \"$(node scripts/changes)\n\n$(cat CHANGELOG.md)\" > CHANGELOG.md",
-    "build": "npm run cleanup && npm run fetch && npm run datamall && npm run patch && npm run generate",
-    "build-ci": "npm run build && npm run changes"
+    "build": "npm run cleanup && npm run fetch && npm run datamall",
+    "postbuild": "git diff --diff-filter=AM --quiet data; nochanges=$?; if [ $nochanges -eq 0 ]; then echo '✨ No Changes ✨'; else npm run patch && npm run generate && npm run changes; fi;"
   },
   "author": "Lim Chee Aun <cheeaun@gmail.com>",
   "license": "ISC",
