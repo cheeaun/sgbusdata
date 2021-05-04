@@ -147,7 +147,21 @@ if (routesDiff.length) {
   });
 }
 
+const [oldFL, newFL] = readOldNewData('data/v1/firstlast.json');
+const flDiff = diff(oldFL, newFL);
+
+if (flDiff.length) {
+  nlog(`## First/last timings changed\n`);
+  const services = new Set(flDiff.map((fl) => fl.value.split(' ')[0]));
+  log(`Affected services: ${[...services].join(', ')}`);
+}
+
 // Throw an error to stop everything if there are no changes
-if (!stopsDiff.length && !servicesDiff.length && !routesDiff) {
+if (
+  !stopsDiff.length &&
+  !servicesDiff.length &&
+  !routesDiff.length &&
+  !flDiff.length
+) {
   throw new Error('There are no changes at all!');
 }
