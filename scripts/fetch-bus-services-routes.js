@@ -57,7 +57,7 @@ const failedKMLs = [];
           geojson,
         );
       } catch (e) {
-        failedKMLs.push({ fileName, e });
+        failedKMLs.push({ fileName, e: e.toString() });
       }
     }
 

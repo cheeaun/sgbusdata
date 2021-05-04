@@ -1,3 +1,4 @@
+const sortKeys = require('sort-keys');
 const { fetch, readFile, writeFile } = require('../utils');
 
 const services = readFile('./data/v1/raw/bus-services.json');
@@ -70,7 +71,10 @@ const missingServices = failedKMLs.map((d) => {
         { json: true },
       );
       if (routeInfo.routes.length) {
-        writeFile(`data/v1/patch/${number}.cm.json`, routeInfo);
+        writeFile(
+          `data/v1/patch/${number}.cm.json`,
+          sortKeys(routeInfo, { deep: true }),
+        );
       } else {
         console.log(`⛔️ Bus service ${number} is also missing on CityMapper!`);
         srslyMissingServices.push(number);

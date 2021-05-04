@@ -3,523 +3,83 @@
 	"failedKMLs": [
 		{
 			"fileName": "118B-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619581777628,
-					"socket": 1619581777628,
-					"lookup": 1619581777629,
-					"connect": 1619581777665,
-					"secureConnect": 1619581777703,
-					"upload": 1619581777704,
-					"response": 1619581777857,
-					"end": 1619581777857,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 36,
-						"tls": 38,
-						"request": 1,
-						"firstByte": 153,
-						"download": 0,
-						"total": 229
-					}
-				}
-			}
+			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
 			"fileName": "169B-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619581895547,
-					"socket": 1619581895547,
-					"lookup": 1619581895548,
-					"connect": 1619581895587,
-					"secureConnect": 1619581895625,
-					"upload": 1619581895625,
-					"response": 1619581895749,
-					"end": 1619581895749,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 39,
-						"tls": 38,
-						"request": 0,
-						"firstByte": 124,
-						"download": 0,
-						"total": 202
-					}
-				}
-			}
+			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
 			"fileName": "307-2.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582086572,
-					"socket": 1619582086572,
-					"lookup": 1619582086572,
-					"connect": 1619582086610,
-					"secureConnect": 1619582086647,
-					"upload": 1619582086647,
-					"response": 1619582086745,
-					"end": 1619582086745,
-					"phases": {
-						"wait": 0,
-						"dns": 0,
-						"tcp": 38,
-						"tls": 37,
-						"request": 0,
-						"firstByte": 98,
-						"download": 0,
-						"total": 173
-					}
-				}
-			}
+			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
 			"fileName": "33A-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582108691,
-					"socket": 1619582108691,
-					"lookup": 1619582108692,
-					"connect": 1619582108730,
-					"secureConnect": 1619582108767,
-					"upload": 1619582108767,
-					"response": 1619582108860,
-					"end": 1619582108861,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 38,
-						"tls": 37,
-						"request": 0,
-						"firstByte": 93,
-						"download": 1,
-						"total": 170
-					}
-				}
-			}
+			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
 			"fileName": "34B-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582114191,
-					"socket": 1619582114191,
-					"lookup": 1619582114192,
-					"connect": 1619582114228,
-					"secureConnect": 1619582114264,
-					"upload": 1619582114265,
-					"response": 1619582114360,
-					"end": 1619582114360,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 36,
-						"tls": 36,
-						"request": 1,
-						"firstByte": 95,
-						"download": 0,
-						"total": 169
-					}
-				}
-			}
+			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
 			"fileName": "382A-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582137666,
-					"socket": 1619582137666,
-					"lookup": 1619582137667,
-					"connect": 1619582137704,
-					"secureConnect": 1619582137742,
-					"upload": 1619582137742,
-					"response": 1619582137853,
-					"end": 1619582137854,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 37,
-						"tls": 38,
-						"request": 0,
-						"firstByte": 111,
-						"download": 1,
-						"total": 188
-					}
-				}
-			}
+			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
 			"fileName": "58B-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582214014,
-					"socket": 1619582214014,
-					"lookup": 1619582214015,
-					"connect": 1619582214053,
-					"secureConnect": 1619582214090,
-					"upload": 1619582214091,
-					"response": 1619582214184,
-					"end": 1619582214185,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 38,
-						"tls": 37,
-						"request": 1,
-						"firstByte": 93,
-						"download": 1,
-						"total": 171
-					}
-				}
-			}
+			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
 			"fileName": "60T-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582222709,
-					"socket": 1619582222709,
-					"lookup": 1619582222710,
-					"connect": 1619582222748,
-					"secureConnect": 1619582222785,
-					"upload": 1619582222785,
-					"response": 1619582222887,
-					"end": 1619582222888,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 38,
-						"tls": 37,
-						"request": 0,
-						"firstByte": 102,
-						"download": 1,
-						"total": 179
-					}
-				}
-			}
+			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
 			"fileName": "63A-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582229909,
-					"socket": 1619582229909,
-					"lookup": 1619582229910,
-					"connect": 1619582229944,
-					"secureConnect": 1619582229981,
-					"upload": 1619582229981,
-					"response": 1619582230076,
-					"end": 1619582230077,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 34,
-						"tls": 37,
-						"request": 0,
-						"firstByte": 95,
-						"download": 1,
-						"total": 168
-					}
-				}
-			}
+			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
 			"fileName": "73T-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582264053,
-					"socket": 1619582264053,
-					"lookup": 1619582264054,
-					"connect": 1619582264091,
-					"secureConnect": 1619582264130,
-					"upload": 1619582264130,
-					"response": 1619582264222,
-					"end": 1619582264223,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 37,
-						"tls": 39,
-						"request": 0,
-						"firstByte": 92,
-						"download": 1,
-						"total": 170
-					}
-				}
-			}
+			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
 			"fileName": "83T-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582308342,
-					"socket": 1619582308342,
-					"lookup": 1619582308342,
-					"connect": 1619582308377,
-					"secureConnect": 1619582308414,
-					"upload": 1619582308414,
-					"response": 1619582308508,
-					"end": 1619582308511,
-					"phases": {
-						"wait": 0,
-						"dns": 0,
-						"tcp": 35,
-						"tls": 37,
-						"request": 0,
-						"firstByte": 94,
-						"download": 3,
-						"total": 169
-					}
-				}
-			}
+			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
 			"fileName": "856A-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582328473,
-					"socket": 1619582328473,
-					"lookup": 1619582328474,
-					"connect": 1619582328511,
-					"secureConnect": 1619582328548,
-					"upload": 1619582328549,
-					"response": 1619582328640,
-					"end": 1619582328641,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 37,
-						"tls": 37,
-						"request": 1,
-						"firstByte": 91,
-						"download": 1,
-						"total": 168
-					}
-				}
-			}
+			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
 			"fileName": "857B-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582332618,
-					"socket": 1619582332618,
-					"lookup": 1619582332620,
-					"connect": 1619582332657,
-					"secureConnect": 1619582332699,
-					"upload": 1619582332699,
-					"response": 1619582332793,
-					"end": 1619582332793,
-					"phases": {
-						"wait": 0,
-						"dns": 2,
-						"tcp": 37,
-						"tls": 42,
-						"request": 0,
-						"firstByte": 94,
-						"download": 0,
-						"total": 175
-					}
-				}
-			}
+			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
 			"fileName": "859T-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582343656,
-					"socket": 1619582343656,
-					"lookup": 1619582343657,
-					"connect": 1619582343693,
-					"secureConnect": 1619582343731,
-					"upload": 1619582343731,
-					"response": 1619582343825,
-					"end": 1619582343826,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 36,
-						"tls": 38,
-						"request": 0,
-						"firstByte": 94,
-						"download": 1,
-						"total": 170
-					}
-				}
-			}
+			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
 			"fileName": "860T-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582349472,
-					"socket": 1619582349472,
-					"lookup": 1619582349473,
-					"connect": 1619582349509,
-					"secureConnect": 1619582349547,
-					"upload": 1619582349547,
-					"response": 1619582349642,
-					"end": 1619582349642,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 36,
-						"tls": 38,
-						"request": 0,
-						"firstByte": 95,
-						"download": 0,
-						"total": 170
-					}
-				}
-			}
+			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
 			"fileName": "901M-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582376836,
-					"socket": 1619582376836,
-					"lookup": 1619582376836,
-					"connect": 1619582376874,
-					"secureConnect": 1619582376912,
-					"upload": 1619582376912,
-					"response": 1619582377012,
-					"end": 1619582377012,
-					"phases": {
-						"wait": 0,
-						"dns": 0,
-						"tcp": 38,
-						"tls": 38,
-						"request": 0,
-						"firstByte": 100,
-						"download": 0,
-						"total": 176
-					}
-				}
-			}
+			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
 			"fileName": "911T-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582388093,
-					"socket": 1619582388093,
-					"lookup": 1619582388094,
-					"connect": 1619582388132,
-					"secureConnect": 1619582388169,
-					"upload": 1619582388169,
-					"response": 1619582388272,
-					"end": 1619582388272,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 38,
-						"tls": 37,
-						"request": 0,
-						"firstByte": 103,
-						"download": 0,
-						"total": 179
-					}
-				}
-			}
+			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
 			"fileName": "965T-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582453210,
-					"socket": 1619582453210,
-					"lookup": 1619582453211,
-					"connect": 1619582453249,
-					"secureConnect": 1619582453287,
-					"upload": 1619582453287,
-					"response": 1619582453388,
-					"end": 1619582453389,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 38,
-						"tls": 38,
-						"request": 0,
-						"firstByte": 101,
-						"download": 1,
-						"total": 179
-					}
-				}
-			}
+			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
 			"fileName": "966A-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582456075,
-					"socket": 1619582456075,
-					"lookup": 1619582456076,
-					"connect": 1619582456112,
-					"secureConnect": 1619582456149,
-					"upload": 1619582456149,
-					"response": 1619582456245,
-					"end": 1619582456245,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 36,
-						"tls": 37,
-						"request": 0,
-						"firstByte": 96,
-						"download": 0,
-						"total": 170
-					}
-				}
-			}
+			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
 			"fileName": "975C-1.kml",
-			"e": {
-				"name": "HTTPError",
-				"timings": {
-					"start": 1619582482388,
-					"socket": 1619582482388,
-					"lookup": 1619582482389,
-					"connect": 1619582482425,
-					"secureConnect": 1619582482468,
-					"upload": 1619582482468,
-					"response": 1619582482592,
-					"end": 1619582482592,
-					"phases": {
-						"wait": 0,
-						"dns": 1,
-						"tcp": 36,
-						"tls": 43,
-						"request": 0,
-						"firstByte": 124,
-						"download": 0,
-						"total": 204
-					}
-				}
-			}
+			"e": "HTTPError: Response code 403 (Forbidden)"
 		}
 	]
 }

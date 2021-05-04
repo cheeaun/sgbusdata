@@ -27,6 +27,7 @@
     "hyperdiff": "~2.0.8",
     "just-diff": "~3.1.1",
     "simplify-js": "~1.2.4",
+    "sort-keys": "~4.2.0",
     "xmldom": "~0.5.0"
   }
 }

@@ -1,16 +1,21 @@
 {
+	"feeds": [],
 	"routes": [
 		{
-			"name": "859T",
-			"color": "#5BC824",
-			"text_color": "#FFFFFF",
-			"live_line_code": "SMRTBuses859T",
+			"aliases": [
+				"smrt-859t"
+			],
 			"brand": "SMRTBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "SMRTBuses859T",
+			"long_name": "Sembawang Int - Yishun Int",
 			"mode": "bus",
-			"supports_routeinfo": true,
-			"url": "https://citymapper.com/singapore/l/smrt-859t",
+			"name": "859T",
 			"patterns": [
 				{
+					"id": "859T_0",
+					"name": "towards Yishun Int",
 					"path": [
 						[
 							1.447482,
@@ -206,41 +211,28 @@
 							"id": "SingaporeStop_YishunInt_N",
 							"path_index": 23
 						}
-					],
-					"name": "towards Yishun Int",
-					"id": "859T_0"
+					]
 				}
 			],
-			"live_availability": 0,
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
 			"ui_color": "#5BC824",
-			"long_name": "Sembawang Int - Yishun Int",
-			"aliases": [
-				"smrt-859t"
-			]
+			"url": "https://citymapper.com/singapore/l/smrt-859t"
 		}
 	],
+	"status": 0,
 	"stops": {
-		"SingaporeStop_BetBlks325326_N": {
-			"live_code": "SingaporeStop_BetBlks325326_N",
-			"routes": [
-				"SMRTBuses859",
-				"SMRTBuses859A",
-				"SMRTBuses859T",
-				"SMRTBuses962"
-			],
+		"SingaporeStop_AftCanberraRd_S": {
+			"bearing": "S",
 			"brands": [
 				"SMRTBuses"
 			],
-			"name": "Bet Blks 325/326",
 			"coords": [
-				1.44449,
-				103.81909
+				1.443159,
+				103.823985
 			],
-			"stop_code": "58371",
-			"bearing": "NE"
-		},
-		"SingaporeStop_AftJlnKemuning_S": {
-			"live_code": "SingaporeStop_AftJlnKemuning_S",
+			"live_code": "SingaporeStop_AftCanberraRd_S",
+			"name": "After Canberra Road",
 			"routes": [
 				"SMRTBuses167",
 				"SMRTBuses856",
@@ -250,66 +242,42 @@
 				"SMRTBuses859T",
 				"SMRTBuses980"
 			],
+			"stop_code": "58029"
+		},
+		"SingaporeStop_AftJlnKemuning_S": {
+			"bearing": "S",
 			"brands": [
 				"SMRTBuses"
 			],
-			"name": "Aft Jln Kemuning",
 			"coords": [
 				1.437957,
 				103.825596
 			],
-			"stop_code": "57139",
-			"bearing": "S"
-		},
-		"SingaporeStop_Blk114_S_1": {
-			"live_code": "SingaporeStop_Blk114_S_1",
+			"live_code": "SingaporeStop_AftJlnKemuning_S",
+			"name": "Aft Jln Kemuning",
 			"routes": [
 				"SMRTBuses167",
-				"SBSTBuses800",
-				"SBSTBuses811",
-				"SBSTBuses811A",
 				"SMRTBuses856",
 				"SMRTBuses858",
 				"SMRTBuses858A",
 				"SMRTBuses859",
 				"SMRTBuses859T",
-				"SMRTBuses883M",
-				"SMRTBuses969",
 				"SMRTBuses980"
 			],
+			"stop_code": "57139"
+		},
+		"SingaporeStop_AftNorthpointShopCtr_S": {
+			"bearing": "SE",
 			"brands": [
 				"SBSTBuses",
 				"SMRTBuses"
 			],
-			"name": "Blk 114",
 			"coords": [
-				1.434187,
-				103.826414
+				1.428681,
+				103.835469
 			],
-			"stop_code": "57129",
-			"bearing": "S"
-		},
-		"SingaporeStop_SembawangSecSch_E": {
-			"live_code": "SingaporeStop_SembawangSecSch_E",
-			"routes": [
-				"SMRTBuses859",
-				"SMRTBuses859A",
-				"SMRTBuses859T",
-				"SMRTBuses962"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Sembawang Sec Sch",
-			"coords": [
-				1.445014,
-				103.816267
-			],
-			"stop_code": "58281",
-			"bearing": "E"
-		},
-		"SingaporeStop_AftNorthpointShopCtr_S": {
 			"live_code": "SingaporeStop_AftNorthpointShopCtr_S",
+			"name": "Opp Yishun Stn",
 			"routes": [
 				"SBSTBuses117",
 				"SBSTBuses117B",
@@ -326,229 +294,79 @@
 				"SMRTBuses965T",
 				"SMRTBuses969"
 			],
+			"stop_code": "59073"
+		},
+		"SingaporeStop_AftSembawangShopCtr_S": {
+			"bearing": "S",
 			"brands": [
-				"SBSTBuses",
 				"SMRTBuses"
 			],
-			"name": "Opp Yishun Stn",
 			"coords": [
-				1.428681,
-				103.835469
+				1.440851,
+				103.82473
 			],
-			"stop_code": "59073",
-			"bearing": "SE"
-		},
-		"SingaporeStop_OppSembawangStn_E": {
-			"live_code": "SingaporeStop_OppSembawangStn_E",
+			"live_code": "SingaporeStop_AftSembawangShopCtr_S",
+			"name": "Aft Sembawang Shop Ctr",
 			"routes": [
-				"SBSTBuses117",
-				"SBSTBuses117B",
-				"SMRTBuses858",
-				"SMRTBuses858A",
-				"SMRTBuses859",
-				"SMRTBuses859A",
-				"SMRTBuses859T",
-				"SMRTBuses882",
-				"SMRTBuses882A",
-				"SMRTBuses883",
-				"SMRTBuses883M",
-				"SMRTBuses981"
-			],
-			"brands": [
-				"SBSTBuses",
-				"SMRTBuses"
-			],
-			"name": "Opp Sembawang Stn",
-			"coords": [
-				1.449535,
-				103.81993
-			],
-			"stop_code": "58219",
-			"bearing": "E"
-		},
-		"SingaporeStop_OppBlk701A_E": {
-			"live_code": "SingaporeStop_OppBlk701A_E",
-			"routes": [
-				"SMRTBuses171",
-				"SBSTBuses811",
-				"SBSTBuses811A",
+				"SMRTBuses167",
 				"SMRTBuses856",
 				"SMRTBuses858",
 				"SMRTBuses858A",
 				"SMRTBuses859",
 				"SMRTBuses859T",
-				"SMRTBuses883M",
-				"SMRTBuses969"
+				"SMRTBuses980"
 			],
-			"brands": [
-				"SBSTBuses",
-				"SMRTBuses"
-			],
-			"name": "Opp Blk 701A",
-			"coords": [
-				1.430374,
-				103.827949
-			],
-			"stop_code": "59119",
-			"bearing": "E"
+			"stop_code": "58019"
 		},
-		"SingaporeStop_Blk404ACp_S": {
-			"live_code": "SingaporeStop_Blk404ACp_S",
-			"routes": [
-				"SMRTBuses656",
-				"SMRTBuses859",
-				"SMRTBuses859A",
-				"SMRTBuses859T"
-			],
+		"SingaporeStop_BetBlks325326_N": {
+			"bearing": "NE",
 			"brands": [
 				"SMRTBuses"
 			],
-			"name": "Blk 404A CP",
 			"coords": [
-				1.454612,
-				103.816584
+				1.44449,
+				103.81909
 			],
-			"stop_code": "58411",
-			"bearing": "S"
-		},
-		"SingaporeStop_BetBlks357359_S": {
-			"live_code": "SingaporeStop_BetBlks357359_S",
-			"routes": [
-				"SMRTBuses859",
-				"SMRTBuses859A",
-				"SMRTBuses859T"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Bet Blks 357/359",
-			"coords": [
-				1.450206,
-				103.816145
-			],
-			"stop_code": "58321",
-			"bearing": "SW"
-		},
-		"SingaporeStop_OppBlk315_NE": {
-			"live_code": "SingaporeStop_OppBlk315_NE",
-			"routes": [
-				"SMRTBuses859",
-				"SMRTBuses859A",
-				"SMRTBuses859T"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Sembawang Int/Opp Blk 315",
-			"coords": [
-				1.447221,
-				103.820185
-			],
-			"stop_code": "58241",
-			"bearing": "N"
-		},
-		"SingaporeStop_Blk424ACp_N": {
-			"live_code": "SingaporeStop_Blk424ACp_N",
-			"routes": [
-				"SMRTBuses656",
-				"SMRTBuses856",
-				"SMRTBuses859",
-				"SMRTBuses859A",
-				"SMRTBuses859T",
-				"SMRTBuses981"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Blk 424A CP",
-			"coords": [
-				1.453291,
-				103.819295
-			],
-			"stop_code": "58121",
-			"bearing": "NW"
-		},
-		"SingaporeStop_Blk405_S": {
-			"live_code": "SingaporeStop_Blk405_S",
-			"routes": [
-				"SMRTBuses656",
-				"SMRTBuses859",
-				"SMRTBuses859A",
-				"SMRTBuses859T",
-				"SMRTBuses962",
-				"SMRTBuses962B"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Blk 405",
-			"coords": [
-				1.45268,
-				103.816878
-			],
-			"stop_code": "58341",
-			"bearing": "S"
-		},
-		"SingaporeStop_Blk335_SE": {
-			"live_code": "SingaporeStop_Blk335_SE",
+			"live_code": "SingaporeStop_BetBlks325326_N",
+			"name": "Bet Blks 325/326",
 			"routes": [
 				"SMRTBuses859",
 				"SMRTBuses859A",
 				"SMRTBuses859T",
 				"SMRTBuses962"
 			],
+			"stop_code": "58371"
+		},
+		"SingaporeStop_BetBlks357359_S": {
+			"bearing": "SW",
 			"brands": [
 				"SMRTBuses"
 			],
-			"name": "Blk 335",
 			"coords": [
-				1.447028,
-				103.814707
+				1.450206,
+				103.816145
 			],
-			"stop_code": "58271",
-			"bearing": "SE"
-		},
-		"SingaporeStop_OppBlk491_SW": {
-			"live_code": "SingaporeStop_OppBlk491_SW",
+			"live_code": "SingaporeStop_BetBlks357359_S",
+			"name": "Bet Blks 357/359",
 			"routes": [
-				"SMRTBuses656",
 				"SMRTBuses859",
 				"SMRTBuses859A",
 				"SMRTBuses859T"
 			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Opp Blk 491",
-			"coords": [
-				1.455757,
-				103.818002
-			],
-			"stop_code": "58401",
-			"bearing": "SW"
-		},
-		"SingaporeStop_OppBlk311_S": {
-			"live_code": "SingaporeStop_OppBlk311_S",
-			"routes": [
-				"SMRTBuses856",
-				"SMRTBuses858",
-				"SMRTBuses858A",
-				"SMRTBuses859",
-				"SMRTBuses859T"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Opp Blk 311",
-			"coords": [
-				1.446676,
-				103.823093
-			],
-			"stop_code": "58109",
-			"bearing": "S"
+			"stop_code": "58321"
 		},
 		"SingaporeStop_Blk101_SE": {
+			"bearing": "SE",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"coords": [
+				1.431303,
+				103.826888
+			],
 			"live_code": "SingaporeStop_Blk101_SE",
+			"name": "Blk 101",
 			"routes": [
 				"SMRTBuses167",
 				"SBSTBuses800",
@@ -563,94 +381,48 @@
 				"SMRTBuses969",
 				"SMRTBuses980"
 			],
+			"stop_code": "57119"
+		},
+		"SingaporeStop_Blk114_S_1": {
+			"bearing": "S",
 			"brands": [
 				"SBSTBuses",
 				"SMRTBuses"
 			],
-			"name": "Blk 101",
 			"coords": [
-				1.431303,
-				103.826888
+				1.434187,
+				103.826414
 			],
-			"stop_code": "57119",
-			"bearing": "SE"
-		},
-		"SingaporeStop_Blk328_N": {
-			"live_code": "SingaporeStop_Blk328_N",
+			"live_code": "SingaporeStop_Blk114_S_1",
+			"name": "Blk 114",
 			"routes": [
-				"SMRTBuses656",
+				"SMRTBuses167",
+				"SBSTBuses800",
+				"SBSTBuses811",
+				"SBSTBuses811A",
+				"SMRTBuses856",
+				"SMRTBuses858",
+				"SMRTBuses858A",
 				"SMRTBuses859",
-				"SMRTBuses859A",
 				"SMRTBuses859T",
-				"SMRTBuses962",
+				"SMRTBuses883M",
+				"SMRTBuses969",
 				"SMRTBuses980"
 			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Blk 328",
-			"coords": [
-				1.445829,
-				103.819685
-			],
-			"stop_code": "58299",
-			"bearing": "NW"
+			"stop_code": "57129"
 		},
-		"SingaporeStop_Blk351Cp_NW": {
-			"live_code": "SingaporeStop_Blk351Cp_NW",
-			"routes": [
-				"SMRTBuses856",
-				"SMRTBuses859",
-				"SMRTBuses859A",
-				"SMRTBuses859T",
-				"SMRTBuses882",
-				"SMRTBuses882A",
-				"SMRTBuses980",
-				"SMRTBuses981",
-				"SMRTBusesNr2"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Blk 351 CP",
-			"coords": [
-				1.450963,
-				103.820752
-			],
-			"stop_code": "58111",
-			"bearing": "NW"
-		},
-		"SingaporeStop_SembawangInt_E": {
-			"live_code": "SingaporeStop_SembawangInt_E",
-			"routes": [
-				"SBSTBuses117",
-				"SBSTBuses117B",
-				"SMRTBuses167",
-				"SMRTBuses859",
-				"SMRTBuses859A",
-				"SMRTBuses859B",
-				"SMRTBuses859T",
-				"SMRTBuses882",
-				"SMRTBuses882A",
-				"SMRTBuses883",
-				"SMRTBuses883M",
-				"SMRTBuses980",
-				"SMRTBuses981"
-			],
+		"SingaporeStop_Blk145_E": {
+			"bearing": "E",
 			"brands": [
 				"SBSTBuses",
 				"SMRTBuses"
 			],
-			"name": "Sembawang Int",
 			"coords": [
-				1.447482,
-				103.819414
+				1.430619,
+				103.83218
 			],
-			"stop_code": "58009",
-			"bearing": "E"
-		},
-		"SingaporeStop_Blk145_E": {
 			"live_code": "SingaporeStop_Blk145_E",
+			"name": "Blk 145",
 			"routes": [
 				"SMRTBuses171",
 				"SBSTBuses811",
@@ -663,42 +435,256 @@
 				"SMRTBuses883M",
 				"SMRTBuses969"
 			],
+			"stop_code": "59149"
+		},
+		"SingaporeStop_Blk328_N": {
+			"bearing": "NW",
+			"brands": [
+				"SMRTBuses"
+			],
+			"coords": [
+				1.445829,
+				103.819685
+			],
+			"live_code": "SingaporeStop_Blk328_N",
+			"name": "Blk 328",
+			"routes": [
+				"SMRTBuses656",
+				"SMRTBuses859",
+				"SMRTBuses859A",
+				"SMRTBuses859T",
+				"SMRTBuses962",
+				"SMRTBuses980"
+			],
+			"stop_code": "58299"
+		},
+		"SingaporeStop_Blk335_SE": {
+			"bearing": "SE",
+			"brands": [
+				"SMRTBuses"
+			],
+			"coords": [
+				1.447028,
+				103.814707
+			],
+			"live_code": "SingaporeStop_Blk335_SE",
+			"name": "Blk 335",
+			"routes": [
+				"SMRTBuses859",
+				"SMRTBuses859A",
+				"SMRTBuses859T",
+				"SMRTBuses962"
+			],
+			"stop_code": "58271"
+		},
+		"SingaporeStop_Blk351Cp_NW": {
+			"bearing": "NW",
+			"brands": [
+				"SMRTBuses"
+			],
+			"coords": [
+				1.450963,
+				103.820752
+			],
+			"live_code": "SingaporeStop_Blk351Cp_NW",
+			"name": "Blk 351 CP",
+			"routes": [
+				"SMRTBuses856",
+				"SMRTBuses859",
+				"SMRTBuses859A",
+				"SMRTBuses859T",
+				"SMRTBuses882",
+				"SMRTBuses882A",
+				"SMRTBuses980",
+				"SMRTBuses981",
+				"SMRTBusesNr2"
+			],
+			"stop_code": "58111"
+		},
+		"SingaporeStop_Blk404ACp_S": {
+			"bearing": "S",
+			"brands": [
+				"SMRTBuses"
+			],
+			"coords": [
+				1.454612,
+				103.816584
+			],
+			"live_code": "SingaporeStop_Blk404ACp_S",
+			"name": "Blk 404A CP",
+			"routes": [
+				"SMRTBuses656",
+				"SMRTBuses859",
+				"SMRTBuses859A",
+				"SMRTBuses859T"
+			],
+			"stop_code": "58411"
+		},
+		"SingaporeStop_Blk405_S": {
+			"bearing": "S",
+			"brands": [
+				"SMRTBuses"
+			],
+			"coords": [
+				1.45268,
+				103.816878
+			],
+			"live_code": "SingaporeStop_Blk405_S",
+			"name": "Blk 405",
+			"routes": [
+				"SMRTBuses656",
+				"SMRTBuses859",
+				"SMRTBuses859A",
+				"SMRTBuses859T",
+				"SMRTBuses962",
+				"SMRTBuses962B"
+			],
+			"stop_code": "58341"
+		},
+		"SingaporeStop_Blk424ACp_N": {
+			"bearing": "NW",
+			"brands": [
+				"SMRTBuses"
+			],
+			"coords": [
+				1.453291,
+				103.819295
+			],
+			"live_code": "SingaporeStop_Blk424ACp_N",
+			"name": "Blk 424A CP",
+			"routes": [
+				"SMRTBuses656",
+				"SMRTBuses856",
+				"SMRTBuses859",
+				"SMRTBuses859A",
+				"SMRTBuses859T",
+				"SMRTBuses981"
+			],
+			"stop_code": "58121"
+		},
+		"SingaporeStop_OppBlk311_S": {
+			"bearing": "S",
+			"brands": [
+				"SMRTBuses"
+			],
+			"coords": [
+				1.446676,
+				103.823093
+			],
+			"live_code": "SingaporeStop_OppBlk311_S",
+			"name": "Opp Blk 311",
+			"routes": [
+				"SMRTBuses856",
+				"SMRTBuses858",
+				"SMRTBuses858A",
+				"SMRTBuses859",
+				"SMRTBuses859T"
+			],
+			"stop_code": "58109"
+		},
+		"SingaporeStop_OppBlk315_NE": {
+			"bearing": "N",
+			"brands": [
+				"SMRTBuses"
+			],
+			"coords": [
+				1.447221,
+				103.820185
+			],
+			"live_code": "SingaporeStop_OppBlk315_NE",
+			"name": "Sembawang Int/Opp Blk 315",
+			"routes": [
+				"SMRTBuses859",
+				"SMRTBuses859A",
+				"SMRTBuses859T"
+			],
+			"stop_code": "58241"
+		},
+		"SingaporeStop_OppBlk491_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SMRTBuses"
+			],
+			"coords": [
+				1.455757,
+				103.818002
+			],
+			"live_code": "SingaporeStop_OppBlk491_SW",
+			"name": "Opp Blk 491",
+			"routes": [
+				"SMRTBuses656",
+				"SMRTBuses859",
+				"SMRTBuses859A",
+				"SMRTBuses859T"
+			],
+			"stop_code": "58401"
+		},
+		"SingaporeStop_OppBlk701A_E": {
+			"bearing": "E",
 			"brands": [
 				"SBSTBuses",
 				"SMRTBuses"
 			],
-			"name": "Blk 145",
 			"coords": [
-				1.430619,
-				103.83218
+				1.430374,
+				103.827949
 			],
-			"stop_code": "59149",
-			"bearing": "E"
-		},
-		"SingaporeStop_AftCanberraRd_S": {
-			"live_code": "SingaporeStop_AftCanberraRd_S",
+			"live_code": "SingaporeStop_OppBlk701A_E",
+			"name": "Opp Blk 701A",
 			"routes": [
-				"SMRTBuses167",
+				"SMRTBuses171",
+				"SBSTBuses811",
+				"SBSTBuses811A",
 				"SMRTBuses856",
 				"SMRTBuses858",
 				"SMRTBuses858A",
 				"SMRTBuses859",
 				"SMRTBuses859T",
-				"SMRTBuses980"
+				"SMRTBuses883M",
+				"SMRTBuses969"
 			],
+			"stop_code": "59119"
+		},
+		"SingaporeStop_OppSembawangStn_E": {
+			"bearing": "E",
 			"brands": [
+				"SBSTBuses",
 				"SMRTBuses"
 			],
-			"name": "After Canberra Road",
 			"coords": [
-				1.443159,
-				103.823985
+				1.449535,
+				103.81993
 			],
-			"stop_code": "58029",
-			"bearing": "S"
+			"live_code": "SingaporeStop_OppSembawangStn_E",
+			"name": "Opp Sembawang Stn",
+			"routes": [
+				"SBSTBuses117",
+				"SBSTBuses117B",
+				"SMRTBuses858",
+				"SMRTBuses858A",
+				"SMRTBuses859",
+				"SMRTBuses859A",
+				"SMRTBuses859T",
+				"SMRTBuses882",
+				"SMRTBuses882A",
+				"SMRTBuses883",
+				"SMRTBuses883M",
+				"SMRTBuses981"
+			],
+			"stop_code": "58219"
 		},
 		"SingaporeStop_OppSunPlaza_N": {
+			"bearing": "N",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"coords": [
+				1.447773,
+				103.818952
+			],
 			"live_code": "SingaporeStop_OppSunPlaza_N",
+			"name": "Opp Sun Plaza",
 			"routes": [
 				"SBSTBuses117",
 				"SBSTBuses117B",
@@ -715,20 +701,69 @@
 				"SMRTBuses980",
 				"SMRTBuses981"
 			],
+			"stop_code": "58259"
+		},
+		"SingaporeStop_SembawangInt_E": {
+			"bearing": "E",
 			"brands": [
 				"SBSTBuses",
 				"SMRTBuses"
 			],
-			"name": "Opp Sun Plaza",
 			"coords": [
-				1.447773,
-				103.818952
+				1.447482,
+				103.819414
 			],
-			"stop_code": "58259",
-			"bearing": "N"
+			"live_code": "SingaporeStop_SembawangInt_E",
+			"name": "Sembawang Int",
+			"routes": [
+				"SBSTBuses117",
+				"SBSTBuses117B",
+				"SMRTBuses167",
+				"SMRTBuses859",
+				"SMRTBuses859A",
+				"SMRTBuses859B",
+				"SMRTBuses859T",
+				"SMRTBuses882",
+				"SMRTBuses882A",
+				"SMRTBuses883",
+				"SMRTBuses883M",
+				"SMRTBuses980",
+				"SMRTBuses981"
+			],
+			"stop_code": "58009"
+		},
+		"SingaporeStop_SembawangSecSch_E": {
+			"bearing": "E",
+			"brands": [
+				"SMRTBuses"
+			],
+			"coords": [
+				1.445014,
+				103.816267
+			],
+			"live_code": "SingaporeStop_SembawangSecSch_E",
+			"name": "Sembawang Sec Sch",
+			"routes": [
+				"SMRTBuses859",
+				"SMRTBuses859A",
+				"SMRTBuses859T",
+				"SMRTBuses962"
+			],
+			"stop_code": "58281"
 		},
 		"SingaporeStop_YishunInt_N": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"coords": [
+				1.4284,
+				103.836097
+			],
 			"live_code": "SingaporeStop_YishunInt_N",
+			"name": "Yishun Int",
 			"routes": [
 				"SBSTBuses103",
 				"SMRTBuses171",
@@ -763,42 +798,7 @@
 				"SBSTBuses860",
 				"SBSTBuses860T"
 			],
-			"brands": [
-				"GASBuses",
-				"SBSTBuses",
-				"SMRTBuses"
-			],
-			"name": "Yishun Int",
-			"coords": [
-				1.4284,
-				103.836097
-			],
-			"stop_code": "59009",
-			"bearing": "NW"
-		},
-		"SingaporeStop_AftSembawangShopCtr_S": {
-			"live_code": "SingaporeStop_AftSembawangShopCtr_S",
-			"routes": [
-				"SMRTBuses167",
-				"SMRTBuses856",
-				"SMRTBuses858",
-				"SMRTBuses858A",
-				"SMRTBuses859",
-				"SMRTBuses859T",
-				"SMRTBuses980"
-			],
-			"brands": [
-				"SMRTBuses"
-			],
-			"name": "Aft Sembawang Shop Ctr",
-			"coords": [
-				1.440851,
-				103.82473
-			],
-			"stop_code": "58019",
-			"bearing": "S"
+			"stop_code": "59009"
 		}
-	},
-	"feeds": [],
-	"status": 0
+	}
 }

@@ -1,16 +1,21 @@
 {
+	"feeds": [],
 	"routes": [
 		{
-			"name": "83T",
-			"color": "#5BC824",
-			"text_color": "#FFFFFF",
-			"live_line_code": "GASBuses83T",
+			"aliases": [
+				"go-ahead-singapore-83t"
+			],
 			"brand": "GASBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "GASBuses83T",
+			"long_name": "Punggol Temp Int - Sengkang Int",
 			"mode": "bus",
-			"supports_routeinfo": true,
-			"url": "https://citymapper.com/singapore/l/go-ahead-singapore-83t",
+			"name": "83T",
 			"patterns": [
 				{
+					"id": "83T_0",
+					"name": "towards Sengkang Int",
 					"path": [
 						[
 							1.403706,
@@ -142,44 +147,108 @@
 							"id": "SingaporeStop_SengkangInt_SE",
 							"path_index": 15
 						}
-					],
-					"name": "towards Sengkang Int",
-					"id": "83T_0"
+					]
 				}
 			],
-			"live_availability": 0,
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
 			"ui_color": "#5BC824",
-			"long_name": "Punggol Temp Int - Sengkang Int",
-			"aliases": [
-				"go-ahead-singapore-83t"
-			]
+			"url": "https://citymapper.com/singapore/l/go-ahead-singapore-83t"
 		}
 	],
+	"status": 0,
 	"stops": {
-		"SingaporeStop_OppBlk166A_W": {
-			"live_code": "SingaporeStop_OppBlk166A_W",
+		"SingaporeStop_Blk101C_W": {
+			"bearing": "W",
+			"brands": [
+				"GASBuses"
+			],
+			"coords": [
+				1.398569,
+				103.906653
+			],
+			"live_code": "SingaporeStop_Blk101C_W",
+			"name": "Cove Stn Exit A",
+			"routes": [
+				"GASBuses136",
+				"GASBuses3",
+				"GASBuses62",
+				"GASBuses83",
+				"GASBuses83T"
+			]
+		},
+		"SingaporeStop_Blk102C_S": {
+			"bearing": "S",
+			"brands": [
+				"GASBuses"
+			],
+			"coords": [
+				1.398936,
+				103.904748
+			],
+			"live_code": "SingaporeStop_Blk102C_S",
+			"name": "Blk 102C",
+			"routes": [
+				"GASBuses136",
+				"GASBuses3",
+				"GASBuses34",
+				"GASBuses34A",
+				"GASBuses82",
+				"GASBuses83",
+				"GASBuses83T"
+			]
+		},
+		"SingaporeStop_Blk108_NW_1": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses"
+			],
+			"coords": [
+				1.396457,
+				103.909321
+			],
+			"live_code": "SingaporeStop_Blk108_NW_1",
+			"name": "Meridian Stn Exit A",
 			"routes": [
 				"GASBuses3",
 				"GASBuses381",
-				"SBSTBuses50",
+				"GASBuses62",
 				"GASBuses83",
-				"GASBuses83T",
-				"GASBuses85"
-			],
+				"GASBuses83T"
+			]
+		},
+		"SingaporeStop_Blk126A_NW": {
+			"bearing": "NW",
 			"brands": [
-				"GASBuses",
-				"SBSTBuses"
+				"GASBuses"
 			],
-			"name": "Riviera Stn Exit A",
 			"coords": [
-				1.394105,
-				103.916035
+				1.394296,
+				103.911902
 			],
-			"stop_code": "65239",
-			"bearing": "SW"
+			"live_code": "SingaporeStop_Blk126A_NW",
+			"name": "Coral Edge Stn Exit A",
+			"routes": [
+				"GASBuses3",
+				"GASBuses381",
+				"GASBuses62",
+				"GASBuses83",
+				"GASBuses83T"
+			]
 		},
 		"SingaporeStop_Blk190C_SW": {
+			"bearing": "S",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"coords": [
+				1.395044,
+				103.902368
+			],
 			"live_code": "SingaporeStop_Blk190C_SW",
+			"name": "Blk 190C",
 			"routes": [
 				"GASBuses136",
 				"SBSTBuses161",
@@ -195,21 +264,46 @@
 				"SMRTBuses965",
 				"SMRTBuses965T"
 			],
+			"stop_code": "65069"
+		},
+		"SingaporeStop_Blk253_W": {
+			"bearing": "W",
 			"brands": [
 				"GASBuses",
 				"SBSTBuses",
 				"SMRTBuses"
 			],
-			"name": "Blk 190C",
 			"coords": [
-				1.395044,
-				103.902368
+				1.394429,
+				103.900312
 			],
-			"stop_code": "65069",
-			"bearing": "S"
+			"live_code": "SingaporeStop_Blk253_W",
+			"name": "Compassvale Stn Exit A",
+			"routes": [
+				"SBSTBuses27",
+				"SBSTBuses371",
+				"SBSTBuses654",
+				"GASBuses83",
+				"GASBuses83T",
+				"SBSTBuses89",
+				"SBSTBuses89E",
+				"SMRTBuses965",
+				"SMRTBuses965T"
+			],
+			"stop_code": "67251"
 		},
 		"SingaporeStop_Blk261_S": {
+			"bearing": "S",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.394956,
+				103.894368
+			],
 			"live_code": "SingaporeStop_Blk261_S",
+			"name": "Opp Sengkang General Hosp",
 			"routes": [
 				"SBSTBuses109",
 				"GASBuses119",
@@ -220,61 +314,122 @@
 				"GASBuses83",
 				"GASBuses83T"
 			],
+			"stop_code": "67411"
+		},
+		"SingaporeStop_Blk649_SE": {
+			"bearing": "SE",
+			"brands": [
+				"GASBuses"
+			],
+			"coords": [
+				1.396952,
+				103.914788
+			],
+			"live_code": "SingaporeStop_Blk649_SE",
+			"name": "Blk 649",
+			"routes": [
+				"GASBuses3",
+				"GASBuses83",
+				"GASBuses83T",
+				"GASBuses85"
+			]
+		},
+		"SingaporeStop_OppBlk166A_W": {
+			"bearing": "SW",
 			"brands": [
 				"GASBuses",
 				"SBSTBuses"
 			],
-			"name": "Opp Sengkang General Hosp",
 			"coords": [
-				1.394956,
-				103.894368
+				1.394105,
+				103.916035
 			],
-			"stop_code": "67411",
-			"bearing": "S"
+			"live_code": "SingaporeStop_OppBlk166A_W",
+			"name": "Riviera Stn Exit A",
+			"routes": [
+				"GASBuses3",
+				"GASBuses381",
+				"SBSTBuses50",
+				"GASBuses83",
+				"GASBuses83T",
+				"GASBuses85"
+			],
+			"stop_code": "65239"
 		},
-		"SingaporeStop_PunggolSecSch_SE": {
-			"live_code": "SingaporeStop_PunggolSecSch_SE",
+		"SingaporeStop_OppBlk188_SE": {
+			"bearing": "SE",
+			"brands": [
+				"GASBuses"
+			],
+			"coords": [
+				1.399955,
+				103.910643
+			],
+			"live_code": "SingaporeStop_OppBlk188_SE",
+			"name": "Opp Blk 188",
+			"routes": [
+				"GASBuses3",
+				"GASBuses83",
+				"GASBuses83T",
+				"GASBuses85"
+			]
+		},
+		"SingaporeStop_OppBlk291A_W": {
+			"bearing": "W",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.395214,
+				103.897395
+			],
+			"live_code": "SingaporeStop_OppBlk291A_W",
+			"name": "Opp Blk 291A",
+			"routes": [
+				"SBSTBuses654",
+				"GASBuses83",
+				"GASBuses83T"
+			],
+			"stop_code": "67431"
+		},
+		"SingaporeStop_OppBlk293_SE": {
+			"bearing": "SE",
+			"brands": [
+				"GASBuses"
+			],
+			"coords": [
+				1.404028,
+				103.904808
+			],
+			"live_code": "SingaporeStop_OppBlk293_SE",
+			"name": "BLK 303D",
 			"routes": [
 				"GASBuses136",
 				"GASBuses3",
+				"GASBuses34",
+				"GASBuses34A",
 				"GASBuses381",
 				"GASBuses386",
 				"GASBuses386A",
 				"GASBuses83",
 				"GASBuses83T",
+				"GASBuses84",
 				"GASBuses85"
-			],
-			"brands": [
-				"GASBuses"
-			],
-			"name": "Punggol Sec/Blk 601B",
-			"coords": [
-				1.402012,
-				103.907833
-			],
-			"bearing": "SE"
-		},
-		"SingaporeStop_Blk126A_NW": {
-			"live_code": "SingaporeStop_Blk126A_NW",
-			"routes": [
-				"GASBuses3",
-				"GASBuses381",
-				"GASBuses62",
-				"GASBuses83",
-				"GASBuses83T"
-			],
-			"brands": [
-				"GASBuses"
-			],
-			"name": "Coral Edge Stn Exit A",
-			"coords": [
-				1.394296,
-				103.911902
-			],
-			"bearing": "NW"
+			]
 		},
 		"SingaporeStop_OppBlk323B_S": {
+			"bearing": "SE",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.39231,
+				103.893467
+			],
 			"live_code": "SingaporeStop_OppBlk323B_S",
+			"name": "Sengkang Community Hub",
 			"routes": [
 				"SBSTBuses109",
 				"SBSTBuses156",
@@ -291,199 +446,42 @@
 				"GASBuses85",
 				"GASBuses85A"
 			],
-			"brands": [
-				"GASBuses",
-				"SBSTBuses"
-			],
-			"name": "Sengkang Community Hub",
-			"coords": [
-				1.39231,
-				103.893467
-			],
-			"stop_code": "67441",
-			"bearing": "SE"
+			"stop_code": "67441"
 		},
-		"SingaporeStop_OppBlk291A_W": {
-			"live_code": "SingaporeStop_OppBlk291A_W",
-			"routes": [
-				"SBSTBuses654",
-				"GASBuses83",
-				"GASBuses83T"
-			],
-			"brands": [
-				"GASBuses",
-				"SBSTBuses"
-			],
-			"name": "Opp Blk 291A",
-			"coords": [
-				1.395214,
-				103.897395
-			],
-			"stop_code": "67431",
-			"bearing": "W"
-		},
-		"SingaporeStop_Blk253_W": {
-			"live_code": "SingaporeStop_Blk253_W",
-			"routes": [
-				"SBSTBuses27",
-				"SBSTBuses371",
-				"SBSTBuses654",
-				"GASBuses83",
-				"GASBuses83T",
-				"SBSTBuses89",
-				"SBSTBuses89E",
-				"SMRTBuses965",
-				"SMRTBuses965T"
-			],
-			"brands": [
-				"GASBuses",
-				"SBSTBuses",
-				"SMRTBuses"
-			],
-			"name": "Compassvale Stn Exit A",
-			"coords": [
-				1.394429,
-				103.900312
-			],
-			"stop_code": "67251",
-			"bearing": "W"
-		},
-		"SingaporeStop_SengkangInt_SE": {
-			"live_code": "SingaporeStop_SengkangInt_SE",
-			"routes": [
-				"SBSTBuses156",
-				"SBSTBuses159",
-				"SBSTBuses159A",
-				"SBSTBuses163",
-				"SBSTBuses163A",
-				"SBSTBuses371",
-				"SBSTBuses372",
-				"SBSTBuses80",
-				"SBSTBuses80A",
-				"GASBuses83",
-				"GASBuses83T",
-				"SBSTBuses86",
-				"SBSTBuses87",
-				"SMRTBuses965",
-				"SMRTBuses965T"
-			],
-			"brands": [
-				"GASBuses",
-				"SBSTBuses",
-				"SMRTBuses"
-			],
-			"name": "Sengkang Int",
-			"coords": [
-				1.391781,
-				103.895885
-			],
-			"stop_code": "67009",
-			"bearing": "SE"
-		},
-		"SingaporeStop_OppBlk188_SE": {
-			"live_code": "SingaporeStop_OppBlk188_SE",
-			"routes": [
-				"GASBuses3",
-				"GASBuses83",
-				"GASBuses83T",
-				"GASBuses85"
-			],
+		"SingaporeStop_PunggolSecSch_SE": {
+			"bearing": "SE",
 			"brands": [
 				"GASBuses"
 			],
-			"name": "Opp Blk 188",
 			"coords": [
-				1.399955,
-				103.910643
+				1.402012,
+				103.907833
 			],
-			"bearing": "SE"
-		},
-		"SingaporeStop_OppBlk293_SE": {
-			"live_code": "SingaporeStop_OppBlk293_SE",
+			"live_code": "SingaporeStop_PunggolSecSch_SE",
+			"name": "Punggol Sec/Blk 601B",
 			"routes": [
 				"GASBuses136",
 				"GASBuses3",
-				"GASBuses34",
-				"GASBuses34A",
 				"GASBuses381",
 				"GASBuses386",
 				"GASBuses386A",
 				"GASBuses83",
 				"GASBuses83T",
-				"GASBuses84",
 				"GASBuses85"
-			],
-			"brands": [
-				"GASBuses"
-			],
-			"name": "BLK 303D",
-			"coords": [
-				1.404028,
-				103.904808
-			],
-			"bearing": "SE"
-		},
-		"SingaporeStop_Blk108_NW_1": {
-			"live_code": "SingaporeStop_Blk108_NW_1",
-			"routes": [
-				"GASBuses3",
-				"GASBuses381",
-				"GASBuses62",
-				"GASBuses83",
-				"GASBuses83T"
-			],
-			"brands": [
-				"GASBuses"
-			],
-			"name": "Meridian Stn Exit A",
-			"coords": [
-				1.396457,
-				103.909321
-			],
-			"bearing": "NW"
-		},
-		"SingaporeStop_Blk102C_S": {
-			"live_code": "SingaporeStop_Blk102C_S",
-			"routes": [
-				"GASBuses136",
-				"GASBuses3",
-				"GASBuses34",
-				"GASBuses34A",
-				"GASBuses82",
-				"GASBuses83",
-				"GASBuses83T"
-			],
-			"brands": [
-				"GASBuses"
-			],
-			"name": "Blk 102C",
-			"coords": [
-				1.398936,
-				103.904748
-			],
-			"bearing": "S"
-		},
-		"SingaporeStop_Blk101C_W": {
-			"live_code": "SingaporeStop_Blk101C_W",
-			"routes": [
-				"GASBuses136",
-				"GASBuses3",
-				"GASBuses62",
-				"GASBuses83",
-				"GASBuses83T"
-			],
-			"brands": [
-				"GASBuses"
-			],
-			"name": "Cove Stn Exit A",
-			"coords": [
-				1.398569,
-				103.906653
-			],
-			"bearing": "W"
+			]
 		},
 		"SingaporeStop_PunggolTempInt_E": {
+			"bearing": "E",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.403706,
+				103.902243
+			],
 			"live_code": "SingaporeStop_PunggolTempInt_E",
+			"name": "Punggol Temp Int",
 			"routes": [
 				"SBSTBuses117",
 				"GASBuses118",
@@ -512,37 +510,39 @@
 				"GASBuses84",
 				"GASBuses85"
 			],
+			"stop_code": "65009"
+		},
+		"SingaporeStop_SengkangInt_SE": {
+			"bearing": "SE",
 			"brands": [
 				"GASBuses",
-				"SBSTBuses"
+				"SBSTBuses",
+				"SMRTBuses"
 			],
-			"name": "Punggol Temp Int",
 			"coords": [
-				1.403706,
-				103.902243
+				1.391781,
+				103.895885
 			],
-			"stop_code": "65009",
-			"bearing": "E"
-		},
-		"SingaporeStop_Blk649_SE": {
-			"live_code": "SingaporeStop_Blk649_SE",
+			"live_code": "SingaporeStop_SengkangInt_SE",
+			"name": "Sengkang Int",
 			"routes": [
-				"GASBuses3",
+				"SBSTBuses156",
+				"SBSTBuses159",
+				"SBSTBuses159A",
+				"SBSTBuses163",
+				"SBSTBuses163A",
+				"SBSTBuses371",
+				"SBSTBuses372",
+				"SBSTBuses80",
+				"SBSTBuses80A",
 				"GASBuses83",
 				"GASBuses83T",
-				"GASBuses85"
+				"SBSTBuses86",
+				"SBSTBuses87",
+				"SMRTBuses965",
+				"SMRTBuses965T"
 			],
-			"brands": [
-				"GASBuses"
-			],
-			"name": "Blk 649",
-			"coords": [
-				1.396952,
-				103.914788
-			],
-			"bearing": "SE"
+			"stop_code": "67009"
 		}
-	},
-	"feeds": [],
-	"status": 0
+	}
 }

@@ -1,16 +1,21 @@
 {
+	"feeds": [],
 	"routes": [
 		{
-			"name": "60T",
-			"color": "#5BC824",
-			"text_color": "#FFFFFF",
-			"live_line_code": "SBSTBuses60T",
+			"aliases": [
+				"sbs-transit-60t"
+			],
 			"brand": "SBSTBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "SBSTBuses60T",
+			"long_name": "Eunos Int - Bedok Int",
 			"mode": "bus",
-			"supports_routeinfo": true,
-			"url": "https://citymapper.com/singapore/l/sbs-transit-60t",
+			"name": "60T",
 			"patterns": [
 				{
+					"id": "60T_0",
+					"name": "towards Bedok Int",
 					"path": [
 						[
 							1.319337,
@@ -150,22 +155,30 @@
 							"id": "SingaporeStop_BedokInt_NW",
 							"path_index": 16
 						}
-					],
-					"name": "towards Bedok Int",
-					"id": "60T_0"
+					]
 				}
 			],
-			"live_availability": 0,
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
 			"ui_color": "#5BC824",
-			"long_name": "Eunos Int - Bedok Int",
-			"aliases": [
-				"sbs-transit-60t"
-			]
+			"url": "https://citymapper.com/singapore/l/sbs-transit-60t"
 		}
 	],
+	"status": 0,
 	"stops": {
 		"SingaporeStop_AftKakiBtCtr_E": {
+			"bearing": "E",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.338047,
+				103.916188
+			],
 			"live_code": "SingaporeStop_AftKakiBtCtr_E",
+			"name": "Opp Bedok Ind Pk C",
 			"routes": [
 				"GASBuses15",
 				"SBSTBuses21",
@@ -184,179 +197,22 @@
 				"SBSTBuses8",
 				"SBSTBuses87"
 			],
-			"brands": [
-				"GASBuses",
-				"SBSTBuses",
-				"TTSBuses"
-			],
-			"name": "Opp Bedok Ind Pk C",
-			"coords": [
-				1.338047,
-				103.916188
-			],
-			"stop_code": "84489",
-			"bearing": "E"
-		},
-		"SingaporeStop_BetBlks705706_SW_1": {
-			"live_code": "SingaporeStop_BetBlks705706_SW_1",
-			"routes": [
-				"SBSTBuses137",
-				"SBSTBuses23",
-				"GASBuses518",
-				"SBSTBuses60",
-				"SBSTBuses60T",
-				"SBSTBuses87"
-			],
-			"brands": [
-				"GASBuses",
-				"SBSTBuses"
-			],
-			"name": "Bet Blks 705/706",
-			"coords": [
-				1.335228,
-				103.918451
-			],
-			"stop_code": "84459",
-			"bearing": "S"
-		},
-		"SingaporeStop_Blk133_NE_1": {
-			"live_code": "SingaporeStop_Blk133_NE_1",
-			"routes": [
-				"SBSTBuses21",
-				"SBSTBuses22",
-				"SBSTBuses2N",
-				"SBSTBuses506",
-				"SBSTBuses60",
-				"SBSTBuses60A",
-				"SBSTBuses60T",
-				"SBSTBuses65",
-				"TTSBuses66",
-				"SBSTBuses8",
-				"SBSTBusesCt18"
-			],
-			"brands": [
-				"SBSTBuses",
-				"TTSBuses"
-			],
-			"name": "Blk 133",
-			"coords": [
-				1.332192,
-				103.911841
-			],
-			"stop_code": "72071",
-			"bearing": "NE"
-		},
-		"SingaporeStop_Blk122_E_1": {
-			"live_code": "SingaporeStop_Blk122_E_1",
-			"routes": [
-				"SBSTBuses21",
-				"SBSTBuses22",
-				"SBSTBuses2N",
-				"SBSTBuses506",
-				"SBSTBuses60",
-				"SBSTBuses60A",
-				"SBSTBuses60T",
-				"SBSTBuses65",
-				"TTSBuses66",
-				"SBSTBuses8",
-				"SBSTBusesCt18"
-			],
-			"brands": [
-				"SBSTBuses",
-				"TTSBuses"
-			],
-			"name": "Blk 122",
-			"coords": [
-				1.331779,
-				103.909839
-			],
-			"stop_code": "72061",
-			"bearing": "E"
-		},
-		"SingaporeStop_Blk547_E": {
-			"live_code": "SingaporeStop_Blk547_E",
-			"routes": [
-				"SBSTBuses137",
-				"SBSTBuses45",
-				"SBSTBuses60",
-				"SBSTBuses60T",
-				"SBSTBuses87"
-			],
-			"brands": [
-				"SBSTBuses"
-			],
-			"name": "Blk 547",
-			"coords": [
-				1.329366,
-				103.924625
-			],
-			"stop_code": "84361",
-			"bearing": "E"
-		},
-		"SingaporeStop_KgChaiCheeCc_SE": {
-			"live_code": "SingaporeStop_KgChaiCheeCc_SE",
-			"routes": [
-				"GASBuses17",
-				"SBSTBuses225W",
-				"SBSTBuses60",
-				"SBSTBuses60T",
-				"SBSTBuses87"
-			],
-			"brands": [
-				"GASBuses",
-				"SBSTBuses"
-			],
-			"name": "Blk 423",
-			"coords": [
-				1.328028,
-				103.926874
-			],
-			"stop_code": "84309",
-			"bearing": "SE"
-		},
-		"SingaporeStop_EunosStn_E": {
-			"live_code": "SingaporeStop_EunosStn_E",
-			"routes": [
-				"SBSTBuses13",
-				"SBSTBuses150",
-				"SBSTBuses155",
-				"GASBuses2",
-				"SBSTBuses21",
-				"SBSTBuses24",
-				"SBSTBuses26",
-				"SBSTBuses28",
-				"GASBuses2A",
-				"SBSTBuses30",
-				"SBSTBuses30E",
-				"SBSTBuses51",
-				"SBSTBuses60",
-				"SBSTBuses60A",
-				"SBSTBuses60T",
-				"SMRTBuses61",
-				"SBSTBuses63",
-				"SBSTBuses63A",
-				"SBSTBuses63M",
-				"SMRTBuses67",
-				"SBSTBuses7",
-				"SBSTBuses93",
-				"SBSTBuses94",
-				"SBSTBuses94A"
-			],
-			"brands": [
-				"GASBuses",
-				"SBSTBuses",
-				"SMRTBuses"
-			],
-			"name": "Eunos Stn/ Int",
-			"coords": [
-				1.318762,
-				103.902269
-			],
-			"stop_code": "82061",
-			"bearing": "E"
+			"stop_code": "84489"
 		},
 		"SingaporeStop_BedokInt_NW": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.324539,
+				103.929038
+			],
 			"live_code": "SingaporeStop_BedokInt_NW",
+			"name": "Bedok Int",
 			"routes": [
 				"SBSTBuses14",
 				"SBSTBuses14A",
@@ -400,149 +256,146 @@
 				"SBSTBuses9",
 				"SBSTBuses9A"
 			],
+			"stop_code": "84009"
+		},
+		"SingaporeStop_BedokNthStnExitB_SW": {
+			"bearing": "SW",
 			"brands": [
 				"GASBuses",
-				"SBSTBuses",
-				"SMRTBuses",
-				"TTSBuses"
-			],
-			"name": "Bedok Int",
-			"coords": [
-				1.324539,
-				103.929038
-			],
-			"stop_code": "84009",
-			"bearing": "NW"
-		},
-		"SingaporeStop_Blk17_NW": {
-			"live_code": "SingaporeStop_Blk17_NW",
-			"routes": [
-				"GASBuses15",
-				"SBSTBuses21",
-				"SBSTBuses25",
-				"SBSTBuses2N",
-				"SBSTBuses51",
-				"SBSTBuses55",
-				"SBSTBuses60",
-				"SBSTBuses60A",
-				"SBSTBuses60T",
-				"SMRTBuses61",
-				"SBSTBuses63",
-				"SBSTBuses63A",
-				"SBSTBuses63M",
-				"SMRTBuses854",
-				"SBSTBuses93",
-				"SBSTBuses94",
-				"SBSTBuses94A",
-				"SMRTBuses966"
-			],
-			"brands": [
-				"GASBuses",
-				"SBSTBuses",
-				"SMRTBuses"
-			],
-			"name": "Blk 17",
-			"coords": [
-				1.323469,
-				103.905273
-			],
-			"stop_code": "83111",
-			"bearing": "NW"
-		},
-		"SingaporeStop_Blk646_E": {
-			"live_code": "SingaporeStop_Blk646_E",
-			"routes": [
-				"SBSTBuses21",
-				"SBSTBuses22",
-				"SBSTBuses2N",
-				"SBSTBuses506",
-				"SBSTBuses60",
-				"SBSTBuses60A",
-				"SBSTBuses60T",
-				"SBSTBuses65",
-				"TTSBuses66",
-				"SBSTBuses8",
-				"SBSTBusesCt18"
-			],
-			"brands": [
-				"SBSTBuses",
-				"TTSBuses"
-			],
-			"name": "Blk 646",
-			"coords": [
-				1.330965,
-				103.906322
-			],
-			"stop_code": "72021",
-			"bearing": "E"
-		},
-		"SingaporeStop_Blk608_N": {
-			"live_code": "SingaporeStop_Blk608_N",
-			"routes": [
-				"SBSTBuses228",
-				"SBSTBuses60",
-				"SBSTBuses60A",
-				"SBSTBuses60T"
-			],
-			"brands": [
 				"SBSTBuses"
 			],
-			"name": "Blk 608",
 			"coords": [
-				1.33207,
-				103.913294
+				1.335034,
+				103.918518
 			],
-			"stop_code": "84511",
-			"bearing": "N"
+			"live_code": "SingaporeStop_BedokNthStnExitB_SW",
+			"name": "BEDOK NTH STN EXIT B",
+			"routes": [
+				"SBSTBuses137",
+				"SBSTBuses23",
+				"GASBuses518",
+				"SBSTBuses60",
+				"SBSTBuses60T",
+				"SBSTBuses87"
+			],
+			"stop_code": "84539"
 		},
-		"SingaporeStop_Blk140_NE": {
-			"live_code": "SingaporeStop_Blk140_NE",
+		"SingaporeStop_BetBlks705706_SW_1": {
+			"bearing": "S",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.335228,
+				103.918451
+			],
+			"live_code": "SingaporeStop_BetBlks705706_SW_1",
+			"name": "Bet Blks 705/706",
+			"routes": [
+				"SBSTBuses137",
+				"SBSTBuses23",
+				"GASBuses518",
+				"SBSTBuses60",
+				"SBSTBuses60T",
+				"SBSTBuses87"
+			],
+			"stop_code": "84459"
+		},
+		"SingaporeStop_Blk122_E_1": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.331779,
+				103.909839
+			],
+			"live_code": "SingaporeStop_Blk122_E_1",
+			"name": "Blk 122",
 			"routes": [
 				"SBSTBuses21",
 				"SBSTBuses22",
-				"SBSTBuses228",
 				"SBSTBuses2N",
 				"SBSTBuses506",
 				"SBSTBuses60",
+				"SBSTBuses60A",
 				"SBSTBuses60T",
 				"SBSTBuses65",
 				"TTSBuses66",
 				"SBSTBuses8",
 				"SBSTBusesCt18"
 			],
+			"stop_code": "72061"
+		},
+		"SingaporeStop_Blk133_NE_1": {
+			"bearing": "NE",
 			"brands": [
 				"SBSTBuses",
 				"TTSBuses"
 			],
-			"name": "Blk 140",
+			"coords": [
+				1.332192,
+				103.911841
+			],
+			"live_code": "SingaporeStop_Blk133_NE_1",
+			"name": "Blk 133",
+			"routes": [
+				"SBSTBuses21",
+				"SBSTBuses22",
+				"SBSTBuses2N",
+				"SBSTBuses506",
+				"SBSTBuses60",
+				"SBSTBuses60A",
+				"SBSTBuses60T",
+				"SBSTBuses65",
+				"TTSBuses66",
+				"SBSTBuses8",
+				"SBSTBusesCt18"
+			],
+			"stop_code": "72071"
+		},
+		"SingaporeStop_Blk140_NE": {
+			"bearing": "NE",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
 			"coords": [
 				1.335208,
 				103.914016
 			],
-			"stop_code": "84499",
-			"bearing": "NE"
-		},
-		"SingaporeStop_ChristCh_W": {
-			"live_code": "SingaporeStop_ChristCh_W",
+			"live_code": "SingaporeStop_Blk140_NE",
+			"name": "Blk 140",
 			"routes": [
+				"SBSTBuses21",
+				"SBSTBuses22",
 				"SBSTBuses228",
+				"SBSTBuses2N",
+				"SBSTBuses506",
 				"SBSTBuses60",
-				"SBSTBuses60A",
-				"SBSTBuses60T"
+				"SBSTBuses60T",
+				"SBSTBuses65",
+				"TTSBuses66",
+				"SBSTBuses8",
+				"SBSTBusesCt18"
 			],
-			"brands": [
-				"SBSTBuses"
-			],
-			"name": "Christ Ch",
-			"coords": [
-				1.333195,
-				103.915989
-			],
-			"stop_code": "84501",
-			"bearing": "SW"
+			"stop_code": "84499"
 		},
-		"SingaporeStop_EunosStn_N": {
-			"live_code": "SingaporeStop_EunosStn_N",
+		"SingaporeStop_Blk17_NW": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"coords": [
+				1.323469,
+				103.905273
+			],
+			"live_code": "SingaporeStop_Blk17_NW",
+			"name": "Blk 17",
 			"routes": [
 				"GASBuses15",
 				"SBSTBuses21",
@@ -563,21 +416,21 @@
 				"SBSTBuses94A",
 				"SMRTBuses966"
 			],
+			"stop_code": "83111"
+		},
+		"SingaporeStop_Blk322_N": {
+			"bearing": "NW",
 			"brands": [
 				"GASBuses",
 				"SBSTBuses",
 				"SMRTBuses"
 			],
-			"name": "Eunos Stn",
 			"coords": [
-				1.320667,
-				103.904898
+				1.328165,
+				103.905484
 			],
-			"stop_code": "83101",
-			"bearing": "N"
-		},
-		"SingaporeStop_Blk322_N": {
 			"live_code": "SingaporeStop_Blk322_N",
+			"name": "Blk 322",
 			"routes": [
 				"GASBuses15",
 				"SBSTBuses21",
@@ -602,21 +455,105 @@
 				"SBSTBuses94A",
 				"SBSTBusesCt18"
 			],
+			"stop_code": "72011"
+		},
+		"SingaporeStop_Blk547_E": {
+			"bearing": "E",
 			"brands": [
-				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.329366,
+				103.924625
+			],
+			"live_code": "SingaporeStop_Blk547_E",
+			"name": "Blk 547",
+			"routes": [
+				"SBSTBuses137",
+				"SBSTBuses45",
+				"SBSTBuses60",
+				"SBSTBuses60T",
+				"SBSTBuses87"
+			],
+			"stop_code": "84361"
+		},
+		"SingaporeStop_Blk608_N": {
+			"bearing": "N",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.33207,
+				103.913294
+			],
+			"live_code": "SingaporeStop_Blk608_N",
+			"name": "Blk 608",
+			"routes": [
+				"SBSTBuses228",
+				"SBSTBuses60",
+				"SBSTBuses60A",
+				"SBSTBuses60T"
+			],
+			"stop_code": "84511"
+		},
+		"SingaporeStop_Blk646_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.330965,
+				103.906322
+			],
+			"live_code": "SingaporeStop_Blk646_E",
+			"name": "Blk 646",
+			"routes": [
+				"SBSTBuses21",
+				"SBSTBuses22",
+				"SBSTBuses2N",
+				"SBSTBuses506",
+				"SBSTBuses60",
+				"SBSTBuses60A",
+				"SBSTBuses60T",
+				"SBSTBuses65",
+				"TTSBuses66",
+				"SBSTBuses8",
+				"SBSTBusesCt18"
+			],
+			"stop_code": "72021"
+		},
+		"SingaporeStop_ChristCh_W": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.333195,
+				103.915989
+			],
+			"live_code": "SingaporeStop_ChristCh_W",
+			"name": "Christ Ch",
+			"routes": [
+				"SBSTBuses228",
+				"SBSTBuses60",
+				"SBSTBuses60A",
+				"SBSTBuses60T"
+			],
+			"stop_code": "84501"
+		},
+		"SingaporeStop_EunosInt_SE": {
+			"bearing": "S",
+			"brands": [
 				"SBSTBuses",
 				"SMRTBuses"
 			],
-			"name": "Blk 322",
 			"coords": [
-				1.328165,
-				103.905484
+				1.319337,
+				103.901808
 			],
-			"stop_code": "72011",
-			"bearing": "NW"
-		},
-		"SingaporeStop_EunosInt_SE": {
 			"live_code": "SingaporeStop_EunosInt_SE",
+			"name": "Eunos Int",
 			"routes": [
 				"SBSTBuses150",
 				"SBSTBuses154",
@@ -632,41 +569,104 @@
 				"SBSTBuses94",
 				"SBSTBuses94A"
 			],
+			"stop_code": "82009"
+		},
+		"SingaporeStop_EunosStn_E": {
+			"bearing": "E",
 			"brands": [
+				"GASBuses",
 				"SBSTBuses",
 				"SMRTBuses"
 			],
-			"name": "Eunos Int",
 			"coords": [
-				1.319337,
-				103.901808
+				1.318762,
+				103.902269
 			],
-			"stop_code": "82009",
-			"bearing": "S"
-		},
-		"SingaporeStop_BedokNthStnExitB_SW": {
-			"live_code": "SingaporeStop_BedokNthStnExitB_SW",
+			"live_code": "SingaporeStop_EunosStn_E",
+			"name": "Eunos Stn/ Int",
 			"routes": [
-				"SBSTBuses137",
-				"SBSTBuses23",
-				"GASBuses518",
+				"SBSTBuses13",
+				"SBSTBuses150",
+				"SBSTBuses155",
+				"GASBuses2",
+				"SBSTBuses21",
+				"SBSTBuses24",
+				"SBSTBuses26",
+				"SBSTBuses28",
+				"GASBuses2A",
+				"SBSTBuses30",
+				"SBSTBuses30E",
+				"SBSTBuses51",
 				"SBSTBuses60",
+				"SBSTBuses60A",
 				"SBSTBuses60T",
-				"SBSTBuses87"
+				"SMRTBuses61",
+				"SBSTBuses63",
+				"SBSTBuses63A",
+				"SBSTBuses63M",
+				"SMRTBuses67",
+				"SBSTBuses7",
+				"SBSTBuses93",
+				"SBSTBuses94",
+				"SBSTBuses94A"
 			],
+			"stop_code": "82061"
+		},
+		"SingaporeStop_EunosStn_N": {
+			"bearing": "N",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses",
+				"SMRTBuses"
+			],
+			"coords": [
+				1.320667,
+				103.904898
+			],
+			"live_code": "SingaporeStop_EunosStn_N",
+			"name": "Eunos Stn",
+			"routes": [
+				"GASBuses15",
+				"SBSTBuses21",
+				"SBSTBuses25",
+				"SBSTBuses2N",
+				"SBSTBuses51",
+				"SBSTBuses55",
+				"SBSTBuses60",
+				"SBSTBuses60A",
+				"SBSTBuses60T",
+				"SMRTBuses61",
+				"SBSTBuses63",
+				"SBSTBuses63A",
+				"SBSTBuses63M",
+				"SMRTBuses854",
+				"SBSTBuses93",
+				"SBSTBuses94",
+				"SBSTBuses94A",
+				"SMRTBuses966"
+			],
+			"stop_code": "83101"
+		},
+		"SingaporeStop_KgChaiCheeCc_SE": {
+			"bearing": "SE",
 			"brands": [
 				"GASBuses",
 				"SBSTBuses"
 			],
-			"name": "BEDOK NTH STN EXIT B",
 			"coords": [
-				1.335034,
-				103.918518
+				1.328028,
+				103.926874
 			],
-			"stop_code": "84539",
-			"bearing": "SW"
+			"live_code": "SingaporeStop_KgChaiCheeCc_SE",
+			"name": "Blk 423",
+			"routes": [
+				"GASBuses17",
+				"SBSTBuses225W",
+				"SBSTBuses60",
+				"SBSTBuses60T",
+				"SBSTBuses87"
+			],
+			"stop_code": "84309"
 		}
-	},
-	"feeds": [],
-	"status": 0
+	}
 }
