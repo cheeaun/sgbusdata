@@ -5008,16 +5008,6 @@
 		]
 	},
 	{
-		"number": "73A",
-		"type": "TRUNK",
-		"kmlFile": [
-			"73A-1.kml"
-		],
-		"routeFile": [
-			"73A.xml"
-		]
-	},
-	{
 		"number": "73T",
 		"type": "TRUNK",
 		"kmlFile": [

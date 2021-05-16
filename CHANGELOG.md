@@ -1,3 +1,22 @@
+# 16 May 2021
+
+### Services added: 1
+
+- `911T` W'Lands Temp Int → W'Lands Temp Int
+
+### Services removed: 1
+
+- `73A` Ang Mo Kio Int → Toa Payoh Int
+
+## Routes changed: 3
+
+- `73T` Ang Mo Kio Int → Toa Payoh Int
+- `911T` W'Lands Temp Int → W'Lands Temp Int
+
+## First/last timings changed
+
+Affected services: `151e`, `73T`, `8`, `88`, `90`, `90A`, `93`, `86`, `74`, `74e`, `76`, `88B`, `CT8`, `854`, `854e`, `853`, `853M`
+
 # 4 May 2021
 
 ## First/last timings changed

@@ -38,10 +38,6 @@
 			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
-			"fileName": "73T-1.kml",
-			"e": "HTTPError: Response code 403 (Forbidden)"
-		},
-		{
 			"fileName": "83T-1.kml",
 			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
