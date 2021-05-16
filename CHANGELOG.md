@@ -2,7 +2,7 @@
 
 ## First/last timings changed
 
-Affected services: 115, 155
+Affected services: `115`, `155`
 
 # 28 April 2021
 
