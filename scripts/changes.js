@@ -142,9 +142,11 @@ const routesDiff = diff(oldRoutes, newRoutes);
 if (routesDiff.length) {
   const services = new Set(routesDiff.map((d) => d.path[0]));
   nlog(`## Routes changed: ${services.size}\n`);
-  services.forEach((service) => {
-    log(`- \`${service}\` ${newServices[service].name}`);
-  });
+  [...services]
+    .filter((s) => !!newServices[s])
+    .forEach((service) => {
+      log(`- \`${service}\` ${newServices[service].name}`);
+    });
 }
 
 const [oldFL, newFL] = readOldNewData('data/v1/firstlast.json');
@@ -152,8 +154,12 @@ const flDiff = diff(oldFL, newFL);
 
 if (flDiff.length) {
   nlog(`## First/last timings changed\n`);
-  const services = new Set(flDiff.map((fl) => fl.value.split(' ')[0]));
-  log(`Affected services: ${[...services].join(', ')}`);
+  const services = new Set(
+    flDiff
+      .filter((fl) => fl.op !== 'remove')
+      .map((fl) => fl.value.split(' ')[0]),
+  );
+  log(`Affected services: ${[...services].map((s) => `\`${s}\``).join(', ')}`);
 }
 
 // Throw an error to stop everything if there are no changes
