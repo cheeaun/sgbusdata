@@ -11,7 +11,7 @@
     "changes": "echo \"$(node scripts/changes)\n\n$(cat CHANGELOG.md)\" > CHANGELOG.md",
     "last-updated": "node -e \"require('./utils').writeFile('./data/v1/last-updated.txt', new Date().toJSON());\"",
     "build": "npm run cleanup && npm run fetch",
-    "postbuild": "git diff --diff-filter=AM --quiet data; nochanges=$?; if [ $nochanges -eq 0 ]; then echo '✨ No Changes ✨'; else npm run datamall && npm run patch && npm run generate && npm run changes && npm run last-updated; fi;"
+    "postbuild": "git diff --diff-filter=AM --quiet data; nochanges=$?; if [ $nochanges -eq 0 ]; then git checkout data && echo '✨ No Changes ✨'; else npm run datamall && npm run patch && npm run generate && npm run changes && npm run last-updated; fi;"
   },
   "author": "Lim Chee Aun <cheeaun@gmail.com>",
   "license": "ISC",
