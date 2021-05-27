@@ -25,6 +25,7 @@
     "fastest-validator": "~1.10.1",
     "form-data": "~4.0.0",
     "got": "~11.8.2",
+    "he": "~1.2.0",
     "hyperdiff": "~2.0.8",
     "just-diff": "~3.1.1",
     "simplify-js": "~1.2.4",
