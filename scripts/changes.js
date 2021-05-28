@@ -58,20 +58,26 @@ if (stopsDiff.length) {
     const nameChangedDiff = replacedDiff.filter((d) => d.path[1] === 2);
     const locationChangedDiff = replacedDiff.filter((d) => d.path[1] !== 2);
 
-    nlog(`### Stop names changed: ${nameChangedDiff.length}\n`);
-    nameChangedDiff.forEach((d) => {
-      const { value } = d;
-      const oldValue = oldStops[path[0]][path[1]];
-      log(`- \`${number}\` ${oldValue} ⮕ ${value}`);
-    });
+    if (nameChangedDiff.length) {
+      nlog(`### Stop names changed: ${nameChangedDiff.length}\n`);
+      nameChangedDiff.forEach((d) => {
+        const { path, value } = d;
+        const number = path[0];
+        const oldValue = oldStops[path[0]][path[1]];
+        log(`- \`${number}\` ${oldValue} ⮕ ${value}`);
+      });
+    }
 
-    nlog(`### Stop locations changed: ${locationChangedDiff.length}\n`);
-    locationChangedDiff.forEach((d) => {
-      const { path } = d;
-      const oldCoord = [oldStops[path[0]][0], oldStops[path[0]][1]];
-      const newCoord = [newStops[path[0]][0], newStops[path[0]][1]];
-      log(`- \`${number}\` ${oldCoord.join(',')} ⮕ ${newCoord.join(',')}`);
-    });
+    if (locationChangedDiff.length) {
+      nlog(`### Stop locations changed: ${locationChangedDiff.length}\n`);
+      locationChangedDiff.forEach((d) => {
+        const { path } = d;
+        const number = path[0];
+        const oldCoord = [oldStops[path[0]][0], oldStops[path[0]][1]];
+        const newCoord = [newStops[path[0]][0], newStops[path[0]][1]];
+        log(`- \`${number}\` ${oldCoord.join(',')} ⮕ ${newCoord.join(',')}`);
+      });
+    }
   }
 }
 
@@ -141,13 +147,13 @@ const routesDiff = diff(oldRoutes, newRoutes);
 
 if (routesDiff.length) {
   const services = new Set(routesDiff.map((d) => d.path[0]));
-  nlog(`## Routes changed: ${services.size}\n`);
+    nlog(`## Routes changed: ${services.size}\n`);
   [...services]
     .filter((s) => !!newServices[s])
     .forEach((service) => {
       log(`- \`${service}\` ${newServices[service].name}`);
     });
-}
+  }
 
 const [oldFL, newFL] = readOldNewData('data/v1/firstlast.json');
 const flDiff = diff(oldFL, newFL);
