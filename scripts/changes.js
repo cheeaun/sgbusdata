@@ -146,14 +146,16 @@ const [oldRoutes, newRoutes] = readOldNewData('data/v1/routes.json');
 const routesDiff = diff(oldRoutes, newRoutes);
 
 if (routesDiff.length) {
-  const services = new Set(routesDiff.map((d) => d.path[0]));
+  const services = [...new Set(routesDiff.map((d) => d.path[0]))].filter(
+    (s) => !!newServices[s],
+  );
+  if (services.length) {
     nlog(`## Routes changed: ${services.size}\n`);
-  [...services]
-    .filter((s) => !!newServices[s])
-    .forEach((service) => {
+    services.forEach((service) => {
       log(`- \`${service}\` ${newServices[service].name}`);
     });
   }
+}
 
 const [oldFL, newFL] = readOldNewData('data/v1/firstlast.json');
 const flDiff = diff(oldFL, newFL);
