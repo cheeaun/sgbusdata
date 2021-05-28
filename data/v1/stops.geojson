@@ -9453,7 +9453,7 @@
 			"id": "16199",
 			"properties": {
 				"number": "16199",
-				"name": "NUS Fac Of Design &amp; Env",
+				"name": "NUS Fac Of Design & Env",
 				"services": [
 					"151",
 					"151e",
@@ -12491,7 +12491,7 @@
 			"id": "19041",
 			"properties": {
 				"number": "19041",
-				"name": "Opp Sch Of Science &amp; Tech",
+				"name": "Opp Sch Of Science & Tech",
 				"services": [
 					"105",
 					"106",
@@ -12518,7 +12518,7 @@
 			"id": "19049",
 			"properties": {
 				"number": "19049",
-				"name": "Sch Of Science &amp; Tech",
+				"name": "Sch Of Science & Tech",
 				"services": [
 					"105",
 					"106",
@@ -12885,7 +12885,7 @@
 			"id": "20051",
 			"properties": {
 				"number": "20051",
-				"name": "Cycle &amp; Carriage",
+				"name": "Cycle & Carriage",
 				"services": [
 					"154",
 					"197",
@@ -12906,7 +12906,7 @@
 			"id": "20059",
 			"properties": {
 				"number": "20059",
-				"name": "Opp Cycle &amp; Carriage",
+				"name": "Opp Cycle & Carriage",
 				"services": [
 					"154",
 					"154B",
@@ -19771,7 +19771,7 @@
 			"id": "23399",
 			"properties": {
 				"number": "23399",
-				"name": "Keppel Offshore &amp; Marine",
+				"name": "Keppel Offshore & Marine",
 				"services": [
 					"251"
 				]
@@ -20568,7 +20568,7 @@
 			"id": "24289",
 			"properties": {
 				"number": "24289",
-				"name": "Opp Keppel T&amp;T",
+				"name": "Opp Keppel T&T",
 				"services": [
 					"255"
 				]
@@ -23129,7 +23129,7 @@
 			"id": "25609",
 			"properties": {
 				"number": "25609",
-				"name": "MERCK SHARP &amp; DOHME",
+				"name": "Merck Sharp & Dohme",
 				"services": [
 					"247"
 				]
@@ -31071,7 +31071,6 @@
 				"services": [
 					"166",
 					"170",
-					"170A",
 					"1N",
 					"3N",
 					"48",
@@ -31137,7 +31136,6 @@
 				"name": "Bef Winstedt Rd",
 				"services": [
 					"170",
-					"170A",
 					"48",
 					"66",
 					"67",
@@ -31185,7 +31183,6 @@
 				"name": "Newton FC",
 				"services": [
 					"170",
-					"170A",
 					"48",
 					"66",
 					"67",
@@ -31233,7 +31230,6 @@
 				"name": "Newton Stn Exit C",
 				"services": [
 					"170",
-					"170A",
 					"48",
 					"66",
 					"67",
@@ -31283,7 +31279,6 @@
 				"name": "Balmoral Plaza",
 				"services": [
 					"170",
-					"170A",
 					"48",
 					"66",
 					"67",
@@ -31358,7 +31353,6 @@
 				"name": "Leng Kwang Baptist Ch",
 				"services": [
 					"170",
-					"170A",
 					"48",
 					"66",
 					"67",
@@ -31408,7 +31402,6 @@
 				"name": "Stevens Stn",
 				"services": [
 					"170",
-					"170A",
 					"48",
 					"66",
 					"67",
@@ -31462,7 +31455,6 @@
 					"154",
 					"156",
 					"170",
-					"170A",
 					"186",
 					"48",
 					"66",
@@ -31509,7 +31501,7 @@
 			"id": "40101",
 			"properties": {
 				"number": "40101",
-				"name": "Kk Women &amp; Children Hosp",
+				"name": "Kk Women & Children Hosp",
 				"services": [
 					"166",
 					"56",
@@ -31531,7 +31523,7 @@
 			"id": "40109",
 			"properties": {
 				"number": "40109",
-				"name": "Opp KK Women &amp; Child Hosp",
+				"name": "Opp KK Women & Child Hosp",
 				"services": [
 					"131",
 					"131A",
@@ -31558,7 +31550,6 @@
 				"name": "City Twrs",
 				"services": [
 					"170",
-					"170A",
 					"48",
 					"66",
 					"67",
@@ -32116,10 +32107,9 @@
 			"id": "40271",
 			"properties": {
 				"number": "40271",
-				"name": "Opp KK Women &amp; Child Hosp",
+				"name": "Opp KK Women & Child Hosp",
 				"services": [
 					"170",
-					"170A",
 					"48",
 					"66",
 					"67",
@@ -32140,7 +32130,7 @@
 			"id": "40279",
 			"properties": {
 				"number": "40279",
-				"name": "Kk Women &amp; Children Hosp",
+				"name": "Kk Women & Children Hosp",
 				"services": [
 					"170",
 					"48",
@@ -32453,7 +32443,6 @@
 					"154",
 					"156",
 					"170",
-					"170A",
 					"186",
 					"48",
 					"66",
@@ -32507,7 +32496,6 @@
 					"154",
 					"156",
 					"170",
-					"170A",
 					"186",
 					"48",
 					"66",
@@ -32561,7 +32549,6 @@
 					"156",
 					"157",
 					"170",
-					"170A",
 					"174",
 					"66",
 					"67",
@@ -32591,7 +32578,6 @@
 					"156",
 					"157",
 					"170",
-					"170A",
 					"174",
 					"66",
 					"67",
@@ -32651,7 +32637,6 @@
 					"156",
 					"157",
 					"170",
-					"170A",
 					"174",
 					"66",
 					"67",
@@ -32681,7 +32666,6 @@
 					"156",
 					"157",
 					"170",
-					"170A",
 					"174",
 					"66",
 					"67",
@@ -32741,7 +32725,6 @@
 					"156",
 					"157",
 					"170",
-					"170A",
 					"174",
 					"66",
 					"67",
@@ -32801,7 +32784,6 @@
 					"156",
 					"157",
 					"170",
-					"170A",
 					"174",
 					"66",
 					"67",
@@ -33161,7 +33143,6 @@
 					"154",
 					"157",
 					"170",
-					"170A",
 					"174",
 					"66",
 					"67",
@@ -33222,7 +33203,6 @@
 					"154",
 					"157",
 					"170",
-					"170A",
 					"174",
 					"66",
 					"67",
@@ -33284,7 +33264,6 @@
 					"154",
 					"157",
 					"170",
-					"170A",
 					"174",
 					"66",
 					"67",
@@ -33346,7 +33325,6 @@
 					"154",
 					"157",
 					"170",
-					"170A",
 					"174",
 					"66",
 					"67",
@@ -33408,7 +33386,6 @@
 					"154",
 					"157",
 					"170",
-					"170A",
 					"174",
 					"66",
 					"67",
@@ -33470,7 +33447,6 @@
 					"154",
 					"157",
 					"170",
-					"170A",
 					"174",
 					"66",
 					"67",
@@ -33499,7 +33475,6 @@
 				"services": [
 					"157",
 					"170",
-					"170A",
 					"174",
 					"184",
 					"41",
@@ -33583,7 +33558,6 @@
 				"name": "Beauty World Stn Exit B",
 				"services": [
 					"170",
-					"170A",
 					"173",
 					"184",
 					"67",
@@ -33651,7 +33625,6 @@
 				"name": "Woh Hup Bldg",
 				"services": [
 					"170",
-					"170A",
 					"173",
 					"184",
 					"67",
@@ -34263,7 +34236,7 @@
 			"id": "42259",
 			"properties": {
 				"number": "42259",
-				"name": "Goh &amp; Goh Bldg",
+				"name": "Goh & Goh Bldg",
 				"services": [
 					"157",
 					"174",
@@ -34465,7 +34438,6 @@
 				"name": "Bt Regency",
 				"services": [
 					"170",
-					"170A",
 					"173",
 					"184",
 					"67",
@@ -34516,7 +34488,6 @@
 				"name": "Aft Old Jurong Rd",
 				"services": [
 					"170",
-					"170A",
 					"173",
 					"178",
 					"184",
@@ -34567,7 +34538,6 @@
 				"name": "Hume Pk Condo",
 				"services": [
 					"170",
-					"170A",
 					"178",
 					"184",
 					"67",
@@ -34617,7 +34587,6 @@
 				"name": "Opp The Rail Mall",
 				"services": [
 					"170",
-					"170A",
 					"178",
 					"184",
 					"67",
@@ -34667,7 +34636,6 @@
 				"name": "Hillview Stn",
 				"services": [
 					"170",
-					"170A",
 					"176",
 					"178",
 					"184",
@@ -34720,7 +34688,6 @@
 				"name": "Opp Dairy Farm Rd",
 				"services": [
 					"170",
-					"170A",
 					"176",
 					"178",
 					"184",
@@ -34748,7 +34715,6 @@
 				"name": "Opp Assumption Eng Sch",
 				"services": [
 					"170",
-					"170A",
 					"176",
 					"178",
 					"184",
@@ -34803,7 +34769,6 @@
 				"name": "Bef Cashew Stn",
 				"services": [
 					"170",
-					"170A",
 					"176",
 					"178",
 					"67",
@@ -34881,7 +34846,6 @@
 				"name": "Min Of Defence",
 				"services": [
 					"170",
-					"170A",
 					"176",
 					"177",
 					"178",
@@ -37913,7 +37877,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"184",
 					"75",
@@ -37977,7 +37940,6 @@
 				"name": "Opp The Linear",
 				"services": [
 					"170",
-					"170A",
 					"176",
 					"177",
 					"178",
@@ -38030,7 +37992,6 @@
 				"name": "Bt Panjang Stn Exit B",
 				"services": [
 					"170",
-					"170A",
 					"176",
 					"177",
 					"178",
@@ -38107,7 +38068,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"184",
 					"75",
@@ -38160,7 +38120,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"184",
 					"75",
@@ -38213,7 +38172,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"925",
 					"927",
@@ -41598,7 +41556,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"925",
 					"927",
@@ -41651,7 +41608,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"925",
 					"927",
@@ -41704,7 +41660,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"925",
 					"927",
@@ -41755,7 +41710,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"927",
 					"960",
@@ -41805,7 +41759,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"927",
 					"960",
@@ -41854,7 +41807,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"927",
 					"960",
@@ -41903,7 +41855,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"927",
 					"960",
@@ -41952,7 +41903,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"960",
 					"961",
@@ -41999,7 +41949,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"960",
 					"961",
@@ -42046,7 +41995,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"960",
 					"961",
@@ -42093,7 +42041,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"178",
 					"925",
 					"925M",
@@ -42145,7 +42092,6 @@
 				"services": [
 					"160",
 					"170",
-					"170A",
 					"170X",
 					"178",
 					"925",
@@ -43639,7 +43585,6 @@
 				"name": "Bef W'Lands Ind Pk D St 2",
 				"services": [
 					"170",
-					"170A",
 					"170X"
 				]
 			},
@@ -43681,7 +43626,6 @@
 				"name": "Kranji Lodge 1",
 				"services": [
 					"170",
-					"170A",
 					"170X"
 				]
 			},
@@ -43723,7 +43667,6 @@
 				"name": "Opp Globalfoundries",
 				"services": [
 					"170",
-					"170A",
 					"170X"
 				]
 			},
@@ -43765,7 +43708,6 @@
 				"name": "Bef BKE",
 				"services": [
 					"170",
-					"170A",
 					"170X"
 				]
 			},
@@ -43807,7 +43749,6 @@
 				"name": "W'Lands Train Checkpt",
 				"services": [
 					"170",
-					"170A",
 					"178",
 					"856",
 					"856A",
@@ -49080,7 +49021,7 @@
 			"id": "48141",
 			"properties": {
 				"number": "48141",
-				"name": "Opp Mandai Crematorium &amp; Columbarium",
+				"name": "Opp Mandai Crematorium & Columbarium",
 				"services": [
 					"171"
 				]
@@ -49098,7 +49039,7 @@
 			"id": "48149",
 			"properties": {
 				"number": "48149",
-				"name": "Mandai Crematorium &amp; Columbarium",
+				"name": "Mandai Crematorium & Columbarium",
 				"services": [
 					"171"
 				]
@@ -49152,7 +49093,7 @@
 			"id": "49021",
 			"properties": {
 				"number": "49021",
-				"name": "WHYE WAH DEVT &amp; CONSTRN",
+				"name": "Whye Wah Devt & Constrn",
 				"services": [
 					"925"
 				]
@@ -80869,7 +80810,7 @@
 			"id": "70071",
 			"properties": {
 				"number": "70071",
-				"name": "Cycle &amp; Carriage",
+				"name": "Cycle & Carriage",
 				"services": [
 					"137",
 					"58",
@@ -102663,7 +102604,7 @@
 			"id": "96341",
 			"properties": {
 				"number": "96341",
-				"name": "Aft Sunny Metal &amp; Engrg",
+				"name": "Aft Sunny Metal & Engrg",
 				"services": [
 					"20"
 				]
@@ -104402,7 +104343,7 @@
 			"id": "98219",
 			"properties": {
 				"number": "98219",
-				"name": "Pratt &amp; Whitney Canada",
+				"name": "Pratt & Whitney Canada",
 				"services": [
 					"6"
 				]
@@ -105296,8 +105237,7 @@
 				"number": "01109",
 				"name": "Queen St Ter",
 				"services": [
-					"170",
-					"170A"
+					"170"
 				]
 			},
 			"geometry": {
@@ -110191,7 +110131,6 @@
 				"name": "Rochor Stn",
 				"services": [
 					"170",
-					"170A",
 					"23",
 					"48",
 					"57",
@@ -110252,7 +110191,6 @@
 				"name": "Fu Lu Shou Cplx",
 				"services": [
 					"170",
-					"170A",
 					"48",
 					"57",
 					"851",

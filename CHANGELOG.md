@@ -1,3 +1,37 @@
+# 28 May 2021
+
+### Stop names changed: 19
+
+- `16199` NUS Fac Of Design &amp; Env ⮕ NUS Fac Of Design & Env
+- `19041` Opp Sch Of Science &amp; Tech ⮕ Opp Sch Of Science & Tech
+- `19049` Sch Of Science &amp; Tech ⮕ Sch Of Science & Tech
+- `20051` Cycle &amp; Carriage ⮕ Cycle & Carriage
+- `20059` Opp Cycle &amp; Carriage ⮕ Opp Cycle & Carriage
+- `23399` Keppel Offshore &amp; Marine ⮕ Keppel Offshore & Marine
+- `24289` Opp Keppel T&amp;T ⮕ Opp Keppel T&T
+- `25609` MERCK SHARP &amp; DOHME ⮕ Merck Sharp & Dohme
+- `40101` Kk Women &amp; Children Hosp ⮕ Kk Women & Children Hosp
+- `40109` Opp KK Women &amp; Child Hosp ⮕ Opp KK Women & Child Hosp
+- `40271` Opp KK Women &amp; Child Hosp ⮕ Opp KK Women & Child Hosp
+- `40279` Kk Women &amp; Children Hosp ⮕ Kk Women & Children Hosp
+- `42259` Goh &amp; Goh Bldg ⮕ Goh & Goh Bldg
+- `48141` Opp Mandai Crematorium &amp; Columbarium ⮕ Opp Mandai Crematorium & Columbarium
+- `48149` Mandai Crematorium &amp; Columbarium ⮕ Mandai Crematorium & Columbarium
+- `49021` WHYE WAH DEVT &amp; CONSTRN ⮕ Whye Wah Devt & Constrn
+- `70071` Cycle &amp; Carriage ⮕ Cycle & Carriage
+- `96341` Aft Sunny Metal &amp; Engrg ⮕ Aft Sunny Metal & Engrg
+- `98219` Pratt &amp; Whitney Canada ⮕ Pratt & Whitney Canada
+
+## Services count change: 552 ⮕ 551
+
+### Services removed: 1
+
+- `170A` Queen St Ter → W'Lands Train Checkpt
+
+## First/last timings changed
+
+Affected services: `1N`, `3N`, `48`, `56`, `57`, `5N`, `66`, `66A`, `67`, `6N`, `851`, `851e`, `960`, `960e`, `980`, `972M`, `186`, `174`, `74`, `852`, `961`, `961M`, `77`, `970`, `184`, `41`, `52`, `61`, `75`, `985`, `173`, `178`, `973`, `176`, `963`, `177`, `979`, `925`, `927`, `925M`, `170X`, `856`, `856A`, `903`, `911`, `912`, `912B`, `950`, `NR2`, `811T`, `858`, `858A`, `859`, `859T`, `883M`, `969`, `85`, `854`, `855`, `812`, `812T`, `853`, `853M`, `854e`, `857`, `860`, `860T`, `965`, `857A`, `857B`, `85A`, `883`, `965T`, `965A`, `883B`, `850E`, `291T`, `292`, `293`, `293T`, `29A`, `3`, `31`, `31A`, `37`, `38`, `3A`, `4`, `46`, `65`, `68`, `68A`, `68B`, `69`, `72`, `2N`, `298`, `34`, `34A`, `34B`, `513`, `39`, `8`, `518`, `59`, `81`, `9`, `23`, `969A`, `NR1`, `9A`
+
 # 16 May 2021
 
 ### Services added: 1

@@ -6734,7 +6734,7 @@
 	{
 		"name": "-S100",
 		"wab": "true",
-		"details": "Gleneagles Hospital (next to entrance to A&amp;E)&#xD;",
+		"details": "Gleneagles Hospital (next to entrance to A&E)\r",
 		"coordinates": {
 			"lat": 1.30738,
 			"long": 103.81965
@@ -6743,7 +6743,7 @@
 	{
 		"name": "-S101",
 		"wab": "true",
-		"details": "Mount Elizabeth Hospital (next to car park exit)&#xD;",
+		"details": "Mount Elizabeth Hospital (next to car park exit)\r",
 		"coordinates": {
 			"lat": 1.305045,
 			"long": 103.835445
@@ -6770,7 +6770,7 @@
 	{
 		"name": "-S104",
 		"wab": "true",
-		"details": "Outside CGH Retail Pharmacy&#xD;",
+		"details": "Outside CGH Retail Pharmacy\r",
 		"coordinates": {
 			"lat": 1.339861,
 			"long": 103.95012
@@ -8156,7 +8156,7 @@
 	{
 		"name": "-S98",
 		"wab": "true",
-		"details": "SGH Blk 4&#xD;",
+		"details": "SGH Blk 4\r",
 		"coordinates": {
 			"lat": 1.279361,
 			"long": 103.835047
@@ -16670,7 +16670,7 @@
 	{
 		"name": "16199",
 		"wab": "true",
-		"details": "NUS Fac Of Design &amp; Env",
+		"details": "NUS Fac Of Design & Env",
 		"coordinates": {
 			"lat": 1.29639303583424,
 			"long": 103.77072917887465
@@ -17930,7 +17930,7 @@
 	{
 		"name": "19041",
 		"wab": "true",
-		"details": "Opp Sch Of Science &amp; Tech",
+		"details": "Opp Sch Of Science & Tech",
 		"coordinates": {
 			"lat": 1.31235972197855,
 			"long": 103.77552750001337
@@ -17939,7 +17939,7 @@
 	{
 		"name": "19049",
 		"wab": "true",
-		"details": "Sch Of Science &amp; Tech",
+		"details": "Sch Of Science & Tech",
 		"coordinates": {
 			"lat": 1.31266302174215,
 			"long": 103.77479215922537
@@ -18092,7 +18092,7 @@
 	{
 		"name": "20051",
 		"wab": "true",
-		"details": "Cycle &amp; Carriage",
+		"details": "Cycle & Carriage",
 		"coordinates": {
 			"lat": 1.32258708167298,
 			"long": 103.74754428861822
@@ -18101,7 +18101,7 @@
 	{
 		"name": "20059",
 		"wab": "true",
-		"details": "Opp Cycle &amp; Carriage",
+		"details": "Opp Cycle & Carriage",
 		"coordinates": {
 			"lat": 1.32332108750232,
 			"long": 103.74769351004639
@@ -21188,7 +21188,7 @@
 	{
 		"name": "23399",
 		"wab": "true",
-		"details": "Keppel Offshore &amp; Marine",
+		"details": "Keppel Offshore & Marine",
 		"coordinates": {
 			"lat": 1.30533638898993,
 			"long": 103.69237083299343
@@ -21575,7 +21575,7 @@
 	{
 		"name": "24289",
 		"wab": "true",
-		"details": "Opp Keppel T&amp;T",
+		"details": "Opp Keppel T&T",
 		"coordinates": {
 			"lat": 1.31240457504935,
 			"long": 103.674858525035
@@ -22826,7 +22826,7 @@
 	{
 		"name": "25609",
 		"wab": "true",
-		"details": "MERCK SHARP &amp; DOHME",
+		"details": "MERCK SHARP & DOHME",
 		"coordinates": {
 			"lat": 1.301942,
 			"long": 103.634519
@@ -26489,7 +26489,7 @@
 	{
 		"name": "40101",
 		"wab": "true",
-		"details": "Kk Women &amp; Children Hosp",
+		"details": "Kk Women & Children Hosp",
 		"coordinates": {
 			"lat": 1.31036186651665,
 			"long": 103.84779148902439
@@ -26498,7 +26498,7 @@
 	{
 		"name": "40109",
 		"wab": "true",
-		"details": "Opp KK Women &amp; Child Hosp",
+		"details": "Opp KK Women & Child Hosp",
 		"coordinates": {
 			"lat": 1.30949131269895,
 			"long": 103.84770747833439
@@ -26714,7 +26714,7 @@
 	{
 		"name": "40271",
 		"wab": "true",
-		"details": "Opp KK Women &amp; Child Hosp",
+		"details": "Opp KK Women & Child Hosp",
 		"coordinates": {
 			"lat": 1.30880664936794,
 			"long": 103.8463464537845
@@ -26723,7 +26723,7 @@
 	{
 		"name": "40279",
 		"wab": "true",
-		"details": "Kk Women &amp; Children Hosp",
+		"details": "Kk Women & Children Hosp",
 		"coordinates": {
 			"lat": 1.30981925741503,
 			"long": 103.8460393043403
@@ -27506,7 +27506,7 @@
 	{
 		"name": "42259",
 		"wab": "true",
-		"details": "Goh &amp; Goh Bldg",
+		"details": "Goh & Goh Bldg",
 		"coordinates": {
 			"lat": 1.34106160633217,
 			"long": 103.7770788000345
@@ -33806,7 +33806,7 @@
 	{
 		"name": "48141",
 		"wab": "true",
-		"details": "Opp Mandai Crematorium &amp; Columbarium",
+		"details": "Opp Mandai Crematorium & Columbarium",
 		"coordinates": {
 			"lat": 1.41557085636805,
 			"long": 103.8094962642582
@@ -33815,7 +33815,7 @@
 	{
 		"name": "48149",
 		"wab": "true",
-		"details": "Mandai Crematorium &amp; Columbarium",
+		"details": "Mandai Crematorium & Columbarium",
 		"coordinates": {
 			"lat": 1.41521080481899,
 			"long": 103.80907903666171
@@ -33842,7 +33842,7 @@
 	{
 		"name": "49021",
 		"wab": "true",
-		"details": "WHYE WAH DEVT &amp; CONSTRN",
+		"details": "WHYE WAH DEVT & CONSTRN",
 		"coordinates": {
 			"lat": 1.41337474993907,
 			"long": 103.75177016684295
@@ -36442,7 +36442,7 @@
 	},
 	{
 		"name": "54061",
-		"wab": "false",
+		"wab": "true",
 		"details": "Blk 244",
 		"coordinates": {
 			"lat": 1.36728801688172,
@@ -42490,7 +42490,7 @@
 	},
 	{
 		"name": "64189",
-		"wab": "false",
+		"wab": "true",
 		"details": "Aft Old Tampines Rd",
 		"coordinates": {
 			"lat": 1.37693109577247,
@@ -46676,7 +46676,7 @@
 	{
 		"name": "70071",
 		"wab": "true",
-		"details": "Cycle &amp; Carriage",
+		"details": "Cycle & Carriage",
 		"coordinates": {
 			"lat": 1.33377161253401,
 			"long": 103.89841293744438
@@ -55253,7 +55253,7 @@
 	{
 		"name": "96341",
 		"wab": "true",
-		"details": "Aft Sunny Metal &amp; Engrg",
+		"details": "Aft Sunny Metal & Engrg",
 		"coordinates": {
 			"lat": 1.33276553471842,
 			"long": 103.97037694441909
@@ -56045,7 +56045,7 @@
 	{
 		"name": "98219",
 		"wab": "true",
-		"details": "Pratt &amp; Whitney Canada",
+		"details": "Pratt & Whitney Canada",
 		"coordinates": {
 			"lat": 1.38022304984,
 			"long": 103.97340977330899

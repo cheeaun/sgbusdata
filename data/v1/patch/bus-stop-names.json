@@ -450,6 +450,11 @@
 		"newName": "Pfizer Global"
 	},
 	{
+		"number": "25609",
+		"name": "MERCK SHARP & DOHME",
+		"newName": "Merck Sharp & Dohme"
+	},
+	{
 		"number": "25611",
 		"name": "OPP WESTLINK TWO",
 		"newName": "Opp WestLink Two"
@@ -883,6 +888,11 @@
 		"number": "48039",
 		"name": "LP 159",
 		"newName": "LP 159"
+	},
+	{
+		"number": "49021",
+		"name": "WHYE WAH DEVT & CONSTRN",
+		"newName": "Whye Wah Devt & Constrn"
 	},
 	{
 		"number": "49029",
