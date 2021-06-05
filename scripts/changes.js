@@ -150,7 +150,7 @@ if (routesDiff.length) {
     (s) => !!newServices[s],
   );
   if (services.length) {
-    nlog(`## Routes changed: ${services.size}\n`);
+    nlog(`## Routes changed: ${services.length}\n`);
     services.forEach((service) => {
       log(`- \`${service}\` ${newServices[service].name}`);
     });
