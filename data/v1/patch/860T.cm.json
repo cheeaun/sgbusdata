@@ -506,7 +506,9 @@
 				"SBSTBuses807B",
 				"SBSTBuses811",
 				"SBSTBuses811A",
+				"SBSTBuses811T",
 				"SBSTBuses812",
+				"SBSTBuses812T",
 				"SBSTBuses860",
 				"SBSTBuses860T"
 			],
@@ -553,6 +555,7 @@
 				"SBSTBuses807B",
 				"SBSTBuses811",
 				"SBSTBuses811A",
+				"SBSTBuses811T",
 				"SBSTBuses860",
 				"SBSTBuses860T"
 			],
@@ -726,7 +729,9 @@
 			"routes": [
 				"SMRTBuses169",
 				"SBSTBuses811",
+				"SBSTBuses811T",
 				"SBSTBuses812",
+				"SBSTBuses812T",
 				"SBSTBuses860",
 				"SBSTBuses860T"
 			],
@@ -751,6 +756,7 @@
 				"SBSTBuses39",
 				"TTSBuses663",
 				"SBSTBuses812",
+				"SBSTBuses812T",
 				"GASBuses85",
 				"SBSTBuses851",
 				"SBSTBuses851E",
@@ -785,6 +791,7 @@
 				"SBSTBuses807A",
 				"SBSTBuses807B",
 				"SBSTBuses811",
+				"SBSTBuses811T",
 				"SBSTBuses850E",
 				"SBSTBuses860",
 				"SBSTBuses860T"
@@ -807,6 +814,7 @@
 				"SBSTBuses807A",
 				"SBSTBuses807B",
 				"SBSTBuses811",
+				"SBSTBuses811T",
 				"SBSTBuses850E",
 				"SBSTBuses860",
 				"SBSTBuses860T"
@@ -1207,7 +1215,9 @@
 				"SBSTBuses807B",
 				"SBSTBuses811",
 				"SBSTBuses811A",
+				"SBSTBuses811T",
 				"SBSTBuses812",
+				"SBSTBuses812T",
 				"GASBuses85",
 				"SBSTBuses851",
 				"SBSTBuses851E",

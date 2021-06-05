@@ -1,3 +1,37 @@
+# 5 June 2021
+
+## Services count change: 551 ⮕ 554
+
+### Services added: 5
+
+- `291T` Tampines Int ⟲ Tampines Int
+- `293T` Tampines Int ⟲ Blk 401
+- `66C` Jurong East Int → Opp Beauty World Stn
+- `811T` Yishun Int ⟲ Blk 309
+- `812T` Yishun Int ⟲ Blk 121
+
+### Services removed: 2
+
+- `66A` Bedok Int → Little India Stn Exit A
+- `66B` Jurong East Int → Tekka Ctr
+
+### Bus Stop Changes To Routes: 1
+
+- `97e` Jurong East Int ⇄ Marina Ctr Ter: +3
+
+## Routes changed: 6
+
+- `85A` Yishun Int → Sengkang Community Hub
+- `291T` Tampines Int ⟲ Tampines Int
+- `293T` Tampines Int ⟲ Blk 401
+- `66C` Jurong East Int → Opp Beauty World Stn
+- `811T` Yishun Int ⟲ Blk 309
+- `812T` Yishun Int ⟲ Blk 121
+
+## First/last timings changed
+
+Affected services: `97e`, `974`, `974A`, `333`, `335`, `66C`, `657`, `67`, `6N`, `851`, `851e`, `960`, `960e`, `980`, `972M`, `944`, `74`, `852`, `961`, `961M`, `77`, `970`, `985`, `653`, `665`, `857`, `857B`, `853`, `853M`, `8`, `90`, `854`, `93`, `94`, `94A`, `CT18`, `69`, `7`, `7A`, `854e`, `87`, `9`, `9A`, `NR6`
+
 # 28 May 2021
 
 ### Stop names changed: 19

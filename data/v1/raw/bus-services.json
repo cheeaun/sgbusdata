@@ -4834,23 +4834,13 @@
 		]
 	},
 	{
-		"number": "66A",
+		"number": "66C",
 		"type": "TRUNK",
 		"kmlFile": [
-			"66A-1.kml"
+			"66C-1.kml"
 		],
 		"routeFile": [
-			"66A.xml"
-		]
-	},
-	{
-		"number": "66B",
-		"type": "TRUNK",
-		"kmlFile": [
-			"66B-1.kml"
-		],
-		"routeFile": [
-			"66B.xml"
+			"66C.xml"
 		]
 	},
 	{
@@ -5598,7 +5588,7 @@
 		"number": "85A",
 		"type": "TRUNK",
 		"kmlFile": [
-			"85A-2.kml"
+			"85A-1.kml"
 		],
 		"routeFile": [
 			"85A.xml"

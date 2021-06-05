@@ -510,8 +510,7 @@
 				"SBSTBuses63",
 				"SBSTBuses63A",
 				"SBSTBuses65",
-				"TTSBuses66",
-				"TTSBuses66A"
+				"TTSBuses66"
 			],
 			"stop_code": "70231"
 		},
@@ -603,7 +602,6 @@
 				"SBSTBuses63M",
 				"SBSTBuses65",
 				"TTSBuses66",
-				"TTSBuses66A",
 				"SBSTBuses8"
 			],
 			"stop_code": "71169"
@@ -860,7 +858,6 @@
 				"SBSTBuses63M",
 				"SBSTBuses65",
 				"TTSBuses66",
-				"TTSBuses66A",
 				"SBSTBuses8"
 			],
 			"stop_code": "71139"
@@ -894,7 +891,6 @@
 				"SBSTBuses63M",
 				"SBSTBuses65",
 				"TTSBuses66",
-				"TTSBuses66A",
 				"SBSTBuses8",
 				"SMRTBuses854",
 				"SBSTBuses93",
@@ -1130,8 +1126,7 @@
 				"SBSTBuses63A",
 				"SBSTBuses63M",
 				"SBSTBuses65",
-				"TTSBuses66",
-				"TTSBuses66A"
+				"TTSBuses66"
 			],
 			"stop_code": "70221"
 		},
@@ -1189,8 +1184,7 @@
 				"SBSTBuses63A",
 				"SBSTBuses63M",
 				"SBSTBuses65",
-				"TTSBuses66",
-				"TTSBuses66A"
+				"TTSBuses66"
 			],
 			"stop_code": "70211"
 		},
@@ -1451,8 +1445,7 @@
 				"SBSTBuses63A",
 				"SBSTBuses63M",
 				"SBSTBuses65",
-				"TTSBuses66",
-				"TTSBuses66A"
+				"TTSBuses66"
 			],
 			"stop_code": "70201"
 		},
@@ -1479,8 +1472,7 @@
 				"SBSTBuses63",
 				"SBSTBuses63A",
 				"SBSTBuses65",
-				"TTSBuses66",
-				"TTSBuses66A"
+				"TTSBuses66"
 			],
 			"stop_code": "70241"
 		},
@@ -1684,8 +1676,7 @@
 				"SBSTBuses63A",
 				"SBSTBuses63M",
 				"SBSTBuses65",
-				"TTSBuses66",
-				"TTSBuses66A"
+				"TTSBuses66"
 			],
 			"stop_code": "70379"
 		},

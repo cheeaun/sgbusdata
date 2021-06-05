@@ -761,8 +761,8 @@
 		"SingaporeStop_Blk183_SW": {
 			"bearing": "SW",
 			"brands": [
-				"SMRTBuses",
-				"TTSBuses"
+				"SBSTBuses",
+				"SMRTBuses"
 			],
 			"coords": [
 				1.380296,
@@ -782,8 +782,8 @@
 				"SMRTBuses963",
 				"SMRTBuses963R",
 				"SMRTBuses963E",
-				"TTSBuses974",
-				"TTSBuses974A",
+				"SBSTBuses974",
+				"SBSTBuses974A",
 				"SMRTBuses975",
 				"SMRTBuses975C",
 				"SMRTBuses976",
@@ -840,8 +840,8 @@
 		"SingaporeStop_Blk352_SE": {
 			"bearing": "SE",
 			"brands": [
-				"SMRTBuses",
-				"TTSBuses"
+				"SBSTBuses",
+				"SMRTBuses"
 			],
 			"coords": [
 				1.382571,
@@ -856,8 +856,8 @@
 				"SMRTBuses301",
 				"SMRTBuses307",
 				"SMRTBuses67",
-				"TTSBuses974",
-				"TTSBuses974A",
+				"SBSTBuses974",
+				"SBSTBuses974A",
 				"SMRTBuses975",
 				"SMRTBuses975A",
 				"SMRTBuses975B",
@@ -1040,8 +1040,8 @@
 		"SingaporeStop_OppChoaChuKangStn_W": {
 			"bearing": "NW",
 			"brands": [
-				"SMRTBuses",
-				"TTSBuses"
+				"SBSTBuses",
+				"SMRTBuses"
 			],
 			"coords": [
 				1.384254,
@@ -1052,8 +1052,8 @@
 			"routes": [
 				"SMRTBuses307",
 				"SMRTBuses307A",
-				"TTSBuses974",
-				"TTSBuses974A",
+				"SBSTBuses974",
+				"SBSTBuses974A",
 				"SMRTBuses975",
 				"SMRTBuses975A",
 				"SMRTBuses975B",
@@ -1210,8 +1210,7 @@
 			"bearing": "W",
 			"brands": [
 				"SBSTBuses",
-				"SMRTBuses",
-				"TTSBuses"
+				"SMRTBuses"
 			],
 			"coords": [
 				1.377985,
@@ -1225,8 +1224,8 @@
 				"SMRTBuses187",
 				"SMRTBuses190",
 				"SMRTBuses67",
-				"TTSBuses974",
-				"TTSBuses974A",
+				"SBSTBuses974",
+				"SBSTBuses974A",
 				"SMRTBuses975",
 				"SMRTBuses975C",
 				"SMRTBuses976",
