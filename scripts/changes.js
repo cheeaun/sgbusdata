@@ -70,9 +70,13 @@ if (stopsDiff.length) {
 
     if (locationChangedDiff.length) {
       nlog(`### Stop locations changed: ${locationChangedDiff.length}\n`);
+      let prevNumbers = [];
       locationChangedDiff.forEach((d) => {
         const { path } = d;
         const number = path[0];
+        // Skip if same numbers because the diff will be duplicated for both lat and lng changes (one diff each)
+        if (prevNumbers.includes(number)) return;
+        prevNumbers.push(number);
         const oldCoord = [oldStops[path[0]][0], oldStops[path[0]][1]];
         const newCoord = [newStops[path[0]][0], newStops[path[0]][1]];
         log(`- \`${number}\` ${oldCoord.join(',')} ⮕ ${newCoord.join(',')}`);
@@ -165,7 +169,12 @@ if (flDiff.length) {
   const services = new Set(
     flDiff
       .filter((fl) => fl.op !== 'remove')
-      .map((fl) => fl.value.split(' ')[0]),
+      .map((fl) => {
+        if (fl.op === 'add') {
+          return fl.value.map(v => v.split(' ')[0]);
+        }
+        return fl.value.split(' ')[0];
+      }).flat(),
   );
   log(`Affected services: ${[...services].map((s) => `\`${s}\``).join(', ')}`);
 }

@@ -150,87 +150,7 @@ services
     };
 
     const patterns = kmlFile.map((f) => path.parse(f).name);
-    if (faultyRoutesServices.includes(num)) {
-      const patchPatterns = [];
-      try {
-        // First, read from OneMap
-        const patchRoute = readFile(`./data/v1/patch/${num}.om.json`);
-        const { BUS_DIRECTION_ONE, BUS_DIRECTION_TWO } = patchRoute;
-        if (BUS_DIRECTION_ONE) {
-          const firstStop = BUS_DIRECTION_ONE.find((s) => s.BUS_SEQUENCE === 1)
-            .START_BUS_STOP_NUM;
-          const coordinates = BUS_DIRECTION_ONE.reduce((acc, v) => {
-            const line = polyline
-              .decode(v.GEOMETRIES)
-              .map((coords) => coords.reverse());
-            if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
-              line.shift(); // Remove first coord
-            }
-            acc.push(...line);
-            return acc;
-          }, []);
-          patchPatterns.push({
-            firstStop,
-            coordinates,
-          });
-        }
-        if (BUS_DIRECTION_TWO) {
-          const firstStop = BUS_DIRECTION_TWO.find((s) => s.BUS_SEQUENCE === 1)
-            .START_BUS_STOP_NUM;
-          const coordinates = BUS_DIRECTION_TWO.reduce((acc, v) => {
-            const line = polyline
-              .decode(v.GEOMETRIES)
-              .map((coords) => coords.reverse());
-            if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
-              line.shift(); // Remove first coord
-            }
-            acc.push(...line);
-            return acc;
-          }, []);
-          patchPatterns.push({
-            firstStop,
-            coordinates,
-          });
-        }
-      } catch (e) {
-        // If fails, read from CityMapper
-        const patchRoute = readFile(`./data/v1/patch/${num}.cm.json`);
-        patchRoute.routes[0].patterns.forEach((p) => {
-          const firstStop = patchRoute.stops[p.stop_points[0].id].stop_code;
-          const coordinates = p.path.map((coords) => coords.reverse());
-          patchPatterns.push({
-            firstStop,
-            coordinates,
-          });
-        });
-      }
-
-      route.forEach((pattern, i) => {
-        const theRightPattern = patchPatterns.find(
-          (p) => p.firstStop == pattern.stops[0],
-        );
-        if (!theRightPattern) {
-          // This means the route might contain 2 patterns
-          // But somehow one of them is missing
-          // Affected bus service: 135
-          console.warn(`⚠️⚠️⚠️ Bus service ${num} doesn't have pattern ${i}`);
-          return;
-        }
-        const coordinates = theRightPattern.coordinates;
-        routesPolylines[num][i] = coords2polyline(coordinates);
-        routesFeatures.push({
-          type: 'Feature',
-          properties: {
-            number: num,
-            pattern: i,
-          },
-          geometry: {
-            type: 'LineString',
-            coordinates,
-          },
-        });
-      });
-    } else {
+    const processPatterns = () => {
       patterns.forEach((p, i) => {
         if (!route[i]) return;
         const geojson = readFile(`./data/v1/raw/services/${type}/${p}.geojson`);
@@ -274,6 +194,99 @@ services
           );
         }
       });
+    }
+    if (faultyRoutesServices.includes(num)) {
+      const patchPatterns = [];
+      let fauxError = false;
+      try {
+        // First, read from OneMap
+        const patchRoute = readFile(`./data/v1/patch/${num}.om.json`);
+        const { BUS_DIRECTION_ONE, BUS_DIRECTION_TWO } = patchRoute;
+        if (BUS_DIRECTION_ONE) {
+          const firstStop = BUS_DIRECTION_ONE.find((s) => s.BUS_SEQUENCE === 1)
+            .START_BUS_STOP_NUM;
+          const coordinates = BUS_DIRECTION_ONE.reduce((acc, v) => {
+            const line = polyline
+              .decode(v.GEOMETRIES)
+              .map((coords) => coords.reverse());
+            if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
+              line.shift(); // Remove first coord
+            }
+            acc.push(...line);
+            return acc;
+          }, []);
+          patchPatterns.push({
+            firstStop,
+            coordinates,
+          });
+        }
+        if (BUS_DIRECTION_TWO) {
+          const firstStop = BUS_DIRECTION_TWO.find((s) => s.BUS_SEQUENCE === 1)
+            .START_BUS_STOP_NUM;
+          const coordinates = BUS_DIRECTION_TWO.reduce((acc, v) => {
+            const line = polyline
+              .decode(v.GEOMETRIES)
+              .map((coords) => coords.reverse());
+            if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
+              line.shift(); // Remove first coord
+            }
+            acc.push(...line);
+            return acc;
+          }, []);
+          patchPatterns.push({
+            firstStop,
+            coordinates,
+          });
+        }
+      } catch (e) {
+        // If fails, read from CityMapper
+        try {
+          const patchRoute = readFile(`./data/v1/patch/${num}.cm.json`);
+          patchRoute.routes[0].patterns.forEach((p) => {
+            const firstStop = patchRoute.stops[p.stop_points[0].id].stop_code;
+            const coordinates = p.path.map((coords) => coords.reverse());
+            patchPatterns.push({
+              firstStop,
+              coordinates,
+            });
+          });
+        } catch (e) {
+          console.warn(e);
+          fauxError = true;
+        }
+      }
+
+      if (!fauxError) {
+        route.forEach((pattern, i) => {
+          const theRightPattern = patchPatterns.find(
+            (p) => p.firstStop == pattern.stops[0],
+          );
+          if (!theRightPattern) {
+            // This means the route might contain 2 patterns
+            // But somehow one of them is missing
+            // Affected bus service: 911
+            console.warn(`⚠️⚠️⚠️ Bus service ${num} doesn't have pattern ${i}`);
+            return;
+          }
+          const coordinates = theRightPattern.coordinates;
+          routesPolylines[num][i] = coords2polyline(coordinates);
+          routesFeatures.push({
+            type: 'Feature',
+            properties: {
+              number: num,
+              pattern: i,
+            },
+            geometry: {
+              type: 'LineString',
+              coordinates,
+            },
+          });
+        });
+      } else {
+        processPatterns();
+      }
+    } else {
+      processPatterns();
     }
   });
 
