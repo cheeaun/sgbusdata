@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From W'Lands Temp Int to Resorts World Sentosa",
+		"name": "From Woodlands Int to Resorts World Sentosa",
 		"stops": [
 			"46009",
 			"46549",
@@ -31,7 +31,7 @@
 		]
 	},
 	{
-		"name": "From Resorts World Sentosa to W'Lands Temp Int",
+		"name": "From Resorts World Sentosa to Woodlands Int",
 		"stops": [
 			"14519",
 			"14121",

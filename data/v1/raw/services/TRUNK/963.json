@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From W'Lands Temp Int to HarbourFront Int",
+		"name": "From Woodlands Int to HarbourFront Int",
 		"stops": [
 			"46009",
 			"46549",
@@ -54,7 +54,7 @@
 		]
 	},
 	{
-		"name": "From HarbourFront Int to W'Lands Temp Int",
+		"name": "From HarbourFront Int to Woodlands Int",
 		"stops": [
 			"14009",
 			"14131",

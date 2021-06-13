@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Hougang Ctrl Int to W'Lands Temp Int",
+		"name": "From Hougang Ctrl Int to Woodlands Int",
 		"stops": [
 			"64009",
 			"64389",
@@ -27,7 +27,7 @@
 		]
 	},
 	{
-		"name": "From W'Lands Temp Int to Hougang Ctrl Int",
+		"name": "From Woodlands Int to Hougang Ctrl Int",
 		"stops": [
 			"46009",
 			"46631",

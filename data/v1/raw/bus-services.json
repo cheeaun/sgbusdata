@@ -622,7 +622,7 @@
 	},
 	{
 		"number": 723,
-		"description": "Buangkok Green -  Upper Cross Street",
+		"description": "Buangkok Green -Upper Cross Street",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"723-1.kml",
@@ -5882,7 +5882,8 @@
 		"number": 911,
 		"type": "TRUNK",
 		"kmlFile": [
-			"911-1.kml"
+			"911-1.kml",
+			"911-2.kml"
 		],
 		"routeFile": [
 			"911.xml"
@@ -5942,8 +5943,7 @@
 		"number": 913,
 		"type": "TRUNK",
 		"kmlFile": [
-			"913-1.kml",
-			"913-2.kml"
+			"913-1.kml"
 		],
 		"routeFile": [
 			"913.xml"

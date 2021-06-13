@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From W'Lands Temp Int to Boon Lay Int",
+		"name": "From Woodlands Int to Boon Lay Int",
 		"stops": [
 			"46009",
 			"46549",
@@ -45,7 +45,7 @@
 		]
 	},
 	{
-		"name": "From Boon Lay Int to W'Lands Temp Int",
+		"name": "From Boon Lay Int to Woodlands Int",
 		"stops": [
 			"22009",
 			"22499",

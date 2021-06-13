@@ -31340,19 +31340,19 @@
 	{
 		"name": "46008",
 		"wab": "true",
-		"details": "W'Lands Temp Int",
+		"details": "Woodlands Int",
 		"coordinates": {
-			"lat": 1.43773062645251,
-			"long": 103.78672939877963
+			"lat": 1.436849,
+			"long": 103.785737
 		}
 	},
 	{
 		"name": "46009",
 		"wab": "true",
-		"details": "W'Lands Temp Int",
+		"details": "Woodlands Int",
 		"coordinates": {
-			"lat": 1.43762790090815,
-			"long": 103.7864999963898
+			"lat": 1.436874,
+			"long": 103.786162
 		}
 	},
 	{
@@ -32928,6 +32928,15 @@
 		"coordinates": {
 			"lat": 1.42742826147903,
 			"long": 103.79600329149085
+		}
+	},
+	{
+		"name": "47009",
+		"wab": "true",
+		"details": "W'Lands Temp Int",
+		"coordinates": {
+			"lat": 1.437553,
+			"long": 103.786282
 		}
 	},
 	{

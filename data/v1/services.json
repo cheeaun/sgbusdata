@@ -12729,7 +12729,7 @@
 		]
 	},
 	"161": {
-		"name": "Hougang Ctrl Int ⇄ W'Lands Temp Int",
+		"name": "Hougang Ctrl Int ⇄ Woodlands Int",
 		"routes": [
 			[
 				"64009",
@@ -13421,7 +13421,7 @@
 		]
 	},
 	"168": {
-		"name": "Bedok Int ⇄ W'Lands Temp Int",
+		"name": "Bedok Int ⇄ Woodlands Int",
 		"routes": [
 			[
 				"84009",
@@ -13480,7 +13480,7 @@
 		]
 	},
 	"169": {
-		"name": "W'Lands Temp Int ⇄ Ang Mo Kio Int",
+		"name": "Woodlands Int ⇄ Ang Mo Kio Int",
 		"routes": [
 			[
 				"46009",
@@ -14350,7 +14350,7 @@
 		]
 	},
 	"178": {
-		"name": "W'Lands Temp Int ⇄ Boon Lay Int",
+		"name": "Woodlands Int ⇄ Boon Lay Int",
 		"routes": [
 			[
 				"46009",
@@ -14985,7 +14985,7 @@
 		]
 	},
 	"187": {
-		"name": "W'Lands Temp Int ⇄ Boon Lay Int",
+		"name": "Woodlands Int ⇄ Boon Lay Int",
 		"routes": [
 			[
 				"46009",
@@ -20113,7 +20113,7 @@
 		]
 	},
 	"856": {
-		"name": "Yishun Int ⇄ W'Lands Temp Int",
+		"name": "Yishun Int ⇄ Woodlands Int",
 		"routes": [
 			[
 				"59009",
@@ -20269,7 +20269,7 @@
 		]
 	},
 	"858": {
-		"name": "W'Lands Temp Int ⟲ Changi Airport PTB1",
+		"name": "Woodlands Int ⟲ Changi Airport PTB1",
 		"routes": [
 			[
 				"46009",
@@ -20555,7 +20555,7 @@
 		]
 	},
 	"900": {
-		"name": "W'Lands Temp Int ⟲ Blk 536A",
+		"name": "Woodlands Int ⟲ Blk 536A",
 		"routes": [
 			[
 				"46009",
@@ -20576,7 +20576,7 @@
 		]
 	},
 	"901": {
-		"name": "W'Lands Temp Int ⟲ Opp Blk 575",
+		"name": "Woodlands Int ⟲ Opp Blk 575",
 		"routes": [
 			[
 				"46009",
@@ -20598,7 +20598,7 @@
 		]
 	},
 	"902": {
-		"name": "W'Lands Temp Int → Republic Poly",
+		"name": "Woodlands Int → Republic Poly",
 		"routes": [
 			[
 				"46009",
@@ -20607,7 +20607,7 @@
 		]
 	},
 	"903": {
-		"name": "W'Lands Temp Int ⟲ W'Lands Train Checkpt",
+		"name": "Woodlands Int ⟲ W'Lands Train Checkpt",
 		"routes": [
 			[
 				"46009",
@@ -20636,7 +20636,7 @@
 		]
 	},
 	"904": {
-		"name": "W'Lands Temp Int ⟲ Opp Admiralty Sec Sch",
+		"name": "Woodlands Int ⟲ Opp Admiralty Sec Sch",
 		"routes": [
 			[
 				"46009",
@@ -20664,7 +20664,7 @@
 		]
 	},
 	"911": {
-		"name": "W'Lands Temp Int ⟲ Blk 891C CP",
+		"name": "Woodlands Int ⟲ Blk 891C CP",
 		"routes": [
 			[
 				"46009",
@@ -20699,7 +20699,7 @@
 		]
 	},
 	"912": {
-		"name": "W'Lands Temp Int ⟲ Rosewood",
+		"name": "Woodlands Int ⟲ Rosewood",
 		"routes": [
 			[
 				"46009",
@@ -20748,7 +20748,7 @@
 		]
 	},
 	"913": {
-		"name": "W'Lands Temp Int ⟲ Blk 891C CP",
+		"name": "Woodlands Int ⟲ Blk 891C CP",
 		"routes": [
 			[
 				"46009",
@@ -20861,7 +20861,7 @@
 		"name": "W'Lands Temp Int ⇄ Choa Chu Kang Int",
 		"routes": [
 			[
-				"46009",
+				"47009",
 				"46549",
 				"46539",
 				"46529",
@@ -20940,12 +20940,12 @@
 				"46521",
 				"46531",
 				"46541",
-				"46009"
+				"47009"
 			]
 		]
 	},
 	"926": {
-		"name": "W'Lands Temp Int ⟲ S'Pore Zoo",
+		"name": "Woodlands Int ⟲ S'Pore Zoo",
 		"routes": [
 			[
 				"46009",
@@ -21103,7 +21103,7 @@
 		"name": "W'Lands Temp Int ⟲ Johor Bahru Checkpt",
 		"routes": [
 			[
-				"46009",
+				"47009",
 				"46549",
 				"46539",
 				"46529",
@@ -21125,12 +21125,12 @@
 				"46521",
 				"46531",
 				"46541",
-				"46009"
+				"47009"
 			]
 		]
 	},
 	"960": {
-		"name": "W'Lands Temp Int ⇄ Marina Ctr Ter",
+		"name": "Woodlands Int ⇄ Marina Ctr Ter",
 		"routes": [
 			[
 				"46009",
@@ -21236,7 +21236,7 @@
 		"name": "W'Lands Temp Int ⇄ Lor 1 Geylang Ter",
 		"routes": [
 			[
-				"46009",
+				"47009",
 				"46549",
 				"46539",
 				"46529",
@@ -21413,12 +21413,12 @@
 				"46521",
 				"46531",
 				"46541",
-				"46009"
+				"47009"
 			]
 		]
 	},
 	"962": {
-		"name": "W'Lands Temp Int ⟲ Bef Acacia Hme",
+		"name": "Woodlands Int ⟲ Bef Acacia Hme",
 		"routes": [
 			[
 				"46009",
@@ -21471,7 +21471,7 @@
 		]
 	},
 	"963": {
-		"name": "W'Lands Temp Int ⇄ HarbourFront Int",
+		"name": "Woodlands Int ⇄ HarbourFront Int",
 		"routes": [
 			[
 				"46009",
@@ -21578,7 +21578,7 @@
 		]
 	},
 	"964": {
-		"name": "W'Lands Temp Int ⟲ Opp Blk 20",
+		"name": "Woodlands Int ⟲ Opp Blk 20",
 		"routes": [
 			[
 				"46009",
@@ -21615,7 +21615,7 @@
 		"name": "W'Lands Temp Int ⟲ Sengkang Int",
 		"routes": [
 			[
-				"46009",
+				"47009",
 				"46281",
 				"46391",
 				"46761",
@@ -21665,12 +21665,12 @@
 				"46769",
 				"46399",
 				"46289",
-				"46009"
+				"47009"
 			]
 		]
 	},
 	"966": {
-		"name": "W'Lands Temp Int ⟲ Parkway Parade",
+		"name": "Woodlands Int ⟲ Parkway Parade",
 		"routes": [
 			[
 				"46009",
@@ -21728,7 +21728,7 @@
 		]
 	},
 	"969": {
-		"name": "W'Lands Temp Int ⇄ Tampines Int",
+		"name": "Woodlands Int ⇄ Tampines Int",
 		"routes": [
 			[
 				"46009",
@@ -24088,7 +24088,7 @@
 		]
 	},
 	"169A": {
-		"name": "W'Lands Temp Int → Opp Yishun Stn",
+		"name": "Woodlands Int → Opp Yishun Stn",
 		"routes": [
 			[
 				"46009",
@@ -24123,7 +24123,7 @@
 		]
 	},
 	"169B": {
-		"name": "W'Lands Temp Int → Bef Admiralty Rd West",
+		"name": "Woodlands Int → Bef Admiralty Rd West",
 		"routes": [
 			[
 				"46009",
@@ -24365,7 +24365,7 @@
 		]
 	},
 	"178A": {
-		"name": "W'Lands Temp Int → Kranji Stn",
+		"name": "Woodlands Int → Kranji Stn",
 		"routes": [
 			[
 				"46009",
@@ -27898,7 +27898,7 @@
 		]
 	},
 	"856A": {
-		"name": "W'Lands Temp Int → W'Lands Train Checkpt",
+		"name": "Woodlands Int → W'Lands Train Checkpt",
 		"routes": [
 			[
 				"46009",
@@ -27972,7 +27972,7 @@
 		]
 	},
 	"858A": {
-		"name": "W'Lands Temp Int → Opp Yishun Stn",
+		"name": "Woodlands Int → Opp Yishun Stn",
 		"routes": [
 			[
 				"46009",
@@ -28415,7 +28415,7 @@
 		]
 	},
 	"900A": {
-		"name": "W'Lands Temp Int ⟲ Aft Innova Pr Sch",
+		"name": "Woodlands Int ⟲ Aft Innova Pr Sch",
 		"routes": [
 			[
 				"46009",
@@ -28440,7 +28440,7 @@
 		]
 	},
 	"901M": {
-		"name": "W'Lands Temp Int ⟲ Bef Admiralty Stn/Blk 680",
+		"name": "Woodlands Int ⟲ Bef Admiralty Stn/Blk 680",
 		"routes": [
 			[
 				"46009",
@@ -28470,7 +28470,7 @@
 		]
 	},
 	"903M": {
-		"name": "W'Lands Temp Int ⟲ Blk 212",
+		"name": "Woodlands Int ⟲ Blk 212",
 		"routes": [
 			[
 				"46009",
@@ -28522,7 +28522,7 @@
 		]
 	},
 	"911T": {
-		"name": "W'Lands Temp Int → W'Lands Temp Int",
+		"name": "Woodlands Int → Woodlands Int",
 		"routes": [
 			[
 				"46009",
@@ -28544,7 +28544,7 @@
 		]
 	},
 	"912A": {
-		"name": "W'Lands Temp Int → W'Lands Temp Int",
+		"name": "Woodlands Int → Woodlands Int",
 		"routes": [
 			[
 				"46009",
@@ -28569,7 +28569,7 @@
 		]
 	},
 	"912B": {
-		"name": "W'Lands Temp Int → W'Lands Temp Int",
+		"name": "Woodlands Int → Woodlands Int",
 		"routes": [
 			[
 				"46008",
@@ -28601,7 +28601,7 @@
 		]
 	},
 	"912M": {
-		"name": "W'Lands Temp Int → W'Lands Temp Int",
+		"name": "Woodlands Int → Woodlands Int",
 		"routes": [
 			[
 				"46008",
@@ -28625,7 +28625,7 @@
 		]
 	},
 	"913M": {
-		"name": "W'Lands Temp Int → W'Lands Temp Int",
+		"name": "Woodlands Int → Woodlands Int",
 		"routes": [
 			[
 				"46008",
@@ -28662,7 +28662,7 @@
 		"name": "W'Lands Temp Int → Kranji Reservoir Pk B",
 		"routes": [
 			[
-				"46009",
+				"47009",
 				"46549",
 				"46539",
 				"46529",
@@ -28687,7 +28687,7 @@
 		"name": "W'Lands Temp Int ⟲ Opp Nyee Phoe Group",
 		"routes": [
 			[
-				"46009",
+				"47009",
 				"46549",
 				"46539",
 				"46529",
@@ -28726,7 +28726,7 @@
 				"46521",
 				"46531",
 				"46541",
-				"46009"
+				"47009"
 			]
 		]
 	},
@@ -28891,7 +28891,7 @@
 		]
 	},
 	"960e": {
-		"name": "W'Lands Temp Int ⇄ Marina Ctr Ter",
+		"name": "Woodlands Int ⇄ Marina Ctr Ter",
 		"routes": [
 			[
 				"46009",
@@ -28951,7 +28951,7 @@
 		"name": "W'Lands Temp Int ⇄ Lor 1 Geylang Ter",
 		"routes": [
 			[
-				"46009",
+				"47009",
 				"46549",
 				"46539",
 				"46529",
@@ -29136,7 +29136,7 @@
 				"46521",
 				"46531",
 				"46541",
-				"46009"
+				"47009"
 			]
 		]
 	},
@@ -29172,7 +29172,7 @@
 		]
 	},
 	"963R": {
-		"name": "W'Lands Temp Int ⇄ Resorts World Sentosa",
+		"name": "Woodlands Int ⇄ Resorts World Sentosa",
 		"routes": [
 			[
 				"46009",
@@ -29232,7 +29232,7 @@
 		]
 	},
 	"963e": {
-		"name": "W'Lands Temp Int ⇄ HarbourFront Int",
+		"name": "Woodlands Int ⇄ HarbourFront Int",
 		"routes": [
 			[
 				"46009",
@@ -29288,7 +29288,7 @@
 		"name": "W'Lands Temp Int → Opp Yishun Stn",
 		"routes": [
 			[
-				"46009",
+				"47009",
 				"46281",
 				"46391",
 				"46761",
@@ -29309,7 +29309,7 @@
 		"name": "W'Lands Temp Int → Sengkang Int",
 		"routes": [
 			[
-				"46009",
+				"47009",
 				"46281",
 				"46391",
 				"46761",
@@ -29339,7 +29339,7 @@
 		]
 	},
 	"966A": {
-		"name": "W'Lands Temp Int → Opp Parkway Parade",
+		"name": "Woodlands Int → Opp Parkway Parade",
 		"routes": [
 			[
 				"46009",

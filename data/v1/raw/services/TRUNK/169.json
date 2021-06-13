@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From W'Lands Temp Int to Ang Mo Kio Int",
+		"name": "From Woodlands Int to Ang Mo Kio Int",
 		"stops": [
 			"46009",
 			"46271",
@@ -60,7 +60,7 @@
 		]
 	},
 	{
-		"name": "From Ang Mo Kio Int to W'Lands Temp Int",
+		"name": "From Ang Mo Kio Int to Woodlands Int",
 		"stops": [
 			"54009",
 			"54247",

@@ -1,3 +1,93 @@
+# 13 June 2021
+
+## Stops count change: 5048 ⮕ 5049
+
+### Stops added: 1
+
+- `47009` W'Lands Temp Int
+
+### Stop names changed: 2
+
+- `46008` W'Lands Temp Int ⮕ Woodlands Int
+- `46009` W'Lands Temp Int ⮕ Woodlands Int
+
+### Stop locations changed: 4
+
+- `46008` 103.78673,1.43773 ⮕ 103.78574,1.43685
+- `46009` 103.7865,1.43763 ⮕ 103.78616,1.43687
+
+### Bus Stop Changes To Routes: 9
+
+- `925` W'Lands Temp Int ⇄ Choa Chu Kang Int: +2, -2
+- `950` W'Lands Temp Int ⟲ Johor Bahru Checkpt: +2, -2
+- `961` W'Lands Temp Int ⇄ Lor 1 Geylang Ter: +2, -2
+- `965` W'Lands Temp Int ⟲ Sengkang Int: +2, -2
+- `925A` W'Lands Temp Int → Kranji Reservoir Pk B: +1, -1
+- `925M` W'Lands Temp Int ⟲ Opp Nyee Phoe Group: +2, -2
+- `961M` W'Lands Temp Int ⇄ Lor 1 Geylang Ter: +2, -2
+- `965A` W'Lands Temp Int → Opp Yishun Stn: +1, -1
+- `965T` W'Lands Temp Int → Sengkang Int: +1, -1
+
+## Routes changed: 53
+
+- `161` Hougang Ctrl Int ⇄ Woodlands Int
+- `168` Bedok Int ⇄ Woodlands Int
+- `169` Woodlands Int ⇄ Ang Mo Kio Int
+- `178` Woodlands Int ⇄ Boon Lay Int
+- `187` Woodlands Int ⇄ Boon Lay Int
+- `856` Yishun Int ⇄ Woodlands Int
+- `858` Woodlands Int ⟲ Changi Airport PTB1
+- `900` Woodlands Int ⟲ Blk 536A
+- `901` Woodlands Int ⟲ Opp Blk 575
+- `902` Woodlands Int → Republic Poly
+- `903` Woodlands Int ⟲ W'Lands Train Checkpt
+- `904` Woodlands Int ⟲ Opp Admiralty Sec Sch
+- `911` Woodlands Int ⟲ Blk 891C CP
+- `912` Woodlands Int ⟲ Rosewood
+- `913` Woodlands Int ⟲ Blk 891C CP
+- `926` Woodlands Int ⟲ S'Pore Zoo
+- `962` Woodlands Int ⟲ Bef Acacia Hme
+- `963` Woodlands Int ⇄ HarbourFront Int
+- `964` Woodlands Int ⟲ Opp Blk 20
+- `966` Woodlands Int ⟲ Parkway Parade
+- `969` Woodlands Int ⇄ Tampines Int
+- `169A` Woodlands Int → Opp Yishun Stn
+- `169B` Woodlands Int → Bef Admiralty Rd West
+- `178A` Woodlands Int → Kranji Stn
+- `1N` Marina Ctr Ter → Opp Khatib Stn Exit D
+- `291T` Tampines Int ⟲ Tampines Int
+- `293T` Tampines Int ⟲ Blk 401
+- `2N` Marina Ctr Ter → Blk 888
+- `5N` Marina Ctr Ter → Blk 924
+- `63A` Eunos Int → Opp Blk 36
+- `6N` Marina Ctr Ter → Opp Blk 201A
+- `812T` Yishun Int ⟲ Blk 121
+- `83T` Punggol Temp Int → Sengkang Int
+- `856A` Woodlands Int → W'Lands Train Checkpt
+- `857B` Yishun Int → Promenade Stn
+- `858A` Woodlands Int → Opp Yishun Stn
+- `859T` Sembawang Int → Yishun Int
+- `860T` Yishun Int → Yio Chu Kang Int
+- `900A` Woodlands Int ⟲ Aft Innova Pr Sch
+- `901M` Woodlands Int ⟲ Bef Admiralty Stn/Blk 680
+- `903M` Woodlands Int ⟲ Blk 212
+- `911T` Woodlands Int → Woodlands Int
+- `912A` Woodlands Int → Woodlands Int
+- `912B` Woodlands Int → Woodlands Int
+- `912M` Woodlands Int → Woodlands Int
+- `913M` Woodlands Int → Woodlands Int
+- `960e` Woodlands Int ⇄ Marina Ctr Ter
+- `961M` W'Lands Temp Int ⇄ Lor 1 Geylang Ter
+- `963R` Woodlands Int ⇄ Resorts World Sentosa
+- `963e` Woodlands Int ⇄ HarbourFront Int
+- `965A` W'Lands Temp Int → Opp Yishun Stn
+- `965T` W'Lands Temp Int → Sengkang Int
+- `966A` Woodlands Int → Opp Parkway Parade
+
+## First/last timings changed
+
+Affected services: `963R`, `178`, `966`, `911`, `912`, `912A`, `913`, `161`, `168`, `169`, `856A`, `858A`, `900`, `900A`, `903`, `912B`, `926`, `960`, `960e`, `962`, `963`, `963e`, `964`, `966A`, `969`, `902`, `965T`, `925`, `925A`, `925M`, `950`, `961`, `961M`, `965`, `965A`
+
 # 5 June 2021
 
 ## Services count change: 551 ⮕ 554

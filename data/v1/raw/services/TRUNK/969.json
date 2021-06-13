@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From W'Lands Temp Int to Tampines Int",
+		"name": "From Woodlands Int to Tampines Int",
 		"stops": [
 			"46009",
 			"46281",
@@ -31,7 +31,7 @@
 		]
 	},
 	{
-		"name": "From Tampines Int to W'Lands Temp Int",
+		"name": "From Tampines Int to Woodlands Int",
 		"stops": [
 			"75009",
 			"76529",

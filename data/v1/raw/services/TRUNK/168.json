@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Bedok Int to W'Lands Temp Int",
+		"name": "From Bedok Int to Woodlands Int",
 		"stops": [
 			"84009",
 			"84359",
@@ -30,7 +30,7 @@
 		]
 	},
 	{
-		"name": "From W'Lands Temp Int to Bedok Int",
+		"name": "From Woodlands Int to Bedok Int",
 		"stops": [
 			"46009",
 			"46631",

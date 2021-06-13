@@ -15871,16 +15871,16 @@
 	{
 		"BusStopCode": "46008",
 		"RoadName": "Woodlands Sq",
-		"Description": "W'Lands Temp Int",
-		"Latitude": 1.43773062645251,
-		"Longitude": 103.78672939877963
+		"Description": "Woodlands Int",
+		"Latitude": 1.436849,
+		"Longitude": 103.785737
 	},
 	{
 		"BusStopCode": "46009",
 		"RoadName": "Woodlands Sq",
-		"Description": "W'Lands Temp Int",
-		"Latitude": 1.43762790090815,
-		"Longitude": 103.7864999963898
+		"Description": "Woodlands Int",
+		"Latitude": 1.436874,
+		"Longitude": 103.786162
 	},
 	{
 		"BusStopCode": "46011",
@@ -17106,6 +17106,13 @@
 		"Description": "Opp Blk 589",
 		"Latitude": 1.42742826147903,
 		"Longitude": 103.79600329149085
+	},
+	{
+		"BusStopCode": "47009",
+		"RoadName": "Woodlands Sq",
+		"Description": "W'Lands Temp Int",
+		"Latitude": 1.437553,
+		"Longitude": 103.786282
 	},
 	{
 		"BusStopCode": "47011",
