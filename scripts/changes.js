@@ -5,7 +5,7 @@ const readOldNewData = (path) => {
   const oldData = JSON.parse(
     execSync(`git show $(git branch --show-current):${path}`, {
       encoding: 'utf8',
-    }),
+    })
   );
   const newData = require('../' + path);
   return [oldData, newData];
@@ -20,7 +20,7 @@ log(
     year: 'numeric',
     month: 'long',
     day: 'numeric',
-  })}`,
+  })}`
 );
 
 const [oldStops, newStops] = readOldNewData('data/v1/stops.json');
@@ -98,7 +98,7 @@ const servicesDiff = diff(oldServices, newServices);
 
 if (servicesDiff.length) {
   const addedDiff = servicesDiff.filter(
-    (d) => d.op === 'add' && d.path[1] !== 'routes',
+    (d) => d.op === 'add' && d.path[1] !== 'routes'
   );
   if (addedDiff.length) {
     nlog(`### Services added: ${addedDiff.length}\n`);
@@ -109,7 +109,7 @@ if (servicesDiff.length) {
   }
 
   const removedDiff = servicesDiff.filter(
-    (d) => d.op === 'remove' && d.path[1] !== 'routes',
+    (d) => d.op === 'remove' && d.path[1] !== 'routes'
   );
   if (removedDiff.length) {
     nlog(`### Services removed: ${removedDiff.length}\n`);
@@ -140,7 +140,7 @@ if (servicesDiff.length) {
           addedCount ? `+${addedCount}` : ''
         }${addedCount && removedCount ? ', ' : ''}${
           removedCount ? `-${removedCount}` : ''
-        }`,
+        }`
       );
     });
   }
@@ -151,7 +151,7 @@ const routesDiff = diff(oldRoutes, newRoutes);
 
 if (routesDiff.length) {
   const services = [...new Set(routesDiff.map((d) => d.path[0]))].filter(
-    (s) => !!newServices[s],
+    (s) => !!newServices[s]
   );
   if (services.length) {
     nlog(`## Routes changed: ${services.length}\n`);
@@ -161,22 +161,28 @@ if (routesDiff.length) {
   }
 }
 
+const rewriteFL = (fl) => {
+  // Have to "rewrite" the first/last data structure because diffing is too hard
+  // We only need to know which services are affected, don't really care about the stops
+  // The timings also don't have to be detailed as we only need to know they changed
+  const newFL = {};
+  Object.entries(fl).forEach(([_, serviceTimings]) => {
+    serviceTimings.forEach((serviceTiming) => {
+      const [service, ...timing] = serviceTiming.split(' ');
+      if (!newFL[service]) newFL[service] = '';
+      // Append timings as strings, don't really care about the order etc
+      newFL[service] += timing;
+    });
+  });
+  return newFL;
+};
 const [oldFL, newFL] = readOldNewData('data/v1/firstlast.json');
-const flDiff = diff(oldFL, newFL);
+const flDiff = diff(rewriteFL(oldFL), rewriteFL(newFL));
 
 if (flDiff.length) {
   nlog(`## First/last timings changed\n`);
-  const services = new Set(
-    flDiff
-      .filter((fl) => fl.op !== 'remove')
-      .map((fl) => {
-        if (fl.op === 'add') {
-          return fl.value.map(v => v.split(' ')[0]);
-        }
-        return fl.value.split(' ')[0];
-      }).flat(),
-  );
-  log(`Affected services: ${[...services].map((s) => `\`${s}\``).join(', ')}`);
+  const services = flDiff.map((fl) => fl.path[0]);
+  log(`Affected services: ${services.map((s) => `\`${s}\``).join(', ')}`);
 }
 
 // Throw an error to stop everything if there are no changes
