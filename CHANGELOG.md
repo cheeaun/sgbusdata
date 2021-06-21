@@ -1,3 +1,19 @@
+# 21 June 2021
+
+## Services count change: 554 ⮕ 555
+
+### Services added: 1
+
+- `170A` Queen St Ter → W'Lands Train Checkpt
+
+## Routes changed: 1
+
+- `170A` Queen St Ter → W'Lands Train Checkpt
+
+## First/last timings changed
+
+Affected services: `170A`
+
 # 13 June 2021
 
 ## Stops count change: 5048 ⮕ 5049

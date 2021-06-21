@@ -2497,6 +2497,16 @@
 		]
 	},
 	{
+		"number": "170A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"170A-1.kml"
+		],
+		"routeFile": [
+			"170A.xml"
+		]
+	},
+	{
 		"number": "170X",
 		"type": "TRUNK",
 		"kmlFile": [
