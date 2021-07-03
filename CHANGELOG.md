@@ -1,3 +1,72 @@
+# 3 July 2021
+
+### Stop locations changed: 41
+
+- `10519` 103.82611,1.29172 ⮕ 103.82612,1.29173
+- `11479` 103.80372,1.29938 ⮕ 103.80393,1.2992
+- `13011` 103.81983,1.30634 ⮕ 103.81923,1.30652
+- `21381` 103.70861,1.34965 ⮕ 103.70982,1.35046
+- `21389` 103.70896,1.34951 ⮕ 103.70993,1.35006
+- `22491` 103.70478,1.33721 ⮕ 103.70516,1.33672
+- `22499` 103.70488,1.33753 ⮕ 103.70492,1.33767
+- `28099` 103.7193,1.34432 ⮕ 103.71927,1.34432
+- `43751` 103.73653,1.35581 ⮕ 103.73666,1.3563
+- `44321` 103.77233,1.37989 ⮕ 103.77232,1.37987
+- `48119` 103.77929,1.40962 ⮕ 103.77872,1.41003
+- `53089` 103.82824,1.36413 ⮕ 103.8282,1.36398
+- `53161` 103.84214,1.36221 ⮕ 103.84216,1.36223
+- `53169` 103.84249,1.36213 ⮕ 103.84251,1.36217
+- `53301` 103.84592,1.34861 ⮕ 103.82866,1.37346
+- `53321` 103.84029,1.36135 ⮕ 103.82771,1.37937
+- `61029` 103.87052,1.33597 ⮕ 103.87056,1.33618
+- `75311` 103.93078,1.36708 ⮕ 103.93073,1.36748
+- `76549` 103.94061,1.36043 ⮕ 103.94052,1.36056
+- `77009` 103.95021,1.37372 ⮕ 103.95066,1.37351
+- `78119` 103.95797,1.37568 ⮕ 103.95752,1.37564
+
+## Services count change: 555 ⮕ 554
+
+### Services removed: 1
+
+- `926` Woodlands Int ⟲ S'Pore Zoo
+
+### Bus Stop Changes To Routes: 3
+
+- `359` Pasir Ris Int ⟲ Blk 569: -38
+- `15A` Pasir Ris Int → Opp Eunos Stn: +1
+- `58B` Pasir Ris Int → Aft Tai Seng Stn: +2
+
+## Routes changed: 24
+
+- `359` Pasir Ris Int ⟲ Blk 569
+- `3` Tampines Int ⇄ Punggol Temp Int
+- `5` Pasir Ris Int ⇄ Bt Merah Int
+- `6` Pasir Ris Int ⟲ Opp Loyang Way 6
+- `12` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `15` Pasir Ris Int ⟲ Opp Parkway Parade
+- `17` Pasir Ris Int ⇄ Bedok Int
+- `21` Pasir Ris Int ⇄ St. Michael's Ter
+- `58` Bishan Int ⇄ Pasir Ris Int
+- `68` Pasir Ris Int ⟲ Tampines Int
+- `88` Pasir Ris Int ⇄ Toa Payoh Int
+- `354` Pasir Ris Int ⟲ Casa Pasir Ris
+- `358` Pasir Ris Int ⟲ Pasir Ris Int
+- `403` Pasir Ris Int ⟲ Pasir Ris Pk
+- `518` Pasir Ris Int ⟲ Opp Mandarin Orchard
+- `12e` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `15A` Pasir Ris Int → Opp Eunos Stn
+- `4N` Marina Ctr Ter → Blk 210
+- `518A` Pasir Ris Int → Bayfront Stn Exit A
+- `58B` Pasir Ris Int → Aft Tai Seng Stn
+- `60T` Eunos Int → Bedok Int
+- `66C` Jurong East Int → Opp Beauty World Stn
+- `811T` Yishun Int ⟲ Blk 309
+- `975C` Bt Panjang Int → Police Coast Guard
+
+## First/last timings changed
+
+Affected services: `3B`, `3`, `21`, `58`, `68`, `88`, `358`, `359`, `58B`, `15A`
+
 # 21 June 2021
 
 ## Services count change: 554 ⮕ 555

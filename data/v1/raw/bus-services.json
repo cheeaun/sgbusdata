@@ -4012,7 +4012,8 @@
 		"number": 358,
 		"type": "TRUNK",
 		"kmlFile": [
-			"358-1.kml"
+			"358-1.kml",
+			"358-2.kml"
 		],
 		"routeFile": [
 			"358.xml"
@@ -6028,16 +6029,6 @@
 		],
 		"routeFile": [
 			"925M.xml"
-		]
-	},
-	{
-		"number": 926,
-		"type": "TRUNK",
-		"kmlFile": [
-			"926-1.kml"
-		],
-		"routeFile": [
-			"926.xml"
 		]
 	},
 	{
