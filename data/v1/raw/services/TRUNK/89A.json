@@ -1,7 +1,9 @@
 [
 	{
-		"name": "From Blk 738 to Airfreight Ter Bldg",
+		"name": "From Aft Punggol Rd to Airfreight Ter Bldg",
 		"stops": [
+			"65199",
+			"77339",
 			"77289",
 			"77239",
 			"77249",
@@ -32,6 +34,7 @@
 			"95071",
 			"95081",
 			"95091",
+			"95131",
 			"95131",
 			"95141",
 			"95061",

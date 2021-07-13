@@ -1,3 +1,23 @@
+# 13 July 2021
+
+### Stop locations changed: 2
+
+- `77009` 103.95066,1.37351 ⮕ 103.95048,1.37356
+
+## Services count change: 554 ⮕ 553
+
+### Services removed: 1
+
+- `3B` Blk 738 → Pasir Ris Int
+
+### Bus Stop Changes To Routes: 1
+
+- `89A` Aft Punggol Rd → Airfreight Ter Bldg: +3
+
+## First/last timings changed
+
+Affected services: `89e`, `89A`
+
 # 3 July 2021
 
 ### Stop locations changed: 41
