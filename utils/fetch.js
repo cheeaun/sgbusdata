@@ -6,6 +6,17 @@ module.exports = (url, opts) => {
   return got(url, {
     responseType: json ? 'json' : 'text',
     timeout: 60 * 1000,
+    headers: {
+      'user-agent': 'sgbusdata/1.0',
+    },
+    retry: 5,
+    hooks: {
+      beforeRetry: [
+        (options, error, retryCount) => {
+          console.log(`🚨 Retrying ${retryCount} time(s)`);
+        },
+      ],
+    },
     ...restOpts,
   }).then((res) => res.body);
 };

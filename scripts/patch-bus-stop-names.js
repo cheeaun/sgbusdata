@@ -14,17 +14,21 @@ const legitStops = stops.filter((s) => !/^-/.test(s.name));
       const form = new FormData();
       form.append('bs_code', '-');
       form.append('bscode', number);
+      console.log(`🚏 ${number}`);
       const html = await fetch(
         `https://www.transitlink.com.sg/eservice/eguide/bscode_idx.php`,
         {
           method: 'POST',
           body: form,
-        },
+        }
       );
       const [_, newName] = html.match(
-        /<td class="data">[^<>]+<\/td>[\s\n\r\t]+<td class="data">([^<>]+)/i,
+        /<td class="data">[^<>]+<\/td>[\s\n\r\t]+<td class="data">([^<>]+)/i
       ) || [, null];
       faultyStopNames.push({ number, name, newName });
+
+      // Wait a second
+      await new Promise((res) => setTimeout(res, 1000));
     }
   }
 
