@@ -1,3 +1,32 @@
+# 1 August 2021
+
+### Stop names changed: 15
+
+- `11229` Les Jardins De Holland ⮕ Sommerville Pk
+- `17311` Emerson Process ⮕ Opp Blk 801C
+- `51101` Old Police Academy ⮕ Bef Thomson Flyover
+- `52141` Philips S'pore ⮕ Opp Blk 139A
+- `52149` Opp Philips S'pore ⮕ Blk 139A
+- `58029` After Canberra Road ⮕ The Nautical
+- `58439` Innova JC ⮕ Opp Blk 567B
+- `59781` Bef Blk 469B ⮕ Aft Yishun Ave 6
+- `59789` Opp Blk 469B ⮕ Bef Yishun Ave 6
+- `75329` Poi Ching Pr Sch ⮕ Poi Ching Sch
+- `75351` Bef TPE ⮕ Tampines Wafer Fab Pk
+- `75359` Aft TPE ⮕ Ikea Tampines
+- `92131` Katong Omega Apt ⮕ Caltex Stn
+- `92139` Opp Katong Omega Apt ⮕ Opp Caltex Stn
+- `02089` Pan Pacific Hotel ⮕ Promenade Stn/Pan Pacific
+
+### Stop locations changed: 4
+
+- `46551` 103.78162,1.43533 ⮕ 103.78174,1.43518
+- `46561` 103.77719,1.43461 ⮕ 103.77724,1.43472
+
+## First/last timings changed
+
+Affected services: `101`, `112`, `119`
+
 # 13 July 2021
 
 ### Stop locations changed: 2

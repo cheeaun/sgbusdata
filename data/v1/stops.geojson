@@ -3324,7 +3324,7 @@
 			"id": "11229",
 			"properties": {
 				"number": "11229",
-				"name": "Les Jardins De Holland",
+				"name": "Sommerville Pk",
 				"services": [
 					"105",
 					"106",
@@ -10997,7 +10997,7 @@
 			"id": "17311",
 			"properties": {
 				"number": "17311",
-				"name": "Emerson Process",
+				"name": "Opp Blk 801C",
 				"services": [
 					"176"
 				]
@@ -45808,8 +45808,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.78162336464779,
-					1.4353272824077
+					103.781737,
+					1.435184
 				]
 			}
 		},
@@ -45845,8 +45845,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.77719002912507,
-					1.43461192439784
+					103.777244,
+					1.434717
 				]
 			}
 		},
@@ -51382,7 +51382,7 @@
 			"id": "51101",
 			"properties": {
 				"number": "51101",
-				"name": "Old Police Academy",
+				"name": "Bef Thomson Flyover",
 				"services": [
 					"105",
 					"132",
@@ -52085,7 +52085,7 @@
 			"id": "52141",
 			"properties": {
 				"number": "52141",
-				"name": "Philips S'pore",
+				"name": "Opp Blk 139A",
 				"services": [
 					"141",
 					"231",
@@ -52105,7 +52105,7 @@
 			"id": "52149",
 			"properties": {
 				"number": "52149",
-				"name": "Opp Philips S'pore",
+				"name": "Blk 139A",
 				"services": [
 					"141",
 					"231",
@@ -58217,8 +58217,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.85336802569404,
-					1.39195216697174
+					103.853366,
+					1.391952
 				]
 			}
 		},
@@ -60663,7 +60663,7 @@
 			"id": "58029",
 			"properties": {
 				"number": "58029",
-				"name": "After Canberra Road",
+				"name": "The Nautical",
 				"services": [
 					"167",
 					"856",
@@ -62287,7 +62287,7 @@
 			"id": "58439",
 			"properties": {
 				"number": "58439",
-				"name": "Innova JC",
+				"name": "Opp Blk 567B",
 				"services": [
 					"900A"
 				]
@@ -65972,7 +65972,7 @@
 			"id": "59781",
 			"properties": {
 				"number": "59781",
-				"name": "Bef Blk 469B",
+				"name": "Aft Yishun Ave 6",
 				"services": [
 					"103",
 					"117"
@@ -65991,7 +65991,7 @@
 			"id": "59789",
 			"properties": {
 				"number": "59789",
-				"name": "Opp Blk 469B",
+				"name": "Bef Yishun Ave 6",
 				"services": [
 					"103",
 					"117"
@@ -85154,7 +85154,7 @@
 			"id": "75329",
 			"properties": {
 				"number": "75329",
-				"name": "Poi Ching Pr Sch",
+				"name": "Poi Ching Sch",
 				"services": [
 					"293",
 					"293T"
@@ -85249,7 +85249,7 @@
 			"id": "75351",
 			"properties": {
 				"number": "75351",
-				"name": "Bef TPE",
+				"name": "Tampines Wafer Fab Pk",
 				"services": [
 					"118",
 					"118B",
@@ -85275,7 +85275,7 @@
 			"id": "75359",
 			"properties": {
 				"number": "75359",
-				"name": "Aft TPE",
+				"name": "Ikea Tampines",
 				"services": [
 					"118",
 					"118A",
@@ -98720,7 +98720,7 @@
 			"id": "92131",
 			"properties": {
 				"number": "92131",
-				"name": "Katong Omega Apt",
+				"name": "Caltex Stn",
 				"services": [
 					"10",
 					"10e",
@@ -98744,7 +98744,7 @@
 			"id": "92139",
 			"properties": {
 				"number": "92139",
-				"name": "Opp Katong Omega Apt",
+				"name": "Opp Caltex Stn",
 				"services": [
 					"10",
 					"10e",
@@ -106368,7 +106368,7 @@
 			"id": "02089",
 			"properties": {
 				"number": "02089",
-				"name": "Pan Pacific Hotel",
+				"name": "Promenade Stn/Pan Pacific",
 				"services": [
 					"107M",
 					"195",

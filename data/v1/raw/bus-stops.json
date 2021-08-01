@@ -8480,7 +8480,7 @@
 	{
 		"name": "-Z092",
 		"wab": "true",
-		"details": "After Canberra Road",
+		"details": "The Nautical",
 		"coordinates": {
 			"lat": 1.44315919415772,
 			"long": 103.82398509211036
@@ -11342,7 +11342,7 @@
 	{
 		"name": "02089",
 		"wab": "true",
-		"details": "Pan Pacific Hotel",
+		"details": "Promenade Stn/Pan Pacific",
 		"coordinates": {
 			"lat": 1.29152694444975,
 			"long": 103.8592061110504
@@ -14222,7 +14222,7 @@
 	{
 		"name": "11229",
 		"wab": "true",
-		"details": "Les Jardins De Holland",
+		"details": "Sommerville Pk",
 		"coordinates": {
 			"lat": 1.31060065879064,
 			"long": 103.80522542227166
@@ -17273,7 +17273,7 @@
 	{
 		"name": "17311",
 		"wab": "true",
-		"details": "Emerson Process",
+		"details": "Opp Blk 801C",
 		"coordinates": {
 			"lat": 1.30101698629873,
 			"long": 103.76229444678326
@@ -32287,8 +32287,8 @@
 		"wab": "true",
 		"details": "Blk 101",
 		"coordinates": {
-			"lat": 1.4353272824077,
-			"long": 103.78162336464779
+			"lat": 1.435184,
+			"long": 103.781737
 		}
 	},
 	{
@@ -32305,8 +32305,8 @@
 		"wab": "true",
 		"details": "Opp Blk 178",
 		"coordinates": {
-			"lat": 1.43461192439784,
-			"long": 103.77719002912507
+			"lat": 1.434717,
+			"long": 103.777244
 		}
 	},
 	{
@@ -34778,7 +34778,7 @@
 	{
 		"name": "51101",
 		"wab": "true",
-		"details": "Old Police Academy",
+		"details": "Bef Thomson Flyover",
 		"coordinates": {
 			"lat": 1.32753637537789,
 			"long": 103.83724817699014
@@ -35030,7 +35030,7 @@
 	{
 		"name": "52141",
 		"wab": "true",
-		"details": "Philips S'pore",
+		"details": "Opp Blk 139A",
 		"coordinates": {
 			"lat": 1.33627740506187,
 			"long": 103.84333464003154
@@ -35039,7 +35039,7 @@
 	{
 		"name": "52149",
 		"wab": "true",
-		"details": "Opp Philips S'pore",
+		"details": "Blk 139A",
 		"coordinates": {
 			"lat": 1.33640498933489,
 			"long": 103.84357399610558
@@ -37444,8 +37444,8 @@
 		"wab": "true",
 		"details": "Aft Econ Medicare Ctr",
 		"coordinates": {
-			"lat": 1.39195216697174,
-			"long": 103.85336802569404
+			"lat": 1.391952,
+			"long": 103.853366
 		}
 	},
 	{
@@ -38423,7 +38423,7 @@
 	{
 		"name": "58029",
 		"wab": "true",
-		"details": "After Canberra Road",
+		"details": "The Nautical",
 		"coordinates": {
 			"lat": 1.44315919415772,
 			"long": 103.82398509211036
@@ -39134,7 +39134,7 @@
 	{
 		"name": "58439",
 		"wab": "true",
-		"details": "Innova JC",
+		"details": "Opp Blk 567B",
 		"coordinates": {
 			"lat": 1.42857896419364,
 			"long": 103.78833922258168
@@ -40619,7 +40619,7 @@
 	{
 		"name": "59781",
 		"wab": "true",
-		"details": "Bef Blk 469B",
+		"details": "Aft Yishun Ave 6",
 		"coordinates": {
 			"lat": 1.4232168633454,
 			"long": 103.85125812567784
@@ -40628,7 +40628,7 @@
 	{
 		"name": "59789",
 		"wab": "true",
-		"details": "Opp Blk 469B",
+		"details": "Bef Yishun Ave 6",
 		"coordinates": {
 			"lat": 1.42301388896819,
 			"long": 103.85136389998303
@@ -48323,7 +48323,7 @@
 	{
 		"name": "75329",
 		"wab": "true",
-		"details": "Poi Ching Pr Sch",
+		"details": "Poi Ching Sch",
 		"coordinates": {
 			"lat": 1.35775471736024,
 			"long": 103.93627195175705
@@ -48359,7 +48359,7 @@
 	{
 		"name": "75351",
 		"wab": "true",
-		"details": "Bef TPE",
+		"details": "Tampines Wafer Fab Pk",
 		"coordinates": {
 			"lat": 1.37364163782281,
 			"long": 103.93077504301999
@@ -48368,7 +48368,7 @@
 	{
 		"name": "75359",
 		"wab": "true",
-		"details": "Aft TPE",
+		"details": "Ikea Tampines",
 		"coordinates": {
 			"lat": 1.37438650022455,
 			"long": 103.93147946559002
@@ -53633,7 +53633,7 @@
 	{
 		"name": "92131",
 		"wab": "true",
-		"details": "Katong Omega Apt",
+		"details": "Caltex Stn",
 		"coordinates": {
 			"lat": 1.30878111099591,
 			"long": 103.91089222198016
@@ -53642,7 +53642,7 @@
 	{
 		"name": "92139",
 		"wab": "true",
-		"details": "Opp Katong Omega Apt",
+		"details": "Opp Caltex Stn",
 		"coordinates": {
 			"lat": 1.30853972762017,
 			"long": 103.91062932209371

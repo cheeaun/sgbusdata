@@ -1087,6 +1087,17 @@
 		]
 	},
 	{
+		"number": "-S42",
+		"description": "Safari HIPPOtours - Suntec City to Singapore Zoo & Night Safari Tourist Bus Service",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S42-1.kml"
+		],
+		"routeFile": [
+			"-S42.xml"
+		]
+	},
+	{
 		"number": "-S23",
 		"description": "Changi General Hospital (CGH) - Simei MRT Station",
 		"type": "SHUTTLEHOSPITALS",

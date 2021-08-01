@@ -317,7 +317,7 @@
 	{
 		"BusStopCode": "02089",
 		"RoadName": "Raffles Blvd",
-		"Description": "Pan Pacific Hotel",
+		"Description": "Promenade Stn/Pan Pacific",
 		"Latitude": 1.29152694444975,
 		"Longitude": 103.8592061110504
 	},
@@ -2557,7 +2557,7 @@
 	{
 		"BusStopCode": "11229",
 		"RoadName": "Holland Rd",
-		"Description": "Les Jardins De Holland",
+		"Description": "Sommerville Pk",
 		"Latitude": 1.31060065879064,
 		"Longitude": 103.80522542227166
 	},
@@ -4930,7 +4930,7 @@
 	{
 		"BusStopCode": "17311",
 		"RoadName": "West Coast Highway",
-		"Description": "Emerson Process",
+		"Description": "Opp Blk 801C",
 		"Latitude": 1.30101698629873,
 		"Longitude": 103.76229444678326
 	},
@@ -16607,8 +16607,8 @@
 		"BusStopCode": "46551",
 		"RoadName": "Woodlands St 13",
 		"Description": "Blk 101",
-		"Latitude": 1.4353272824077,
-		"Longitude": 103.78162336464779
+		"Latitude": 1.435184,
+		"Longitude": 103.781737
 	},
 	{
 		"BusStopCode": "46559",
@@ -16621,8 +16621,8 @@
 		"BusStopCode": "46561",
 		"RoadName": "Woodlands St 13",
 		"Description": "Opp Blk 178",
-		"Latitude": 1.43461192439784,
-		"Longitude": 103.77719002912507
+		"Latitude": 1.434717,
+		"Longitude": 103.777244
 	},
 	{
 		"BusStopCode": "46569",
@@ -18545,7 +18545,7 @@
 	{
 		"BusStopCode": "51101",
 		"RoadName": "PIE",
-		"Description": "Old Police Academy",
+		"Description": "Bef Thomson Flyover",
 		"Latitude": 1.32753637537789,
 		"Longitude": 103.83724817699014
 	},
@@ -18741,14 +18741,14 @@
 	{
 		"BusStopCode": "52141",
 		"RoadName": "Lor 1 Toa Payoh",
-		"Description": "Philips S'pore",
+		"Description": "Opp Blk 139A",
 		"Latitude": 1.33627740506187,
 		"Longitude": 103.84333464003154
 	},
 	{
 		"BusStopCode": "52149",
 		"RoadName": "Lor 1 Toa Payoh",
-		"Description": "Opp Philips S'pore",
+		"Description": "Blk 139A",
 		"Latitude": 1.33640498933489,
 		"Longitude": 103.84357399610558
 	},
@@ -20618,8 +20618,8 @@
 		"BusStopCode": "55079",
 		"RoadName": "Yio Chu Kang Rd",
 		"Description": "Aft Econ Medicare Ctr",
-		"Latitude": 1.39195216697174,
-		"Longitude": 103.85336802569404
+		"Latitude": 1.391952,
+		"Longitude": 103.853366
 	},
 	{
 		"BusStopCode": "55081",
@@ -21380,7 +21380,7 @@
 	{
 		"BusStopCode": "58029",
 		"RoadName": "Sembawang Rd",
-		"Description": "After Canberra Road",
+		"Description": "The Nautical",
 		"Latitude": 1.44315919415772,
 		"Longitude": 103.82398509211036
 	},
@@ -21933,7 +21933,7 @@
 	{
 		"BusStopCode": "58439",
 		"RoadName": "Champions Way",
-		"Description": "Innova JC",
+		"Description": "Opp Blk 567B",
 		"Latitude": 1.42857896419364,
 		"Longitude": 103.78833922258168
 	},
@@ -23088,14 +23088,14 @@
 	{
 		"BusStopCode": "59781",
 		"RoadName": "Yishun Ave 1",
-		"Description": "Bef Blk 469B",
+		"Description": "Aft Yishun Ave 6",
 		"Latitude": 1.4232168633454,
 		"Longitude": 103.85125812567784
 	},
 	{
 		"BusStopCode": "59789",
 		"RoadName": "Yishun Ave 1",
-		"Description": "Opp Blk 469B",
+		"Description": "Bef Yishun Ave 6",
 		"Latitude": 1.42301388896819,
 		"Longitude": 103.85136389998303
 	},
@@ -29080,7 +29080,7 @@
 	{
 		"BusStopCode": "75329",
 		"RoadName": "Tampines St 71",
-		"Description": "Poi Ching Pr Sch",
+		"Description": "Poi Ching Sch",
 		"Latitude": 1.35775471736024,
 		"Longitude": 103.93627195175705
 	},
@@ -29108,14 +29108,14 @@
 	{
 		"BusStopCode": "75351",
 		"RoadName": "Tampines Ave 10",
-		"Description": "Bef TPE",
+		"Description": "Tampines Wafer Fab Pk",
 		"Latitude": 1.37364163782281,
 		"Longitude": 103.93077504301999
 	},
 	{
 		"BusStopCode": "75359",
 		"RoadName": "Tampines Ave 10",
-		"Description": "Aft TPE",
+		"Description": "Ikea Tampines",
 		"Latitude": 1.37438650022455,
 		"Longitude": 103.93147946559002
 	},
@@ -33210,14 +33210,14 @@
 	{
 		"BusStopCode": "92131",
 		"RoadName": "East Coast Rd",
-		"Description": "Katong Omega Apt",
+		"Description": "Caltex Stn",
 		"Latitude": 1.30878111099591,
 		"Longitude": 103.91089222198016
 	},
 	{
 		"BusStopCode": "92139",
 		"RoadName": "East Coast Rd",
-		"Description": "Opp Katong Omega Apt",
+		"Description": "Opp Caltex Stn",
 		"Latitude": 1.30853972762017,
 		"Longitude": 103.91062932209371
 	},
