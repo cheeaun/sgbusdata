@@ -20818,7 +20818,7 @@
 		]
 	},
 	"925": {
-		"name": "W'Lands Temp Int ⇄ Choa Chu Kang Int",
+		"name": "Woodlands Temp Int ⇄ Choa Chu Kang Int",
 		"routes": [
 			[
 				"47009",
@@ -21038,7 +21038,7 @@
 		]
 	},
 	"950": {
-		"name": "W'Lands Temp Int ⟲ Johor Bahru Checkpt",
+		"name": "Woodlands Temp Int ⟲ Johor Bahru Checkpt",
 		"routes": [
 			[
 				"47009",
@@ -21171,7 +21171,7 @@
 		]
 	},
 	"961": {
-		"name": "W'Lands Temp Int ⇄ Lor 1 Geylang Ter",
+		"name": "Woodlands Temp Int ⇄ Lor 1 Geylang Ter",
 		"routes": [
 			[
 				"47009",
@@ -21550,7 +21550,7 @@
 		]
 	},
 	"965": {
-		"name": "W'Lands Temp Int ⟲ Sengkang Int",
+		"name": "Woodlands Temp Int ⟲ Sengkang Int",
 		"routes": [
 			[
 				"47009",
@@ -28654,7 +28654,7 @@
 		]
 	},
 	"925A": {
-		"name": "W'Lands Temp Int → Kranji Reservoir Pk B",
+		"name": "Woodlands Temp Int → Kranji Reservoir Pk B",
 		"routes": [
 			[
 				"47009",
@@ -28679,7 +28679,7 @@
 		]
 	},
 	"925M": {
-		"name": "W'Lands Temp Int ⟲ Opp Nyee Phoe Group",
+		"name": "Woodlands Temp Int ⟲ Opp Nyee Phoe Group",
 		"routes": [
 			[
 				"47009",
@@ -28943,7 +28943,7 @@
 		]
 	},
 	"961M": {
-		"name": "W'Lands Temp Int ⇄ Lor 1 Geylang Ter",
+		"name": "Woodlands Temp Int ⇄ Lor 1 Geylang Ter",
 		"routes": [
 			[
 				"47009",
@@ -29280,7 +29280,7 @@
 		]
 	},
 	"965A": {
-		"name": "W'Lands Temp Int → Opp Yishun Stn",
+		"name": "Woodlands Temp Int → Opp Yishun Stn",
 		"routes": [
 			[
 				"47009",
@@ -29301,7 +29301,7 @@
 		]
 	},
 	"965T": {
-		"name": "W'Lands Temp Int → Sengkang Int",
+		"name": "Woodlands Temp Int → Sengkang Int",
 		"routes": [
 			[
 				"47009",
@@ -29405,15 +29405,9 @@
 		]
 	},
 	"96B": {
-		"name": "Clementi Int → Clementi Stn Exit A",
+		"name": "NUS Fac Of Design & Env → Clementi Stn Exit A",
 		"routes": [
 			[
-				"17009",
-				"17239",
-				"17159",
-				"17099",
-				"16159",
-				"16149",
 				"16199",
 				"16189",
 				"16179",

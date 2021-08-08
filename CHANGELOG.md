@@ -1,3 +1,25 @@
+# 8 August 2021
+
+### Stop names changed: 1
+
+- `47009` W'Lands Temp Int ⮕ Woodlands Temp Int
+
+### Stop locations changed: 2
+
+- `58099` 103.83757,1.4615 ⮕ 103.83739,1.4603
+
+### Bus Stop Changes To Routes: 1
+
+- `96B` NUS Fac Of Design & Env → Clementi Stn Exit A: -6
+
+## Routes changed: 1
+
+- `96B` NUS Fac Of Design & Env → Clementi Stn Exit A
+
+## First/last timings changed
+
+Affected services: `2`, `66`, `79`, `97`, `106`, `143`, `173`, `183`, `189`, `282`, `284`, `285`, `941`, `944`, `947`, `990`, `96B`, `36B`
+
 # 1 August 2021
 
 ### Stop names changed: 15

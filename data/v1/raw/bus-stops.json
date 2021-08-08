@@ -32933,7 +32933,7 @@
 	{
 		"name": "47009",
 		"wab": "true",
-		"details": "W'Lands Temp Int",
+		"details": "Woodlands Temp Int",
 		"coordinates": {
 			"lat": 1.437553,
 			"long": 103.786282
@@ -38551,8 +38551,8 @@
 		"wab": "true",
 		"details": "Opp Sembawang Pk",
 		"coordinates": {
-			"lat": 1.46149876184454,
-			"long": 103.83756576168646
+			"lat": 1.460299,
+			"long": 103.837391
 		}
 	},
 	{

@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From W'Lands Temp Int to Choa Chu Kang Int",
+		"name": "From Woodlands Temp Int to Choa Chu Kang Int",
 		"stops": [
 			"47009",
 			"46549",
@@ -44,7 +44,7 @@
 		]
 	},
 	{
-		"name": "From Choa Chu Kang Int to W'Lands Temp Int",
+		"name": "From Choa Chu Kang Int to Woodlands Temp Int",
 		"stops": [
 			"44009",
 			"44541",

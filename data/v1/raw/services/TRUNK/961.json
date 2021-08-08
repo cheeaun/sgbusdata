@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From W'Lands Temp Int to Lor 1 Geylang Ter",
+		"name": "From Woodlands Temp Int to Lor 1 Geylang Ter",
 		"stops": [
 			"47009",
 			"46549",
@@ -90,7 +90,7 @@
 		]
 	},
 	{
-		"name": "From Lor 1 Geylang Ter to W'Lands Temp Int",
+		"name": "From Lor 1 Geylang Ter to Woodlands Temp Int",
 		"stops": [
 			"80009",
 			"80101",

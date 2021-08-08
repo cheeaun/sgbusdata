@@ -17110,7 +17110,7 @@
 	{
 		"BusStopCode": "47009",
 		"RoadName": "Woodlands Sq",
-		"Description": "W'Lands Temp Int",
+		"Description": "Woodlands Temp Int",
 		"Latitude": 1.437553,
 		"Longitude": 103.786282
 	},
@@ -21479,8 +21479,8 @@
 		"BusStopCode": "58099",
 		"RoadName": "Sembawang Rd",
 		"Description": "Opp Sembawang Pk",
-		"Latitude": 1.46149876184454,
-		"Longitude": 103.83756576168646
+		"Latitude": 1.460299,
+		"Longitude": 103.837391
 	},
 	{
 		"BusStopCode": "58101",
