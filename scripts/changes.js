@@ -48,8 +48,9 @@ if (stopsDiff.length) {
   if (removedDiff.length) {
     nlog(`### Stops removed: ${removedDiff.length}\n`);
     removedDiff.forEach((d) => {
-      const { path, value } = d;
-      log(`- \`${path[0]}\` ${value[2]}`);
+      const { path } = d;
+      const oldValue = oldStops[path[0]];
+      log(`- \`${path[0]}\` ${oldValue[2]}`);
     });
   }
 
