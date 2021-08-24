@@ -5,7 +5,7 @@ const readOldNewData = (path) => {
   const oldData = JSON.parse(
     execSync(`git show $(git branch --show-current):${path}`, {
       encoding: 'utf8',
-    })
+    }),
   );
   const newData = require('../' + path);
   return [oldData, newData];
@@ -20,7 +20,7 @@ log(
     year: 'numeric',
     month: 'long',
     day: 'numeric',
-  })}`
+  })}`,
 );
 
 const [oldStops, newStops] = readOldNewData('data/v1/stops.json');
@@ -99,7 +99,7 @@ const servicesDiff = diff(oldServices, newServices);
 
 if (servicesDiff.length) {
   const addedDiff = servicesDiff.filter(
-    (d) => d.op === 'add' && d.path[1] !== 'routes'
+    (d) => d.op === 'add' && d.path[1] !== 'routes',
   );
   if (addedDiff.length) {
     nlog(`### Services added: ${addedDiff.length}\n`);
@@ -110,7 +110,7 @@ if (servicesDiff.length) {
   }
 
   const removedDiff = servicesDiff.filter(
-    (d) => d.op === 'remove' && d.path[1] !== 'routes'
+    (d) => d.op === 'remove' && d.path[1] !== 'routes',
   );
   if (removedDiff.length) {
     nlog(`### Services removed: ${removedDiff.length}\n`);
@@ -141,7 +141,7 @@ if (servicesDiff.length) {
           addedCount ? `+${addedCount}` : ''
         }${addedCount && removedCount ? ', ' : ''}${
           removedCount ? `-${removedCount}` : ''
-        }`
+        }`,
       );
     });
   }
@@ -152,7 +152,7 @@ const routesDiff = diff(oldRoutes, newRoutes);
 
 if (routesDiff.length) {
   const services = [...new Set(routesDiff.map((d) => d.path[0]))].filter(
-    (s) => !!newServices[s]
+    (s) => !!newServices[s],
   );
   if (services.length) {
     nlog(`## Routes changed: ${services.length}\n`);
