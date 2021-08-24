@@ -135,6 +135,15 @@
 		}
 	},
 	{
+		"name": "-P121",
+		"wab": "true",
+		"details": "Promenade Stn",
+		"coordinates": {
+			"lat": 1.29268553508737,
+			"long": 103.86093156188176
+		}
+	},
+	{
 		"name": "-P122",
 		"wab": "true",
 		"details": "Promenade Stn Exit B",
@@ -3897,6 +3906,15 @@
 		}
 	},
 	{
+		"name": "-P817",
+		"wab": "true",
+		"details": "Opp Blk 216",
+		"coordinates": {
+			"lat": 1.36906973,
+			"long": 103.960248
+		}
+	},
+	{
 		"name": "-P818",
 		"wab": "true",
 		"details": "Blk 242",
@@ -5724,42 +5742,6 @@
 		}
 	},
 	{
-		"name": "-PB92",
-		"wab": "true",
-		"details": "Opp Loyang Townhse",
-		"coordinates": {
-			"lat": 1.37923567744466,
-			"long": 103.96426677704831
-		}
-	},
-	{
-		"name": "-PB93",
-		"wab": "true",
-		"details": "Ripple Bay",
-		"coordinates": {
-			"lat": 1.37867586107737,
-			"long": 103.9611544989829
-		}
-	},
-	{
-		"name": "-PB94",
-		"wab": "true",
-		"details": "Opp Lighthouse",
-		"coordinates": {
-			"lat": 1.37802115263457,
-			"long": 103.95936584739643
-		}
-	},
-	{
-		"name": "-PB95",
-		"wab": "true",
-		"details": "Along the road Opp Seastrand Condominium Main Gate",
-		"coordinates": {
-			"lat": 1.37707,
-			"long": 103.96089
-		}
-	},
-	{
 		"name": "-PB96",
 		"wab": "true",
 		"details": "Blk 231A CP",
@@ -5847,15 +5829,6 @@
 		"coordinates": {
 			"lat": 1.2802,
 			"long": 103.8506
-		}
-	},
-	{
-		"name": "-PC75",
-		"wab": "true",
-		"details": "Hong Lim Pk",
-		"coordinates": {
-			"lat": 1.28676420118491,
-			"long": 103.84575036447065
 		}
 	},
 	{
@@ -6189,6 +6162,15 @@
 		"coordinates": {
 			"lat": 1.35116,
 			"long": 103.75047
+		}
+	},
+	{
+		"name": "-PI46",
+		"wab": "true",
+		"details": "Singapore Zoo",
+		"coordinates": {
+			"lat": 1.40462388269986,
+			"long": 103.78935694475769
 		}
 	},
 	{
@@ -7083,33 +7065,6 @@
 		}
 	},
 	{
-		"name": "-S144",
-		"wab": "true",
-		"details": "Opp S'pore Cricket Club",
-		"coordinates": {
-			"lat": 1.28879015142476,
-			"long": 103.85293318066766
-		}
-	},
-	{
-		"name": "-S145",
-		"wab": "true",
-		"details": "St. Andrew's Cath",
-		"coordinates": {
-			"lat": 1.29141338913811,
-			"long": 103.85264858011732
-		}
-	},
-	{
-		"name": "-S146",
-		"wab": "true",
-		"details": "Boat Quay",
-		"coordinates": {
-			"lat": 1.28712283362119,
-			"long": 103.84819780822524
-		}
-	},
-	{
 		"name": "-S148",
 		"wab": "true",
 		"details": "Opp Hong Lim Pk",
@@ -7137,33 +7092,6 @@
 		}
 	},
 	{
-		"name": "-S151",
-		"wab": "true",
-		"details": "Opp Great World City",
-		"coordinates": {
-			"lat": 1.29409221679159,
-			"long": 103.83083776408
-		}
-	},
-	{
-		"name": "-S152",
-		"wab": "true",
-		"details": "Opp Four Seasons Hotel",
-		"coordinates": {
-			"lat": 1.30453752623147,
-			"long": 103.82914529614989
-		}
-	},
-	{
-		"name": "-S153",
-		"wab": "true",
-		"details": "Grange Residences",
-		"coordinates": {
-			"lat": 1.30391999998388,
-			"long": 103.823338056031
-		}
-	},
-	{
 		"name": "-S154",
 		"wab": "true",
 		"details": "Delfi Orchard",
@@ -7173,39 +7101,12 @@
 		}
 	},
 	{
-		"name": "-S155",
-		"wab": "true",
-		"details": "Orchard Stn/Tang Plaza",
-		"coordinates": {
-			"lat": 1.30446065207443,
-			"long": 103.83294467208566
-		}
-	},
-	{
 		"name": "-S156",
 		"wab": "true",
 		"details": "Opp Somerset Stn",
 		"coordinates": {
 			"lat": 1.30154262450459,
 			"long": 103.838524818423
-		}
-	},
-	{
-		"name": "-S157",
-		"wab": "true",
-		"details": "Aft Dhoby Ghaut Stn",
-		"coordinates": {
-			"lat": 1.29895834316201,
-			"long": 103.846541152712
-		}
-	},
-	{
-		"name": "-S158",
-		"wab": "true",
-		"details": "Sch of the Arts",
-		"coordinates": {
-			"lat": 1.29921444445479,
-			"long": 103.84910329218
 		}
 	},
 	{
@@ -7227,15 +7128,6 @@
 		}
 	},
 	{
-		"name": "-S161",
-		"wab": "true",
-		"details": "Raffles Hotel",
-		"coordinates": {
-			"lat": 1.29452091230981,
-			"long": 103.85402155505173
-		}
-	},
-	{
 		"name": "-S162",
 		"wab": "true",
 		"details": "Fu Lu Shou Cplx",
@@ -7254,6 +7146,15 @@
 		}
 	},
 	{
+		"name": "-S165",
+		"wab": "true",
+		"details": "Opp Hong Lim Cplx",
+		"coordinates": {
+			"lat": 1.28451455846092,
+			"long": 103.84666049314171
+		}
+	},
+	{
 		"name": "-S167",
 		"wab": "true",
 		"details": "Chinatown Stn Exit C",
@@ -7269,6 +7170,15 @@
 		"coordinates": {
 			"lat": 1.29153323475248,
 			"long": 103.8592672917
+		}
+	},
+	{
+		"name": "-S169",
+		"wab": "true",
+		"details": "Aft River Valley Rd",
+		"coordinates": {
+			"lat": 1.29464575337237,
+			"long": 103.843921422931
 		}
 	},
 	{
@@ -7452,120 +7362,12 @@
 		}
 	},
 	{
-		"name": "-S204",
-		"wab": "true",
-		"details": "Armenian Ch",
-		"coordinates": {
-			"lat": 1.2930982644668,
-			"long": 103.84965994500728
-		}
-	},
-	{
-		"name": "-S205",
-		"wab": "true",
-		"details": "Cath Of The Good Shepherd",
-		"coordinates": {
-			"lat": 1.29533777799097,
-			"long": 103.851139721981
-		}
-	},
-	{
-		"name": "-S206",
-		"wab": "true",
-		"details": "Hotel Grand Pacific",
-		"coordinates": {
-			"lat": 1.29684825487536,
-			"long": 103.85253591654
-		}
-	},
-	{
-		"name": "-S207",
-		"wab": "true",
-		"details": "Bef Beach Rd",
-		"coordinates": {
-			"lat": 1.29738750001358,
-			"long": 103.855575832976
-		}
-	},
-	{
-		"name": "-S208",
-		"wab": "true",
-		"details": "Suntec Convention Ctr",
-		"coordinates": {
-			"lat": 1.29317776320698,
-			"long": 103.85784623004
-		}
-	},
-	{
-		"name": "-S209",
-		"wab": "true",
-		"details": "Pan Pacific Hotel",
-		"coordinates": {
-			"lat": 1.29153323475248,
-			"long": 103.8592672917
-		}
-	},
-	{
 		"name": "-S210",
 		"wab": "true",
 		"details": "One Raffles Quay",
 		"coordinates": {
 			"lat": 1.281111,
 			"long": 103.851461
-		}
-	},
-	{
-		"name": "-S212",
-		"wab": "true",
-		"details": "Kranji Stn",
-		"coordinates": {
-			"lat": 1.42525961270527,
-			"long": 103.761781018759
-		}
-	},
-	{
-		"name": "-S213",
-		"wab": "true",
-		"details": "Aft Kranji Rd",
-		"coordinates": {
-			"lat": 1.43646977071566,
-			"long": 103.753734543128
-		}
-	},
-	{
-		"name": "-S214",
-		"wab": "true",
-		"details": "Kranji Reservoir Pk B",
-		"coordinates": {
-			"lat": 1.43836742750717,
-			"long": 103.735784472631
-		}
-	},
-	{
-		"name": "-S215",
-		"wab": "true",
-		"details": "Sg Buloh Wetland Reserve",
-		"coordinates": {
-			"lat": 1.44513667520894,
-			"long": 103.729838128481
-		}
-	},
-	{
-		"name": "-S216",
-		"wab": "true",
-		"details": "PUB Quarter",
-		"coordinates": {
-			"lat": 1.43868741216329,
-			"long": 103.735095971311
-		}
-	},
-	{
-		"name": "-S217",
-		"wab": "true",
-		"details": "Dapolite Ind",
-		"coordinates": {
-			"lat": 1.43689816677719,
-			"long": 103.754066396238
 		}
 	},
 	{
@@ -7695,24 +7497,6 @@
 		}
 	},
 	{
-		"name": "-S233",
-		"wab": "true",
-		"details": "Esplanade Stn Exit F",
-		"coordinates": {
-			"lat": 1.29428694178246,
-			"long": 103.85503809424233
-		}
-	},
-	{
-		"name": "-S234",
-		"wab": "true",
-		"details": "Opp Choa Chu Kang Stn",
-		"coordinates": {
-			"lat": 1.3842540529817,
-			"long": 103.744536248721
-		}
-	},
-	{
 		"name": "-S235",
 		"wab": "true",
 		"details": "KKH Podium",
@@ -7758,132 +7542,6 @@
 		}
 	},
 	{
-		"name": "-S240",
-		"wab": "true",
-		"details": "Driveway of Suntec City Mall, Raffles Boulevard",
-		"coordinates": {
-			"lat": 1.29255,
-			"long": 103.85716
-		}
-	},
-	{
-		"name": "-S241",
-		"wab": "true",
-		"details": "Bus stop before Sultan Gate Road, Beach Road",
-		"coordinates": {
-			"lat": 1.30095,
-			"long": 103.86081
-		}
-	},
-	{
-		"name": "-S242",
-		"wab": "true",
-		"details": "Bus stop opposite Pidemco Centre, South Bridge Road",
-		"coordinates": {
-			"lat": 1.28632,
-			"long": 103.84763
-		}
-	},
-	{
-		"name": "-S243",
-		"wab": "true",
-		"details": "Bus stop opposite Oriental/ Ritz Carlton, Raffles Boulevard",
-		"coordinates": {
-			"lat": 1.29155,
-			"long": 103.85996
-		}
-	},
-	{
-		"name": "-S244",
-		"wab": "true",
-		"details": "Bus stop opposite UE Shopping Mall, Clemenceau Avenue",
-		"coordinates": {
-			"lat": 1.29176,
-			"long": 103.84318
-		}
-	},
-	{
-		"name": "-S245",
-		"wab": "true",
-		"details": "Bus stop before Tan Tye Place, River Valley Road",
-		"coordinates": {
-			"lat": 1.2918,
-			"long": 103.84515
-		}
-	},
-	{
-		"name": "-S246",
-		"wab": "true",
-		"details": "Hotel Miramar",
-		"coordinates": {
-			"lat": 1.28870976841461,
-			"long": 103.83737276969174
-		}
-	},
-	{
-		"name": "-S247",
-		"wab": "true",
-		"details": "Bus stop in front of Orchard Hotel, Orchard Road",
-		"coordinates": {
-			"lat": 1.30707,
-			"long": 103.82829
-		}
-	},
-	{
-		"name": "-S248",
-		"wab": "true",
-		"details": "Bus stop in front of Marriot Hotel, Orchard Road",
-		"coordinates": {
-			"lat": 1.30465,
-			"long": 103.83285
-		}
-	},
-	{
-		"name": "-S249",
-		"wab": "true",
-		"details": "Bus stop in front of Orchard Emerald, Orchard Road",
-		"coordinates": {
-			"lat": 1.30161,
-			"long": 103.83839
-		}
-	},
-	{
-		"name": "-S250",
-		"wab": "true",
-		"details": "Orchard Plaza",
-		"coordinates": {
-			"lat": 1.30073968408393,
-			"long": 103.84100500816844
-		}
-	},
-	{
-		"name": "-S251",
-		"wab": "true",
-		"details": "BENCOOLEN STN EXIT B",
-		"coordinates": {
-			"lat": 1.29821382250893,
-			"long": 103.84936128375956
-		}
-	},
-	{
-		"name": "-S252",
-		"wab": "true",
-		"details": "Raffles Hotel",
-		"coordinates": {
-			"lat": 1.29452091230981,
-			"long": 103.85402155505173
-		}
-	},
-	{
-		"name": "-S253",
-		"wab": "true",
-		"details": "Lau Pa Sat",
-		"coordinates": {
-			"lat": 1.2802,
-			"long": 103.8506
-		}
-	},
-	{
 		"name": "-S254",
 		"wab": "true",
 		"details": "Bayfront Stn Exit B/MBS",
@@ -7911,174 +7569,12 @@
 		}
 	},
 	{
-		"name": "-S257",
-		"wab": "true",
-		"details": "Bus stop outside Ban San Street Terminal, Ban San Street",
-		"coordinates": {
-			"lat": 1.30337,
-			"long": 103.85649
-		}
-	},
-	{
-		"name": "-S258",
-		"wab": "true",
-		"details": "Resorts World Sentosa Coach Terminal",
-		"coordinates": {
-			"lat": 1.256183,
-			"long": 103.821648
-		}
-	},
-	{
-		"name": "-S259",
-		"wab": "true",
-		"details": "Bus stop outside HarbourFront Tower 2, Maritime Square",
-		"coordinates": {
-			"lat": 1.26429,
-			"long": 103.81883
-		}
-	},
-	{
-		"name": "-S260",
-		"wab": "true",
-		"details": "Marina Sth Pier Stn",
-		"coordinates": {
-			"lat": 1.27127698470973,
-			"long": 103.86297693157816
-		}
-	},
-	{
-		"name": "-S261",
-		"wab": "true",
-		"details": "Marina Bay Cruise Ctr",
-		"coordinates": {
-			"lat": 1.26694090294712,
-			"long": 103.85964778134667
-		}
-	},
-	{
-		"name": "-S262",
-		"wab": "true",
-		"details": "Aft Bayfront Stn Exit E",
-		"coordinates": {
-			"lat": 1.28194779470571,
-			"long": 103.85897064872482
-		}
-	},
-	{
-		"name": "-S263",
-		"wab": "true",
-		"details": "The Singapore Flyer Coach Bay",
-		"coordinates": {
-			"lat": 1.28958,
-			"long": 103.86288
-		}
-	},
-	{
-		"name": "-S264",
-		"wab": "true",
-		"details": "Driveway of the Singapore Flyer, Raffles Avenue",
-		"coordinates": {
-			"lat": 1.289295,
-			"long": 103.861808
-		}
-	},
-	{
 		"name": "-S265",
 		"wab": "true",
 		"details": "Bedok Point Pick-up/ Drop-off Bay along Bedok Central",
 		"coordinates": {
 			"lat": 1.325834,
 			"long": 103.934084
-		}
-	},
-	{
-		"name": "-S42",
-		"wab": "true",
-		"details": "Along Lim Chu Kang Lane 2 outside Fireflies Health Farm",
-		"coordinates": {
-			"lat": 1.426967,
-			"long": 103.71034
-		}
-	},
-	{
-		"name": "-S43",
-		"wab": "true",
-		"details": "Inside Hay Diaries",
-		"coordinates": {
-			"lat": 1.431434,
-			"long": 103.709661
-		}
-	},
-	{
-		"name": "-S44",
-		"wab": "true",
-		"details": "Along Lim Chu Kang Lane 6 outside Jurong Frog Farm",
-		"coordinates": {
-			"lat": 1.440049,
-			"long": 103.718946
-		}
-	},
-	{
-		"name": "-S48",
-		"wab": "true",
-		"details": "Botanical Gardens Visitor Centre",
-		"coordinates": {
-			"lat": 1.314936,
-			"long": 103.816289
-		}
-	},
-	{
-		"name": "-S49",
-		"wab": "true",
-		"details": "Inside Gardenasia",
-		"coordinates": {
-			"lat": 1.439569,
-			"long": 103.72752
-		}
-	},
-	{
-		"name": "-S50",
-		"wab": "true",
-		"details": "Inside Max Koi Farm",
-		"coordinates": {
-			"lat": 1.439665,
-			"long": 103.72533
-		}
-	},
-	{
-		"name": "-S51",
-		"wab": "true",
-		"details": "Lobby of Aero-Green Technology",
-		"coordinates": {
-			"lat": 1.444634,
-			"long": 103.729883
-		}
-	},
-	{
-		"name": "-S52",
-		"wab": "true",
-		"details": "Along Neo Tiew Crescent outside Hausmann Marketing Aquarium",
-		"coordinates": {
-			"lat": 1.445157,
-			"long": 103.729412
-		}
-	},
-	{
-		"name": "-S53",
-		"wab": "true",
-		"details": "Inside D'Kranji Farm Resort",
-		"coordinates": {
-			"lat": 1.420183,
-			"long": 103.719067
-		}
-	},
-	{
-		"name": "-S54",
-		"wab": "true",
-		"details": "Along Neo Tiew Roadoutside Bollywood Veggies",
-		"coordinates": {
-			"lat": 1.419358,
-			"long": 103.716721
 		}
 	},
 	{
@@ -8100,18 +7596,9 @@
 		}
 	},
 	{
-		"name": "-S8",
-		"wab": "true",
-		"details": "Farmart Centre",
-		"coordinates": {
-			"lat": 1.381903,
-			"long": 103.726143
-		}
-	},
-	{
 		"name": "-S81",
 		"wab": "true",
-		"details": "Along Serangoon Road opposite Blk 663",
+		"details": "Along the road opposite Blk 663",
 		"coordinates": {
 			"lat": 1.305681,
 			"long": 103.850858
@@ -8349,6 +7836,15 @@
 		"coordinates": {
 			"lat": 1.2740788888387,
 			"long": 103.84687388890413
+		}
+	},
+	{
+		"name": "-Z069",
+		"wab": "true",
+		"details": "Passenger pick-up drop-off point outside Khatib MRT Station",
+		"coordinates": {
+			"lat": 1.269408607,
+			"long": 103.9802851
 		}
 	},
 	{
@@ -9648,6 +9144,15 @@
 		}
 	},
 	{
+		"name": "-Z384",
+		"wab": "true",
+		"details": "Blk 312 CP",
+		"coordinates": {
+			"lat": 1.40985888889928,
+			"long": 103.90129988103229
+		}
+	},
+	{
 		"name": "-Z385",
 		"wab": "true",
 		"details": "Opp Durban Rd",
@@ -10932,6 +10437,186 @@
 		"coordinates": {
 			"lat": 1.392339157,
 			"long": 103.8960682
+		}
+	},
+	{
+		"name": "-Z607",
+		"wab": "true",
+		"details": "Our Tampines Hub",
+		"coordinates": {
+			"lat": 1.35313809279079,
+			"long": 103.9412639409046
+		}
+	},
+	{
+		"name": "-Z608",
+		"wab": "false",
+		"details": "Blk 413C",
+		"coordinates": {
+			"lat": 1.417311944,
+			"long": 103.9013861
+		}
+	},
+	{
+		"name": "-Z609",
+		"wab": "false",
+		"details": "Blk 421C",
+		"coordinates": {
+			"lat": 1.418851944,
+			"long": 103.9057239
+		}
+	},
+	{
+		"name": "-Z610",
+		"wab": "false",
+		"details": "Aft Punggol Pt Stn",
+		"coordinates": {
+			"lat": 1.417306268,
+			"long": 103.9054176
+		}
+	},
+	{
+		"name": "-Z611",
+		"wab": "false",
+		"details": "Samudera Stn Exit B",
+		"coordinates": {
+			"lat": 1.416083732,
+			"long": 103.9024832
+		}
+	},
+	{
+		"name": "-Z612",
+		"wab": "false",
+		"details": "Nibong Stn Exit B",
+		"coordinates": {
+			"lat": 1.411380592,
+			"long": 103.9003026
+		}
+	},
+	{
+		"name": "-Z613",
+		"wab": "false",
+		"details": "Blk 672A",
+		"coordinates": {
+			"lat": 1.40587968,
+			"long": 103.9125169
+		}
+	},
+	{
+		"name": "-Z614",
+		"wab": "false",
+		"details": "Blk 670A",
+		"coordinates": {
+			"lat": 1.405804727,
+			"long": 103.9125955
+		}
+	},
+	{
+		"name": "-Z615",
+		"wab": "false",
+		"details": "Oasis Stn Exit A",
+		"coordinates": {
+			"lat": 1.402578056,
+			"long": 103.912445
+		}
+	},
+	{
+		"name": "-Z616",
+		"wab": "false",
+		"details": "Blk 682A",
+		"coordinates": {
+			"lat": 1.402886703,
+			"long": 103.9162676
+		}
+	},
+	{
+		"name": "-Z617",
+		"wab": "false",
+		"details": "Blk 661A",
+		"coordinates": {
+			"lat": 1.402807759,
+			"long": 103.9163376
+		}
+	},
+	{
+		"name": "-Z618",
+		"wab": "false",
+		"details": "Kadaloor Stn Exit A",
+		"coordinates": {
+			"lat": 1.399888,
+			"long": 103.916124
+		}
+	},
+	{
+		"name": "-Z619",
+		"wab": "false",
+		"details": "Waterway Pr Sch",
+		"coordinates": {
+			"lat": 1.398808889,
+			"long": 103.919085
+		}
+	},
+	{
+		"name": "-Z620",
+		"wab": "false",
+		"details": "Opp Waterway Pr Sch",
+		"coordinates": {
+			"lat": 1.398633889,
+			"long": 103.9191989
+		}
+	},
+	{
+		"name": "-Z621",
+		"wab": "false",
+		"details": "Bayfront Stn Exit A",
+		"coordinates": {
+			"lat": 1.281245,
+			"long": 103.858848
+		}
+	},
+	{
+		"name": "-Z622",
+		"wab": "false",
+		"details": "Blk 564",
+		"coordinates": {
+			"lat": 1.36808803474125,
+			"long": 103.95001861343128
+		}
+	},
+	{
+		"name": "-Z623",
+		"wab": "false",
+		"details": "Opp Blk 555",
+		"coordinates": {
+			"lat": 1.36836666126193,
+			"long": 103.95166401714877
+		}
+	},
+	{
+		"name": "-Z624",
+		"wab": "false",
+		"details": "Opp Blk 230",
+		"coordinates": {
+			"lat": 1.37246473904375,
+			"long": 103.96053778303401
+		}
+	},
+	{
+		"name": "-Z625",
+		"wab": "false",
+		"details": "Along the road under OUE Link",
+		"coordinates": {
+			"lat": 1.283847,
+			"long": 103.852806
+		}
+	},
+	{
+		"name": "-Z626",
+		"wab": "false",
+		"details": "Along the road in front of Raffles Place Station",
+		"coordinates": {
+			"lat": 1.285145,
+			"long": 103.853075
 		}
 	},
 	{
@@ -14580,15 +14265,6 @@
 		}
 	},
 	{
-		"name": "11479",
-		"wab": "true",
-		"details": "The Fisherman Ch",
-		"coordinates": {
-			"lat": 1.299203,
-			"long": 103.803926
-		}
-	},
-	{
 		"name": "11481",
 		"wab": "true",
 		"details": "Queenstown Lib",
@@ -14602,8 +14278,8 @@
 		"wab": "true",
 		"details": "Opp Queenstown Lib",
 		"coordinates": {
-			"lat": 1.29845351507922,
-			"long": 103.80499720571189
+			"lat": 1.298817,
+			"long": 103.804395
 		}
 	},
 	{
@@ -39341,7 +39017,7 @@
 	{
 		"name": "59008",
 		"wab": "true",
-		"details": "Yishun Temp Int",
+		"details": "Yishun Int",
 		"coordinates": {
 			"lat": 1.4285384902718,
 			"long": 103.8361105319593

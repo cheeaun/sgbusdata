@@ -598,6 +598,17 @@
 		]
 	},
 	{
+		"number": 594,
+		"description": "Northshore Drive to Upper Cross Street",
+		"type": "PREMIUM",
+		"kmlFile": [
+			"594-1.kml"
+		],
+		"routeFile": [
+			"594.xml"
+		]
+	},
+	{
 		"number": 599,
 		"description": "Hougang Street 51 to Shenton Way",
 		"type": "PREMIUM",
@@ -809,7 +820,7 @@
 	},
 	{
 		"number": 767,
-		"description": "Jalan Loyang Besar to New Bridge Road",
+		"description": "Pasir Ris Street 51 to New Bridge Road",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"767-1.kml"
@@ -933,61 +944,6 @@
 		]
 	},
 	{
-		"number": "-S13",
-		"description": "Marina Square to Raffles Boulevard Amphibious Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S13-1.kml"
-		],
-		"routeFile": [
-			"-S13.xml"
-		]
-	},
-	{
-		"number": "-S14",
-		"description": "Choa Chu Kang Avenue 4 to Farmart Centre Shuttle Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S14-1.kml"
-		],
-		"routeFile": [
-			"-S14.xml"
-		]
-	},
-	{
-		"number": "-S16",
-		"description": "Coleman Street to The Singapore Flyer Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S16-1.kml"
-		],
-		"routeFile": [
-			"-S16.xml"
-		]
-	},
-	{
-		"number": "-S21",
-		"description": "Kranji MRT Station and Kranji Countryside Shuttle Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S21-1.kml"
-		],
-		"routeFile": [
-			"-S21.xml"
-		]
-	},
-	{
-		"number": "-S3",
-		"description": "SIA Hop-On",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S3-1.kml"
-		],
-		"routeFile": [
-			"-S3.xml"
-		]
-	},
-	{
 		"number": "-S4",
 		"description": "Heritage HIPPOtours - Suntec City to Kreta Ayer Tourist Bus Service",
 		"type": "SHUTTLEATTRACTIONS",
@@ -1000,24 +956,13 @@
 	},
 	{
 		"number": "-S42",
-		"description": "",
+		"description": "Safari HIPPOtours - Suntec City to Singapore Zoo & Night Safari Tourist Bus Service",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S42-1.kml"
 		],
 		"routeFile": [
 			"-S42.xml"
-		]
-	},
-	{
-		"number": "-S48",
-		"description": "Ban San Street and The Singapore Flyer Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S48-1.kml"
-		],
-		"routeFile": [
-			"-S48.xml"
 		]
 	},
 	{
@@ -1076,25 +1021,14 @@
 		]
 	},
 	{
-		"number": "-S8",
-		"description": "Clarke Quay to Lau Pa Sat Tourist Bus Service",
+		"number": "-S53",
+		"description": "Mandai Khatib Shuttle (Loop)",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
-			"-S8-1.kml"
+			"-S53-1.kml"
 		],
 		"routeFile": [
-			"-S8.xml"
-		]
-	},
-	{
-		"number": "-S42",
-		"description": "Safari HIPPOtours - Suntec City to Singapore Zoo & Night Safari Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S42-1.kml"
-		],
-		"routeFile": [
-			"-S42.xml"
+			"-S53.xml"
 		]
 	},
 	{

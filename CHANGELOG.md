@@ -1,3 +1,28 @@
+# 24 August 2021
+
+## Stops count change: 5049 ⮕ 5048
+
+### Stops removed: 1
+
+- `11479` The Fisherman Ch
+
+### Stop names changed: 1
+
+- `59008` Yishun Temp Int ⮕ Yishun Int
+
+### Stop locations changed: 2
+
+- `11489` 103.805,1.29845 ⮕ 103.8044,1.29882
+
+### Bus Stop Changes To Routes: 2
+
+- `122` Kampong Bahru Ter ⟲ Blk 92: -1
+- `32` Bedok Int ⇄ Buona Vista Ter: -1
+
+## First/last timings changed
+
+Affected services: `32`, `122`
+
 # 8 August 2021
 
 ### Stop names changed: 1

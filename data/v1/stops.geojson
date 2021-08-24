@@ -4197,25 +4197,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "11479",
-			"properties": {
-				"number": "11479",
-				"name": "The Fisherman Ch",
-				"services": [
-					"122",
-					"32"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.803926,
-					1.299203
-				]
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "11481",
 			"properties": {
 				"number": "11481",
@@ -4247,8 +4228,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.80499720571189,
-					1.29845351507922
+					103.804395,
+					1.298817
 				]
 			}
 		},
@@ -62734,7 +62715,7 @@
 			"id": "59008",
 			"properties": {
 				"number": "59008",
-				"name": "Yishun Temp Int",
+				"name": "Yishun Int",
 				"services": [
 					"811",
 					"812"

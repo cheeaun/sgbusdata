@@ -2835,13 +2835,6 @@
 		"Longitude": 103.80315156606572
 	},
 	{
-		"BusStopCode": "11479",
-		"RoadName": "Margaret Dr",
-		"Description": "The Fisherman Ch",
-		"Latitude": 1.299203,
-		"Longitude": 103.803926
-	},
-	{
 		"BusStopCode": "11481",
 		"RoadName": "Margaret Dr",
 		"Description": "Queenstown Lib",
@@ -2852,8 +2845,8 @@
 		"BusStopCode": "11489",
 		"RoadName": "Margaret Dr",
 		"Description": "Opp Queenstown Lib",
-		"Latitude": 1.29845351507922,
-		"Longitude": 103.80499720571189
+		"Latitude": 1.298817,
+		"Longitude": 103.804395
 	},
 	{
 		"BusStopCode": "11491",
@@ -22094,7 +22087,7 @@
 	{
 		"BusStopCode": "59008",
 		"RoadName": "Yishun Ave 2",
-		"Description": "Yishun Temp Int",
+		"Description": "Yishun Int",
 		"Latitude": 1.4285384902718,
 		"Longitude": 103.8361105319593
 	},
