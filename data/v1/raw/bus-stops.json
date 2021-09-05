@@ -6642,6 +6642,15 @@
 		}
 	},
 	{
+		"name": "-PW0Z",
+		"wab": "true",
+		"details": "Newton Stn Exit B(Near Taxi Stand F53)",
+		"coordinates": {
+			"lat": 1.31223181292182,
+			"long": 103.83816095637219
+		}
+	},
+	{
 		"name": "-PW14",
 		"wab": "true",
 		"details": "Changi City Pt",
@@ -6734,28 +6743,10 @@
 	{
 		"name": "-S102",
 		"wab": "true",
-		"details": "TMC",
+		"details": "Taxi Stand at Thomson Medical Centre",
 		"coordinates": {
 			"lat": 1.325177,
 			"long": 103.840895
-		}
-	},
-	{
-		"name": "-S103",
-		"wab": "true",
-		"details": "CGH Ward",
-		"coordinates": {
-			"lat": 1.34081,
-			"long": 103.949543
-		}
-	},
-	{
-		"name": "-S104",
-		"wab": "true",
-		"details": "Outside CGH Retail Pharmacy\r",
-		"coordinates": {
-			"lat": 1.339861,
-			"long": 103.95012
 		}
 	},
 	{
@@ -6828,24 +6819,6 @@
 		"coordinates": {
 			"lat": 1.438645,
 			"long": 103.842204
-		}
-	},
-	{
-		"name": "-S113",
-		"wab": "true",
-		"details": "Bus stop outside Eastpoint Mall, Simei Street 3",
-		"coordinates": {
-			"lat": 1.342262222,
-			"long": 103.9534661
-		}
-	},
-	{
-		"name": "-S114",
-		"wab": "true",
-		"details": "Bus stop in front of Blk 247, Simei Street 1",
-		"coordinates": {
-			"lat": 1.344486667,
-			"long": 103.9531811
 		}
 	},
 	{
@@ -6950,7 +6923,7 @@
 	{
 		"name": "-S131",
 		"wab": "true",
-		"details": "Bus stop before Outram Road, Eu Tong Sen Street",
+		"details": "Bus-stop outside Outram Park MRT (North-East Line) station along Eu Tong Sen Street",
 		"coordinates": {
 			"lat": 1.27900819664963,
 			"long": 103.83860360622
@@ -6959,7 +6932,7 @@
 	{
 		"name": "-S132",
 		"wab": "true",
-		"details": "Bus stop opposite Outram Park MRT Station, Outram Road",
+		"details": "Bus-stop opposite the Outram Park MRT (East-West Line) station along Outram Road",
 		"coordinates": {
 			"lat": 1.28161841091751,
 			"long": 103.837997761131
@@ -6968,7 +6941,7 @@
 	{
 		"name": "-S133",
 		"wab": "true",
-		"details": "Bus stop outside National Youth Council, Grange Road",
+		"details": "Youth Park",
 		"coordinates": {
 			"lat": 1.30044251755728,
 			"long": 103.83623804216
@@ -6977,7 +6950,7 @@
 	{
 		"name": "-S134",
 		"wab": "true",
-		"details": "Bus stop outside Novena MRT Station, Thomson Road",
+		"details": "Bus-stop outside Velocity/Novena Square(along Thomson Road)",
 		"coordinates": {
 			"lat": 1.31962671001475,
 			"long": 103.843438625367
@@ -6986,25 +6959,16 @@
 	{
 		"name": "-S135",
 		"wab": "true",
-		"details": "Outside Eunos MRT Station (public car park)",
+		"details": "Outside Eunos MRT Station (Public Car Park, via Exit A)",
 		"coordinates": {
 			"lat": 1.31929109980672,
 			"long": 103.90309063776935
 		}
 	},
 	{
-		"name": "-S136",
-		"wab": "true",
-		"details": "Outside Kembangan MRT Station (passenger pick-up point), along Sims Avenue East",
-		"coordinates": {
-			"lat": 1.32074573936413,
-			"long": 103.912407752457
-		}
-	},
-	{
 		"name": "-S137",
 		"wab": "true",
-		"details": "Parkway East Hospital, along Telok Kurau Road",
+		"details": "Parkway East Hospital(Main Lobby)",
 		"coordinates": {
 			"lat": 1.315114,
 			"long": 103.908973
@@ -7524,18 +7488,9 @@
 		}
 	},
 	{
-		"name": "-S238",
-		"wab": "true",
-		"details": "Bus stop outside Novena MRT Station, Thomson Road",
-		"coordinates": {
-			"lat": 1.31962671001555,
-			"long": 103.84343862536716
-		}
-	},
-	{
 		"name": "-S239",
 		"wab": "true",
-		"details": "Bus stop outside Bishan Station, Bishan Road",
+		"details": "Pick Up/ Drop Off Point(Taxi Stand)",
 		"coordinates": {
 			"lat": 1.35089997844732,
 			"long": 103.84797987894204
@@ -7578,6 +7533,78 @@
 		}
 	},
 	{
+		"name": "-S266",
+		"wab": "true",
+		"details": "Passenger pick-up and drop-off point outside Blk 242, along Simei Street 3",
+		"coordinates": {
+			"lat": 1.342555,
+			"long": 103.953927
+		}
+	},
+	{
+		"name": "-S267",
+		"wab": "true",
+		"details": "CGH Main Building",
+		"coordinates": {
+			"lat": 1.34081,
+			"long": 103.949543
+		}
+	},
+	{
+		"name": "-S268",
+		"wab": "true",
+		"details": "The Integrated Building CGH",
+		"coordinates": {
+			"lat": 1.34081,
+			"long": 103.949543
+		}
+	},
+	{
+		"name": "-S269",
+		"wab": "true",
+		"details": "Camden Medical Centre",
+		"coordinates": {
+			"lat": 1.3032,
+			"long": 103.8239
+		}
+	},
+	{
+		"name": "-S270",
+		"wab": "true",
+		"details": "Outram Community Hospital (OCH)/SingHealth Tower",
+		"coordinates": {
+			"lat": 1.28967,
+			"long": 103.85007
+		}
+	},
+	{
+		"name": "-S271",
+		"wab": "true",
+		"details": "Open Car Park H",
+		"coordinates": {
+			"lat": 1.279919,
+			"long": 103.830637
+		}
+	},
+	{
+		"name": "-S272",
+		"wab": "true",
+		"details": "Outram Community Hospital (OCH) & SingHealth Tower (Link bridge to SGH Block 3)",
+		"coordinates": {
+			"lat": 1.28967,
+			"long": 103.85007
+		}
+	},
+	{
+		"name": "-S273",
+		"wab": "true",
+		"details": "National Heart Centre Singapore (NHCS)",
+		"coordinates": {
+			"lat": 1.28967,
+			"long": 103.85007
+		}
+	},
+	{
 		"name": "-S68",
 		"wab": "true",
 		"details": "Singapore Flyer Driveway",
@@ -7605,9 +7632,18 @@
 		}
 	},
 	{
+		"name": "-S82",
+		"wab": "true",
+		"details": "Bus stop outside Tekka Place on Sungei Road",
+		"coordinates": {
+			"lat": 1.305116,
+			"long": 103.851437
+		}
+	},
+	{
 		"name": "-S94",
 		"wab": "true",
-		"details": "NHCS",
+		"details": "Singapore National Eye Centre (SNEC) and Diabetes & Metabolism Centre Side Entrance",
 		"coordinates": {
 			"lat": 1.28115,
 			"long": 103.836596
@@ -7616,25 +7652,16 @@
 	{
 		"name": "-S95",
 		"wab": "true",
-		"details": "SNEC",
+		"details": "Singapore General Hospital Block 3 (link bridge to Outram Community Hospital/SingHealth Tower)",
 		"coordinates": {
 			"lat": 1.280839,
 			"long": 103.836008
 		}
 	},
 	{
-		"name": "-S96",
-		"wab": "true",
-		"details": "SGH Blk 2/3",
-		"coordinates": {
-			"lat": 1.279071,
-			"long": 103.834511
-		}
-	},
-	{
 		"name": "-S97",
 		"wab": "true",
-		"details": "NCCS",
+		"details": "National Cancer Centre Singapore",
 		"coordinates": {
 			"lat": 1.278213,
 			"long": 103.835315
@@ -7643,7 +7670,7 @@
 	{
 		"name": "-S98",
 		"wab": "true",
-		"details": "SGH Blk 4\r",
+		"details": "Car Park H Shuttle Bus Stop (Opposite SGH Block 7)",
 		"coordinates": {
 			"lat": 1.279361,
 			"long": 103.835047
@@ -7652,7 +7679,7 @@
 	{
 		"name": "-S99",
 		"wab": "true",
-		"details": "Multistorey Carpark H",
+		"details": "Multi Storey Car Park H",
 		"coordinates": {
 			"lat": 1.279919,
 			"long": 103.830637
@@ -35313,6 +35340,15 @@
 		"coordinates": {
 			"lat": 1.33991805598004,
 			"long": 103.85386250003322
+		}
+	},
+	{
+		"name": "52551",
+		"wab": "true",
+		"details": "Caldecott Stn Exit 4",
+		"coordinates": {
+			"lat": 1.33634,
+			"long": 103.839853
 		}
 	},
 	{

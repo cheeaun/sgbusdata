@@ -19208,6 +19208,13 @@
 		"Longitude": 103.85386250003322
 	},
 	{
+		"BusStopCode": "52551",
+		"RoadName": "Toa Payoh Lk",
+		"Description": "Caldecott Stn Exit 4",
+		"Latitude": 1.33634,
+		"Longitude": 103.839853
+	},
+	{
 		"BusStopCode": "52559",
 		"RoadName": "Toa Payoh Lk",
 		"Description": "Caldecott Stn",

@@ -1,3 +1,29 @@
+# 5 September 2021
+
+## Stops count change: 5048 ⮕ 5049
+
+### Stops added: 1
+
+- `52551` Caldecott Stn Exit 4
+
+## Services count change: 553 ⮕ 552
+
+### Services removed: 1
+
+- `856A` Woodlands Int → W'Lands Train Checkpt
+
+### Bus Stop Changes To Routes: 1
+
+- `235` Toa Payoh Int ⟲ Caldecott Stn Exit 4: +1
+
+## Routes changed: 1
+
+- `235` Toa Payoh Int ⟲ Caldecott Stn Exit 4
+
+## First/last timings changed
+
+Affected services: `856A`, `171`, `235`, `853`, `854`, `855`, `856`, `857`, `853M`, `857A`, `857B`, `854e`
+
 # 24 August 2021
 
 ## Stops count change: 5049 ⮕ 5048

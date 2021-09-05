@@ -1044,7 +1044,7 @@
 	},
 	{
 		"number": "-S24",
-		"description": "Singapore General Hospital (SGH) - Outram Park MRT Station",
+		"description": "Singapore General Hospital (SGH) - Outram Park MRT Station (Orange Route)",
 		"type": "SHUTTLEHOSPITALS",
 		"kmlFile": [
 			"-S24-1.kml"
@@ -1088,7 +1088,7 @@
 	},
 	{
 		"number": "-S41",
-		"description": "Parkway East Hospital - Eunos / Kembangan MRT Station",
+		"description": "Parkway East Hospital - Eunos MRT Station",
 		"type": "SHUTTLEHOSPITALS",
 		"kmlFile": [
 			"-S41-1.kml"
@@ -1099,7 +1099,7 @@
 	},
 	{
 		"number": "-S43",
-		"description": "Mount Elizabeth Hospital - Youth Park",
+		"description": "Gleneagles Hospital - Camden Medical Centre",
 		"type": "SHUTTLEHOSPITALS",
 		"kmlFile": [
 			"-S43-1.kml"
@@ -1131,17 +1131,6 @@
 		]
 	},
 	{
-		"number": "-S46",
-		"description": "Mount Alvernia Hospital - Novena",
-		"type": "SHUTTLEHOSPITALS",
-		"kmlFile": [
-			"-S46-1.kml"
-		],
-		"routeFile": [
-			"-S46.xml"
-		]
-	},
-	{
 		"number": "-S47",
 		"description": "Mount Alvernia Hospital - Bishan",
 		"type": "SHUTTLEHOSPITALS",
@@ -1150,6 +1139,39 @@
 		],
 		"routeFile": [
 			"-S47.xml"
+		]
+	},
+	{
+		"number": "-S54",
+		"description": "The Integrated Building CGH to Simei MRT",
+		"type": "SHUTTLEHOSPITALS",
+		"kmlFile": [
+			"-S54-1.kml"
+		],
+		"routeFile": [
+			"-S54.xml"
+		]
+	},
+	{
+		"number": "-S55",
+		"description": "Mount Elizabeth Hospital - Youth Park",
+		"type": "SHUTTLEHOSPITALS",
+		"kmlFile": [
+			"-S55-1.kml"
+		],
+		"routeFile": [
+			"-S55.xml"
+		]
+	},
+	{
+		"number": "-S56",
+		"description": "Singapore General Hospital (SGH) - Outram Park MRT Station (Blue Route)",
+		"type": "SHUTTLEHOSPITALS",
+		"kmlFile": [
+			"-S56-1.kml"
+		],
+		"routeFile": [
+			"-S56.xml"
 		]
 	},
 	{
@@ -5416,16 +5438,6 @@
 		],
 		"routeFile": [
 			"856.xml"
-		]
-	},
-	{
-		"number": "856A",
-		"type": "TRUNK",
-		"kmlFile": [
-			"856A-1.kml"
-		],
-		"routeFile": [
-			"856A.xml"
 		]
 	},
 	{
