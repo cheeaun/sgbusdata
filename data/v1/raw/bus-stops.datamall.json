@@ -17571,10 +17571,10 @@
 	},
 	{
 		"BusStopCode": "47751",
-		"RoadName": "Upp Thomson Rd",
+		"RoadName": "Woodlands Dr 62",
 		"Description": "Blk 691D",
-		"Latitude": 1.376956,
-		"Longitude": 103.867019
+		"Latitude": 1.439206111,
+		"Longitude": 103.8058639
 	},
 	{
 		"BusStopCode": "47759",
@@ -19645,8 +19645,8 @@
 		"BusStopCode": "53321",
 		"RoadName": "Sin Ming Ave",
 		"Description": "Opp Eunoia JC",
-		"Latitude": 1.379368,
-		"Longitude": 103.827711
+		"Latitude": 1.36135,
+		"Longitude": 103.8402947
 	},
 	{
 		"BusStopCode": "53329",

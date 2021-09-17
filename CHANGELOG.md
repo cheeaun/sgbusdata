@@ -1,3 +1,18 @@
+# 17 September 2021
+
+### Stop locations changed: 4
+
+- `47751` 103.86702,1.37696 ⮕ 103.80586,1.43921
+- `53321` 103.82771,1.37937 ⮕ 103.84029,1.36135
+
+## Routes changed: 1
+
+- `670` Opp Blk 288 / Blk 289 ⇄ Marina Bay Financial Ctr / Marina Bay Stn
+
+## First/last timings changed
+
+Affected services: `652`, `670`
+
 # 5 September 2021
 
 ## Stops count change: 5048 ⮕ 5049
