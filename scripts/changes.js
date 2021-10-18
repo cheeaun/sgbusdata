@@ -70,14 +70,21 @@ if (stopsDiff.length) {
     }
 
     if (locationChangedDiff.length) {
-      nlog(`### Stop locations changed: ${locationChangedDiff.length}\n`);
       let prevNumbers = [];
-      locationChangedDiff.forEach((d) => {
+      const uniqLocationChangedDiff = locationChangedDiff.filter((d) => {
         const { path } = d;
         const number = path[0];
         // Skip if same numbers because the diff will be duplicated for both lat and lng changes (one diff each)
-        if (prevNumbers.includes(number)) return;
+        if (prevNumbers.includes(number)) {
+          return false;
+        }
         prevNumbers.push(number);
+        return true;
+      });
+      nlog(`### Stop locations changed: ${uniqLocationChangedDiff.length}\n`);
+      uniqLocationChangedDiff.forEach((d) => {
+        const { path } = d;
+        const number = path[0];
         const oldCoord = [oldStops[path[0]][0], oldStops[path[0]][1]];
         const newCoord = [newStops[path[0]][0], newStops[path[0]][1]];
         log(`- \`${number}\` ${oldCoord.join(',')} ⮕ ${newCoord.join(',')}`);
