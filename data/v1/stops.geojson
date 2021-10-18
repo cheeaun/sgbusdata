@@ -21564,7 +21564,8 @@
 				"services": [
 					"192",
 					"193",
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -21585,7 +21586,8 @@
 					"192",
 					"193",
 					"247",
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -21593,6 +21595,24 @@
 				"coordinates": [
 					103.63920357507963,
 					1.34499542766088
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "25059",
+			"properties": {
+				"number": "25059",
+				"name": "After Tuas Sth Blvd",
+				"services": [
+					"248M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61725,
+					1.270007
 				]
 			}
 		},
@@ -22500,7 +22520,8 @@
 					"192",
 					"193",
 					"247",
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -22523,7 +22544,8 @@
 					"192",
 					"193",
 					"247",
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -22545,7 +22567,8 @@
 					"182M",
 					"192",
 					"193",
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -22567,7 +22590,8 @@
 					"182M",
 					"192",
 					"193",
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -22589,7 +22613,8 @@
 					"182M",
 					"192",
 					"193",
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -22611,7 +22636,8 @@
 					"182M",
 					"192",
 					"193",
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23270,7 +23296,8 @@
 				"name": "Bef Tuas West Ave",
 				"services": [
 					"192",
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23289,7 +23316,8 @@
 				"name": "Aft Tuas West Ave",
 				"services": [
 					"192",
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23308,6 +23336,7 @@
 				"name": "Aft Tuas West Rd Stn",
 				"services": [
 					"248",
+					"248M",
 					"254"
 				]
 			},
@@ -23326,7 +23355,8 @@
 				"number": "25701",
 				"name": "GlaxoSmithKline",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23344,7 +23374,8 @@
 				"number": "25709",
 				"name": "Edgen Murray",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23362,7 +23393,8 @@
 				"number": "25711",
 				"name": "Opp The Index",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23380,7 +23412,8 @@
 				"number": "25719",
 				"name": "The Index",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23398,7 +23431,8 @@
 				"number": "25729",
 				"name": "Abbott",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23416,7 +23450,8 @@
 				"number": "25741",
 				"name": "Halliburton",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23434,14 +23469,15 @@
 				"number": "25751",
 				"name": "Bef Tuas Sth Ave 14",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.621508,
-					1.27637
+					103.621663,
+					1.278059
 				]
 			}
 		},
@@ -23452,7 +23488,8 @@
 				"number": "25761",
 				"name": "Opp REC S'pore",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23470,7 +23507,8 @@
 				"number": "25771",
 				"name": "Aft Tuas Sth St 7",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23488,7 +23526,8 @@
 				"number": "25781",
 				"name": "Opp SLS",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23506,7 +23545,8 @@
 				"number": "25791",
 				"name": "Bef Tuas Sth Ave 10",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23524,7 +23564,8 @@
 				"number": "25801",
 				"name": "Bef Tuas Sth Ave 7",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23812,7 +23853,8 @@
 				"number": "26071",
 				"name": "Unifine Star Petrochem",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23830,7 +23872,8 @@
 				"number": "26079",
 				"name": "Bef Tuas Loop",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23848,7 +23891,8 @@
 				"number": "26081",
 				"name": "Bef Tuas Ave 18A",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23866,7 +23910,8 @@
 				"number": "26089",
 				"name": "Bef Tuas Ave 20",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23884,7 +23929,8 @@
 				"number": "26091",
 				"name": "Rotary Engrg",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23902,7 +23948,8 @@
 				"number": "26099",
 				"name": "Bef Tuas Ave 13",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23920,7 +23967,8 @@
 				"number": "26101",
 				"name": "BASF Sth East Asia",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -23938,7 +23986,8 @@
 				"number": "26109",
 				"name": "Bef Tuas Ave 11",
 				"services": [
-					"248"
+					"248",
+					"248M"
 				]
 			},
 			"geometry": {
@@ -37902,6 +37951,7 @@
 					"302",
 					"307",
 					"307A",
+					"307T",
 					"67",
 					"925",
 					"927",
@@ -38380,6 +38430,7 @@
 				"services": [
 					"172",
 					"307",
+					"307T",
 					"982E",
 					"991",
 					"991B",
@@ -38403,6 +38454,7 @@
 				"services": [
 					"172",
 					"307",
+					"307T",
 					"982E",
 					"991"
 				]
@@ -39251,6 +39303,7 @@
 				"services": [
 					"190",
 					"307",
+					"307T",
 					"975",
 					"975C",
 					"982E",
@@ -39276,6 +39329,7 @@
 					"190",
 					"190A",
 					"307",
+					"307T",
 					"975",
 					"982E",
 					"985"
@@ -39682,7 +39736,8 @@
 				"number": "44411",
 				"name": "Blk 108",
 				"services": [
-					"307"
+					"307",
+					"307T"
 				]
 			},
 			"geometry": {
@@ -39700,7 +39755,8 @@
 				"number": "44421",
 				"name": "Blk 25",
 				"services": [
-					"307"
+					"307",
+					"307T"
 				]
 			},
 			"geometry": {
@@ -39718,7 +39774,8 @@
 				"number": "44439",
 				"name": "Blk 9",
 				"services": [
-					"307"
+					"307",
+					"307T"
 				]
 			},
 			"geometry": {
@@ -39845,6 +39902,7 @@
 					"188e",
 					"301",
 					"307",
+					"307T",
 					"67",
 					"974",
 					"974A",
@@ -39875,6 +39933,7 @@
 					"188R",
 					"301",
 					"307",
+					"307T",
 					"67",
 					"974",
 					"974A",
@@ -39898,7 +39957,8 @@
 				"number": "44471",
 				"name": "Blk 234",
 				"services": [
-					"307"
+					"307",
+					"307T"
 				]
 			},
 			"geometry": {
@@ -39916,7 +39976,8 @@
 				"number": "44479",
 				"name": "Blk 206",
 				"services": [
-					"307"
+					"307",
+					"307T"
 				]
 			},
 			"geometry": {
@@ -39934,7 +39995,8 @@
 				"number": "44481",
 				"name": "Blk 223",
 				"services": [
-					"307"
+					"307",
+					"307T"
 				]
 			},
 			"geometry": {
@@ -39952,7 +40014,8 @@
 				"number": "44489",
 				"name": "Blk 220",
 				"services": [
-					"307"
+					"307",
+					"307T"
 				]
 			},
 			"geometry": {
@@ -40140,6 +40203,7 @@
 				"services": [
 					"307",
 					"307A",
+					"307T",
 					"974",
 					"974A",
 					"975",
@@ -52356,7 +52420,7 @@
 			"id": "52219",
 			"properties": {
 				"number": "52219",
-				"name": "Bef Caldecott Stn",
+				"name": "Bef Caldecott Stn Exit 3",
 				"services": [
 					"141",
 					"235"
@@ -52453,7 +52517,7 @@
 			"id": "52241",
 			"properties": {
 				"number": "52241",
-				"name": "Opp Caldecott Stn",
+				"name": "Bef Caldecott Stn/Savh",
 				"services": [
 					"141"
 				]
@@ -53490,7 +53554,7 @@
 			"id": "52559",
 			"properties": {
 				"number": "52559",
-				"name": "Caldecott Stn",
+				"name": "Caldecott Stn Exit 1",
 				"services": [
 					"235"
 				]
@@ -53740,7 +53804,7 @@
 			"id": "53051",
 			"properties": {
 				"number": "53051",
-				"name": "Bef Thomson Plaza",
+				"name": "Upp Thomson Stn Exit 5",
 				"services": [
 					"132",
 					"162",
@@ -53769,7 +53833,7 @@
 			"id": "53059",
 			"properties": {
 				"number": "53059",
-				"name": "Opp Thomson Plaza",
+				"name": "Upp Thomson Stn Exit 2",
 				"services": [
 					"132",
 					"162",
@@ -54990,7 +55054,7 @@
 			"id": "53341",
 			"properties": {
 				"number": "53341",
-				"name": "Blk 407",
+				"name": "Bright Hill Stn Exit 2",
 				"services": [
 					"162",
 					"162M",
@@ -55012,7 +55076,7 @@
 			"id": "53349",
 			"properties": {
 				"number": "53349",
-				"name": "Opp Blk 407",
+				"name": "Bright Hill Stn Exit 1",
 				"services": [
 					"162",
 					"162M",
@@ -55880,7 +55944,7 @@
 			"id": "54181",
 			"properties": {
 				"number": "54181",
-				"name": "Blk 258",
+				"name": "Mayflower Stn Exit 6",
 				"services": [
 					"1N",
 					"262",
@@ -55908,7 +55972,7 @@
 			"id": "54189",
 			"properties": {
 				"number": "54189",
-				"name": "Blk 110",
+				"name": "Mayflower Stn Exit 5",
 				"services": [
 					"265",
 					"268",
@@ -55934,7 +55998,7 @@
 			"id": "54191",
 			"properties": {
 				"number": "54191",
-				"name": "Blk 170",
+				"name": "Mayflower Stn Exit 2",
 				"services": [
 					"1N",
 					"268",
@@ -55960,7 +56024,7 @@
 			"id": "54199",
 			"properties": {
 				"number": "54199",
-				"name": "Blk 163",
+				"name": "Bef Mayflower Stn Exit 3",
 				"services": [
 					"268",
 					"268A",
@@ -57936,7 +58000,7 @@
 			"id": "55011",
 			"properties": {
 				"number": "55011",
-				"name": "Opp The Calrose",
+				"name": "Bef Lentor Stn Exit 5",
 				"services": [
 					"163",
 					"265",
@@ -57956,7 +58020,7 @@
 			"id": "55019",
 			"properties": {
 				"number": "55019",
-				"name": "The Calrose",
+				"name": "Aft Lentor Stn Exit 4",
 				"services": [
 					"163",
 					"265",
@@ -59234,7 +59298,7 @@
 			"id": "55341",
 			"properties": {
 				"number": "55341",
-				"name": "Opp Thomson Gr",
+				"name": "Lentor Stn Exit 3",
 				"services": [
 					"825"
 				]
@@ -59252,7 +59316,7 @@
 			"id": "55349",
 			"properties": {
 				"number": "55349",
-				"name": "Thomson Gr",
+				"name": "Lentor Stn Exit 5",
 				"services": [
 					"825"
 				]
@@ -59739,7 +59803,7 @@
 			"id": "56091",
 			"properties": {
 				"number": "56091",
-				"name": "Bef Springleaf Rd",
+				"name": "Springleaf Stn Exit 3",
 				"services": [
 					"138",
 					"138A",
@@ -59762,7 +59826,7 @@
 			"id": "56099",
 			"properties": {
 				"number": "56099",
-				"name": "Aft Springleaf Rd",
+				"name": "Springleaf Stn Exit 2",
 				"services": [
 					"138",
 					"167",
@@ -60554,7 +60618,6 @@
 				"name": "Sembawang Int",
 				"services": [
 					"117",
-					"117B",
 					"167",
 					"859",
 					"859A",
@@ -61419,7 +61482,6 @@
 				"name": "Opp Sembawang Stn",
 				"services": [
 					"117",
-					"117B",
 					"858",
 					"858A",
 					"859",
@@ -61552,7 +61614,6 @@
 				"name": "Opp Sun Plaza",
 				"services": [
 					"117",
-					"117B",
 					"656",
 					"859",
 					"859A",
@@ -61602,7 +61663,6 @@
 				"name": "Opp Visionaire",
 				"services": [
 					"117",
-					"117B",
 					"169",
 					"169A"
 				]
@@ -61874,7 +61934,6 @@
 				"name": "Blk 589D",
 				"services": [
 					"117",
-					"117B",
 					"167",
 					"883",
 					"883M"
@@ -62614,7 +62673,6 @@
 				"name": "Opp Canberra Stn",
 				"services": [
 					"117",
-					"117B",
 					"169",
 					"169A",
 					"883",
@@ -62689,6 +62747,46 @@
 				"coordinates": [
 					103.817029,
 					1.4415255
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "58581",
+			"properties": {
+				"number": "58581",
+				"name": "Gambas Ave",
+				"services": [
+					"965",
+					"965A",
+					"965T",
+					"969"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.813122,
+					1.443876
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "58589",
+			"properties": {
+				"number": "58589",
+				"name": "Gambas Ave",
+				"services": [
+					"965",
+					"969"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.813173,
+					1.443534
 				]
 			}
 		},
@@ -63238,7 +63336,6 @@
 				"name": "Opp Yishun Stn",
 				"services": [
 					"117",
-					"117B",
 					"169",
 					"169A",
 					"804",
@@ -63368,7 +63465,6 @@
 				"name": "Blk 220",
 				"services": [
 					"117",
-					"117B",
 					"169",
 					"169A",
 					"804",
@@ -64067,7 +64163,6 @@
 				"name": "Darul Makmur Mque",
 				"services": [
 					"117",
-					"117B",
 					"169",
 					"169A",
 					"883",
@@ -65161,7 +65256,6 @@
 				"name": "Opp Yishun Emerald",
 				"services": [
 					"117",
-					"117B",
 					"169",
 					"169A",
 					"883",

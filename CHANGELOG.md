@@ -1,3 +1,67 @@
+# 19 October 2021
+
+## Stops count change: 5049 ⮕ 5052
+
+### Stops added: 3
+
+- `25059` After Tuas Sth Blvd
+- `58581` Gambas Ave
+- `58589` Gambas Ave
+
+### Stop names changed: 17
+
+- `52219` Bef Caldecott Stn ⮕ Bef Caldecott Stn Exit 3
+- `52241` Opp Caldecott Stn ⮕ Bef Caldecott Stn/Savh
+- `52559` Caldecott Stn ⮕ Caldecott Stn Exit 1
+- `53051` Bef Thomson Plaza ⮕ Upp Thomson Stn Exit 5
+- `53059` Opp Thomson Plaza ⮕ Upp Thomson Stn Exit 2
+- `53341` Blk 407 ⮕ Bright Hill Stn Exit 2
+- `53349` Opp Blk 407 ⮕ Bright Hill Stn Exit 1
+- `54181` Blk 258 ⮕ Mayflower Stn Exit 6
+- `54189` Blk 110 ⮕ Mayflower Stn Exit 5
+- `54191` Blk 170 ⮕ Mayflower Stn Exit 2
+- `54199` Blk 163 ⮕ Bef Mayflower Stn Exit 3
+- `55011` Opp The Calrose ⮕ Bef Lentor Stn Exit 5
+- `55019` The Calrose ⮕ Aft Lentor Stn Exit 4
+- `55341` Opp Thomson Gr ⮕ Lentor Stn Exit 3
+- `55349` Thomson Gr ⮕ Lentor Stn Exit 5
+- `56091` Bef Springleaf Rd ⮕ Springleaf Stn Exit 3
+- `56099` Aft Springleaf Rd ⮕ Springleaf Stn Exit 2
+
+### Stop locations changed: 1
+
+- `25751` 103.62151,1.27637 ⮕ 103.62166,1.27806
+
+## Services count change: 552 ⮕ 553
+
+### Services added: 2
+
+- `248M` Tuas Ter ⟲ Aft Tuas Sth St 7
+- `307T` Opp Choa Chu Kang Stn → Choa Chu Kang Int
+
+### Services removed: 1
+
+- `117B` Sembawang Int → Opp Yishun Stn
+
+### Bus Stop Changes To Routes: 5
+
+- `860` Yishun Int ⟲ Aft Blk 648: -1
+- `965` Woodlands Temp Int ⟲ Sengkang Int: +2
+- `969` Woodlands Int ⇄ Tampines Int: +2
+- `965A` Woodlands Temp Int → Opp Yishun Stn: +1
+- `965T` Woodlands Temp Int → Sengkang Int: +1
+
+## Routes changed: 4
+
+- `194` Boon Lay Int ⟲ Bef Pioneer Circus
+- `53M` Opp Blk 232 → Blk 232
+- `248M` Tuas Ter ⟲ Aft Tuas Sth St 7
+- `307T` Opp Choa Chu Kang Stn → Choa Chu Kang Int
+
+## First/last timings changed
+
+Affected services: `117B`, `41`, `47`, `49`, `73`, `77`, `78`, `96`, `98`, `119`, `167`, `169`, `177`, `315`, `317`, `334`, `651`, `656`, `663`, `825`, `858`, `859`, `860`, `882`, `883`, `945`, `963`, `965`, `966`, `969`, `980`, `981`, `NR1`, `NR2`, `963e`, `963R`, `96A`, `106A`, `78A`, `143M`, `98M`, `98B`, `98A`, `160M`, `183B`, `173A`, `189A`, `966A`, `169A`, `169B`, `858A`, `965A`, `965T`, `969A`, `859T`, `883M`, `859A`, `859B`, `882A`, `883B`, `858B`, `248M`, `307T`
+
 # 17 September 2021
 
 ### Stop locations changed: 4

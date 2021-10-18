@@ -21798,6 +21798,15 @@
 		}
 	},
 	{
+		"name": "25059",
+		"wab": "true",
+		"details": "After Tuas Sth Blvd",
+		"coordinates": {
+			"lat": 1.270007,
+			"long": 103.61725
+		}
+	},
+	{
 		"name": "25061",
 		"wab": "true",
 		"details": "Kyocera Chemical",
@@ -22693,8 +22702,8 @@
 		"wab": "true",
 		"details": "BEF TUAS STH AVE 14",
 		"coordinates": {
-			"lat": 1.27637,
-			"long": 103.621508
+			"lat": 1.278059,
+			"long": 103.621663
 		}
 	},
 	{
@@ -34868,7 +34877,7 @@
 	{
 		"name": "52219",
 		"wab": "true",
-		"details": "Bef Caldecott Stn",
+		"details": "Bef Caldecott Stn Exit 3",
 		"coordinates": {
 			"lat": 1.338366,
 			"long": 103.841761
@@ -34913,7 +34922,7 @@
 	{
 		"name": "52241",
 		"wab": "true",
-		"details": "Opp Caldecott Stn",
+		"details": "Bef Caldecott Stn/Savh",
 		"coordinates": {
 			"lat": 1.33804611111505,
 			"long": 103.8389949999753
@@ -35354,7 +35363,7 @@
 	{
 		"name": "52559",
 		"wab": "true",
-		"details": "Caldecott Stn",
+		"details": "Caldecott Stn Exit 1",
 		"coordinates": {
 			"lat": 1.336478,
 			"long": 103.83967
@@ -35435,7 +35444,7 @@
 	{
 		"name": "53051",
 		"wab": "true",
-		"details": "Bef Thomson Plaza",
+		"details": "Upp Thomson Stn Exit 5",
 		"coordinates": {
 			"lat": 1.354995,
 			"long": 103.8316003
@@ -35444,7 +35453,7 @@
 	{
 		"name": "53059",
 		"wab": "true",
-		"details": "Opp Thomson Plaza",
+		"details": "Upp Thomson Stn Exit 2",
 		"coordinates": {
 			"lat": 1.355471,
 			"long": 103.8312231
@@ -35939,7 +35948,7 @@
 	{
 		"name": "53341",
 		"wab": "true",
-		"details": "Blk 407",
+		"details": "Bright Hill Stn Exit 2",
 		"coordinates": {
 			"lat": 1.36355638900203,
 			"long": 103.83394166697735
@@ -35948,7 +35957,7 @@
 	{
 		"name": "53349",
 		"wab": "true",
-		"details": "Opp Blk 407",
+		"details": "Bright Hill Stn Exit 1",
 		"coordinates": {
 			"lat": 1.3637398272719,
 			"long": 103.83379317461136
@@ -36272,7 +36281,7 @@
 	{
 		"name": "54181",
 		"wab": "true",
-		"details": "BLK 258",
+		"details": "Mayflower Stn Exit 6",
 		"coordinates": {
 			"lat": 1.37053305192374,
 			"long": 103.83653495602837
@@ -36281,7 +36290,7 @@
 	{
 		"name": "54189",
 		"wab": "true",
-		"details": "BLK 110",
+		"details": "Mayflower Stn Exit 5",
 		"coordinates": {
 			"lat": 1.37046966291161,
 			"long": 103.83679073259783
@@ -36290,7 +36299,7 @@
 	{
 		"name": "54191",
 		"wab": "true",
-		"details": "BLK 170",
+		"details": "Mayflower Stn Exit 2",
 		"coordinates": {
 			"lat": 1.37447193336668,
 			"long": 103.83756404776227
@@ -36299,7 +36308,7 @@
 	{
 		"name": "54199",
 		"wab": "true",
-		"details": "BLK 163",
+		"details": "Bef Mayflower Stn Exit 3",
 		"coordinates": {
 			"lat": 1.37430000000968,
 			"long": 103.83767277798232
@@ -37055,7 +37064,7 @@
 	{
 		"name": "55011",
 		"wab": "true",
-		"details": "Opp The Calrose",
+		"details": "Bef Lentor Stn Exit 5",
 		"coordinates": {
 			"lat": 1.38226165654508,
 			"long": 103.8357043497683
@@ -37064,7 +37073,7 @@
 	{
 		"name": "55019",
 		"wab": "true",
-		"details": "The Calrose",
+		"details": "Aft Lentor Stn Exit 4",
 		"coordinates": {
 			"lat": 1.38228305598375,
 			"long": 103.83616944399448
@@ -37559,7 +37568,7 @@
 	{
 		"name": "55341",
 		"wab": "true",
-		"details": "Opp Thomson Gr",
+		"details": "Lentor Stn Exit 3",
 		"coordinates": {
 			"lat": 1.38498581592741,
 			"long": 103.83669949504181
@@ -37568,7 +37577,7 @@
 	{
 		"name": "55349",
 		"wab": "true",
-		"details": "Thomson Gr",
+		"details": "Lentor Stn Exit 5",
 		"coordinates": {
 			"lat": 1.38479144169995,
 			"long": 103.8364930927339
@@ -37766,7 +37775,7 @@
 	{
 		"name": "56091",
 		"wab": "true",
-		"details": "Bef Springleaf Rd",
+		"details": "Springleaf Stn Exit 3",
 		"coordinates": {
 			"lat": 1.3962,
 			"long": 103.818459
@@ -37775,7 +37784,7 @@
 	{
 		"name": "56099",
 		"wab": "true",
-		"details": "Aft Springleaf Rd",
+		"details": "Springleaf Stn Exit 2",
 		"coordinates": {
 			"lat": 1.39606817759915,
 			"long": 103.8188299218487
@@ -39039,6 +39048,24 @@
 		"coordinates": {
 			"lat": 1.4415255,
 			"long": 103.817029
+		}
+	},
+	{
+		"name": "58581",
+		"wab": "true",
+		"details": "Gambas Ave",
+		"coordinates": {
+			"lat": 1.443876,
+			"long": 103.813122
+		}
+	},
+	{
+		"name": "58589",
+		"wab": "true",
+		"details": "Gambas Ave",
+		"coordinates": {
+			"lat": 1.443534,
+			"long": 103.813173
 		}
 	},
 	{

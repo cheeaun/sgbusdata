@@ -1563,16 +1563,6 @@
 		]
 	},
 	{
-		"number": "117B",
-		"type": "TRUNK",
-		"kmlFile": [
-			"117B-1.kml"
-		],
-		"routeFile": [
-			"117B.xml"
-		]
-	},
-	{
 		"number": 118,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -3316,6 +3306,16 @@
 		]
 	},
 	{
+		"number": "248M",
+		"type": "TRUNK",
+		"kmlFile": [
+			"248M-1.kml"
+		],
+		"routeFile": [
+			"248M.xml"
+		]
+	},
+	{
 		"number": 249,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -3769,6 +3769,16 @@
 		],
 		"routeFile": [
 			"307A.xml"
+		]
+	},
+	{
+		"number": "307T",
+		"type": "TRUNK",
+		"kmlFile": [
+			"307T-1.kml"
+		],
+		"routeFile": [
+			"307T.xml"
 		]
 	},
 	{

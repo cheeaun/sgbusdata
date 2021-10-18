@@ -8673,6 +8673,13 @@
 		"Longitude": 103.63920357507963
 	},
 	{
+		"BusStopCode": "25059",
+		"RoadName": "Tuas Sth Way",
+		"Description": "After Tuas Sth Blvd",
+		"Latitude": 1.270007,
+		"Longitude": 103.61725
+	},
+	{
 		"BusStopCode": "25061",
 		"RoadName": "Tuas Ave 9",
 		"Description": "Kyocera Chemical",
@@ -9369,8 +9376,8 @@
 		"BusStopCode": "25751",
 		"RoadName": "Tuas Sth Ave 5",
 		"Description": "BEF TUAS STH AVE 14",
-		"Latitude": 1.27637,
-		"Longitude": 103.621508
+		"Latitude": 1.278059,
+		"Longitude": 103.621663
 	},
 	{
 		"BusStopCode": "25761",
@@ -18839,7 +18846,7 @@
 	{
 		"BusStopCode": "52219",
 		"RoadName": "Toa Payoh Rise",
-		"Description": "Bef Caldecott Stn",
+		"Description": "Bef Caldecott Stn Exit 3",
 		"Latitude": 1.338366,
 		"Longitude": 103.841761
 	},
@@ -18874,7 +18881,7 @@
 	{
 		"BusStopCode": "52241",
 		"RoadName": "Toa Payoh Rise",
-		"Description": "Opp Caldecott Stn",
+		"Description": "Bef Caldecott Stn/Savh",
 		"Latitude": 1.33804611111505,
 		"Longitude": 103.8389949999753
 	},
@@ -19217,7 +19224,7 @@
 	{
 		"BusStopCode": "52559",
 		"RoadName": "Toa Payoh Lk",
-		"Description": "Caldecott Stn",
+		"Description": "Caldecott Stn Exit 1",
 		"Latitude": 1.336478,
 		"Longitude": 103.83967
 	},
@@ -19280,14 +19287,14 @@
 	{
 		"BusStopCode": "53051",
 		"RoadName": "Upp Thomson Rd",
-		"Description": "Bef Thomson Plaza",
+		"Description": "Upp Thomson Stn Exit 5",
 		"Latitude": 1.354995,
 		"Longitude": 103.8316003
 	},
 	{
 		"BusStopCode": "53059",
 		"RoadName": "Upp Thomson Rd",
-		"Description": "Opp Thomson Plaza",
+		"Description": "Upp Thomson Stn Exit 2",
 		"Latitude": 1.355471,
 		"Longitude": 103.8312231
 	},
@@ -19672,14 +19679,14 @@
 	{
 		"BusStopCode": "53341",
 		"RoadName": "Sin Ming Ave",
-		"Description": "Blk 407",
+		"Description": "Bright Hill Stn Exit 2",
 		"Latitude": 1.36355638900203,
 		"Longitude": 103.83394166697735
 	},
 	{
 		"BusStopCode": "53349",
 		"RoadName": "Sin Ming Ave",
-		"Description": "Opp Blk 407",
+		"Description": "Bright Hill Stn Exit 1",
 		"Latitude": 1.3637398272719,
 		"Longitude": 103.83379317461136
 	},
@@ -19931,28 +19938,28 @@
 	{
 		"BusStopCode": "54181",
 		"RoadName": "Ang Mo Kio Ave 4",
-		"Description": "BLK 258",
+		"Description": "Mayflower Stn Exit 6",
 		"Latitude": 1.37053305192374,
 		"Longitude": 103.83653495602837
 	},
 	{
 		"BusStopCode": "54189",
 		"RoadName": "Ang Mo Kio Ave 4",
-		"Description": "BLK 110",
+		"Description": "Mayflower Stn Exit 5",
 		"Latitude": 1.37046966291161,
 		"Longitude": 103.83679073259783
 	},
 	{
 		"BusStopCode": "54191",
 		"RoadName": "Ang Mo Kio Ave 4",
-		"Description": "BLK 170",
+		"Description": "Mayflower Stn Exit 2",
 		"Latitude": 1.37447193336668,
 		"Longitude": 103.83756404776227
 	},
 	{
 		"BusStopCode": "54199",
 		"RoadName": "Ang Mo Kio Ave 4",
-		"Description": "BLK 163",
+		"Description": "Bef Mayflower Stn Exit 3",
 		"Latitude": 1.37430000000968,
 		"Longitude": 103.83767277798232
 	},
@@ -20540,14 +20547,14 @@
 	{
 		"BusStopCode": "55011",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "Opp The Calrose",
+		"Description": "Bef Lentor Stn Exit 5",
 		"Latitude": 1.38226165654508,
 		"Longitude": 103.8357043497683
 	},
 	{
 		"BusStopCode": "55019",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "The Calrose",
+		"Description": "Aft Lentor Stn Exit 4",
 		"Latitude": 1.38228305598375,
 		"Longitude": 103.83616944399448
 	},
@@ -20932,14 +20939,14 @@
 	{
 		"BusStopCode": "55341",
 		"RoadName": "Lentor Dr",
-		"Description": "Opp Thomson Gr",
+		"Description": "Lentor Stn Exit 3",
 		"Latitude": 1.38498581592741,
 		"Longitude": 103.83669949504181
 	},
 	{
 		"BusStopCode": "55349",
 		"RoadName": "Lentor Dr",
-		"Description": "Thomson Gr",
+		"Description": "Lentor Stn Exit 5",
 		"Latitude": 1.38479144169995,
 		"Longitude": 103.8364930927339
 	},
@@ -21093,14 +21100,14 @@
 	{
 		"BusStopCode": "56091",
 		"RoadName": "Upp Thomson Rd",
-		"Description": "Bef Springleaf Rd",
+		"Description": "Springleaf Stn Exit 3",
 		"Latitude": 1.3962,
 		"Longitude": 103.818459
 	},
 	{
 		"BusStopCode": "56099",
 		"RoadName": "Upp Thomson Rd",
-		"Description": "Aft Springleaf Rd",
+		"Description": "Springleaf Stn Exit 2",
 		"Latitude": 1.39606817759915,
 		"Longitude": 103.8188299218487
 	},
@@ -22085,6 +22092,20 @@
 		"Longitude": 103.817029
 	},
 	{
+		"BusStopCode": "58581",
+		"RoadName": "Bef Gambas Cres",
+		"Description": "Gambas Ave",
+		"Latitude": 1.443876,
+		"Longitude": 103.813122
+	},
+	{
+		"BusStopCode": "58589",
+		"RoadName": "Opp Gambas Cres",
+		"Description": "Gambas Ave",
+		"Latitude": 1.443534,
+		"Longitude": 103.813173
+	},
+	{
 		"BusStopCode": "58991",
 		"RoadName": "Yishun Ave 2",
 		"Description": "BLK 767",
@@ -23066,7 +23087,7 @@
 	},
 	{
 		"BusStopCode": "59761",
-		"RoadName": "Yishun Ave 1",
+		"RoadName": "Yishun Ring Rd",
 		"Description": "Blk 504C",
 		"Latitude": 1.41849608053432,
 		"Longitude": 103.84326740385671
