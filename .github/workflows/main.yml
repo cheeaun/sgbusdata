@@ -2,8 +2,8 @@ name: Update latest bus data
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: '0 0 1,15 * *'
+  schedule:
+    - cron: '0 0 1 * *'
 
 jobs:
   scheduled:
@@ -25,6 +25,15 @@ jobs:
           git add -A
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
-          git push
-          # tag=$(date +%Y-%m-%d)
-          # git tag -a "${tag}" -m "$(node scripts/changes)"
+          # git push
+          # Set title and body for PR
+          echo ::set-output name=pr_title::"Latest data: ${timestamp}"
+          echo ::set-output name=pr_body::"$(node scripts/changes)"
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          branch: latest-data
+          delete-branch: true
+          title: ${{ steps.vars.outputs.pr_title }}
+          body: ${{ steps.vars.outputs.pr_body }}
+          labels: data
