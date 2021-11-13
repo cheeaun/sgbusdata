@@ -1,3 +1,28 @@
+# 13 November 2021
+
+## Stops count change: 5052 ⮕ 5053
+
+### Stops added: 1
+
+- `03361` Opp Marina Barrage
+
+### Stop names changed: 1
+
+- `65251` Punggol Stn ⮕ Punggol Stn/Waterway Pt
+
+### Bus Stop Changes To Routes: 2
+
+- `39` Tampines Concourse Int ⇄ Yishun Int: +16, -4
+- `400` Shenton Way Ter ⟲ Opp Marina Barrage: +1
+
+## Routes changed: 1
+
+- `39` Tampines Concourse Int ⇄ Yishun Int
+
+## First/last timings changed
+
+Affected services: `39`, `43`, `400`
+
 # 19 October 2021
 
 ## Stops count change: 5049 ⮕ 5052

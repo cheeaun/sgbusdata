@@ -546,6 +546,13 @@
 		"Longitude": 103.8647780795552
 	},
 	{
+		"BusStopCode": "03361",
+		"RoadName": "Marina Gdns Dr",
+		"Description": "Opp Marina Barrage",
+		"Latitude": 1.279917,
+		"Longitude": 103.868895
+	},
+	{
 		"BusStopCode": "03369",
 		"RoadName": "Marina Gdns Dr",
 		"Description": "Marina Barrage",
@@ -25300,7 +25307,7 @@
 	{
 		"BusStopCode": "65221",
 		"RoadName": "Punggol Ctrl",
-		"Description": "BLK 303D",
+		"Description": "Blk 303D",
 		"Latitude": 1.40402842836975,
 		"Longitude": 103.90480763848863
 	},
@@ -25342,7 +25349,7 @@
 	{
 		"BusStopCode": "65251",
 		"RoadName": "Punggol Ctrl",
-		"Description": "Punggol Stn",
+		"Description": "Punggol Stn/Waterway Pt",
 		"Latitude": 1.40502618974463,
 		"Longitude": 103.90299618971393
 	},

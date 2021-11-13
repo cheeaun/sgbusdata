@@ -11349,6 +11349,15 @@
 		}
 	},
 	{
+		"name": "03361",
+		"wab": "true",
+		"details": "Opp Marina Barrage",
+		"coordinates": {
+			"lat": 1.279917,
+			"long": 103.868895
+		}
+	},
+	{
 		"name": "03369",
 		"wab": "true",
 		"details": "Marina Barrage",
@@ -43175,7 +43184,7 @@
 	{
 		"name": "65221",
 		"wab": "true",
-		"details": "BLK 303D",
+		"details": "Blk 303D",
 		"coordinates": {
 			"lat": 1.40402842836975,
 			"long": 103.90480763848863
@@ -43229,7 +43238,7 @@
 	{
 		"name": "65251",
 		"wab": "true",
-		"details": "Punggol Stn",
+		"details": "Punggol Stn/Waterway Pt",
 		"coordinates": {
 			"lat": 1.40502618974463,
 			"long": 103.90299618971393
