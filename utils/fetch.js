@@ -9,7 +9,10 @@ module.exports = (url, opts) => {
     headers: {
       'user-agent': 'sgbusdata/1.0',
     },
-    retry: 5,
+    retry: {
+      limit: 5,
+      statusCodes: [...got.defaults.options.retry.statusCodes, 400],
+    },
     hooks: {
       beforeRetry: [
         (options, error, retryCount) => {
