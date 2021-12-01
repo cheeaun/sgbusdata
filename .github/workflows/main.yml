@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: '16'
       - env:
-          DatamallAccountKey: ${{ secrets.DatamallAccountKey }}
+          DatamallAccountKey: ${{ secrets.DATAMALLACCOUNTKEY }}
         run: |-
           npm ci
           npm run build
