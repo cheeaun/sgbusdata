@@ -15,7 +15,7 @@ module.exports = (url, opts) => {
     },
     hooks: {
       beforeRetry: [
-        (options, error, retryCount) => {
+        (error, retryCount) => {
           console.log(`🚨 Retrying ${retryCount} time(s)`);
         },
       ],
