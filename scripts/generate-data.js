@@ -194,7 +194,7 @@ services
           );
         }
       });
-    }
+    };
     if (faultyRoutesServices.includes(num)) {
       const patchPatterns = [];
       let fauxError = false;
@@ -203,8 +203,9 @@ services
         const patchRoute = readFile(`./data/v1/patch/${num}.om.json`);
         const { BUS_DIRECTION_ONE, BUS_DIRECTION_TWO } = patchRoute;
         if (BUS_DIRECTION_ONE) {
-          const firstStop = BUS_DIRECTION_ONE.find((s) => s.BUS_SEQUENCE === 1)
-            .START_BUS_STOP_NUM;
+          const firstStop = BUS_DIRECTION_ONE.find(
+            (s) => s.BUS_SEQUENCE === 1,
+          ).START_BUS_STOP_NUM;
           const coordinates = BUS_DIRECTION_ONE.reduce((acc, v) => {
             const line = polyline
               .decode(v.GEOMETRIES)
@@ -221,8 +222,9 @@ services
           });
         }
         if (BUS_DIRECTION_TWO) {
-          const firstStop = BUS_DIRECTION_TWO.find((s) => s.BUS_SEQUENCE === 1)
-            .START_BUS_STOP_NUM;
+          const firstStop = BUS_DIRECTION_TWO.find(
+            (s) => s.BUS_SEQUENCE === 1,
+          ).START_BUS_STOP_NUM;
           const coordinates = BUS_DIRECTION_TWO.reduce((acc, v) => {
             const line = polyline
               .decode(v.GEOMETRIES)
@@ -298,22 +300,24 @@ routesFeatures.sort((a, b) => {
   return 0;
 });
 
-const stopsFeatures = Object.values(stopsData).map((d) => {
-  const { number, name, coordinates } = d;
-  return {
-    type: 'Feature',
-    id: number,
-    properties: {
-      number,
-      name,
-      services: [...stopsServices[number]].sort(),
-    },
-    geometry: {
-      type: 'Point',
-      coordinates,
-    },
-  };
-});
+const stopsFeatures = Object.values(stopsData)
+  .filter((d) => !!stopsServices[d.number])
+  .map((d) => {
+    const { number, name, coordinates } = d;
+    return {
+      type: 'Feature',
+      id: number,
+      properties: {
+        number,
+        name,
+        services: [...stopsServices[number]].sort(),
+      },
+      geometry: {
+        type: 'Point',
+        coordinates,
+      },
+    };
+  });
 
 // GeoJSONs
 // ===
