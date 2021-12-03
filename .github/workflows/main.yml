@@ -31,8 +31,8 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          branch: latest-data
-          delete-branch: true
           title: ${{ steps.vars.outputs.pr_title }}
           body: ${{ steps.vars.outputs.pr_body }}
+          branch: latest-data
+          delete-branch: true
           labels: data
