@@ -20,13 +20,9 @@ jobs:
           npm run build
       - id: vars
         run: |-
-          git diff --name-status
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
-          git add -A
           timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || exit 0
-          # git push
           # Set title and body for PR
           echo ::set-output name=pr_title::"Latest data: ${timestamp}"
           # https://trstringer.com/github-actions-multiline-strings/
@@ -35,6 +31,10 @@ jobs:
           CHANGES="${CHANGES//$'\n'/'%0A'}"
           CHANGES="${CHANGES//$'\r'/'%0D'}"
           echo "::set-output name=pr_body::$CHANGES"
+          git diff --name-status
+          git add -A
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          # git push
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
