@@ -60618,6 +60618,7 @@
 				"name": "Sembawang Int",
 				"services": [
 					"117",
+					"117M",
 					"167",
 					"859",
 					"859A",
@@ -60774,6 +60775,8 @@
 				"number": "58041",
 				"name": "Blk 590C",
 				"services": [
+					"117",
+					"117M",
 					"169",
 					"883",
 					"883M"
@@ -60794,6 +60797,8 @@
 				"number": "58049",
 				"name": "Opp Blk 590C",
 				"services": [
+					"117",
+					"117M",
 					"169",
 					"169A",
 					"883",
@@ -60816,6 +60821,8 @@
 				"number": "58051",
 				"name": "Blk 592C",
 				"services": [
+					"117",
+					"117M",
 					"169",
 					"882",
 					"883",
@@ -60837,6 +60844,8 @@
 				"number": "58059",
 				"name": "Opp Blk 592C",
 				"services": [
+					"117",
+					"117M",
 					"169",
 					"169A",
 					"882",
@@ -61457,6 +61466,7 @@
 				"name": "Sembawang Stn",
 				"services": [
 					"117",
+					"117M",
 					"858",
 					"859",
 					"859B",
@@ -61482,6 +61492,7 @@
 				"name": "Opp Sembawang Stn",
 				"services": [
 					"117",
+					"117M",
 					"858",
 					"858A",
 					"859",
@@ -61585,6 +61596,7 @@
 				"name": "Sun Plaza/Sembawang Stn",
 				"services": [
 					"117",
+					"117M",
 					"656",
 					"859",
 					"859B",
@@ -61614,6 +61626,7 @@
 				"name": "Opp Sun Plaza",
 				"services": [
 					"117",
+					"117M",
 					"656",
 					"859",
 					"859A",
@@ -61643,7 +61656,6 @@
 				"number": "58261",
 				"name": "Visionaire",
 				"services": [
-					"117",
 					"169"
 				]
 			},
@@ -61662,7 +61674,6 @@
 				"number": "58269",
 				"name": "Opp Visionaire",
 				"services": [
-					"117",
 					"169",
 					"169A"
 				]
@@ -61934,6 +61945,7 @@
 				"name": "Blk 589D",
 				"services": [
 					"117",
+					"117M",
 					"167",
 					"883",
 					"883M"
@@ -61955,6 +61967,7 @@
 				"name": "Opp Blk 589D",
 				"services": [
 					"117",
+					"117M",
 					"167",
 					"883",
 					"883M"
@@ -62555,6 +62568,8 @@
 				"number": "58511",
 				"name": "Blk 104C",
 				"services": [
+					"117",
+					"117M",
 					"883",
 					"883M"
 				]
@@ -62574,6 +62589,8 @@
 				"number": "58519",
 				"name": "Opp Blk 104B",
 				"services": [
+					"117",
+					"117M",
 					"883",
 					"883B",
 					"883M"
@@ -62673,6 +62690,7 @@
 				"name": "Opp Canberra Stn",
 				"services": [
 					"117",
+					"117M",
 					"169",
 					"169A",
 					"883",
@@ -62695,6 +62713,7 @@
 				"name": "Canberra Stn",
 				"services": [
 					"117",
+					"117M",
 					"169",
 					"883",
 					"883B",
@@ -62787,6 +62806,101 @@
 				"coordinates": [
 					103.813173,
 					1.443534
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "58601",
+			"properties": {
+				"number": "58601",
+				"name": "Blk 108A",
+				"services": [
+					"117",
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.831129,
+					1.448139
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "58609",
+			"properties": {
+				"number": "58609",
+				"name": "Blk 109A",
+				"services": [
+					"117",
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.830401,
+					1.447964
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "58611",
+			"properties": {
+				"number": "58611",
+				"name": "Blk 115C",
+				"services": [
+					"117",
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.82993,
+					1.446533
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "58619",
+			"properties": {
+				"number": "58619",
+				"name": "Opp Blk 115C",
+				"services": [
+					"117",
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.830152,
+					1.44637
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "58621",
+			"properties": {
+				"number": "58621",
+				"name": "Blk 126 Cp",
+				"services": [
+					"883",
+					"883M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.834031,
+					1.445953
 				]
 			}
 		},
@@ -63026,6 +63140,7 @@
 				"services": [
 					"117",
 					"117A",
+					"117M",
 					"1N",
 					"39",
 					"663",
@@ -63062,6 +63177,7 @@
 				"name": "Yishun Sports Hall",
 				"services": [
 					"117",
+					"117M",
 					"39",
 					"663",
 					"670",
@@ -63101,6 +63217,7 @@
 				"services": [
 					"117",
 					"117A",
+					"117M",
 					"1N",
 					"39",
 					"85",
@@ -63135,6 +63252,7 @@
 				"name": "Opp Khatib Stn",
 				"services": [
 					"117",
+					"117M",
 					"39",
 					"85",
 					"851",
@@ -63171,6 +63289,7 @@
 				"name": "Blk 790",
 				"services": [
 					"117",
+					"117M",
 					"39",
 					"663",
 					"812",
@@ -63208,6 +63327,7 @@
 				"name": "Blk 608",
 				"services": [
 					"117",
+					"117M",
 					"39",
 					"663",
 					"85",
@@ -63246,6 +63366,7 @@
 				"name": "Blk 763",
 				"services": [
 					"117",
+					"117M",
 					"169",
 					"858",
 					"883",
@@ -63271,6 +63392,7 @@
 				"services": [
 					"103",
 					"117",
+					"117M",
 					"169",
 					"39",
 					"805",
@@ -63336,6 +63458,7 @@
 				"name": "Opp Yishun Stn",
 				"services": [
 					"117",
+					"117M",
 					"169",
 					"169A",
 					"804",
@@ -63367,6 +63490,7 @@
 				"name": "Yishun Stn",
 				"services": [
 					"117",
+					"117M",
 					"169",
 					"858",
 					"883",
@@ -63437,6 +63561,7 @@
 				"name": "Blk 154",
 				"services": [
 					"117",
+					"117M",
 					"169",
 					"804",
 					"811",
@@ -63465,6 +63590,7 @@
 				"name": "Blk 220",
 				"services": [
 					"117",
+					"117M",
 					"169",
 					"169A",
 					"804",
@@ -64137,6 +64263,7 @@
 				"name": "Opp Darul Makmur Mque",
 				"services": [
 					"117",
+					"117M",
 					"169",
 					"800",
 					"811",
@@ -64163,6 +64290,7 @@
 				"name": "Darul Makmur Mque",
 				"services": [
 					"117",
+					"117M",
 					"169",
 					"169A",
 					"883",
@@ -65099,6 +65227,7 @@
 				"name": "Blk 430B",
 				"services": [
 					"117",
+					"117M",
 					"804",
 					"850E"
 				]
@@ -65119,7 +65248,8 @@
 				"name": "Opp Blk 430B",
 				"services": [
 					"117",
-					"117A"
+					"117A",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -65176,6 +65306,7 @@
 				"name": "Blk 871",
 				"services": [
 					"117",
+					"117M",
 					"811",
 					"811T"
 				]
@@ -65196,7 +65327,8 @@
 				"name": "Opp Blk 871",
 				"services": [
 					"117",
-					"117A"
+					"117A",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -65234,6 +65366,7 @@
 				"name": "Yishun Emerald",
 				"services": [
 					"117",
+					"117M",
 					"169",
 					"883",
 					"883B",
@@ -65256,6 +65389,7 @@
 				"name": "Opp Yishun Emerald",
 				"services": [
 					"117",
+					"117M",
 					"169",
 					"169A",
 					"883",
@@ -65841,7 +65975,8 @@
 				"number": "59721",
 				"name": "Blk 816",
 				"services": [
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -65860,7 +65995,8 @@
 				"name": "Opp Blk 816",
 				"services": [
 					"117",
-					"117A"
+					"117A",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -65879,6 +66015,7 @@
 				"name": "Blk 512A",
 				"services": [
 					"117",
+					"117M",
 					"805"
 				]
 			},
@@ -65898,7 +66035,8 @@
 				"name": "Opp Blk 512A",
 				"services": [
 					"117",
-					"117A"
+					"117A",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -65917,6 +66055,7 @@
 				"name": "Opp Orchid Country Club",
 				"services": [
 					"117",
+					"117M",
 					"805"
 				]
 			},
@@ -65936,7 +66075,8 @@
 				"name": "Orchid Country Club",
 				"services": [
 					"117",
-					"117A"
+					"117A",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -65955,6 +66095,7 @@
 				"name": "Opp The Shaughnessy",
 				"services": [
 					"117",
+					"117M",
 					"805"
 				]
 			},
@@ -65974,7 +66115,8 @@
 				"name": "The Shaughnessy",
 				"services": [
 					"117",
-					"117A"
+					"117A",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -66017,7 +66159,8 @@
 				"name": "Blk 469B",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -66036,7 +66179,8 @@
 				"name": "Opp Blks 469A/469B",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -66055,7 +66199,8 @@
 				"name": "Aft Yishun Ave 6",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -66074,7 +66219,8 @@
 				"name": "Bef Yishun Ave 6",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -72682,6 +72828,7 @@
 				"name": "Punggol Temp Int",
 				"services": [
 					"117",
+					"117M",
 					"118",
 					"119",
 					"136",
@@ -73129,6 +73276,7 @@
 				"name": "Aft Soo Teck Stn",
 				"services": [
 					"117",
+					"117M",
 					"118",
 					"381",
 					"39",
@@ -73153,6 +73301,7 @@
 				"name": "Bef Soo Teck Stn",
 				"services": [
 					"117",
+					"117M",
 					"118",
 					"381",
 					"39",
@@ -73647,6 +73796,7 @@
 				"name": "Punggol Stn/Int",
 				"services": [
 					"117",
+					"117M",
 					"118",
 					"381",
 					"384",
@@ -74170,6 +74320,7 @@
 				"name": "Opp Blk 264A",
 				"services": [
 					"117",
+					"117M",
 					"118",
 					"381",
 					"384",
@@ -74195,6 +74346,7 @@
 				"name": "Bef Blk 264",
 				"services": [
 					"117",
+					"117M",
 					"118",
 					"381",
 					"384",
@@ -74274,6 +74426,7 @@
 				"name": "Twin Waterfalls",
 				"services": [
 					"117",
+					"117M",
 					"118",
 					"119",
 					"39",
@@ -74299,6 +74452,7 @@
 				"name": "Aft TPE",
 				"services": [
 					"117",
+					"117M",
 					"118",
 					"119",
 					"39",
@@ -80249,7 +80403,8 @@
 				"name": "Sing-China Bldg",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80268,7 +80423,8 @@
 				"name": "Opp Sing-China Bldg",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80287,7 +80443,8 @@
 				"name": "Bef Seletar A'Space Rise",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80306,7 +80463,8 @@
 				"name": "Aft Seletar A'Space Rise",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80326,7 +80484,8 @@
 				"services": [
 					"102",
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80346,7 +80505,8 @@
 				"services": [
 					"102",
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80365,7 +80525,8 @@
 				"name": "Rolls Royce Pte Ltd",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80384,7 +80545,8 @@
 				"name": "Opp Rolls Royce Pte Ltd",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80405,6 +80567,7 @@
 					"102",
 					"103",
 					"117",
+					"117M",
 					"168",
 					"39",
 					"858",
@@ -80430,6 +80593,7 @@
 					"102",
 					"103",
 					"117",
+					"117M",
 					"168",
 					"39",
 					"858",
@@ -80491,7 +80655,8 @@
 				"name": "Opp Youth Flying Club",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80510,7 +80675,8 @@
 				"name": "Youth Flying Club",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80529,7 +80695,8 @@
 				"name": "Opp Seletar Airport",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80548,7 +80715,8 @@
 				"name": "ST Aerospace",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80567,7 +80735,8 @@
 				"name": "Bef Shell Aviation",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80586,7 +80755,8 @@
 				"name": "Aft Shell Aviation",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80605,7 +80775,8 @@
 				"name": "Aft Seletar A'Space Lane",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80624,7 +80795,8 @@
 				"name": "Bef Seletar A'Space Lane",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80643,7 +80815,8 @@
 				"name": "Bef Yishun Ave 8",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80662,7 +80835,8 @@
 				"name": "Aft Yishun Ave 8",
 				"services": [
 					"103",
-					"117"
+					"117",
+					"117M"
 				]
 			},
 			"geometry": {
@@ -80670,6 +80844,78 @@
 				"coordinates": [
 					103.85550329736579,
 					1.42698397142724
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "68181",
+			"properties": {
+				"number": "68181",
+				"name": "Bef Jtc Aerospace",
+				"services": [
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.858281,
+					1.40407
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "68189",
+			"properties": {
+				"number": "68189",
+				"name": "Aft Jtc Aerospace",
+				"services": [
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.858254,
+					1.403739
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "68191",
+			"properties": {
+				"number": "68191",
+				"name": "Bef Seletar A'Space Lk",
+				"services": [
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.85963,
+					1.402289
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "68199",
+			"properties": {
+				"number": "68199",
+				"name": "Aft Seletar A'Space Lk",
+				"services": [
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.859906,
+					1.402553
 				]
 			}
 		},
