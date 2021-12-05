@@ -1563,6 +1563,17 @@
 		]
 	},
 	{
+		"number": "117M",
+		"type": "TRUNK",
+		"kmlFile": [
+			"117M-1.kml",
+			"117M-2.kml"
+		],
+		"routeFile": [
+			"117M.xml"
+		]
+	},
+	{
 		"number": 118,
 		"type": "TRUNK",
 		"kmlFile": [

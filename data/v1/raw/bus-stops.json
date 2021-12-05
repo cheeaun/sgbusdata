@@ -39078,6 +39078,51 @@
 		}
 	},
 	{
+		"name": "58601",
+		"wab": "true",
+		"details": "Blk 108A",
+		"coordinates": {
+			"lat": 1.448139,
+			"long": 103.831129
+		}
+	},
+	{
+		"name": "58609",
+		"wab": "true",
+		"details": "Blk 109A",
+		"coordinates": {
+			"lat": 1.447964,
+			"long": 103.830401
+		}
+	},
+	{
+		"name": "58611",
+		"wab": "true",
+		"details": "Blk 115C",
+		"coordinates": {
+			"lat": 1.446533,
+			"long": 103.82993
+		}
+	},
+	{
+		"name": "58619",
+		"wab": "true",
+		"details": "Opp Blk 115C",
+		"coordinates": {
+			"lat": 1.44637,
+			"long": 103.830152
+		}
+	},
+	{
+		"name": "58621",
+		"wab": "true",
+		"details": "Blk 126 Cp",
+		"coordinates": {
+			"lat": 1.445953,
+			"long": 103.834031
+		}
+	},
+	{
 		"name": "58991",
 		"wab": "true",
 		"details": "BLK 767",
@@ -46293,6 +46338,42 @@
 		"coordinates": {
 			"lat": 1.42698397142724,
 			"long": 103.85550329736579
+		}
+	},
+	{
+		"name": "68181",
+		"wab": "true",
+		"details": "Bef Jtc Aerospace",
+		"coordinates": {
+			"lat": 1.40407,
+			"long": 103.858281
+		}
+	},
+	{
+		"name": "68189",
+		"wab": "true",
+		"details": "Aft Jtc Aerospace",
+		"coordinates": {
+			"lat": 1.403739,
+			"long": 103.858254
+		}
+	},
+	{
+		"name": "68191",
+		"wab": "true",
+		"details": "Bef Seletar A'Space Lk",
+		"coordinates": {
+			"lat": 1.402289,
+			"long": 103.85963
+		}
+	},
+	{
+		"name": "68199",
+		"wab": "true",
+		"details": "Aft Seletar A'Space Lk",
+		"coordinates": {
+			"lat": 1.402553,
+			"long": 103.859906
 		}
 	},
 	{

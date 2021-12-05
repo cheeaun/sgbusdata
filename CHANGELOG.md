@@ -1,3 +1,42 @@
+# 5 December 2021
+
+## Stops count change: 5053 ⮕ 5062
+
+### Stops added: 9
+
+- `58601` Blk 108A
+- `58609` Blk 109A
+- `58611` Blk 115C
+- `58619` Opp Blk 115C
+- `58621` Blk 126 Cp
+- `68181` Bef Jtc Aerospace
+- `68189` Aft Jtc Aerospace
+- `68191` Bef Seletar A'Space Lk
+- `68199` Aft Seletar A'Space Lk
+
+## Services count change: 553 ⮕ 554
+
+### Services added: 1
+
+- `117M` Punggol Temp Int ⇄ Sembawang Int
+
+### Bus Stop Changes To Routes: 3
+
+- `117` Punggol Temp Int ⇄ Sembawang Int: +10, -2
+- `883` Sembawang Int ⟲ Yishun Community Hosp: +2
+- `883M` Sembawang Int ⟲ Opp Blk 701A: +2
+
+## Routes changed: 4
+
+- `117` Punggol Temp Int ⇄ Sembawang Int
+- `883` Sembawang Int ⟲ Yishun Community Hosp
+- `883M` Sembawang Int ⟲ Opp Blk 701A
+- `117M` Punggol Temp Int ⇄ Sembawang Int
+
+## First/last timings changed
+
+Affected services: `67`, `117`, `883`, `961`, `964`, `883M`, `117M`
+
 # 13 November 2021
 
 ## Stops count change: 5052 ⮕ 5053
