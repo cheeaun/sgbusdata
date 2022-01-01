@@ -90,12 +90,6 @@
 		"count": 24
 	},
 	{
-		"number": 228,
-		"numberPattern": "228-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 57
-	},
-	{
 		"number": 25,
 		"numberPattern": "25-1",
 		"e": "Not LineString but is GeometryCollection",
@@ -190,12 +184,6 @@
 		"numberPattern": "5N-1",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 96
-	},
-	{
-		"number": 66,
-		"numberPattern": "66-2",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 3
 	},
 	{
 		"number": "6N",

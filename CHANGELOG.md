@@ -1,3 +1,69 @@
+# 1 January 2022
+
+## Stops count change: 5062 ⮕ 5067
+
+### Stops added: 5
+
+- `84651` Aft Heartbeat @ Bedok
+- `84659` Bef Heartbeat @ Bedok
+- `96391` Aft Changi Biz Pk Cres
+- `96471` Bef Changi Coast Road
+- `96479` Aft Changi Roads
+
+### Stop names changed: 1
+
+- `02029` Opp S'pore Cricket Club ⮕ Aft Esplanade Stn Exit D
+
+### Stop locations changed: 1
+
+- `02029` 103.85293,1.28879 ⮕ 103.85464,1.29011
+
+## Services count change: 554 ⮕ 553
+
+### Services removed: 1
+
+- `66C` Jurong East Int → Opp Beauty World Stn
+
+### Bus Stop Changes To Routes: 17
+
+- `506` Jurong East Int ⇄ S'Goon Int: +22, -48
+- `66` Jurong East Int ⟲ Opp Beauty World Stn: +1, -131
+- `22` Ang Mo Kio Int ⇄ Eunos Int: +11, -36
+- `14` Bedok Int ⇄ Clementi Int: +2
+- `18` Tampines Concourse Int ⟲ Bedok Int: +3
+- `20` Tampines Int ⟲ Bef Changi Sth St 1: +1
+- `35` Bedok Int ⟲ Opp DB Schenker: +2
+- `65` Tampines Int ⇄ HarbourFront Int: +6, -4
+- `69` Tampines Int ⟲ Bedok Int: +3
+- `155` Toa Payoh Int ⇄ Bedok Int: +2
+- `168` Bedok Int ⇄ Woodlands Int: +2
+- `222` Bedok Int ⟲ Opp Blk 53: +2
+- `228` Bedok Int ⟲ Christ Ch: +2
+- `14A` Bedok Int → Natl Youth Council: +1
+- `222A` Bedok Int → Bedok Stn Exit A: +1
+- `225G` Bedok Int ⟲ Opp Blk 550: +1
+- `225W` Bedok Int ⟲ Blk 512: +1
+
+## Routes changed: 13
+
+- `66` Jurong East Int ⟲ Opp Beauty World Stn
+- `22` Ang Mo Kio Int ⇄ Eunos Int
+- `65` Tampines Int ⇄ HarbourFront Int
+- `75` Gali Batu Ter ⇄ Marina Ctr Ter
+- `100` S'Goon Int ⇄ Ghim Moh Ter
+- `107` Hougang Ctrl Int ⇄ Shenton Way Ter
+- `130` Ang Mo Kio Int ⇄ Shenton Way Ter
+- `131` St. Michael's Ter ⇄ Bt Merah Int
+- `167` Sembawang Int ⇄ Bt Merah Int
+- `228` Bedok Int ⟲ Christ Ch
+- `506` Jurong East Int ⇄ S'Goon Int
+- `131A` St. Michael's Ter → Opp AXA Twr
+- `225G` Bedok Int ⟲ Opp Blk 550
+
+## First/last timings changed
+
+Affected services: `66C`, `14`, `18`, `20`, `22`, `35`, `65`, `66`, `69`, `75`, `100`, `107`, `130`, `131`, `155`, `167`, `168`, `222`, `228`, `252`, `506`, `131A`, `14A`, `222A`, `225G`, `225W`
+
 # 5 December 2021
 
 ## Stops count change: 5053 ⮕ 5062

@@ -288,10 +288,10 @@
 	},
 	{
 		"BusStopCode": "02029",
-		"RoadName": "Connaught Dr",
-		"Description": "Opp S'pore Cricket Club",
-		"Latitude": 1.28879015142476,
-		"Longitude": 103.85293318066766
+		"RoadName": "Esplanade Dr",
+		"Description": "Aft Esplanade Stn Exit D",
+		"Latitude": 1.290106,
+		"Longitude": 103.85464
 	},
 	{
 		"BusStopCode": "02049",
@@ -32809,6 +32809,20 @@
 		"Longitude": 103.92314916696681
 	},
 	{
+		"BusStopCode": "84651",
+		"RoadName": "Bedok Nth St 1",
+		"Description": "Aft Heartbeat @ Bedok",
+		"Latitude": 1.327057,
+		"Longitude": 103.930691
+	},
+	{
+		"BusStopCode": "84659",
+		"RoadName": "Bedok Nth St 1",
+		"Description": "Bef Heartbeat @ Bedok",
+		"Latitude": 1.327201,
+		"Longitude": 103.93063
+	},
+	{
 		"BusStopCode": "84661",
 		"RoadName": "Bedok Sth Ave 3",
 		"Description": "Blk 172",
@@ -34608,6 +34622,13 @@
 		"Longitude": 103.96219500000879
 	},
 	{
+		"BusStopCode": "96391",
+		"RoadName": "Changi Business Pk Vista",
+		"Description": "Aft Changi Biz Pk Cres",
+		"Latitude": 1.336856,
+		"Longitude": 103.967921
+	},
+	{
 		"BusStopCode": "96401",
 		"RoadName": "Changi Business Pk Ctrl 1",
 		"Description": "Honeywell Bldg",
@@ -34669,6 +34690,20 @@
 		"Description": "SUTD",
 		"Latitude": 1.33980186622645,
 		"Longitude": 103.96388189995498
+	},
+	{
+		"BusStopCode": "96471",
+		"RoadName": "Aviation Pk Rd",
+		"Description": "Bef Changi Coast Road",
+		"Latitude": 1.367866,
+		"Longitude": 104.009977
+	},
+	{
+		"BusStopCode": "96479",
+		"RoadName": "Aviation Pk Rd",
+		"Description": "Aft Changi Roads",
+		"Latitude": 1.367858,
+		"Longitude": 104.010442
 	},
 	{
 		"BusStopCode": "97009",

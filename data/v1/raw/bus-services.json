@@ -255,25 +255,13 @@
 	},
 	{
 		"number": 527,
-		"description": "Rhu Cross - Stadium MRT Station",
+		"description": "Rhu Cross to Stadium Crescent",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"527-1.kml"
 		],
 		"routeFile": [
 			"527.xml"
-		]
-	},
-	{
-		"number": 528,
-		"description": "Yishun - Seletar Aerospace Park",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"528-1.kml",
-			"528-2.kml"
-		],
-		"routeFile": [
-			"528.xml"
 		]
 	},
 	{
@@ -286,28 +274,6 @@
 		],
 		"routeFile": [
 			"531.xml"
-		]
-	},
-	{
-		"number": 533,
-		"description": "Teban Gardens Road to Beach Road",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"533-1.kml"
-		],
-		"routeFile": [
-			"533.xml"
-		]
-	},
-	{
-		"number": 534,
-		"description": "Serangoon North Avenue 5 - Fullerton Road",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"534-1.kml"
-		],
-		"routeFile": [
-			"534.xml"
 		]
 	},
 	{
@@ -333,40 +299,6 @@
 		]
 	},
 	{
-		"number": 541,
-		"description": "Bayshore Road - Shenton Way/Anson Road",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"541-1.kml",
-			"541-2.kml"
-		],
-		"routeFile": [
-			"541.xml"
-		]
-	},
-	{
-		"number": 542,
-		"description": "Yung Ho Road - Nicoll Highway",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"542-1.kml"
-		],
-		"routeFile": [
-			"542.xml"
-		]
-	},
-	{
-		"number": 543,
-		"description": "Jurong East Avenue 1 to Nicoll Highway",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"543-1.kml"
-		],
-		"routeFile": [
-			"543.xml"
-		]
-	},
-	{
 		"number": 545,
 		"description": "Bedok North Avenue 4 to Fullerton Road",
 		"type": "PREMIUM",
@@ -375,18 +307,6 @@
 		],
 		"routeFile": [
 			"545.xml"
-		]
-	},
-	{
-		"number": 547,
-		"description": "Meyer Road - Shenton Way/Anson Road",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"547-1.kml",
-			"547-2.kml"
-		],
-		"routeFile": [
-			"547.xml"
 		]
 	},
 	{
@@ -409,17 +329,6 @@
 		],
 		"routeFile": [
 			"550.xml"
-		]
-	},
-	{
-		"number": 559,
-		"description": "Yishun Avenue 11 to Temasek Boulevard",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"559-1.kml"
-		],
-		"routeFile": [
-			"559.xml"
 		]
 	},
 	{
@@ -465,17 +374,6 @@
 		],
 		"routeFile": [
 			"568.xml"
-		]
-	},
-	{
-		"number": 569,
-		"description": "Punggol Drive to Nicoll Highway",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"569-1.kml"
-		],
-		"routeFile": [
-			"569.xml"
 		]
 	},
 	{
@@ -620,18 +518,6 @@
 		]
 	},
 	{
-		"number": 722,
-		"description": "Senja Road - Anson Road",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"722-1.kml",
-			"722-2.kml"
-		],
-		"routeFile": [
-			"722.xml"
-		]
-	},
-	{
 		"number": 723,
 		"description": "Buangkok Green -  Upper Cross Street",
 		"type": "PREMIUM",
@@ -641,17 +527,6 @@
 		],
 		"routeFile": [
 			"723.xml"
-		]
-	},
-	{
-		"number": 725,
-		"description": "Choa Chu Kang Avenue 5 - Shenton Way",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"725-1.kml"
-		],
-		"routeFile": [
-			"725.xml"
 		]
 	},
 	{
@@ -762,18 +637,6 @@
 		]
 	},
 	{
-		"number": 748,
-		"description": "Bayshore Road - Changi Business Park",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"748-1.kml",
-			"748-2.kml"
-		],
-		"routeFile": [
-			"748.xml"
-		]
-	},
-	{
 		"number": 753,
 		"description": "Flora Road - Anson Road",
 		"type": "PREMIUM",
@@ -809,7 +672,7 @@
 	},
 	{
 		"number": 762,
-		"description": "Teban Gardens Road to Church Street",
+		"description": "West Coast Road to Beach Road",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"762-1.kml"
@@ -843,7 +706,7 @@
 	},
 	{
 		"number": 776,
-		"description": "Canberra - Changi Business Park",
+		"description": "Sembawang Road - Changi Business Park",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"776-1.kml",
@@ -4813,21 +4676,10 @@
 		"number": 66,
 		"type": "TRUNK",
 		"kmlFile": [
-			"66-1.kml",
-			"66-2.kml"
+			"66-1.kml"
 		],
 		"routeFile": [
 			"66.xml"
-		]
-	},
-	{
-		"number": "66C",
-		"type": "TRUNK",
-		"kmlFile": [
-			"66C-1.kml"
-		],
-		"routeFile": [
-			"66C.xml"
 		]
 	},
 	{
