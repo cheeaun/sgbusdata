@@ -277,17 +277,6 @@
 		]
 	},
 	{
-		"number": 538,
-		"description": "Pasir Ris Drive 3 to Nicoll Highway",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"538-1.kml"
-		],
-		"routeFile": [
-			"538.xml"
-		]
-	},
-	{
 		"number": 539,
 		"description": "Pasir Ris Drive 3 to Temasek Boulevard",
 		"type": "PREMIUM",
@@ -307,17 +296,6 @@
 		],
 		"routeFile": [
 			"545.xml"
-		]
-	},
-	{
-		"number": 548,
-		"description": "Ang Mo Kio Avenue 5 to Fullerton Road",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"548-1.kml"
-		],
-		"routeFile": [
-			"548.xml"
 		]
 	},
 	{
@@ -351,29 +329,6 @@
 		],
 		"routeFile": [
 			"565.xml"
-		]
-	},
-	{
-		"number": 566,
-		"description": "Meyer Road to Marina Boulevard",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"566-1.kml"
-		],
-		"routeFile": [
-			"566.xml"
-		]
-	},
-	{
-		"number": 568,
-		"description": "Serangoon North Avenue 1 - Anson Road/Raffles Quay",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"568-1.kml",
-			"568-2.kml"
-		],
-		"routeFile": [
-			"568.xml"
 		]
 	},
 	{
@@ -412,18 +367,6 @@
 		]
 	},
 	{
-		"number": 576,
-		"description": "Seletar Hills Estate - Upper Cross Street",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"576-1.kml",
-			"576-2.kml"
-		],
-		"routeFile": [
-			"576.xml"
-		]
-	},
-	{
 		"number": 580,
 		"description": "Woodlands Centre Road - Yishun Avenue 2",
 		"type": "PREMIUM",
@@ -445,18 +388,6 @@
 		],
 		"routeFile": [
 			"581.xml"
-		]
-	},
-	{
-		"number": 587,
-		"description": "Fernvale Road - Fullerton Road/Nicoll Highway",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"587-1.kml",
-			"587-2.kml"
-		],
-		"routeFile": [
-			"587.xml"
 		]
 	},
 	{
@@ -566,18 +497,6 @@
 		]
 	},
 	{
-		"number": 734,
-		"description": "Sembawang Way - Changi Business Park",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"734-1.kml",
-			"734-2.kml"
-		],
-		"routeFile": [
-			"734.xml"
-		]
-	},
-	{
 		"number": 736,
 		"description": "Tampines Avenue 9 to Temasek Boulevard",
 		"type": "PREMIUM",
@@ -586,18 +505,6 @@
 		],
 		"routeFile": [
 			"736.xml"
-		]
-	},
-	{
-		"number": 737,
-		"description": "Pasir Ris Drive 1 - Changi Business Park",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"737-1.kml",
-			"737-2.kml"
-		],
-		"routeFile": [
-			"737.xml"
 		]
 	},
 	{
@@ -625,18 +532,6 @@
 		]
 	},
 	{
-		"number": 744,
-		"description": "Rivervale Drive - Changi Business Park",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"744-1.kml",
-			"744-2.kml"
-		],
-		"routeFile": [
-			"744.xml"
-		]
-	},
-	{
 		"number": 753,
 		"description": "Flora Road - Anson Road",
 		"type": "PREMIUM",
@@ -657,17 +552,6 @@
 		],
 		"routeFile": [
 			"754.xml"
-		]
-	},
-	{
-		"number": 761,
-		"description": "Ang Mo Kio Avenue 2 to Temasek Boulevard",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"761-1.kml"
-		],
-		"routeFile": [
-			"761.xml"
 		]
 	},
 	{
@@ -717,18 +601,6 @@
 		]
 	},
 	{
-		"number": 779,
-		"description": "Compassvale Drive - Changi Business Park",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"779-1.kml",
-			"779-2.kml"
-		],
-		"routeFile": [
-			"779.xml"
-		]
-	},
-	{
 		"number": 783,
 		"description": "Airport Boulevard - Portsdown Road",
 		"type": "PREMIUM",
@@ -741,28 +613,6 @@
 		]
 	},
 	{
-		"number": 784,
-		"description": "Bedok Reservoir Road to Shenton Way",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"784-1.kml"
-		],
-		"routeFile": [
-			"784.xml"
-		]
-	},
-	{
-		"number": 785,
-		"description": "Bedok South Road to Shenton Way",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"785-1.kml"
-		],
-		"routeFile": [
-			"785.xml"
-		]
-	},
-	{
 		"number": 786,
 		"description": "Choa Chu Kang Crescent to Marina Boulevard",
 		"type": "PREMIUM",
@@ -771,17 +621,6 @@
 		],
 		"routeFile": [
 			"786.xml"
-		]
-	},
-	{
-		"number": "-S10",
-		"description": "Sentosa Visitor Centre to Lau Pa Sat Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S10-1.kml"
-		],
-		"routeFile": [
-			"-S10.xml"
 		]
 	},
 	{
@@ -1976,17 +1815,6 @@
 		],
 		"routeFile": [
 			"151.xml"
-		]
-	},
-	{
-		"number": "151e",
-		"type": "TRUNK",
-		"kmlFile": [
-			"151e-1.kml",
-			"151e-2.kml"
-		],
-		"routeFile": [
-			"151e.xml"
 		]
 	},
 	{
@@ -4868,17 +4696,6 @@
 		]
 	},
 	{
-		"number": "74e",
-		"type": "TRUNK",
-		"kmlFile": [
-			"74e-1.kml",
-			"74e-2.kml"
-		],
-		"routeFile": [
-			"74e.xml"
-		]
-	},
-	{
 		"number": 75,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -5001,6 +4818,16 @@
 		],
 		"routeFile": [
 			"800.xml"
+		]
+	},
+	{
+		"number": 801,
+		"type": "TRUNK",
+		"kmlFile": [
+			"801-1.kml"
+		],
+		"routeFile": [
+			"801.xml"
 		]
 	},
 	{

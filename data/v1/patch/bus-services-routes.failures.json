@@ -38,6 +38,10 @@
 			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
+			"fileName": "801-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
 			"fileName": "811T-1.kml",
 			"e": "HTTPError: Response code 404 (Not Found)"
 		},
