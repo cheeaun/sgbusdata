@@ -14680,7 +14680,7 @@
 	},
 	{
 		"name": "20019",
-		"wab": "false",
+		"wab": "true",
 		"details": "Blk 431",
 		"coordinates": {
 			"lat": 1.31357611099308,
@@ -27117,6 +27117,24 @@
 		}
 	},
 	{
+		"name": "44941",
+		"wab": "true",
+		"details": "OPP BLK 502",
+		"coordinates": {
+			"lat": 1.388198,
+			"long": 103.744284
+		}
+	},
+	{
+		"name": "44949",
+		"wab": "true",
+		"details": "AFT BLK 503",
+		"coordinates": {
+			"lat": 1.388429,
+			"long": 103.742903
+		}
+	},
+	{
 		"name": "44989",
 		"wab": "true",
 		"details": "Gali Batu Ter",
@@ -31835,7 +31853,7 @@
 	{
 		"name": "52231",
 		"wab": "true",
-		"details": "Opp Blk 177",
+		"details": "Blk 79C",
 		"coordinates": {
 			"lat": 1.3343049899737,
 			"long": 103.8487842386021
@@ -44631,12 +44649,21 @@
 		}
 	},
 	{
-		"name": "74049",
+		"name": "74051",
 		"wab": "true",
-		"details": "Golden Pagoda Tp",
+		"details": "Tampines Dormitory",
 		"coordinates": {
-			"lat": 1.36851139242556,
-			"long": 103.93012376046164
+			"lat": 1.366363,
+			"long": 103.929336
+		}
+	},
+	{
+		"name": "74059",
+		"wab": "true",
+		"details": "Opp Tampines Dormitory",
+		"coordinates": {
+			"lat": 1.366122,
+			"long": 103.929222
 		}
 	},
 	{
@@ -52202,7 +52229,7 @@
 	{
 		"name": "96479",
 		"wab": "true",
-		"details": "Aft Changi Roads",
+		"details": "Aft Changi Coast Rd",
 		"coordinates": {
 			"lat": 1.367858,
 			"long": 104.010442

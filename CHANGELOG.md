@@ -1,3 +1,47 @@
+# 1 March 2022
+
+## Stops count change: 5069 ⮕ 5072
+
+### Stops added: 4
+
+- `44941` Opp Blk 502
+- `44949` Aft Blk 503
+- `74051` Tampines Dormitory
+- `74059` Opp Tampines Dormitory
+
+### Stops removed: 1
+
+- `74049` Golden Pagoda Tp
+
+### Stop names changed: 2
+
+- `52231` Opp Blk 177 ⮕ Blk 79C
+- `96479` Aft Changi Roads ⮕ Aft Changi Coast Rd
+
+## Services count change: 552 ⮕ 553
+
+### Services added: 1
+
+- `913T` Woodlands Int → Woodlands Int
+
+### Bus Stop Changes To Routes: 3
+
+- `72` Yio Chu Kang Int ⇄ Tampines Int: +2, -4
+- `974` Joo Koon Int ⟲ Bt Panjang Stn Exit A/Lrt: +2
+- `974A` Joo Koon Int → Lot 1/Choa Chu Kang Stn: +1
+
+## Routes changed: 5
+
+- `35` Bedok Int ⟲ Opp DB Schenker
+- `801` Yishun Int ⟲ Blk 467C
+- `811` Yishun Int ⟲ Opp Blk 245
+- `811T` Yishun Int ⟲ Opp Blk 245
+- `913T` Woodlands Int → Woodlands Int
+
+## First/last timings changed
+
+Affected services: `72`, `127`, `182`, `192`, `502`, `974`, `174e`, `502A`, `974A`, `182M`, `913T`
+
 # 1 February 2022
 
 ## Stops count change: 5067 ⮕ 5069
