@@ -9416,7 +9416,7 @@
 	},
 	{
 		"BusStopCode": "25801",
-		"RoadName": "Tuas Sth Ave 9",
+		"RoadName": "Tuas Sth Ave 10",
 		"Description": "BEF TUAS STH AVE 7",
 		"Latitude": 1.28451,
 		"Longitude": 103.634186
@@ -15204,6 +15204,20 @@
 		"Longitude": 103.7730945
 	},
 	{
+		"BusStopCode": "44941",
+		"RoadName": "KJE",
+		"Description": "OPP BLK 502",
+		"Latitude": 1.388198,
+		"Longitude": 103.744284
+	},
+	{
+		"BusStopCode": "44949",
+		"RoadName": "KJE",
+		"Description": "AFT BLK 503",
+		"Latitude": 1.388429,
+		"Longitude": 103.742903
+	},
+	{
 		"BusStopCode": "44989",
 		"RoadName": "Jln Gali Batu",
 		"Description": "Gali Batu Ter",
@@ -18874,7 +18888,7 @@
 	{
 		"BusStopCode": "52231",
 		"RoadName": "Toa Payoh Ctrl",
-		"Description": "Opp Blk 177",
+		"Description": "Blk 79C",
 		"Latitude": 1.3343049899737,
 		"Longitude": 103.8487842386021
 	},
@@ -28826,11 +28840,18 @@
 		"Longitude": 103.92978611099927
 	},
 	{
-		"BusStopCode": "74049",
-		"RoadName": "Tampines Link",
-		"Description": "Golden Pagoda Tp",
-		"Latitude": 1.36851139242556,
-		"Longitude": 103.93012376046164
+		"BusStopCode": "74051",
+		"RoadName": "Tampines Rd",
+		"Description": "Tampines Dormitory",
+		"Latitude": 1.366363,
+		"Longitude": 103.929336
+	},
+	{
+		"BusStopCode": "74059",
+		"RoadName": "Tampines Rd",
+		"Description": "Opp Tampines Dormitory",
+		"Latitude": 1.366122,
+		"Longitude": 103.929222
 	},
 	{
 		"BusStopCode": "75009",
@@ -34715,7 +34736,7 @@
 	{
 		"BusStopCode": "96479",
 		"RoadName": "Aviation Pk Rd",
-		"Description": "Aft Changi Roads",
+		"Description": "Aft Changi Coast Rd",
 		"Latitude": 1.367858,
 		"Longitude": 104.010442
 	},
