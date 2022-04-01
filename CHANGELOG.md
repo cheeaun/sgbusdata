@@ -1,3 +1,71 @@
+# 1 April 2022
+
+## Stops count change: 5072 ⮕ 5073
+
+### Stops added: 2
+
+- `66601` Blk 991A
+- `66609` Opp Blk 991A
+
+### Stops removed: 1
+
+- `46239` Larkin Ter
+
+### Stop names changed: 5
+
+- `11091` Tulip Gdn ⮕ Leedon Green
+- `11099` Opp Tulip Gdn ⮕ Opp Leedon Green
+- `40111` City Twrs ⮕ Ferrell Residences
+- `74031` Aft Jln Sam Kong Si ⮕ Bef Tampines Lk
+- `74039` Bef Jln Sam Kong Si ⮕ Aft Tampines Ind Ave 2
+
+### Stop locations changed: 19
+
+- `10349` 103.82104,1.28498 ⮕ 103.82115,1.28519
+- `11221` 103.80544,1.31002 ⮕ 103.80551,1.31002
+- `22591` 103.70359,1.34297 ⮕ 103.70289,1.34476
+- `40181` 103.83798,1.31244 ⮕ 103.8383,1.31264
+- `50081` 103.85025,1.31663 ⮕ 103.85048,1.31634
+- `53151` 103.84134,1.35951 ⮕ 103.84111,1.358
+- `53159` 103.84174,1.35969 ⮕ 103.84127,1.35861
+- `53179` 103.83582,1.35304 ⮕ 103.83584,1.35304
+- `54289` 103.8559,1.3692 ⮕ 103.85599,1.36915
+- `62171` 103.87462,1.34826 ⮕ 103.87464,1.34821
+- `62179` 103.87483,1.34865 ⮕ 103.87483,1.34856
+- `65621` 103.90248,1.41608 ⮕ 103.90274,1.41628
+- `74031` 103.92649,1.36753 ⮕ 103.9257,1.36763
+- `74039` 103.92618,1.36735 ⮕ 103.92591,1.36708
+- `76511` 103.93943,1.35941 ⮕ 103.93939,1.35914
+- `76529` 103.94051,1.35753 ⮕ 103.9406,1.35741
+- `77199` 103.94567,1.37708 ⮕ 103.94637,1.37667
+- `78109` 103.95388,1.37533 ⮕ 103.95456,1.3754
+- `98109` 103.96586,1.36691 ⮕ 103.96584,1.36694
+
+## Services count change: 553 ⮕ 552
+
+### Services removed: 1
+
+- `170` Queen St Ter ⇄ Larkin Ter
+
+### Bus Stop Changes To Routes: 5
+
+- `18` Tampines Concourse Int ⟲ Bedok Int: -1
+- `101` S'Goon Int ⟲ Outside Blk 991B: +1
+- `114` Buangkok Stn Exit B → Buangkok Stn Exit A: +1
+- `329` Hougang Ctrl Int ⟲ Opp Blk 991A: +1
+- `170A` Queen St Ter ⇄ W'Lands Train Checkpt: +61
+
+## Routes changed: 4
+
+- `72` Yio Chu Kang Int ⇄ Tampines Int
+- `127` Tampines Int ⟲ Opp Siltronic
+- `170A` Queen St Ter ⇄ W'Lands Train Checkpt
+- `913T` Woodlands Int → Woodlands Int
+
+## First/last timings changed
+
+Affected services: `170`, `18`, `100`, `101`, `114`, `329`, `502`, `502A`, `170A`
+
 # 1 March 2022
 
 ## Stops count change: 5069 ⮕ 5072

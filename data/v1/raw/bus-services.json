@@ -2145,21 +2145,11 @@
 		]
 	},
 	{
-		"number": 170,
-		"type": "TRUNK",
-		"kmlFile": [
-			"170-1.kml",
-			"170-2.kml"
-		],
-		"routeFile": [
-			"170.xml"
-		]
-	},
-	{
 		"number": "170A",
 		"type": "TRUNK",
 		"kmlFile": [
-			"170A-1.kml"
+			"170A-1.kml",
+			"170A-2.kml"
 		],
 		"routeFile": [
 			"170A.xml"

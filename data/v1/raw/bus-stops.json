@@ -10183,8 +10183,8 @@
 		"wab": "true",
 		"details": "Blk 116",
 		"coordinates": {
-			"lat": 1.2849833405097,
-			"long": 103.82104149555396
+			"lat": 1.285191,
+			"long": 103.82115
 		}
 	},
 	{
@@ -10640,7 +10640,7 @@
 	{
 		"name": "11091",
 		"wab": "true",
-		"details": "Tulip Gdn",
+		"details": "Leedon Green",
 		"coordinates": {
 			"lat": 1.31219444050072,
 			"long": 103.80367378215983
@@ -10649,7 +10649,7 @@
 	{
 		"name": "11099",
 		"wab": "true",
-		"details": "Opp Tulip Gdn",
+		"details": "Opp Leedon Green",
 		"coordinates": {
 			"lat": 1.31305333300118,
 			"long": 103.80437666697586
@@ -10858,8 +10858,8 @@
 		"wab": "true",
 		"details": "Lien Twrs",
 		"coordinates": {
-			"lat": 1.31002225322358,
-			"long": 103.80544413357042
+			"lat": 1.310019,
+			"long": 103.805506
 		}
 	},
 	{
@@ -17185,8 +17185,8 @@
 		"wab": "true",
 		"details": "Blk 670A",
 		"coordinates": {
-			"lat": 1.342967,
-			"long": 103.703592
+			"lat": 1.3447589,
+			"long": 103.70289
 		}
 	},
 	{
@@ -17194,8 +17194,8 @@
 		"wab": "true",
 		"details": "Blk 678D",
 		"coordinates": {
-			"lat": 1.344361,
-			"long": 103.703451
+			"lat": 1.3443608,
+			"long": 103.7034508
 		}
 	},
 	{
@@ -23150,7 +23150,7 @@
 	{
 		"name": "40111",
 		"wab": "true",
-		"details": "City Twrs",
+		"details": "Ferrell Residences",
 		"coordinates": {
 			"lat": 1.31806499998598,
 			"long": 103.83262555597635
@@ -23206,8 +23206,8 @@
 		"wab": "false",
 		"details": "Newton Stn Exit A",
 		"coordinates": {
-			"lat": 1.31243561231028,
-			"long": 103.83798341278676
+			"lat": 1.312641,
+			"long": 103.838298
 		}
 	},
 	{
@@ -23338,7 +23338,7 @@
 	},
 	{
 		"name": "40261",
-		"wab": "false",
+		"wab": "true",
 		"details": "LP 52",
 		"coordinates": {
 			"lat": 1.34130384192273,
@@ -28386,15 +28386,6 @@
 		}
 	},
 	{
-		"name": "46239",
-		"wab": "false",
-		"details": "Larkin Ter",
-		"coordinates": {
-			"lat": 1.49390379286364,
-			"long": 103.74403292148666
-		}
-	},
-	{
 		"name": "46241",
 		"wab": "true",
 		"details": "Opp Blk 15",
@@ -31000,8 +30991,8 @@
 		"wab": "true",
 		"details": "Pek Kio Mkt",
 		"coordinates": {
-			"lat": 1.31663163574561,
-			"long": 103.85024851239793
+			"lat": 1.31634,
+			"long": 103.850484
 		}
 	},
 	{
@@ -32557,8 +32548,8 @@
 		"wab": "true",
 		"details": "Opp Blk 263A CP",
 		"coordinates": {
-			"lat": 1.3595063466985,
-			"long": 103.84134061287276
+			"lat": 1.357995,
+			"long": 103.841113
 		}
 	},
 	{
@@ -32566,8 +32557,8 @@
 		"wab": "true",
 		"details": "Blk 260",
 		"coordinates": {
-			"lat": 1.35968664141033,
-			"long": 103.84173532084301
+			"lat": 1.358612,
+			"long": 103.841265
 		}
 	},
 	{
@@ -32602,8 +32593,8 @@
 		"wab": "true",
 		"details": "Sin Ming Plaza",
 		"coordinates": {
-			"lat": 1.3530396337334,
-			"long": 103.83582310695057
+			"lat": 1.353043,
+			"long": 103.835842
 		}
 	},
 	{
@@ -33430,8 +33421,8 @@
 		"wab": "true",
 		"details": "Blk 452",
 		"coordinates": {
-			"lat": 1.369199,
-			"long": 103.855901
+			"lat": 1.369149,
+			"long": 103.855987
 		}
 	},
 	{
@@ -38173,8 +38164,8 @@
 		"wab": "true",
 		"details": "Blk 409",
 		"coordinates": {
-			"lat": 1.34826139600257,
-			"long": 103.87462371780227
+			"lat": 1.348208,
+			"long": 103.874638
 		}
 	},
 	{
@@ -38182,8 +38173,8 @@
 		"wab": "true",
 		"details": "Blk 421",
 		"coordinates": {
-			"lat": 1.34864500235611,
-			"long": 103.8748318800615
+			"lat": 1.348559,
+			"long": 103.874826
 		}
 	},
 	{
@@ -40774,8 +40765,8 @@
 		"wab": "true",
 		"details": "Samudera Stn Exit B",
 		"coordinates": {
-			"lat": 1.41608373162688,
-			"long": 103.90248324948615
+			"lat": 1.416279,
+			"long": 103.902739
 		}
 	},
 	{
@@ -41766,6 +41757,24 @@
 		"coordinates": {
 			"lat": 1.37284849802167,
 			"long": 103.868436813377
+		}
+	},
+	{
+		"name": "66601",
+		"wab": "true",
+		"details": "Blk 991A",
+		"coordinates": {
+			"lat": 1.38486,
+			"long": 103.882346
+		}
+	},
+	{
+		"name": "66609",
+		"wab": "true",
+		"details": "Opp Blk 991A",
+		"coordinates": {
+			"lat": 1.385071,
+			"long": 103.882087
 		}
 	},
 	{
@@ -44624,19 +44633,19 @@
 	{
 		"name": "74031",
 		"wab": "true",
-		"details": "Aft Jln Sam Kong Si",
+		"details": "Bef Tampines Lk",
 		"coordinates": {
-			"lat": 1.36753470077913,
-			"long": 103.92648611289407
+			"lat": 1.367627,
+			"long": 103.925697
 		}
 	},
 	{
 		"name": "74039",
 		"wab": "true",
-		"details": "Bef Jln Sam Kong Si",
+		"details": "Aft Tampines Ind Ave 2",
 		"coordinates": {
-			"lat": 1.36735308717402,
-			"long": 103.92618181390851
+			"lat": 1.367076,
+			"long": 103.925908
 		}
 	},
 	{
@@ -46109,10 +46118,10 @@
 	{
 		"name": "76511",
 		"wab": "true",
-		"details": "THE TAMPINES TRILLIANT",
+		"details": "The Tampines Trilliant",
 		"coordinates": {
-			"lat": 1.35940728864246,
-			"long": 103.93942626783013
+			"lat": 1.359138,
+			"long": 103.939389
 		}
 	},
 	{
@@ -46138,8 +46147,8 @@
 		"wab": "true",
 		"details": "BLK 519A",
 		"coordinates": {
-			"lat": 1.357528889,
-			"long": 103.9405089
+			"lat": 1.35741,
+			"long": 103.940604
 		}
 	},
 	{
@@ -46489,8 +46498,8 @@
 		"wab": "true",
 		"details": "Opp Blk 500A",
 		"coordinates": {
-			"lat": 1.37707803132455,
-			"long": 103.94566567184114
+			"lat": 1.376671,
+			"long": 103.94637
 		}
 	},
 	{
@@ -46930,8 +46939,8 @@
 		"wab": "true",
 		"details": "Downtown East",
 		"coordinates": {
-			"lat": 1.37533322687905,
-			"long": 103.95388142049359
+			"lat": 1.375403,
+			"long": 103.954556
 		}
 	},
 	{
@@ -52762,8 +52771,8 @@
 		"wab": "true",
 		"details": "Opp Loyang Pt",
 		"coordinates": {
-			"lat": 1.36691496085079,
-			"long": 103.96586134149551
+			"lat": 1.366943,
+			"long": 103.965843
 		}
 	},
 	{

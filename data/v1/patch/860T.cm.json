@@ -464,7 +464,7 @@
 				103.818213
 			],
 			"live_code": "SingaporeStop_BefSle_N",
-			"name": "Bef SLE",
+			"name": "Bef Sle",
 			"routes": [
 				"SBSTBuses138",
 				"SBSTBuses138A",
@@ -598,7 +598,7 @@
 				103.845231
 			],
 			"live_code": "SingaporeStop_Blk342B_NW",
-			"name": "Blk 342B",
+			"name": "Blk 342b",
 			"routes": [
 				"SBSTBuses1N",
 				"TTSBuses663",
@@ -754,7 +754,7 @@
 				103.842714
 			],
 			"live_code": "SingaporeStop_Blk672C_NE",
-			"name": "Blk 672C",
+			"name": "Blk 672c",
 			"routes": [
 				"SBSTBuses807",
 				"SBSTBuses850E",
@@ -878,7 +878,7 @@
 				103.821923
 			],
 			"live_code": "SingaporeStop_NeeSoonHq22Sib_N",
-			"name": "Nee Soon HQ 22 SIB",
+			"name": "Nee Soon Hq 22 Sib",
 			"routes": [
 				"TTSBuses167",
 				"TTSBuses169",
