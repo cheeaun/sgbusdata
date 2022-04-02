@@ -62,10 +62,6 @@
 			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
-			"fileName": "913T-1.kml",
-			"e": "HTTPError: Response code 404 (Not Found)"
-		},
-		{
 			"fileName": "975C-1.kml",
 			"e": "HTTPError: Response code 403 (Forbidden)"
 		}
