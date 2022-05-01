@@ -449,6 +449,17 @@
 		]
 	},
 	{
+		"number": 722,
+		"description": "Senja Road to Cecil Street",
+		"type": "PREMIUM",
+		"kmlFile": [
+			"722-1.kml"
+		],
+		"routeFile": [
+			"722.xml"
+		]
+	},
+	{
 		"number": 723,
 		"description": "Buangkok Green -  Upper Cross Street",
 		"type": "PREMIUM",
@@ -658,7 +669,7 @@
 	},
 	{
 		"number": "-S42",
-		"description": "Safari HIPPOtours - Suntec City to Singapore Zoo & Night Safari Tourist Bus Service",
+		"description": "Safari HIPPOtours - Suntec City to Singapore Zoo and Night Safari Tourist Bus Service",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S42-1.kml"
@@ -1211,6 +1222,16 @@
 		],
 		"routeFile": [
 			"114.xml"
+		]
+	},
+	{
+		"number": "114A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"114A-1.kml"
+		],
+		"routeFile": [
+			"114A.xml"
 		]
 	},
 	{
@@ -2145,25 +2166,14 @@
 		]
 	},
 	{
-		"number": "170A",
+		"number": 170,
 		"type": "TRUNK",
 		"kmlFile": [
-			"170A-1.kml",
-			"170A-2.kml"
+			"170-1.kml",
+			"170-2.kml"
 		],
 		"routeFile": [
-			"170A.xml"
-		]
-	},
-	{
-		"number": "170X",
-		"type": "TRUNK",
-		"kmlFile": [
-			"170X-1.kml",
-			"170X-2.kml"
-		],
-		"routeFile": [
-			"170X.xml"
+			"170.xml"
 		]
 	},
 	{
@@ -3985,7 +3995,7 @@
 		"number": "410G",
 		"type": "TRUNK",
 		"kmlFile": [
-			"410G-1.kml"
+			"410G-2.kml"
 		],
 		"routeFile": [
 			"410G.xml"
@@ -6066,17 +6076,6 @@
 		],
 		"routeFile": [
 			"970.xml"
-		]
-	},
-	{
-		"number": 971,
-		"type": "TRUNK",
-		"kmlFile": [
-			"971-1.kml",
-			"971-2.kml"
-		],
-		"routeFile": [
-			"971.xml"
 		]
 	},
 	{
