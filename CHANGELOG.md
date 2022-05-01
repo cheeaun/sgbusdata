@@ -1,3 +1,103 @@
+# 1 May 2022
+
+## Stops count change: 5073 ⮕ 5076
+
+### Stops added: 4
+
+- `44931` Opp Blk 650
+- `44951` Blk 638A
+- `44959` Blk 643A
+- `46239` Larkin Ter
+
+### Stops removed: 1
+
+- `44729` Jelapang Stn
+
+### Stop names changed: 10
+
+- `13041` Aft Rochalie Dr ⮕ Aft Camp Rd
+- `18241` Opp Dnv Gl Technology Ctr ⮕ Opp Dnv Technology Ctr
+- `18249` Dnv Gl Technology Ctr ⮕ DNV Technology Ctr
+- `20179` Aft Teban Gdns Rd ⮕ Blk 31
+- `20201` Teban Gdn PO ⮕ Blk 39
+- `44499` Blk 429A CP ⮕ Blk 429A Cp
+- `50037` Novena Stn Exit B ⮕ Bef Novena Stn Exit B
+- `56021` Opp Sembawang Hills Fc ⮕ Opp Sembawang Hills FC
+- `06131` The Boys' Brigade HQ ⮕ Aft Blk 87
+- `09037` Opp Mandarin Orchard ⮕ Bef Cairnhill Rd
+
+### Stop locations changed: 32
+
+- `13011` 103.81923,1.30652 ⮕ 103.81932,1.3065
+- `14051` 103.81508,1.27582 ⮕ 103.81516,1.27585
+- `14059` 103.81514,1.27537 ⮕ 103.81561,1.27603
+- `14249` 103.81733,1.27947 ⮕ 103.8173,1.27927
+- `14329` 103.80945,1.27435 ⮕ 103.80943,1.27455
+- `21481` 103.71209,1.326 ⮕ 103.71193,1.32595
+- `21489` 103.71265,1.32628 ⮕ 103.7122,1.32616
+- `44301` 103.77391,1.37751 ⮕ 103.77383,1.3774
+- `44499` 103.74089,1.3832 ⮕ 103.74097,1.38321
+- `45231` 103.74229,1.38463 ⮕ 103.74231,1.38458
+- `45299` 103.74515,1.39145 ⮕ 103.74512,1.39162
+- `50029` 103.84475,1.31677 ⮕ 103.84466,1.3168
+- `54051` 103.84464,1.37644 ⮕ 103.84496,1.37656
+- `54429` 103.85819,1.37035 ⮕ 103.85818,1.37034
+- `56019` 103.82863,1.3695 ⮕ 103.82862,1.36949
+- `56021` 103.82843,1.37243 ⮕ 103.82843,1.37267
+- `56061` 103.82287,1.38515 ⮕ 103.82284,1.3852
+- `56261` 103.83173,1.36786 ⮕ 103.83172,1.36786
+- `58019` 103.82473,1.44085 ⮕ 103.82472,1.44085
+- `58031` 103.74384,1.33268 ⮕ 103.82505,1.44629
+- `58039` 103.82506,1.44627 ⮕ 103.8258,1.44674
+- `60211` 103.8705,1.32855 ⮕ 103.87047,1.32845
+- `63141` 103.87491,1.35405 ⮕ 103.87493,1.35402
+- `63319` 103.87815,1.36922 ⮕ 103.87812,1.36923
+- `64369` 103.89149,1.37634 ⮕ 103.8911,1.3763
+- `78101` 103.95405,1.37507 ⮕ 103.95404,1.37505
+- `78141` 103.96367,1.37006 ⮕ 103.96367,1.37007
+- `80151` 103.85791,1.29641 ⮕ 103.85767,1.29627
+- `84211` 103.93444,1.33005 ⮕ 103.93447,1.33012
+- `01629` 103.85687,1.29696 ⮕ 103.85689,1.29709
+- `05269` 103.8446,1.28098 ⮕ 103.84457,1.28089
+- `09139` 103.82355,1.3042 ⮕ 103.82359,1.30353
+
+## Services count change: 552 ⮕ 550
+
+### Services added: 1
+
+- `170` Queen St Ter ⇄ Larkin Ter
+
+### Services removed: 3
+
+- `971` Blk 602 / Blk 541A CP ⇄ Prudential Twr / Tanjong Pagar Stn Exit C
+- `170A` Queen St Ter ⇄ W'Lands Train Checkpt
+- `170X` Opp Kranji Stn / Kranji Stn ⇄ JB Sentral Bus Ter
+
+### Bus Stop Changes To Routes: 7
+
+- `976` Choa Chu Kang Int ⇄ Bt Panjang Int: +1, -2
+- `23` Tampines Int ⟲ Jln Besar Stn Exit A: +1
+- `67` Choa Chu Kang Int ⇄ Tampines Int: +1
+- `856` Yishun Int ⇄ Woodlands Int: 
+- `920` Bt Panjang Int ⟲ Opp Blk 271: +4, -2
+- `972` Bt Panjang Int ⟲ YMCA: +2, -1
+- `972M` Bt Panjang Int ⟲ YMCA: +12, -3
+
+## Routes changed: 8
+
+- `67` Choa Chu Kang Int ⇄ Tampines Int
+- `920` Bt Panjang Int ⟲ Opp Blk 271
+- `972` Bt Panjang Int ⟲ YMCA
+- `976` Choa Chu Kang Int ⇄ Bt Panjang Int
+- `410G` Bishan Int ⟲ Upp Thomson Stn Exit 5
+- `860T` Yio Chu Kang Int → Yishun Int
+- `972M` Bt Panjang Int ⟲ YMCA
+- `170` Queen St Ter ⇄ Larkin Ter
+
+## First/last timings changed
+
+Affected services: `170X`, `170A`, `971`, `23`, `49`, `52`, `66`, `67`, `76`, `77`, `78`, `79`, `92`, `97`, `98`, `130`, `132`, `162`, `163`, `165`, `166`, `173`, `183`, `189`, `268`, `285`, `333`, `668`, `856`, `920`, `941`, `972`, `976`, `CT8`, `98M`, `972M`, `162M`, `410G`, `268C`, `268A`, `268B`, `163A`, `170`, `114A`
+
 # 1 April 2022
 
 ## Stops count change: 5072 ⮕ 5073

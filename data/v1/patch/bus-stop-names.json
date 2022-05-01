@@ -285,16 +285,6 @@
 		"newName": "Aft Tukang Innovation Dr"
 	},
 	{
-		"number": "21481",
-		"name": "GRUNDFOS",
-		"newName": "Grundfos"
-	},
-	{
-		"number": "21489",
-		"name": "OPP GRUNDFOS",
-		"newName": "Opp Grundfos"
-	},
-	{
 		"number": "21619",
 		"name": "AFT CORP RD",
 		"newName": "Aft Corp Rd"
@@ -1623,6 +1613,11 @@
 		"number": "84201",
 		"name": "BEDOK RESVR STN EXIT A",
 		"newName": "Bedok Resvr Stn Exit A"
+	},
+	{
+		"number": "84211",
+		"name": "BLK 403",
+		"newName": "Blk 403"
 	},
 	{
 		"number": "84451",
