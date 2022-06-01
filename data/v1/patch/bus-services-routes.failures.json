@@ -34,10 +34,6 @@
 			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
-			"fileName": "410G-2.kml",
-			"e": "HTTPError: Response code 404 (Not Found)"
-		},
-		{
 			"fileName": "60T-1.kml",
 			"e": "HTTPError: Response code 403 (Forbidden)"
 		},

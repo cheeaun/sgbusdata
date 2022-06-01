@@ -1,3 +1,105 @@
+# 1 June 2022
+
+## Stops count change: 5076 ⮕ 5082
+
+### Stops added: 6
+
+- `67091` Opp Blk 459B
+- `67099` Blk 459B
+- `67631` Blk 441D
+- `67639` Blk 436A
+- `67991` Opp Blk 461B
+- `67999` Blk 461B
+
+### Stop names changed: 59
+
+- `11489` Opp Queenstown Lib ⮕ Blk 30
+- `13201` British High Comm ⮕ British High Commission
+- `13209` Opp British High Comm ⮕ Opp British High Comsn
+- `17361` Opp West Coast Link ⮕ Opp West Coast Lk
+- `17369` Aft West Coast Link ⮕ Aft West Coast Lk
+- `20179` Blk 31 ⮕ Aft Teban Gdns Rd
+- `21491` Bef Boon Lay Way ⮕ Bef Intl Rd
+- `21511` Bef Chin Bee Rd ⮕ Opp Amoy Canning
+- `21519` Aft Chin Bee Rd ⮕ Amoy Canning
+- `21529` Opp Grandluxe ⮕ Aft Third Chin Bee Rd
+- `21541` Aft Fourth Chin Bee Rd ⮕ Jurong Futsal Ctr
+- `25059` After Tuas Sth Blvd ⮕ Aft Tuas Sth Blvd
+- `25321` YCH Distripark ⮕ YCH Distripk
+- `27071` Nanyang Crescent Hall ⮕ Nanyang Cres Halls
+- `27231` Sch Of Comm And Info ⮕ Wee Kim Wee Sch of C&I
+- `28181` Bef Toh Tuck Link ⮕ Bef Toh Tuck Lk
+- `28189` Aft Toh Tuck Link ⮕ Aft Toh Tuck Lk
+- `30041` Opp Home Team Academy ⮕ Opp Home Team Acad
+- `30049` Home Team Academy ⮕ Home Team Acad
+- `31031` Civil Defence Academy ⮕ Civil Defence Acad
+- `31039` Opp Civil Defence Academy ⮕ Opp Civil Defence Acad
+- `40369` Opp Blk 438A ⮕ Blk 464A
+- `44519` Blk 402 ⮕ Blk 408
+- `44859` Opp Bt Panjang Stn ⮕ Maysprings Condo
+- `45381` Blk 675A (LP 25) ⮕ Blk 673A
+- `46981` W'lands Sth Stn Exit 2 ⮕ Blk 541
+- `46989` W'lands Sth Stn Exit 1 ⮕ Opp Blk 540
+- `48081` Opp Upp Seletar Reservoir ⮕ Opp Upp Seletar Resvr
+- `48089` Upp Seletar Reservoir ⮕ Upp Seletar Resvr
+- `51021` Old Police Academy ⮕ Old Police Acad
+- `51029` Opp Old Police Academy ⮕ Opp Old Police Acad
+- `51071` Macritchie Reservoir ⮕ MacRitchie Resvr
+- `51079` Opp Macritchie Reservoir ⮕ Opp MacRitchie Resvr
+- `51109` Opp Old Police Academy ⮕ Opp Old Police Acad
+- `52011` Bef Bishan Rd ⮕ Opp Raffles Girls' Sch
+- `52019` Aft Bishan Rd ⮕ Raffles Girls' Sch
+- `52061` BCA Academy ⮕ BCA Acad
+- `58181` Sembawang Drug Rehab Ctr ⮕ Police Drv Circuit
+- `58189` Opp Sembawang Drug Rehab Ctr ⮕ Opp Police Drv Circuit
+- `58581` Gambas Ave ⮕ Bef Gambas Cres
+- `58589` Gambas Ave ⮕ Opp Gambas Cres
+- `61111` Blk 107A ⮕ Blk 114B
+- `64191` Aft TPE ⮕ Aft Goldhill Memorial Ctr
+- `64199` Bef TPE ⮕ Bef Goldhill Memorial Ctr
+- `64259` Blk 925A ⮕ Blk 925A CP
+- `64381` Opp Blk 521 ⮕ Hougang Stn Exit C
+- `65209` Aft Punggol Rd ⮕ Blk 201A
+- `65439` Aft TPE ⮕ Blk 220C
+- `65641` Marina Country Club (MCC) ⮕ Marina Country Club
+- `67721` Aft Punggol Rd ⮕ The Rivervale
+- `67729` Bef Punggol Rd ⮕ Opp The Rivervale
+- `68189` Aft Jtc Aerospace ⮕ Bef Seletar A'Space Cres
+- `73029` Opp LP 223R10 ⮕ Aft Tampines Ind Dr
+- `77339` Aft TPE ⮕ Opp Blk 756
+- `84261` St. Anthony's Cano Sch ⮕ Saint Anthony's Canossian School
+- `96299` Simei Green Condo ⮕ Opp Blk 222
+- `96479` Aft Changi Coast Rd ⮕ After Changi Coast Road
+- `98039` Bef New Loyang Link ⮕ Bef New Loyang Lk
+- `02029` Aft Esplanade Stn Exit D ⮕ Opp S'pore Cricket Club
+
+### Stop locations changed: 1
+
+- `53301` 103.82866,1.37346 ⮕ 103.84592,1.34861
+
+## Services count change: 550 ⮕ 552
+
+### Services added: 2
+
+- `114A` Buangkok Stn Exit B → Blk 998B
+- `170X` Opp Kranji Stn / Kranji Stn ⇄ JB Sentral Bus Ter
+
+### Bus Stop Changes To Routes: 1
+
+- `102` Hougang Ctrl Int ⟲ Seletar Airport: +10, -2
+
+## Routes changed: 5
+
+- `856` Yishun Int ⇄ Woodlands Int
+- `410G` Bishan Int ⟲ Upp Thomson Stn Exit 5
+- `860T` Yio Chu Kang Int → Yishun Int
+- `114A` Buangkok Stn Exit B → Blk 998B
+- `170X` Opp Kranji Stn / Kranji Stn ⇄ JB Sentral Bus Ter
+
+## First/last timings changed
+
+Affected services: `102`, `381`, `16M`, `170X`
+
 # 1 May 2022
 
 ## Stops count change: 5073 ⮕ 5076
