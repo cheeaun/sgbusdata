@@ -4214,7 +4214,7 @@
 			"id": "11489",
 			"properties": {
 				"number": "11489",
-				"name": "Opp Queenstown Lib",
+				"name": "Blk 30",
 				"services": [
 					"122",
 					"32"
@@ -6038,7 +6038,7 @@
 			"id": "13201",
 			"properties": {
 				"number": "13201",
-				"name": "British High Comm",
+				"name": "British High Commission",
 				"services": [
 					"111",
 					"132"
@@ -6057,7 +6057,7 @@
 			"id": "13209",
 			"properties": {
 				"number": "13209",
-				"name": "Opp British High Comm",
+				"name": "Opp British High Comsn",
 				"services": [
 					"111",
 					"132"
@@ -11074,7 +11074,7 @@
 			"id": "17361",
 			"properties": {
 				"number": "17361",
-				"name": "Opp West Coast Link",
+				"name": "Opp West Coast Lk",
 				"services": [
 					"176"
 				]
@@ -11092,7 +11092,7 @@
 			"id": "17369",
 			"properties": {
 				"number": "17369",
-				"name": "Aft West Coast Link",
+				"name": "Aft West Coast Lk",
 				"services": [
 					"175",
 					"176"
@@ -13230,7 +13230,7 @@
 			"id": "20179",
 			"properties": {
 				"number": "20179",
-				"name": "Blk 31",
+				"name": "Aft Teban Gdns Rd",
 				"services": [
 					"143",
 					"143M",
@@ -15533,7 +15533,7 @@
 			"id": "21491",
 			"properties": {
 				"number": "21491",
-				"name": "Bef Boon Lay Way",
+				"name": "Bef Intl Rd",
 				"services": [
 					"246"
 				]
@@ -15605,7 +15605,7 @@
 			"id": "21511",
 			"properties": {
 				"number": "21511",
-				"name": "Bef Chin Bee Rd",
+				"name": "Opp Amoy Canning",
 				"services": [
 					"79",
 					"79A"
@@ -15624,7 +15624,7 @@
 			"id": "21519",
 			"properties": {
 				"number": "21519",
-				"name": "Aft Chin Bee Rd",
+				"name": "Amoy Canning",
 				"services": [
 					"79"
 				]
@@ -15661,7 +15661,7 @@
 			"id": "21529",
 			"properties": {
 				"number": "21529",
-				"name": "Opp Grandluxe",
+				"name": "Aft Third Chin Bee Rd",
 				"services": [
 					"79"
 				]
@@ -15716,7 +15716,7 @@
 			"id": "21541",
 			"properties": {
 				"number": "21541",
-				"name": "Aft Fourth Chin Bee Rd",
+				"name": "Jurong Futsal Ctr",
 				"services": [
 					"79",
 					"79A"
@@ -21554,7 +21554,7 @@
 			"id": "25059",
 			"properties": {
 				"number": "25059",
-				"name": "After Tuas Sth Blvd",
+				"name": "Aft Tuas Sth Blvd",
 				"services": [
 					"248M"
 				]
@@ -22138,7 +22138,7 @@
 			"id": "25321",
 			"properties": {
 				"number": "25321",
-				"name": "YCH Distripark",
+				"name": "YCH Distripk",
 				"services": [
 					"193"
 				]
@@ -24745,7 +24745,7 @@
 			"id": "27071",
 			"properties": {
 				"number": "27071",
-				"name": "Nanyang Crescent Hall",
+				"name": "Nanyang Cres Halls",
 				"services": [
 					"199"
 				]
@@ -25169,7 +25169,7 @@
 			"id": "27231",
 			"properties": {
 				"number": "27231",
-				"name": "Sch Of Comm And Info",
+				"name": "Wee Kim Wee Sch of C&I",
 				"services": [
 					"179",
 					"179A"
@@ -26679,7 +26679,7 @@
 			"id": "28181",
 			"properties": {
 				"number": "28181",
-				"name": "Bef Toh Tuck Link",
+				"name": "Bef Toh Tuck Lk",
 				"services": [
 					"106",
 					"173",
@@ -26701,7 +26701,7 @@
 			"id": "28189",
 			"properties": {
 				"number": "28189",
-				"name": "Aft Toh Tuck Link",
+				"name": "Aft Toh Tuck Lk",
 				"services": [
 					"106",
 					"106A",
@@ -29400,7 +29400,7 @@
 			"id": "30041",
 			"properties": {
 				"number": "30041",
-				"name": "Opp Home Team Academy",
+				"name": "Opp Home Team Acad",
 				"services": [
 					"172",
 					"975"
@@ -29419,7 +29419,7 @@
 			"id": "30049",
 			"properties": {
 				"number": "30049",
-				"name": "Home Team Academy",
+				"name": "Home Team Acad",
 				"services": [
 					"172",
 					"975",
@@ -29766,7 +29766,7 @@
 			"id": "31031",
 			"properties": {
 				"number": "31031",
-				"name": "Civil Defence Academy",
+				"name": "Civil Defence Acad",
 				"services": [
 					"172",
 					"405"
@@ -29785,7 +29785,7 @@
 			"id": "31039",
 			"properties": {
 				"number": "31039",
-				"name": "Opp Civil Defence Academy",
+				"name": "Opp Civil Defence Acad",
 				"services": [
 					"172",
 					"405"
@@ -32309,7 +32309,7 @@
 			"id": "40369",
 			"properties": {
 				"number": "40369",
-				"name": "Opp Blk 438A",
+				"name": "Blk 464A",
 				"services": [
 					"991"
 				]
@@ -39957,7 +39957,7 @@
 			"id": "44519",
 			"properties": {
 				"number": "44519",
-				"name": "Blk 402",
+				"name": "Blk 408",
 				"services": [
 					"975"
 				]
@@ -41054,7 +41054,7 @@
 			"id": "44859",
 			"properties": {
 				"number": "44859",
-				"name": "Opp Bt Panjang Stn",
+				"name": "Maysprings Condo",
 				"services": [
 					"177"
 				]
@@ -42028,6 +42028,7 @@
 				"services": [
 					"160",
 					"170",
+					"170X",
 					"178",
 					"925",
 					"925M",
@@ -42053,6 +42054,7 @@
 				"services": [
 					"160",
 					"170",
+					"170X",
 					"178",
 					"178A",
 					"925",
@@ -42935,7 +42937,7 @@
 			"id": "45381",
 			"properties": {
 				"number": "45381",
-				"name": "Blk 675A (LP 25)",
+				"name": "Blk 673A",
 				"services": [
 					"NR3"
 				]
@@ -43511,7 +43513,8 @@
 				"number": "46021",
 				"name": "Bef W'Lands Ind Pk D St 2",
 				"services": [
-					"170"
+					"170",
+					"170X"
 				]
 			},
 			"geometry": {
@@ -43531,6 +43534,7 @@
 				"services": [
 					"160",
 					"170",
+					"170X",
 					"178",
 					"178A"
 				]
@@ -43550,7 +43554,8 @@
 				"number": "46031",
 				"name": "Kranji Lodge 1",
 				"services": [
-					"170"
+					"170",
+					"170X"
 				]
 			},
 			"geometry": {
@@ -43570,6 +43575,7 @@
 				"services": [
 					"160",
 					"170",
+					"170X",
 					"178",
 					"178A"
 				]
@@ -43589,7 +43595,8 @@
 				"number": "46041",
 				"name": "Opp Globalfoundries",
 				"services": [
-					"170"
+					"170",
+					"170X"
 				]
 			},
 			"geometry": {
@@ -43609,6 +43616,7 @@
 				"services": [
 					"160",
 					"170",
+					"170X",
 					"178",
 					"178A"
 				]
@@ -43628,7 +43636,8 @@
 				"number": "46051",
 				"name": "Bef BKE",
 				"services": [
-					"170"
+					"170",
+					"170X"
 				]
 			},
 			"geometry": {
@@ -43648,6 +43657,7 @@
 				"services": [
 					"160",
 					"170",
+					"170X",
 					"178",
 					"178A"
 				]
@@ -43781,6 +43791,7 @@
 				"services": [
 					"160",
 					"170",
+					"170X",
 					"950"
 				]
 			},
@@ -43801,6 +43812,7 @@
 				"services": [
 					"160",
 					"170",
+					"170X",
 					"950"
 				]
 			},
@@ -44220,6 +44232,7 @@
 				"services": [
 					"160",
 					"170",
+					"170X",
 					"950"
 				]
 			},
@@ -44240,6 +44253,7 @@
 				"services": [
 					"160",
 					"170",
+					"170X",
 					"950"
 				]
 			},
@@ -47017,7 +47031,7 @@
 			"id": "46981",
 			"properties": {
 				"number": "46981",
-				"name": "W'lands Sth Stn Exit 2",
+				"name": "Blk 541",
 				"services": [
 					"665",
 					"901",
@@ -47037,7 +47051,7 @@
 			"id": "46989",
 			"properties": {
 				"number": "46989",
-				"name": "W'lands Sth Stn Exit 1",
+				"name": "Opp Blk 540",
 				"services": [
 					"665",
 					"901",
@@ -48347,6 +48361,7 @@
 				"name": "JB Sentral Bus Ter",
 				"services": [
 					"160",
+					"170X",
 					"950"
 				]
 			},
@@ -48784,7 +48799,7 @@
 			"id": "48081",
 			"properties": {
 				"number": "48081",
-				"name": "Opp Upp Seletar Reservoir",
+				"name": "Opp Upp Seletar Resvr",
 				"services": [
 					"138"
 				]
@@ -48802,7 +48817,7 @@
 			"id": "48089",
 			"properties": {
 				"number": "48089",
-				"name": "Upp Seletar Reservoir",
+				"name": "Upp Seletar Resvr",
 				"services": [
 					"138",
 					"138A"
@@ -50907,7 +50922,7 @@
 			"id": "51021",
 			"properties": {
 				"number": "51021",
-				"name": "Old Police Academy",
+				"name": "Old Police Acad",
 				"services": [
 					"130",
 					"132",
@@ -50935,7 +50950,7 @@
 			"id": "51029",
 			"properties": {
 				"number": "51029",
-				"name": "Opp Old Police Academy",
+				"name": "Opp Old Police Acad",
 				"services": [
 					"130",
 					"132",
@@ -51128,7 +51143,7 @@
 			"id": "51071",
 			"properties": {
 				"number": "51071",
-				"name": "Macritchie Reservoir",
+				"name": "MacRitchie Resvr",
 				"services": [
 					"130",
 					"132",
@@ -51160,7 +51175,7 @@
 			"id": "51079",
 			"properties": {
 				"number": "51079",
-				"name": "Opp Macritchie Reservoir",
+				"name": "Opp MacRitchie Resvr",
 				"services": [
 					"157",
 					"165",
@@ -51302,7 +51317,7 @@
 			"id": "51109",
 			"properties": {
 				"number": "51109",
-				"name": "Opp Old Police Academy",
+				"name": "Opp Old Police Acad",
 				"services": [
 					"132",
 					"156",
@@ -51453,7 +51468,7 @@
 			"id": "52011",
 			"properties": {
 				"number": "52011",
-				"name": "Bef Bishan Rd",
+				"name": "Opp Raffles Girls' Sch",
 				"services": [
 					"156",
 					"157",
@@ -51474,7 +51489,7 @@
 			"id": "52019",
 			"properties": {
 				"number": "52019",
-				"name": "Aft Bishan Rd",
+				"name": "Raffles Girls' Sch",
 				"services": [
 					"156",
 					"157",
@@ -51667,7 +51682,7 @@
 			"id": "52061",
 			"properties": {
 				"number": "52061",
-				"name": "BCA Academy",
+				"name": "BCA Acad",
 				"services": [
 					"105",
 					"129",
@@ -54746,8 +54761,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.828658,
-					1.373456
+					103.845924,
+					1.348611
 				]
 			}
 		},
@@ -61192,7 +61207,7 @@
 			"id": "58181",
 			"properties": {
 				"number": "58181",
-				"name": "Sembawang Drug Rehab Ctr",
+				"name": "Police Drv Circuit",
 				"services": [
 					"169",
 					"169A"
@@ -61211,7 +61226,7 @@
 			"id": "58189",
 			"properties": {
 				"number": "58189",
-				"name": "Opp Sembawang Drug Rehab Ctr",
+				"name": "Opp Police Drv Circuit",
 				"services": [
 					"169"
 				]
@@ -62614,7 +62629,7 @@
 			"id": "58581",
 			"properties": {
 				"number": "58581",
-				"name": "Gambas Ave",
+				"name": "Bef Gambas Cres",
 				"services": [
 					"965",
 					"965A",
@@ -62635,7 +62650,7 @@
 			"id": "58589",
 			"properties": {
 				"number": "58589",
-				"name": "Gambas Ave",
+				"name": "Opp Gambas Cres",
 				"services": [
 					"965",
 					"969"
@@ -67432,7 +67447,7 @@
 			"id": "61111",
 			"properties": {
 				"number": "61111",
-				"name": "Blk 107A",
+				"name": "Blk 114B",
 				"services": [
 					"107",
 					"107M"
@@ -71171,7 +71186,7 @@
 			"id": "64191",
 			"properties": {
 				"number": "64191",
-				"name": "Aft TPE",
+				"name": "Aft Goldhill Memorial Ctr",
 				"services": [
 					"72"
 				]
@@ -71189,7 +71204,7 @@
 			"id": "64199",
 			"properties": {
 				"number": "64199",
-				"name": "Bef TPE",
+				"name": "Bef Goldhill Memorial Ctr",
 				"services": [
 					"72"
 				]
@@ -71435,7 +71450,7 @@
 			"id": "64259",
 			"properties": {
 				"number": "64259",
-				"name": "Blk 925A",
+				"name": "Blk 925A CP",
 				"services": [
 					"660"
 				]
@@ -71798,7 +71813,7 @@
 			"id": "64381",
 			"properties": {
 				"number": "64381",
-				"name": "Opp Blk 521",
+				"name": "Hougang Stn Exit C",
 				"services": [
 					"113",
 					"161",
@@ -73452,7 +73467,7 @@
 			"id": "65209",
 			"properties": {
 				"number": "65209",
-				"name": "Aft Punggol Rd",
+				"name": "Blk 201A",
 				"services": [
 					"62",
 					"666",
@@ -74308,7 +74323,7 @@
 			"id": "65439",
 			"properties": {
 				"number": "65439",
-				"name": "Aft TPE",
+				"name": "Blk 220C",
 				"services": [
 					"117",
 					"117M",
@@ -74909,7 +74924,7 @@
 			"id": "65641",
 			"properties": {
 				"number": "65641",
-				"name": "Marina Country Club (MCC)",
+				"name": "Marina Country Club",
 				"services": [
 					"384"
 				]
@@ -77008,6 +77023,7 @@
 				"name": "Opp Blk 984A",
 				"services": [
 					"114",
+					"114A",
 					"329"
 				]
 			},
@@ -77045,6 +77061,7 @@
 				"name": "Opp Blk 991B",
 				"services": [
 					"114",
+					"114A",
 					"329"
 				]
 			},
@@ -77082,6 +77099,7 @@
 				"name": "Blk 998B",
 				"services": [
 					"114",
+					"114A",
 					"329"
 				]
 			},
@@ -77119,6 +77137,7 @@
 				"name": "Buangkok Sports Pk",
 				"services": [
 					"114",
+					"114A",
 					"329"
 				]
 			},
@@ -77553,6 +77572,42 @@
 				"coordinates": [
 					103.86916019529639,
 					1.39029406445756
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "67091",
+			"properties": {
+				"number": "67091",
+				"name": "Opp Blk 459B",
+				"services": [
+					"102"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869086,
+					1.392881
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "67099",
+			"properties": {
+				"number": "67099",
+				"name": "Blk 459B",
+				"services": [
+					"102"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869287,
+					1.3937
 				]
 			}
 		},
@@ -79214,6 +79269,7 @@
 				"number": "67491",
 				"name": "Opp Fernvale Pr Sch",
 				"services": [
+					"102",
 					"163",
 					"50",
 					"671"
@@ -79234,6 +79290,7 @@
 				"number": "67499",
 				"name": "Fernvale Pr Sch",
 				"services": [
+					"102",
 					"163",
 					"163A",
 					"50",
@@ -79530,7 +79587,6 @@
 				"number": "67571",
 				"name": "Aft Lor Tanggam",
 				"services": [
-					"102",
 					"85",
 					"85A"
 				]
@@ -79550,7 +79606,6 @@
 				"number": "67579",
 				"name": "Bef Jln Kayu",
 				"services": [
-					"102",
 					"85"
 				]
 			},
@@ -79635,6 +79690,7 @@
 				"services": [
 					"102",
 					"114",
+					"114A",
 					"27",
 					"43",
 					"43M",
@@ -79742,6 +79798,7 @@
 				"name": "Blk 557",
 				"services": [
 					"114",
+					"114A",
 					"43",
 					"43M"
 				]
@@ -79751,6 +79808,42 @@
 				"coordinates": [
 					103.89060499842181,
 					1.38027975053648
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "67631",
+			"properties": {
+				"number": "67631",
+				"name": "Blk 441D",
+				"services": [
+					"102"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.87567,
+					1.392329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "67639",
+			"properties": {
+				"number": "67639",
+				"name": "Blk 436A",
+				"services": [
+					"102"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.875914,
+					1.393047
 				]
 			}
 		},
@@ -79958,7 +80051,7 @@
 			"id": "67721",
 			"properties": {
 				"number": "67721",
-				"name": "Aft Punggol Rd",
+				"name": "The Rivervale",
 				"services": [
 					"102"
 				]
@@ -79976,7 +80069,7 @@
 			"id": "67729",
 			"properties": {
 				"number": "67729",
-				"name": "Bef Punggol Rd",
+				"name": "Opp The Rivervale",
 				"services": [
 					"102"
 				]
@@ -80102,11 +80195,48 @@
 		},
 		{
 			"type": "Feature",
+			"id": "67991",
+			"properties": {
+				"number": "67991",
+				"name": "Opp Blk 461B",
+				"services": [
+					"102"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871524,
+					1.395245
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "67999",
+			"properties": {
+				"number": "67999",
+				"name": "Blk 461B",
+				"services": [
+					"102"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871495,
+					1.39506
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "68011",
 			"properties": {
 				"number": "68011",
 				"name": "Bef Jln Kayu",
 				"services": [
+					"102",
 					"103",
 					"50",
 					"671",
@@ -80128,6 +80258,7 @@
 				"number": "68019",
 				"name": "Aft Jln Kayu",
 				"services": [
+					"102",
 					"103",
 					"50",
 					"671",
@@ -80763,7 +80894,7 @@
 			"id": "68189",
 			"properties": {
 				"number": "68189",
-				"name": "Aft Jtc Aerospace",
+				"name": "Bef Seletar A'Space Cres",
 				"services": [
 					"117M"
 				]
@@ -83892,7 +84023,7 @@
 			"id": "73029",
 			"properties": {
 				"number": "73029",
-				"name": "Opp LP 223R10",
+				"name": "Aft Tampines Ind Dr",
 				"services": [
 					"72"
 				]
@@ -89362,7 +89493,7 @@
 			"id": "77339",
 			"properties": {
 				"number": "77339",
-				"name": "Aft TPE",
+				"name": "Opp Blk 756",
 				"services": [
 					"109",
 					"3",
@@ -95688,7 +95819,7 @@
 			"id": "84261",
 			"properties": {
 				"number": "84261",
-				"name": "St. Anthony's Cano Sch",
+				"name": "Saint Anthony's Canossian School",
 				"services": [
 					"17",
 					"17A",
@@ -102757,7 +102888,7 @@
 			"id": "96299",
 			"properties": {
 				"number": "96299",
-				"name": "Simei Green Condo",
+				"name": "Opp Blk 222",
 				"services": [
 					"20",
 					"38"
@@ -103217,7 +103348,7 @@
 			"id": "96479",
 			"properties": {
 				"number": "96479",
-				"name": "Aft Changi Coast Rd",
+				"name": "After Changi Coast Road",
 				"services": [
 					"35"
 				]
@@ -104090,7 +104221,7 @@
 			"id": "98039",
 			"properties": {
 				"number": "98039",
-				"name": "Bef New Loyang Link",
+				"name": "Bef New Loyang Lk",
 				"services": [
 					"109",
 					"19",
@@ -106420,7 +106551,7 @@
 			"id": "02029",
 			"properties": {
 				"number": "02029",
-				"name": "Aft Esplanade Stn Exit D",
+				"name": "Opp S'pore Cricket Club",
 				"services": [
 					"100",
 					"107",

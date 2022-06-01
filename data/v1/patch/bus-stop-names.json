@@ -470,16 +470,6 @@
 		"newName": "Novartis"
 	},
 	{
-		"number": "25661",
-		"name": "BEF TUAS BAY LINK",
-		"newName": "Bef Tuas Bay Lk"
-	},
-	{
-		"number": "25669",
-		"name": "AFT TUAS BAY LINK",
-		"newName": "Aft Tuas Bay Lk"
-	},
-	{
 		"number": "25671",
 		"name": "BEF OFFSHORE MARINE CTR",
 		"newName": "Bef Offshore Marine Ctr"
@@ -890,21 +880,6 @@
 		"newName": "LP 159"
 	},
 	{
-		"number": "49021",
-		"name": "WHYE WAH DEVT & CONSTRN",
-		"newName": "Whye Wah Devt & Constrn"
-	},
-	{
-		"number": "49029",
-		"name": "SIT LEY TIMBER",
-		"newName": "Sit Ley Timber"
-	},
-	{
-		"number": "49099",
-		"name": "AFT KRANJI WATER RECLAMATION PLANT",
-		"newName": "Aft Kranji Wtr Reclam Plt"
-	},
-	{
 		"number": "49171",
 		"name": "OPP SHINGDA CONSTRN",
 		"newName": "Opp Shingda Constrn"
@@ -1013,16 +988,6 @@
 		"number": "54209",
 		"name": "BET BLKS 152/155",
 		"newName": "Bet Blks 152/155"
-	},
-	{
-		"number": "54211",
-		"name": "MAYFLOWER SEC SCH",
-		"newName": "Mayflower Sec Sch"
-	},
-	{
-		"number": "54219",
-		"name": "OPP MAYFLOWER SEC SCH",
-		"newName": "Opp Mayflower Sec Sch"
 	},
 	{
 		"number": "54531",
@@ -1330,11 +1295,6 @@
 		"newName": "Opp Mattar Stn Exit B"
 	},
 	{
-		"number": "70361",
-		"name": "BEF GENTING LK",
-		"newName": "Bef Genting Lk"
-	},
-	{
 		"number": "70401",
 		"name": "BEF UBI RD 4",
 		"newName": "Bef Ubi Rd 4"
@@ -1423,11 +1383,6 @@
 		"number": "72169",
 		"name": "BEF BARTLEY VIADUCT",
 		"newName": "Bef Bartley Viaduct"
-	},
-	{
-		"number": "73021",
-		"name": "LP 223R12",
-		"newName": "Bef Tampines Ind Dr"
 	},
 	{
 		"number": "75021",
@@ -1715,16 +1670,6 @@
 		"newName": "Standard Chartered Bank"
 	},
 	{
-		"number": "96411",
-		"name": "OPP EIGHTRIUM",
-		"newName": "Opp Eightrium"
-	},
-	{
-		"number": "96419",
-		"name": "EIGHTRIUM",
-		"newName": "Eightrium"
-	},
-	{
 		"number": "96421",
 		"name": "OPP CHANGI LODGE 2",
 		"newName": "Opp Changi Lodge 2"
@@ -1768,10 +1713,5 @@
 		"number": "98299",
 		"name": "PARC OLYMPIA",
 		"newName": "Parc Olympia"
-	},
-	{
-		"number": "99079",
-		"name": "OPP OLD PIER ROAD",
-		"newName": "Opp Old Pier Rd"
 	}
 ]

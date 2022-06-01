@@ -1,0 +1,197 @@
+{
+	"feeds": [],
+	"routes": [
+		{
+			"aliases": [
+				"sbs-transit-114a"
+			],
+			"brand": "SBSTBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "SBSTBuses114A",
+			"long_name": "Buangkok Stn Exit B - BLK 998B",
+			"mode": "bus",
+			"name": "114A",
+			"patterns": [
+				{
+					"id": "114A_0",
+					"name": "towards Blk 998b",
+					"path": [
+						[
+							1.383345,
+							103.893268
+						],
+						[
+							1.38028,
+							103.890605
+						],
+						[
+							1.383159,
+							103.882572
+						],
+						[
+							1.381952,
+							103.881758
+						],
+						[
+							1.381992,
+							103.879428
+						],
+						[
+							1.38403,
+							103.880704
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_BuangkokStn_S",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_Blk557_NW",
+							"path_index": 1
+						},
+						{
+							"id": "SingaporeStop_OppBlk991B_S",
+							"path_index": 2
+						},
+						{
+							"id": "SingaporeStop_OppBlk984A_S",
+							"path_index": 3
+						},
+						{
+							"id": "SingaporeStop_BuangkokSportsPk_NE",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_Blk998B_SE",
+							"path_index": 5
+						}
+					]
+				}
+			],
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
+			"ui_color": "#5BC824",
+			"url": "https://citymapper.com/singapore/l/sbs-transit-114a"
+		}
+	],
+	"status": 0,
+	"stops": {
+		"SingaporeStop_Blk557_NW": {
+			"bearing": "W",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.38028,
+				103.890605
+			],
+			"live_code": "SingaporeStop_Blk557_NW",
+			"name": "Blk 557",
+			"routes": [
+				"SBSTBuses114",
+				"SBSTBuses114A",
+				"GASBuses43",
+				"GASBuses43M"
+			],
+			"stop_code": "67629"
+		},
+		"SingaporeStop_Blk998B_SE": {
+			"bearing": "NE",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.38403,
+				103.880704
+			],
+			"live_code": "SingaporeStop_Blk998B_SE",
+			"name": "Blk 998b",
+			"routes": [
+				"SBSTBuses114",
+				"SBSTBuses114A",
+				"SBSTBuses329"
+			],
+			"stop_code": "66579"
+		},
+		"SingaporeStop_BuangkokSportsPk_NE": {
+			"bearing": "NE",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.381992,
+				103.879428
+			],
+			"live_code": "SingaporeStop_BuangkokSportsPk_NE",
+			"name": "Buangkok Sports Pk",
+			"routes": [
+				"SBSTBuses114",
+				"SBSTBuses114A",
+				"SBSTBuses329"
+			],
+			"stop_code": "66589"
+		},
+		"SingaporeStop_BuangkokStn_S": {
+			"bearing": "S",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.383345,
+				103.893268
+			],
+			"live_code": "SingaporeStop_BuangkokStn_S",
+			"name": "Buangkok Stn Exit B",
+			"routes": [
+				"SBSTBuses102",
+				"SBSTBuses114",
+				"SBSTBuses114A",
+				"SBSTBuses27",
+				"GASBuses43",
+				"GASBuses43M",
+				"GASBuses43E"
+			],
+			"stop_code": "67601"
+		},
+		"SingaporeStop_OppBlk984A_S": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.381952,
+				103.881758
+			],
+			"live_code": "SingaporeStop_OppBlk984A_S",
+			"name": "Opp Blk 984a",
+			"routes": [
+				"SBSTBuses114",
+				"SBSTBuses114A",
+				"SBSTBuses329"
+			],
+			"stop_code": "66559"
+		},
+		"SingaporeStop_OppBlk991B_S": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.383159,
+				103.882572
+			],
+			"live_code": "SingaporeStop_OppBlk991B_S",
+			"name": "Opp Blk 991b",
+			"routes": [
+				"SBSTBuses114",
+				"SBSTBuses114A",
+				"SBSTBuses329"
+			],
+			"stop_code": "66569"
+		}
+	}
+}
