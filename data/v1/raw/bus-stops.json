@@ -92,7 +92,7 @@
 	{
 		"name": "-P119",
 		"wab": "true",
-		"details": "Suntec Convention Ctr",
+		"details": "Suntec Convention Centre",
 		"coordinates": {
 			"lat": 1.293177763,
 			"long": 103.8578462
@@ -128,10 +128,10 @@
 	{
 		"name": "-P123",
 		"wab": "true",
-		"details": "Fullerton Sq",
+		"details": "Fullerton Square",
 		"coordinates": {
 			"lat": 1.28561840945474,
-			"long": 103.85342223246427
+			"long": 103.853422232464
 		}
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "-P125",
 		"wab": "true",
-		"details": "Prudential Twr",
+		"details": "Prudential Tower",
 		"coordinates": {
 			"lat": 1.282555246,
 			"long": 103.849989
@@ -209,7 +209,7 @@
 	{
 		"name": "-P132",
 		"wab": "true",
-		"details": "Opp GB Bldg",
+		"details": "Opp GB Building",
 		"coordinates": {
 			"lat": 1.278921246,
 			"long": 103.8477623
@@ -245,7 +245,7 @@
 	{
 		"name": "-P136",
 		"wab": "true",
-		"details": "Tanjong Pagar Stn Exit C",
+		"details": "Tanjong Pagar Station Exit C",
 		"coordinates": {
 			"lat": 1.275703395,
 			"long": 103.8463247
@@ -884,7 +884,7 @@
 	{
 		"name": "-P390",
 		"wab": "true",
-		"details": "Opp Balestier Pt",
+		"details": "Opp Balestier Point",
 		"coordinates": {
 			"lat": 1.323069687,
 			"long": 103.8525671
@@ -923,7 +923,7 @@
 		"details": "Blk 102",
 		"coordinates": {
 			"lat": 1.32830186081857,
-			"long": 103.85082868868597
+			"long": 103.850828688685
 		}
 	},
 	{
@@ -931,8 +931,8 @@
 		"wab": "true",
 		"details": "Blk 105",
 		"coordinates": {
-			"lat": 1.328301,
-			"long": 103.853806
+			"lat": 1.328186667,
+			"long": 103.8539267
 		}
 	},
 	{
@@ -2772,15 +2772,6 @@
 		}
 	},
 	{
-		"name": "-P817",
-		"wab": "true",
-		"details": "Opp Blk 216",
-		"coordinates": {
-			"lat": 1.36906973,
-			"long": 103.960248
-		}
-	},
-	{
 		"name": "-P818",
 		"wab": "true",
 		"details": "Blk 242",
@@ -4109,34 +4100,34 @@
 		"details": "Blk 231A CP",
 		"coordinates": {
 			"lat": 1.37417517709229,
-			"long": 103.96122560227602
+			"long": 103.961225602276
 		}
 	},
 	{
 		"name": "-PB97",
 		"wab": "true",
-		"details": "BLK 256/OPP LOYANG PT",
+		"details": "Blk 256/ Opp Loyang Point",
 		"coordinates": {
 			"lat": 1.36733773244319,
-			"long": 103.96424470880473
+			"long": 103.964244708804
 		}
 	},
 	{
 		"name": "-PB98",
 		"wab": "true",
-		"details": "Aft Jln Mariam",
+		"details": "Aft Jalan Mariam",
 		"coordinates": {
 			"lat": 1.36281875953495,
-			"long": 103.96702623375789
+			"long": 103.967026233757
 		}
 	},
 	{
 		"name": "-PB99",
 		"wab": "true",
-		"details": "Bef Jln Batalong",
+		"details": "Bef Jalan Batalong",
 		"coordinates": {
 			"lat": 1.36163640696695,
-			"long": 103.96414293864342
+			"long": 103.964142938643
 		}
 	},
 	{
@@ -4191,15 +4182,6 @@
 		"coordinates": {
 			"lat": 1.2802,
 			"long": 103.8506
-		}
-	},
-	{
-		"name": "-PC76",
-		"wab": "true",
-		"details": "Chinatown Stn Exit E",
-		"coordinates": {
-			"lat": 1.28531114761754,
-			"long": 103.84455070696784
 		}
 	},
 	{
@@ -4331,10 +4313,10 @@
 	{
 		"name": "-PD50",
 		"wab": "true",
-		"details": "Suntec Twr Two",
+		"details": "Suntec Tower Two",
 		"coordinates": {
 			"lat": 1.29576571603037,
-			"long": 103.85933814632858
+			"long": 103.859338146328
 		}
 	},
 	{
@@ -4342,8 +4324,8 @@
 		"wab": "true",
 		"details": "The Sail",
 		"coordinates": {
-			"lat": 1.28162601329006,
-			"long": 103.85306513725685
+			"lat": 1.28162601,
+			"long": 103.85306514
 		}
 	},
 	{
@@ -4351,8 +4333,8 @@
 		"wab": "true",
 		"details": "Marina Bay Financial Ctr",
 		"coordinates": {
-			"lat": 1.28037660340352,
-			"long": 103.85498006767988
+			"lat": 1.2803766,
+			"long": 103.85498007
 		}
 	},
 	{
@@ -4559,7 +4541,7 @@
 		"details": "Opp The Gateway",
 		"coordinates": {
 			"lat": 1.29919826103807,
-			"long": 103.85864518302436
+			"long": 103.858645183024
 		}
 	},
 	{
@@ -4568,16 +4550,16 @@
 		"details": "Opp Plaza Parkroyal",
 		"coordinates": {
 			"lat": 1.30088304437602,
-			"long": 103.86066098182194
+			"long": 103.860660981821
 		}
 	},
 	{
 		"name": "-PJ19",
 		"wab": "true",
-		"details": "Opp St. John HQ",
+		"details": "Opp Saint John Headquarters",
 		"coordinates": {
 			"lat": 1.30211332865049,
-			"long": 103.86295598167331
+			"long": 103.862955981673
 		}
 	},
 	{
@@ -4605,15 +4587,6 @@
 		"coordinates": {
 			"lat": 1.3506577199911,
 			"long": 103.92956819494434
-		}
-	},
-	{
-		"name": "-PP04",
-		"wab": "true",
-		"details": "Blk 425",
-		"coordinates": {
-			"lat": 1.36936138996292,
-			"long": 103.95506338293471
 		}
 	},
 	{
@@ -4655,10 +4628,10 @@
 	{
 		"name": "-PS14",
 		"wab": "true",
-		"details": "Opp Maritime Hse",
+		"details": "Opp Maritime House",
 		"coordinates": {
 			"lat": 1.27553472200739,
-			"long": 103.84112694400494
+			"long": 103.841126944004
 		}
 	},
 	{
@@ -4682,19 +4655,10 @@
 	{
 		"name": "-PW00",
 		"wab": "true",
-		"details": "Avila Gdns",
+		"details": "Avila Gardens",
 		"coordinates": {
 			"lat": 1.36001388887382,
-			"long": 103.96487611110979
-		}
-	},
-	{
-		"name": "-PW01",
-		"wab": "true",
-		"details": "Bef Mariam Wk",
-		"coordinates": {
-			"lat": 1.35930611110109,
-			"long": 103.96849111110153
+			"long": 103.964876111109
 		}
 	},
 	{
@@ -6248,7 +6212,7 @@
 	{
 		"name": "-Z323",
 		"wab": "true",
-		"details": "Opp Golden Mile Cplx",
+		"details": "Opp Golden Mile Complex",
 		"coordinates": {
 			"lat": 1.303034,
 			"long": 103.864633
@@ -6296,7 +6260,7 @@
 		"details": "Opp Blk 479",
 		"coordinates": {
 			"lat": 1.37568000002841,
-			"long": 103.95796611110238
+			"long": 103.957966111102
 		}
 	},
 	{
@@ -6813,21 +6777,12 @@
 		}
 	},
 	{
-		"name": "-Z453",
-		"wab": "true",
-		"details": "EASB",
-		"coordinates": {
-			"lat": 1.32763988299446,
-			"long": 103.84565118947224
-		}
-	},
-	{
 		"name": "-Z454",
 		"wab": "true",
 		"details": "Opposite Lamp Post 13",
 		"coordinates": {
-			"lat": 1.327597,
-			"long": 103.846324
+			"lat": 1.3281431,
+			"long": 103.8475491
 		}
 	},
 	{
@@ -6880,8 +6835,8 @@
 		"wab": "true",
 		"details": "Downtown Stn",
 		"coordinates": {
-			"lat": 1.27939957419063,
-			"long": 103.85278769921703
+			"lat": 1.27939957,
+			"long": 103.8527877
 		}
 	},
 	{
@@ -7281,51 +7236,6 @@
 		}
 	},
 	{
-		"name": "-Z622",
-		"wab": "false",
-		"details": "Blk 564",
-		"coordinates": {
-			"lat": 1.36808803474125,
-			"long": 103.95001861343128
-		}
-	},
-	{
-		"name": "-Z623",
-		"wab": "false",
-		"details": "Opp Blk 555",
-		"coordinates": {
-			"lat": 1.36836666126193,
-			"long": 103.95166401714877
-		}
-	},
-	{
-		"name": "-Z624",
-		"wab": "false",
-		"details": "Opp Blk 230",
-		"coordinates": {
-			"lat": 1.37246473904375,
-			"long": 103.96053778303401
-		}
-	},
-	{
-		"name": "-Z625",
-		"wab": "false",
-		"details": "Along the road under OUE Link",
-		"coordinates": {
-			"lat": 1.283847,
-			"long": 103.852806
-		}
-	},
-	{
-		"name": "-Z626",
-		"wab": "false",
-		"details": "Along the road in front of Raffles Place Station",
-		"coordinates": {
-			"lat": 1.285145,
-			"long": 103.853075
-		}
-	},
-	{
 		"name": "-Z627",
 		"wab": "true",
 		"details": "Bet Blks 50/51",
@@ -7384,8 +7294,8 @@
 		"wab": "true",
 		"details": "Along the road outside Clifford Centre",
 		"coordinates": {
-			"lat": 1.2840589,
-			"long": 103.8527922
+			"lat": 1.283625,
+			"long": 103.852614
 		}
 	},
 	{
@@ -7539,6 +7449,132 @@
 		"coordinates": {
 			"lat": 1.3342261,
 			"long": 103.9663908
+		}
+	},
+	{
+		"name": "-Z651",
+		"wab": "true",
+		"details": "Along the road outside EASB",
+		"coordinates": {
+			"lat": 1.3276217,
+			"long": 103.8457585
+		}
+	},
+	{
+		"name": "-Z652",
+		"wab": "true",
+		"details": "Blk 114",
+		"coordinates": {
+			"lat": 1.32531992,
+			"long": 103.85731929
+		}
+	},
+	{
+		"name": "-Z653",
+		"wab": "true",
+		"details": "Blk 29",
+		"coordinates": {
+			"lat": 1.32544667,
+			"long": 103.85938111
+		}
+	},
+	{
+		"name": "-Z654",
+		"wab": "true",
+		"details": "Blk 19",
+		"coordinates": {
+			"lat": 1.32721152,
+			"long": 103.85978762
+		}
+	},
+	{
+		"name": "-Z655",
+		"wab": "true",
+		"details": "Opp Blk 65",
+		"coordinates": {
+			"lat": 1.32782676,
+			"long": 103.85810762
+		}
+	},
+	{
+		"name": "-Z656",
+		"wab": "true",
+		"details": "Along the road opposite Genting Centre",
+		"coordinates": {
+			"lat": 1.273523,
+			"long": 103.842633
+		}
+	},
+	{
+		"name": "-Z657",
+		"wab": "true",
+		"details": "Along the road outside Singapore Land Tower",
+		"coordinates": {
+			"lat": 1.285056,
+			"long": 103.851819
+		}
+	},
+	{
+		"name": "-Z658",
+		"wab": "true",
+		"details": "Along the road outside Tan Ean Kiam Building",
+		"coordinates": {
+			"lat": 1.284572,
+			"long": 103.849775
+		}
+	},
+	{
+		"name": "-Z659",
+		"wab": "true",
+		"details": "Blk 638",
+		"coordinates": {
+			"lat": 1.37591147273628,
+			"long": 103.941099346083
+		}
+	},
+	{
+		"name": "-Z660",
+		"wab": "true",
+		"details": "Blk 633",
+		"coordinates": {
+			"lat": 1.37810945408117,
+			"long": 103.941279008094
+		}
+	},
+	{
+		"name": "-Z661",
+		"wab": "true",
+		"details": "Opp Pasir Ris Elias CC",
+		"coordinates": {
+			"lat": 1.37902915784394,
+			"long": 103.942715912383
+		}
+	},
+	{
+		"name": "-Z662",
+		"wab": "true",
+		"details": "Opp Blk 500A",
+		"coordinates": {
+			"lat": 1.376671,
+			"long": 103.94637
+		}
+	},
+	{
+		"name": "-Z663",
+		"wab": "true",
+		"details": "Opp Palm Isles",
+		"coordinates": {
+			"lat": 1.356979,
+			"long": 103.9651894
+		}
+	},
+	{
+		"name": "-Z664",
+		"wab": "true",
+		"details": "Outside Clifford Centre",
+		"coordinates": {
+			"lat": 1.28369,
+			"long": 103.852694
 		}
 	},
 	{
@@ -8592,15 +8628,6 @@
 		"coordinates": {
 			"lat": 1.29221099996741,
 			"long": 103.84500500002959
-		}
-	},
-	{
-		"name": "05009",
-		"wab": "true",
-		"details": "Opp OCBC Ctr",
-		"coordinates": {
-			"lat": 1.28592554082489,
-			"long": 103.84923642965272
 		}
 	},
 	{
@@ -11967,15 +11994,6 @@
 		"coordinates": {
 			"lat": 1.3040310710651,
 			"long": 103.82205605505206
-		}
-	},
-	{
-		"name": "13211",
-		"wab": "true",
-		"details": "Aft Unity St",
-		"coordinates": {
-			"lat": 1.29241699362559,
-			"long": 103.841095990069
 		}
 	},
 	{
@@ -17142,15 +17160,6 @@
 		"coordinates": {
 			"lat": 1.33464939590143,
 			"long": 103.70458203446965
-		}
-	},
-	{
-		"name": "22571",
-		"wab": "true",
-		"details": "Opp Boon Lay Stn",
-		"coordinates": {
-			"lat": 1.33780381373794,
-			"long": 103.70689097976616
 		}
 	},
 	{
@@ -27684,30 +27693,12 @@
 		}
 	},
 	{
-		"name": "45331",
-		"wab": "true",
-		"details": "Blk 621",
-		"coordinates": {
-			"lat": 1.39884898673915,
-			"long": 103.74703991205672
-		}
-	},
-	{
 		"name": "45339",
 		"wab": "true",
 		"details": "Blk 625",
 		"coordinates": {
 			"lat": 1.39898191366295,
 			"long": 103.74603555889117
-		}
-	},
-	{
-		"name": "45341",
-		"wab": "true",
-		"details": "Blk 604A",
-		"coordinates": {
-			"lat": 1.39735129219397,
-			"long": 103.7454191491989
 		}
 	},
 	{
@@ -27774,30 +27765,12 @@
 		}
 	},
 	{
-		"name": "45381",
-		"wab": "true",
-		"details": "Blk 673A",
-		"coordinates": {
-			"lat": 1.400859167,
-			"long": 103.7471275
-		}
-	},
-	{
 		"name": "45389",
 		"wab": "true",
 		"details": "Blk 619",
 		"coordinates": {
 			"lat": 1.40063804359533,
 			"long": 103.7473817647614
-		}
-	},
-	{
-		"name": "45391",
-		"wab": "true",
-		"details": "Blk 657",
-		"coordinates": {
-			"lat": 1.40014292890393,
-			"long": 103.74970542838231
 		}
 	},
 	{
@@ -27819,15 +27792,6 @@
 		}
 	},
 	{
-		"name": "45409",
-		"wab": "true",
-		"details": "Blk 675",
-		"coordinates": {
-			"lat": 1.401897778,
-			"long": 103.7457961
-		}
-	},
-	{
 		"name": "45411",
 		"wab": "true",
 		"details": "Opp Blk 670",
@@ -27837,39 +27801,12 @@
 		}
 	},
 	{
-		"name": "45419",
-		"wab": "true",
-		"details": "Blk 669",
-		"coordinates": {
-			"lat": 1.403117778,
-			"long": 103.7484242
-		}
-	},
-	{
 		"name": "45421",
 		"wab": "true",
 		"details": "Opp Blk 666",
 		"coordinates": {
 			"lat": 1.40274884902867,
 			"long": 103.75050925171398
-		}
-	},
-	{
-		"name": "45429",
-		"wab": "true",
-		"details": "Blk 666",
-		"coordinates": {
-			"lat": 1.402526944,
-			"long": 103.7496808
-		}
-	},
-	{
-		"name": "45431",
-		"wab": "true",
-		"details": "Blk 661",
-		"coordinates": {
-			"lat": 1.400577222,
-			"long": 103.7509192
 		}
 	},
 	{
@@ -27924,15 +27861,6 @@
 		"coordinates": {
 			"lat": 1.39231423792189,
 			"long": 103.74449399998608
-		}
-	},
-	{
-		"name": "45479",
-		"wab": "true",
-		"details": "Kranji Pr Sch",
-		"coordinates": {
-			"lat": 1.39429508641053,
-			"long": 103.74652037203211
 		}
 	},
 	{
@@ -36711,30 +36639,12 @@
 		}
 	},
 	{
-		"name": "59361",
-		"wab": "true",
-		"details": "Blk 602",
-		"coordinates": {
-			"lat": 1.42249529494999,
-			"long": 103.83670552011698
-		}
-	},
-	{
 		"name": "59369",
 		"wab": "true",
 		"details": "Blk 647",
 		"coordinates": {
 			"lat": 1.42214126973318,
 			"long": 103.83683836680166
-		}
-	},
-	{
-		"name": "59371",
-		"wab": "true",
-		"details": "Chung Cheng High Sch",
-		"coordinates": {
-			"lat": 1.4200541415854,
-			"long": 103.83787034099134
 		}
 	},
 	{
@@ -37356,6 +37266,15 @@
 		"coordinates": {
 			"lat": 1.42301388896819,
 			"long": 103.85136389998303
+		}
+	},
+	{
+		"name": "59791",
+		"wab": "true",
+		"details": "Blk 471A",
+		"coordinates": {
+			"lat": 1.425903,
+			"long": 103.853576
 		}
 	},
 	{
@@ -40167,15 +40086,6 @@
 		}
 	},
 	{
-		"name": "65219",
-		"wab": "true",
-		"details": "Aft Punggol Ctrl",
-		"coordinates": {
-			"lat": 1.40326663804865,
-			"long": 103.90325880013292
-		}
-	},
-	{
 		"name": "65221",
 		"wab": "true",
 		"details": "Blk 303D",
@@ -42792,15 +42702,6 @@
 		"coordinates": {
 			"lat": 1.39483619700068,
 			"long": 103.8734686374815
-		}
-	},
-	{
-		"name": "67581",
-		"wab": "true",
-		"details": "Blk 319A",
-		"coordinates": {
-			"lat": 1.3910420487699,
-			"long": 103.88974726496834
 		}
 	},
 	{

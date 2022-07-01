@@ -6,39 +6,11 @@
 			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
-			"fileName": "118B-1.kml",
-			"e": "HTTPError: Response code 404 (Not Found)"
-		},
-		{
-			"fileName": "291T-1.kml",
-			"e": "HTTPError: Response code 404 (Not Found)"
-		},
-		{
-			"fileName": "293T-1.kml",
-			"e": "HTTPError: Response code 404 (Not Found)"
-		},
-		{
 			"fileName": "307-2.kml",
 			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
-			"fileName": "33A-1.kml",
-			"e": "HTTPError: Response code 404 (Not Found)"
-		},
-		{
-			"fileName": "34B-1.kml",
-			"e": "HTTPError: Response code 404 (Not Found)"
-		},
-		{
-			"fileName": "382A-1.kml",
-			"e": "HTTPError: Response code 404 (Not Found)"
-		},
-		{
 			"fileName": "60T-1.kml",
-			"e": "HTTPError: Response code 403 (Forbidden)"
-		},
-		{
-			"fileName": "63A-1.kml",
 			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
@@ -47,10 +19,6 @@
 		},
 		{
 			"fileName": "83T-1.kml",
-			"e": "HTTPError: Response code 403 (Forbidden)"
-		},
-		{
-			"fileName": "857B-1.kml",
 			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
@@ -64,10 +32,6 @@
 		{
 			"fileName": "911-2.kml",
 			"e": "HTTPError: Response code 404 (Not Found)"
-		},
-		{
-			"fileName": "975C-1.kml",
-			"e": "HTTPError: Response code 403 (Forbidden)"
 		}
 	]
 }
