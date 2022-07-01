@@ -819,13 +819,6 @@
 		"Longitude": 103.84500500002959
 	},
 	{
-		"BusStopCode": "05009",
-		"RoadName": "Nth Canal Rd",
-		"Description": "Opp OCBC Ctr",
-		"Latitude": 1.28592554082489,
-		"Longitude": 103.84923642965272
-	},
-	{
 		"BusStopCode": "05012",
 		"RoadName": "Eu Tong Sen St",
 		"Description": "Bef Pearl'S Hill Terr",
@@ -3442,13 +3435,6 @@
 		"Description": "Opp British High Comsn",
 		"Latitude": 1.3040310710651,
 		"Longitude": 103.82205605505206
-	},
-	{
-		"BusStopCode": "13211",
-		"RoadName": "Mohd Sultan Rd",
-		"Description": "Aft Unity St",
-		"Latitude": 1.29241699362559,
-		"Longitude": 103.841095990069
 	},
 	{
 		"BusStopCode": "14009",
@@ -7467,13 +7453,6 @@
 		"Description": "Opp Blk 660 CP",
 		"Latitude": 1.33464939590143,
 		"Longitude": 103.70458203446965
-	},
-	{
-		"BusStopCode": "22571",
-		"RoadName": "Boon Lay Way",
-		"Description": "Opp Boon Lay Stn",
-		"Latitude": 1.33780381373794,
-		"Longitude": 103.70689097976616
 	},
 	{
 		"BusStopCode": "22591",
@@ -15666,25 +15645,11 @@
 		"Longitude": 103.7478650735721
 	},
 	{
-		"BusStopCode": "45331",
-		"RoadName": "Choa Chu Kang St 62",
-		"Description": "Blk 621",
-		"Latitude": 1.39884898673915,
-		"Longitude": 103.74703991205672
-	},
-	{
 		"BusStopCode": "45339",
 		"RoadName": "Choa Chu Kang St 62",
 		"Description": "Blk 625",
 		"Latitude": 1.39898191366295,
 		"Longitude": 103.74603555889117
-	},
-	{
-		"BusStopCode": "45341",
-		"RoadName": "Choa Chu Kang St 62",
-		"Description": "Blk 604A",
-		"Latitude": 1.39735129219397,
-		"Longitude": 103.7454191491989
 	},
 	{
 		"BusStopCode": "45349",
@@ -15736,25 +15701,11 @@
 		"Longitude": 103.75187309514442
 	},
 	{
-		"BusStopCode": "45381",
-		"RoadName": "Choa Chu Kang Nth 7",
-		"Description": "Blk 673A",
-		"Latitude": 1.400859167,
-		"Longitude": 103.7471275
-	},
-	{
 		"BusStopCode": "45389",
 		"RoadName": "Choa Chu Kang Nth 7",
 		"Description": "Blk 619",
 		"Latitude": 1.40063804359533,
 		"Longitude": 103.7473817647614
-	},
-	{
-		"BusStopCode": "45391",
-		"RoadName": "Choa Chu Kang Nth 7",
-		"Description": "Blk 657",
-		"Latitude": 1.40014292890393,
-		"Longitude": 103.74970542838231
 	},
 	{
 		"BusStopCode": "45399",
@@ -15771,13 +15722,6 @@
 		"Longitude": 103.74594266826703
 	},
 	{
-		"BusStopCode": "45409",
-		"RoadName": "Choa Chu Kang Cres",
-		"Description": "Blk 675",
-		"Latitude": 1.401897778,
-		"Longitude": 103.7457961
-	},
-	{
 		"BusStopCode": "45411",
 		"RoadName": "Choa Chu Kang Cres",
 		"Description": "Opp Blk 670",
@@ -15785,32 +15729,11 @@
 		"Longitude": 103.74767347957746
 	},
 	{
-		"BusStopCode": "45419",
-		"RoadName": "Choa Chu Kang Cres",
-		"Description": "Blk 669",
-		"Latitude": 1.403117778,
-		"Longitude": 103.7484242
-	},
-	{
 		"BusStopCode": "45421",
 		"RoadName": "Choa Chu Kang Cres",
 		"Description": "Opp Blk 666",
 		"Latitude": 1.40274884902867,
 		"Longitude": 103.75050925171398
-	},
-	{
-		"BusStopCode": "45429",
-		"RoadName": "Choa Chu Kang Cres",
-		"Description": "Blk 666",
-		"Latitude": 1.402526944,
-		"Longitude": 103.7496808
-	},
-	{
-		"BusStopCode": "45431",
-		"RoadName": "Choa Chu Kang Cres",
-		"Description": "Blk 661",
-		"Latitude": 1.400577222,
-		"Longitude": 103.7509192
 	},
 	{
 		"BusStopCode": "45439",
@@ -15853,13 +15776,6 @@
 		"Description": "Blk 537",
 		"Latitude": 1.39231423792189,
 		"Longitude": 103.74449399998608
-	},
-	{
-		"BusStopCode": "45479",
-		"RoadName": "Choa Chu Kang Dr",
-		"Description": "Kranji Pr Sch",
-		"Latitude": 1.39429508641053,
-		"Longitude": 103.74652037203211
 	},
 	{
 		"BusStopCode": "45489",
@@ -22687,25 +22603,11 @@
 		"Longitude": 103.84071821797886
 	},
 	{
-		"BusStopCode": "59361",
-		"RoadName": "Yishun St 61",
-		"Description": "Blk 602",
-		"Latitude": 1.42249529494999,
-		"Longitude": 103.83670552011698
-	},
-	{
 		"BusStopCode": "59369",
 		"RoadName": "Yishun St 61",
 		"Description": "Blk 647",
 		"Latitude": 1.42214126973318,
 		"Longitude": 103.83683836680166
-	},
-	{
-		"BusStopCode": "59371",
-		"RoadName": "Yishun St 61",
-		"Description": "Chung Cheng High Sch",
-		"Latitude": 1.4200541415854,
-		"Longitude": 103.83787034099134
 	},
 	{
 		"BusStopCode": "59379",
@@ -23189,6 +23091,13 @@
 		"Description": "Bef Yishun Ave 6",
 		"Latitude": 1.42301388896819,
 		"Longitude": 103.85136389998303
+	},
+	{
+		"BusStopCode": "59791",
+		"RoadName": "Yishun Ave 1",
+		"Description": "Blk 471A",
+		"Latitude": 1.425903,
+		"Longitude": 103.853576
 	},
 	{
 		"BusStopCode": "59801",
@@ -25375,13 +25284,6 @@
 		"Longitude": 103.90387509832152
 	},
 	{
-		"BusStopCode": "65219",
-		"RoadName": "Punggol Pl",
-		"Description": "Aft Punggol Ctrl",
-		"Latitude": 1.40326663804865,
-		"Longitude": 103.90325880013292
-	},
-	{
 		"BusStopCode": "65221",
 		"RoadName": "Punggol Ctrl",
 		"Description": "Blk 303D",
@@ -27417,13 +27319,6 @@
 		"Description": "Bef Jln Kayu",
 		"Latitude": 1.39483619700068,
 		"Longitude": 103.8734686374815
-	},
-	{
-		"BusStopCode": "67581",
-		"RoadName": "Anchorvale Link",
-		"Description": "Blk 319A",
-		"Latitude": 1.3910420487699,
-		"Longitude": 103.88974726496834
 	},
 	{
 		"BusStopCode": "67591",

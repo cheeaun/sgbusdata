@@ -322,7 +322,7 @@
 	},
 	{
 		"number": 565,
-		"description": "Ah Hood Road to Fullerton Road",
+		"description": "Ah Hood Road to Central Boulevard",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"565-1.kml"
@@ -578,7 +578,7 @@
 	},
 	{
 		"number": 767,
-		"description": "Pasir Ris Street 51 to New Bridge Road",
+		"description": "Elias Road to Beach Road",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"767-1.kml"
@@ -2488,17 +2488,6 @@
 		]
 	},
 	{
-		"number": "188R",
-		"type": "TRUNK",
-		"kmlFile": [
-			"188R-1.kml",
-			"188R-2.kml"
-		],
-		"routeFile": [
-			"188R.xml"
-		]
-	},
-	{
 		"number": 189,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -2683,16 +2672,6 @@
 		],
 		"routeFile": [
 			"199.xml"
-		]
-	},
-	{
-		"number": "1N",
-		"type": "TRUNK",
-		"kmlFile": [
-			"1N-1.kml"
-		],
-		"routeFile": [
-			"1N.xml"
 		]
 	},
 	{
@@ -3322,16 +3301,6 @@
 		]
 	},
 	{
-		"number": "291T",
-		"type": "TRUNK",
-		"kmlFile": [
-			"291T-1.kml"
-		],
-		"routeFile": [
-			"291T.xml"
-		]
-	},
-	{
 		"number": 292,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -3349,16 +3318,6 @@
 		],
 		"routeFile": [
 			"293.xml"
-		]
-	},
-	{
-		"number": "293T",
-		"type": "TRUNK",
-		"kmlFile": [
-			"293T-1.kml"
-		],
-		"routeFile": [
-			"293T.xml"
 		]
 	},
 	{
@@ -3389,16 +3348,6 @@
 		],
 		"routeFile": [
 			"2A.xml"
-		]
-	},
-	{
-		"number": "2N",
-		"type": "TRUNK",
-		"kmlFile": [
-			"2N-1.kml"
-		],
-		"routeFile": [
-			"2N.xml"
 		]
 	},
 	{
@@ -3912,16 +3861,6 @@
 		]
 	},
 	{
-		"number": "3N",
-		"type": "TRUNK",
-		"kmlFile": [
-			"3N-1.kml"
-		],
-		"routeFile": [
-			"3N.xml"
-		]
-	},
-	{
 		"number": 4,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -4125,16 +4064,6 @@
 		],
 		"routeFile": [
 			"49.xml"
-		]
-	},
-	{
-		"number": "4N",
-		"type": "TRUNK",
-		"kmlFile": [
-			"4N-1.kml"
-		],
-		"routeFile": [
-			"4N.xml"
 		]
 	},
 	{
@@ -4380,16 +4309,6 @@
 		]
 	},
 	{
-		"number": "5N",
-		"type": "TRUNK",
-		"kmlFile": [
-			"5N-1.kml"
-		],
-		"routeFile": [
-			"5N.xml"
-		]
-	},
-	{
 		"number": 6,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -4570,16 +4489,6 @@
 		],
 		"routeFile": [
 			"69.xml"
-		]
-	},
-	{
-		"number": "6N",
-		"type": "TRUNK",
-		"kmlFile": [
-			"6N-1.kml"
-		],
-		"routeFile": [
-			"6N.xml"
 		]
 	},
 	{
@@ -5956,17 +5865,6 @@
 		]
 	},
 	{
-		"number": "963R",
-		"type": "TRUNK",
-		"kmlFile": [
-			"963R-1.kml",
-			"963R-2.kml"
-		],
-		"routeFile": [
-			"963R.xml"
-		]
-	},
-	{
 		"number": 964,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -6405,88 +6303,6 @@
 		],
 		"routeFile": [
 			"9A.xml"
-		]
-	},
-	{
-		"number": "CT18",
-		"type": "TRUNK",
-		"kmlFile": [
-			"CT18-1.kml",
-			"CT18-2.kml"
-		],
-		"routeFile": [
-			"CT18.xml"
-		]
-	},
-	{
-		"number": "CT8",
-		"type": "TRUNK",
-		"kmlFile": [
-			"CT8-1.kml",
-			"CT8-2.kml"
-		],
-		"routeFile": [
-			"CT8.xml"
-		]
-	},
-	{
-		"number": "NR1",
-		"type": "TRUNK",
-		"kmlFile": [
-			"NR1-1.kml"
-		],
-		"routeFile": [
-			"NR1.xml"
-		]
-	},
-	{
-		"number": "NR2",
-		"type": "TRUNK",
-		"kmlFile": [
-			"NR2-1.kml"
-		],
-		"routeFile": [
-			"NR2.xml"
-		]
-	},
-	{
-		"number": "NR3",
-		"type": "TRUNK",
-		"kmlFile": [
-			"NR3-1.kml"
-		],
-		"routeFile": [
-			"NR3.xml"
-		]
-	},
-	{
-		"number": "NR5",
-		"type": "TRUNK",
-		"kmlFile": [
-			"NR5-1.kml"
-		],
-		"routeFile": [
-			"NR5.xml"
-		]
-	},
-	{
-		"number": "NR6",
-		"type": "TRUNK",
-		"kmlFile": [
-			"NR6-1.kml"
-		],
-		"routeFile": [
-			"NR6.xml"
-		]
-	},
-	{
-		"number": "NR8",
-		"type": "TRUNK",
-		"kmlFile": [
-			"NR8-1.kml"
-		],
-		"routeFile": [
-			"NR8.xml"
 		]
 	}
 ]

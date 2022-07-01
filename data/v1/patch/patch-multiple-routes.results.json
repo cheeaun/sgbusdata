@@ -78,12 +78,6 @@
 		"count": 2
 	},
 	{
-		"number": "1N",
-		"numberPattern": "1N-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 24
-	},
-	{
 		"number": 25,
 		"numberPattern": "25-1",
 		"e": "Not LineString but is GeometryCollection",
@@ -126,12 +120,6 @@
 		"count": 25
 	},
 	{
-		"number": "2N",
-		"numberPattern": "2N-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 4
-	},
-	{
 		"number": 307,
 		"numberPattern": "307-1",
 		"e": "Not LineString but is GeometryCollection",
@@ -172,18 +160,6 @@
 		"numberPattern": "59-2",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 22
-	},
-	{
-		"number": "5N",
-		"numberPattern": "5N-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 96
-	},
-	{
-		"number": "6N",
-		"numberPattern": "6N-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 2
 	},
 	{
 		"number": 81,
@@ -256,11 +232,5 @@
 		"numberPattern": "96-1",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 68
-	},
-	{
-		"number": "NR3",
-		"numberPattern": "NR3-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 3
 	}
 ]

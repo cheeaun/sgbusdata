@@ -1,3 +1,74 @@
+# 1 July 2022
+
+## Stops count change: 5082 ⮕ 5067
+
+### Stops added: 1
+
+- `59791` Blk 471A
+
+### Stops removed: 16
+
+- `05009` Opp OCBC Ctr
+- `67581` Blk 319A
+- `65219` Aft Punggol Ctrl
+- `59371` Chung Cheng High Sch
+- `59361` Blk 602
+- `45479` Kranji Pr Sch
+- `45431` Blk 661
+- `45429` Blk 666
+- `45419` Blk 669
+- `45409` Blk 675
+- `45391` Blk 657
+- `45381` Blk 673A
+- `45341` Blk 604A
+- `45331` Blk 621
+- `22571` Opp Boon Lay Stn
+- `13211` Aft Unity St
+
+## Services count change: 552 ⮕ 534
+
+### Services removed: 18
+
+- `NR8` Marina Ctr Ter → Blk 531
+- `NR6` Resorts World Sentosa → Blk 225A
+- `NR5` Marina Ctr Ter → Blk 685B
+- `NR3` Boat Quay → Choa Chu Kang Int
+- `NR2` Marina Ctr Ter → Blk 317
+- `NR1` Resorts World Sentosa → Opp Khatib Stn Exit D
+- `CT8` Opp Ang Mo Kio Comm Hosp / Ang Mo Kio Comm Hosp ⇄ Kampong Bahru Ter
+- `CT18` Blk 403 / Bet Blks 139/140 ⇄ Kampong Bahru Ter
+- `963R` Woodlands Int ⇄ Resorts World Sentosa
+- `6N` Marina Ctr Ter → Opp Blk 201A
+- `5N` Marina Ctr Ter → Blk 924
+- `4N` Marina Ctr Ter → Blk 210
+- `3N` Marina Ctr Ter → Blk 708
+- `2N` Marina Ctr Ter → Blk 888
+- `293T` Tampines Int ⟲ Blk 401
+- `291T` Tampines Int ⟲ Tampines Int
+- `1N` Marina Ctr Ter → Opp Khatib Stn Exit D
+- `188R` Choa Chu Kang Int ⇄ Resorts World Sentosa
+
+### Bus Stop Changes To Routes: 3
+
+- `103` S'Goon Int ⇄ Yishun Int: +1
+- `117` Punggol Temp Int ⇄ Sembawang Int: +1
+- `117M` Punggol Temp Int ⇄ Sembawang Int: +1
+
+## Routes changed: 8
+
+- `102` Hougang Ctrl Int ⟲ Seletar Airport
+- `103` S'Goon Int ⇄ Yishun Int
+- `118B` Opp ITE Coll East Adm Blk → Bef Punggol Rd
+- `33A` Kent Ridge Ter → Blk 1
+- `34B` Ikea Tampines → Tampines Wafer Fab Pk
+- `63A` Eunos Int → Opp Blk 36
+- `857B` Yishun Int → Promenade Stn
+- `975C` Bt Panjang Int → Police Coast Guard
+
+## First/last timings changed
+
+Affected services: `293T`, `291T`, `963R`, `188R`, `NR3`, `6N`, `4N`, `3N`, `2N`, `1N`, `NR2`, `NR1`, `NR6`, `NR8`, `5N`, `NR5`, `CT8`, `CT18`, `926`, `103`, `117`, `117M`
+
 # 1 June 2022
 
 ## Stops count change: 5076 ⮕ 5082
