@@ -538,8 +538,7 @@
 		"SingaporeStop_Blk314_NW": {
 			"bearing": "NW",
 			"brands": [
-				"SBSTBuses",
-				"TTSBuses"
+				"SBSTBuses"
 			],
 			"coords": [
 				1.431811,
@@ -548,12 +547,10 @@
 			"live_code": "SingaporeStop_Blk314_NW",
 			"name": "Blk 314",
 			"routes": [
-				"SBSTBuses1N",
 				"SBSTBuses804",
 				"SBSTBuses807",
 				"SBSTBuses860",
-				"SBSTBuses860T",
-				"TTSBusesNr1"
+				"SBSTBuses860T"
 			],
 			"stop_code": "59381"
 		},
@@ -570,13 +567,11 @@
 			"live_code": "SingaporeStop_Blk342B_NW",
 			"name": "Blk 342b",
 			"routes": [
-				"SBSTBuses1N",
 				"TTSBuses663",
 				"SBSTBuses804",
 				"SBSTBuses807",
 				"SBSTBuses860",
-				"SBSTBuses860T",
-				"TTSBusesNr1"
+				"SBSTBuses860T"
 			],
 			"stop_code": "59391"
 		},
@@ -593,13 +588,11 @@
 			"live_code": "SingaporeStop_Blk356_N",
 			"name": "Blk 356",
 			"routes": [
-				"SBSTBuses1N",
 				"TTSBuses663",
 				"SBSTBuses804",
 				"SBSTBuses807",
 				"SBSTBuses860",
-				"SBSTBuses860T",
-				"TTSBusesNr1"
+				"SBSTBuses860T"
 			],
 			"stop_code": "59411"
 		},
@@ -616,13 +609,11 @@
 			"live_code": "SingaporeStop_Blk358_N",
 			"name": "Blk 358",
 			"routes": [
-				"SBSTBuses1N",
 				"TTSBuses663",
 				"SBSTBuses804",
 				"SBSTBuses807",
 				"SBSTBuses860",
-				"SBSTBuses860T",
-				"TTSBusesNr1"
+				"SBSTBuses860T"
 			],
 			"stop_code": "59401"
 		},
@@ -669,8 +660,7 @@
 		"SingaporeStop_Blk624_E": {
 			"bearing": "E",
 			"brands": [
-				"SBSTBuses",
-				"TTSBuses"
+				"SBSTBuses"
 			],
 			"coords": [
 				1.417628,
@@ -679,22 +669,19 @@
 			"live_code": "SingaporeStop_Blk624_E",
 			"name": "Blk 624",
 			"routes": [
-				"SBSTBuses1N",
 				"SBSTBuses807",
 				"SBSTBuses811",
 				"SBSTBuses811T",
 				"SBSTBuses850E",
 				"SBSTBuses860",
-				"SBSTBuses860T",
-				"TTSBusesNr1"
+				"SBSTBuses860T"
 			],
 			"stop_code": "59421"
 		},
 		"SingaporeStop_Blk630_E": {
-			"bearing": "E",
+			"bearing": "SE",
 			"brands": [
-				"SBSTBuses",
-				"TTSBuses"
+				"SBSTBuses"
 			],
 			"coords": [
 				1.417805,
@@ -703,14 +690,12 @@
 			"live_code": "SingaporeStop_Blk630_E",
 			"name": "Blk 630",
 			"routes": [
-				"SBSTBuses1N",
 				"SBSTBuses807",
 				"SBSTBuses811",
 				"SBSTBuses811T",
 				"SBSTBuses850E",
 				"SBSTBuses860",
-				"SBSTBuses860T",
-				"TTSBusesNr1"
+				"SBSTBuses860T"
 			],
 			"stop_code": "59431"
 		},
@@ -1003,7 +988,7 @@
 				103.830181
 			],
 			"live_code": "SingaporeStop_OppKhatibCamp_E",
-			"name": "Opp Khatib Camp",
+			"name": "Sree Maha Mariamman Tp",
 			"routes": [
 				"TTSBuses169",
 				"SBSTBuses860",

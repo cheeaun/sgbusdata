@@ -310,6 +310,17 @@
 		]
 	},
 	{
+		"number": 555,
+		"description": "Bukit Batok West Avenue 5 to Beach Road",
+		"type": "PREMIUM",
+		"kmlFile": [
+			"555-1.kml"
+		],
+		"routeFile": [
+			"555.xml"
+		]
+	},
+	{
 		"number": 560,
 		"description": "Pandan Valley to Temasek Boulevard",
 		"type": "PREMIUM",

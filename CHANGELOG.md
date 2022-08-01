@@ -1,3 +1,43 @@
+# 1 August 2022
+
+### Stop names changed: 26
+
+- `11231` Aft Estoril Mansions ⮕ Aft Hyll on Holland
+- `15161` Pasir Panjang Ctr ⮕ Opp HarbourSide Bldg 2
+- `15169` Harbourside Ind Bldg 2 ⮕ HarbourSide Bldg 2
+- `25811` Siem Seng Hing ⮕ Bef Tuas Ave 7
+- `25819` Opp Beyonics Technology ⮕ Aft Tuas Ave 7
+- `27011` Blk 55 ⮕ Hall 11 Blk 55
+- `27041` CP 7 ⮕ NIE CP 7
+- `27061` Opp Blk 41 ⮕ Sch of ADM
+- `27209` Hall 8 ⮕ Halls 8 & 9
+- `27219` Blk 2 ⮕ NIE Blk 2
+- `27241` Hall 7 ⮕ Sch of PMS
+- `42259` Goh & Goh Bldg ⮕ Aft Upp Bt Timah Rd
+- `46711` Bef Admiralty Rd West ⮕ Bef W'lands Ind Pk E3
+- `46719` Givaudan S'pore ⮕ Aft W'lands Ind Pk E3
+- `59541` Opp Khatib Camp ⮕ Sree Maha Mariamman Tp
+- `59549` Khatib Camp ⮕ Opp Sree Maha Mariamman Tp
+- `60079` MOM Svcs Ctr ⮕ Bef Bendemeer Rd
+- `65541` Before Sumang Lane ⮕ Blk 228B
+- `65549` After Sumang Lane ⮕ Opp Blk 228B
+- `66459` Aft Seagate ⮕ Opp Ang Mo Kio Linear Pk
+- `66461` Bef Seagate ⮕ Ang Mo Kio Linear Pk
+- `66519` Opp Seagate ⮕ Ang Mo Kio TechLink
+- `70021` Opp Canossa Convent Pr ⮕ Opp Canossa Catholic Pr
+- `70029` Aft Canossa Convent Pr ⮕ Canossa Catholic Pr
+- `70149` MacPherson Green Condo ⮕ Bef Blk 82
+- `82011` Aft Tg Katong Cplx ⮕ Aft Paya Lebar Quarter
+
+### Bus Stop Changes To Routes: 2
+
+- `117M` Punggol Temp Int ⇄ Sembawang Int: +4, -5
+- `117` Punggol Temp Int ⇄ Sembawang Int: +4, -5
+
+## First/last timings changed
+
+Affected services: `4`, `29`, `117`, `137`, `117M`
+
 # 1 July 2022
 
 ## Stops count change: 5082 ⮕ 5067
