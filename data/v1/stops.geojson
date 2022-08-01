@@ -3317,7 +3317,7 @@
 			"id": "11231",
 			"properties": {
 				"number": "11231",
-				"name": "Aft Estoril Mansions",
+				"name": "Aft Hyll on Holland",
 				"services": [
 					"106",
 					"165",
@@ -8169,7 +8169,7 @@
 			"id": "15161",
 			"properties": {
 				"number": "15161",
-				"name": "Pasir Panjang Ctr",
+				"name": "Opp HarbourSide Bldg 2",
 				"services": [
 					"10",
 					"143",
@@ -8194,7 +8194,7 @@
 			"id": "15169",
 			"properties": {
 				"number": "15169",
-				"name": "Harbourside Ind Bldg 2",
+				"name": "HarbourSide Bldg 2",
 				"services": [
 					"10",
 					"143",
@@ -23332,7 +23332,7 @@
 			"id": "25811",
 			"properties": {
 				"number": "25811",
-				"name": "Siem Seng Hing",
+				"name": "Bef Tuas Ave 7",
 				"services": [
 					"192"
 				]
@@ -23350,7 +23350,7 @@
 			"id": "25819",
 			"properties": {
 				"number": "25819",
-				"name": "Opp Beyonics Technology",
+				"name": "Aft Tuas Ave 7",
 				"services": [
 					"192"
 				]
@@ -24418,7 +24418,7 @@
 			"id": "27011",
 			"properties": {
 				"number": "27011",
-				"name": "Blk 55",
+				"name": "Hall 11 Blk 55",
 				"services": [
 					"199"
 				]
@@ -24472,7 +24472,7 @@
 			"id": "27041",
 			"properties": {
 				"number": "27041",
-				"name": "CP 7",
+				"name": "NIE CP 7",
 				"services": [
 					"199"
 				]
@@ -24508,7 +24508,7 @@
 			"id": "27061",
 			"properties": {
 				"number": "27061",
-				"name": "Opp Blk 41",
+				"name": "Sch of ADM",
 				"services": [
 					"179",
 					"179A"
@@ -24892,7 +24892,7 @@
 			"id": "27209",
 			"properties": {
 				"number": "27209",
-				"name": "Hall 8",
+				"name": "Halls 8 & 9",
 				"services": [
 					"199"
 				]
@@ -24929,7 +24929,7 @@
 			"id": "27219",
 			"properties": {
 				"number": "27219",
-				"name": "Blk 2",
+				"name": "NIE Blk 2",
 				"services": [
 					"199"
 				]
@@ -24985,7 +24985,7 @@
 			"id": "27241",
 			"properties": {
 				"number": "27241",
-				"name": "Hall 7",
+				"name": "Sch of PMS",
 				"services": [
 					"179",
 					"179A"
@@ -33839,7 +33839,7 @@
 			"id": "42259",
 			"properties": {
 				"number": "42259",
-				"name": "Goh & Goh Bldg",
+				"name": "Aft Upp Bt Timah Rd",
 				"services": [
 					"157",
 					"174",
@@ -45678,7 +45678,7 @@
 			"id": "46711",
 			"properties": {
 				"number": "46711",
-				"name": "Bef Admiralty Rd West",
+				"name": "Bef W'lands Ind Pk E3",
 				"services": [
 					"169",
 					"169A",
@@ -45698,7 +45698,7 @@
 			"id": "46719",
 			"properties": {
 				"number": "46719",
-				"name": "Givaudan S'pore",
+				"name": "Aft W'lands Ind Pk E3",
 				"services": [
 					"169"
 				]
@@ -64516,7 +64516,7 @@
 			"id": "59541",
 			"properties": {
 				"number": "59541",
-				"name": "Opp Khatib Camp",
+				"name": "Sree Maha Mariamman Tp",
 				"services": [
 					"169",
 					"860",
@@ -64536,7 +64536,7 @@
 			"id": "59549",
 			"properties": {
 				"number": "59549",
-				"name": "Khatib Camp",
+				"name": "Opp Sree Maha Mariamman Tp",
 				"services": [
 					"169",
 					"860"
@@ -65673,7 +65673,7 @@
 			"id": "60079",
 			"properties": {
 				"number": "60079",
-				"name": "MOM Svcs Ctr",
+				"name": "Bef Bendemeer Rd",
 				"services": [
 					"23",
 					"966"
@@ -72365,8 +72365,6 @@
 				"number": "65141",
 				"name": "Aft Soo Teck Stn",
 				"services": [
-					"117",
-					"117M",
 					"118",
 					"381",
 					"39",
@@ -72390,8 +72388,6 @@
 				"number": "65149",
 				"name": "Bef Soo Teck Stn",
 				"services": [
-					"117",
-					"117M",
 					"118",
 					"381",
 					"39",
@@ -72861,8 +72857,6 @@
 				"number": "65259",
 				"name": "Punggol Stn/Int",
 				"services": [
-					"117",
-					"117M",
 					"118",
 					"381",
 					"384",
@@ -73141,6 +73135,8 @@
 				"number": "65331",
 				"name": "Opp Blk 268D",
 				"services": [
+					"117",
+					"117M",
 					"119",
 					"381",
 					"382",
@@ -73164,6 +73160,8 @@
 				"number": "65339",
 				"name": "Blk 268C",
 				"services": [
+					"117",
+					"117M",
 					"119",
 					"381",
 					"382",
@@ -73186,6 +73184,8 @@
 				"number": "65341",
 				"name": "Opp Blk 272C",
 				"services": [
+					"117",
+					"117M",
 					"119",
 					"381",
 					"382",
@@ -73209,6 +73209,8 @@
 				"number": "65349",
 				"name": "Blk 272C",
 				"services": [
+					"117",
+					"117M",
 					"119",
 					"381",
 					"382",
@@ -73382,8 +73384,6 @@
 				"number": "65401",
 				"name": "Opp Blk 264A",
 				"services": [
-					"117",
-					"117M",
 					"118",
 					"381",
 					"384",
@@ -73408,8 +73408,6 @@
 				"number": "65409",
 				"name": "Bef Blk 264",
 				"services": [
-					"117",
-					"117M",
 					"118",
 					"381",
 					"384",
@@ -73812,7 +73810,7 @@
 			"id": "65541",
 			"properties": {
 				"number": "65541",
-				"name": "Before Sumang Lane",
+				"name": "Blk 228B",
 				"services": [
 					"382",
 					"382A",
@@ -73832,7 +73830,7 @@
 			"id": "65549",
 			"properties": {
 				"number": "65549",
-				"name": "After Sumang Lane",
+				"name": "Opp Blk 228B",
 				"services": [
 					"382",
 					"382W"
@@ -75838,7 +75836,7 @@
 			"id": "66459",
 			"properties": {
 				"number": "66459",
-				"name": "Aft Seagate",
+				"name": "Opp Ang Mo Kio Linear Pk",
 				"services": [
 					"159",
 					"159A",
@@ -75861,7 +75859,7 @@
 			"id": "66461",
 			"properties": {
 				"number": "66461",
-				"name": "Bef Seagate",
+				"name": "Ang Mo Kio Linear Pk",
 				"services": [
 					"50",
 					"72",
@@ -76055,7 +76053,7 @@
 			"id": "66519",
 			"properties": {
 				"number": "66519",
-				"name": "Opp Seagate",
+				"name": "Ang Mo Kio TechLink",
 				"services": [
 					"159",
 					"159A"
@@ -80212,7 +80210,7 @@
 			"id": "70021",
 			"properties": {
 				"number": "70021",
-				"name": "Opp Canossa Convent Pr",
+				"name": "Opp Canossa Catholic Pr",
 				"services": [
 					"100",
 					"135",
@@ -80237,7 +80235,7 @@
 			"id": "70029",
 			"properties": {
 				"number": "70029",
-				"name": "Aft Canossa Convent Pr",
+				"name": "Canossa Catholic Pr",
 				"services": [
 					"100",
 					"100A",
@@ -80757,7 +80755,7 @@
 			"id": "70149",
 			"properties": {
 				"number": "70149",
-				"name": "MacPherson Green Condo",
+				"name": "Bef Blk 82",
 				"services": [
 					"151",
 					"62",
@@ -91690,7 +91688,7 @@
 			"id": "82011",
 			"properties": {
 				"number": "82011",
-				"name": "Aft Tg Katong Cplx",
+				"name": "Aft Paya Lebar Quarter",
 				"services": [
 					"13",
 					"154",
