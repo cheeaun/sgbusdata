@@ -289,7 +289,7 @@
 	{
 		"BusStopCode": "02029",
 		"RoadName": "Esplanade Dr",
-		"Description": "Opp S'pore Cricket Club",
+		"Description": "Aft Esplanade Stn Exit D",
 		"Latitude": 1.290106,
 		"Longitude": 103.85464
 	},
@@ -24799,6 +24799,13 @@
 		"Description": "Blk 831",
 		"Latitude": 1.37145414929063,
 		"Longitude": 103.88976573946181
+	},
+	{
+		"BusStopCode": "64397",
+		"RoadName": "Hougang Ave 10",
+		"Description": "Block 513",
+		"Latitude": 1.371948,
+		"Longitude": 103.890003
 	},
 	{
 		"BusStopCode": "64399",

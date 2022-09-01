@@ -5436,15 +5436,6 @@
 		}
 	},
 	{
-		"name": "-S265",
-		"wab": "true",
-		"details": "Bedok Point Pick-up/ Drop-off Bay along Bedok Central",
-		"coordinates": {
-			"lat": 1.325834,
-			"long": 103.934084
-		}
-	},
-	{
 		"name": "-S266",
 		"wab": "true",
 		"details": "Passenger pick-up and drop-off point outside Blk 242, along Simei Street 3",
@@ -5514,6 +5505,15 @@
 		"coordinates": {
 			"lat": 1.28967,
 			"long": 103.85007
+		}
+	},
+	{
+		"name": "-S274",
+		"wab": "true",
+		"details": "Passenger pick-up/drop-off point at Heartbeat @ Bedok",
+		"coordinates": {
+			"lat": 1.327107,
+			"long": 103.932258
 		}
 	},
 	{
@@ -5730,15 +5730,6 @@
 		"coordinates": {
 			"lat": 1.39682694447407,
 			"long": 103.917933055569
-		}
-	},
-	{
-		"name": "-Z084",
-		"wab": "true",
-		"details": "Passenger Pick-Up Point within SUTD Campus",
-		"coordinates": {
-			"lat": 1.35817903735465,
-			"long": 103.969738793584
 		}
 	},
 	{
@@ -7353,15 +7344,6 @@
 		}
 	},
 	{
-		"name": "-Z640",
-		"wab": "true",
-		"details": "Along the road outside SUTD Campus",
-		"coordinates": {
-			"lat": 1.3397814,
-			"long": 103.9638437
-		}
-	},
-	{
 		"name": "-Z641",
 		"wab": "true",
 		"details": "Along the road outside The IBM Place",
@@ -7395,15 +7377,6 @@
 		"coordinates": {
 			"lat": 1.3342261,
 			"long": 103.9663908
-		}
-	},
-	{
-		"name": "-Z645",
-		"wab": "true",
-		"details": "Singapore University of Technology and Design (SUTD) campus",
-		"coordinates": {
-			"lat": 1.3397814,
-			"long": 103.9638437
 		}
 	},
 	{
@@ -7692,6 +7665,24 @@
 		"coordinates": {
 			"lat": 1.29197057108024,
 			"long": 103.84328384973516
+		}
+	},
+	{
+		"name": "-Z678",
+		"wab": "true",
+		"details": "PUDO outside Upper Changi Station/SUTD",
+		"coordinates": {
+			"lat": 1.3413732,
+			"long": 103.9626331
+		}
+	},
+	{
+		"name": "-Z679",
+		"wab": "true",
+		"details": "Bus stop outside Rigel Innovation Centre",
+		"coordinates": {
+			"lat": 1.3372672,
+			"long": 103.9675272
 		}
 	},
 	{
@@ -8066,7 +8057,7 @@
 	{
 		"name": "02029",
 		"wab": "true",
-		"details": "Opp S'pore Cricket Club",
+		"details": "Aft Esplanade Stn Exit D",
 		"coordinates": {
 			"lat": 1.290106,
 			"long": 103.85464
@@ -39579,6 +39570,15 @@
 		"coordinates": {
 			"lat": 1.37145414929063,
 			"long": 103.88976573946181
+		}
+	},
+	{
+		"name": "64397",
+		"wab": "true",
+		"details": "Block 513",
+		"coordinates": {
+			"lat": 1.371948,
+			"long": 103.890003
 		}
 	},
 	{

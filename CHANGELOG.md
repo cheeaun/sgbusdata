@@ -1,3 +1,39 @@
+# 1 September 2022
+
+## Stops count change: 5067 ⮕ 5068
+
+### Stops added: 1
+
+- `64397` Block 513
+
+### Stop names changed: 1
+
+- `02029` Opp S'pore Cricket Club ⮕ Aft Esplanade Stn Exit D
+
+### Bus Stop Changes To Routes: 8
+
+- `27` Hougang Ctrl Int ⟲ Changi Airport PTB1: +2
+- `80` Sengkang Int ⇄ HarbourFront Int: +2
+- `87` Sengkang Int ⇄ Bedok Int: +2
+- `89` Hougang Ctrl Int ⟲ 3rd Cargo Agents: +2
+- `107` Hougang Ctrl Int ⇄ Shenton Way Ter: +4, -2
+- `161` Hougang Ctrl Int ⇄ Woodlands Int: +2
+- `107M` Hougang Ctrl Int ⟲ Esplanade Stn Exit F: +4, -2
+- `89e` Hougang Ctrl Int ⇄ SATS Cargo Ter / 3rd Cargo Agents: +2
+
+## Routes changed: 6
+
+- `27` Hougang Ctrl Int ⟲ Changi Airport PTB1
+- `105` S'Goon Int ⇄ Jurong East Int
+- `111` Ghim Moh Ter ⟲ Opp The Ritz-Carlton
+- `117` Punggol Temp Int ⇄ Sembawang Int
+- `100A` S'Goon Int → Aljunied Stn
+- `117M` Punggol Temp Int ⇄ Sembawang Int
+
+## First/last timings changed
+
+Affected services: `27`, `80`, `87`, `89`, `107`, `161`, `107M`, `89e`
+
 # 1 August 2022
 
 ### Stop names changed: 26
