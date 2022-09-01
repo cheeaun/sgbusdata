@@ -1,11 +1,5 @@
 [
 	{
-		"number": 111,
-		"numberPattern": "111-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 66
-	},
-	{
 		"number": 125,
 		"numberPattern": "125-1",
 		"e": "Not LineString but is GeometryCollection",
@@ -100,12 +94,6 @@
 		"numberPattern": "269-1",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 100
-	},
-	{
-		"number": 27,
-		"numberPattern": "27-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 4259
 	},
 	{
 		"number": 282,
