@@ -1,3 +1,34 @@
+# 1 October 2022
+
+## Stops count change: 5068 ⮕ 5072
+
+### Stops added: 4
+
+- `59629` Opposite Blk 317A
+- `59809` Opp Blk 382C
+- `59821` Blk 334B
+- `59829` Opposite Blk 334B
+
+### Bus Stop Changes To Routes: 3
+
+- `663` Bet Blks 405/406 / Opp Blk 406 ⇄ Opp MAS Bldg / Mapletree Anson: +1
+- `801` Yishun Int ⟲ Blk 469B: +4
+- `803` Yishun Int ⟲ Blk 334B: +1
+
+## Routes changed: 7
+
+- `27` Hougang Ctrl Int ⟲ Changi Airport PTB1
+- `80` Sengkang Int ⇄ HarbourFront Int
+- `87` Sengkang Int ⇄ Bedok Int
+- `107` Hougang Ctrl Int ⇄ Shenton Way Ter
+- `161` Hougang Ctrl Int ⇄ Woodlands Int
+- `107M` Hougang Ctrl Int ⟲ Esplanade Stn Exit F
+- `89e` Hougang Ctrl Int ⇄ SATS Cargo Ter / 3rd Cargo Agents
+
+## First/last timings changed
+
+Affected services: `663`, `801`, `803`, `972M`
+
 # 1 September 2022
 
 ## Stops count change: 5067 ⮕ 5068

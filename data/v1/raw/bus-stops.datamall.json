@@ -22925,6 +22925,13 @@
 		"Longitude": 103.84410555917717
 	},
 	{
+		"BusStopCode": "59629",
+		"RoadName": "Yishun Ave 6",
+		"Description": "Opposite Blk 317A",
+		"Latitude": 1.43463,
+		"Longitude": 103.843898
+	},
+	{
 		"BusStopCode": "59631",
 		"RoadName": "Yishun Ring Rd",
 		"Description": "Opp Blk 445",
@@ -23107,6 +23114,13 @@
 		"Longitude": 103.847891
 	},
 	{
+		"BusStopCode": "59809",
+		"RoadName": "Yishun Ave 6",
+		"Description": "Opp Blk 382C",
+		"Latitude": 1.431761,
+		"Longitude": 103.847993
+	},
+	{
 		"BusStopCode": "59811",
 		"RoadName": "Yishun St 42",
 		"Description": "Blk 477B",
@@ -23119,6 +23133,20 @@
 		"Description": "Blk 467C",
 		"Latitude": 1.42696,
 		"Longitude": 103.851955
+	},
+	{
+		"BusStopCode": "59821",
+		"RoadName": "Yishun Ave 6",
+		"Description": "Blk 334B",
+		"Latitude": 1.432912,
+		"Longitude": 103.845777
+	},
+	{
+		"BusStopCode": "59829",
+		"RoadName": "Yishun Ave 6",
+		"Description": "Opposite Blk 334B",
+		"Latitude": 1.432833,
+		"Longitude": 103.846904
 	},
 	{
 		"BusStopCode": "60011",
