@@ -38,29 +38,29 @@ const missingServices = failedKMLs.map((d) => {
     const missingService = missingServices[i];
     if (!missingService) continue;
     const [number, _pat, data] = missingService;
-    const directions = await fetch(
-      `https://developers.onemap.sg/publicapi/busexp/getBusRoutes?busNo=${number}&token=${access_token}`,
-      { json: true },
-    );
-    if (directions.BUS_DIRECTION_ONE) {
-      const firstBusStop = directions.BUS_DIRECTION_ONE[0].START_BUS_STOP_NUM;
-      const dataFirstBusStop = data[0].stops[0];
-      if (dataFirstBusStop !== firstBusStop) {
-        console.log(
-          `⚠️⚠️⚠️ For ${number}, there's a bus stop mismatch! ${dataFirstBusStop} != ${firstBusStop}`,
-        );
-      } else {
-        writeFile(`data/v1/patch/${number}.om.json`, directions);
-        continue;
+    try {
+      const directions = await fetch(
+        `https://developers.onemap.sg/publicapi/busexp/getBusRoutes?busNo=${number}&token=${access_token}`,
+        { json: true },
+      );
+      if (directions.BUS_DIRECTION_ONE) {
+        const firstBusStop = directions.BUS_DIRECTION_ONE[0].START_BUS_STOP_NUM;
+        const dataFirstBusStop = data[0].stops[0];
+        if (dataFirstBusStop !== firstBusStop) {
+          console.log(
+            `⚠️⚠️⚠️ For ${number}, there's a bus stop mismatch! ${dataFirstBusStop} != ${firstBusStop}`,
+          );
+        } else {
+          writeFile(`data/v1/patch/${number}.om.json`, directions);
+          continue;
+        }
       }
-    }
+    } catch (e) {}
 
     console.log(
       `⛔️ Bus service ${number} is missing. Falling back to CityMapper`,
     );
-    const {
-      results,
-    } = await fetch(
+    const { results } = await fetch(
       `https://citymapper.com/api/2/findtransport?query=${number}&region_id=sg-singapore`,
       { json: true },
     );
