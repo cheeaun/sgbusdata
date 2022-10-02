@@ -4167,24 +4167,6 @@
 		}
 	},
 	{
-		"name": "-PC69",
-		"wab": "true",
-		"details": "Blk 604A",
-		"coordinates": {
-			"lat": 1.380166,
-			"long": 103.897021
-		}
-	},
-	{
-		"name": "-PC73",
-		"wab": "true",
-		"details": "Coach Bay outside Lau Pa Sat",
-		"coordinates": {
-			"lat": 1.2802,
-			"long": 103.8506
-		}
-	},
-	{
 		"name": "-PD01",
 		"wab": "true",
 		"details": "Opp Blk 103A",
@@ -4437,33 +4419,6 @@
 		}
 	},
 	{
-		"name": "-PI03",
-		"wab": "true",
-		"details": "BLK 301A",
-		"coordinates": {
-			"lat": 1.4039796271467,
-			"long": 103.90655641325277
-		}
-	},
-	{
-		"name": "-PI05",
-		"wab": "true",
-		"details": "Outside Oasis Stn Exit A",
-		"coordinates": {
-			"lat": 1.40257805553795,
-			"long": 103.91244500001986
-		}
-	},
-	{
-		"name": "-PI06",
-		"wab": "true",
-		"details": "Outside Kadaloor LRT Station",
-		"coordinates": {
-			"lat": 1.39988799999567,
-			"long": 103.91612399998853
-		}
-	},
-	{
 		"name": "-PI40",
 		"wab": "true",
 		"details": "Outside Hume Park I",
@@ -4632,15 +4587,6 @@
 		"coordinates": {
 			"lat": 1.27553472200739,
 			"long": 103.841126944004
-		}
-	},
-	{
-		"name": "-PT01",
-		"wab": "true",
-		"details": "Nicoll Highway Stn",
-		"coordinates": {
-			"lat": 1.30070547633658,
-			"long": 103.86336013257065
 		}
 	},
 	{
@@ -5793,15 +5739,6 @@
 		"coordinates": {
 			"lat": 1.44835904274406,
 			"long": 103.822013436082
-		}
-	},
-	{
-		"name": "-Z128",
-		"wab": "true",
-		"details": "Nicoll Highway Stn",
-		"coordinates": {
-			"lat": 1.30070547633658,
-			"long": 103.86336013257065
 		}
 	},
 	{
@@ -12025,7 +11962,7 @@
 	},
 	{
 		"name": "13169",
-		"wab": "true",
+		"wab": "false",
 		"details": "Grange 80 Condo",
 		"coordinates": {
 			"lat": 1.29910305180416,
@@ -15346,7 +15283,7 @@
 	},
 	{
 		"name": "21099",
-		"wab": "true",
+		"wab": "false",
 		"details": "Jurong Island Checkpt",
 		"coordinates": {
 			"lat": 1.31014377264327,
@@ -16165,7 +16102,7 @@
 	},
 	{
 		"name": "21579",
-		"wab": "false",
+		"wab": "true",
 		"details": "Jurong Sec Sch",
 		"coordinates": {
 			"lat": 1.33013472279057,
@@ -22555,7 +22492,7 @@
 	},
 	{
 		"name": "31081",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp HQ 5th SIB Camp I",
 		"coordinates": {
 			"lat": 1.38056264189347,
@@ -22564,7 +22501,7 @@
 	},
 	{
 		"name": "31089",
-		"wab": "true",
+		"wab": "false",
 		"details": "HQ 5th SIB Camp I",
 		"coordinates": {
 			"lat": 1.37992729418245,
@@ -22699,7 +22636,7 @@
 	},
 	{
 		"name": "31201",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Chinese Cemy Path 13",
 		"coordinates": {
 			"lat": 1.38044981963514,
@@ -22708,7 +22645,7 @@
 	},
 	{
 		"name": "31211",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Muslim Cemy Path 17",
 		"coordinates": {
 			"lat": 1.38283900023768,
@@ -22735,7 +22672,7 @@
 	},
 	{
 		"name": "32041",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp LP 160",
 		"coordinates": {
 			"lat": 1.40436104392726,
@@ -22744,7 +22681,7 @@
 	},
 	{
 		"name": "32049",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft LP 161",
 		"coordinates": {
 			"lat": 1.40452254375654,
@@ -22753,7 +22690,7 @@
 	},
 	{
 		"name": "32051",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Track 11",
 		"coordinates": {
 			"lat": 1.40929365504034,
@@ -22762,7 +22699,7 @@
 	},
 	{
 		"name": "32059",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp Track 11",
 		"coordinates": {
 			"lat": 1.40903140804682,
@@ -22771,7 +22708,7 @@
 	},
 	{
 		"name": "32061",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp LP 173",
 		"coordinates": {
 			"lat": 1.41146307596912,
@@ -22780,7 +22717,7 @@
 	},
 	{
 		"name": "32069",
-		"wab": "true",
+		"wab": "false",
 		"details": "B26 Lim Chu Kang Rd",
 		"coordinates": {
 			"lat": 1.41103257931936,
@@ -22789,7 +22726,7 @@
 	},
 	{
 		"name": "32071",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Track 13",
 		"coordinates": {
 			"lat": 1.4160246040166,
@@ -22798,7 +22735,7 @@
 	},
 	{
 		"name": "32079",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp Track 13",
 		"coordinates": {
 			"lat": 1.41512827700833,
@@ -22825,7 +22762,7 @@
 	},
 	{
 		"name": "32101",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Murai Farmway",
 		"coordinates": {
 			"lat": 1.38541382998394,
@@ -22834,7 +22771,7 @@
 	},
 	{
 		"name": "32109",
-		"wab": "true",
+		"wab": "false",
 		"details": "Bef Lor Serambi",
 		"coordinates": {
 			"lat": 1.3857176700282,
@@ -22843,7 +22780,7 @@
 	},
 	{
 		"name": "32111",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft LP 93",
 		"coordinates": {
 			"lat": 1.39837200000575,
@@ -22852,7 +22789,7 @@
 	},
 	{
 		"name": "32119",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft LP 96",
 		"coordinates": {
 			"lat": 1.39858000001944,
@@ -22861,7 +22798,7 @@
 	},
 	{
 		"name": "33011",
-		"wab": "true",
+		"wab": "false",
 		"details": "B19 Lim Chu Kang Rd",
 		"coordinates": {
 			"lat": 1.41959108645842,
@@ -22870,7 +22807,7 @@
 	},
 	{
 		"name": "33019",
-		"wab": "true",
+		"wab": "false",
 		"details": "B20 Lim Chu Kang Rd",
 		"coordinates": {
 			"lat": 1.41920159190274,
@@ -22897,7 +22834,7 @@
 	},
 	{
 		"name": "33031",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Jln Bahtera",
 		"coordinates": {
 			"lat": 1.42397958326967,
@@ -22906,7 +22843,7 @@
 	},
 	{
 		"name": "33039",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp Jln Bahtera",
 		"coordinates": {
 			"lat": 1.42329599233546,
@@ -22915,7 +22852,7 @@
 	},
 	{
 		"name": "33041",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp Lim Chu Kang Lane 3",
 		"coordinates": {
 			"lat": 1.42761911626678,
@@ -22933,7 +22870,7 @@
 	},
 	{
 		"name": "33051",
-		"wab": "true",
+		"wab": "false",
 		"details": "Bef Lim Chu Kang Lane 3A",
 		"coordinates": {
 			"lat": 1.43024937289974,
@@ -22942,7 +22879,7 @@
 	},
 	{
 		"name": "33059",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Lim Chu Kang Lane 3A",
 		"coordinates": {
 			"lat": 1.42935991121752,
@@ -22960,7 +22897,7 @@
 	},
 	{
 		"name": "34011",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp Lim Chu Kang Lane 4",
 		"coordinates": {
 			"lat": 1.43318199595331,
@@ -22969,7 +22906,7 @@
 	},
 	{
 		"name": "34019",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Lim Chu Kang Lane 4",
 		"coordinates": {
 			"lat": 1.43253416698475,
@@ -22978,7 +22915,7 @@
 	},
 	{
 		"name": "34021",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp Lim Chu Kang Lane 5",
 		"coordinates": {
 			"lat": 1.43518649812518,
@@ -22987,7 +22924,7 @@
 	},
 	{
 		"name": "34029",
-		"wab": "true",
+		"wab": "false",
 		"details": "Bef Lim Chu Kang Lane 5",
 		"coordinates": {
 			"lat": 1.43497194397025,
@@ -22996,7 +22933,7 @@
 	},
 	{
 		"name": "34031",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Lim Chu Kang Lane 6",
 		"coordinates": {
 			"lat": 1.4376660533385,
@@ -23005,7 +22942,7 @@
 	},
 	{
 		"name": "34039",
-		"wab": "true",
+		"wab": "false",
 		"details": "Bef Lim Chu Kang Lane 6",
 		"coordinates": {
 			"lat": 1.43659170251147,
@@ -23014,7 +22951,7 @@
 	},
 	{
 		"name": "34041",
-		"wab": "true",
+		"wab": "false",
 		"details": "B03 Lim Chu Kang Rd",
 		"coordinates": {
 			"lat": 1.43886508618445,
@@ -23023,7 +22960,7 @@
 	},
 	{
 		"name": "34049",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Lim Chu Kang Lane 8",
 		"coordinates": {
 			"lat": 1.43837406233239,
@@ -23032,7 +22969,7 @@
 	},
 	{
 		"name": "34051",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Lim Chu Kang Lane 8",
 		"coordinates": {
 			"lat": 1.4427555864767,
@@ -23041,7 +22978,7 @@
 	},
 	{
 		"name": "34059",
-		"wab": "true",
+		"wab": "false",
 		"details": "Yishun Dairy Farm",
 		"coordinates": {
 			"lat": 1.44234338763128,
@@ -24202,7 +24139,7 @@
 	},
 	{
 		"name": "42231",
-		"wab": "true",
+		"wab": "false",
 		"details": "Bef Jln Jurong Kechil",
 		"coordinates": {
 			"lat": 1.34056805598593,
@@ -25507,7 +25444,7 @@
 	},
 	{
 		"name": "43721",
-		"wab": "true",
+		"wab": "false",
 		"details": "Blk 319",
 		"coordinates": {
 			"lat": 1.37076302526768,
@@ -26308,7 +26245,7 @@
 	},
 	{
 		"name": "44331",
-		"wab": "true",
+		"wab": "false",
 		"details": "Blk 239",
 		"coordinates": {
 			"lat": 1.38022107375265,
@@ -26461,7 +26398,7 @@
 	},
 	{
 		"name": "44441",
-		"wab": "true",
+		"wab": "false",
 		"details": "Blk 239",
 		"coordinates": {
 			"lat": 1.37924285981093,
@@ -26839,7 +26776,7 @@
 	},
 	{
 		"name": "44651",
-		"wab": "true",
+		"wab": "false",
 		"details": "Blk 617",
 		"coordinates": {
 			"lat": 1.38533394998016,
@@ -26866,7 +26803,7 @@
 	},
 	{
 		"name": "44669",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp Blk 532",
 		"coordinates": {
 			"lat": 1.38428576640159,
@@ -28369,7 +28306,7 @@
 	},
 	{
 		"name": "46209",
-		"wab": "true",
+		"wab": "false",
 		"details": "Blk 2",
 		"coordinates": {
 			"lat": 1.44025242879024,
@@ -30457,7 +30394,7 @@
 	},
 	{
 		"name": "48101",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Meng Suan Rd",
 		"coordinates": {
 			"lat": 1.40241038608699,
@@ -30466,7 +30403,7 @@
 	},
 	{
 		"name": "48109",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp Meng Suan Rd",
 		"coordinates": {
 			"lat": 1.40220535791866,
@@ -30538,7 +30475,7 @@
 	},
 	{
 		"name": "49021",
-		"wab": "true",
+		"wab": "false",
 		"details": "Whye Wah Devt & Constrn",
 		"coordinates": {
 			"lat": 1.41337474993907,
@@ -30547,7 +30484,7 @@
 	},
 	{
 		"name": "49029",
-		"wab": "true",
+		"wab": "false",
 		"details": "Sit Ley Timber",
 		"coordinates": {
 			"lat": 1.41359128228018,
@@ -32869,7 +32806,7 @@
 	},
 	{
 		"name": "53311",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp Bosch",
 		"coordinates": {
 			"lat": 1.34684500003106,
@@ -37161,6 +37098,15 @@
 		}
 	},
 	{
+		"name": "59629",
+		"wab": "true",
+		"details": "Opposite Blk 317A",
+		"coordinates": {
+			"lat": 1.43463,
+			"long": 103.843898
+		}
+	},
+	{
 		"name": "59631",
 		"wab": "true",
 		"details": "Opp Blk 445",
@@ -37395,6 +37341,15 @@
 		}
 	},
 	{
+		"name": "59809",
+		"wab": "true",
+		"details": "Opp Blk 382C",
+		"coordinates": {
+			"lat": 1.431761,
+			"long": 103.847993
+		}
+	},
+	{
 		"name": "59811",
 		"wab": "true",
 		"details": "Blk 477B",
@@ -37410,6 +37365,24 @@
 		"coordinates": {
 			"lat": 1.42696,
 			"long": 103.851955
+		}
+	},
+	{
+		"name": "59821",
+		"wab": "true",
+		"details": "Blk 334B",
+		"coordinates": {
+			"lat": 1.432912,
+			"long": 103.845777
+		}
+	},
+	{
+		"name": "59829",
+		"wab": "true",
+		"details": "Opposite Blk 334B",
+		"coordinates": {
+			"lat": 1.432833,
+			"long": 103.846904
 		}
 	},
 	{
@@ -41455,7 +41428,7 @@
 	},
 	{
 		"name": "66391",
-		"wab": "true",
+		"wab": "false",
 		"details": "Lor Chuan Stn Exit A",
 		"coordinates": {
 			"lat": 1.35096942673026,
@@ -41482,7 +41455,7 @@
 	},
 	{
 		"name": "66409",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp Golden Hts",
 		"coordinates": {
 			"lat": 1.34926598081238,
@@ -45919,7 +45892,7 @@
 	},
 	{
 		"name": "76291",
-		"wab": "false",
+		"wab": "true",
 		"details": "Angsana Pr Sch",
 		"coordinates": {
 			"lat": 1.3488330441336,
@@ -50230,7 +50203,7 @@
 	},
 	{
 		"name": "90079",
-		"wab": "true",
+		"wab": "false",
 		"details": "Opp Costa Rhu Condo",
 		"coordinates": {
 			"lat": 1.29760718196372,
@@ -52534,7 +52507,7 @@
 	},
 	{
 		"name": "97149",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft VICOM",
 		"coordinates": {
 			"lat": 1.35180572395974,

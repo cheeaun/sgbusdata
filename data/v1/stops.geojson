@@ -64853,6 +64853,24 @@
 		},
 		{
 			"type": "Feature",
+			"id": "59629",
+			"properties": {
+				"number": "59629",
+				"name": "Opposite Blk 317A",
+				"services": [
+					"801"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.843898,
+					1.43463
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "59631",
 			"properties": {
 				"number": "59631",
@@ -65382,6 +65400,25 @@
 		},
 		{
 			"type": "Feature",
+			"id": "59809",
+			"properties": {
+				"number": "59809",
+				"name": "Opp Blk 382C",
+				"services": [
+					"663",
+					"801"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.847993,
+					1.431761
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "59811",
 			"properties": {
 				"number": "59811",
@@ -65413,6 +65450,43 @@
 				"coordinates": [
 					103.851955,
 					1.42696
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "59821",
+			"properties": {
+				"number": "59821",
+				"name": "Blk 334B",
+				"services": [
+					"801",
+					"803"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.845777,
+					1.432912
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "59829",
+			"properties": {
+				"number": "59829",
+				"name": "Opposite Blk 334B",
+				"services": [
+					"801"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.846904,
+					1.432833
 				]
 			}
 		},
