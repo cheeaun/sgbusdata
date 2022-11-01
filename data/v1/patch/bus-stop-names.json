@@ -830,6 +830,11 @@
 		"newName": "Blk 782"
 	},
 	{
+		"number": "46759",
+		"name": "BLK 676A",
+		"newName": "Blk 676A"
+	},
+	{
 		"number": "47099",
 		"name": "MASTERDON",
 		"newName": "Masterdon"
@@ -1425,6 +1430,46 @@
 		"newName": "Aft Tampines Ave 5"
 	},
 	{
+		"number": "75561",
+		"name": "BLK 648C",
+		"newName": "Blk 648C"
+	},
+	{
+		"number": "75569",
+		"name": "BLK 636C",
+		"newName": "Blk 636C"
+	},
+	{
+		"number": "75571",
+		"name": "BLK 637B",
+		"newName": "Blk 637B"
+	},
+	{
+		"number": "75579",
+		"name": "BLK 630B",
+		"newName": "Blk 630B"
+	},
+	{
+		"number": "75581",
+		"name": "BLK 637 CP",
+		"newName": "Blk 637 CP"
+	},
+	{
+		"number": "75589",
+		"name": "OPP BLK 638A",
+		"newName": "Opp Blk 638A"
+	},
+	{
+		"number": "75591",
+		"name": "BEF BLK 631B",
+		"newName": "Bef Blk 631B"
+	},
+	{
+		"number": "75599",
+		"name": "OPP BLK 631B",
+		"newName": "Opp Blk 631B"
+	},
+	{
 		"number": "76031",
 		"name": "TAMPINES EAST STN EXIT B",
 		"newName": "Tampines East Stn Exit B"
@@ -1513,6 +1558,16 @@
 		"number": "77091",
 		"name": "AFT PASIR RIS AVE",
 		"newName": "Aft Pasir Ris Ave"
+	},
+	{
+		"number": "78031",
+		"name": "BLK 191",
+		"newName": "Blk 191"
+	},
+	{
+		"number": "78039",
+		"name": "BLK 104",
+		"newName": "Blk 104"
 	},
 	{
 		"number": "80011",
