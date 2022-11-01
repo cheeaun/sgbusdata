@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Upp East Coast Ter to Tampines Int",
+		"name": "From Upp East Coast Ter to Pasir Ris Int",
 		"stops": [
 			"94009",
 			"94069",
@@ -23,15 +23,29 @@
 			"75209",
 			"75169",
 			"75131",
-			"75121",
-			"75009"
+			"75261",
+			"75471",
+			"75481",
+			"75561",
+			"75571",
+			"75581",
+			"77389",
+			"77329",
+			"77379",
+			"77009"
 		]
 	},
 	{
-		"name": "From Tampines Int to Upp East Coast Ter",
+		"name": "From Pasir Ris Int to Upp East Coast Ter",
 		"stops": [
-			"75009",
-			"75129",
+			"77009",
+			"77321",
+			"77381",
+			"75579",
+			"75569",
+			"75489",
+			"75479",
+			"75269",
 			"75139",
 			"75161",
 			"75201",

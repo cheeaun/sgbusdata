@@ -210,17 +210,6 @@
 		]
 	},
 	{
-		"number": 522,
-		"description": "Flora Road to Nicoll Highway",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"522-1.kml"
-		],
-		"routeFile": [
-			"522.xml"
-		]
-	},
-	{
 		"number": 523,
 		"description": "Bedok Reservoir View to Nicoll Highway",
 		"type": "PREMIUM",
@@ -3672,7 +3661,8 @@
 		"number": 359,
 		"type": "TRUNK",
 		"kmlFile": [
-			"359-1.kml"
+			"359-1.kml",
+			"359-2.kml"
 		],
 		"routeFile": [
 			"359.xml"
