@@ -1,3 +1,25 @@
+# 13 November 2022
+
+## Stops count change: 5081 ⮕ 5083
+
+### Stops added: 2
+
+- `03549` Shenton Way Stn Exit 3
+- `03579` Opp Downtown Stn
+
+### Bus Stop Changes To Routes: 1
+
+- `400` Shenton Way Ter ⟲ Aft Gdns by the Bay: +2, -1
+
+## Routes changed: 2
+
+- `89` Hougang Ctrl Int ⟲ 3rd Cargo Agents
+- `860T` Yio Chu Kang Int → Yishun Int
+
+## First/last timings changed
+
+Affected services: `57`, `182`, `262`, `400`, `182M`
+
 # 1 November 2022
 
 ## Stops count change: 5072 ⮕ 5081
