@@ -107247,7 +107247,6 @@
 				"services": [
 					"106",
 					"133",
-					"400",
 					"502",
 					"502A",
 					"513",
@@ -107311,6 +107310,42 @@
 				"coordinates": [
 					103.85561610012866,
 					1.2775330547661
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "03549",
+			"properties": {
+				"number": "03549",
+				"name": "Shenton Way Stn Exit 3",
+				"services": [
+					"400"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.85045,
+					1.277728
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "03579",
+			"properties": {
+				"number": "03579",
+				"name": "Opp Downtown Stn",
+				"services": [
+					"400"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.852918,
+					1.278832
 				]
 			}
 		},

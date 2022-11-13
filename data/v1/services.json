@@ -17953,7 +17953,7 @@
 		]
 	},
 	"400": {
-		"name": "Shenton Way Ter ⟲ Opp Marina Barrage",
+		"name": "Shenton Way Ter ⟲ Aft Gdns by the Bay",
 		"routes": [
 			[
 				"03239",
@@ -17972,7 +17972,8 @@
 				"03411",
 				"03339",
 				"03539",
-				"03529",
+				"03579",
+				"03549",
 				"03129",
 				"03218",
 				"03239"

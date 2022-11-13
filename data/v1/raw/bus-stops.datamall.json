@@ -644,6 +644,20 @@
 		"Longitude": 103.85561610012866
 	},
 	{
+		"BusStopCode": "03549",
+		"RoadName": "Park Street",
+		"Description": "Shenton Way Stn Exit 3",
+		"Latitude": 1.277728,
+		"Longitude": 103.85045
+	},
+	{
+		"BusStopCode": "03579",
+		"RoadName": "Straits view",
+		"Description": "Opp Downtown Stn",
+		"Latitude": 1.278832,
+		"Longitude": 103.852918
+	},
+	{
 		"BusStopCode": "04019",
 		"RoadName": "Bencoolen St",
 		"Description": "OPP BENCOOLEN STN EXIT B",

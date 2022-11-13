@@ -8379,6 +8379,24 @@
 		}
 	},
 	{
+		"name": "03549",
+		"wab": "true",
+		"details": "Shenton Way Stn Exit 3",
+		"coordinates": {
+			"lat": 1.277728,
+			"long": 103.85045
+		}
+	},
+	{
+		"name": "03579",
+		"wab": "true",
+		"details": "Opp Downtown Stn",
+		"coordinates": {
+			"lat": 1.278832,
+			"long": 103.852918
+		}
+	},
+	{
 		"name": "04019",
 		"wab": "true",
 		"details": "OPP BENCOOLEN STN EXIT B",
