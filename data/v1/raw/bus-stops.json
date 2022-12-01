@@ -3249,6 +3249,15 @@
 		}
 	},
 	{
+		"name": "-P932",
+		"wab": "true",
+		"details": "Mera Terr P/G",
+		"coordinates": {
+			"lat": 1.346650009,
+			"long": 103.9631124
+		}
+	},
+	{
 		"name": "-P933",
 		"wab": "true",
 		"details": "Blk 3012",
@@ -4506,6 +4515,33 @@
 		"coordinates": {
 			"lat": 1.33208271659156,
 			"long": 103.965324588739
+		}
+	},
+	{
+		"name": "-PP12",
+		"wab": "true",
+		"details": "Premier",
+		"coordinates": {
+			"lat": 1.33124389066562,
+			"long": 103.96761886176331
+		}
+	},
+	{
+		"name": "-PP13",
+		"wab": "true",
+		"details": "Aft Sunny Metal & Engrg",
+		"coordinates": {
+			"lat": 1.33276553471842,
+			"long": 103.97037694441909
+		}
+	},
+	{
+		"name": "-PP14",
+		"wab": "true",
+		"details": "Bef Changi Sth St 1",
+		"coordinates": {
+			"lat": 1.33529647913206,
+			"long": 103.97039204168856
 		}
 	},
 	{
@@ -8255,7 +8291,7 @@
 	{
 		"name": "03361",
 		"wab": "true",
-		"details": "Opp Marina Barrage",
+		"details": "GARDENS BY THE BAY STN EXIT 2",
 		"coordinates": {
 			"lat": 1.279917,
 			"long": 103.868895
@@ -8264,7 +8300,7 @@
 	{
 		"name": "03369",
 		"wab": "true",
-		"details": "Marina Barrage",
+		"details": "GARDENS BY THE BAY STN EXIT 1",
 		"coordinates": {
 			"lat": 1.27960772061959,
 			"long": 103.8698744774074
@@ -8705,7 +8741,7 @@
 	{
 		"name": "05069",
 		"wab": "true",
-		"details": "Outram Pk Stn Exit H",
+		"details": "OUTRAM PK STN EXIT 4",
 		"coordinates": {
 			"lat": 1.28027629959632,
 			"long": 103.84029791443083
@@ -8768,7 +8804,7 @@
 	{
 		"name": "05259",
 		"wab": "true",
-		"details": "Aft Kreta Ayer Rd",
+		"details": "OPP MAXWELL STN EXIT 3",
 		"coordinates": {
 			"lat": 1.27979447837032,
 			"long": 103.84262707605177
@@ -8777,7 +8813,7 @@
 	{
 		"name": "05269",
 		"wab": "true",
-		"details": "Maxwell Rd FC",
+		"details": "MAXWELL STN EXIT 2",
 		"coordinates": {
 			"lat": 1.280894,
 			"long": 103.844567
@@ -8912,7 +8948,7 @@
 	{
 		"name": "06011",
 		"wab": "true",
-		"details": "Opp Outram Pk Stn",
+		"details": "OUTRAM PK STN EXIT 7",
 		"coordinates": {
 			"lat": 1.28165999996967,
 			"long": 103.83801388886192
@@ -8921,7 +8957,7 @@
 	{
 		"name": "06029",
 		"wab": "true",
-		"details": "Outram Pk Stn",
+		"details": "OUTRAM PK STN EXIT 1",
 		"coordinates": {
 			"lat": 1.28177041153491,
 			"long": 103.8383828488293
@@ -8975,7 +9011,7 @@
 	{
 		"name": "06071",
 		"wab": "true",
-		"details": "Blk 2B",
+		"details": "HAVELOCK STN EXIT 2",
 		"coordinates": {
 			"lat": 1.28685859481289,
 			"long": 103.83360028266564
@@ -8984,7 +9020,7 @@
 	{
 		"name": "06081",
 		"wab": "true",
-		"details": "Blk 94",
+		"details": "HAVELOCK STN EXIT 3",
 		"coordinates": {
 			"lat": 1.28837086415387,
 			"long": 103.83349881780524
@@ -9011,7 +9047,7 @@
 	{
 		"name": "06141",
 		"wab": "true",
-		"details": "Holiday Inn Atrium",
+		"details": "HAVELOCK STN EXIT 5",
 		"coordinates": {
 			"lat": 1.28963300933974,
 			"long": 103.83381241921823
@@ -9020,7 +9056,7 @@
 	{
 		"name": "06149",
 		"wab": "true",
-		"details": "Opp Holiday Inn Atrium",
+		"details": "HAVELOCK STN EXIT 4",
 		"coordinates": {
 			"lat": 1.28984045728104,
 			"long": 103.83411526676929
@@ -9461,7 +9497,7 @@
 	{
 		"name": "09022",
 		"wab": "true",
-		"details": "Bef Orchard Stn Exit B",
+		"details": "ORCHARD STN EXIT 13",
 		"coordinates": {
 			"lat": 1.30252834773643,
 			"long": 103.83239784275958
@@ -9542,7 +9578,7 @@
 	{
 		"name": "09131",
 		"wab": "true",
-		"details": "Grange Residences",
+		"details": "OPP OCHARD BLVD STN",
 		"coordinates": {
 			"lat": 1.30391999998489,
 			"long": 103.82333805603095
@@ -9551,7 +9587,7 @@
 	{
 		"name": "09139",
 		"wab": "true",
-		"details": "Aft Cuscaden Rd",
+		"details": "ORCHARD BLVD STN EXIT 1",
 		"coordinates": {
 			"lat": 1.303528,
 			"long": 103.823585
@@ -9668,7 +9704,7 @@
 	{
 		"name": "10018",
 		"wab": "true",
-		"details": "Outram Pk Stn Exit F/SGH",
+		"details": "OUTRAM PK STN EXIT 6/SGH",
 		"coordinates": {
 			"lat": 1.27900819665099,
 			"long": 103.83860360621959
@@ -11675,7 +11711,7 @@
 	{
 		"name": "13011",
 		"wab": "true",
-		"details": "Opp S'pore Botanic Gdns",
+		"details": "NAPIER STN EXIT 2",
 		"coordinates": {
 			"lat": 1.306504,
 			"long": 103.81932
@@ -11684,7 +11720,7 @@
 	{
 		"name": "13019",
 		"wab": "true",
-		"details": "S'pore Botanic Gdns",
+		"details": "NAPIER STN EXIT 1",
 		"coordinates": {
 			"lat": 1.3067380217198,
 			"long": 103.82013079894885
@@ -11801,7 +11837,7 @@
 	{
 		"name": "13079",
 		"wab": "true",
-		"details": "The Cosmopolitan",
+		"details": "GREAT WORLD STN EXIT 4",
 		"coordinates": {
 			"lat": 1.29612213279141,
 			"long": 103.83229211134126
@@ -11954,7 +11990,7 @@
 	{
 		"name": "13191",
 		"wab": "true",
-		"details": "Bef Orchard Blvd",
+		"details": "OPP ORCHARD STN EXIT 12",
 		"coordinates": {
 			"lat": 1.302461,
 			"long": 103.8297819
@@ -11963,7 +11999,7 @@
 	{
 		"name": "13199",
 		"wab": "true",
-		"details": "Aft Orchard Blvd",
+		"details": "AFT ORCHARD STN EXIT 12",
 		"coordinates": {
 			"lat": 1.302127,
 			"long": 103.829875
@@ -23069,7 +23105,7 @@
 	{
 		"name": "40081",
 		"wab": "true",
-		"details": "Stevens Stn",
+		"details": "STEVENS STN EXIT 1",
 		"coordinates": {
 			"lat": 1.32012951912406,
 			"long": 103.82605259642706
@@ -23078,7 +23114,7 @@
 	{
 		"name": "40089",
 		"wab": "true",
-		"details": "Opp Stevens Stn",
+		"details": "AFT STEVENS STN EXIT 5",
 		"coordinates": {
 			"lat": 1.320510556,
 			"long": 103.8273903
@@ -23249,7 +23285,7 @@
 	{
 		"name": "40221",
 		"wab": "true",
-		"details": "Opp Stevens Stn",
+		"details": "STEVENS STN EXIT 3",
 		"coordinates": {
 			"lat": 1.31902531287493,
 			"long": 103.82545561296305
@@ -23258,7 +23294,7 @@
 	{
 		"name": "40229",
 		"wab": "true",
-		"details": "Aft Stevens Stn",
+		"details": "BEF STEVENS STN EXIT 2",
 		"coordinates": {
 			"lat": 1.319241,
 			"long": 103.825711
@@ -23276,7 +23312,7 @@
 	{
 		"name": "40239",
 		"wab": "true",
-		"details": "Aft Tanglin CC",
+		"details": "BEF STEVENS STN EXIT 4",
 		"coordinates": {
 			"lat": 1.322585278,
 			"long": 103.8262153
@@ -32761,7 +32797,7 @@
 	},
 	{
 		"name": "53311",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp Bosch",
 		"coordinates": {
 			"lat": 1.34684500003106,
@@ -44532,6 +44568,24 @@
 		}
 	},
 	{
+		"name": "72171",
+		"wab": "true",
+		"details": "Opp HomeTeamns Bedok",
+		"coordinates": {
+			"lat": 1.342473,
+			"long": 103.918486
+		}
+	},
+	{
+		"name": "72179",
+		"wab": "true",
+		"details": "HomeTeamns Bedok",
+		"coordinates": {
+			"lat": 1.342322,
+			"long": 103.918768
+		}
+	},
+	{
 		"name": "73019",
 		"wab": "true",
 		"details": "Bef RSAF Roundabout",
@@ -44592,6 +44646,15 @@
 		"coordinates": {
 			"lat": 1.35075966304764,
 			"long": 103.89911545547028
+		}
+	},
+	{
+		"name": "74009",
+		"wab": "true",
+		"details": "Tampines Nth Int",
+		"coordinates": {
+			"lat": 1.368916,
+			"long": 103.939651
 		}
 	},
 	{

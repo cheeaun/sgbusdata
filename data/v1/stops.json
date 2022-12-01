@@ -17,7 +17,7 @@
 	"10018": [
 		103.8386,
 		1.27901,
-		"Outram Pk Stn Exit F/SGH"
+		"Outram Pk Stn Exit 6/SGH"
 	],
 	"10021": [
 		103.83839,
@@ -1132,12 +1132,12 @@
 	"13011": [
 		103.81932,
 		1.3065,
-		"Opp S'pore Botanic Gdns"
+		"Napier Stn Exit 2"
 	],
 	"13019": [
 		103.82013,
 		1.30674,
-		"S'pore Botanic Gdns"
+		"Napier Stn Exit 1"
 	],
 	"13021": [
 		103.81431,
@@ -1202,7 +1202,7 @@
 	"13079": [
 		103.83229,
 		1.29612,
-		"The Cosmopolitan"
+		"Great World Stn Exit 4"
 	],
 	"13081": [
 		103.83624,
@@ -1287,12 +1287,12 @@
 	"13191": [
 		103.82978,
 		1.30246,
-		"Bef Orchard Blvd"
+		"Opp Orchard Stn Exit 12"
 	],
 	"13199": [
 		103.82988,
 		1.30213,
-		"Aft Orchard Blvd"
+		"Aft Orchard Stn Exit 12"
 	],
 	"13201": [
 		103.8221,
@@ -7462,12 +7462,12 @@
 	"40081": [
 		103.82605,
 		1.32013,
-		"Stevens Stn"
+		"Stevens Stn Exit 1"
 	],
 	"40089": [
 		103.82739,
 		1.32051,
-		"Opp Stevens Stn"
+		"Aft Stevens Stn Exit 5"
 	],
 	"40091": [
 		103.82351,
@@ -7562,12 +7562,12 @@
 	"40221": [
 		103.82546,
 		1.31903,
-		"Opp Stevens Stn"
+		"Stevens Stn Exit 3"
 	],
 	"40229": [
 		103.82571,
 		1.31924,
-		"Aft Stevens Stn"
+		"Bef Stevens Stn Exit 2"
 	],
 	"40231": [
 		103.82577,
@@ -7577,7 +7577,7 @@
 	"40239": [
 		103.82622,
 		1.32259,
-		"Aft Tanglin CC"
+		"Bef Stevens Stn Exit 4"
 	],
 	"40249": [
 		103.82735,
@@ -19384,6 +19384,16 @@
 		1.34105,
 		"Bef Bartley Viaduct"
 	],
+	"72171": [
+		103.91849,
+		1.34247,
+		"Opp HomeTeamns Bedok"
+	],
+	"72179": [
+		103.91877,
+		1.34232,
+		"HomeTeamns Bedok"
+	],
 	"73019": [
 		103.89944,
 		1.35197,
@@ -19418,6 +19428,11 @@
 		103.89912,
 		1.35076,
 		"Air Force Sch"
+	],
+	"74009": [
+		103.93965,
+		1.36892,
+		"Tampines Nth Int"
 	],
 	"74011": [
 		103.92045,
@@ -24647,12 +24662,12 @@
 	"03361": [
 		103.8689,
 		1.27992,
-		"Opp Marina Barrage"
+		"Gardens by the Bay Stn Exit 2"
 	],
 	"03369": [
 		103.86987,
 		1.27961,
-		"Marina Barrage"
+		"Gardens by the Bay Stn Exit 1"
 	],
 	"03371": [
 		103.86627,
@@ -24897,7 +24912,7 @@
 	"05069": [
 		103.8403,
 		1.28028,
-		"Outram Pk Stn Exit H"
+		"Outram Pk Stn Exit 4"
 	],
 	"05129": [
 		103.84635,
@@ -24932,12 +24947,12 @@
 	"05259": [
 		103.84263,
 		1.27979,
-		"Aft Kreta Ayer Rd"
+		"Opp Maxwell Stn Exit 3"
 	],
 	"05269": [
 		103.84457,
 		1.28089,
-		"Maxwell Rd FC"
+		"Maxwell Stn Exit 2"
 	],
 	"05271": [
 		103.84382,
@@ -25012,12 +25027,12 @@
 	"06011": [
 		103.83801,
 		1.28166,
-		"Opp Outram Pk Stn"
+		"Outram Pk Stn Exit 7"
 	],
 	"06029": [
 		103.83838,
 		1.28177,
-		"Outram Pk Stn"
+		"Outram Pk Stn Exit 1"
 	],
 	"06031": [
 		103.83879,
@@ -25047,12 +25062,12 @@
 	"06071": [
 		103.8336,
 		1.28686,
-		"Blk 2B"
+		"Havelock Stn Exit 2"
 	],
 	"06081": [
 		103.8335,
 		1.28837,
-		"Blk 94"
+		"Havelock Stn Exit 3"
 	],
 	"06129": [
 		103.83441,
@@ -25067,12 +25082,12 @@
 	"06141": [
 		103.83381,
 		1.28963,
-		"Holiday Inn Atrium"
+		"Havelock Stn Exit 5"
 	],
 	"06149": [
 		103.83412,
 		1.28984,
-		"Opp Holiday Inn Atrium"
+		"Havelock Stn Exit 4"
 	],
 	"06151": [
 		103.83737,
@@ -25317,7 +25332,7 @@
 	"09022": [
 		103.8324,
 		1.30253,
-		"Bef Orchard Stn Exit B"
+		"Orchard Stn Exit 13"
 	],
 	"09023": [
 		103.83254,
@@ -25362,12 +25377,12 @@
 	"09131": [
 		103.82334,
 		1.30392,
-		"Grange Residences"
+		"Opp Orchard Blvd Stn"
 	],
 	"09139": [
 		103.82359,
 		1.30353,
-		"Aft Cuscaden Rd"
+		"Orchard Blvd Stn Exit 1"
 	],
 	"09141": [
 		103.82178,

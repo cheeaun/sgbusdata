@@ -138,22 +138,10 @@
 		"count": 244
 	},
 	{
-		"number": 53,
-		"numberPattern": "53-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 6184
-	},
-	{
 		"number": 59,
 		"numberPattern": "59-2",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 22
-	},
-	{
-		"number": 81,
-		"numberPattern": "81-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 241
 	},
 	{
 		"number": 82,

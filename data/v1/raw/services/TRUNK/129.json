@@ -1,8 +1,13 @@
 [
 	{
-		"name": "From Tampines Concourse Int to St. Michael's Ter",
+		"name": "From Tampines Nth Int to St. Michael's Ter",
 		"stops": [
-			"75019",
+			"74009",
+			"75561",
+			"75571",
+			"76541",
+			"76511",
+			"76521",
 			"76559",
 			"76191",
 			"76149",
@@ -39,7 +44,7 @@
 		]
 	},
 	{
-		"name": "From St. Michael's Ter to Tampines Concourse Int",
+		"name": "From St. Michael's Ter to Tampines Nth Int",
 		"stops": [
 			"52499",
 			"52451",
@@ -75,7 +80,13 @@
 			"76141",
 			"76199",
 			"76551",
-			"75019"
+			"76529",
+			"76519",
+			"76549",
+			"75591",
+			"75579",
+			"75569",
+			"74009"
 		]
 	}
 ]

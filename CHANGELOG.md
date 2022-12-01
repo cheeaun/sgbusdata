@@ -1,3 +1,75 @@
+# 1 December 2022
+
+## Stops count change: 5083 ⮕ 5086
+
+### Stops added: 3
+
+- `72171` Opp HomeTeamns Bedok
+- `72179` HomeTeamns Bedok
+- `74009` Tampines Nth Int
+
+### Stop names changed: 25
+
+- `10018` Outram Pk Stn Exit F/SGH ⮕ Outram Pk Stn Exit 6/SGH
+- `13011` Opp S'pore Botanic Gdns ⮕ Napier Stn Exit 2
+- `13019` S'pore Botanic Gdns ⮕ Napier Stn Exit 1
+- `13079` The Cosmopolitan ⮕ Great World Stn Exit 4
+- `13191` Bef Orchard Blvd ⮕ Opp Orchard Stn Exit 12
+- `13199` Aft Orchard Blvd ⮕ Aft Orchard Stn Exit 12
+- `40081` Stevens Stn ⮕ Stevens Stn Exit 1
+- `40089` Opp Stevens Stn ⮕ Aft Stevens Stn Exit 5
+- `40221` Opp Stevens Stn ⮕ Stevens Stn Exit 3
+- `40229` Aft Stevens Stn ⮕ Bef Stevens Stn Exit 2
+- `40239` Aft Tanglin CC ⮕ Bef Stevens Stn Exit 4
+- `03361` Opp Marina Barrage ⮕ Gardens by the Bay Stn Exit 2
+- `03369` Marina Barrage ⮕ Gardens by the Bay Stn Exit 1
+- `05069` Outram Pk Stn Exit H ⮕ Outram Pk Stn Exit 4
+- `05259` Aft Kreta Ayer Rd ⮕ Opp Maxwell Stn Exit 3
+- `05269` Maxwell Rd FC ⮕ Maxwell Stn Exit 2
+- `06011` Opp Outram Pk Stn ⮕ Outram Pk Stn Exit 7
+- `06029` Outram Pk Stn ⮕ Outram Pk Stn Exit 1
+- `06071` Blk 2B ⮕ Havelock Stn Exit 2
+- `06081` Blk 94 ⮕ Havelock Stn Exit 3
+- `06141` Holiday Inn Atrium ⮕ Havelock Stn Exit 5
+- `06149` Opp Holiday Inn Atrium ⮕ Havelock Stn Exit 4
+- `09022` Bef Orchard Stn Exit B ⮕ Orchard Stn Exit 13
+- `09131` Grange Residences ⮕ Opp Orchard Blvd Stn
+- `09139` Aft Cuscaden Rd ⮕ Orchard Blvd Stn Exit 1
+
+### Bus Stop Changes To Routes: 9
+
+- `18` Tampines Nth Int ⇄ Bedok Nth Depot: +33, -19
+- `8` Tampines Int ⇄ Toa Payoh Int: +2
+- `15` Pasir Ris Int ⟲ Opp Parkway Parade: +2
+- `23` Tampines Int ⟲ Jln Besar Stn Exit A: +2
+- `49` Jurong East Int ⟲ Blk 402: +2
+- `58` Bishan Int ⇄ Pasir Ris Int: +2
+- `129` Tampines Nth Int ⇄ St. Michael's Ter: +13, -2
+- `518` Pasir Ris Int ⟲ Bef Cairnhill Rd: +2
+- `15A` Pasir Ris Int → Opp Eunos Stn: +3
+
+## Routes changed: 15
+
+- `3` Tampines Int ⇄ Punggol Temp Int
+- `12` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `17` Pasir Ris Int ⇄ Bedok Int
+- `18` Tampines Nth Int ⇄ Bedok Nth Depot
+- `21` Pasir Ris Int ⇄ St. Michael's Ter
+- `39` Tampines Concourse Int ⇄ Yishun Int
+- `46` Upp East Coast Ter ⇄ Pasir Ris Int
+- `53` Bishan Int ⟲ Changi Airport PTB3
+- `81` Tampines Int ⟲ Blk 261
+- `109` S'Goon Int ⇄ Changi Village Ter
+- `400` Shenton Way Ter ⟲ Aft Gdns by the Bay
+- `518` Pasir Ris Int ⟲ Bef Cairnhill Rd
+- `12e` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `518A` Pasir Ris Int → Bayfront Stn Exit A
+- `53A` Blk 738 → Changi Airport PTB2
+
+## First/last timings changed
+
+Affected services: `3`, `8`, `15`, `18`, `23`, `36`, `49`, `58`, `79`, `83`, `129`, `173`, `180`, `189`, `518`, `857`, `858`, `859`, `965`, `966`, `972`, `973`, `975`, `983`, `991`, `15A`
+
 # 13 November 2022
 
 ## Stops count change: 5081 ⮕ 5083
