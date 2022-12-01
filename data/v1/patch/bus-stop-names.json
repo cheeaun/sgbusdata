@@ -10,6 +10,16 @@
 		"newName": "Opp SO Sofitel S'pore"
 	},
 	{
+		"number": "03361",
+		"name": "GARDENS BY THE BAY STN EXIT 2",
+		"newName": "Gardens by the Bay Stn Exit 2"
+	},
+	{
+		"number": "03369",
+		"name": "GARDENS BY THE BAY STN EXIT 1",
+		"newName": "Gardens by the Bay Stn Exit 1"
+	},
+	{
 		"number": "04019",
 		"name": "OPP BENCOOLEN STN EXIT B",
 		"newName": "Opp Bencoolen Stn Exit B"
@@ -40,14 +50,59 @@
 		"newName": "Fort Canning Stn Exit B"
 	},
 	{
+		"number": "05069",
+		"name": "OUTRAM PK STN EXIT 4",
+		"newName": "Outram Pk Stn Exit 4"
+	},
+	{
+		"number": "05259",
+		"name": "OPP MAXWELL STN EXIT 3",
+		"newName": "Opp Maxwell Stn Exit 3"
+	},
+	{
+		"number": "05269",
+		"name": "MAXWELL STN EXIT 2",
+		"newName": "Maxwell Stn Exit 2"
+	},
+	{
 		"number": "05431",
 		"name": "TOWER 15",
 		"newName": "Tower 15"
 	},
 	{
+		"number": "06011",
+		"name": "OUTRAM PK STN EXIT 7",
+		"newName": "Outram Pk Stn Exit 7"
+	},
+	{
+		"number": "06029",
+		"name": "OUTRAM PK STN EXIT 1",
+		"newName": "Outram Pk Stn Exit 1"
+	},
+	{
 		"number": "06049",
 		"name": "BEF OUTRAM FLYOVER",
 		"newName": "Bef Outram Flyover"
+	},
+	{
+		"number": "06071",
+		"name": "HAVELOCK STN EXIT 2",
+		"newName": "Havelock Stn Exit 2"
+	},
+	{
+		"number": "06081",
+		"name": "HAVELOCK STN EXIT 3",
+		"newName": "Havelock Stn Exit 3"
+	},
+	{
+		"number": "06141",
+		"name": "HAVELOCK STN EXIT 5",
+		"newName": "Havelock Stn Exit 5"
+	},
+	{
+		"number": "06149",
+		"name": "HAVELOCK STN EXIT 4",
+		"newName": "Havelock Stn Exit 4"
 	},
 	{
 		"number": "07351",
@@ -90,9 +145,29 @@
 		"newName": "Bencoolen Stn Exit B"
 	},
 	{
+		"number": "09022",
+		"name": "ORCHARD STN EXIT 13",
+		"newName": "Orchard Stn Exit 13"
+	},
+	{
+		"number": "09131",
+		"name": "OPP OCHARD BLVD STN",
+		"newName": "Opp Orchard Blvd Stn"
+	},
+	{
+		"number": "09139",
+		"name": "ORCHARD BLVD STN EXIT 1",
+		"newName": "Orchard Blvd Stn Exit 1"
+	},
+	{
 		"number": "10011",
 		"name": "BEF NEIL RD",
 		"newName": "Bef Neil Rd"
+	},
+	{
+		"number": "10018",
+		"name": "OUTRAM PK STN EXIT 6/SGH",
+		"newName": "Outram Pk Stn Exit 6/SGH"
 	},
 	{
 		"number": "10041",
@@ -140,6 +215,16 @@
 		"newName": "SIM HQ"
 	},
 	{
+		"number": "13011",
+		"name": "NAPIER STN EXIT 2",
+		"newName": "Napier Stn Exit 2"
+	},
+	{
+		"number": "13019",
+		"name": "NAPIER STN EXIT 1",
+		"newName": "Napier Stn Exit 1"
+	},
+	{
 		"number": "13062",
 		"name": "STELLAR RV",
 		"newName": "Stellar RV"
@@ -155,6 +240,11 @@
 		"newName": "RV Residences"
 	},
 	{
+		"number": "13079",
+		"name": "GREAT WORLD STN EXIT 4",
+		"newName": "Great World Stn Exit 4"
+	},
+	{
 		"number": "13091",
 		"name": "AFT KIM YAM RD",
 		"newName": "Aft Kim Yam Rd"
@@ -163,6 +253,16 @@
 		"number": "13099",
 		"name": "BEF KIM YAM RD",
 		"newName": "Bef Kim Yam Rd"
+	},
+	{
+		"number": "13191",
+		"name": "OPP ORCHARD STN EXIT 12",
+		"newName": "Opp Orchard Stn Exit 12"
+	},
+	{
+		"number": "13199",
+		"name": "AFT ORCHARD STN EXIT 12",
+		"newName": "Aft Orchard Stn Exit 12"
 	},
 	{
 		"number": "14501",
@@ -665,9 +765,34 @@
 		"newName": "Bef Winstedt Rd"
 	},
 	{
+		"number": "40081",
+		"name": "STEVENS STN EXIT 1",
+		"newName": "Stevens Stn Exit 1"
+	},
+	{
+		"number": "40089",
+		"name": "AFT STEVENS STN EXIT 5",
+		"newName": "Aft Stevens Stn Exit 5"
+	},
+	{
 		"number": "40209",
 		"name": "NOVOTEL MERCURE @ STEVENS",
 		"newName": "Novotel Mercure @ Stevens"
+	},
+	{
+		"number": "40221",
+		"name": "STEVENS STN EXIT 3",
+		"newName": "Stevens Stn Exit 3"
+	},
+	{
+		"number": "40229",
+		"name": "BEF STEVENS STN EXIT 2",
+		"newName": "Bef Stevens Stn Exit 2"
+	},
+	{
+		"number": "40239",
+		"name": "BEF STEVENS STN EXIT 4",
+		"newName": "Bef Stevens Stn Exit 4"
 	},
 	{
 		"number": "40261",

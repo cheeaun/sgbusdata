@@ -107,7 +107,7 @@
 			"id": "10018",
 			"properties": {
 				"number": "10018",
-				"name": "Outram Pk Stn Exit F/SGH",
+				"name": "Outram Pk Stn Exit 6/SGH",
 				"services": [
 					"124",
 					"143",
@@ -5243,7 +5243,7 @@
 			"id": "13011",
 			"properties": {
 				"number": "13011",
-				"name": "Opp S'pore Botanic Gdns",
+				"name": "Napier Stn Exit 2",
 				"services": [
 					"105",
 					"106",
@@ -5268,7 +5268,7 @@
 			"id": "13019",
 			"properties": {
 				"number": "13019",
-				"name": "S'pore Botanic Gdns",
+				"name": "Napier Stn Exit 1",
 				"services": [
 					"105",
 					"106",
@@ -5545,7 +5545,7 @@
 			"id": "13079",
 			"properties": {
 				"number": "13079",
-				"name": "The Cosmopolitan",
+				"name": "Great World Stn Exit 4",
 				"services": [
 					"139",
 					"195",
@@ -5910,7 +5910,7 @@
 			"id": "13191",
 			"properties": {
 				"number": "13191",
-				"name": "Bef Orchard Blvd",
+				"name": "Opp Orchard Stn Exit 12",
 				"services": [
 					"14",
 					"16",
@@ -5934,7 +5934,7 @@
 			"id": "13199",
 			"properties": {
 				"number": "13199",
-				"name": "Aft Orchard Blvd",
+				"name": "Aft Orchard Stn Exit 12",
 				"services": [
 					"14",
 					"16",
@@ -13697,7 +13697,8 @@
 				"services": [
 					"154",
 					"178",
-					"30"
+					"30",
+					"49"
 				]
 			},
 			"geometry": {
@@ -13720,6 +13721,7 @@
 					"178",
 					"240",
 					"30",
+					"49",
 					"98M"
 				]
 			},
@@ -31091,7 +31093,7 @@
 			"id": "40081",
 			"properties": {
 				"number": "40081",
-				"name": "Stevens Stn",
+				"name": "Stevens Stn Exit 1",
 				"services": [
 					"170",
 					"48",
@@ -31114,7 +31116,7 @@
 			"id": "40089",
 			"properties": {
 				"number": "40089",
-				"name": "Opp Stevens Stn",
+				"name": "Aft Stevens Stn Exit 5",
 				"services": [
 					"170",
 					"48",
@@ -31563,7 +31565,7 @@
 			"id": "40221",
 			"properties": {
 				"number": "40221",
-				"name": "Opp Stevens Stn",
+				"name": "Stevens Stn Exit 3",
 				"services": [
 					"105",
 					"132",
@@ -31584,7 +31586,7 @@
 			"id": "40229",
 			"properties": {
 				"number": "40229",
-				"name": "Aft Stevens Stn",
+				"name": "Bef Stevens Stn Exit 2",
 				"services": [
 					"105",
 					"132",
@@ -31636,7 +31638,7 @@
 			"id": "40239",
 			"properties": {
 				"number": "40239",
-				"name": "Aft Tanglin CC",
+				"name": "Bef Stevens Stn Exit 4",
 				"services": [
 					"105",
 					"132",
@@ -83250,6 +83252,51 @@
 		},
 		{
 			"type": "Feature",
+			"id": "72171",
+			"properties": {
+				"number": "72171",
+				"name": "Opp HomeTeamns Bedok",
+				"services": [
+					"15",
+					"23",
+					"518",
+					"58",
+					"8"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.918486,
+					1.342473
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "72179",
+			"properties": {
+				"number": "72179",
+				"name": "HomeTeamns Bedok",
+				"services": [
+					"15",
+					"15A",
+					"23",
+					"518",
+					"58",
+					"8"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.918768,
+					1.342322
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "73019",
 			"properties": {
 				"number": "73019",
@@ -83379,6 +83426,25 @@
 				"coordinates": [
 					103.89911545547028,
 					1.35075966304764
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "74009",
+			"properties": {
+				"number": "74009",
+				"name": "Tampines Nth Int",
+				"services": [
+					"129",
+					"18"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939651,
+					1.368916
 				]
 			}
 		},
@@ -83601,8 +83667,6 @@
 				"number": "75019",
 				"name": "Tampines Concourse Int",
 				"services": [
-					"129",
-					"18",
 					"298",
 					"39"
 				]
@@ -84522,6 +84586,7 @@
 					"127",
 					"127A",
 					"168",
+					"18",
 					"27",
 					"72"
 				]
@@ -84543,6 +84608,7 @@
 				"services": [
 					"127",
 					"168",
+					"18",
 					"27",
 					"27A",
 					"72"
@@ -85192,6 +85258,7 @@
 				"number": "75491",
 				"name": "Blk 614",
 				"services": [
+					"18",
 					"68",
 					"68B"
 				]
@@ -85211,6 +85278,7 @@
 				"number": "75499",
 				"name": "Opp Blk 614",
 				"services": [
+					"18",
 					"68",
 					"68A"
 				]
@@ -85230,7 +85298,8 @@
 				"number": "75501",
 				"name": "Blk 604A",
 				"services": [
-					"127"
+					"127",
+					"18"
 				]
 			},
 			"geometry": {
@@ -85249,7 +85318,8 @@
 				"name": "Opp Blk 604A",
 				"services": [
 					"127",
-					"127A"
+					"127A",
+					"18"
 				]
 			},
 			"geometry": {
@@ -85267,7 +85337,8 @@
 				"number": "75511",
 				"name": "Blk 610C",
 				"services": [
-					"127"
+					"127",
+					"18"
 				]
 			},
 			"geometry": {
@@ -85286,7 +85357,8 @@
 				"name": "Opp Blk 610C",
 				"services": [
 					"127",
-					"127A"
+					"127A",
+					"18"
 				]
 			},
 			"geometry": {
@@ -85304,6 +85376,7 @@
 				"number": "75561",
 				"name": "Blk 648C",
 				"services": [
+					"129",
 					"46"
 				]
 			},
@@ -85322,6 +85395,7 @@
 				"number": "75569",
 				"name": "Blk 636C",
 				"services": [
+					"129",
 					"46"
 				]
 			},
@@ -85340,6 +85414,7 @@
 				"number": "75571",
 				"name": "Blk 637B",
 				"services": [
+					"129",
 					"46"
 				]
 			},
@@ -85358,6 +85433,7 @@
 				"number": "75579",
 				"name": "Blk 630B",
 				"services": [
+					"129",
 					"46"
 				]
 			},
@@ -85397,6 +85473,7 @@
 				"name": "Opp Blk 638A",
 				"services": [
 					"15",
+					"15A",
 					"969"
 				]
 			},
@@ -85415,6 +85492,7 @@
 				"number": "75591",
 				"name": "Bef Blk 631B",
 				"services": [
+					"129",
 					"15",
 					"969"
 				]
@@ -85435,6 +85513,7 @@
 				"name": "Opp Blk 631B",
 				"services": [
 					"15",
+					"15A",
 					"969"
 				]
 			},
@@ -86240,7 +86319,6 @@
 					"15",
 					"15A",
 					"168",
-					"18",
 					"19",
 					"27",
 					"27A",
@@ -86275,7 +86353,6 @@
 					"129",
 					"15",
 					"168",
-					"18",
 					"19",
 					"27",
 					"28",
@@ -86305,7 +86382,6 @@
 				"number": "76201",
 				"name": "Blk 423",
 				"services": [
-					"18",
 					"19",
 					"21",
 					"37",
@@ -86330,7 +86406,6 @@
 				"number": "76209",
 				"name": "Blk 233",
 				"services": [
-					"18",
 					"19",
 					"21",
 					"37",
@@ -86355,7 +86430,6 @@
 				"number": "76211",
 				"name": "Blk 449",
 				"services": [
-					"18",
 					"19",
 					"21",
 					"293",
@@ -86381,7 +86455,6 @@
 				"number": "76219",
 				"name": "Blk 230E",
 				"services": [
-					"18",
 					"19",
 					"21",
 					"37",
@@ -86406,7 +86479,6 @@
 				"number": "76221",
 				"name": "Tampines East Stn Exit A",
 				"services": [
-					"18",
 					"19",
 					"21",
 					"293",
@@ -86432,7 +86504,6 @@
 				"number": "76229",
 				"name": "Opp Tampines East Stn",
 				"services": [
-					"18",
 					"19",
 					"21",
 					"37",
@@ -86789,6 +86860,7 @@
 				"number": "76311",
 				"name": "Blk 460",
 				"services": [
+					"18",
 					"29",
 					"293"
 				]
@@ -86808,6 +86880,7 @@
 				"number": "76319",
 				"name": "Tampines East Stn Exit D",
 				"services": [
+					"18",
 					"29",
 					"29A"
 				]
@@ -86863,6 +86936,7 @@
 				"number": "76341",
 				"name": "Blk 464",
 				"services": [
+					"18",
 					"29"
 				]
 			},
@@ -86881,6 +86955,7 @@
 				"number": "76349",
 				"name": "Dunman Sec Sch",
 				"services": [
+					"18",
 					"29",
 					"29A"
 				]
@@ -86900,6 +86975,7 @@
 				"number": "76351",
 				"name": "Blk 484",
 				"services": [
+					"18",
 					"28",
 					"29",
 					"293"
@@ -86920,6 +86996,7 @@
 				"number": "76359",
 				"name": "Blk 493B",
 				"services": [
+					"18",
 					"28",
 					"29",
 					"293",
@@ -86941,6 +87018,7 @@
 				"number": "76361",
 				"name": "Blk 430",
 				"services": [
+					"18",
 					"28",
 					"29",
 					"293"
@@ -86961,6 +87039,7 @@
 				"number": "76369",
 				"name": "Blk 496F",
 				"services": [
+					"18",
 					"28",
 					"29",
 					"293",
@@ -87322,6 +87401,7 @@
 				"name": "The Tampines Trilliant",
 				"services": [
 					"127",
+					"129",
 					"68",
 					"68A",
 					"969"
@@ -87344,6 +87424,7 @@
 				"services": [
 					"127",
 					"127A",
+					"129",
 					"68",
 					"68B",
 					"969",
@@ -87366,6 +87447,7 @@
 				"name": "Opp Blk 519A",
 				"services": [
 					"127",
+					"129",
 					"68",
 					"68A",
 					"969"
@@ -87388,6 +87470,7 @@
 				"services": [
 					"127",
 					"127A",
+					"129",
 					"68",
 					"68B",
 					"969",
@@ -87409,7 +87492,9 @@
 				"number": "76541",
 				"name": "Citylife@ Tampines",
 				"services": [
+					"129",
 					"168",
+					"18",
 					"27",
 					"969"
 				]
@@ -87429,7 +87514,9 @@
 				"number": "76549",
 				"name": "Opp Citylife@ Tampines",
 				"services": [
+					"129",
 					"168",
+					"18",
 					"27",
 					"27A",
 					"969",
@@ -87452,7 +87539,6 @@
 				"name": "Tampines Stn Exit D",
 				"services": [
 					"129",
-					"18",
 					"298"
 				]
 			},
@@ -87472,7 +87558,6 @@
 				"name": "Aft Tampines Stn Exit E",
 				"services": [
 					"129",
-					"18",
 					"298"
 				]
 			},
@@ -94000,7 +94085,6 @@
 					"16M",
 					"17",
 					"17A",
-					"18",
 					"196",
 					"196A",
 					"197",
@@ -94986,6 +95070,7 @@
 					"14e",
 					"17",
 					"17A",
+					"18",
 					"222",
 					"222A",
 					"46"
@@ -95009,6 +95094,7 @@
 					"14",
 					"14e",
 					"17",
+					"18",
 					"222",
 					"46"
 				]
@@ -95117,7 +95203,8 @@
 				"name": "Blk 99",
 				"services": [
 					"17",
-					"17A"
+					"17A",
+					"18"
 				]
 			},
 			"geometry": {
@@ -95135,7 +95222,8 @@
 				"number": "84259",
 				"name": "Blk 88",
 				"services": [
-					"17"
+					"17",
+					"18"
 				]
 			},
 			"geometry": {
@@ -95154,7 +95242,8 @@
 				"name": "Saint Anthony's Canossian School",
 				"services": [
 					"17",
-					"17A"
+					"17A",
+					"18"
 				]
 			},
 			"geometry": {
@@ -95172,7 +95261,8 @@
 				"number": "84269",
 				"name": "Blk 95",
 				"services": [
-					"17"
+					"17",
+					"18"
 				]
 			},
 			"geometry": {
@@ -95191,7 +95281,8 @@
 				"name": "Aft Bedok Ind Pk E",
 				"services": [
 					"17",
-					"17A"
+					"17A",
+					"18"
 				]
 			},
 			"geometry": {
@@ -95209,7 +95300,8 @@
 				"number": "84279",
 				"name": "Aft Bedok Nth St 5",
 				"services": [
-					"17"
+					"17",
+					"18"
 				]
 			},
 			"geometry": {
@@ -95269,6 +95361,7 @@
 				"number": "84299",
 				"name": "Bedok Nth Depot",
 				"services": [
+					"18",
 					"48"
 				]
 			},
@@ -95410,7 +95503,6 @@
 				"name": "Opp Blk 416",
 				"services": [
 					"137",
-					"18",
 					"225G"
 				]
 			},
@@ -95431,7 +95523,6 @@
 				"services": [
 					"137",
 					"137A",
-					"18",
 					"225W"
 				]
 			},
@@ -95452,7 +95543,6 @@
 				"services": [
 					"17",
 					"17A",
-					"18",
 					"45"
 				]
 			},
@@ -95472,7 +95562,6 @@
 				"name": "Fengshan Pr Sch",
 				"services": [
 					"17",
-					"18",
 					"45"
 				]
 			},
@@ -96137,6 +96226,7 @@
 				"name": "Blk 109",
 				"services": [
 					"168",
+					"18",
 					"228",
 					"28",
 					"46",
@@ -96373,7 +96463,8 @@
 				"name": "Sbst Bedok Nth Depot",
 				"services": [
 					"17",
-					"17A"
+					"17A",
+					"18"
 				]
 			},
 			"geometry": {
@@ -96391,7 +96482,8 @@
 				"number": "84599",
 				"name": "Opp Sbst Bedok Nth Depot",
 				"services": [
-					"17"
+					"17",
+					"18"
 				]
 			},
 			"geometry": {
@@ -96626,7 +96718,6 @@
 					"14",
 					"155",
 					"168",
-					"18",
 					"222",
 					"225G",
 					"228",
@@ -96652,7 +96743,6 @@
 					"14A",
 					"155",
 					"168",
-					"18",
 					"222",
 					"222A",
 					"225W",
@@ -106971,7 +107061,7 @@
 			"id": "03361",
 			"properties": {
 				"number": "03361",
-				"name": "Opp Marina Barrage",
+				"name": "Gardens by the Bay Stn Exit 2",
 				"services": [
 					"400"
 				]
@@ -106989,7 +107079,7 @@
 			"id": "03369",
 			"properties": {
 				"number": "03369",
-				"name": "Marina Barrage",
+				"name": "Gardens by the Bay Stn Exit 1",
 				"services": [
 					"400"
 				]
@@ -108284,7 +108374,7 @@
 			"id": "05069",
 			"properties": {
 				"number": "05069",
-				"name": "Outram Pk Stn Exit H",
+				"name": "Outram Pk Stn Exit 4",
 				"services": [
 					"124",
 					"143",
@@ -108435,7 +108525,7 @@
 			"id": "05259",
 			"properties": {
 				"number": "05259",
-				"name": "Aft Kreta Ayer Rd",
+				"name": "Opp Maxwell Stn Exit 3",
 				"services": [
 					"166",
 					"197",
@@ -108455,7 +108545,7 @@
 			"id": "05269",
 			"properties": {
 				"number": "05269",
-				"name": "Maxwell Rd FC",
+				"name": "Maxwell Stn Exit 2",
 				"services": [
 					"145",
 					"80"
@@ -108759,7 +108849,7 @@
 			"id": "06011",
 			"properties": {
 				"number": "06011",
-				"name": "Opp Outram Pk Stn",
+				"name": "Outram Pk Stn Exit 7",
 				"services": [
 					"121",
 					"122",
@@ -108786,7 +108876,7 @@
 			"id": "06029",
 			"properties": {
 				"number": "06029",
-				"name": "Outram Pk Stn",
+				"name": "Outram Pk Stn Exit 1",
 				"services": [
 					"121",
 					"122",
@@ -108933,7 +109023,7 @@
 			"id": "06071",
 			"properties": {
 				"number": "06071",
-				"name": "Blk 2B",
+				"name": "Havelock Stn Exit 2",
 				"services": [
 					"121",
 					"123",
@@ -108959,7 +109049,7 @@
 			"id": "06081",
 			"properties": {
 				"number": "06081",
-				"name": "Blk 94",
+				"name": "Havelock Stn Exit 3",
 				"services": [
 					"121",
 					"123",
@@ -109034,7 +109124,7 @@
 			"id": "06141",
 			"properties": {
 				"number": "06141",
-				"name": "Holiday Inn Atrium",
+				"name": "Havelock Stn Exit 5",
 				"services": [
 					"186",
 					"51",
@@ -109054,7 +109144,7 @@
 			"id": "06149",
 			"properties": {
 				"number": "06149",
-				"name": "Opp Holiday Inn Atrium",
+				"name": "Havelock Stn Exit 4",
 				"services": [
 					"123",
 					"186",
@@ -110359,7 +110449,7 @@
 			"id": "09022",
 			"properties": {
 				"number": "09022",
-				"name": "Bef Orchard Stn Exit B",
+				"name": "Orchard Stn Exit 13",
 				"services": [
 					"106",
 					"111",
@@ -110635,7 +110725,7 @@
 			"id": "09131",
 			"properties": {
 				"number": "09131",
-				"name": "Grange Residences",
+				"name": "Opp Orchard Blvd Stn",
 				"services": [
 					"105",
 					"106",
@@ -110662,7 +110752,7 @@
 			"id": "09139",
 			"properties": {
 				"number": "09139",
-				"name": "Aft Cuscaden Rd",
+				"name": "Orchard Blvd Stn Exit 1",
 				"services": [
 					"75"
 				]

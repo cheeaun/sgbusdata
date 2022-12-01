@@ -2337,7 +2337,8 @@
 		"number": 18,
 		"type": "TRUNK",
 		"kmlFile": [
-			"18-1.kml"
+			"18-1.kml",
+			"18-2.kml"
 		],
 		"routeFile": [
 			"18.xml"
