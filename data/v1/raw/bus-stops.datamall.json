@@ -26302,8 +26302,8 @@
 		"BusStopCode": "66381",
 		"RoadName": "S'goon Ave 2",
 		"Description": "Opp S'Goon Stn Exit F",
-		"Latitude": 1.36503,
-		"Longitude": 103.872544
+		"Latitude": 1.35020472222222,
+		"Longitude": 103.8712252777778
 	},
 	{
 		"BusStopCode": "66389",
@@ -29481,7 +29481,7 @@
 		"RoadName": "Tampines Ave 12",
 		"Description": "OPP BLK 638A",
 		"Latitude": 1.364117,
-		"Longitude": 103.942426
+		"Longitude": 103.945427
 	},
 	{
 		"BusStopCode": "75591",

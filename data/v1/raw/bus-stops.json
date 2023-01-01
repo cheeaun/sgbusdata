@@ -2097,15 +2097,6 @@
 		}
 	},
 	{
-		"name": "-P68",
-		"wab": "true",
-		"details": "Outside Costa Rhu Condominium",
-		"coordinates": {
-			"lat": 1.29664,
-			"long": 103.86759
-		}
-	},
-	{
 		"name": "-P688",
 		"wab": "true",
 		"details": "Blk 530",
@@ -2121,15 +2112,6 @@
 		"coordinates": {
 			"lat": 1.373937621,
 			"long": 103.8755129
-		}
-	},
-	{
-		"name": "-P69",
-		"wab": "true",
-		"details": "Outside No. 130-136 Pebble Bay Condominium",
-		"coordinates": {
-			"lat": 1.29716,
-			"long": 103.87048
 		}
 	},
 	{
@@ -2157,15 +2139,6 @@
 		"coordinates": {
 			"lat": 1.337751,
 			"long": 103.934873
-		}
-	},
-	{
-		"name": "-P70",
-		"wab": "true",
-		"details": "Outside Pebble Bay Condominium",
-		"coordinates": {
-			"lat": 1.29719,
-			"long": 103.87131
 		}
 	},
 	{
@@ -2202,15 +2175,6 @@
 		"coordinates": {
 			"lat": 1.386697098,
 			"long": 103.8962889
-		}
-	},
-	{
-		"name": "-P71",
-		"wab": "true",
-		"details": "Outside Camelot Condominium",
-		"coordinates": {
-			"lat": 1.29728,
-			"long": 103.87545
 		}
 	},
 	{
@@ -2292,15 +2256,6 @@
 		"coordinates": {
 			"lat": 1.389250235,
 			"long": 103.8729858
-		}
-	},
-	{
-		"name": "-P72",
-		"wab": "true",
-		"details": "Outside Dunman High School",
-		"coordinates": {
-			"lat": 1.29802,
-			"long": 103.88203
 		}
 	},
 	{
@@ -2556,15 +2511,6 @@
 		}
 	},
 	{
-		"name": "-P75",
-		"wab": "true",
-		"details": "Outside The Waterside Condominium",
-		"coordinates": {
-			"lat": 1.29803,
-			"long": 103.88352
-		}
-	},
-	{
 		"name": "-P750",
 		"wab": "true",
 		"details": "Buangkok Stn Exit B",
@@ -2580,24 +2526,6 @@
 		"coordinates": {
 			"lat": 1.380279751,
 			"long": 103.890605
-		}
-	},
-	{
-		"name": "-P77",
-		"wab": "true",
-		"details": "Bus stop opposite Pebble Bay Condominium",
-		"coordinates": {
-			"lat": 1.29709,
-			"long": 103.87122
-		}
-	},
-	{
-		"name": "-P78",
-		"wab": "true",
-		"details": "Outside Parkshore Condo",
-		"coordinates": {
-			"lat": 1.29706,
-			"long": 103.87034
 		}
 	},
 	{
@@ -3078,12 +3006,48 @@
 		}
 	},
 	{
+		"name": "-P883",
+		"wab": "true",
+		"details": "Opp Pebble Bay",
+		"coordinates": {
+			"lat": 1.297006696,
+			"long": 103.8725309
+		}
+	},
+	{
 		"name": "-P884",
 		"wab": "true",
 		"details": "Tg Ria Condo",
 		"coordinates": {
 			"lat": 1.29656022698907,
 			"long": 103.87500520610656
+		}
+	},
+	{
+		"name": "-P885",
+		"wab": "true",
+		"details": "Opp Tg Ria Condo",
+		"coordinates": {
+			"lat": 1.296633057,
+			"long": 103.8753931
+		}
+	},
+	{
+		"name": "-P886",
+		"wab": "true",
+		"details": "Dunman High Sch",
+		"coordinates": {
+			"lat": 1.298106369,
+			"long": 103.8823231
+		}
+	},
+	{
+		"name": "-P887",
+		"wab": "true",
+		"details": "Opp Dunman High Sch",
+		"coordinates": {
+			"lat": 1.29795474,
+			"long": 103.8825818
 		}
 	},
 	{
@@ -14194,7 +14158,7 @@
 	},
 	{
 		"name": "18109",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp PSB Science Pk Bldg",
 		"coordinates": {
 			"lat": 1.29403436577434,
@@ -18667,7 +18631,7 @@
 	},
 	{
 		"name": "24689",
-		"wab": "true",
+		"wab": "false",
 		"details": "Jurong Insp Ctr",
 		"coordinates": {
 			"lat": 1.31152436181276,
@@ -41404,8 +41368,8 @@
 		"wab": "true",
 		"details": "Opp S'Goon Stn Exit F",
 		"coordinates": {
-			"lat": 1.36503,
-			"long": 103.872544
+			"lat": 1.35020472222222,
+			"long": 103.8712252777778
 		}
 	},
 	{
@@ -45491,7 +45455,7 @@
 		"details": "OPP BLK 638A",
 		"coordinates": {
 			"lat": 1.364117,
-			"long": 103.942426
+			"long": 103.945427
 		}
 	},
 	{
