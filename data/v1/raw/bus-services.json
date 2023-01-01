@@ -1526,16 +1526,6 @@
 		]
 	},
 	{
-		"number": "131M",
-		"type": "TRUNK",
-		"kmlFile": [
-			"131M-1.kml"
-		],
-		"routeFile": [
-			"131M.xml"
-		]
-	},
-	{
 		"number": 132,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -1652,13 +1642,13 @@
 		]
 	},
 	{
-		"number": "139M",
+		"number": "139A",
 		"type": "TRUNK",
 		"kmlFile": [
-			"139M-1.kml"
+			"139A-1.kml"
 		],
 		"routeFile": [
-			"139M.xml"
+			"139A.xml"
 		]
 	},
 	{

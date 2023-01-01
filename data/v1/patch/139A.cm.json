@@ -1,0 +1,330 @@
+{
+	"feeds": [],
+	"routes": [
+		{
+			"aliases": [
+				"sbs-transit-139a"
+			],
+			"brand": "SBSTBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "SBSTBuses139A",
+			"long_name": "Toa Payoh Int - Bet Blks 33/34",
+			"mode": "bus",
+			"name": "139A",
+			"patterns": [
+				{
+					"id": "139A_0",
+					"name": "towards Bet Blks 33/34",
+					"path": [
+						[
+							1.332021,
+							103.846928
+						],
+						[
+							1.329315,
+							103.843829
+						],
+						[
+							1.326657,
+							103.84366
+						],
+						[
+							1.326634,
+							103.84641
+						],
+						[
+							1.328302,
+							103.850829
+						],
+						[
+							1.328301,
+							103.853806
+						],
+						[
+							1.32532,
+							103.857319
+						],
+						[
+							1.325447,
+							103.859381
+						],
+						[
+							1.326977,
+							103.858171
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_ToaPayohInt_SW",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_OppTrellisTwrs_SW",
+							"path_index": 1
+						},
+						{
+							"id": "SingaporeStop_BalestierCtr_E",
+							"path_index": 2
+						},
+						{
+							"id": "SingaporeStop_ZhongshanMall_E",
+							"path_index": 3
+						},
+						{
+							"id": "SingaporeStop_Blk102_E",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_Blk105_SE_1",
+							"path_index": 5
+						},
+						{
+							"id": "SingaporeStop_Blk114_E",
+							"path_index": 6
+						},
+						{
+							"id": "SingaporeStop_Blk29_NW",
+							"path_index": 7
+						},
+						{
+							"id": "SingaporeStop_BetBlks3334_W",
+							"path_index": 8
+						}
+					]
+				}
+			],
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
+			"ui_color": "#5BC824",
+			"url": "https://citymapper.com/singapore/l/sbs-transit-139a"
+		}
+	],
+	"status": 0,
+	"stops": {
+		"SingaporeStop_BalestierCtr_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.326657,
+				103.84366
+			],
+			"live_code": "SingaporeStop_BalestierCtr_E",
+			"name": "Bef Jln Dusun",
+			"routes": [
+				"SBSTBuses129",
+				"SBSTBuses130",
+				"SBSTBuses131",
+				"SBSTBuses139",
+				"SBSTBuses139A",
+				"SBSTBuses145",
+				"SBSTBuses186",
+				"SBSTBuses21"
+			],
+			"stop_code": "50161"
+		},
+		"SingaporeStop_BetBlks3334_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.326977,
+				103.858171
+			],
+			"live_code": "SingaporeStop_BetBlks3334_W",
+			"name": "Bet Blks 33/34",
+			"routes": [
+				"SBSTBuses124",
+				"SBSTBuses125",
+				"SBSTBuses131",
+				"SBSTBuses131A",
+				"SBSTBuses139",
+				"SBSTBuses139A",
+				"SBSTBuses186"
+			],
+			"stop_code": "52109"
+		},
+		"SingaporeStop_Blk102_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.328302,
+				103.850829
+			],
+			"live_code": "SingaporeStop_Blk102_E",
+			"name": "Blk 102",
+			"routes": [
+				"SBSTBuses129",
+				"SBSTBuses139",
+				"SBSTBuses139A"
+			],
+			"stop_code": "52401"
+		},
+		"SingaporeStop_Blk105_SE_1": {
+			"bearing": "SE",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.328301,
+				103.853806
+			],
+			"live_code": "SingaporeStop_Blk105_SE_1",
+			"name": "Blk 105",
+			"routes": [
+				"SBSTBuses129",
+				"SBSTBuses139",
+				"SBSTBuses139A"
+			],
+			"stop_code": "52411"
+		},
+		"SingaporeStop_Blk114_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.32532,
+				103.857319
+			],
+			"live_code": "SingaporeStop_Blk114_E",
+			"name": "Blk 114",
+			"routes": [
+				"SBSTBuses124",
+				"SBSTBuses125",
+				"SBSTBuses129",
+				"SBSTBuses131",
+				"SBSTBuses131A",
+				"SBSTBuses139",
+				"SBSTBuses139A",
+				"SBSTBuses186",
+				"SBSTBuses21"
+			],
+			"stop_code": "52451"
+		},
+		"SingaporeStop_Blk29_NW": {
+			"bearing": "NW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.325447,
+				103.859381
+			],
+			"live_code": "SingaporeStop_Blk29_NW",
+			"name": "Blk 29",
+			"routes": [
+				"SBSTBuses124",
+				"SBSTBuses125",
+				"SBSTBuses129",
+				"SBSTBuses131",
+				"SBSTBuses131A",
+				"SBSTBuses139",
+				"SBSTBuses139A",
+				"SBSTBuses186",
+				"SBSTBuses21"
+			],
+			"stop_code": "52129"
+		},
+		"SingaporeStop_OppTrellisTwrs_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.329315,
+				103.843829
+			],
+			"live_code": "SingaporeStop_OppTrellisTwrs_SW",
+			"name": "Opp Trellis Twrs",
+			"routes": [
+				"SBSTBuses105",
+				"SBSTBuses129",
+				"SBSTBuses139",
+				"SBSTBuses139A",
+				"TTSBuses143",
+				"SBSTBuses145",
+				"SBSTBuses151",
+				"SBSTBuses153",
+				"SBSTBuses154",
+				"SBSTBuses5",
+				"SBSTBuses506",
+				"SBSTBuses56",
+				"SBSTBuses57",
+				"TTSBuses966",
+				"SMRTBuses985"
+			],
+			"stop_code": "52079"
+		},
+		"SingaporeStop_ToaPayohInt_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.332021,
+				103.846928
+			],
+			"live_code": "SingaporeStop_ToaPayohInt_SW",
+			"name": "Toa Payoh Int",
+			"routes": [
+				"SBSTBuses139",
+				"SBSTBuses139A",
+				"SBSTBuses141",
+				"SBSTBuses142",
+				"SBSTBuses142A",
+				"TTSBuses143",
+				"SBSTBuses145",
+				"SBSTBuses155",
+				"SBSTBuses157",
+				"SBSTBuses159",
+				"SBSTBuses163",
+				"SBSTBuses231",
+				"SBSTBuses232",
+				"SBSTBuses235",
+				"SBSTBuses238",
+				"SBSTBuses26",
+				"SBSTBuses28",
+				"SBSTBuses31",
+				"SBSTBuses73",
+				"SBSTBuses73T",
+				"SBSTBuses8",
+				"SBSTBuses88",
+				"SBSTBuses90",
+				"SBSTBuses90A"
+			],
+			"stop_code": "52009"
+		},
+		"SingaporeStop_ZhongshanMall_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.326634,
+				103.84641
+			],
+			"live_code": "SingaporeStop_ZhongshanMall_E",
+			"name": "Zhongshan Mall",
+			"routes": [
+				"SBSTBuses129",
+				"SBSTBuses130",
+				"SBSTBuses131",
+				"SBSTBuses139",
+				"SBSTBuses139A",
+				"SBSTBuses145",
+				"SBSTBuses186",
+				"SBSTBuses21"
+			],
+			"stop_code": "50171"
+		}
+	}
+}

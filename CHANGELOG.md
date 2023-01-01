@@ -1,3 +1,31 @@
+# 1 January 2023
+
+### Stop locations changed: 2
+
+- `66381` 103.87254,1.36503 ⮕ 103.87123,1.3502
+- `75589` 103.94243,1.36412 ⮕ 103.94543,1.36412
+
+## Services count change: 534 ⮕ 533
+
+### Services added: 1
+
+- `139A` Toa Payoh Int → Bet Blks 33/34
+
+### Services removed: 2
+
+- `139M` Toa Payoh Int ⟲ Blk 29
+- `131M` Bt Merah Int ⟲ Opp Blk 109
+
+## Routes changed: 3
+
+- `18` Tampines Nth Int ⇄ Bedok Nth Depot
+- `49` Jurong East Int ⟲ Blk 402
+- `139A` Toa Payoh Int → Bet Blks 33/34
+
+## First/last timings changed
+
+Affected services: `139M`, `131M`, `18`, `93`, `107`, `129`, `161`, `89e`, `139A`
+
 # 1 December 2022
 
 ## Stops count change: 5083 ⮕ 5086
