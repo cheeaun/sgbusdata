@@ -9515,7 +9515,7 @@
 	{
 		"name": "09059",
 		"wab": "true",
-		"details": "Natl Youth Council",
+		"details": "Somerset Youth Pk",
 		"coordinates": {
 			"lat": 1.30044251755834,
 			"long": 103.83623804216019
@@ -10181,7 +10181,7 @@
 	{
 		"name": "10351",
 		"wab": "true",
-		"details": "Bef Tiong Bahru Rd",
+		"details": "Blk 95B",
 		"coordinates": {
 			"lat": 1.28675501760897,
 			"long": 103.82204990181914
@@ -10190,7 +10190,7 @@
 	{
 		"name": "10359",
 		"wab": "true",
-		"details": "Aft Tiong Bahru Rd",
+		"details": "Opp Blk 95C",
 		"coordinates": {
 			"lat": 1.28723833324362,
 			"long": 103.82259298997768
@@ -10496,7 +10496,7 @@
 	{
 		"name": "11019",
 		"wab": "true",
-		"details": "Pk Hotel Alexandra",
+		"details": "Bef Blk 2",
 		"coordinates": {
 			"lat": 1.28679632523156,
 			"long": 103.80565677295323
@@ -11108,7 +11108,7 @@
 	{
 		"name": "11389",
 		"wab": "true",
-		"details": "Blk 46",
+		"details": "Buona Vista CC",
 		"coordinates": {
 			"lat": 1.30906501014268,
 			"long": 103.7929321687807
@@ -14546,7 +14546,7 @@
 	{
 		"name": "19041",
 		"wab": "true",
-		"details": "Opp Sch Of Science & Tech",
+		"details": "Opp Sch of Science & Tech",
 		"coordinates": {
 			"lat": 1.31235972197855,
 			"long": 103.77552750001337
@@ -14555,7 +14555,7 @@
 	{
 		"name": "19049",
 		"wab": "true",
-		"details": "Sch Of Science & Tech",
+		"details": "Sch of Science & Tech",
 		"coordinates": {
 			"lat": 1.31266302174215,
 			"long": 103.77479215922537
@@ -14924,7 +14924,7 @@
 	{
 		"name": "20201",
 		"wab": "true",
-		"details": "Blk 39",
+		"details": "Bef Blk 39",
 		"coordinates": {
 			"lat": 1.32127611097845,
 			"long": 103.74340527799251
@@ -23184,15 +23184,6 @@
 		}
 	},
 	{
-		"name": "40189",
-		"wab": "false",
-		"details": "Newton Stn Exit B",
-		"coordinates": {
-			"lat": 1.31223181292182,
-			"long": 103.83816095637219
-		}
-	},
-	{
 		"name": "40191",
 		"wab": "true",
 		"details": "Aft Draycott Pk",
@@ -25256,7 +25247,7 @@
 	{
 		"name": "43629",
 		"wab": "true",
-		"details": "Yusof Ishak Sec Sch",
+		"details": "St. Andrew's Mission Sch",
 		"coordinates": {
 			"lat": 1.34240810773422,
 			"long": 103.75915813592935
@@ -32150,7 +32141,7 @@
 	{
 		"name": "52479",
 		"wab": "true",
-		"details": "Opp EASB",
+		"details": "Opp EAIM",
 		"coordinates": {
 			"lat": 1.32749617656635,
 			"long": 103.84578619081431
@@ -41312,7 +41303,7 @@
 	{
 		"name": "66351",
 		"wab": "true",
-		"details": "S'Goon Stn Exit B",
+		"details": "S'goon Stn Exit E",
 		"coordinates": {
 			"lat": 1.35049831450162,
 			"long": 103.87324486521683
@@ -44534,7 +44525,7 @@
 	{
 		"name": "72171",
 		"wab": "true",
-		"details": "Opp HomeTeamns Bedok",
+		"details": "Opp HomeTeamNS",
 		"coordinates": {
 			"lat": 1.342473,
 			"long": 103.918486
@@ -44543,7 +44534,7 @@
 	{
 		"name": "72179",
 		"wab": "true",
-		"details": "HomeTeamns Bedok",
+		"details": "HomeTeamNS",
 		"coordinates": {
 			"lat": 1.342322,
 			"long": 103.918768
@@ -45402,6 +45393,42 @@
 		"coordinates": {
 			"lat": 1.364004,
 			"long": 103.934527
+		}
+	},
+	{
+		"name": "75541",
+		"wab": "true",
+		"details": "OPP BLK 648A",
+		"coordinates": {
+			"lat": 1.368309,
+			"long": 103.941523
+		}
+	},
+	{
+		"name": "75549",
+		"wab": "true",
+		"details": "BLK 648A",
+		"coordinates": {
+			"lat": 1.368246,
+			"long": 103.941407
+		}
+	},
+	{
+		"name": "75551",
+		"wab": "true",
+		"details": "BLK 641A",
+		"coordinates": {
+			"lat": 1.366268,
+			"long": 103.943413
+		}
+	},
+	{
+		"name": "75559",
+		"wab": "true",
+		"details": "BLK 646B",
+		"coordinates": {
+			"lat": 1.36642,
+			"long": 103.943193
 		}
 	},
 	{
@@ -47099,7 +47126,7 @@
 	{
 		"name": "78141",
 		"wab": "true",
-		"details": "Greenview Sec Sch",
+		"details": "Blk 249",
 		"coordinates": {
 			"lat": 1.370066,
 			"long": 103.963665
@@ -47108,7 +47135,7 @@
 	{
 		"name": "78149",
 		"wab": "true",
-		"details": "Opp Greenview Sec Sch",
+		"details": "NTUC Health Pasir Ris",
 		"coordinates": {
 			"lat": 1.36970105283111,
 			"long": 103.96411887211589
@@ -52661,7 +52688,7 @@
 	{
 		"name": "97301",
 		"wab": "true",
-		"details": "Agility",
+		"details": "Aft Changi Nth St 1",
 		"coordinates": {
 			"lat": 1.35182434688859,
 			"long": 103.96979848322833
@@ -52886,7 +52913,7 @@
 	{
 		"name": "98119",
 		"wab": "true",
-		"details": "Loyang Pt",
+		"details": "Loyang Pt/Opp Blk 256",
 		"coordinates": {
 			"lat": 1.3671897219745,
 			"long": 103.96432861100051

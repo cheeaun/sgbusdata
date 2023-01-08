@@ -1555,6 +1555,26 @@
 		"newName": "Aft Tampines Ave 5"
 	},
 	{
+		"number": "75541",
+		"name": "OPP BLK 648A",
+		"newName": "Opp Blk 648A"
+	},
+	{
+		"number": "75549",
+		"name": "BLK 648A",
+		"newName": "Blk 648A"
+	},
+	{
+		"number": "75551",
+		"name": "BLK 641A",
+		"newName": "Blk 641A"
+	},
+	{
+		"number": "75559",
+		"name": "BLK 646B",
+		"newName": "Blk 646B"
+	},
+	{
 		"number": "75561",
 		"name": "BLK 648C",
 		"newName": "Blk 648C"

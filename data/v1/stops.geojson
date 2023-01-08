@@ -1509,7 +1509,7 @@
 			"id": "10351",
 			"properties": {
 				"number": "10351",
-				"name": "Bef Tiong Bahru Rd",
+				"name": "Blk 95B",
 				"services": [
 					"132",
 					"145",
@@ -1531,7 +1531,7 @@
 			"id": "10359",
 			"properties": {
 				"number": "10359",
-				"name": "Aft Tiong Bahru Rd",
+				"name": "Opp Blk 95C",
 				"services": [
 					"132",
 					"145",
@@ -2238,7 +2238,7 @@
 			"id": "11019",
 			"properties": {
 				"number": "11019",
-				"name": "Pk Hotel Alexandra",
+				"name": "Bef Blk 2",
 				"services": [
 					"123",
 					"14",
@@ -3917,7 +3917,7 @@
 			"id": "11389",
 			"properties": {
 				"number": "11389",
-				"name": "Blk 46",
+				"name": "Buona Vista CC",
 				"services": [
 					"145",
 					"185",
@@ -12256,7 +12256,7 @@
 			"id": "19041",
 			"properties": {
 				"number": "19041",
-				"name": "Opp Sch Of Science & Tech",
+				"name": "Opp Sch of Science & Tech",
 				"services": [
 					"105",
 					"106",
@@ -12280,7 +12280,7 @@
 			"id": "19049",
 			"properties": {
 				"number": "19049",
-				"name": "Sch Of Science & Tech",
+				"name": "Sch of Science & Tech",
 				"services": [
 					"105",
 					"106",
@@ -13165,7 +13165,7 @@
 			"id": "20201",
 			"properties": {
 				"number": "20201",
-				"name": "Blk 39",
+				"name": "Bef Blk 39",
 				"services": [
 					"143",
 					"143M",
@@ -13339,6 +13339,7 @@
 				"name": "Bef Teban Gdns Rd",
 				"services": [
 					"176",
+					"30",
 					"78"
 				]
 			},
@@ -13406,15 +13407,12 @@
 				"number": "20269",
 				"name": "Bef Pandan Gdns",
 				"services": [
-					"143",
-					"143M",
 					"176",
 					"30",
 					"51",
 					"51A",
 					"78",
-					"78A",
-					"79"
+					"78A"
 				]
 			},
 			"geometry": {
@@ -31394,33 +31392,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "40189",
-			"properties": {
-				"number": "40189",
-				"name": "Newton Stn Exit B",
-				"services": [
-					"124",
-					"143",
-					"162",
-					"162M",
-					"167",
-					"5",
-					"518",
-					"518A",
-					"54",
-					"972M"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.83816095637219,
-					1.31223181292182
-				]
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "40191",
 			"properties": {
 				"number": "40191",
@@ -36604,7 +36575,7 @@
 			"id": "43629",
 			"properties": {
 				"number": "43629",
-				"name": "Yusof Ishak Sec Sch",
+				"name": "St. Andrew's Mission Sch",
 				"services": [
 					"106",
 					"106A",
@@ -52623,7 +52594,7 @@
 			"id": "52479",
 			"properties": {
 				"number": "52479",
-				"name": "Opp EASB",
+				"name": "Opp EAIM",
 				"services": [
 					"129",
 					"139"
@@ -75529,7 +75500,7 @@
 			"id": "66351",
 			"properties": {
 				"number": "66351",
-				"name": "S'Goon Stn Exit B",
+				"name": "S'goon Stn Exit E",
 				"services": [
 					"22",
 					"315",
@@ -83240,7 +83211,7 @@
 			"id": "72171",
 			"properties": {
 				"number": "72171",
-				"name": "Opp HomeTeamns Bedok",
+				"name": "Opp HomeTeamNS",
 				"services": [
 					"15",
 					"23",
@@ -83262,7 +83233,7 @@
 			"id": "72179",
 			"properties": {
 				"number": "72179",
-				"name": "HomeTeamns Bedok",
+				"name": "HomeTeamNS",
 				"services": [
 					"15",
 					"15A",
@@ -83422,7 +83393,8 @@
 				"name": "Tampines Nth Int",
 				"services": [
 					"129",
-					"18"
+					"18",
+					"298"
 				]
 			},
 			"geometry": {
@@ -83652,7 +83624,6 @@
 				"number": "75019",
 				"name": "Tampines Concourse Int",
 				"services": [
-					"298",
 					"39"
 				]
 			},
@@ -85356,6 +85327,78 @@
 		},
 		{
 			"type": "Feature",
+			"id": "75541",
+			"properties": {
+				"number": "75541",
+				"name": "Opp Blk 648A",
+				"services": [
+					"298"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941523,
+					1.368309
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "75549",
+			"properties": {
+				"number": "75549",
+				"name": "Blk 648A",
+				"services": [
+					"298"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941407,
+					1.368246
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "75551",
+			"properties": {
+				"number": "75551",
+				"name": "Blk 641A",
+				"services": [
+					"298"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943413,
+					1.366268
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "75559",
+			"properties": {
+				"number": "75559",
+				"name": "Blk 646B",
+				"services": [
+					"298"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943193,
+					1.36642
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "75561",
 			"properties": {
 				"number": "75561",
@@ -85400,6 +85443,7 @@
 				"name": "Blk 637B",
 				"services": [
 					"129",
+					"298",
 					"46"
 				]
 			},
@@ -85419,6 +85463,7 @@
 				"name": "Blk 630B",
 				"services": [
 					"129",
+					"298",
 					"46"
 				]
 			},
@@ -85479,6 +85524,7 @@
 				"services": [
 					"129",
 					"15",
+					"298",
 					"969"
 				]
 			},
@@ -87387,6 +87433,7 @@
 				"services": [
 					"127",
 					"129",
+					"298",
 					"68",
 					"68A",
 					"969"
@@ -87410,6 +87457,7 @@
 					"127",
 					"127A",
 					"129",
+					"298",
 					"68",
 					"68B",
 					"969",
@@ -87433,6 +87481,7 @@
 				"services": [
 					"127",
 					"129",
+					"298",
 					"68",
 					"68A",
 					"969"
@@ -87456,6 +87505,7 @@
 					"127",
 					"127A",
 					"129",
+					"298",
 					"68",
 					"68B",
 					"969",
@@ -87481,6 +87531,7 @@
 					"168",
 					"18",
 					"27",
+					"298",
 					"969"
 				]
 			},
@@ -87504,6 +87555,7 @@
 					"18",
 					"27",
 					"27A",
+					"298",
 					"969",
 					"969A"
 				]
@@ -89528,7 +89580,7 @@
 			"id": "78141",
 			"properties": {
 				"number": "78141",
-				"name": "Greenview Sec Sch",
+				"name": "Blk 249",
 				"services": [
 					"5",
 					"6",
@@ -89548,7 +89600,7 @@
 			"id": "78149",
 			"properties": {
 				"number": "78149",
-				"name": "Opp Greenview Sec Sch",
+				"name": "NTUC Health Pasir Ris",
 				"services": [
 					"5",
 					"6",
@@ -103379,7 +103431,7 @@
 			"id": "97301",
 			"properties": {
 				"number": "97301",
-				"name": "Agility",
+				"name": "Aft Changi Nth St 1",
 				"services": [
 					"4"
 				]
@@ -103953,7 +104005,7 @@
 			"id": "98119",
 			"properties": {
 				"number": "98119",
-				"name": "Loyang Pt",
+				"name": "Loyang Pt/Opp Blk 256",
 				"services": [
 					"109",
 					"359"
@@ -110621,7 +110673,7 @@
 			"id": "09059",
 			"properties": {
 				"number": "09059",
-				"name": "Natl Youth Council",
+				"name": "Somerset Youth Pk",
 				"services": [
 					"106",
 					"111",
