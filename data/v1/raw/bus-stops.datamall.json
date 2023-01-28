@@ -1528,7 +1528,7 @@
 	{
 		"BusStopCode": "09059",
 		"RoadName": "Grange Rd",
-		"Description": "Natl Youth Council",
+		"Description": "Somerset Youth Pk",
 		"Latitude": 1.30044251755834,
 		"Longitude": 103.83623804216019
 	},
@@ -2046,14 +2046,14 @@
 	{
 		"BusStopCode": "10351",
 		"RoadName": "Henderson Rd",
-		"Description": "Bef Tiong Bahru Rd",
+		"Description": "Blk 95B",
 		"Latitude": 1.28675501760897,
 		"Longitude": 103.82204990181914
 	},
 	{
 		"BusStopCode": "10359",
 		"RoadName": "Henderson Rd",
-		"Description": "Aft Tiong Bahru Rd",
+		"Description": "Opp Blk 95C",
 		"Latitude": 1.28723833324362,
 		"Longitude": 103.82259298997768
 	},
@@ -2291,7 +2291,7 @@
 	{
 		"BusStopCode": "11019",
 		"RoadName": "Jln Bt Merah",
-		"Description": "Pk Hotel Alexandra",
+		"Description": "Bef Blk 2",
 		"Latitude": 1.28679632523156,
 		"Longitude": 103.80565677295323
 	},
@@ -2767,7 +2767,7 @@
 	{
 		"BusStopCode": "11389",
 		"RoadName": "Holland Dr",
-		"Description": "Blk 46",
+		"Description": "Buona Vista CC",
 		"Latitude": 1.30906501014268,
 		"Longitude": 103.7929321687807
 	},
@@ -5441,14 +5441,14 @@
 	{
 		"BusStopCode": "19041",
 		"RoadName": "C'wealth Ave West",
-		"Description": "Opp Sch Of Science & Tech",
+		"Description": "Opp Sch of Science & Tech",
 		"Latitude": 1.31235972197855,
 		"Longitude": 103.77552750001337
 	},
 	{
 		"BusStopCode": "19049",
 		"RoadName": "C'wealth Ave West",
-		"Description": "Sch Of Science & Tech",
+		"Description": "Sch of Science & Tech",
 		"Latitude": 1.31266302174215,
 		"Longitude": 103.77479215922537
 	},
@@ -5735,7 +5735,7 @@
 	{
 		"BusStopCode": "20201",
 		"RoadName": "Teban Gdns Rd",
-		"Description": "Blk 39",
+		"Description": "Bef Blk 39",
 		"Latitude": 1.32127611097845,
 		"Longitude": 103.74340527799251
 	},
@@ -12159,13 +12159,6 @@
 		"Longitude": 103.838298
 	},
 	{
-		"BusStopCode": "40189",
-		"RoadName": "Scotts Rd",
-		"Description": "Newton Stn Exit B",
-		"Latitude": 1.31223181292182,
-		"Longitude": 103.83816095637219
-	},
-	{
 		"BusStopCode": "40191",
 		"RoadName": "Stevens Rd",
 		"Description": "Aft Draycott Pk",
@@ -13771,7 +13764,7 @@
 	{
 		"BusStopCode": "43629",
 		"RoadName": "Bt Batok East Ave 3",
-		"Description": "Yusof Ishak Sec Sch",
+		"Description": "St. Andrew's Mission Sch",
 		"Latitude": 1.34240810773422,
 		"Longitude": 103.75915813592935
 	},
@@ -19133,7 +19126,7 @@
 	{
 		"BusStopCode": "52479",
 		"RoadName": "Ah Hood Rd",
-		"Description": "Opp EASB",
+		"Description": "Opp EAIM",
 		"Latitude": 1.32749617656635,
 		"Longitude": 103.84578619081431
 	},
@@ -26259,7 +26252,7 @@
 	{
 		"BusStopCode": "66351",
 		"RoadName": "S'goon Ctrl",
-		"Description": "S'Goon Stn Exit B",
+		"Description": "S'goon Stn Exit E",
 		"Latitude": 1.35049831450162,
 		"Longitude": 103.87324486521683
 	},
@@ -26302,8 +26295,8 @@
 		"BusStopCode": "66381",
 		"RoadName": "S'goon Ave 2",
 		"Description": "Opp S'Goon Stn Exit F",
-		"Latitude": 1.36503,
-		"Longitude": 103.872544
+		"Latitude": 1.35020472222222,
+		"Longitude": 103.8712252777778
 	},
 	{
 		"BusStopCode": "66389",
@@ -28765,14 +28758,14 @@
 	{
 		"BusStopCode": "72171",
 		"RoadName": "Bedok Nth Rd",
-		"Description": "Opp HomeTeamns Bedok",
+		"Description": "Opp HomeTeamNS",
 		"Latitude": 1.342473,
 		"Longitude": 103.918486
 	},
 	{
 		"BusStopCode": "72179",
 		"RoadName": "Bedok Nth Rd",
-		"Description": "HomeTeamns Bedok",
+		"Description": "HomeTeamNS",
 		"Latitude": 1.342322,
 		"Longitude": 103.918768
 	},
@@ -29442,6 +29435,34 @@
 		"Longitude": 103.934527
 	},
 	{
+		"BusStopCode": "75541",
+		"RoadName": "Tampines St 62",
+		"Description": "OPP BLK 648A",
+		"Latitude": 1.368309,
+		"Longitude": 103.941523
+	},
+	{
+		"BusStopCode": "75549",
+		"RoadName": "Tampines St 62",
+		"Description": "BLK 648A",
+		"Latitude": 1.368246,
+		"Longitude": 103.941407
+	},
+	{
+		"BusStopCode": "75551",
+		"RoadName": "Tampines St 62",
+		"Description": "BLK 641A",
+		"Latitude": 1.366268,
+		"Longitude": 103.943413
+	},
+	{
+		"BusStopCode": "75559",
+		"RoadName": "Tampines St 62",
+		"Description": "BLK 646B",
+		"Latitude": 1.36642,
+		"Longitude": 103.943193
+	},
+	{
 		"BusStopCode": "75561",
 		"RoadName": "Tampines Nth Dr 2",
 		"Description": "BLK 648C",
@@ -29481,7 +29502,7 @@
 		"RoadName": "Tampines Ave 12",
 		"Description": "OPP BLK 638A",
 		"Latitude": 1.364117,
-		"Longitude": 103.942426
+		"Longitude": 103.945427
 	},
 	{
 		"BusStopCode": "75591",
@@ -30760,14 +30781,14 @@
 	{
 		"BusStopCode": "78141",
 		"RoadName": "Pasir Ris Dr 3",
-		"Description": "Greenview Sec Sch",
+		"Description": "Blk 249",
 		"Latitude": 1.370066,
 		"Longitude": 103.963665
 	},
 	{
 		"BusStopCode": "78149",
 		"RoadName": "Pasir Ris Dr 3",
-		"Description": "Opp Greenview Sec Sch",
+		"Description": "NTUC Health Pasir Ris",
 		"Latitude": 1.36970105283111,
 		"Longitude": 103.96411887211589
 	},
@@ -35086,7 +35107,7 @@
 	{
 		"BusStopCode": "97301",
 		"RoadName": "Changi Nth Way",
-		"Description": "Agility",
+		"Description": "Aft Changi Nth St 1",
 		"Latitude": 1.35182434688859,
 		"Longitude": 103.96979848322833
 	},
@@ -35261,7 +35282,7 @@
 	{
 		"BusStopCode": "98119",
 		"RoadName": "Pasir Ris Dr 2",
-		"Description": "Loyang Pt",
+		"Description": "Loyang Pt/Opp Blk 256",
 		"Latitude": 1.3671897219745,
 		"Longitude": 103.96432861100051
 	},

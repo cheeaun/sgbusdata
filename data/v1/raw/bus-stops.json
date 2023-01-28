@@ -2097,15 +2097,6 @@
 		}
 	},
 	{
-		"name": "-P68",
-		"wab": "true",
-		"details": "Outside Costa Rhu Condominium",
-		"coordinates": {
-			"lat": 1.29664,
-			"long": 103.86759
-		}
-	},
-	{
 		"name": "-P688",
 		"wab": "true",
 		"details": "Blk 530",
@@ -2121,15 +2112,6 @@
 		"coordinates": {
 			"lat": 1.373937621,
 			"long": 103.8755129
-		}
-	},
-	{
-		"name": "-P69",
-		"wab": "true",
-		"details": "Outside No. 130-136 Pebble Bay Condominium",
-		"coordinates": {
-			"lat": 1.29716,
-			"long": 103.87048
 		}
 	},
 	{
@@ -2157,15 +2139,6 @@
 		"coordinates": {
 			"lat": 1.337751,
 			"long": 103.934873
-		}
-	},
-	{
-		"name": "-P70",
-		"wab": "true",
-		"details": "Outside Pebble Bay Condominium",
-		"coordinates": {
-			"lat": 1.29719,
-			"long": 103.87131
 		}
 	},
 	{
@@ -2202,15 +2175,6 @@
 		"coordinates": {
 			"lat": 1.386697098,
 			"long": 103.8962889
-		}
-	},
-	{
-		"name": "-P71",
-		"wab": "true",
-		"details": "Outside Camelot Condominium",
-		"coordinates": {
-			"lat": 1.29728,
-			"long": 103.87545
 		}
 	},
 	{
@@ -2292,15 +2256,6 @@
 		"coordinates": {
 			"lat": 1.389250235,
 			"long": 103.8729858
-		}
-	},
-	{
-		"name": "-P72",
-		"wab": "true",
-		"details": "Outside Dunman High School",
-		"coordinates": {
-			"lat": 1.29802,
-			"long": 103.88203
 		}
 	},
 	{
@@ -2556,15 +2511,6 @@
 		}
 	},
 	{
-		"name": "-P75",
-		"wab": "true",
-		"details": "Outside The Waterside Condominium",
-		"coordinates": {
-			"lat": 1.29803,
-			"long": 103.88352
-		}
-	},
-	{
 		"name": "-P750",
 		"wab": "true",
 		"details": "Buangkok Stn Exit B",
@@ -2580,24 +2526,6 @@
 		"coordinates": {
 			"lat": 1.380279751,
 			"long": 103.890605
-		}
-	},
-	{
-		"name": "-P77",
-		"wab": "true",
-		"details": "Bus stop opposite Pebble Bay Condominium",
-		"coordinates": {
-			"lat": 1.29709,
-			"long": 103.87122
-		}
-	},
-	{
-		"name": "-P78",
-		"wab": "true",
-		"details": "Outside Parkshore Condo",
-		"coordinates": {
-			"lat": 1.29706,
-			"long": 103.87034
 		}
 	},
 	{
@@ -3078,12 +3006,48 @@
 		}
 	},
 	{
+		"name": "-P883",
+		"wab": "true",
+		"details": "Opp Pebble Bay",
+		"coordinates": {
+			"lat": 1.297006696,
+			"long": 103.8725309
+		}
+	},
+	{
 		"name": "-P884",
 		"wab": "true",
 		"details": "Tg Ria Condo",
 		"coordinates": {
 			"lat": 1.29656022698907,
 			"long": 103.87500520610656
+		}
+	},
+	{
+		"name": "-P885",
+		"wab": "true",
+		"details": "Opp Tg Ria Condo",
+		"coordinates": {
+			"lat": 1.296633057,
+			"long": 103.8753931
+		}
+	},
+	{
+		"name": "-P886",
+		"wab": "true",
+		"details": "Dunman High Sch",
+		"coordinates": {
+			"lat": 1.298106369,
+			"long": 103.8823231
+		}
+	},
+	{
+		"name": "-P887",
+		"wab": "true",
+		"details": "Opp Dunman High Sch",
+		"coordinates": {
+			"lat": 1.29795474,
+			"long": 103.8825818
 		}
 	},
 	{
@@ -9551,7 +9515,7 @@
 	{
 		"name": "09059",
 		"wab": "true",
-		"details": "Natl Youth Council",
+		"details": "Somerset Youth Pk",
 		"coordinates": {
 			"lat": 1.30044251755834,
 			"long": 103.83623804216019
@@ -10217,7 +10181,7 @@
 	{
 		"name": "10351",
 		"wab": "true",
-		"details": "Bef Tiong Bahru Rd",
+		"details": "Blk 95B",
 		"coordinates": {
 			"lat": 1.28675501760897,
 			"long": 103.82204990181914
@@ -10226,7 +10190,7 @@
 	{
 		"name": "10359",
 		"wab": "true",
-		"details": "Aft Tiong Bahru Rd",
+		"details": "Opp Blk 95C",
 		"coordinates": {
 			"lat": 1.28723833324362,
 			"long": 103.82259298997768
@@ -10532,7 +10496,7 @@
 	{
 		"name": "11019",
 		"wab": "true",
-		"details": "Pk Hotel Alexandra",
+		"details": "Bef Blk 2",
 		"coordinates": {
 			"lat": 1.28679632523156,
 			"long": 103.80565677295323
@@ -11144,7 +11108,7 @@
 	{
 		"name": "11389",
 		"wab": "true",
-		"details": "Blk 46",
+		"details": "Buona Vista CC",
 		"coordinates": {
 			"lat": 1.30906501014268,
 			"long": 103.7929321687807
@@ -14194,7 +14158,7 @@
 	},
 	{
 		"name": "18109",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp PSB Science Pk Bldg",
 		"coordinates": {
 			"lat": 1.29403436577434,
@@ -14582,7 +14546,7 @@
 	{
 		"name": "19041",
 		"wab": "true",
-		"details": "Opp Sch Of Science & Tech",
+		"details": "Opp Sch of Science & Tech",
 		"coordinates": {
 			"lat": 1.31235972197855,
 			"long": 103.77552750001337
@@ -14591,7 +14555,7 @@
 	{
 		"name": "19049",
 		"wab": "true",
-		"details": "Sch Of Science & Tech",
+		"details": "Sch of Science & Tech",
 		"coordinates": {
 			"lat": 1.31266302174215,
 			"long": 103.77479215922537
@@ -14960,7 +14924,7 @@
 	{
 		"name": "20201",
 		"wab": "true",
-		"details": "Blk 39",
+		"details": "Bef Blk 39",
 		"coordinates": {
 			"lat": 1.32127611097845,
 			"long": 103.74340527799251
@@ -18667,7 +18631,7 @@
 	},
 	{
 		"name": "24689",
-		"wab": "true",
+		"wab": "false",
 		"details": "Jurong Insp Ctr",
 		"coordinates": {
 			"lat": 1.31152436181276,
@@ -23220,15 +23184,6 @@
 		}
 	},
 	{
-		"name": "40189",
-		"wab": "false",
-		"details": "Newton Stn Exit B",
-		"coordinates": {
-			"lat": 1.31223181292182,
-			"long": 103.83816095637219
-		}
-	},
-	{
 		"name": "40191",
 		"wab": "true",
 		"details": "Aft Draycott Pk",
@@ -25292,7 +25247,7 @@
 	{
 		"name": "43629",
 		"wab": "true",
-		"details": "Yusof Ishak Sec Sch",
+		"details": "St. Andrew's Mission Sch",
 		"coordinates": {
 			"lat": 1.34240810773422,
 			"long": 103.75915813592935
@@ -32186,7 +32141,7 @@
 	{
 		"name": "52479",
 		"wab": "true",
-		"details": "Opp EASB",
+		"details": "Opp EAIM",
 		"coordinates": {
 			"lat": 1.32749617656635,
 			"long": 103.84578619081431
@@ -41348,7 +41303,7 @@
 	{
 		"name": "66351",
 		"wab": "true",
-		"details": "S'Goon Stn Exit B",
+		"details": "S'goon Stn Exit E",
 		"coordinates": {
 			"lat": 1.35049831450162,
 			"long": 103.87324486521683
@@ -41404,8 +41359,8 @@
 		"wab": "true",
 		"details": "Opp S'Goon Stn Exit F",
 		"coordinates": {
-			"lat": 1.36503,
-			"long": 103.872544
+			"lat": 1.35020472222222,
+			"long": 103.8712252777778
 		}
 	},
 	{
@@ -44570,7 +44525,7 @@
 	{
 		"name": "72171",
 		"wab": "true",
-		"details": "Opp HomeTeamns Bedok",
+		"details": "Opp HomeTeamNS",
 		"coordinates": {
 			"lat": 1.342473,
 			"long": 103.918486
@@ -44579,7 +44534,7 @@
 	{
 		"name": "72179",
 		"wab": "true",
-		"details": "HomeTeamns Bedok",
+		"details": "HomeTeamNS",
 		"coordinates": {
 			"lat": 1.342322,
 			"long": 103.918768
@@ -45441,6 +45396,42 @@
 		}
 	},
 	{
+		"name": "75541",
+		"wab": "true",
+		"details": "OPP BLK 648A",
+		"coordinates": {
+			"lat": 1.368309,
+			"long": 103.941523
+		}
+	},
+	{
+		"name": "75549",
+		"wab": "true",
+		"details": "BLK 648A",
+		"coordinates": {
+			"lat": 1.368246,
+			"long": 103.941407
+		}
+	},
+	{
+		"name": "75551",
+		"wab": "true",
+		"details": "BLK 641A",
+		"coordinates": {
+			"lat": 1.366268,
+			"long": 103.943413
+		}
+	},
+	{
+		"name": "75559",
+		"wab": "true",
+		"details": "BLK 646B",
+		"coordinates": {
+			"lat": 1.36642,
+			"long": 103.943193
+		}
+	},
+	{
 		"name": "75561",
 		"wab": "true",
 		"details": "BLK 648C",
@@ -45491,7 +45482,7 @@
 		"details": "OPP BLK 638A",
 		"coordinates": {
 			"lat": 1.364117,
-			"long": 103.942426
+			"long": 103.945427
 		}
 	},
 	{
@@ -47135,7 +47126,7 @@
 	{
 		"name": "78141",
 		"wab": "true",
-		"details": "Greenview Sec Sch",
+		"details": "Blk 249",
 		"coordinates": {
 			"lat": 1.370066,
 			"long": 103.963665
@@ -47144,7 +47135,7 @@
 	{
 		"name": "78149",
 		"wab": "true",
-		"details": "Opp Greenview Sec Sch",
+		"details": "NTUC Health Pasir Ris",
 		"coordinates": {
 			"lat": 1.36970105283111,
 			"long": 103.96411887211589
@@ -52697,7 +52688,7 @@
 	{
 		"name": "97301",
 		"wab": "true",
-		"details": "Agility",
+		"details": "Aft Changi Nth St 1",
 		"coordinates": {
 			"lat": 1.35182434688859,
 			"long": 103.96979848322833
@@ -52922,7 +52913,7 @@
 	{
 		"name": "98119",
 		"wab": "true",
-		"details": "Loyang Pt",
+		"details": "Loyang Pt/Opp Blk 256",
 		"coordinates": {
 			"lat": 1.3671897219745,
 			"long": 103.96432861100051

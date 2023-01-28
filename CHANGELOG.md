@@ -1,3 +1,90 @@
+# 8 January 2023
+
+## Stops count change: 5086 ⮕ 5089
+
+### Stops added: 4
+
+- `75541` Opp Blk 648A
+- `75549` Blk 648A
+- `75551` Blk 641A
+- `75559` Blk 646B
+
+### Stops removed: 1
+
+- `40189` Newton Stn Exit B
+
+### Stop names changed: 17
+
+- `10351` Bef Tiong Bahru Rd ⮕ Blk 95B
+- `10359` Aft Tiong Bahru Rd ⮕ Opp Blk 95C
+- `11019` Pk Hotel Alexandra ⮕ Bef Blk 2
+- `11389` Blk 46 ⮕ Buona Vista CC
+- `19041` Opp Sch Of Science & Tech ⮕ Opp Sch of Science & Tech
+- `19049` Sch Of Science & Tech ⮕ Sch of Science & Tech
+- `20201` Blk 39 ⮕ Bef Blk 39
+- `43629` Yusof Ishak Sec Sch ⮕ St. Andrew's Mission Sch
+- `52479` Opp EASB ⮕ Opp EAIM
+- `66351` S'Goon Stn Exit B ⮕ S'goon Stn Exit E
+- `72171` Opp HomeTeamns Bedok ⮕ Opp HomeTeamNS
+- `72179` HomeTeamns Bedok ⮕ HomeTeamNS
+- `78141` Greenview Sec Sch ⮕ Blk 249
+- `78149` Opp Greenview Sec Sch ⮕ NTUC Health Pasir Ris
+- `97301` Agility ⮕ Aft Changi Nth St 1
+- `98119` Loyang Pt ⮕ Loyang Pt/Opp Blk 256
+- `09059` Natl Youth Council ⮕ Somerset Youth Pk
+
+### Bus Stop Changes To Routes: 17
+
+- `972M` Bt Panjang Int ⟲ YMCA: -1
+- `518A` Pasir Ris Int → Bayfront Stn Exit A: -1
+- `162M` Yio Chu Kang Int ⟲ Opp The Ritz-Carlton: -1
+- `143M` Jurong East Int ⟲ Opp Ayer Rajah CC: -1
+- `265` Ang Mo Kio Depot ⟲ Blk 561: -2
+- `143` Toa Payoh Int ⇄ Jurong East Int: -2
+- `124` St. Michael's Ter ⇄ HarbourFront Int: -1
+- `79` Boon Lay Int ⟲ Blk 131: -1
+- `54` Bishan Int ⇄ Kampong Bahru Ter: -1
+- `5` Pasir Ris Int ⇄ Bt Merah Int: -1
+- `162` Yio Chu Kang Int ⇄ Shenton Way Ter: -1
+- `167` Sembawang Int ⇄ Bt Merah Int: -1
+- `518` Pasir Ris Int ⟲ Concorde Hotel S'pore: -1
+- `30` Bedok Int ⇄ Boon Lay Int: +1
+- `132` Hougang Ctrl Int ⇄ Bt Merah Int: +3
+- `298` Tampines Nth Int ⟲ Blk 879B: +15, -2
+- `91` Buona Vista Ter ⟲ S'pore Post: +1
+
+## First/last timings changed
+
+Affected services: `5`, `7`, `14`, `16`, `22`, `30`, `32`, `48`, `53`, `54`, `70`, `72`, `74`, `77`, `79`, `89`, `91`, `105`, `106`, `111`, `123`, `124`, `132`, `139`, `143`, `145`, `147`, `162`, `163`, `166`, `167`, `174`, `185`, `191`, `196`, `197`, `200`, `201`, `265`, `298`, `506`, `518`, `652`, `653`, `655`, `851`, `855`, `963`, `174e`, `143M`, `972M`, `162M`, `518A`, `70M`, `43M`
+
+# 1 January 2023
+
+### Stop locations changed: 2
+
+- `66381` 103.87254,1.36503 ⮕ 103.87123,1.3502
+- `75589` 103.94243,1.36412 ⮕ 103.94543,1.36412
+
+## Services count change: 534 ⮕ 533
+
+### Services added: 1
+
+- `139A` Toa Payoh Int → Bet Blks 33/34
+
+### Services removed: 2
+
+- `139M` Toa Payoh Int ⟲ Blk 29
+- `131M` Bt Merah Int ⟲ Opp Blk 109
+
+## Routes changed: 3
+
+- `18` Tampines Nth Int ⇄ Bedok Nth Depot
+- `49` Jurong East Int ⟲ Blk 402
+- `139A` Toa Payoh Int → Bet Blks 33/34
+
+## First/last timings changed
+
+Affected services: `139M`, `131M`, `18`, `93`, `107`, `129`, `161`, `89e`, `139A`
+
 # 1 December 2022
 
 ## Stops count change: 5083 ⮕ 5086
