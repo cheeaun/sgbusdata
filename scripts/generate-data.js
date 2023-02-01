@@ -17,6 +17,7 @@ const Validator = require('fastest-validator');
 const validator = new Validator();
 
 const stops = readFile('./data/v1/raw/bus-stops.json');
+const stopsDatamall = readFile('./data/v1/raw/bus-stops.datamall.json');
 const services = readFile('./data/v1/raw/bus-services.json');
 
 let stopNames = {};
@@ -61,11 +62,19 @@ stops
     } = s;
     const number = '' + name; // Stringify, even when it's just numbers
     const stopName = stopNames[number] || details;
+    let road;
 
-    stopsJSON[number] = [round(long, 5), round(lat, 5), stopName];
+    stopsDatamall.forEach(s => {
+      if (s.BusStopCode == number) {
+        road = s.RoadName
+      }
+    })
+
+    stopsJSON[number] = [round(long, 5), round(lat, 5), stopName, road];
     stopsData[number] = {
       number,
       name: stopName,
+      road,
       coordinates: [long, lat],
     };
   });
@@ -303,13 +312,14 @@ routesFeatures.sort((a, b) => {
 const stopsFeatures = Object.values(stopsData)
   .filter((d) => !!stopsServices[d.number])
   .map((d) => {
-    const { number, name, coordinates } = d;
+    const { number, name, coordinates, road } = d;
     return {
       type: 'Feature',
       id: number,
       properties: {
         number,
         name,
+        road,
         services: [...stopsServices[number]].sort(),
       },
       geometry: {
@@ -340,6 +350,7 @@ let e = validator.validate(stopsGeoJSON, {
         $$type: 'object',
         number: { type: 'string', empty: false },
         name: { type: 'string', empty: false },
+        road: { type: 'string', empty: false },
         services: 'string[]',
       },
       geometry: {
@@ -418,6 +429,7 @@ e = validator.validate(Object.entries(stopsJSON), {
         items: [
           { type: 'number' },
           { type: 'number' },
+          { type: 'string', empty: false },
           { type: 'string', empty: false },
         ],
       },
