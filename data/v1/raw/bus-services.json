@@ -289,7 +289,7 @@
 	},
 	{
 		"number": 550,
-		"description": "Sengkang East Avenue to Fullerton Road",
+		"description": "Sumang Walk to Fullerton Road",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"550-1.kml"
@@ -376,18 +376,6 @@
 		],
 		"routeFile": [
 			"580.xml"
-		]
-	},
-	{
-		"number": 581,
-		"description": "Yishun Avenue 7 - Airport Road",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"581-1.kml",
-			"581-2.kml"
-		],
-		"routeFile": [
-			"581.xml"
 		]
 	},
 	{
@@ -609,29 +597,6 @@
 		],
 		"routeFile": [
 			"776.xml"
-		]
-	},
-	{
-		"number": 783,
-		"description": "Airport Boulevard - Portsdown Road",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"783-1.kml",
-			"783-2.kml"
-		],
-		"routeFile": [
-			"783.xml"
-		]
-	},
-	{
-		"number": 786,
-		"description": "Choa Chu Kang Crescent to Marina Boulevard",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"786-1.kml"
-		],
-		"routeFile": [
-			"786.xml"
 		]
 	},
 	{
@@ -5050,6 +5015,26 @@
 		],
 		"routeFile": [
 			"856.xml"
+		]
+	},
+	{
+		"number": "856A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"856A-1.kml"
+		],
+		"routeFile": [
+			"856A.xml"
+		]
+	},
+	{
+		"number": "856B",
+		"type": "TRUNK",
+		"kmlFile": [
+			"856B-1.kml"
+		],
+		"routeFile": [
+			"856B.xml"
 		]
 	},
 	{
