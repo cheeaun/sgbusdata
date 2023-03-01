@@ -32356,7 +32356,7 @@
 	},
 	{
 		"name": "54089",
-		"wab": "false",
+		"wab": "true",
 		"details": "OPP ANG MO KIO SWIM CPLX",
 		"coordinates": {
 			"lat": 1.36297001065247,
@@ -32374,7 +32374,7 @@
 	},
 	{
 		"name": "54099",
-		"wab": "false",
+		"wab": "true",
 		"details": "OPP BLK 333",
 		"coordinates": {
 			"lat": 1.36118777797342,
@@ -33841,7 +33841,7 @@
 	},
 	{
 		"name": "56051",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp Tagore Rd",
 		"coordinates": {
 			"lat": 1.38249472962714,
@@ -52038,24 +52038,6 @@
 		}
 	},
 	{
-		"name": "98031",
-		"wab": "true",
-		"details": "Aft Pasir Ris Dr 3",
-		"coordinates": {
-			"lat": 1.36722636029551,
-			"long": 103.96801787240187
-		}
-	},
-	{
-		"name": "98039",
-		"wab": "true",
-		"details": "Bef New Loyang Lk",
-		"coordinates": {
-			"lat": 1.3673740332815,
-			"long": 103.96847160564306
-		}
-	},
-	{
 		"name": "98041",
 		"wab": "true",
 		"details": "Opp Loyang Valley",
@@ -52071,24 +52053,6 @@
 		"coordinates": {
 			"lat": 1.36955111611083,
 			"long": 103.97064054814314
-		}
-	},
-	{
-		"name": "98051",
-		"wab": "true",
-		"details": "Bef Loyang Way",
-		"coordinates": {
-			"lat": 1.37300166698251,
-			"long": 103.97371333299213
-		}
-	},
-	{
-		"name": "98059",
-		"wab": "true",
-		"details": "Aft Loyang Way",
-		"coordinates": {
-			"lat": 1.37320003118402,
-			"long": 103.97437194693713
 		}
 	},
 	{
@@ -52323,24 +52287,6 @@
 		"coordinates": {
 			"lat": 1.37796803000431,
 			"long": 103.97468689087003
-		}
-	},
-	{
-		"name": "98231",
-		"wab": "true",
-		"details": "Loyang Ind Est",
-		"coordinates": {
-			"lat": 1.37118600522884,
-			"long": 103.97184133530571
-		}
-	},
-	{
-		"name": "98239",
-		"wab": "true",
-		"details": "Opp Loyang Ind Est",
-		"coordinates": {
-			"lat": 1.37149806503652,
-			"long": 103.97258859531347
 		}
 	},
 	{
