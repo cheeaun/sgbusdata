@@ -35161,20 +35161,6 @@
 		"Longitude": 103.96545638898216
 	},
 	{
-		"BusStopCode": "98031",
-		"RoadName": "Loyang Ave",
-		"Description": "Aft Pasir Ris Dr 3",
-		"Latitude": 1.36722636029551,
-		"Longitude": 103.96801787240187
-	},
-	{
-		"BusStopCode": "98039",
-		"RoadName": "Loyang Ave",
-		"Description": "Bef New Loyang Lk",
-		"Latitude": 1.3673740332815,
-		"Longitude": 103.96847160564306
-	},
-	{
 		"BusStopCode": "98041",
 		"RoadName": "Loyang Ave",
 		"Description": "Opp Loyang Valley",
@@ -35187,20 +35173,6 @@
 		"Description": "Loyang Valley",
 		"Latitude": 1.36955111611083,
 		"Longitude": 103.97064054814314
-	},
-	{
-		"BusStopCode": "98051",
-		"RoadName": "Loyang Ave",
-		"Description": "Bef Loyang Way",
-		"Latitude": 1.37300166698251,
-		"Longitude": 103.97371333299213
-	},
-	{
-		"BusStopCode": "98059",
-		"RoadName": "Loyang Ave",
-		"Description": "Aft Loyang Way",
-		"Latitude": 1.37320003118402,
-		"Longitude": 103.97437194693713
 	},
 	{
 		"BusStopCode": "98061",
@@ -35383,20 +35355,6 @@
 		"Description": "Honey Well",
 		"Latitude": 1.37796803000431,
 		"Longitude": 103.97468689087003
-	},
-	{
-		"BusStopCode": "98231",
-		"RoadName": "Loyang Ave",
-		"Description": "Loyang Ind Est",
-		"Latitude": 1.37118600522884,
-		"Longitude": 103.97184133530571
-	},
-	{
-		"BusStopCode": "98239",
-		"RoadName": "Loyang Ave",
-		"Description": "Opp Loyang Ind Est",
-		"Latitude": 1.37149806503652,
-		"Longitude": 103.97258859531347
 	},
 	{
 		"BusStopCode": "98291",

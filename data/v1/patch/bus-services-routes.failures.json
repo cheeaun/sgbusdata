@@ -22,10 +22,6 @@
 			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
 		{
-			"fileName": "856B-1.kml",
-			"e": "HTTPError: Response code 404 (Not Found)"
-		},
-		{
 			"fileName": "859T-1.kml",
 			"e": "HTTPError: Response code 403 (Forbidden)"
 		},
