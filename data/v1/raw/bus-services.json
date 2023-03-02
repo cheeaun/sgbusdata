@@ -601,7 +601,7 @@
 	},
 	{
 		"number": "-S11",
-		"description": "Museum Trail Tourist Service between Raffles Boulevard and Orchard Road",
+		"description": "FunVee City Sightseeing - Raffles Boulevard to Orchard Road Tourist Bus Service",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S11-1.kml"
@@ -612,7 +612,7 @@
 	},
 	{
 		"number": "-S12",
-		"description": "Museum Trail Tourist Service between Raffles Boulevard and Selegie Road Via Chinatown",
+		"description": "FunVee Marina Sightseeing - Raffles Boulevard to Selegie Road Tourist Bus Service",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S12-1.kml"
