@@ -35,12 +35,14 @@ if (oldStopsCount !== newStopsCount) {
 const stopsDiff = diff(oldStops, newStops);
 
 if (stopsDiff.length) {
-  const addedDiff = stopsDiff.filter((d) => d.op === 'add');
+  const addedDiff = stopsDiff.filter((d) => d.op === 'add' && d.path[1] === 2);
   if (addedDiff.length) {
     nlog(`### Stops added: ${addedDiff.length}\n`);
     addedDiff.forEach((d) => {
       const { path, value } = d;
-      log(`- \`${path[0]}\` ${value[2]}`);
+      if (path[1] === 2) {
+        log(`- \`${path[0]}\` ${value[2]}`);
+      }
     });
   }
 
