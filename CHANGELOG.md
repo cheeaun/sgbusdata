@@ -1,3 +1,37 @@
+# 1 April 2023
+
+### Stop locations changed: 2
+
+- `21051` 103.73045,1.31226 ⮕ 103.73045,1.31226
+- `21059` 103.73014,1.31195 ⮕ 103.73014,1.31195
+
+### Services added: 1
+
+- `102A` Sengkang Stn → Opp Blk 461B
+
+### Services removed: 1
+
+- `130A` Ang Mo Kio Int → Blk 25
+
+### Bus Stop Changes To Routes: 1
+
+- `132` Hougang Ctrl Int ⇄ Bt Merah Int: -3
+
+## Routes changed: 8
+
+- `6` Pasir Ris Int ⟲ Opp Loyang Way 6
+- `9` Bedok Int ⟲ 3rd Cargo Agents
+- `19` Tampines Int ⟲ 3rd Cargo Agents
+- `59` Bishan Int ⇄ Changi Village Ter
+- `89` Hougang Ctrl Int ⟲ 3rd Cargo Agents
+- `109` S'Goon Int ⇄ Changi Village Ter
+- `89e` Hougang Ctrl Int ⇄ SATS Cargo Ter / 3rd Cargo Agents
+- `102A` Sengkang Stn → Opp Blk 461B
+
+## First/last timings changed
+
+Affected services: `130A`, `39`, `67`, `132`, `178`, `979`, `102A`
+
 # 2 March 2023
 
 ## Stops count change: 5089 ⮕ 5083

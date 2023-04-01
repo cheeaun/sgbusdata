@@ -14383,7 +14383,7 @@
 			"properties": {
 				"number": "21051",
 				"name": "Bef Penjuru Rd",
-				"road": "Jln Boon Lay",
+				"road": "Jln Buroh",
 				"services": [
 					"79",
 					"79A"
@@ -14403,7 +14403,7 @@
 			"properties": {
 				"number": "21059",
 				"name": "Aft Penjuru Rd",
-				"road": "Jln Boon Lay",
+				"road": "Jln Buroh",
 				"services": [
 					"79"
 				]
@@ -56184,8 +56184,7 @@
 				"name": "Blk 25",
 				"road": "Sin Ming Rd",
 				"services": [
-					"130",
-					"130A"
+					"130"
 				]
 			},
 			"geometry": {
@@ -56223,8 +56222,7 @@
 				"name": "Blk 22A CP",
 				"road": "Sin Ming Rd",
 				"services": [
-					"130",
-					"130A"
+					"130"
 				]
 			},
 			"geometry": {
@@ -56262,8 +56260,7 @@
 				"name": "Aft Nea Reg Off",
 				"road": "Sin Ming Dr",
 				"services": [
-					"130",
-					"130A"
+					"130"
 				]
 			},
 			"geometry": {
@@ -56788,7 +56785,6 @@
 				"road": "Sin Ming Ave",
 				"services": [
 					"130",
-					"130A",
 					"162",
 					"162M",
 					"410",
@@ -57259,7 +57255,6 @@
 				"road": "Ang Mo Kio Ave 8",
 				"services": [
 					"130",
-					"130A",
 					"133",
 					"135",
 					"136",
@@ -57326,7 +57321,6 @@
 				"services": [
 					"13",
 					"130",
-					"130A",
 					"133",
 					"136",
 					"13A",
@@ -58185,7 +58179,6 @@
 				"road": "Ang Mo Kio Ave 3",
 				"services": [
 					"130",
-					"130A",
 					"132",
 					"133",
 					"136",
@@ -80458,7 +80451,8 @@
 				"name": "Opp Blk 459B",
 				"road": "Sengkang West Rd",
 				"services": [
-					"102"
+					"102",
+					"102A"
 				]
 			},
 			"geometry": {
@@ -81728,6 +81722,7 @@
 				"road": "Sengkang East Way",
 				"services": [
 					"102",
+					"102A",
 					"372",
 					"50",
 					"85"
@@ -81773,6 +81768,7 @@
 				"road": "Sengkang East Way",
 				"services": [
 					"102",
+					"102A",
 					"372",
 					"50",
 					"85"
@@ -81819,6 +81815,7 @@
 				"road": "Sengkang East Way",
 				"services": [
 					"102",
+					"102A",
 					"119",
 					"156",
 					"159",
@@ -82235,6 +82232,7 @@
 				"road": "Sengkang West Ave",
 				"services": [
 					"102",
+					"102A",
 					"163",
 					"163A",
 					"50",
@@ -82441,6 +82439,7 @@
 				"road": "Sengkang East Way",
 				"services": [
 					"102",
+					"102A",
 					"374",
 					"85"
 				]
@@ -82484,6 +82483,7 @@
 				"road": "Sengkang West Way",
 				"services": [
 					"102",
+					"102A",
 					"374",
 					"85"
 				]
@@ -82527,6 +82527,7 @@
 				"road": "Sengkang West Way",
 				"services": [
 					"102",
+					"102A",
 					"85"
 				]
 			},
@@ -82788,7 +82789,8 @@
 				"name": "Blk 436A",
 				"road": "Fernvale Rd",
 				"services": [
-					"102"
+					"102",
+					"102A"
 				]
 			},
 			"geometry": {
@@ -83172,7 +83174,8 @@
 				"name": "Opp Blk 461B",
 				"road": "Sengkang West Way",
 				"services": [
-					"102"
+					"102",
+					"102A"
 				]
 			},
 			"geometry": {
@@ -83234,6 +83237,7 @@
 				"road": "Sengkang West Ave",
 				"services": [
 					"102",
+					"102A",
 					"103",
 					"50",
 					"671",
