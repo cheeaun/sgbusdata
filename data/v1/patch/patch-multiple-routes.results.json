@@ -60,12 +60,6 @@
 		"count": 17
 	},
 	{
-		"number": 19,
-		"numberPattern": "19-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 222
-	},
-	{
 		"number": "190A",
 		"numberPattern": "190A-1",
 		"e": "Not LineString but is GeometryCollection",
@@ -132,12 +126,6 @@
 		"count": 45
 	},
 	{
-		"number": 59,
-		"numberPattern": "59-2",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 22
-	},
-	{
 		"number": 82,
 		"numberPattern": "82-1",
 		"e": "Not LineString but is GeometryCollection",
@@ -154,12 +142,6 @@
 		"numberPattern": "86-1",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 6
-	},
-	{
-		"number": 89,
-		"numberPattern": "89-1",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 47
 	},
 	{
 		"number": 90,

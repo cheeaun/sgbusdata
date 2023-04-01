@@ -983,6 +983,7 @@
 			"bearing": "SW",
 			"brands": [
 				"SBSTBuses",
+				"SingaporeShuttle",
 				"TTSBuses"
 			],
 			"coords": [
@@ -999,7 +1000,8 @@
 				"SBSTBuses811",
 				"SBSTBuses811T",
 				"SBSTBuses860",
-				"SBSTBuses860T"
+				"SBSTBuses860T",
+				"CM_SingaporeShuttle_ssc"
 			],
 			"stop_code": "59171"
 		},
