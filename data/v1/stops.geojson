@@ -5770,8 +5770,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.8322512944371,
-					1.29636199316259
+					103.832936,
+					1.296335
 				]
 			}
 		},
@@ -9448,7 +9448,7 @@
 			"id": "16149",
 			"properties": {
 				"number": "16149",
-				"name": "NUS Fac Of Architecture",
+				"name": "SDE3",
 				"road": "Clementi Rd",
 				"services": [
 					"183",
@@ -9494,7 +9494,7 @@
 			"id": "16159",
 			"properties": {
 				"number": "16159",
-				"name": "NUS Fac Of Engrg",
+				"name": "Coll of Design & Engrg",
 				"road": "Clementi Rd",
 				"services": [
 					"183",
@@ -9637,8 +9637,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.77284799997702,
-					1.29736100001827
+					103.768132,
+					1.309851
 				]
 			}
 		},
@@ -9647,7 +9647,7 @@
 			"id": "16191",
 			"properties": {
 				"number": "16191",
-				"name": "Opp NUS Fac Of Architect",
+				"name": "Aft Kent Ridge Dr",
 				"road": "Kent Ridge Cres",
 				"services": [
 					"151",
@@ -9667,7 +9667,7 @@
 			"id": "16199",
 			"properties": {
 				"number": "16199",
-				"name": "NUS Fac Of Design & Env",
+				"name": "Aft Architecture Dr",
 				"road": "Kent Ridge Cres",
 				"services": [
 					"151",
@@ -15068,7 +15068,7 @@
 			"id": "21241",
 			"properties": {
 				"number": "21241",
-				"name": "Opp Blk 213",
+				"name": "Blk 216 CP",
 				"road": "Boon Lay Ave",
 				"services": [
 					"174",
@@ -15281,8 +15281,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.70997054139839,
-					1.31849721492889
+					103.710136,
+					1.320072
 				]
 			}
 		},
@@ -15300,8 +15300,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.71054697877872,
-					1.3191903081711
+					103.710547,
+					1.31919
 				]
 			}
 		},
@@ -15319,8 +15319,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.70956380845345,
-					1.32320514106483
+					103.709537,
+					1.323117
 				]
 			}
 		},
@@ -15414,8 +15414,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.70832322685169,
-					1.33042465634522
+					103.708306,
+					1.329905
 				]
 			}
 		},
@@ -15452,8 +15452,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.70924473268514,
-					1.33506459808859
+					103.709304,
+					1.335535
 				]
 			}
 		},
@@ -16345,8 +16345,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.72274321247575,
-					1.32889315236799
+					103.722753,
+					1.328801
 				]
 			}
 		},
@@ -16653,8 +16653,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.7227567243868,
-					1.33954476976732
+					103.722816,
+					1.339672
 				]
 			}
 		},
@@ -17099,8 +17099,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.72373023682435,
-					1.3265799244816
+					103.723626,
+					1.3266
 				]
 			}
 		},
@@ -19959,8 +19959,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.67513000000729,
-					1.30916000001419
+					103.675189,
+					1.309154
 				]
 			}
 		},
@@ -24406,8 +24406,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.636168,
-					1.28207
+					103.636126,
+					1.28202
 				]
 			}
 		},
@@ -26177,7 +26177,7 @@
 			"id": "27241",
 			"properties": {
 				"number": "27241",
-				"name": "Sch of PMS",
+				"name": "SPMS",
 				"road": "Nanyang Dr",
 				"services": [
 					"179",
@@ -26207,8 +26207,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.68420609962317,
-					1.34162269584125
+					103.683656,
+					1.341151
 				]
 			}
 		},
@@ -27942,8 +27942,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.74307145172916,
-					1.32980442518564
+					103.742845,
+					1.330029
 				]
 			}
 		},
@@ -29512,8 +29512,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.74358012428006,
-					1.34154348249683
+					103.744076,
+					1.342172
 				]
 			}
 		},
@@ -29536,8 +29536,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.74424995812674,
-					1.34195331167525
+					103.744754,
+					1.342682
 				]
 			}
 		},
@@ -35301,8 +35301,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.7679072102881,
-					1.33957381292395
+					103.767643,
+					1.339618
 				]
 			}
 		},
@@ -36411,8 +36411,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.75681389918313,
-					1.34694984968785
+					103.756815,
+					1.346993
 				]
 			}
 		},
@@ -36436,8 +36436,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.75931336284916,
-					1.34638492790435
+					103.759219,
+					1.34638
 				]
 			}
 		},
@@ -38006,8 +38006,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.75505166565658,
-					1.35283067935634
+					103.755002,
+					1.35288
 				]
 			}
 		},
@@ -38025,8 +38025,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.75549198596346,
-					1.35254074739712
+					103.755295,
+					1.352775
 				]
 			}
 		},
@@ -42437,7 +42437,7 @@
 			"id": "44811",
 			"properties": {
 				"number": "44811",
-				"name": "West Spring Sec Sch",
+				"name": "Senja FC",
 				"road": "Senja Rd",
 				"services": [
 					"972",
@@ -44887,8 +44887,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.786162,
-					1.436874
+					103.785936,
+					1.436946
 				]
 			}
 		},
@@ -49314,7 +49314,7 @@
 			"id": "47189",
 			"properties": {
 				"number": "47189",
-				"name": "K.U.S. Holdings",
+				"name": "TAK Products & Svcs",
 				"road": "Senoko Loop",
 				"services": [
 					"981"
@@ -51821,8 +51821,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.84211744421322,
-					1.32489453398384
+					103.842208,
+					1.325264
 				]
 			}
 		},
@@ -52260,8 +52260,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.85096555600265,
-					1.32490472200696
+					103.85092,
+					1.32495
 				]
 			}
 		},
@@ -54274,8 +54274,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.8386000000533,
-					1.33782999993927
+					103.838328,
+					1.337482
 				]
 			}
 		},
@@ -55439,7 +55439,7 @@
 			"id": "53021",
 			"properties": {
 				"number": "53021",
-				"name": "Opp Shunfu Est",
+				"name": "Lakeview Estate",
 				"road": "Upp Thomson Rd",
 				"services": [
 					"130",
@@ -56427,8 +56427,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.8476587818646,
-					1.35100305612802
+					103.847622,
+					1.350734
 				]
 			}
 		},
@@ -56842,8 +56842,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.83701277802122,
-					1.36285472197724
+					103.836624,
+					1.363006
 				]
 			}
 		},
@@ -57450,8 +57450,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.84532571985918,
-					1.37350472194557
+					103.845336,
+					1.373029
 				]
 			}
 		},
@@ -58388,8 +58388,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.85601277845504,
-					1.3694902568174
+					103.855165,
+					1.369694
 				]
 			}
 		},
@@ -58818,7 +58818,7 @@
 			"id": "54371",
 			"properties": {
 				"number": "54371",
-				"name": "Blk 409A",
+				"name": "Blk 409 Mkt/FC",
 				"road": "Ang Mo Kio Ave 10",
 				"services": [
 					"261",
@@ -59292,8 +59292,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.855796667004,
-					1.37566138900563
+					103.855423,
+					1.375675
 				]
 			}
 		},
@@ -60027,7 +60027,7 @@
 			"id": "55041",
 			"properties": {
 				"number": "55041",
-				"name": "Opp Ue Bizhub Ctrl",
+				"name": "Aft Ang Mo Kio St 64",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
@@ -60054,7 +60054,7 @@
 			"id": "55049",
 			"properties": {
 				"number": "55049",
-				"name": "Ue Bizhub Ctrl",
+				"name": "Bef Ang Mo Kio St 64",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
@@ -60095,8 +60095,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.8489623936009,
-					1.3923998014128
+					103.848962,
+					1.3924
 				]
 			}
 		},
@@ -60502,8 +60502,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.8406500476486,
-					1.38336200025306
+					103.84065,
+					1.383362
 				]
 			}
 		},
@@ -60894,8 +60894,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.841052,
-					1.389369
+					103.84068,
+					1.389538
 				]
 			}
 		},
@@ -60946,8 +60946,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.838855,
-					1.391294
+					103.838608,
+					1.39143
 				]
 			}
 		},
@@ -60971,8 +60971,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.83649555600854,
-					1.3924244439738
+					103.836929,
+					1.39203
 				]
 			}
 		},
@@ -60998,8 +60998,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.837048,
-					1.392529
+					103.836298,
+					1.39267
 				]
 			}
 		},
@@ -61097,8 +61097,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.84444749999892,
-					1.38408333299371
+					103.844597,
+					1.384084
 				]
 			}
 		},
@@ -72390,7 +72390,7 @@
 			"id": "63301",
 			"properties": {
 				"number": "63301",
-				"name": "Paya Lebar Girls' Sch",
+				"name": "Paya Lebar Meth Girls' Sc",
 				"road": "Lor Ah Soo",
 				"services": [
 					"113",
@@ -72416,7 +72416,7 @@
 			"id": "63309",
 			"properties": {
 				"number": "63309",
-				"name": "Opp Paya Lebar Girls' Sch",
+				"name": "Blk 126",
 				"road": "Lor Ah Soo",
 				"services": [
 					"113",
@@ -74299,8 +74299,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.88808212175417,
-					1.37481110511316
+					103.888082,
+					1.374811
 				]
 			}
 		},
@@ -83624,8 +83624,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.87194871751426,
-					1.40231306085319
+					103.872168,
+					1.402186
 				]
 			}
 		},
@@ -93233,7 +93233,7 @@
 			"id": "77379",
 			"properties": {
 				"number": "77379",
-				"name": "Bef Pasir Ris Dr 3",
+				"name": "Blk 586",
 				"road": "Pasir Ris Dr 8",
 				"services": [
 					"3",
@@ -93339,8 +93339,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.959059,
-					1.367108
+					103.959,
+					1.367181
 				]
 			}
 		},
@@ -93397,7 +93397,7 @@
 			"id": "78061",
 			"properties": {
 				"number": "78061",
-				"name": "Blk 104",
+				"name": "Opp Pasir Ris Polyclinic",
 				"road": "Pasir Ris Dr 1",
 				"services": [
 					"109",
@@ -96613,8 +96613,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.89745113021507,
-					1.3012419783155
+					103.897403,
+					1.301379
 				]
 			}
 		},
@@ -99118,8 +99118,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.93506805500876,
-					1.31968902766581
+					103.935232,
+					1.31964
 				]
 			}
 		},
@@ -99144,8 +99144,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.93156320282378,
-					1.31848306586196
+					103.931033,
+					1.318437
 				]
 			}
 		},
@@ -99224,8 +99224,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.92782177344944,
-					1.32132832560695
+					103.92772,
+					1.321745
 				]
 			}
 		},
@@ -100017,8 +100017,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.93079062255664,
-					1.32874469952532
+					103.930777,
+					1.3289
 				]
 			}
 		},
@@ -103438,8 +103438,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.91665220259567,
-					1.30633717232202
+					103.916675,
+					1.306522
 				]
 			}
 		},
@@ -106461,7 +106461,7 @@
 			"id": "96149",
 			"properties": {
 				"number": "96149",
-				"name": "Simei Stn",
+				"name": "Simei Stn/Blk 247",
 				"road": "Simei St 1",
 				"services": [
 					"20",
@@ -106791,8 +106791,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.95799531596526,
-					1.3312261583979
+					103.95799,
+					1.331224
 				]
 			}
 		},
@@ -106997,8 +106997,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.94850088671714,
-					1.33941652681162
+					103.94825,
+					1.339714
 				]
 			}
 		},
@@ -115940,7 +115940,7 @@
 			"id": "09191",
 			"properties": {
 				"number": "09191",
-				"name": "The Regent S'pore",
+				"name": "Aft Cuscaden Rd",
 				"road": "Tomlinson Rd",
 				"services": [
 					"36",

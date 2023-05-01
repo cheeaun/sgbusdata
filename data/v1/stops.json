@@ -1434,8 +1434,8 @@
 		"River Valley Rd"
 	],
 	"13071": [
-		103.83225,
-		1.29636,
+		103.83294,
+		1.29634,
 		"Riva Lodge",
 		"River Valley Rd"
 	],
@@ -2372,7 +2372,7 @@
 	"16149": [
 		103.76994,
 		1.29782,
-		"NUS Fac Of Architecture",
+		"SDE3",
 		"Clementi Rd"
 	],
 	"16151": [
@@ -2384,7 +2384,7 @@
 	"16159": [
 		103.77017,
 		1.3006,
-		"NUS Fac Of Engrg",
+		"Coll of Design & Engrg",
 		"Clementi Rd"
 	],
 	"16161": [
@@ -2418,21 +2418,21 @@
 		"Kent Ridge Cres"
 	],
 	"16189": [
-		103.77285,
-		1.29736,
+		103.76813,
+		1.30985,
 		"Information Technology",
 		"Kent Ridge Cres"
 	],
 	"16191": [
 		103.77037,
 		1.29614,
-		"Opp NUS Fac Of Architect",
+		"Aft Kent Ridge Dr",
 		"Kent Ridge Cres"
 	],
 	"16199": [
 		103.77073,
 		1.29639,
-		"NUS Fac Of Design & Env",
+		"Aft Architecture Dr",
 		"Kent Ridge Cres"
 	],
 	"16201": [
@@ -3890,7 +3890,7 @@
 	"21241": [
 		103.71235,
 		1.34974,
-		"Opp Blk 213",
+		"Blk 216 CP",
 		"Boon Lay Ave"
 	],
 	"21249": [
@@ -3948,8 +3948,8 @@
 		"Jurong Pier Rd"
 	],
 	"21301": [
-		103.70997,
-		1.3185,
+		103.71014,
+		1.32007,
 		"Opp Jln Pesawat",
 		"Jurong Pier Rd"
 	],
@@ -3960,8 +3960,8 @@
 		"Jurong Pier Rd"
 	],
 	"21311": [
-		103.70956,
-		1.32321,
+		103.70954,
+		1.32312,
 		"Bef Tractor Rd",
 		"Jln Boon Lay"
 	],
@@ -3990,8 +3990,8 @@
 		"Jln Boon Lay"
 	],
 	"21339": [
-		103.70832,
-		1.33042,
+		103.70831,
+		1.32991,
 		"Premier Milk Pte Ltd",
 		"Jln Boon Lay"
 	],
@@ -4002,8 +4002,8 @@
 		"Jln Boon Lay"
 	],
 	"21349": [
-		103.70924,
-		1.33506,
+		103.7093,
+		1.33554,
 		"Beecham Pte Ltd",
 		"Jln Boon Lay"
 	],
@@ -4254,8 +4254,8 @@
 		"Yung Ho Rd"
 	],
 	"21561": [
-		103.72274,
-		1.32889,
+		103.72275,
+		1.3288,
 		"Blk 158",
 		"Corporation Dr"
 	],
@@ -4332,8 +4332,8 @@
 		"Kang Ching Rd"
 	],
 	"21629": [
-		103.72276,
-		1.33954,
+		103.72282,
+		1.33967,
 		"Blk 334",
 		"Kang Ching Rd"
 	],
@@ -4458,8 +4458,8 @@
 		"Yuan Ching Rd"
 	],
 	"21771": [
-		103.72373,
-		1.32658,
+		103.72363,
+		1.3266,
 		"Aft Corp Dr",
 		"Yung Ho Rd"
 	],
@@ -5298,8 +5298,8 @@
 		"Pioneer Rd"
 	],
 	"23239": [
-		103.67513,
-		1.30916,
+		103.67519,
+		1.30915,
 		"Opp Keppel Logistics",
 		"Pioneer Rd"
 	],
@@ -6666,8 +6666,8 @@
 		"Tuas Sth Ave 9"
 	],
 	"25791": [
-		103.63617,
-		1.28207,
+		103.63613,
+		1.28202,
 		"Bef Tuas Sth Ave 10",
 		"Tuas Sth Ave 9"
 	],
@@ -7208,12 +7208,12 @@
 	"27241": [
 		103.68089,
 		1.33999,
-		"Sch of PMS",
+		"SPMS",
 		"Nanyang Dr"
 	],
 	"27251": [
-		103.68421,
-		1.34162,
+		103.68366,
+		1.34115,
 		"Academic Bldg Sth",
 		"Nanyang Dr"
 	],
@@ -7674,8 +7674,8 @@
 		"Jurong Town Hall Rd"
 	],
 	"28239": [
-		103.74307,
-		1.3298,
+		103.74285,
+		1.33003,
 		"Opp Jurong Town Hall",
 		"Jurong Town Hall Rd"
 	],
@@ -8064,14 +8064,14 @@
 		"Jurong West St 41"
 	],
 	"28621": [
-		103.74358,
-		1.34154,
+		103.74408,
+		1.34217,
 		"Blk 241",
 		"Jurong East Ctrl"
 	],
 	"28629": [
-		103.74425,
-		1.34195,
+		103.74475,
+		1.34268,
 		"Blk 266",
 		"Jurong East Ctrl"
 	],
@@ -9612,8 +9612,8 @@
 		"Toh Tuck Rd"
 	],
 	"42221": [
-		103.76791,
-		1.33957,
+		103.76764,
+		1.33962,
 		"Goodluck Gdn",
 		"Toh Tuck Rd"
 	],
@@ -9888,13 +9888,13 @@
 		"Bt Batok East Ave 3"
 	],
 	"43189": [
-		103.75681,
-		1.34695,
+		103.75682,
+		1.34699,
 		"Blk 283",
 		"Bt Batok East Ave 3"
 	],
 	"43191": [
-		103.75931,
+		103.75922,
 		1.34638,
 		"Blk 288C",
 		"Bt Batok East Ave 6"
@@ -10314,14 +10314,14 @@
 		"Bt Batok West Ave 3"
 	],
 	"43541": [
-		103.75505,
-		1.35283,
+		103.755,
+		1.35288,
 		"Blk 510",
 		"Bt Batok East Ave 5"
 	],
 	"43549": [
-		103.75549,
-		1.35254,
+		103.7553,
+		1.35278,
 		"Regent Hts",
 		"Bt Batok East Ave 5"
 	],
@@ -11504,7 +11504,7 @@
 	"44811": [
 		103.76021,
 		1.38715,
-		"West Spring Sec Sch",
+		"Senja FC",
 		"Senja Rd"
 	],
 	"44819": [
@@ -12180,8 +12180,8 @@
 		"Woodlands Sq"
 	],
 	"46009": [
-		103.78616,
-		1.43687,
+		103.78594,
+		1.43695,
 		"Woodlands Int",
 		"Woodlands Sq"
 	],
@@ -13424,7 +13424,7 @@
 	"47189": [
 		103.80129,
 		1.459,
-		"K.U.S. Holdings",
+		"TAK Products & Svcs",
 		"Senoko Loop"
 	],
 	"47199": [
@@ -14148,8 +14148,8 @@
 		"Thomson Rd"
 	],
 	"50059": [
-		103.84212,
-		1.32489,
+		103.84221,
+		1.32526,
 		"Opp Thomson Med Ctr",
 		"Thomson Rd"
 	],
@@ -14262,8 +14262,8 @@
 		"Balestier Rd"
 	],
 	"50201": [
-		103.85097,
-		1.3249,
+		103.85092,
+		1.32495,
 		"Shaw Plaza",
 		"Balestier Rd"
 	],
@@ -14766,8 +14766,8 @@
 		"Toa Payoh Rise"
 	],
 	"52249": [
-		103.8386,
-		1.33783,
+		103.83833,
+		1.33748,
 		"Aft Caldecott Stn",
 		"Toa Payoh Rise"
 	],
@@ -15080,7 +15080,7 @@
 	"53021": [
 		103.83652,
 		1.34968,
-		"Opp Shunfu Est",
+		"Lakeview Estate",
 		"Upp Thomson Rd"
 	],
 	"53029": [
@@ -15318,8 +15318,8 @@
 		"Bishan Rd"
 	],
 	"53239": [
-		103.84766,
-		1.351,
+		103.84762,
+		1.35073,
 		"Opp Bishan Stn",
 		"Bishan Rd"
 	],
@@ -15432,8 +15432,8 @@
 		"Sin Ming Ave"
 	],
 	"53331": [
-		103.83701,
-		1.36285,
+		103.83662,
+		1.36301,
 		"Bef Bright Hill Tp",
 		"Sin Ming Ave"
 	],
@@ -15576,8 +15576,8 @@
 		"Ang Mo Kio Ave 6"
 	],
 	"54049": [
-		103.84533,
-		1.3735,
+		103.84534,
+		1.37303,
 		"Courts Ang Mo Kio",
 		"Ang Mo Kio Ave 6"
 	],
@@ -15792,8 +15792,8 @@
 		"Ang Mo Kio Ave 3"
 	],
 	"54281": [
-		103.85601,
-		1.36949,
+		103.85517,
+		1.36969,
 		"Blk 570",
 		"Ang Mo Kio Ave 3"
 	],
@@ -15896,7 +15896,7 @@
 	"54371": [
 		103.85568,
 		1.36238,
-		"Blk 409A",
+		"Blk 409 Mkt/FC",
 		"Ang Mo Kio Ave 10"
 	],
 	"54379": [
@@ -16020,8 +16020,8 @@
 		"Ang Mo Kio Ave 5"
 	],
 	"54489": [
-		103.8558,
-		1.37566,
+		103.85542,
+		1.37568,
 		"Opp Ite Coll Ctrl",
 		"Ang Mo Kio Ave 5"
 	],
@@ -16226,13 +16226,13 @@
 	"55041": [
 		103.84603,
 		1.39122,
-		"Opp Ue Bizhub Ctrl",
+		"Aft Ang Mo Kio St 64",
 		"Yio Chu Kang Rd"
 	],
 	"55049": [
 		103.84659,
 		1.39111,
-		"Ue Bizhub Ctrl",
+		"Bef Ang Mo Kio St 64",
 		"Yio Chu Kang Rd"
 	],
 	"55051": [
@@ -16434,8 +16434,8 @@
 		"Lentor Ave"
 	],
 	"55249": [
-		103.84105,
-		1.38937,
+		103.84068,
+		1.38954,
 		"Bef Yio Chu Kang Rd",
 		"Lentor Ave"
 	],
@@ -16446,20 +16446,20 @@
 		"Lentor Ave"
 	],
 	"55259": [
-		103.83886,
-		1.39129,
+		103.83861,
+		1.39143,
 		"Opp Countryside Est",
 		"Lentor Ave"
 	],
 	"55261": [
-		103.8365,
-		1.39242,
+		103.83693,
+		1.39203,
 		"Bullion Pk Condo",
 		"Lentor Ave"
 	],
 	"55269": [
-		103.83705,
-		1.39253,
+		103.8363,
+		1.39267,
 		"Opp Bullion Pk Condo",
 		"Lentor Ave"
 	],
@@ -16482,7 +16482,7 @@
 		"Ang Mo Kio Ave 9"
 	],
 	"55309": [
-		103.84445,
+		103.8446,
 		1.38408,
 		"Opp AMK Police Div HQ",
 		"Ang Mo Kio Ave 9"
@@ -19364,13 +19364,13 @@
 	"63301": [
 		103.88531,
 		1.35149,
-		"Paya Lebar Girls' Sch",
+		"Paya Lebar Meth Girls' Sc",
 		"Lor Ah Soo"
 	],
 	"63309": [
 		103.88581,
 		1.35206,
-		"Opp Paya Lebar Girls' Sch",
+		"Blk 126",
 		"Lor Ah Soo"
 	],
 	"63311": [
@@ -22362,8 +22362,8 @@
 		"Jln Kayu"
 	],
 	"68119": [
-		103.87195,
-		1.40231,
+		103.87217,
+		1.40219,
 		"Aft Seletar Camp G",
 		"Jln Kayu"
 	],
@@ -24854,7 +24854,7 @@
 	"77379": [
 		103.94803,
 		1.37468,
-		"Bef Pasir Ris Dr 3",
+		"Blk 586",
 		"Pasir Ris Dr 8"
 	],
 	"77381": [
@@ -24876,8 +24876,8 @@
 		"Pasir Ris St 12"
 	],
 	"78039": [
-		103.95906,
-		1.36711,
+		103.959,
+		1.36718,
 		"Blk 104",
 		"Pasir Ris St 12"
 	],
@@ -24896,7 +24896,7 @@
 	"78061": [
 		103.95848,
 		1.36824,
-		"Blk 104",
+		"Opp Pasir Ris Polyclinic",
 		"Pasir Ris Dr 1"
 	],
 	"78069": [
@@ -25674,8 +25674,8 @@
 		"Tg Katong Rd Sth"
 	],
 	"82059": [
-		103.89745,
-		1.30124,
+		103.8974,
+		1.30138,
 		"Opp Tg Katong Rd Sth P/G",
 		"Tg Katong Rd Sth"
 	],
@@ -26286,14 +26286,14 @@
 		"Bedok Sth Rd"
 	],
 	"84119": [
-		103.93507,
-		1.31969,
+		103.93523,
+		1.31964,
 		"Opp Temasek JC",
 		"Bedok Sth Rd"
 	],
 	"84121": [
-		103.93156,
-		1.31848,
+		103.93103,
+		1.31844,
 		"Aft Bedok Sth Ave 1",
 		"Bedok Sth Rd"
 	],
@@ -26310,8 +26310,8 @@
 		"Bedok Sth Rd"
 	],
 	"84139": [
-		103.92782,
-		1.32133,
+		103.92772,
+		1.32175,
 		"Panasonic",
 		"Bedok Sth Rd"
 	],
@@ -26520,8 +26520,8 @@
 		"Bedok Nth Ave 2"
 	],
 	"84339": [
-		103.93079,
-		1.32874,
+		103.93078,
+		1.3289,
 		"Blk 416",
 		"Bedok Nth Ave 2"
 	],
@@ -27396,8 +27396,8 @@
 		"Marine Terr"
 	],
 	"92219": [
-		103.91665,
-		1.30634,
+		103.91668,
+		1.30652,
 		"Opp CHIJ Katong Convent",
 		"Marine Terr"
 	],
@@ -28166,7 +28166,7 @@
 	"96149": [
 		103.95318,
 		1.34449,
-		"Simei Stn",
+		"Simei Stn/Blk 247",
 		"Simei St 1"
 	],
 	"96151": [
@@ -28254,8 +28254,8 @@
 		"Xilin Ave"
 	],
 	"96229": [
-		103.958,
-		1.33123,
+		103.95799,
+		1.33122,
 		"S'pore Expo",
 		"Xilin Ave"
 	],
@@ -28314,8 +28314,8 @@
 		"Xilin Ave"
 	],
 	"96281": [
-		103.9485,
-		1.33942,
+		103.94825,
+		1.33971,
 		"Opp Changi General Hosp",
 		"Simei Ave"
 	],
@@ -30476,7 +30476,7 @@
 	"09191": [
 		103.8255,
 		1.30489,
-		"The Regent S'pore",
+		"Aft Cuscaden Rd",
 		"Tomlinson Rd"
 	],
 	"09212": [
