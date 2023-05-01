@@ -151,7 +151,7 @@
 	},
 	{
 		"number": "09131",
-		"name": "OPP OCHARD BLVD STN",
+		"name": "OPP ORCHARD BLVD STN",
 		"newName": "Opp Orchard Blvd Stn"
 	},
 	{
@@ -290,6 +290,11 @@
 		"newName": "Whitehaven"
 	},
 	{
+		"number": "16149",
+		"name": "SDE3",
+		"newName": "SDE3"
+	},
+	{
 		"number": "16209",
 		"name": "HORIZON RESIDENCES",
 		"newName": "Horizon Residences"
@@ -338,6 +343,11 @@
 		"number": "21179",
 		"name": "CORP PL",
 		"newName": "Corp Pl"
+	},
+	{
+		"number": "21241",
+		"name": "216 CP",
+		"newName": "Blk 216 CP"
 	},
 	{
 		"number": "21261",
@@ -718,6 +728,11 @@
 		"number": "27041",
 		"name": "NIE CP 7",
 		"newName": "NIE CP 7"
+	},
+	{
+		"number": "27241",
+		"name": "SPMS",
+		"newName": "SPMS"
 	},
 	{
 		"number": "27501",

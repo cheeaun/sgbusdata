@@ -21765,7 +21765,7 @@
 		]
 	},
 	"970": {
-		"name": "Bt Panjang Int ⇄ Opp MAS Bldg / Shenton Way Ter",
+		"name": "Bt Panjang Int ⇄ Shenton Way Ter",
 		"routes": [
 			[
 				"45009",
@@ -21832,7 +21832,8 @@
 				"05319",
 				"03059",
 				"03129",
-				"03218"
+				"03218",
+				"03239"
 			],
 			[
 				"03239",
@@ -25423,7 +25424,7 @@
 		]
 	},
 	"36A": {
-		"name": "Changi Airport PTB2 → The Regent S'pore",
+		"name": "Changi Airport PTB2 → Aft Cuscaden Rd",
 		"routes": [
 			[
 				"95129",
@@ -28673,7 +28674,7 @@
 		]
 	},
 	"96B": {
-		"name": "NUS Fac Of Design & Env → Clementi Stn Exit A",
+		"name": "Aft Architecture Dr → Clementi Stn Exit A",
 		"routes": [
 			[
 				"16199",
