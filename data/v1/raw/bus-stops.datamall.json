@@ -331,7 +331,7 @@
 	{
 		"BusStopCode": "02101",
 		"RoadName": "Raffles Ave",
-		"Description": "AFT S'PORE FLYER",
+		"Description": "Aft S'pore Flyer",
 		"Latitude": 1.28938483786533,
 		"Longitude": 103.86183148116275
 	},
@@ -737,7 +737,7 @@
 	{
 		"BusStopCode": "04179",
 		"RoadName": "Bras Basah Rd",
-		"Description": "AFT BRAS BASAH STN EXIT A",
+		"Description": "Aft Bras Basah Stn Exit A",
 		"Latitude": 1.29647916306741,
 		"Longitude": 103.85147164487202
 	},
@@ -1437,7 +1437,7 @@
 	{
 		"BusStopCode": "08069",
 		"RoadName": "Bras Basah Rd",
-		"Description": "BENCOOLEN STN EXIT B",
+		"Description": "Bencoolen Stn Exit B",
 		"Latitude": 1.29821382250893,
 		"Longitude": 103.84936128375956
 	},
@@ -4448,8 +4448,8 @@
 		"BusStopCode": "16189",
 		"RoadName": "Kent Ridge Cres",
 		"Description": "Information Technology",
-		"Latitude": 1.309851,
-		"Longitude": 103.768132
+		"Latitude": 1.297228,
+		"Longitude": 103.772756
 	},
 	{
 		"BusStopCode": "16191",
@@ -19350,7 +19350,7 @@
 	{
 		"BusStopCode": "53131",
 		"RoadName": "Marymount Rd",
-		"Description": "Blk 319",
+		"Description": "Aft Jadescape",
 		"Latitude": 1.35315805208995,
 		"Longitude": 103.84031279218438
 	},
@@ -19581,7 +19581,7 @@
 	{
 		"BusStopCode": "53299",
 		"RoadName": "Shunfu Rd",
-		"Description": "Blk 314",
+		"Description": "Bef Jadescape",
 		"Latitude": 1.35174011670427,
 		"Longitude": 103.83794546128104
 	},
@@ -21936,13 +21936,6 @@
 		"Description": "Innova Pr Sch",
 		"Latitude": 1.42965591818928,
 		"Longitude": 103.79044555841314
-	},
-	{
-		"BusStopCode": "58479",
-		"RoadName": "Woodlands Dr 17",
-		"Description": "Aft Innova Pr Sch",
-		"Latitude": 1.4283363281994,
-		"Longitude": 103.78977121023533
 	},
 	{
 		"BusStopCode": "58481",
@@ -34844,6 +34837,13 @@
 		"Description": "SUTD",
 		"Latitude": 1.33980186622645,
 		"Longitude": 103.96388189995498
+	},
+	{
+		"BusStopCode": "96461",
+		"RoadName": "Tanah Merah Coast Rd",
+		"Description": "Before Aviation Park Road",
+		"Latitude": 1.352485,
+		"Longitude": 104.030008
 	},
 	{
 		"BusStopCode": "96471",

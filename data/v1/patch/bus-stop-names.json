@@ -1,10 +1,5 @@
 [
 	{
-		"number": "02101",
-		"name": "AFT S'PORE FLYER",
-		"newName": "Aft S'pore Flyer"
-	},
-	{
 		"number": "03071",
 		"name": "OPP SO SOFITEL S'PORE",
 		"newName": "Opp SO Sofitel S'pore"
@@ -33,11 +28,6 @@
 		"number": "04121",
 		"name": "SMU",
 		"newName": "SMU"
-	},
-	{
-		"number": "04179",
-		"name": "AFT BRAS BASAH STN EXIT A",
-		"newName": "Aft Bras Basah Stn Exit A"
 	},
 	{
 		"number": "04331",
@@ -138,11 +128,6 @@
 		"number": "08041",
 		"name": "YMCA",
 		"newName": "YMCA"
-	},
-	{
-		"number": "08069",
-		"name": "BENCOOLEN STN EXIT B",
-		"newName": "Bencoolen Stn Exit B"
 	},
 	{
 		"number": "09022",

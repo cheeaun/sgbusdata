@@ -2418,8 +2418,8 @@
 		"Kent Ridge Cres"
 	],
 	"16189": [
-		103.76813,
-		1.30985,
+		103.77276,
+		1.29723,
 		"Information Technology",
 		"Kent Ridge Cres"
 	],
@@ -15194,7 +15194,7 @@
 	"53131": [
 		103.84031,
 		1.35316,
-		"Blk 319",
+		"Aft Jadescape",
 		"Marymount Rd"
 	],
 	"53139": [
@@ -15392,7 +15392,7 @@
 	"53299": [
 		103.83795,
 		1.35174,
-		"Blk 314",
+		"Bef Jadescape",
 		"Shunfu Rd"
 	],
 	"53301": [
@@ -17410,12 +17410,6 @@
 		1.42966,
 		"Innova Pr Sch",
 		"Champions Way"
-	],
-	"58479": [
-		103.78977,
-		1.42834,
-		"Aft Innova Pr Sch",
-		"Woodlands Dr 17"
 	],
 	"58481": [
 		103.82268,
@@ -28474,6 +28468,12 @@
 		1.3398,
 		"SUTD",
 		"Somapah Rd"
+	],
+	"96461": [
+		104.03001,
+		1.35249,
+		"Before Aviation Park Road",
+		"Tanah Merah Coast Rd"
 	],
 	"96471": [
 		104.00998,

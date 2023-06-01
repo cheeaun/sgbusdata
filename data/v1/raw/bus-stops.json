@@ -128,7 +128,7 @@
 	{
 		"name": "-P123",
 		"wab": "true",
-		"details": "Fullerton Square",
+		"details": "Fullerton Sq",
 		"coordinates": {
 			"lat": 1.28561841,
 			"long": 103.85342223
@@ -326,7 +326,7 @@
 	{
 		"name": "-P151",
 		"wab": "true",
-		"details": "BENCOOLEN STN EXIT B",
+		"details": "Bencoolen Stn Exit B",
 		"coordinates": {
 			"lat": 1.29821382250893,
 			"long": 103.84936128375956
@@ -357,6 +357,15 @@
 		"coordinates": {
 			"lat": 1.301542625,
 			"long": 103.8385248
+		}
+	},
+	{
+		"name": "-P158",
+		"wab": "true",
+		"details": "Royal Thai Embassy",
+		"coordinates": {
+			"lat": 1.30587966240898,
+			"long": 103.83049004618626
 		}
 	},
 	{
@@ -3474,6 +3483,15 @@
 		}
 	},
 	{
+		"name": "-PC73",
+		"wab": "true",
+		"details": "Coach Bay outside Lau Pa Sat",
+		"coordinates": {
+			"lat": 1.2802,
+			"long": 103.8506
+		}
+	},
+	{
 		"name": "-PD01",
 		"wab": "true",
 		"details": "Opp Blk 103A",
@@ -4410,6 +4428,15 @@
 		}
 	},
 	{
+		"name": "-S146",
+		"wab": "true",
+		"details": "Boat Quay",
+		"coordinates": {
+			"lat": 1.28712283362119,
+			"long": 103.84819780822524
+		}
+	},
+	{
 		"name": "-S148",
 		"wab": "true",
 		"details": "Opp Hong Lim Pk",
@@ -4443,6 +4470,15 @@
 		"coordinates": {
 			"lat": 1.29409221679159,
 			"long": 103.83083776408
+		}
+	},
+	{
+		"name": "-S152",
+		"wab": "true",
+		"details": "Opp Four Seasons Hotel",
+		"coordinates": {
+			"lat": 1.30453752623147,
+			"long": 103.82914529614989
 		}
 	},
 	{
@@ -4509,15 +4545,6 @@
 		}
 	},
 	{
-		"name": "-S165",
-		"wab": "true",
-		"details": "Opp Hong Lim Cplx",
-		"coordinates": {
-			"lat": 1.28451455846092,
-			"long": 103.84666049314171
-		}
-	},
-	{
 		"name": "-S167",
 		"wab": "true",
 		"details": "Chinatown Stn Exit C",
@@ -4533,15 +4560,6 @@
 		"coordinates": {
 			"lat": 1.28963300933853,
 			"long": 103.833812419218
-		}
-	},
-	{
-		"name": "-S171",
-		"wab": "true",
-		"details": "Grange Residences",
-		"coordinates": {
-			"lat": 1.30391999998388,
-			"long": 103.823338056031
 		}
 	},
 	{
@@ -4581,27 +4599,9 @@
 		}
 	},
 	{
-		"name": "-S220",
-		"wab": "true",
-		"details": "Opp Great World City",
-		"coordinates": {
-			"lat": 1.29409221679159,
-			"long": 103.83083776408
-		}
-	},
-	{
-		"name": "-S221",
-		"wab": "true",
-		"details": "Orchard Plaza",
-		"coordinates": {
-			"lat": 1.30073968408287,
-			"long": 103.841005008168
-		}
-	},
-	{
 		"name": "-S222",
 		"wab": "true",
-		"details": "AFT S'PORE FLYER",
+		"details": "Aft S'pore Flyer",
 		"coordinates": {
 			"lat": 1.28938483786533,
 			"long": 103.86183148116275
@@ -4677,6 +4677,15 @@
 		"coordinates": {
 			"lat": 1.27960772061959,
 			"long": 103.8698744774074
+		}
+	},
+	{
+		"name": "-S262",
+		"wab": "true",
+		"details": "Aft Bayfront Stn Exit E",
+		"coordinates": {
+			"lat": 1.28194779470571,
+			"long": 103.85897064872482
 		}
 	},
 	{
@@ -6302,7 +6311,7 @@
 	{
 		"name": "-Z677",
 		"wab": "true",
-		"details": "Opposite UE Square",
+		"details": "Opp UE Sq",
 		"coordinates": {
 			"lat": 1.29197057108024,
 			"long": 103.84328384973516
@@ -6777,6 +6786,60 @@
 		}
 	},
 	{
+		"name": "-Z770",
+		"wab": "true",
+		"details": "Along the road outside Mustafa Centre",
+		"coordinates": {
+			"lat": 1.31,
+			"long": 103.8554
+		}
+	},
+	{
+		"name": "-Z771",
+		"wab": "true",
+		"details": "Opp Textile Ctr",
+		"coordinates": {
+			"lat": 1.3032499999752,
+			"long": 103.8610830559663
+		}
+	},
+	{
+		"name": "-Z772",
+		"wab": "true",
+		"details": "Bef Sultan Mque",
+		"coordinates": {
+			"lat": 1.30337552638813,
+			"long": 103.85963089198265
+		}
+	},
+	{
+		"name": "-Z773",
+		"wab": "true",
+		"details": "PUDO at Learning Forest Visitor Centre within Singapore Botanic Gardens",
+		"coordinates": {
+			"lat": 1.314936,
+			"long": 103.816289
+		}
+	},
+	{
+		"name": "-Z774",
+		"wab": "true",
+		"details": "Bef Cairnhill Rd",
+		"coordinates": {
+			"lat": 1.3023400420296,
+			"long": 103.83701253388183
+		}
+	},
+	{
+		"name": "-Z775",
+		"wab": "true",
+		"details": "Coach Bay at Marina Barrage",
+		"coordinates": {
+			"lat": 1.280591,
+			"long": 103.87045
+		}
+	},
+	{
 		"name": "01012",
 		"wab": "true",
 		"details": "Hotel Grand Pacific",
@@ -7202,7 +7265,7 @@
 	{
 		"name": "02101",
 		"wab": "true",
-		"details": "AFT S'PORE FLYER",
+		"details": "Aft S'pore Flyer",
 		"coordinates": {
 			"lat": 1.28938483786533,
 			"long": 103.86183148116275
@@ -7724,7 +7787,7 @@
 	{
 		"name": "04179",
 		"wab": "true",
-		"details": "AFT BRAS BASAH STN EXIT A",
+		"details": "Aft Bras Basah Stn Exit A",
 		"coordinates": {
 			"lat": 1.29647916306741,
 			"long": 103.85147164487202
@@ -8624,7 +8687,7 @@
 	{
 		"name": "08069",
 		"wab": "true",
-		"details": "BENCOOLEN STN EXIT B",
+		"details": "Bencoolen Stn Exit B",
 		"coordinates": {
 			"lat": 1.29821382250893,
 			"long": 103.84936128375956
@@ -12496,8 +12559,8 @@
 		"wab": "true",
 		"details": "Information Technology",
 		"coordinates": {
-			"lat": 1.309851,
-			"long": 103.768132
+			"lat": 1.297228,
+			"long": 103.772756
 		}
 	},
 	{
@@ -31655,7 +31718,7 @@
 	{
 		"name": "53131",
 		"wab": "true",
-		"details": "Blk 319",
+		"details": "Aft Jadescape",
 		"coordinates": {
 			"lat": 1.35315805208995,
 			"long": 103.84031279218438
@@ -31952,7 +32015,7 @@
 	{
 		"name": "53299",
 		"wab": "true",
-		"details": "Blk 314",
+		"details": "Bef Jadescape",
 		"coordinates": {
 			"lat": 1.35174011670427,
 			"long": 103.83794546128104
@@ -34980,15 +35043,6 @@
 		"coordinates": {
 			"lat": 1.42965591818928,
 			"long": 103.79044555841314
-		}
-	},
-	{
-		"name": "58479",
-		"wab": "true",
-		"details": "Aft Innova Pr Sch",
-		"coordinates": {
-			"lat": 1.4283363281994,
-			"long": 103.78977121023533
 		}
 	},
 	{
@@ -51579,6 +51633,15 @@
 		}
 	},
 	{
+		"name": "96461",
+		"wab": "true",
+		"details": "Before Aviation Park Road",
+		"coordinates": {
+			"lat": 1.352485,
+			"long": 104.030008
+		}
+	},
+	{
 		"name": "96471",
 		"wab": "true",
 		"details": "Bef Changi Coast Road",
@@ -52444,7 +52507,7 @@
 	},
 	{
 		"name": "99111",
-		"wab": "false",
+		"wab": "true",
 		"details": "Changi Golf Club",
 		"coordinates": {
 			"lat": 1.39175111102446,
