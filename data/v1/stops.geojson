@@ -9637,8 +9637,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.768132,
-					1.309851
+					103.772756,
+					1.297228
 				]
 			}
 		},
@@ -55942,7 +55942,7 @@
 			"id": "53131",
 			"properties": {
 				"number": "53131",
-				"name": "Blk 319",
+				"name": "Aft Jadescape",
 				"road": "Marymount Rd",
 				"services": [
 					"54",
@@ -56681,7 +56681,7 @@
 			"id": "53299",
 			"properties": {
 				"number": "53299",
-				"name": "Blk 314",
+				"name": "Bef Jadescape",
 				"road": "Shunfu Rd",
 				"services": [
 					"410",
@@ -64506,25 +64506,6 @@
 				"coordinates": [
 					103.79044555841314,
 					1.42965591818928
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "58479",
-			"properties": {
-				"number": "58479",
-				"name": "Aft Innova Pr Sch",
-				"road": "Woodlands Dr 17",
-				"services": [
-					"900A"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.78977121023533,
-					1.4283363281994
 				]
 			}
 		},
@@ -107510,6 +107491,25 @@
 				"coordinates": [
 					103.96388189995498,
 					1.33980186622645
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "96461",
+			"properties": {
+				"number": "96461",
+				"name": "Before Aviation Park Road",
+				"road": "Tanah Merah Coast Rd",
+				"services": [
+					"35"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.030008,
+					1.352485
 				]
 			}
 		},

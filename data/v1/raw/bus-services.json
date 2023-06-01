@@ -633,7 +633,7 @@
 	},
 	{
 		"number": "-S4",
-		"description": "Heritage HIPPOtours - Suntec City to Kreta Ayer Tourist Bus Service",
+		"description": "Heritage Big Bus Tours - Suntec City to Kreta Ayer Tourist Bus Service",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S4-1.kml"
@@ -666,7 +666,7 @@
 	},
 	{
 		"number": "-S5",
-		"description": "City HIPPOtours - Suntec City to Orchard Road Tourist Service",
+		"description": "City Big Bus Tours - Suntec City to Orchard Road Tourist Bus Service",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S5-1.kml"
@@ -717,6 +717,17 @@
 		],
 		"routeFile": [
 			"-S53.xml"
+		]
+	},
+	{
+		"number": "-S6",
+		"description": "Moonlight Big Bus Tours - Suntec City to Clarke Quay Tourist Bus Service",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S6-1.kml"
+		],
+		"routeFile": [
+			"-S6.xml"
 		]
 	},
 	{

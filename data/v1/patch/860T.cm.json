@@ -786,6 +786,10 @@
 					]
 				}
 			],
+			"status": {
+				"level": 0,
+				"summary": "Good Service"
+			},
 			"supports_routeinfo": true,
 			"text_color": "#FFFFFF",
 			"ui_color": "#5BC824",
