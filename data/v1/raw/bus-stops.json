@@ -2,10 +2,10 @@
 	{
 		"name": "-P106",
 		"wab": "true",
-		"details": "Outside Hume Park II Condominium",
+		"details": "Outside Hume Park 2 (After Lamp Post 11)",
 		"coordinates": {
-			"lat": 1.355119,
-			"long": 103.768319
+			"lat": 1.355213,
+			"long": 103.7684
 		}
 	},
 	{
@@ -753,6 +753,33 @@
 		"coordinates": {
 			"lat": 1.310928042,
 			"long": 103.7585754
+		}
+	},
+	{
+		"name": "-P298",
+		"wab": "true",
+		"details": "Blk 272",
+		"coordinates": {
+			"lat": 1.348831907,
+			"long": 103.7576616
+		}
+	},
+	{
+		"name": "-P321",
+		"wab": "true",
+		"details": "Bef Summerhill",
+		"coordinates": {
+			"lat": 1.358391,
+			"long": 103.7649
+		}
+	},
+	{
+		"name": "-P322",
+		"wab": "true",
+		"details": "Opp Symphony Hts",
+		"coordinates": {
+			"lat": 1.356754,
+			"long": 103.7676
 		}
 	},
 	{
@@ -3366,6 +3393,15 @@
 		}
 	},
 	{
+		"name": "-PB42",
+		"wab": "true",
+		"details": "Hillview Green",
+		"coordinates": {
+			"lat": 1.358156,
+			"long": 103.7651
+		}
+	},
+	{
 		"name": "-PB43",
 		"wab": "true",
 		"details": "Symphony Hts",
@@ -3753,54 +3789,18 @@
 		}
 	},
 	{
-		"name": "-PI40",
-		"wab": "true",
-		"details": "Outside Hume Park I",
-		"coordinates": {
-			"lat": 1.35452,
-			"long": 103.76855
-		}
-	},
-	{
-		"name": "-PI41",
-		"wab": "true",
-		"details": "Outside Parc Palais",
-		"coordinates": {
-			"lat": 1.35786,
-			"long": 103.76609
-		}
-	},
-	{
-		"name": "-PI42",
-		"wab": "true",
-		"details": "Opp Hillbrooks",
-		"coordinates": {
-			"lat": 1.35757277797812,
-			"long": 103.76266305599302
-		}
-	},
-	{
 		"name": "-PI43",
 		"wab": "true",
-		"details": "Outside Merawoods",
+		"details": "Outside Merawoods(Opposite LP 27R11)",
 		"coordinates": {
-			"lat": 1.3565,
-			"long": 103.75961
-		}
-	},
-	{
-		"name": "-PI44",
-		"wab": "true",
-		"details": "Outside Hilltop Grove",
-		"coordinates": {
-			"lat": 1.35667,
-			"long": 103.75894
+			"lat": 1.35658,
+			"long": 103.7594
 		}
 	},
 	{
 		"name": "-PI45",
 		"wab": "true",
-		"details": "Outside Bukit Batok Town Council Office",
+		"details": "Outside Jurong-Clementi Town Council (Bukit Batok Office)",
 		"coordinates": {
 			"lat": 1.35116,
 			"long": 103.75047
@@ -3813,15 +3813,6 @@
 		"coordinates": {
 			"lat": 1.40462388269986,
 			"long": 103.78935694475769
-		}
-	},
-	{
-		"name": "-PI50",
-		"wab": "true",
-		"details": "Blk 272",
-		"coordinates": {
-			"lat": 1.34883190699072,
-			"long": 103.75766163401367
 		}
 	},
 	{
@@ -4909,8 +4900,8 @@
 		"wab": "true",
 		"details": "Passenger pick-up drop-off point outside Khatib MRT Station",
 		"coordinates": {
-			"lat": 1.269408607,
-			"long": 103.9802851
+			"lat": 1.41625420109094,
+			"long": 103.832591612732
 		}
 	},
 	{
@@ -5643,6 +5634,15 @@
 		}
 	},
 	{
+		"name": "-Z533",
+		"wab": "true",
+		"details": "Pick-up/Drop-off Point outside Sengkang MRT Station Exit C",
+		"coordinates": {
+			"lat": 1.393803,
+			"long": 103.892332
+		}
+	},
+	{
 		"name": "-Z542",
 		"wab": "true",
 		"details": "Passenger Pick-up/ Drop-off Point outside Stadium MRT Station",
@@ -5762,7 +5762,7 @@
 	{
 		"name": "-Z607",
 		"wab": "true",
-		"details": "Our Tampines Hub",
+		"details": "Coach bay of Our Tampines Hub",
 		"coordinates": {
 			"lat": 1.35313809279079,
 			"long": 103.9412639409046
@@ -6837,6 +6837,42 @@
 		"coordinates": {
 			"lat": 1.280591,
 			"long": 103.87045
+		}
+	},
+	{
+		"name": "-Z776",
+		"wab": "true",
+		"details": "Outside The Amston (LP 27R6)",
+		"coordinates": {
+			"lat": 1.356624,
+			"long": 103.7607
+		}
+	},
+	{
+		"name": "-Z777",
+		"wab": "true",
+		"details": "Block 254",
+		"coordinates": {
+			"lat": 1.349311,
+			"long": 103.7579
+		}
+	},
+	{
+		"name": "-Z778",
+		"wab": "true",
+		"details": "Aft Mandai Road",
+		"coordinates": {
+			"lat": 1.40944188012509,
+			"long": 103.77966346202638
+		}
+	},
+	{
+		"name": "-Z779",
+		"wab": "true",
+		"details": "Bef Mandai Road",
+		"coordinates": {
+			"lat": 1.410027,
+			"long": 103.778718
 		}
 	},
 	{
@@ -23728,8 +23764,8 @@
 		"wab": "true",
 		"details": "Blk 254",
 		"coordinates": {
-			"lat": 1.34931074950483,
-			"long": 103.7578877455261
+			"lat": 1.349311,
+			"long": 103.7579
 		}
 	},
 	{
@@ -24808,8 +24844,8 @@
 		"wab": "true",
 		"details": "Bef Summerhill",
 		"coordinates": {
-			"lat": 1.35839109999144,
-			"long": 103.76492799419663
+			"lat": 1.358391,
+			"long": 103.7649
 		}
 	},
 	{
@@ -24817,8 +24853,8 @@
 		"wab": "true",
 		"details": "Hillview Green",
 		"coordinates": {
-			"lat": 1.35815575609947,
-			"long": 103.76512620416916
+			"lat": 1.358156,
+			"long": 103.7651
 		}
 	},
 	{
@@ -24826,8 +24862,8 @@
 		"wab": "true",
 		"details": "Opp Symphony Hts",
 		"coordinates": {
-			"lat": 1.35675369196927,
-			"long": 103.7675828524089
+			"lat": 1.356754,
+			"long": 103.7676
 		}
 	},
 	{
