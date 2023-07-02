@@ -677,7 +677,7 @@
 	},
 	{
 		"number": "-S50",
-		"description": "Mandai Express (Bedok - Zoo)",
+		"description": "Shuttle Bus Service between Bedok and Mandai Wildlife Reserve",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S50-1.kml"
@@ -688,7 +688,7 @@
 	},
 	{
 		"number": "-S51",
-		"description": "Mandai Express (Sengkang - Zoo)",
+		"description": "Shuttle Bus Service between Sengkang and Mandai Wildlife Reserve",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S51-1.kml"
@@ -699,7 +699,7 @@
 	},
 	{
 		"number": "-S52",
-		"description": "Mandai Express (Tampines - Zoo)",
+		"description": "Shuttle Bus Service between Tampines and Mandai Wildlife Reserve",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S52-1.kml"
@@ -710,7 +710,7 @@
 	},
 	{
 		"number": "-S53",
-		"description": "Mandai Khatib Shuttle (Loop)",
+		"description": "Shuttle Bus Service from Khatib MRT Station to The Singapore Zoo",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S53-1.kml"

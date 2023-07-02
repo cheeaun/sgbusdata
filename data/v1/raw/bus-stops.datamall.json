@@ -13135,8 +13135,8 @@
 		"BusStopCode": "43169",
 		"RoadName": "Bt Batok East Ave 4",
 		"Description": "Blk 254",
-		"Latitude": 1.34931074950483,
-		"Longitude": 103.7578877455261
+		"Latitude": 1.349311,
+		"Longitude": 103.7579
 	},
 	{
 		"BusStopCode": "43171",
@@ -13975,22 +13975,22 @@
 		"BusStopCode": "43811",
 		"RoadName": "Hume Ave",
 		"Description": "Bef Summerhill",
-		"Latitude": 1.35839109999144,
-		"Longitude": 103.76492799419663
+		"Latitude": 1.358391,
+		"Longitude": 103.7649
 	},
 	{
 		"BusStopCode": "43819",
 		"RoadName": "Hume Ave",
 		"Description": "Hillview Green",
-		"Latitude": 1.35815575609947,
-		"Longitude": 103.76512620416916
+		"Latitude": 1.358156,
+		"Longitude": 103.7651
 	},
 	{
 		"BusStopCode": "43821",
 		"RoadName": "Hume Ave",
 		"Description": "Opp Symphony Hts",
-		"Latitude": 1.35675369196927,
-		"Longitude": 103.7675828524089
+		"Latitude": 1.356754,
+		"Longitude": 103.7676
 	},
 	{
 		"BusStopCode": "43829",
