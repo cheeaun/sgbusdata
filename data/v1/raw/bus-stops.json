@@ -139,8 +139,8 @@
 		"wab": "true",
 		"details": "OUE Bayfront",
 		"coordinates": {
-			"lat": 1.284245000013,
-			"long": 103.85310805599599
+			"lat": 1.284245,
+			"long": 103.8531081
 		}
 	},
 	{
@@ -846,24 +846,6 @@
 		}
 	},
 	{
-		"name": "-P384",
-		"wab": "true",
-		"details": "Opp Blk 639",
-		"coordinates": {
-			"lat": 1.437904852,
-			"long": 103.8035235
-		}
-	},
-	{
-		"name": "-P385",
-		"wab": "true",
-		"details": "Opp Blk 630",
-		"coordinates": {
-			"lat": 1.434612545,
-			"long": 103.8020456
-		}
-	},
-	{
 		"name": "-P389",
 		"wab": "true",
 		"details": "Bef Kim Keat Lane",
@@ -1415,7 +1397,7 @@
 	{
 		"name": "-P579",
 		"wab": "true",
-		"details": "Paya Lebar Girls' Sch",
+		"details": "Paya Lebar Girl's Sch",
 		"coordinates": {
 			"lat": 1.351494732,
 			"long": 103.885312
@@ -2702,7 +2684,7 @@
 	{
 		"name": "-P843",
 		"wab": "true",
-		"details": "OPP LION HME FOR ELDERS",
+		"details": "Opp Lion Hme for Elders",
 		"coordinates": {
 			"lat": 1.32021707852141,
 			"long": 103.93816948878941
@@ -2776,8 +2758,8 @@
 		"wab": "true",
 		"details": "Waterfront Key",
 		"coordinates": {
-			"lat": 1.33791138898959,
-			"long": 103.93130805598769
+			"lat": 1.337911389,
+			"long": 103.9313081
 		}
 	},
 	{
@@ -2934,15 +2916,6 @@
 		}
 	},
 	{
-		"name": "-P881",
-		"wab": "true",
-		"details": "Bef Tg Rhu View",
-		"coordinates": {
-			"lat": 1.297112864,
-			"long": 103.8692482
-		}
-	},
-	{
 		"name": "-P883",
 		"wab": "true",
 		"details": "Opp Pebble Bay",
@@ -2974,8 +2947,8 @@
 		"wab": "true",
 		"details": "Dunman High Sch",
 		"coordinates": {
-			"lat": 1.298106369,
-			"long": 103.8823231
+			"lat": 1.29812421479672,
+			"long": 103.88241235160253
 		}
 	},
 	{
@@ -3107,7 +3080,7 @@
 	{
 		"name": "-P926",
 		"wab": "true",
-		"details": "Calvary Ably Of God Ch",
+		"details": "Calvary Ably of God Ch",
 		"coordinates": {
 			"lat": 1.315363333,
 			"long": 103.9429414
@@ -3334,8 +3307,8 @@
 		"wab": "true",
 		"details": "Yishun Stn Exit E",
 		"coordinates": {
-			"lat": 1.42945836091033,
-			"long": 103.8354885577902
+			"lat": 1.42937983869534,
+			"long": 103.8354956961933
 		}
 	},
 	{
@@ -3372,15 +3345,6 @@
 		"coordinates": {
 			"lat": 1.45087972197593,
 			"long": 103.828430832967
-		}
-	},
-	{
-		"name": "-PA83",
-		"wab": "true",
-		"details": "W'Lands Civic Ctr",
-		"coordinates": {
-			"lat": 1.43457763942006,
-			"long": 103.786556420339
 		}
 	},
 	{
@@ -3789,6 +3753,24 @@
 		}
 	},
 	{
+		"name": "-PI05",
+		"wab": "true",
+		"details": "Oasis Stn Exit A",
+		"coordinates": {
+			"lat": 1.40257805553795,
+			"long": 103.91244500001986
+		}
+	},
+	{
+		"name": "-PI06",
+		"wab": "true",
+		"details": "Kadaloor Stn Exit A",
+		"coordinates": {
+			"lat": 1.39988799999567,
+			"long": 103.91612399998853
+		}
+	},
+	{
 		"name": "-PI43",
 		"wab": "true",
 		"details": "Outside Merawoods(Opposite LP 27R11)",
@@ -3870,42 +3852,6 @@
 		}
 	},
 	{
-		"name": "-PO01",
-		"wab": "true",
-		"details": "Opp Marsiling Stn",
-		"coordinates": {
-			"lat": 1.43208152770031,
-			"long": 103.77459689006626
-		}
-	},
-	{
-		"name": "-PO20",
-		"wab": "true",
-		"details": "Blk 630",
-		"coordinates": {
-			"lat": 1.43472623786722,
-			"long": 103.80188755233279
-		}
-	},
-	{
-		"name": "-PO21",
-		"wab": "true",
-		"details": "Blk 639",
-		"coordinates": {
-			"lat": 1.43789201937501,
-			"long": 103.80334162830194
-		}
-	},
-	{
-		"name": "-PO22",
-		"wab": "true",
-		"details": "Bef Admiralty Stn/Blk 680",
-		"coordinates": {
-			"lat": 1.43973872693624,
-			"long": 103.8025081158021
-		}
-	},
-	{
 		"name": "-PP10",
 		"wab": "true",
 		"details": "Aft Akzonobel",
@@ -3969,75 +3915,12 @@
 		}
 	},
 	{
-		"name": "-PS04",
-		"wab": "true",
-		"details": "Blk 825",
-		"coordinates": {
-			"lat": 1.43878695707764,
-			"long": 103.79002589502426
-		}
-	},
-	{
-		"name": "-PS10",
-		"wab": "true",
-		"details": "Blk 683A",
-		"coordinates": {
-			"lat": 1.4399264222862,
-			"long": 103.80263149734922
-		}
-	},
-	{
 		"name": "-PS14",
 		"wab": "true",
 		"details": "Opp Maritime House",
 		"coordinates": {
 			"lat": 1.27553472200739,
 			"long": 103.841126944004
-		}
-	},
-	{
-		"name": "-PU02",
-		"wab": "true",
-		"details": "Regentville",
-		"coordinates": {
-			"lat": 1.3748828566071,
-			"long": 103.87828864496953
-		}
-	},
-	{
-		"name": "-PV01",
-		"wab": "true",
-		"details": "Marsiling Stn",
-		"coordinates": {
-			"lat": 1.43237833345523,
-			"long": 103.77429333367095
-		}
-	},
-	{
-		"name": "-PV02",
-		"wab": "true",
-		"details": "Blk 173",
-		"coordinates": {
-			"lat": 1.43240249999047,
-			"long": 103.77751138903017
-		}
-	},
-	{
-		"name": "-PV04",
-		"wab": "true",
-		"details": "Blk 853",
-		"coordinates": {
-			"lat": 1.43921765358175,
-			"long": 103.79299454006805
-		}
-	},
-	{
-		"name": "-PV05",
-		"wab": "true",
-		"details": "Blk 706",
-		"coordinates": {
-			"lat": 1.43964444400977,
-			"long": 103.79740027801978
 		}
 	},
 	{
@@ -4439,7 +4322,7 @@
 	{
 		"name": "-S149",
 		"wab": "true",
-		"details": "BEF FORT CANNING STN",
+		"details": "Bef Fort Canning Stn",
 		"coordinates": {
 			"lat": 1.29183939431483,
 			"long": 103.845040893827
@@ -4493,7 +4376,7 @@
 	{
 		"name": "-S158",
 		"wab": "true",
-		"details": "Sch of the Arts",
+		"details": "Sch of The Arts",
 		"coordinates": {
 			"lat": 1.29921444445479,
 			"long": 103.84910329218
@@ -4603,8 +4486,8 @@
 		"wab": "true",
 		"details": "Selegie Ctr",
 		"coordinates": {
-			"lat": 1.30324521574422,
-			"long": 103.849957767669
+			"lat": 1.30372354572677,
+			"long": 103.85003675652882
 		}
 	},
 	{
@@ -4923,15 +4806,6 @@
 		}
 	},
 	{
-		"name": "-Z086",
-		"wab": "true",
-		"details": "Outside Honeywell Building",
-		"coordinates": {
-			"lat": 1.33704,
-			"long": 103.96606
-		}
-	},
-	{
 		"name": "-Z088",
 		"wab": "true",
 		"details": "Aft Punggol Central",
@@ -4943,7 +4817,7 @@
 	{
 		"name": "-Z089",
 		"wab": "true",
-		"details": "BLK 604A",
+		"details": "Blk 604A",
 		"coordinates": {
 			"lat": 1.40446781720997,
 			"long": 103.90711426733175
@@ -5028,87 +4902,6 @@
 		"coordinates": {
 			"lat": 1.39121000003879,
 			"long": 103.886308888893
-		}
-	},
-	{
-		"name": "-Z235",
-		"wab": "true",
-		"details": "Marsiling Mall",
-		"coordinates": {
-			"lat": 1.43328331503309,
-			"long": 103.78083569681783
-		}
-	},
-	{
-		"name": "-Z243",
-		"wab": "true",
-		"details": "Opp Woodgrove Sec Sch",
-		"coordinates": {
-			"lat": 1.42870555201688,
-			"long": 103.79766275675345
-		}
-	},
-	{
-		"name": "-Z262",
-		"wab": "true",
-		"details": "Blk 666",
-		"coordinates": {
-			"lat": 1.43935103379454,
-			"long": 103.79735798460473
-		}
-	},
-	{
-		"name": "-Z263",
-		"wab": "true",
-		"details": "Aft 888 Plaza",
-		"coordinates": {
-			"lat": 1.43896035246776,
-			"long": 103.79423705109248
-		}
-	},
-	{
-		"name": "-Z264",
-		"wab": "true",
-		"details": "Blk 891C CP",
-		"coordinates": {
-			"lat": 1.43872239825648,
-			"long": 103.79091198323174
-		}
-	},
-	{
-		"name": "-Z265",
-		"wab": "true",
-		"details": "Opp W'Lands Civic Ctr",
-		"coordinates": {
-			"lat": 1.43444810854853,
-			"long": 103.78737576801932
-		}
-	},
-	{
-		"name": "-Z266",
-		"wab": "true",
-		"details": "Blk 347",
-		"coordinates": {
-			"lat": 1.43319818915334,
-			"long": 103.7812567265195
-		}
-	},
-	{
-		"name": "-Z267",
-		"wab": "true",
-		"details": "Blk 320",
-		"coordinates": {
-			"lat": 1.43209962904173,
-			"long": 103.77822365534921
-		}
-	},
-	{
-		"name": "-Z302",
-		"wab": "true",
-		"details": "Promenade Stn",
-		"coordinates": {
-			"lat": 1.29268553508737,
-			"long": 103.86093156188176
 		}
 	},
 	{
@@ -5199,15 +4992,6 @@
 		"coordinates": {
 			"lat": 1.40624496856359,
 			"long": 103.89957451783918
-		}
-	},
-	{
-		"name": "-Z384",
-		"wab": "true",
-		"details": "Blk 312 CP",
-		"coordinates": {
-			"lat": 1.40985888889928,
-			"long": 103.90129988103229
 		}
 	},
 	{
@@ -5571,15 +5355,6 @@
 		}
 	},
 	{
-		"name": "-Z474",
-		"wab": "true",
-		"details": "Marina Bay Stn",
-		"coordinates": {
-			"lat": 1.2775330547661,
-			"long": 103.85561610012866
-		}
-	},
-	{
 		"name": "-Z475",
 		"wab": "true",
 		"details": "Downtown Stn",
@@ -5627,7 +5402,7 @@
 	{
 		"name": "-Z515",
 		"wab": "true",
-		"details": "Punggol Stn",
+		"details": "Punggol Stn/Waterway Pt",
 		"coordinates": {
 			"lat": 1.40502618974463,
 			"long": 103.90299618971393
@@ -5643,21 +5418,21 @@
 		}
 	},
 	{
-		"name": "-Z542",
-		"wab": "true",
-		"details": "Passenger Pick-up/ Drop-off Point outside Stadium MRT Station",
-		"coordinates": {
-			"lat": 1.3009718,
-			"long": 103.8755111
-		}
-	},
-	{
 		"name": "-Z544",
 		"wab": "true",
 		"details": "Pebble Bay",
 		"coordinates": {
 			"lat": 1.29723536717542,
 			"long": 103.8710587860504
+		}
+	},
+	{
+		"name": "-Z555",
+		"wab": "true",
+		"details": "Blk 461",
+		"coordinates": {
+			"lat": 1.35497444398167,
+			"long": 103.73939913984925
 		}
 	},
 	{
@@ -5751,6 +5526,15 @@
 		}
 	},
 	{
+		"name": "-Z602",
+		"wab": "true",
+		"details": "Grande Vista Condomium",
+		"coordinates": {
+			"lat": 1.388806,
+			"long": 103.852418
+		}
+	},
+	{
 		"name": "-Z604",
 		"wab": "true",
 		"details": "Outside Entrance of The Hundred Palms Residences",
@@ -5769,129 +5553,12 @@
 		}
 	},
 	{
-		"name": "-Z608",
-		"wab": "false",
-		"details": "Blk 413C",
-		"coordinates": {
-			"lat": 1.417311944,
-			"long": 103.9013861
-		}
-	},
-	{
-		"name": "-Z609",
-		"wab": "false",
-		"details": "Blk 421C",
-		"coordinates": {
-			"lat": 1.418851944,
-			"long": 103.9057239
-		}
-	},
-	{
-		"name": "-Z610",
-		"wab": "false",
-		"details": "Aft Punggol Pt Stn",
-		"coordinates": {
-			"lat": 1.417306268,
-			"long": 103.9054176
-		}
-	},
-	{
-		"name": "-Z611",
-		"wab": "false",
-		"details": "Samudera Stn Exit B",
-		"coordinates": {
-			"lat": 1.416083732,
-			"long": 103.9024832
-		}
-	},
-	{
 		"name": "-Z612",
 		"wab": "false",
 		"details": "Nibong Stn Exit B",
 		"coordinates": {
 			"lat": 1.411380592,
 			"long": 103.9003026
-		}
-	},
-	{
-		"name": "-Z613",
-		"wab": "false",
-		"details": "Blk 672A",
-		"coordinates": {
-			"lat": 1.40587968,
-			"long": 103.9125169
-		}
-	},
-	{
-		"name": "-Z614",
-		"wab": "false",
-		"details": "Blk 670A",
-		"coordinates": {
-			"lat": 1.405804727,
-			"long": 103.9125955
-		}
-	},
-	{
-		"name": "-Z615",
-		"wab": "true",
-		"details": "Oasis Station Exit A",
-		"coordinates": {
-			"lat": 1.402578056,
-			"long": 103.912445
-		}
-	},
-	{
-		"name": "-Z616",
-		"wab": "false",
-		"details": "Blk 682A",
-		"coordinates": {
-			"lat": 1.402886703,
-			"long": 103.9162676
-		}
-	},
-	{
-		"name": "-Z617",
-		"wab": "false",
-		"details": "Blk 661A",
-		"coordinates": {
-			"lat": 1.402807759,
-			"long": 103.9163376
-		}
-	},
-	{
-		"name": "-Z618",
-		"wab": "true",
-		"details": "Kadaloor Station Exit A",
-		"coordinates": {
-			"lat": 1.399888,
-			"long": 103.916124
-		}
-	},
-	{
-		"name": "-Z619",
-		"wab": "false",
-		"details": "Waterway Pr Sch",
-		"coordinates": {
-			"lat": 1.398808889,
-			"long": 103.919085
-		}
-	},
-	{
-		"name": "-Z620",
-		"wab": "false",
-		"details": "Opp Waterway Pr Sch",
-		"coordinates": {
-			"lat": 1.398633889,
-			"long": 103.9191989
-		}
-	},
-	{
-		"name": "-Z621",
-		"wab": "false",
-		"details": "Bayfront Stn Exit A",
-		"coordinates": {
-			"lat": 1.281245,
-			"long": 103.858848
 		}
 	},
 	{
@@ -6018,15 +5685,6 @@
 		"coordinates": {
 			"lat": 1.3360398,
 			"long": 103.9638594
-		}
-	},
-	{
-		"name": "-Z642",
-		"wab": "true",
-		"details": "Along the road outside Plaza 8 Teh Terik",
-		"coordinates": {
-			"lat": 1.3340451,
-			"long": 103.9645692
 		}
 	},
 	{
@@ -6219,15 +5877,6 @@
 		}
 	},
 	{
-		"name": "-Z667",
-		"wab": "true",
-		"details": "Blk 461",
-		"coordinates": {
-			"lat": 1.35497444,
-			"long": 103.73939914
-		}
-	},
-	{
 		"name": "-Z668",
 		"wab": "true",
 		"details": "Blk 460D",
@@ -6405,42 +6054,6 @@
 		"coordinates": {
 			"lat": 1.44821708737482,
 			"long": 103.82235611868522
-		}
-	},
-	{
-		"name": "-Z689",
-		"wab": "true",
-		"details": "Opp Twin Fountains",
-		"coordinates": {
-			"lat": 1.430773889,
-			"long": 103.8006081
-		}
-	},
-	{
-		"name": "-Z690",
-		"wab": "true",
-		"details": "Opp Singapore University of Technology and Design (SUTD) campus",
-		"coordinates": {
-			"lat": 1.340161,
-			"long": 103.965246
-		}
-	},
-	{
-		"name": "-Z691",
-		"wab": "true",
-		"details": "Along the road outside Woodgrove Secondary School",
-		"coordinates": {
-			"lat": 1.428883,
-			"long": 103.797565
-		}
-	},
-	{
-		"name": "-Z692",
-		"wab": "true",
-		"details": "Twin Fountains",
-		"coordinates": {
-			"lat": 1.431021111,
-			"long": 103.8004889
 		}
 	},
 	{
@@ -7263,15 +6876,6 @@
 		}
 	},
 	{
-		"name": "02051",
-		"wab": "true",
-		"details": "The Float @ Marina Bay",
-		"coordinates": {
-			"lat": 1.2895030556082,
-			"long": 103.85903388899317
-		}
-	},
-	{
 		"name": "02061",
 		"wab": "true",
 		"details": "The Esplanade",
@@ -7364,7 +6968,7 @@
 	{
 		"name": "02161",
 		"wab": "true",
-		"details": "Promenade Stn",
+		"details": "Aft Promenade Stn Exit C",
 		"coordinates": {
 			"lat": 1.29268553508737,
 			"long": 103.86093156188176
@@ -7454,7 +7058,7 @@
 	{
 		"name": "03071",
 		"wab": "true",
-		"details": "OPP SO SOFITEL S'PORE",
+		"details": "80 Robinson Rd",
 		"coordinates": {
 			"lat": 1.27990609626764,
 			"long": 103.84940030424481
@@ -7688,7 +7292,7 @@
 	{
 		"name": "03529",
 		"wab": "true",
-		"details": "Downtown Stn",
+		"details": "Downtown Stn Exit E",
 		"coordinates": {
 			"lat": 1.27939957419063,
 			"long": 103.85278769921703
@@ -7724,7 +7328,7 @@
 	{
 		"name": "04019",
 		"wab": "true",
-		"details": "OPP BENCOOLEN STN EXIT B",
+		"details": "Opp Bencoolen Stn Exit B",
 		"coordinates": {
 			"lat": 1.29807216909408,
 			"long": 103.84975607305783
@@ -7733,7 +7337,7 @@
 	{
 		"name": "04029",
 		"wab": "true",
-		"details": "BEF BENCOOLEN STN EXIT A",
+		"details": "Bef Bencoolen Stn Exit A",
 		"coordinates": {
 			"lat": 1.29948166696821,
 			"long": 103.85092666701239
@@ -7787,7 +7391,7 @@
 	{
 		"name": "04151",
 		"wab": "true",
-		"details": "Cath Of The Good Shepherd",
+		"details": "Cath of The Good Shepherd",
 		"coordinates": {
 			"lat": 1.29533777799211,
 			"long": 103.85113972198121
@@ -7796,7 +7400,7 @@
 	{
 		"name": "04159",
 		"wab": "true",
-		"details": "Aft Chijmes",
+		"details": "Aft CHIJMES",
 		"coordinates": {
 			"lat": 1.29489484954945,
 			"long": 103.85108138663934
@@ -7931,7 +7535,7 @@
 	{
 		"name": "04331",
 		"wab": "true",
-		"details": "BEF FORT CANNING STN",
+		"details": "Bef Fort Canning Stn",
 		"coordinates": {
 			"lat": 1.29183939431601,
 			"long": 103.84504089382705
@@ -7940,7 +7544,7 @@
 	{
 		"name": "04339",
 		"wab": "true",
-		"details": "FORT CANNING STN EXIT B",
+		"details": "Fort Canning Stn Exit B",
 		"coordinates": {
 			"lat": 1.29221099996741,
 			"long": 103.84500500002959
@@ -7949,7 +7553,7 @@
 	{
 		"name": "05012",
 		"wab": "true",
-		"details": "Bef Pearl'S Hill Terr",
+		"details": "Bef Pearl's Hill Terr",
 		"coordinates": {
 			"lat": 1.28154583300728,
 			"long": 103.84087722199499
@@ -8273,7 +7877,7 @@
 	{
 		"name": "06049",
 		"wab": "true",
-		"details": "BEF OUTRAM FLYOVER",
+		"details": "Bef Outram Flyover",
 		"coordinates": {
 			"lat": 1.28474856880259,
 			"long": 103.83517705055233
@@ -8419,8 +8023,8 @@
 		"wab": "true",
 		"details": "Selegie Ctr",
 		"coordinates": {
-			"lat": 1.30324521574524,
-			"long": 103.84995776766847
+			"lat": 1.30372354572677,
+			"long": 103.85003675652882
 		}
 	},
 	{
@@ -8471,7 +8075,7 @@
 	{
 		"name": "07241",
 		"wab": "true",
-		"details": "Bef S'Goon Rd",
+		"details": "Bef S'goon Rd",
 		"coordinates": {
 			"lat": 1.31557142083242,
 			"long": 103.85900616698896
@@ -8516,7 +8120,7 @@
 	{
 		"name": "07351",
 		"wab": "true",
-		"details": "ARC 380",
+		"details": "Arc 380",
 		"coordinates": {
 			"lat": 1.31351833300073,
 			"long": 103.86054527803076
@@ -8525,7 +8129,7 @@
 	{
 		"name": "07359",
 		"wab": "true",
-		"details": "OPP ARC 380",
+		"details": "Opp Arc 380",
 		"coordinates": {
 			"lat": 1.31368253065979,
 			"long": 103.86071451807119
@@ -8579,7 +8183,7 @@
 	{
 		"name": "07517",
 		"wab": "true",
-		"details": "IBIS S'PORE ON BENCOOLEN",
+		"details": "ibis S'pore on Bencoolen",
 		"coordinates": {
 			"lat": 1.30145216158073,
 			"long": 103.85247781934106
@@ -8588,7 +8192,7 @@
 	{
 		"name": "07518",
 		"wab": "true",
-		"details": "OPP NAFA CAMPUS 3",
+		"details": "Opp NAFA Campus 3",
 		"coordinates": {
 			"lat": 1.30095828368506,
 			"long": 103.85211175034802
@@ -8597,7 +8201,7 @@
 	{
 		"name": "07529",
 		"wab": "true",
-		"details": "JLN BESAR STN EXIT A",
+		"details": "Jln Besar Stn Exit A",
 		"coordinates": {
 			"lat": 1.30431906266143,
 			"long": 103.85501564257024
@@ -8651,7 +8255,7 @@
 	{
 		"name": "07571",
 		"wab": "true",
-		"details": "SUNSHINE PLAZA",
+		"details": "Sunshine Plaza",
 		"coordinates": {
 			"lat": 1.30063444632288,
 			"long": 103.85114009314601
@@ -8732,7 +8336,7 @@
 	{
 		"name": "08079",
 		"wab": "true",
-		"details": "Sch of the Arts",
+		"details": "Sch of The Arts",
 		"coordinates": {
 			"lat": 1.29921444445586,
 			"long": 103.84910329217985
@@ -8975,7 +8579,7 @@
 	{
 		"name": "10011",
 		"wab": "true",
-		"details": "BEF NEIL RD",
+		"details": "Bef Neil Rd",
 		"coordinates": {
 			"lat": 1.2777380589964,
 			"long": 103.83749709165197
@@ -9011,7 +8615,7 @@
 	{
 		"name": "10041",
 		"wab": "true",
-		"details": "BEF KAMPONG BAHRU TER",
+		"details": "Bef Kampong Bahru Ter",
 		"coordinates": {
 			"lat": 1.27605834770353,
 			"long": 103.83519065305671
@@ -9020,7 +8624,7 @@
 	{
 		"name": "10049",
 		"wab": "true",
-		"details": "OPP KAMPONG BAHRU TER",
+		"details": "Opp Kampong Bahru Ter",
 		"coordinates": {
 			"lat": 1.27623302424393,
 			"long": 103.83483786772155
@@ -9119,7 +8723,7 @@
 	{
 		"name": "10101",
 		"wab": "true",
-		"details": "OPP BT MERAH SEC SCH",
+		"details": "Opp Bt Merah Sec Sch",
 		"coordinates": {
 			"lat": 1.28506195168861,
 			"long": 103.8137833011436
@@ -9128,7 +8732,7 @@
 	{
 		"name": "10109",
 		"wab": "true",
-		"details": "BT MERAH SEC SCH",
+		"details": "Bt Merah Sec Sch",
 		"coordinates": {
 			"lat": 1.28535315729277,
 			"long": 103.81370529674271
@@ -9254,7 +8858,7 @@
 	{
 		"name": "10181",
 		"wab": "true",
-		"details": "BEF AR-RABITAH MQUE",
+		"details": "Bef Ar-Rabitah Mque",
 		"coordinates": {
 			"lat": 1.28850399420484,
 			"long": 103.82109741719866
@@ -9758,7 +9362,7 @@
 	{
 		"name": "10499",
 		"wab": "true",
-		"details": "KAMPONG BAHRU TER",
+		"details": "Kampong Bahru Ter",
 		"coordinates": {
 			"lat": 1.27585400417691,
 			"long": 103.83401000002084
@@ -10055,7 +9659,7 @@
 	{
 		"name": "11159",
 		"wab": "true",
-		"details": "Aft Ch Of Our Saviour",
+		"details": "Aft Ch of Our Saviour",
 		"coordinates": {
 			"lat": 1.29800440816386,
 			"long": 103.80362656855579
@@ -10064,7 +9668,7 @@
 	{
 		"name": "11161",
 		"wab": "true",
-		"details": "C'Wealth Stn Exit A/D",
+		"details": "C'wealth Stn Exit A/D",
 		"coordinates": {
 			"lat": 1.30213305598263,
 			"long": 103.79839083302141
@@ -10073,7 +9677,7 @@
 	{
 		"name": "11169",
 		"wab": "true",
-		"details": "C'Wealth Stn Exit B/C",
+		"details": "C'wealth Stn Exit B/C",
 		"coordinates": {
 			"lat": 1.30270500001823,
 			"long": 103.79838166697326
@@ -10777,8 +10381,8 @@
 		"wab": "true",
 		"details": "Opp Blk 109A",
 		"coordinates": {
-			"lat": 1.321433056,
-			"long": 103.7710419
+			"lat": 1.32143228171575,
+			"long": 103.77104570621954
 		}
 	},
 	{
@@ -10804,8 +10408,8 @@
 		"wab": "true",
 		"details": "Maju Camp",
 		"coordinates": {
-			"lat": 1.326468056,
-			"long": 103.77543
+			"lat": 1.32646954948891,
+			"long": 103.77543118165781
 		}
 	},
 	{
@@ -10813,14 +10417,14 @@
 		"wab": "true",
 		"details": "Opp Maju Camp",
 		"coordinates": {
-			"lat": 1.326261111,
-			"long": 103.7757089
+			"lat": 1.32626393585174,
+			"long": 103.7757078821341
 		}
 	},
 	{
 		"name": "12091",
 		"wab": "true",
-		"details": "SIM HQ",
+		"details": "SIM Campus",
 		"coordinates": {
 			"lat": 1.32918315486756,
 			"long": 103.7771471166854
@@ -10829,10 +10433,10 @@
 	{
 		"name": "12099",
 		"wab": "true",
-		"details": "Opp SIM HQ",
+		"details": "Opp SIM Campus",
 		"coordinates": {
-			"lat": 1.327838056,
-			"long": 103.7767036
+			"lat": 1.32783564259062,
+			"long": 103.77670725488215
 		}
 	},
 	{
@@ -10849,8 +10453,8 @@
 		"wab": "true",
 		"details": "Opp Ngee Ann Poly",
 		"coordinates": {
-			"lat": 1.330819444,
-			"long": 103.7780086
+			"lat": 1.33082377591409,
+			"long": 103.77800726806974
 		}
 	},
 	{
@@ -10973,7 +10577,7 @@
 	{
 		"name": "12201",
 		"wab": "true",
-		"details": "Logishub @ Clementi",
+		"details": "LogisHub @ Clementi",
 		"coordinates": {
 			"lat": 1.32670826856501,
 			"long": 103.76399509585458
@@ -10982,7 +10586,7 @@
 	{
 		"name": "12209",
 		"wab": "true",
-		"details": "Opp Logishub @ Clementi",
+		"details": "Opp LogisHub @ Clementi",
 		"coordinates": {
 			"lat": 1.32653202760922,
 			"long": 103.76429968220569
@@ -11018,7 +10622,7 @@
 	{
 		"name": "13021",
 		"wab": "true",
-		"details": "Aft Min Of Foreign Affairs",
+		"details": "Aft Min of Foreign Affairs",
 		"coordinates": {
 			"lat": 1.30633972996805,
 			"long": 103.81430670816292
@@ -11090,7 +10694,7 @@
 	{
 		"name": "13062",
 		"wab": "true",
-		"details": "STELLAR RV",
+		"details": "Stellar RV",
 		"coordinates": {
 			"lat": 1.29476674399435,
 			"long": 103.82853268161283
@@ -11099,7 +10703,7 @@
 	{
 		"name": "13063",
 		"wab": "true",
-		"details": "RV SUITES",
+		"details": "RV Suites",
 		"coordinates": {
 			"lat": 1.29534692836828,
 			"long": 103.82964309110659
@@ -11108,7 +10712,7 @@
 	{
 		"name": "13069",
 		"wab": "true",
-		"details": "RV RESIDENCES",
+		"details": "RV Residences",
 		"coordinates": {
 			"lat": 1.29488000002792,
 			"long": 103.82880805602646
@@ -11153,7 +10757,7 @@
 	{
 		"name": "13091",
 		"wab": "true",
-		"details": "AFT KIM YAM RD",
+		"details": "Aft Kim Yam Rd",
 		"coordinates": {
 			"lat": 1.29593138900491,
 			"long": 103.83937805601917
@@ -11162,7 +10766,7 @@
 	{
 		"name": "13099",
 		"wab": "true",
-		"details": "BEF KIM YAM RD",
+		"details": "Bef Kim Yam Rd",
 		"coordinates": {
 			"lat": 1.29578024244395,
 			"long": 103.83961272081199
@@ -11326,8 +10930,8 @@
 		"wab": "true",
 		"details": "Bef Mt Faber Lodge",
 		"coordinates": {
-			"lat": 1.26795444401606,
-			"long": 103.8255261109799
+			"lat": 1.267954444,
+			"long": 103.8255261
 		}
 	},
 	{
@@ -11495,7 +11099,7 @@
 	{
 		"name": "14129",
 		"wab": "true",
-		"details": "Harbourfront Stn Exit A",
+		"details": "HarbourFront Stn Exit A",
 		"coordinates": {
 			"lat": 1.26607869101924,
 			"long": 103.81977877391114
@@ -11936,7 +11540,7 @@
 	{
 		"name": "14501",
 		"wab": "true",
-		"details": "OPP BLK 91A",
+		"details": "Opp Blk 91A",
 		"coordinates": {
 			"lat": 1.27687216148362,
 			"long": 103.80648081848618
@@ -11945,7 +11549,7 @@
 	{
 		"name": "14509",
 		"wab": "true",
-		"details": "BLK 92B",
+		"details": "Blk 92B",
 		"coordinates": {
 			"lat": 1.275651111,
 			"long": 103.8068061
@@ -11965,8 +11569,8 @@
 		"wab": "true",
 		"details": "Village Hotel",
 		"coordinates": {
-			"lat": 1.256432,
-			"long": 103.820911
+			"lat": 1.253596111,
+			"long": 103.820425
 		}
 	},
 	{
@@ -11974,8 +11578,8 @@
 		"wab": "true",
 		"details": "Opp Village Hotel",
 		"coordinates": {
-			"lat": 1.253226,
-			"long": 103.821217
+			"lat": 1.253226111,
+			"long": 103.8212169
 		}
 	},
 	{
@@ -11983,7 +11587,7 @@
 		"wab": "true",
 		"details": "Beach Station Bus Terminal",
 		"coordinates": {
-			"lat": 1.251427,
+			"lat": 1.251426944,
 			"long": 103.818545
 		}
 	},
@@ -12206,7 +11810,7 @@
 	{
 		"name": "15191",
 		"wab": "true",
-		"details": "Pasir Panjang Stn/Fc",
+		"details": "Pasir Panjang Stn/FC",
 		"coordinates": {
 			"lat": 1.27581227029734,
 			"long": 103.79263571257981
@@ -12341,7 +11945,7 @@
 	{
 		"name": "16041",
 		"wab": "true",
-		"details": "OPP LUXE VILLE",
+		"details": "Opp Luxe Ville",
 		"coordinates": {
 			"lat": 1.2893086506189,
 			"long": 103.77660095143266
@@ -12350,7 +11954,7 @@
 	{
 		"name": "16049",
 		"wab": "true",
-		"details": "WHITEHAVEN",
+		"details": "Whitehaven",
 		"coordinates": {
 			"lat": 1.28910696351866,
 			"long": 103.77738952047318
@@ -12370,8 +11974,8 @@
 		"wab": "true",
 		"details": "Jamiyah Halfway Hse",
 		"coordinates": {
-			"lat": 1.28967266173408,
-			"long": 103.77594136139503
+			"lat": 1.289675,
+			"long": 103.7759325
 		}
 	},
 	{
@@ -12406,8 +12010,8 @@
 		"wab": "true",
 		"details": "Bef Pasir Panjang PO",
 		"coordinates": {
-			"lat": 1.29138264862382,
-			"long": 103.77129836184207
+			"lat": 1.291384,
+			"long": 103.771294
 		}
 	},
 	{
@@ -12449,7 +12053,7 @@
 	{
 		"name": "16101",
 		"wab": "true",
-		"details": "Inst Of Micro-Electronics",
+		"details": "Inst of Micro-electronics",
 		"coordinates": {
 			"lat": 1.28923831874246,
 			"long": 103.77969239279669
@@ -12548,7 +12152,7 @@
 	{
 		"name": "16161",
 		"wab": "true",
-		"details": "Nus Museums",
+		"details": "NUS Museums",
 		"coordinates": {
 			"lat": 1.30107500001488,
 			"long": 103.77369416698464
@@ -12629,7 +12233,7 @@
 	{
 		"name": "16209",
 		"wab": "true",
-		"details": "HORIZON RESIDENCES",
+		"details": "Horizon Residences",
 		"coordinates": {
 			"lat": 1.28159092769912,
 			"long": 103.78400650244838
@@ -12881,7 +12485,7 @@
 	{
 		"name": "17099",
 		"wab": "true",
-		"details": "YALE-NUS COLLEGE",
+		"details": "Yale-NUS College",
 		"coordinates": {
 			"lat": 1.3078304704809,
 			"long": 103.77165274445558
@@ -12991,8 +12595,8 @@
 		"wab": "true",
 		"details": "Blk 365",
 		"coordinates": {
-			"lat": 1.311975556,
-			"long": 103.7698144
+			"lat": 1.31197479912261,
+			"long": 103.76981555127908
 		}
 	},
 	{
@@ -13054,8 +12658,8 @@
 		"wab": "true",
 		"details": "NUS High Sch",
 		"coordinates": {
-			"lat": 1.305669444,
-			"long": 103.7698914
+			"lat": 1.30566992567158,
+			"long": 103.76989486283583
 		}
 	},
 	{
@@ -13108,8 +12712,8 @@
 		"wab": "true",
 		"details": "NTUC Fairprice",
 		"coordinates": {
-			"lat": 1.312440556,
-			"long": 103.7658489
+			"lat": 1.31243759487729,
+			"long": 103.76584889459801
 		}
 	},
 	{
@@ -13126,8 +12730,8 @@
 		"wab": "true",
 		"details": "Blk 355",
 		"coordinates": {
-			"lat": 1.315171111,
-			"long": 103.7693364
+			"lat": 1.31517062959456,
+			"long": 103.76934103952304
 		}
 	},
 	{
@@ -13135,8 +12739,8 @@
 		"wab": "true",
 		"details": "Blk 460",
 		"coordinates": {
-			"lat": 1.31148,
-			"long": 103.76744
+			"lat": 1.311478696361,
+			"long": 103.76744350624884
 		}
 	},
 	{
@@ -13925,7 +13529,7 @@
 	{
 		"name": "19071",
 		"wab": "true",
-		"details": "Opp Acs Independent",
+		"details": "Opp ACS Independent",
 		"coordinates": {
 			"lat": 1.30515500002931,
 			"long": 103.78108305597279
@@ -13952,7 +13556,7 @@
 	{
 		"name": "19089",
 		"wab": "true",
-		"details": "Acs Independent",
+		"details": "ACS Independent",
 		"coordinates": {
 			"lat": 1.30370305599194,
 			"long": 103.78184388900041
@@ -13997,7 +13601,7 @@
 	{
 		"name": "20021",
 		"wab": "true",
-		"details": "NEWEST",
+		"details": "NEWest",
 		"coordinates": {
 			"lat": 1.31675923723731,
 			"long": 103.75788959223745
@@ -14006,7 +13610,7 @@
 	{
 		"name": "20029",
 		"wab": "true",
-		"details": "OPP NEWEST",
+		"details": "Opp NEWest",
 		"coordinates": {
 			"lat": 1.31772833949651,
 			"long": 103.75767989744158
@@ -14474,7 +14078,7 @@
 	{
 		"name": "21029",
 		"wab": "true",
-		"details": "AFT CORP PL",
+		"details": "Aft Corp Pl",
 		"coordinates": {
 			"lat": 1.32429728567538,
 			"long": 103.72180766916203
@@ -14681,7 +14285,7 @@
 	{
 		"name": "21171",
 		"wab": "true",
-		"details": "OPP CORP PL",
+		"details": "Opp Corp Pl",
 		"coordinates": {
 			"lat": 1.3258163890121,
 			"long": 103.71906611098208
@@ -14690,7 +14294,7 @@
 	{
 		"name": "21179",
 		"wab": "true",
-		"details": "CORP PL",
+		"details": "Corp Pl",
 		"coordinates": {
 			"lat": 1.32586166697514,
 			"long": 103.71929527796603
@@ -14771,7 +14375,7 @@
 	{
 		"name": "21229",
 		"wab": "true",
-		"details": "Opp S'Pore A'Space Mfg",
+		"details": "Opp S'pore A'space Mfg",
 		"coordinates": {
 			"lat": 1.34206,
 			"long": 103.716007
@@ -14834,7 +14438,7 @@
 	{
 		"name": "21261",
 		"wab": "true",
-		"details": "AFT CHIN BEE AVE",
+		"details": "Aft Chin Bee Ave",
 		"coordinates": {
 			"lat": 1.33393514008105,
 			"long": 103.71025085451481
@@ -14978,7 +14582,7 @@
 	{
 		"name": "21351",
 		"wab": "true",
-		"details": "BEF BOON LAY WAY",
+		"details": "Bef Boon Lay Way",
 		"coordinates": {
 			"lat": 1.33882138642125,
 			"long": 103.70956429008974
@@ -14987,7 +14591,7 @@
 	{
 		"name": "21359",
 		"wab": "true",
-		"details": "AFT ST KINETICS",
+		"details": "Aft ST Kinetics",
 		"coordinates": {
 			"lat": 1.33867010260834,
 			"long": 103.7099597309989
@@ -15032,7 +14636,7 @@
 	{
 		"name": "21381",
 		"wab": "true",
-		"details": "ST. JOSEPH'S HME",
+		"details": "St. Joseph's Hme",
 		"coordinates": {
 			"lat": 1.350462,
 			"long": 103.709815
@@ -15041,7 +14645,7 @@
 	{
 		"name": "21389",
 		"wab": "true",
-		"details": "OPP ST. JOSEPH'S HME",
+		"details": "Opp St. Joseph's Hme",
 		"coordinates": {
 			"lat": 1.350059,
 			"long": 103.709927
@@ -15167,7 +14771,7 @@
 	{
 		"name": "21461",
 		"wab": "true",
-		"details": "BEF TUKANG INNOVATION DR",
+		"details": "Bef Tukang Innovation Dr",
 		"coordinates": {
 			"lat": 1.32731972199567,
 			"long": 103.71799361099863
@@ -15185,7 +14789,7 @@
 	{
 		"name": "21471",
 		"wab": "true",
-		"details": "AFT TUKANG INNOVATION DR",
+		"details": "Aft Tukang Innovation Dr",
 		"coordinates": {
 			"lat": 1.32673138898791,
 			"long": 103.71542666702132
@@ -15446,7 +15050,7 @@
 	{
 		"name": "21619",
 		"wab": "true",
-		"details": "AFT CORP RD",
+		"details": "Aft Corp Rd",
 		"coordinates": {
 			"lat": 1.33793509893342,
 			"long": 103.71816213921478
@@ -15653,7 +15257,7 @@
 	{
 		"name": "21771",
 		"wab": "true",
-		"details": "AFT CORP DR",
+		"details": "Aft Corp Dr",
 		"coordinates": {
 			"lat": 1.3266,
 			"long": 103.723626
@@ -15680,7 +15284,7 @@
 	{
 		"name": "22011",
 		"wab": "true",
-		"details": "Jurong Bird Pk",
+		"details": "Bef Jurong Hill",
 		"coordinates": {
 			"lat": 1.32129797964322,
 			"long": 103.7077550377112
@@ -15689,7 +15293,7 @@
 	{
 		"name": "22019",
 		"wab": "true",
-		"details": "Opp Jurong Bird Pk",
+		"details": "Aft Tractor Rd",
 		"coordinates": {
 			"lat": 1.32202402246272,
 			"long": 103.7071133033833
@@ -15770,7 +15374,7 @@
 	{
 		"name": "22061",
 		"wab": "true",
-		"details": "Ceva Logistics",
+		"details": "CEVA Logistics",
 		"coordinates": {
 			"lat": 1.31427617763344,
 			"long": 103.70464097156747
@@ -15779,7 +15383,7 @@
 	{
 		"name": "22069",
 		"wab": "true",
-		"details": "Opp Ceva Logistics",
+		"details": "Opp CEVA Logistics",
 		"coordinates": {
 			"lat": 1.31365447950552,
 			"long": 103.70379462205501
@@ -16085,7 +15689,7 @@
 	{
 		"name": "22329",
 		"wab": "true",
-		"details": "Opp Sam Mccoy Engrg",
+		"details": "Opp Sam McCoy Engrg",
 		"coordinates": {
 			"lat": 1.33024346855102,
 			"long": 103.70501590196446
@@ -17732,7 +17336,7 @@
 	{
 		"name": "24511",
 		"wab": "true",
-		"details": "GUL CIRCLE STN EXIT A",
+		"details": "Gul Circle Stn Exit A",
 		"coordinates": {
 			"lat": 1.319446944,
 			"long": 103.6608911
@@ -17741,7 +17345,7 @@
 	{
 		"name": "24519",
 		"wab": "true",
-		"details": "GUL CIRCLE STN EXIT B",
+		"details": "Gul Circle Stn Exit B",
 		"coordinates": {
 			"lat": 1.319071944,
 			"long": 103.6598081
@@ -17984,7 +17588,7 @@
 	{
 		"name": "24701",
 		"wab": "true",
-		"details": "TUAS CRES STN EXIT B",
+		"details": "Tuas Cres Stn Exit B",
 		"coordinates": {
 			"lat": 1.321386,
 			"long": 103.649116
@@ -17993,7 +17597,7 @@
 	{
 		"name": "24709",
 		"wab": "true",
-		"details": "TUAS CRES STN EXIT A",
+		"details": "Tuas Cres Stn Exit A",
 		"coordinates": {
 			"lat": 1.32089,
 			"long": 103.649026
@@ -18002,7 +17606,7 @@
 	{
 		"name": "24711",
 		"wab": "true",
-		"details": "TUAS WEST RD STN EXIT B",
+		"details": "Tuas West Rd Stn Exit B",
 		"coordinates": {
 			"lat": 1.329871,
 			"long": 103.639994
@@ -18011,7 +17615,7 @@
 	{
 		"name": "24719",
 		"wab": "true",
-		"details": "TUAS WEST RD STN EXIT A",
+		"details": "Tuas West Rd Stn Exit A",
 		"coordinates": {
 			"lat": 1.330051,
 			"long": 103.639332
@@ -18461,7 +18065,7 @@
 	{
 		"name": "25411",
 		"wab": "true",
-		"details": "BEF TUAS TER",
+		"details": "Bef Tuas Ter",
 		"coordinates": {
 			"lat": 1.34387062081224,
 			"long": 103.63830559259954
@@ -18481,8 +18085,8 @@
 		"wab": "true",
 		"details": "OPP TUAS LINK STN",
 		"coordinates": {
-			"lat": 1.3414665264837,
-			"long": 103.63745040018382
+			"lat": 1.3412625,
+			"long": 103.637418611111
 		}
 	},
 	{
@@ -18535,8 +18139,8 @@
 		"wab": "false",
 		"details": "Aft Tuas West St",
 		"coordinates": {
-			"lat": 1.3322832999168,
-			"long": 103.63410305264573
+			"lat": 1.33226194444444,
+			"long": 103.634050555556
 		}
 	},
 	{
@@ -18623,7 +18227,7 @@
 	{
 		"name": "25511",
 		"wab": "true",
-		"details": "MICHELMAN",
+		"details": "Michelman",
 		"coordinates": {
 			"lat": 1.32981500001918,
 			"long": 103.64080472198735
@@ -18632,7 +18236,7 @@
 	{
 		"name": "25519",
 		"wab": "true",
-		"details": "OPP MICHELMAN",
+		"details": "Opp Michelman",
 		"coordinates": {
 			"lat": 1.32981451584967,
 			"long": 103.6409965426425
@@ -18641,7 +18245,7 @@
 	{
 		"name": "25531",
 		"wab": "true",
-		"details": "ST KINETICS",
+		"details": "ST Kinetics",
 		"coordinates": {
 			"lat": 1.332349,
 			"long": 103.645156
@@ -18650,7 +18254,7 @@
 	{
 		"name": "25539",
 		"wab": "true",
-		"details": "FUJIFILM",
+		"details": "Fujifilm",
 		"coordinates": {
 			"lat": 1.332311,
 			"long": 103.64507
@@ -18668,7 +18272,7 @@
 	{
 		"name": "25549",
 		"wab": "true",
-		"details": "CAST LABORATORIES",
+		"details": "CAST Laboratories",
 		"coordinates": {
 			"lat": 1.329815,
 			"long": 103.647687
@@ -18686,7 +18290,7 @@
 	{
 		"name": "25559",
 		"wab": "true",
-		"details": "LEE WELDED MESH",
+		"details": "Lee Welded Mesh",
 		"coordinates": {
 			"lat": 1.325651,
 			"long": 103.645879
@@ -18695,7 +18299,7 @@
 	{
 		"name": "25561",
 		"wab": "true",
-		"details": "INVISTA",
+		"details": "Aft Tuas Cres",
 		"coordinates": {
 			"lat": 1.31836,
 			"long": 103.637711
@@ -18704,7 +18308,7 @@
 	{
 		"name": "25569",
 		"wab": "true",
-		"details": "OPP INVISTA",
+		"details": "Bef Tuas Cres",
 		"coordinates": {
 			"lat": 1.318191,
 			"long": 103.637247
@@ -18713,7 +18317,7 @@
 	{
 		"name": "25571",
 		"wab": "true",
-		"details": "OPP WEST STAR",
+		"details": "Opp West Star",
 		"coordinates": {
 			"lat": 1.315444,
 			"long": 103.635242
@@ -18722,7 +18326,7 @@
 	{
 		"name": "25579",
 		"wab": "true",
-		"details": "WEST STAR",
+		"details": "West Star",
 		"coordinates": {
 			"lat": 1.315542,
 			"long": 103.634947
@@ -18731,7 +18335,7 @@
 	{
 		"name": "25589",
 		"wab": "true",
-		"details": "CROWN EQUIPMENT",
+		"details": "Crown Equipment",
 		"coordinates": {
 			"lat": 1.328334,
 			"long": 103.648426
@@ -18740,7 +18344,7 @@
 	{
 		"name": "25591",
 		"wab": "true",
-		"details": "OPP WYETH PHARMACEUTICALS",
+		"details": "Opp Wyeth Pharmaceuticals",
 		"coordinates": {
 			"lat": 1.310246,
 			"long": 103.63509
@@ -18749,7 +18353,7 @@
 	{
 		"name": "25599",
 		"wab": "true",
-		"details": "WYETH PHARMACEUTICALS",
+		"details": "Wyeth Pharmaceuticals",
 		"coordinates": {
 			"lat": 1.30943,
 			"long": 103.635806
@@ -18758,7 +18362,7 @@
 	{
 		"name": "25601",
 		"wab": "true",
-		"details": "PFIZER GLOBAL",
+		"details": "Pfizer Global",
 		"coordinates": {
 			"lat": 1.301632,
 			"long": 103.634717
@@ -18767,7 +18371,7 @@
 	{
 		"name": "25609",
 		"wab": "true",
-		"details": "MERCK SHARP & DOHME",
+		"details": "Merck Sharp & Dohme",
 		"coordinates": {
 			"lat": 1.301942,
 			"long": 103.634519
@@ -18776,7 +18380,7 @@
 	{
 		"name": "25611",
 		"wab": "true",
-		"details": "OPP WESTLINK TWO",
+		"details": "Opp WestLink Two",
 		"coordinates": {
 			"lat": 1.297703,
 			"long": 103.633033
@@ -18785,7 +18389,7 @@
 	{
 		"name": "25621",
 		"wab": "true",
-		"details": "STARBURST ENGRG",
+		"details": "Starburst Engrg",
 		"coordinates": {
 			"lat": 1.294382,
 			"long": 103.631889
@@ -18794,7 +18398,7 @@
 	{
 		"name": "25631",
 		"wab": "true",
-		"details": "CONTAINER CONNECTIONS",
+		"details": "Container Connections",
 		"coordinates": {
 			"lat": 1.290329,
 			"long": 103.631397
@@ -18803,7 +18407,7 @@
 	{
 		"name": "25641",
 		"wab": "true",
-		"details": "OPP ROCHE S'PORE TECH",
+		"details": "Opp Roche S'pore Tech",
 		"coordinates": {
 			"lat": 1.296157,
 			"long": 103.638434
@@ -18812,7 +18416,7 @@
 	{
 		"name": "25651",
 		"wab": "true",
-		"details": "NOVARTIS",
+		"details": "Novartis",
 		"coordinates": {
 			"lat": 1.299345,
 			"long": 103.63553
@@ -18839,7 +18443,7 @@
 	{
 		"name": "25671",
 		"wab": "true",
-		"details": "BEF OFFSHORE MARINE CTR",
+		"details": "Bef Offshore Marine Ctr",
 		"coordinates": {
 			"lat": 1.294546,
 			"long": 103.641614
@@ -18848,16 +18452,16 @@
 	{
 		"name": "25681",
 		"wab": "true",
-		"details": "BEF TUAS WEST AVE",
+		"details": "Bef Tuas West Ave",
 		"coordinates": {
-			"lat": 1.332541,
-			"long": 103.637033
+			"lat": 1.33248805555556,
+			"long": 103.637169444444
 		}
 	},
 	{
 		"name": "25689",
 		"wab": "true",
-		"details": "AFT TUAS WEST AVE",
+		"details": "Aft Tuas West Ave",
 		"coordinates": {
 			"lat": 1.332109,
 			"long": 103.637126
@@ -18866,7 +18470,7 @@
 	{
 		"name": "25691",
 		"wab": "true",
-		"details": "AFT TUAS WEST RD STN",
+		"details": "Aft Tuas West Rd Stn",
 		"coordinates": {
 			"lat": 1.328519,
 			"long": 103.639669
@@ -18875,7 +18479,7 @@
 	{
 		"name": "25701",
 		"wab": "true",
-		"details": "GLAXOSMITHKLINE",
+		"details": "GlaxoSmithKline",
 		"coordinates": {
 			"lat": 1.295593,
 			"long": 103.627651
@@ -18884,7 +18488,7 @@
 	{
 		"name": "25709",
 		"wab": "true",
-		"details": "EDGEN MURRAY",
+		"details": "Edgen Murray",
 		"coordinates": {
 			"lat": 1.295671,
 			"long": 103.627284
@@ -18893,7 +18497,7 @@
 	{
 		"name": "25711",
 		"wab": "true",
-		"details": "OPP THE INDEX",
+		"details": "Opp The Index",
 		"coordinates": {
 			"lat": 1.288627,
 			"long": 103.625073
@@ -18902,7 +18506,7 @@
 	{
 		"name": "25719",
 		"wab": "true",
-		"details": "THE INDEX",
+		"details": "The Index",
 		"coordinates": {
 			"lat": 1.289014,
 			"long": 103.624893
@@ -18911,7 +18515,7 @@
 	{
 		"name": "25729",
 		"wab": "true",
-		"details": "ABBOTT",
+		"details": "Abbott",
 		"coordinates": {
 			"lat": 1.284932,
 			"long": 103.628258
@@ -18920,7 +18524,7 @@
 	{
 		"name": "25741",
 		"wab": "true",
-		"details": "HALLIBURTON",
+		"details": "Halliburton",
 		"coordinates": {
 			"lat": 1.280501,
 			"long": 103.62711
@@ -18929,7 +18533,7 @@
 	{
 		"name": "25751",
 		"wab": "true",
-		"details": "BEF TUAS STH AVE 14",
+		"details": "Bef Tuas Sth Ave 14",
 		"coordinates": {
 			"lat": 1.278059,
 			"long": 103.621663
@@ -18938,7 +18542,7 @@
 	{
 		"name": "25761",
 		"wab": "true",
-		"details": "OPP REC S'PORE",
+		"details": "Opp REC S'pore",
 		"coordinates": {
 			"lat": 1.275062,
 			"long": 103.624222
@@ -18947,7 +18551,7 @@
 	{
 		"name": "25771",
 		"wab": "true",
-		"details": "AFT TUAS STH ST 7",
+		"details": "Aft Tuas Sth St 7",
 		"coordinates": {
 			"lat": 1.274334,
 			"long": 103.632329
@@ -18956,7 +18560,7 @@
 	{
 		"name": "25781",
 		"wab": "true",
-		"details": "OPP SLS",
+		"details": "Opp SLS",
 		"coordinates": {
 			"lat": 1.276398,
 			"long": 103.635811
@@ -18965,7 +18569,7 @@
 	{
 		"name": "25791",
 		"wab": "true",
-		"details": "BEF TUAS STH AVE 10",
+		"details": "Bef Tuas Sth Ave 10",
 		"coordinates": {
 			"lat": 1.28202,
 			"long": 103.636126
@@ -18974,7 +18578,7 @@
 	{
 		"name": "25801",
 		"wab": "true",
-		"details": "BEF TUAS STH AVE 7",
+		"details": "Bef Tuas Sth Ave 7",
 		"coordinates": {
 			"lat": 1.28451,
 			"long": 103.634186
@@ -19001,7 +18605,7 @@
 	{
 		"name": "25821",
 		"wab": "true",
-		"details": "TUAS AMENITY CTR",
+		"details": "Tuas Amenity Ctr",
 		"coordinates": {
 			"lat": 1.317492,
 			"long": 103.652589
@@ -19019,7 +18623,7 @@
 	{
 		"name": "26019",
 		"wab": "true",
-		"details": "PROGRESS GALVANIZING",
+		"details": "Progress Galvanizing",
 		"coordinates": {
 			"lat": 1.318612,
 			"long": 103.648062
@@ -19037,7 +18641,7 @@
 	{
 		"name": "26029",
 		"wab": "true",
-		"details": "CHIA HOCK TRADING CO",
+		"details": "Chia Hock Trading Co",
 		"coordinates": {
 			"lat": 1.317805,
 			"long": 103.647257
@@ -19055,7 +18659,7 @@
 	{
 		"name": "26039",
 		"wab": "true",
-		"details": "ASIA POLYURETHANE",
+		"details": "Asia Polyurethane",
 		"coordinates": {
 			"lat": 1.316062,
 			"long": 103.645623
@@ -19064,7 +18668,7 @@
 	{
 		"name": "26041",
 		"wab": "true",
-		"details": "HIAP SENG ENGRG LTD",
+		"details": "Hiap Seng Engrg Ltd",
 		"coordinates": {
 			"lat": 1.314711,
 			"long": 103.643052
@@ -19082,7 +18686,7 @@
 	{
 		"name": "26051",
 		"wab": "true",
-		"details": "BLASTING ABRASIVES",
+		"details": "Blasting Abrasives",
 		"coordinates": {
 			"lat": 1.316385,
 			"long": 103.641295
@@ -19091,7 +18695,7 @@
 	{
 		"name": "26059",
 		"wab": "true",
-		"details": "PAXOCEAN",
+		"details": "PaxOcean",
 		"coordinates": {
 			"lat": 1.31672777803073,
 			"long": 103.64083888900358
@@ -19118,7 +18722,7 @@
 	{
 		"name": "26071",
 		"wab": "true",
-		"details": "UNIFINE STAR PETROCHEM",
+		"details": "Unifine Star Petrochem",
 		"coordinates": {
 			"lat": 1.320508,
 			"long": 103.637024
@@ -19136,7 +18740,7 @@
 	{
 		"name": "26081",
 		"wab": "true",
-		"details": "BEF TUAS AVE 18A",
+		"details": "Bef Tuas Ave 18A",
 		"coordinates": {
 			"lat": 1.322491,
 			"long": 103.634908
@@ -19154,7 +18758,7 @@
 	{
 		"name": "26091",
 		"wab": "true",
-		"details": "ROTARY ENGRG",
+		"details": "Rotary Engrg",
 		"coordinates": {
 			"lat": 1.324656,
 			"long": 103.636135
@@ -19172,7 +18776,7 @@
 	{
 		"name": "26101",
 		"wab": "true",
-		"details": "BASF STH EAST ASIA",
+		"details": "BASF Sth East Asia",
 		"coordinates": {
 			"lat": 1.326868,
 			"long": 103.638144
@@ -19309,8 +18913,8 @@
 		"wab": "false",
 		"details": "Bef Tuas Sth Ave 2",
 		"coordinates": {
-			"lat": 1.31744784261205,
-			"long": 103.62972683501111
+			"lat": 1.31726944444444,
+			"long": 103.629789444444
 		}
 	},
 	{
@@ -19327,8 +18931,8 @@
 		"wab": "true",
 		"details": "Aft Tuas Sth Ave 4",
 		"coordinates": {
-			"lat": 1.31470906872568,
-			"long": 103.62871219060811
+			"lat": 1.31442305555556,
+			"long": 103.62871
 		}
 	},
 	{
@@ -19399,8 +19003,8 @@
 		"wab": "true",
 		"details": "Tuas Technology Pk",
 		"coordinates": {
-			"lat": 1.3119396916744,
-			"long": 103.62993851893346
+			"lat": 1.31161055555556,
+			"long": 103.630956944444
 		}
 	},
 	{
@@ -19757,7 +19361,7 @@
 	{
 		"name": "27221",
 		"wab": "true",
-		"details": "Sch Of CEE",
+		"details": "Sch of CEE",
 		"coordinates": {
 			"lat": 1.34623151653928,
 			"long": 103.67851763727317
@@ -20144,7 +19748,7 @@
 	{
 		"name": "27501",
 		"wab": "true",
-		"details": "NTUC HEALTH NURSING HME",
+		"details": "NTUC Health Nursing Hme",
 		"coordinates": {
 			"lat": 1.34097116721964,
 			"long": 103.69167107077278
@@ -20207,7 +19811,7 @@
 	{
 		"name": "27539",
 		"wab": "true",
-		"details": "BEF XINGNAN PR SCH",
+		"details": "Bef Xingnan Pr Sch",
 		"coordinates": {
 			"lat": 1.34071614464901,
 			"long": 103.6868923374865
@@ -20225,7 +19829,7 @@
 	{
 		"name": "28011",
 		"wab": "true",
-		"details": "BEF TOH TUCK AVE",
+		"details": "Bef Toh Tuck Ave",
 		"coordinates": {
 			"lat": 1.32425805601593,
 			"long": 103.7591472219987
@@ -21395,7 +20999,7 @@
 	{
 		"name": "29119",
 		"wab": "true",
-		"details": "Comfortdelgro Engrg",
+		"details": "ComfortDelGro Engrg",
 		"coordinates": {
 			"lat": 1.30075962146214,
 			"long": 103.74720096588953
@@ -21404,7 +21008,7 @@
 	{
 		"name": "29121",
 		"wab": "true",
-		"details": "Opp Clp Intl",
+		"details": "Opp CLP Intl",
 		"coordinates": {
 			"lat": 1.30670185792468,
 			"long": 103.73955130573647
@@ -21413,7 +21017,7 @@
 	{
 		"name": "29129",
 		"wab": "true",
-		"details": "Clp Intl",
+		"details": "CLP Intl",
 		"coordinates": {
 			"lat": 1.30639194302217,
 			"long": 103.73949183679694
@@ -21640,8 +21244,8 @@
 		"wab": "true",
 		"details": "Aft Nanyang Ave",
 		"coordinates": {
-			"lat": 1.35908460846532,
-			"long": 103.69389522616177
+			"lat": 1.35882055555556,
+			"long": 103.693878055556
 		}
 	},
 	{
@@ -21649,8 +21253,8 @@
 		"wab": "true",
 		"details": "Bef Nanyang Ave",
 		"coordinates": {
-			"lat": 1.35998260495758,
-			"long": 103.69398905356208
+			"lat": 1.36070944444444,
+			"long": 103.693993611111
 		}
 	},
 	{
@@ -22277,7 +21881,7 @@
 	{
 		"name": "40011",
 		"wab": "true",
-		"details": "LITTLE INDIA STN EXIT A",
+		"details": "Little India Stn Exit A",
 		"coordinates": {
 			"lat": 1.30606411522588,
 			"long": 103.84908751469008
@@ -22295,7 +21899,7 @@
 	{
 		"name": "40021",
 		"wab": "true",
-		"details": "BEF WINSTEDT RD",
+		"details": "Bef Winstedt Rd",
 		"coordinates": {
 			"lat": 1.311033889,
 			"long": 103.8427911
@@ -22501,7 +22105,7 @@
 	},
 	{
 		"name": "40181",
-		"wab": "false",
+		"wab": "true",
 		"details": "Newton Stn Exit A",
 		"coordinates": {
 			"lat": 1.312641,
@@ -22538,7 +22142,7 @@
 	{
 		"name": "40209",
 		"wab": "true",
-		"details": "NOVOTEL MERCURE @ STEVENS",
+		"details": "Novotel Mercure @ Stevens",
 		"coordinates": {
 			"lat": 1.31388805600649,
 			"long": 103.82738777802837
@@ -22961,7 +22565,7 @@
 	{
 		"name": "41121",
 		"wab": "true",
-		"details": "S'Pore Bible Coll",
+		"details": "S'pore Bible Coll",
 		"coordinates": {
 			"lat": 1.32554444399609,
 			"long": 103.81350777801268
@@ -22970,7 +22574,7 @@
 	{
 		"name": "41129",
 		"wab": "true",
-		"details": "Opp S'Pore Bible Coll",
+		"details": "Opp S'pore Bible Coll",
 		"coordinates": {
 			"lat": 1.32542946413096,
 			"long": 103.81399869920736
@@ -23188,14 +22792,14 @@
 		"wab": "true",
 		"details": "Opp Beauty World Ctr",
 		"coordinates": {
-			"lat": 1.343246111,
-			"long": 103.7769164
+			"lat": 1.3432509342535,
+			"long": 103.77691309471214
 		}
 	},
 	{
 		"name": "42111",
 		"wab": "true",
-		"details": "WOH HUP BLDG",
+		"details": "Woh Hup Bldg",
 		"coordinates": {
 			"lat": 1.34584805601375,
 			"long": 103.77262861101015
@@ -23501,7 +23105,7 @@
 	{
 		"name": "42991",
 		"wab": "true",
-		"details": "BEF HILLVIEW STN EXIT B",
+		"details": "Bef Hillview Stn Exit B",
 		"coordinates": {
 			"lat": 1.36164,
 			"long": 103.766952
@@ -23530,8 +23134,8 @@
 		"wab": "true",
 		"details": "Springdale Condo",
 		"coordinates": {
-			"lat": 1.348201944,
-			"long": 103.7710775
+			"lat": 1.34819961152585,
+			"long": 103.77107734514857
 		}
 	},
 	{
@@ -23584,8 +23188,8 @@
 		"wab": "true",
 		"details": "The Rail Mall",
 		"coordinates": {
-			"lat": 1.359408611,
-			"long": 103.7674364
+			"lat": 1.35941395948369,
+			"long": 103.76743869654939
 		}
 	},
 	{
@@ -23600,7 +23204,7 @@
 	{
 		"name": "43069",
 		"wab": "true",
-		"details": "HILLVIEW STN EXIT A",
+		"details": "Hillview Stn Exit A",
 		"coordinates": {
 			"lat": 1.36296778241046,
 			"long": 103.76768583722071
@@ -23663,7 +23267,7 @@
 	{
 		"name": "43111",
 		"wab": "true",
-		"details": "Min Of Defence",
+		"details": "Min of Defence",
 		"coordinates": {
 			"lat": 1.37229972154626,
 			"long": 103.76298146518725
@@ -23816,7 +23420,7 @@
 	{
 		"name": "43199",
 		"wab": "true",
-		"details": "Ch Of St. Mary",
+		"details": "Ch of St. Mary",
 		"coordinates": {
 			"lat": 1.34663409083885,
 			"long": 103.75920055445125
@@ -24266,7 +23870,7 @@
 	{
 		"name": "43452",
 		"wab": "true",
-		"details": "AFT BT BATOK WEST AVE 3",
+		"details": "Aft Bt Batok West Ave 3",
 		"coordinates": {
 			"lat": 1.348526111,
 			"long": 103.7385769
@@ -24275,7 +23879,7 @@
 	{
 		"name": "43453",
 		"wab": "true",
-		"details": "BEF PIE",
+		"details": "Bef PIE",
 		"coordinates": {
 			"lat": 1.3479,
 			"long": 103.7385
@@ -24653,7 +24257,7 @@
 	{
 		"name": "43681",
 		"wab": "true",
-		"details": "BT BATOK HME FOR THE AGED",
+		"details": "Bt Batok Hme for the Aged",
 		"coordinates": {
 			"lat": 1.36178500002853,
 			"long": 103.74358000000312
@@ -24815,7 +24419,7 @@
 	{
 		"name": "43789",
 		"wab": "true",
-		"details": "BLK 436A",
+		"details": "Blk 436A",
 		"coordinates": {
 			"lat": 1.35915702140816,
 			"long": 103.73950237742633
@@ -24905,7 +24509,7 @@
 	{
 		"name": "43891",
 		"wab": "true",
-		"details": "AFT DAIRY FARM CRES",
+		"details": "Aft Dairy Farm Cres",
 		"coordinates": {
 			"lat": 1.363698889,
 			"long": 103.7692319
@@ -24914,7 +24518,7 @@
 	{
 		"name": "43899",
 		"wab": "true",
-		"details": "BEF DAIRY FARM CRES",
+		"details": "Bef Dairy Farm Cres",
 		"coordinates": {
 			"lat": 1.363535,
 			"long": 103.769
@@ -24923,7 +24527,7 @@
 	{
 		"name": "43961",
 		"wab": "true",
-		"details": "AFT DAIRY FARM HTS",
+		"details": "Aft Dairy Farm Hts",
 		"coordinates": {
 			"lat": 1.364838889,
 			"long": 103.7729861
@@ -24932,7 +24536,7 @@
 	{
 		"name": "43969",
 		"wab": "true",
-		"details": "BEF DAIRY FARM HTS",
+		"details": "Bef Dairy Farm Hts",
 		"coordinates": {
 			"lat": 1.36463,
 			"long": 103.7725931
@@ -24941,7 +24545,7 @@
 	{
 		"name": "43991",
 		"wab": "true",
-		"details": "OPP BLK 635A",
+		"details": "Opp Blk 635A",
 		"coordinates": {
 			"lat": 1.386207,
 			"long": 103.7565
@@ -24986,7 +24590,7 @@
 	{
 		"name": "44029",
 		"wab": "true",
-		"details": "Bt Panjang Stn Exit A/Lrt",
+		"details": "Bt Panjang Stn Exit A/LRT",
 		"coordinates": {
 			"lat": 1.37863409952448,
 			"long": 103.7621954983533
@@ -25454,7 +25058,7 @@
 	{
 		"name": "44291",
 		"wab": "true",
-		"details": "Opp Cck Polyclinic",
+		"details": "Opp CCK Polyclinic",
 		"coordinates": {
 			"lat": 1.38151999999791,
 			"long": 103.75140111097832
@@ -25463,7 +25067,7 @@
 	{
 		"name": "44299",
 		"wab": "true",
-		"details": "Cck Polyclinic",
+		"details": "CCK Polyclinic",
 		"coordinates": {
 			"lat": 1.38177250001353,
 			"long": 103.75131333302434
@@ -25564,8 +25168,8 @@
 		"wab": "true",
 		"details": "Bef Dairy Farm Rd",
 		"coordinates": {
-			"lat": 1.36645894982356,
-			"long": 103.77558768232717
+			"lat": 1.366354,
+			"long": 103.7755495
 		}
 	},
 	{
@@ -25573,8 +25177,8 @@
 		"wab": "true",
 		"details": "Aft Dairy Farm Rd",
 		"coordinates": {
-			"lat": 1.36574284265165,
-			"long": 103.7753149073364
+			"lat": 1.3658625,
+			"long": 103.775339
 		}
 	},
 	{
@@ -26102,7 +25706,7 @@
 	{
 		"name": "44691",
 		"wab": "true",
-		"details": "BLK 485",
+		"details": "Blk 485",
 		"coordinates": {
 			"lat": 1.38826258050731,
 			"long": 103.7714646491703
@@ -26111,7 +25715,7 @@
 	{
 		"name": "44699",
 		"wab": "true",
-		"details": "BLK 457",
+		"details": "Blk 457",
 		"coordinates": {
 			"lat": 1.38805300466507,
 			"long": 103.77154344868076
@@ -26282,7 +25886,7 @@
 	{
 		"name": "44861",
 		"wab": "true",
-		"details": "BLK 636A",
+		"details": "Blk 636A",
 		"coordinates": {
 			"lat": 1.3866920101757,
 			"long": 103.75877312173013
@@ -26462,7 +26066,7 @@
 	{
 		"name": "45009",
 		"wab": "true",
-		"details": "BT PANJANG INT",
+		"details": "Bt Panjang Int",
 		"coordinates": {
 			"lat": 1.37812611932206,
 			"long": 103.763286611367
@@ -26545,8 +26149,8 @@
 		"wab": "true",
 		"details": "Da Di Glass",
 		"coordinates": {
-			"lat": 1.403385556,
-			"long": 103.7560103
+			"lat": 1.40338300891254,
+			"long": 103.75601118139048
 		}
 	},
 	{
@@ -26687,7 +26291,7 @@
 	{
 		"name": "45141",
 		"wab": "true",
-		"details": "Aft W'Lands Rd",
+		"details": "Aft W'lands Rd",
 		"coordinates": {
 			"lat": 1.42484086207371,
 			"long": 103.75684069951173
@@ -26696,7 +26300,7 @@
 	{
 		"name": "45149",
 		"wab": "true",
-		"details": "Bef W'Lands Rd",
+		"details": "Bef W'lands Rd",
 		"coordinates": {
 			"lat": 1.4251485321405,
 			"long": 103.75694671247683
@@ -26822,7 +26426,7 @@
 	{
 		"name": "45221",
 		"wab": "true",
-		"details": "Aft W'Lands Rd",
+		"details": "Aft W'lands Rd",
 		"coordinates": {
 			"lat": 1.41185472198007,
 			"long": 103.75786055597196
@@ -26831,7 +26435,7 @@
 	{
 		"name": "45229",
 		"wab": "true",
-		"details": "Bef W'Lands Rd",
+		"details": "Bef W'lands Rd",
 		"coordinates": {
 			"lat": 1.41157694400245,
 			"long": 103.75794694401966
@@ -27229,8 +26833,8 @@
 		"wab": "true",
 		"details": "Woodlands Int",
 		"coordinates": {
-			"lat": 1.436849,
-			"long": 103.785737
+			"lat": 1.43773062645251,
+			"long": 103.78672939877963
 		}
 	},
 	{
@@ -27245,7 +26849,7 @@
 	{
 		"name": "46011",
 		"wab": "true",
-		"details": "Bef W'Lands Ctr Rd",
+		"details": "Bef W'lands Ctr Rd",
 		"coordinates": {
 			"lat": 1.4385198561158,
 			"long": 103.7742921156719
@@ -27254,7 +26858,7 @@
 	{
 		"name": "46019",
 		"wab": "true",
-		"details": "Aft W'Lands Ctr Rd",
+		"details": "Aft W'lands Ctr Rd",
 		"coordinates": {
 			"lat": 1.4386733329964,
 			"long": 103.7741286109918
@@ -27263,7 +26867,7 @@
 	{
 		"name": "46021",
 		"wab": "true",
-		"details": "Bef W'Lands Ind Pk D St 2",
+		"details": "Bef W'lands Ind Pk D St 2",
 		"coordinates": {
 			"lat": 1.42919861102901,
 			"long": 103.76175138901188
@@ -27272,7 +26876,7 @@
 	{
 		"name": "46029",
 		"wab": "true",
-		"details": "Aft W'Lands Ind Pk D St 2",
+		"details": "Aft W'lands Ind Pk D St 2",
 		"coordinates": {
 			"lat": 1.42861423605127,
 			"long": 103.76226643430736
@@ -27299,7 +26903,7 @@
 	{
 		"name": "46041",
 		"wab": "true",
-		"details": "Opp Globalfoundries",
+		"details": "Opp GLOBALFOUNDRIES",
 		"coordinates": {
 			"lat": 1.43664137008987,
 			"long": 103.76405579624996
@@ -27308,7 +26912,7 @@
 	{
 		"name": "46049",
 		"wab": "true",
-		"details": "Globalfoundries",
+		"details": "GLOBALFOUNDRIES",
 		"coordinates": {
 			"lat": 1.43709,
 			"long": 103.76476
@@ -27326,7 +26930,7 @@
 	{
 		"name": "46059",
 		"wab": "true",
-		"details": "Globalfoundries/Aft Bke",
+		"details": "GLOBALFOUNDRIES/Aft BKE",
 		"coordinates": {
 			"lat": 1.4387537800127,
 			"long": 103.76656472079625
@@ -27335,7 +26939,7 @@
 	{
 		"name": "46069",
 		"wab": "true",
-		"details": "W'Lands Train Checkpt",
+		"details": "W'lands Train Checkpt",
 		"coordinates": {
 			"lat": 1.44288948418349,
 			"long": 103.76933833799299
@@ -27371,7 +26975,7 @@
 	{
 		"name": "46091",
 		"wab": "true",
-		"details": "Bef Bke",
+		"details": "Bef BKE",
 		"coordinates": {
 			"lat": 1.43960616363191,
 			"long": 103.77010864564294
@@ -27380,7 +26984,7 @@
 	{
 		"name": "46101",
 		"wab": "false",
-		"details": "W'Lands Checkpt",
+		"details": "W'lands Checkpt",
 		"coordinates": {
 			"lat": 1.44460832436456,
 			"long": 103.76774882217022
@@ -27416,7 +27020,7 @@
 	{
 		"name": "46121",
 		"wab": "true",
-		"details": "Opp Marsiling Lane Mkt/Fc",
+		"details": "Opp Marsiling Lane Mkt/FC",
 		"coordinates": {
 			"lat": 1.44387999997343,
 			"long": 103.7764388889843
@@ -27425,7 +27029,7 @@
 	{
 		"name": "46129",
 		"wab": "true",
-		"details": "Marsiling Lane Mkt/Fc",
+		"details": "Marsiling Lane Mkt/FC",
 		"coordinates": {
 			"lat": 1.44378798401059,
 			"long": 103.77675415681387
@@ -27758,7 +27362,7 @@
 	{
 		"name": "46321",
 		"wab": "true",
-		"details": "W'Lands Civic Ctr",
+		"details": "W'lands Civic Ctr",
 		"coordinates": {
 			"lat": 1.43457763941924,
 			"long": 103.78655642033898
@@ -27767,7 +27371,7 @@
 	{
 		"name": "46329",
 		"wab": "true",
-		"details": "Opp W'Lands Civic Ctr",
+		"details": "Opp W'lands Civic Ctr",
 		"coordinates": {
 			"lat": 1.43444810854853,
 			"long": 103.78737576801932
@@ -27812,7 +27416,7 @@
 	{
 		"name": "46351",
 		"wab": "true",
-		"details": "WOODHAVEN",
+		"details": "Woodhaven",
 		"coordinates": {
 			"lat": 1.43084888887005,
 			"long": 103.78373500001297
@@ -27866,7 +27470,7 @@
 	{
 		"name": "46381",
 		"wab": "true",
-		"details": "Opp W'Lands Ind Pk D St 1",
+		"details": "Opp W'lands Ind Pk D St 1",
 		"coordinates": {
 			"lat": 1.42907427878851,
 			"long": 103.76676266569542
@@ -28352,7 +27956,7 @@
 	{
 		"name": "46669",
 		"wab": "true",
-		"details": "W'Lands Pr Sch",
+		"details": "W'lands Pr Sch",
 		"coordinates": {
 			"lat": 1.43740934044808,
 			"long": 103.79182446445486
@@ -28442,7 +28046,7 @@
 	{
 		"name": "46721",
 		"wab": "true",
-		"details": "Bef W'Lands Ind Pk E7",
+		"details": "Bef W'lands Ind Pk E7",
 		"coordinates": {
 			"lat": 1.45248916519346,
 			"long": 103.80178758846797
@@ -28451,7 +28055,7 @@
 	{
 		"name": "46729",
 		"wab": "true",
-		"details": "Aft W'Lands Ind Pk E7",
+		"details": "Aft W'lands Ind Pk E7",
 		"coordinates": {
 			"lat": 1.4521571470745,
 			"long": 103.80223070821165
@@ -28469,7 +28073,7 @@
 	{
 		"name": "46739",
 		"wab": "true",
-		"details": "BLK 782",
+		"details": "Blk 782",
 		"coordinates": {
 			"lat": 1.44847350274561,
 			"long": 103.80400338022199
@@ -28577,7 +28181,7 @@
 	{
 		"name": "46801",
 		"wab": "true",
-		"details": "Aft W'Lands Mart",
+		"details": "Aft W'lands Mart",
 		"coordinates": {
 			"lat": 1.44651205748064,
 			"long": 103.79756626316295
@@ -28586,7 +28190,7 @@
 	{
 		"name": "46809",
 		"wab": "true",
-		"details": "Opp W'Lands Mart",
+		"details": "Opp W'lands Mart",
 		"coordinates": {
 			"lat": 1.44649662319346,
 			"long": 103.79808713932866
@@ -28730,7 +28334,7 @@
 	{
 		"name": "46931",
 		"wab": "true",
-		"details": "Opp W'Lands Spectrum 1",
+		"details": "Opp W'lands Spectrum 1",
 		"coordinates": {
 			"lat": 1.45305389773625,
 			"long": 103.80789928421208
@@ -28838,7 +28442,7 @@
 	{
 		"name": "47011",
 		"wab": "true",
-		"details": "Bef W'Lands Waterfront Pk",
+		"details": "Bef W'lands Waterfront Pk",
 		"coordinates": {
 			"lat": 1.45076766255392,
 			"long": 103.77863124035153
@@ -28847,7 +28451,7 @@
 	{
 		"name": "47019",
 		"wab": "true",
-		"details": "Aft W'Lands Waterfront Pk",
+		"details": "Aft W'lands Waterfront Pk",
 		"coordinates": {
 			"lat": 1.45075155241442,
 			"long": 103.77892930711522
@@ -28892,7 +28496,7 @@
 	{
 		"name": "47041",
 		"wab": "true",
-		"details": "Opp W'Lands Auto Hub",
+		"details": "Opp W'lands Auto Hub",
 		"coordinates": {
 			"lat": 1.4525686110144,
 			"long": 103.79164305597227
@@ -28901,7 +28505,7 @@
 	{
 		"name": "47049",
 		"wab": "true",
-		"details": "W'Lands Auto Hub",
+		"details": "W'lands Auto Hub",
 		"coordinates": {
 			"lat": 1.45246524141338,
 			"long": 103.7925804884025
@@ -28910,7 +28514,7 @@
 	{
 		"name": "47051",
 		"wab": "true",
-		"details": "Aft W'Lands Ind Pk E4",
+		"details": "Aft W'lands Ind Pk E4",
 		"coordinates": {
 			"lat": 1.45449749999994,
 			"long": 103.79560277796767
@@ -28919,7 +28523,7 @@
 	{
 		"name": "47059",
 		"wab": "true",
-		"details": "Bef W'Lands Ind Pk E4",
+		"details": "Bef W'lands Ind Pk E4",
 		"coordinates": {
 			"lat": 1.45396450182247,
 			"long": 103.7954729366899
@@ -28991,7 +28595,7 @@
 	{
 		"name": "47099",
 		"wab": "true",
-		"details": "MASTERDON",
+		"details": "Masterdon",
 		"coordinates": {
 			"lat": 1.46400708429355,
 			"long": 103.80529911397457
@@ -29054,7 +28658,7 @@
 	{
 		"name": "47131",
 		"wab": "true",
-		"details": "Fuji Oil S'Pore",
+		"details": "Fuji Oil S'pore",
 		"coordinates": {
 			"lat": 1.46664224303828,
 			"long": 103.80222436305644
@@ -29063,7 +28667,7 @@
 	{
 		"name": "47141",
 		"wab": "true",
-		"details": "Bef Sc Auto",
+		"details": "Bef SC Auto",
 		"coordinates": {
 			"lat": 1.46756958848835,
 			"long": 103.80367776966509
@@ -29072,7 +28676,7 @@
 	{
 		"name": "47151",
 		"wab": "true",
-		"details": "Aft Scania S'Pore",
+		"details": "Aft Scania S'pore",
 		"coordinates": {
 			"lat": 1.46627333237122,
 			"long": 103.80397260190183
@@ -29081,7 +28685,7 @@
 	{
 		"name": "47169",
 		"wab": "true",
-		"details": "CHUAN LIM CONSTRN",
+		"details": "Chuan Lim Constrn",
 		"coordinates": {
 			"lat": 1.46092504799029,
 			"long": 103.80059733131966
@@ -29090,7 +28694,7 @@
 	{
 		"name": "47179",
 		"wab": "true",
-		"details": "Comfortdelgro Engrg",
+		"details": "ComfortDelGro Engrg",
 		"coordinates": {
 			"lat": 1.45828424831176,
 			"long": 103.79880737870576
@@ -29468,7 +29072,7 @@
 	{
 		"name": "47811",
 		"wab": "true",
-		"details": "W'Lands Sunny Food",
+		"details": "W'lands Sunny Food",
 		"coordinates": {
 			"lat": 1.46237692251291,
 			"long": 103.80898707919847
@@ -29477,7 +29081,7 @@
 	{
 		"name": "47819",
 		"wab": "true",
-		"details": "Opp W'Lands Sunny Food",
+		"details": "Opp W'lands Sunny Food",
 		"coordinates": {
 			"lat": 1.4625580134543,
 			"long": 103.81005089658552
@@ -29684,7 +29288,7 @@
 	{
 		"name": "48111",
 		"wab": "true",
-		"details": "Aft Mandai Rd",
+		"details": "Opp Bird Paradise",
 		"coordinates": {
 			"lat": 1.40944188012509,
 			"long": 103.77966346202638
@@ -29693,7 +29297,7 @@
 	{
 		"name": "48119",
 		"wab": "true",
-		"details": "Bef Mandai Rd",
+		"details": "Bird Paradise",
 		"coordinates": {
 			"lat": 1.410027,
 			"long": 103.778718
@@ -29702,7 +29306,7 @@
 	{
 		"name": "48131",
 		"wab": "true",
-		"details": "S'Pore Zoo",
+		"details": "S'pore Zoo",
 		"coordinates": {
 			"lat": 1.40462388269986,
 			"long": 103.78935694475769
@@ -29999,7 +29603,7 @@
 	{
 		"name": "49171",
 		"wab": "true",
-		"details": "OPP SHINGDA CONSTRN",
+		"details": "Opp Shingda Constrn",
 		"coordinates": {
 			"lat": 1.43471927034855,
 			"long": 103.75086631663139
@@ -30098,7 +29702,7 @@
 	{
 		"name": "50011",
 		"wab": "true",
-		"details": "Opp Parish Of Christ Ch",
+		"details": "Opp Parish of Christ Ch",
 		"coordinates": {
 			"lat": 1.31181999999518,
 			"long": 103.84719777801662
@@ -30107,7 +29711,7 @@
 	{
 		"name": "50019",
 		"wab": "true",
-		"details": "Parish Of Christ Ch",
+		"details": "Parish of Christ Ch",
 		"coordinates": {
 			"lat": 1.31194891032358,
 			"long": 103.84763856174139
@@ -30278,7 +29882,7 @@
 	{
 		"name": "50129",
 		"wab": "true",
-		"details": "Opp Tan Tock Seng Hosp",
+		"details": "Opp Natl Skin Ctr",
 		"coordinates": {
 			"lat": 1.3189880880064,
 			"long": 103.84929028517206
@@ -30404,7 +30008,7 @@
 	{
 		"name": "50231",
 		"wab": "true",
-		"details": "Northlight Sch",
+		"details": "NorthLight Sch",
 		"coordinates": {
 			"lat": 1.31872472201456,
 			"long": 103.85492583301323
@@ -30555,6 +30159,15 @@
 		}
 	},
 	{
+		"name": "51023",
+		"wab": "true",
+		"details": "After Mount Pleasant Road",
+		"coordinates": {
+			"lat": 1.331459,
+			"long": 103.838652
+		}
+	},
+	{
 		"name": "51029",
 		"wab": "true",
 		"details": "Opp Old Police Acad",
@@ -30593,7 +30206,7 @@
 	{
 		"name": "51051",
 		"wab": "true",
-		"details": "AFT ANDREW RD",
+		"details": "Aft Andrew Rd",
 		"coordinates": {
 			"lat": 1.33635352726982,
 			"long": 103.83707802024655
@@ -30602,7 +30215,7 @@
 	{
 		"name": "51059",
 		"wab": "true",
-		"details": "AFT TOA PAYOH RISE",
+		"details": "Aft Toa Payoh Rise",
 		"coordinates": {
 			"lat": 1.3370325833883,
 			"long": 103.83735019393414
@@ -30755,7 +30368,7 @@
 	{
 		"name": "52021",
 		"wab": "true",
-		"details": "OPP BLK 1004",
+		"details": "Opp Blk 1004",
 		"coordinates": {
 			"lat": 1.34431313758435,
 			"long": 103.84766088139544
@@ -30773,7 +30386,7 @@
 	{
 		"name": "52031",
 		"wab": "true",
-		"details": "OPP BLK 998",
+		"details": "Opp Blk 998",
 		"coordinates": {
 			"lat": 1.34404852974216,
 			"long": 103.85026155631283
@@ -30800,7 +30413,7 @@
 	{
 		"name": "52051",
 		"wab": "true",
-		"details": "BLK 147",
+		"details": "Blk 147",
 		"coordinates": {
 			"lat": 1.34338820709349,
 			"long": 103.85469257245785
@@ -30827,7 +30440,7 @@
 	{
 		"name": "52069",
 		"wab": "true",
-		"details": "Comfortdelgro Corp Ltd",
+		"details": "ComfortDelGro Corp Ltd",
 		"coordinates": {
 			"lat": 1.34314389988912,
 			"long": 103.85856611406128
@@ -31412,7 +31025,7 @@
 	{
 		"name": "52419",
 		"wab": "true",
-		"details": "Curtin S'pore",
+		"details": "Opp Blk 105",
 		"coordinates": {
 			"lat": 1.32803305599299,
 			"long": 103.85391750002599
@@ -31565,7 +31178,7 @@
 	{
 		"name": "53011",
 		"wab": "true",
-		"details": "ST. THERESA'S HME",
+		"details": "St. Theresa's Hme",
 		"coordinates": {
 			"lat": 1.34555351143315,
 			"long": 103.8382633553218
@@ -31574,7 +31187,7 @@
 	{
 		"name": "53019",
 		"wab": "true",
-		"details": "OPP ST. THERESA'S HME",
+		"details": "Opp St. Theresa's Hme",
 		"coordinates": {
 			"lat": 1.34600349626668,
 			"long": 103.83871779531225
@@ -31880,7 +31493,7 @@
 	{
 		"name": "53201",
 		"wab": "true",
-		"details": "Opp Nea Reg Off",
+		"details": "Opp NEA Reg Off",
 		"coordinates": {
 			"lat": 1.36128501070806,
 			"long": 103.83850250682744
@@ -31889,7 +31502,7 @@
 	{
 		"name": "53209",
 		"wab": "true",
-		"details": "Aft Nea Reg Off",
+		"details": "Aft NEA Reg Off",
 		"coordinates": {
 			"lat": 1.36099828733018,
 			"long": 103.83852670989133
@@ -31916,7 +31529,7 @@
 	{
 		"name": "53221",
 		"wab": "true",
-		"details": "BLK 115",
+		"details": "Blk 115",
 		"coordinates": {
 			"lat": 1.34816840593896,
 			"long": 103.8484543562104
@@ -31934,7 +31547,7 @@
 	{
 		"name": "53231",
 		"wab": "true",
-		"details": "BISHAN STN",
+		"details": "Bishan Stn",
 		"coordinates": {
 			"lat": 1.35089997844732,
 			"long": 103.84797987894204
@@ -31943,7 +31556,7 @@
 	{
 		"name": "53239",
 		"wab": "true",
-		"details": "OPP BISHAN STN",
+		"details": "Opp Bishan Stn",
 		"coordinates": {
 			"lat": 1.350734,
 			"long": 103.847622
@@ -31952,7 +31565,7 @@
 	{
 		"name": "53241",
 		"wab": "true",
-		"details": "OPP BLK 217",
+		"details": "Opp Blk 217",
 		"coordinates": {
 			"lat": 1.35615639153054,
 			"long": 103.84995659632311
@@ -31961,7 +31574,7 @@
 	{
 		"name": "53249",
 		"wab": "true",
-		"details": "BLK 210",
+		"details": "Blk 210",
 		"coordinates": {
 			"lat": 1.35538305217047,
 			"long": 103.84911895270494
@@ -31970,7 +31583,7 @@
 	{
 		"name": "53251",
 		"wab": "true",
-		"details": "BLK 125",
+		"details": "Blk 125",
 		"coordinates": {
 			"lat": 1.34678829540395,
 			"long": 103.85199823380812
@@ -32267,7 +31880,7 @@
 	{
 		"name": "53421",
 		"wab": "true",
-		"details": "BLK 151A MKT",
+		"details": "Blk 151A Mkt",
 		"coordinates": {
 			"lat": 1.345658889,
 			"long": 103.8553811
@@ -32384,7 +31997,7 @@
 	{
 		"name": "54079",
 		"wab": "true",
-		"details": "OPP BLK 315",
+		"details": "Opp Blk 315",
 		"coordinates": {
 			"lat": 1.36389805596869,
 			"long": 103.84585916699372
@@ -32393,7 +32006,7 @@
 	{
 		"name": "54081",
 		"wab": "true",
-		"details": "TECK GHEE CT",
+		"details": "Teck Ghee Ct",
 		"coordinates": {
 			"lat": 1.36358972199933,
 			"long": 103.84786694396756
@@ -32402,7 +32015,7 @@
 	{
 		"name": "54089",
 		"wab": "true",
-		"details": "OPP ANG MO KIO SWIM CPLX",
+		"details": "Opp Ang Mo Kio Swim Cplx",
 		"coordinates": {
 			"lat": 1.36297001065247,
 			"long": 103.8484911674186
@@ -32411,7 +32024,7 @@
 	{
 		"name": "54091",
 		"wab": "true",
-		"details": "BLK 331",
+		"details": "Blk 331",
 		"coordinates": {
 			"lat": 1.36167975047647,
 			"long": 103.85092799797833
@@ -32420,7 +32033,7 @@
 	{
 		"name": "54099",
 		"wab": "true",
-		"details": "OPP BLK 333",
+		"details": "Opp Blk 333",
 		"coordinates": {
 			"lat": 1.36118777797342,
 			"long": 103.85104805596895
@@ -32501,7 +32114,7 @@
 	{
 		"name": "54201",
 		"wab": "true",
-		"details": "OPP BLK 155",
+		"details": "Opp Blk 155",
 		"coordinates": {
 			"lat": 1.375969,
 			"long": 103.839271
@@ -32510,7 +32123,7 @@
 	{
 		"name": "54209",
 		"wab": "true",
-		"details": "BET BLKS 152/155",
+		"details": "Bet Blks 152/155",
 		"coordinates": {
 			"lat": 1.37638119735545,
 			"long": 103.83952322759048
@@ -32987,7 +32600,7 @@
 	{
 		"name": "54481",
 		"wab": "true",
-		"details": "Ite Coll Ctrl",
+		"details": "ITE Coll Ctrl",
 		"coordinates": {
 			"lat": 1.37599497932237,
 			"long": 103.855765341723
@@ -32996,7 +32609,7 @@
 	{
 		"name": "54489",
 		"wab": "true",
-		"details": "Opp Ite Coll Ctrl",
+		"details": "Opp ITE Coll Ctrl",
 		"coordinates": {
 			"lat": 1.375675,
 			"long": 103.855423
@@ -33077,7 +32690,7 @@
 	{
 		"name": "54531",
 		"wab": "true",
-		"details": "OPP BISHAN PK",
+		"details": "Opp Bishan Pk",
 		"coordinates": {
 			"lat": 1.35839974282084,
 			"long": 103.85132688003488
@@ -33086,7 +32699,7 @@
 	{
 		"name": "54539",
 		"wab": "true",
-		"details": "BISHAN PK",
+		"details": "Bishan Pk",
 		"coordinates": {
 			"lat": 1.35857111103202,
 			"long": 103.85104805599867
@@ -33167,7 +32780,7 @@
 	{
 		"name": "54611",
 		"wab": "true",
-		"details": "BLK 220",
+		"details": "Blk 220",
 		"coordinates": {
 			"lat": 1.36489470522366,
 			"long": 103.84057417396242
@@ -33176,7 +32789,7 @@
 	{
 		"name": "54619",
 		"wab": "true",
-		"details": "OPP BLK 220",
+		"details": "Opp Blk 220",
 		"coordinates": {
 			"lat": 1.36467168386173,
 			"long": 103.84050288513411
@@ -33185,7 +32798,7 @@
 	{
 		"name": "54621",
 		"wab": "true",
-		"details": "BLK 223",
+		"details": "Blk 223",
 		"coordinates": {
 			"lat": 1.36595331171712,
 			"long": 103.83773071305599
@@ -33194,7 +32807,7 @@
 	{
 		"name": "54629",
 		"wab": "true",
-		"details": "OPP BLK 223",
+		"details": "Opp Blk 223",
 		"coordinates": {
 			"lat": 1.3655880696456,
 			"long": 103.83801666007233
@@ -33266,7 +32879,7 @@
 	{
 		"name": "55021",
 		"wab": "true",
-		"details": "OPP SEASONS PK",
+		"details": "Opp Seasons Pk",
 		"coordinates": {
 			"lat": 1.3857011784032,
 			"long": 103.83872706499656
@@ -33275,7 +32888,7 @@
 	{
 		"name": "55029",
 		"wab": "true",
-		"details": "SEASONS PK",
+		"details": "Seasons Pk",
 		"coordinates": {
 			"lat": 1.38565193733046,
 			"long": 103.83917105055716
@@ -33302,7 +32915,7 @@
 	{
 		"name": "55041",
 		"wab": "true",
-		"details": "Aft Ang Mo Kio St 64",
+		"details": "Aft AMK St 64/Apple SG",
 		"coordinates": {
 			"lat": 1.39122406741106,
 			"long": 103.84602799523668
@@ -33311,7 +32924,7 @@
 	{
 		"name": "55049",
 		"wab": "true",
-		"details": "Bef Ang Mo Kio St 64",
+		"details": "Bef AMK St 64/Apple SG",
 		"coordinates": {
 			"lat": 1.39110547694961,
 			"long": 103.84659281119058
@@ -33428,7 +33041,7 @@
 	{
 		"name": "55131",
 		"wab": "true",
-		"details": "BLK 612",
+		"details": "Blk 612",
 		"coordinates": {
 			"lat": 1.37986282047018,
 			"long": 103.8396597025406
@@ -33437,7 +33050,7 @@
 	{
 		"name": "55139",
 		"wab": "true",
-		"details": "BLK 641",
+		"details": "Blk 641",
 		"coordinates": {
 			"lat": 1.37894011617745,
 			"long": 103.84007487448596
@@ -33446,7 +33059,7 @@
 	{
 		"name": "55141",
 		"wab": "true",
-		"details": "OPP BLK 622",
+		"details": "Opp Blk 622",
 		"coordinates": {
 			"lat": 1.38151305598601,
 			"long": 103.83902055596755
@@ -33455,7 +33068,7 @@
 	{
 		"name": "55149",
 		"wab": "true",
-		"details": "BLK 622",
+		"details": "Blk 622",
 		"coordinates": {
 			"lat": 1.38147638900431,
 			"long": 103.8392680559805
@@ -33482,7 +33095,7 @@
 	{
 		"name": "55169",
 		"wab": "true",
-		"details": "Opp Yio Chu Kang Cc",
+		"details": "Opp Yio Chu Kang CC",
 		"coordinates": {
 			"lat": 1.38123639226093,
 			"long": 103.84100233602071
@@ -33572,7 +33185,7 @@
 	{
 		"name": "55221",
 		"wab": "true",
-		"details": "Opp SMRT Buses AMK Depot",
+		"details": "Aft Ang Mo Kio St 62",
 		"coordinates": {
 			"lat": 1.38779002795173,
 			"long": 103.84621115886938
@@ -33581,7 +33194,7 @@
 	{
 		"name": "55229",
 		"wab": "true",
-		"details": "SMRT Buses AMK Depot",
+		"details": "Bef Ang Mo Kio St 62",
 		"coordinates": {
 			"lat": 1.38851043039698,
 			"long": 103.84591573293089
@@ -34643,7 +34256,7 @@
 	{
 		"name": "58201",
 		"wab": "true",
-		"details": "Aft Queen'S Ave",
+		"details": "Aft Queen's Ave",
 		"coordinates": {
 			"lat": 1.45531234912714,
 			"long": 103.83098996673239
@@ -34922,7 +34535,7 @@
 	{
 		"name": "58369",
 		"wab": "true",
-		"details": "BEF ACACIA HME",
+		"details": "Bef Acacia Hme",
 		"coordinates": {
 			"lat": 1.46077451756536,
 			"long": 103.81206144667213
@@ -35147,7 +34760,7 @@
 	{
 		"name": "58519",
 		"wab": "true",
-		"details": "OPP BLK 104B",
+		"details": "Opp Blk 104B",
 		"coordinates": {
 			"lat": 1.44973306,
 			"long": 103.831062
@@ -35156,7 +34769,7 @@
 	{
 		"name": "58521",
 		"wab": "true",
-		"details": "BLK 106A",
+		"details": "Blk 106A",
 		"coordinates": {
 			"lat": 1.44819389,
 			"long": 103.8326
@@ -35165,7 +34778,7 @@
 	{
 		"name": "58529",
 		"wab": "true",
-		"details": "BLK 108 CP",
+		"details": "Blk 108 CP",
 		"coordinates": {
 			"lat": 1.44801889,
 			"long": 103.832461
@@ -35174,7 +34787,7 @@
 	{
 		"name": "58531",
 		"wab": "true",
-		"details": "BLK 129A",
+		"details": "Blk 129A",
 		"coordinates": {
 			"lat": 1.44543806,
 			"long": 103.8323
@@ -35183,7 +34796,7 @@
 	{
 		"name": "58539",
 		"wab": "true",
-		"details": "BLK 120A",
+		"details": "Blk 120A",
 		"coordinates": {
 			"lat": 1.44576806,
 			"long": 103.832311
@@ -35428,8 +35041,8 @@
 		"wab": "true",
 		"details": "Yishun Stn Exit E",
 		"coordinates": {
-			"lat": 1.429383056,
-			"long": 103.8354931
+			"lat": 1.42937983869534,
+			"long": 103.8354956961933
 		}
 	},
 	{
@@ -36137,7 +35750,7 @@
 	{
 		"name": "59479",
 		"wab": "true",
-		"details": "OPP BLK 430B",
+		"details": "Opp Blk 430B",
 		"coordinates": {
 			"lat": 1.42034812354505,
 			"long": 103.84865147425622
@@ -36317,7 +35930,7 @@
 	{
 		"name": "59601",
 		"wab": "true",
-		"details": "BLK 391",
+		"details": "Blk 391",
 		"coordinates": {
 			"lat": 1.429842,
 			"long": 103.849376
@@ -36650,7 +36263,7 @@
 	{
 		"name": "60011",
 		"wab": "true",
-		"details": "BENDEMEER STN EXIT A",
+		"details": "Bendemeer Stn Exit A",
 		"coordinates": {
 			"lat": 1.31471795031338,
 			"long": 103.86376795493321
@@ -36659,7 +36272,7 @@
 	{
 		"name": "60019",
 		"wab": "true",
-		"details": "BENDEMEER STN EXIT B",
+		"details": "Bendemeer Stn Exit B",
 		"coordinates": {
 			"lat": 1.31479811892165,
 			"long": 103.86413644350252
@@ -36686,7 +36299,7 @@
 	{
 		"name": "60031",
 		"wab": "true",
-		"details": "BEF GEYLANG BAHRU STN",
+		"details": "Bef Geylang Bahru Stn",
 		"coordinates": {
 			"lat": 1.3204097072077,
 			"long": 103.87007832529532
@@ -36758,7 +36371,7 @@
 	{
 		"name": "60081",
 		"wab": "true",
-		"details": "St. Andrew'S Village",
+		"details": "St. Andrew's Village",
 		"coordinates": {
 			"lat": 1.32931226062177,
 			"long": 103.8662910461625
@@ -36767,7 +36380,7 @@
 	{
 		"name": "60089",
 		"wab": "true",
-		"details": "Opp St. Andrew'S Village",
+		"details": "Opp St. Andrew's Village",
 		"coordinates": {
 			"lat": 1.32865054961465,
 			"long": 103.86615967295366
@@ -36920,7 +36533,7 @@
 	{
 		"name": "60221",
 		"wab": "true",
-		"details": "BLK 73/GEYLANG BAHRU STN",
+		"details": "Blk 73/Geylang Bahru Stn",
 		"coordinates": {
 			"lat": 1.32212380559601,
 			"long": 103.87081431318353
@@ -37244,7 +36857,7 @@
 	{
 		"name": "62071",
 		"wab": "true",
-		"details": "BARTLEY STN EXIT A",
+		"details": "Bartley Stn Exit A",
 		"coordinates": {
 			"lat": 1.34252980960729,
 			"long": 103.88002892732668
@@ -37253,7 +36866,7 @@
 	{
 		"name": "62079",
 		"wab": "true",
-		"details": "AFT BARTLEY STN EXIT B",
+		"details": "Aft Bartley Stn Exit B",
 		"coordinates": {
 			"lat": 1.34296635529936,
 			"long": 103.87976646424752
@@ -37352,7 +36965,7 @@
 	{
 		"name": "62131",
 		"wab": "true",
-		"details": "S'Goon Stn Exit H",
+		"details": "S'goon Stn Exit H",
 		"coordinates": {
 			"lat": 1.3489790064228,
 			"long": 103.87277432797597
@@ -37361,7 +36974,7 @@
 	{
 		"name": "62139",
 		"wab": "true",
-		"details": "S'Goon Stn Exit A/Blk 413",
+		"details": "S'goon Stn Exit A/Blk 413",
 		"coordinates": {
 			"lat": 1.3490461240579,
 			"long": 103.87341165935781
@@ -37442,7 +37055,7 @@
 	{
 		"name": "62189",
 		"wab": "true",
-		"details": "S'Goon Stn Exit D/Blk 416",
+		"details": "S'goon Stn Exit D/Blk 416",
 		"coordinates": {
 			"lat": 1.35056391832311,
 			"long": 103.87470953705504
@@ -37541,7 +37154,7 @@
 	{
 		"name": "63011",
 		"wab": "true",
-		"details": "Opp Upp S'Goon Shop Ctr",
+		"details": "Opp Upp S'goon Shop Ctr",
 		"coordinates": {
 			"lat": 1.35432115760902,
 			"long": 103.87823575937183
@@ -37550,7 +37163,7 @@
 	{
 		"name": "63019",
 		"wab": "true",
-		"details": "Aft Upp S'Goon Shop Ctr",
+		"details": "Aft Upp S'goon Shop Ctr",
 		"coordinates": {
 			"lat": 1.35347964311763,
 			"long": 103.87800141702434
@@ -37721,7 +37334,7 @@
 	{
 		"name": "63131",
 		"wab": "true",
-		"details": "THE TEMBUSU",
+		"details": "The Tembusu",
 		"coordinates": {
 			"lat": 1.36120884403234,
 			"long": 103.89033109494885
@@ -37757,7 +37370,7 @@
 	{
 		"name": "63151",
 		"wab": "true",
-		"details": "Aft Upp S'Goon Rd",
+		"details": "Aft Upp S'goon Rd",
 		"coordinates": {
 			"lat": 1.35412291412202,
 			"long": 103.87758355854012
@@ -37874,7 +37487,7 @@
 	{
 		"name": "63221",
 		"wab": "true",
-		"details": "KOVAN HUB",
+		"details": "Kovan Hub",
 		"coordinates": {
 			"lat": 1.35799327947024,
 			"long": 103.8855063915276
@@ -37883,7 +37496,7 @@
 	{
 		"name": "63229",
 		"wab": "true",
-		"details": "Kovan Sports Ctr",
+		"details": "Opp Kovan Hub",
 		"coordinates": {
 			"lat": 1.35757166659958,
 			"long": 103.88511923530164
@@ -37901,7 +37514,7 @@
 	{
 		"name": "63239",
 		"wab": "true",
-		"details": "OPP BLK 211",
+		"details": "Opp Blk 211",
 		"coordinates": {
 			"lat": 1.35891911967242,
 			"long": 103.8878789953328
@@ -38108,7 +37721,7 @@
 	{
 		"name": "63361",
 		"wab": "true",
-		"details": "Opp S'Goon Sports Cplx",
+		"details": "Opp S'goon Sports Cplx",
 		"coordinates": {
 			"lat": 1.35744648841295,
 			"long": 103.87383985365209
@@ -38324,7 +37937,7 @@
 	{
 		"name": "64089",
 		"wab": "true",
-		"details": "OPP HOUGANG 1",
+		"details": "Opp Hougang 1",
 		"coordinates": {
 			"lat": 1.376101,
 			"long": 103.8802
@@ -38342,7 +37955,7 @@
 	{
 		"name": "64099",
 		"wab": "true",
-		"details": "HOUGANG SEC SCH",
+		"details": "Hougang Sec Sch",
 		"coordinates": {
 			"lat": 1.377877,
 			"long": 103.8815677
@@ -39251,7 +38864,7 @@
 	{
 		"name": "65071",
 		"wab": "true",
-		"details": "Opp Blk 103A",
+		"details": "Blk 203A",
 		"coordinates": {
 			"lat": 1.39845074063981,
 			"long": 103.90416383740006
@@ -39287,7 +38900,7 @@
 	{
 		"name": "65091",
 		"wab": "true",
-		"details": "BLK 301A",
+		"details": "Blk 301A",
 		"coordinates": {
 			"lat": 1.4039796271467,
 			"long": 103.90655641325277
@@ -39296,7 +38909,7 @@
 	{
 		"name": "65099",
 		"wab": "true",
-		"details": "BLK 604A",
+		"details": "Blk 604A",
 		"coordinates": {
 			"lat": 1.40446781720997,
 			"long": 103.90711426733175
@@ -39845,7 +39458,7 @@
 	{
 		"name": "65481",
 		"wab": "true",
-		"details": "Bef Punggol Dr",
+		"details": "Opp One Punggol",
 		"coordinates": {
 			"lat": 1.40886523796853,
 			"long": 103.90603964310132
@@ -39854,7 +39467,7 @@
 	{
 		"name": "65489",
 		"wab": "true",
-		"details": "Aft Punggol Dr",
+		"details": "One Punggol",
 		"coordinates": {
 			"lat": 1.40819500002156,
 			"long": 103.90566900789092
@@ -39953,7 +39566,7 @@
 	{
 		"name": "65561",
 		"wab": "true",
-		"details": "WATERWAY PR SCH",
+		"details": "Blk 659A",
 		"coordinates": {
 			"lat": 1.40046,
 			"long": 103.920181
@@ -39962,7 +39575,7 @@
 	{
 		"name": "65569",
 		"wab": "true",
-		"details": "OPP WATERWAY PR SCH",
+		"details": "Blk 654D",
 		"coordinates": {
 			"lat": 1.398633889,
 			"long": 103.9191989
@@ -40360,8 +39973,8 @@
 		"wab": "true",
 		"details": "Aft Chuan Gdn",
 		"coordinates": {
-			"lat": 1.361491111,
-			"long": 103.8680175
+			"lat": 1.3614922765501,
+			"long": 103.86805198859288
 		}
 	},
 	{
@@ -40502,7 +40115,7 @@
 	{
 		"name": "66261",
 		"wab": "true",
-		"details": "S'Goon Gdns Country Club",
+		"details": "S'goon Gdns Country Club",
 		"coordinates": {
 			"lat": 1.36555110748973,
 			"long": 103.86640982940798
@@ -40628,7 +40241,7 @@
 	{
 		"name": "66359",
 		"wab": "true",
-		"details": "S'Goon Stn Exit C/Blk 201",
+		"details": "S'goon Stn Exit C/Blk 201",
 		"coordinates": {
 			"lat": 1.35080698547823,
 			"long": 103.87328604946424
@@ -40673,7 +40286,7 @@
 	{
 		"name": "66381",
 		"wab": "true",
-		"details": "Opp S'Goon Stn Exit F",
+		"details": "Opp S'goon Stn Exit F",
 		"coordinates": {
 			"lat": 1.35020472222222,
 			"long": 103.8712252777778
@@ -40682,7 +40295,7 @@
 	{
 		"name": "66389",
 		"wab": "true",
-		"details": "S'Goon Stn Exit F",
+		"details": "S'goon Stn Exit F",
 		"coordinates": {
 			"lat": 1.35092163758707,
 			"long": 103.8710690514159
@@ -40936,8 +40549,8 @@
 		"wab": "true",
 		"details": "Opp Blk 980C",
 		"coordinates": {
-			"lat": 1.38029830580566,
-			"long": 103.88167284722846
+			"lat": 1.380303,
+			"long": 103.881667
 		}
 	},
 	{
@@ -40945,8 +40558,8 @@
 		"wab": "true",
 		"details": "Blk 984",
 		"coordinates": {
-			"lat": 1.38172660405235,
-			"long": 103.88144339399805
+			"lat": 1.381721,
+			"long": 103.881438
 		}
 	},
 	{
@@ -40970,16 +40583,16 @@
 	{
 		"name": "66569",
 		"wab": "true",
-		"details": "OPP BLK 991B",
+		"details": "Opp Blk 991B",
 		"coordinates": {
-			"lat": 1.383159,
-			"long": 103.882572
+			"lat": 1.3832675,
+			"long": 103.882622
 		}
 	},
 	{
 		"name": "66571",
 		"wab": "true",
-		"details": "Opp Blk 998B",
+		"details": "Buangkok Sq",
 		"coordinates": {
 			"lat": 1.384484444,
 			"long": 103.8813056
@@ -40988,7 +40601,7 @@
 	{
 		"name": "66579",
 		"wab": "true",
-		"details": "BLK 998B",
+		"details": "Blk 998B",
 		"coordinates": {
 			"lat": 1.38402973472559,
 			"long": 103.88070409002009
@@ -41015,7 +40628,7 @@
 	{
 		"name": "66599",
 		"wab": "true",
-		"details": "KLA Tencor",
+		"details": "KLA Corporation",
 		"coordinates": {
 			"lat": 1.37284849802167,
 			"long": 103.868436813377
@@ -41222,7 +40835,7 @@
 	{
 		"name": "67111",
 		"wab": "true",
-		"details": "Chij St. Joseph'S Convent",
+		"details": "CHIJ St. Joseph's Convent",
 		"coordinates": {
 			"lat": 1.39105369405739,
 			"long": 103.90237246307768
@@ -42149,7 +41762,7 @@
 	{
 		"name": "67641",
 		"wab": "true",
-		"details": "BEF ANCHORVALE ST",
+		"details": "Bef Anchorvale St",
 		"coordinates": {
 			"lat": 1.398044,
 			"long": 103.8934405
@@ -42158,7 +41771,7 @@
 	{
 		"name": "67649",
 		"wab": "true",
-		"details": "AFT ANCHORVALE ST",
+		"details": "Aft Anchorvale St",
 		"coordinates": {
 			"lat": 1.398051,
 			"long": 103.8933425
@@ -42203,7 +41816,7 @@
 	{
 		"name": "67691",
 		"wab": "true",
-		"details": "BLK 338A",
+		"details": "Blk 338A",
 		"coordinates": {
 			"lat": 1.39899,
 			"long": 103.8887775
@@ -42212,7 +41825,7 @@
 	{
 		"name": "67699",
 		"wab": "true",
-		"details": "BLK 334A",
+		"details": "Blk 334A",
 		"coordinates": {
 			"lat": 1.3988295,
 			"long": 103.889524
@@ -42221,7 +41834,7 @@
 	{
 		"name": "67701",
 		"wab": "true",
-		"details": "AFT BLK 467B",
+		"details": "Aft Blk 467B",
 		"coordinates": {
 			"lat": 1.3984935,
 			"long": 103.877445
@@ -42293,7 +41906,7 @@
 	{
 		"name": "67759",
 		"wab": "true",
-		"details": "COMPASSVALE INT",
+		"details": "Compassvale Int",
 		"coordinates": {
 			"lat": 1.39129522332876,
 			"long": 103.89720218513328
@@ -42302,7 +41915,7 @@
 	{
 		"name": "67761",
 		"wab": "true",
-		"details": "OPP BLK 326D",
+		"details": "Opp Blk 326D",
 		"coordinates": {
 			"lat": 1.396006,
 			"long": 103.887595
@@ -42311,7 +41924,7 @@
 	{
 		"name": "67769",
 		"wab": "true",
-		"details": "BLK 326D",
+		"details": "Blk 326D",
 		"coordinates": {
 			"lat": 1.39607378603056,
 			"long": 103.88766378607079
@@ -42437,7 +42050,7 @@
 	{
 		"name": "68081",
 		"wab": "true",
-		"details": "Bef Seletar A'Space Rise",
+		"details": "Bef Seletar A'space Rise",
 		"coordinates": {
 			"lat": 1.40559323576727,
 			"long": 103.86681241814273
@@ -42446,7 +42059,7 @@
 	{
 		"name": "68089",
 		"wab": "true",
-		"details": "Aft Seletar A'Space Rise",
+		"details": "Aft Seletar A'space Rise",
 		"coordinates": {
 			"lat": 1.40570196065228,
 			"long": 103.86666745163518
@@ -42581,7 +42194,7 @@
 	{
 		"name": "68161",
 		"wab": "true",
-		"details": "Aft Seletar A'Space Lane",
+		"details": "Aft Seletar A'space Lane",
 		"coordinates": {
 			"lat": 1.41076903489058,
 			"long": 103.86179481507453
@@ -42590,7 +42203,7 @@
 	{
 		"name": "68169",
 		"wab": "true",
-		"details": "Bef Seletar A'Space Lane",
+		"details": "Bef Seletar A'space Lane",
 		"coordinates": {
 			"lat": 1.4107138403801,
 			"long": 103.86188409763393
@@ -42941,7 +42554,7 @@
 	{
 		"name": "70161",
 		"wab": "true",
-		"details": "OPP MATTAR STN EXIT A",
+		"details": "Opp Mattar Stn Exit A",
 		"coordinates": {
 			"lat": 1.32758635490072,
 			"long": 103.88324806418214
@@ -42968,7 +42581,7 @@
 	{
 		"name": "70191",
 		"wab": "true",
-		"details": "OPP BLK 66",
+		"details": "Opp Blk 66",
 		"coordinates": {
 			"lat": 1.327333,
 			"long": 103.887875
@@ -42977,7 +42590,7 @@
 	{
 		"name": "70201",
 		"wab": "true",
-		"details": "OPP MACPHERSON STN EXIT D",
+		"details": "Opp MacPherson Stn Exit D",
 		"coordinates": {
 			"lat": 1.32461138902969,
 			"long": 103.88885416699938
@@ -43004,7 +42617,7 @@
 	{
 		"name": "70231",
 		"wab": "true",
-		"details": "OPP MATTAR STN EXIT B",
+		"details": "Opp Mattar Stn Exit B",
 		"coordinates": {
 			"lat": 1.325842,
 			"long": 103.884002
@@ -43022,7 +42635,7 @@
 	{
 		"name": "70251",
 		"wab": "true",
-		"details": "Macpherson Stn Exit C",
+		"details": "MacPherson Stn Exit C",
 		"coordinates": {
 			"lat": 1.32497158481981,
 			"long": 103.89037074589527
@@ -43031,7 +42644,7 @@
 	{
 		"name": "70259",
 		"wab": "true",
-		"details": "Macpherson Stn Exit B",
+		"details": "MacPherson Stn Exit B",
 		"coordinates": {
 			"lat": 1.32498730068675,
 			"long": 103.89080428753108
@@ -43202,7 +42815,7 @@
 	{
 		"name": "70371",
 		"wab": "true",
-		"details": "Macpherson Stn Exit A",
+		"details": "MacPherson Stn Exit A",
 		"coordinates": {
 			"lat": 1.32623288866609,
 			"long": 103.88932330108935
@@ -43211,7 +42824,7 @@
 	{
 		"name": "70379",
 		"wab": "true",
-		"details": "Opp Macpherson Stn Exit A",
+		"details": "Opp MacPherson Stn Exit A",
 		"coordinates": {
 			"lat": 1.32604294133609,
 			"long": 103.88933975894
@@ -43220,7 +42833,7 @@
 	{
 		"name": "70401",
 		"wab": "true",
-		"details": "BEF UBI RD 4",
+		"details": "Bef Ubi Rd 4",
 		"coordinates": {
 			"lat": 1.33088230075978,
 			"long": 103.89811560002391
@@ -43229,7 +42842,7 @@
 	{
 		"name": "70409",
 		"wab": "true",
-		"details": "BLK 3032A",
+		"details": "Blk 3032A",
 		"coordinates": {
 			"lat": 1.33094654621155,
 			"long": 103.89789906902672
@@ -43418,7 +43031,7 @@
 	{
 		"name": "71121",
 		"wab": "true",
-		"details": "UBI STN EXIT B",
+		"details": "Ubi Stn Exit B",
 		"coordinates": {
 			"lat": 1.330081111,
 			"long": 103.8994169
@@ -43427,7 +43040,7 @@
 	{
 		"name": "71129",
 		"wab": "true",
-		"details": "UBI STN EXIT A",
+		"details": "Ubi Stn Exit A",
 		"coordinates": {
 			"lat": 1.329761944,
 			"long": 103.8991489
@@ -43607,7 +43220,7 @@
 	{
 		"name": "71291",
 		"wab": "true",
-		"details": "THE LEO",
+		"details": "The Leo",
 		"coordinates": {
 			"lat": 1.33709007875103,
 			"long": 103.90374749997088
@@ -43616,7 +43229,7 @@
 	{
 		"name": "71299",
 		"wab": "true",
-		"details": "EMPIRE TECHNOCENTRE",
+		"details": "Empire Technocentre",
 		"coordinates": {
 			"lat": 1.33675693078428,
 			"long": 103.9040176205713
@@ -43679,7 +43292,7 @@
 	{
 		"name": "72031",
 		"wab": "true",
-		"details": "BEF KAKI BT STN EXIT B",
+		"details": "Bef Kaki Bt Stn Exit B",
 		"coordinates": {
 			"lat": 1.33521859078695,
 			"long": 103.9099203114682
@@ -43688,7 +43301,7 @@
 	{
 		"name": "72039",
 		"wab": "true",
-		"details": "KAKI BT STN EXIT A",
+		"details": "Kaki Bt Stn Exit A",
 		"coordinates": {
 			"lat": 1.33546648279458,
 			"long": 103.90985114690736
@@ -43769,7 +43382,7 @@
 	{
 		"name": "72131",
 		"wab": "true",
-		"details": "OPP TECH VIEW",
+		"details": "Opp Tech View",
 		"coordinates": {
 			"lat": 1.33791126455323,
 			"long": 103.90994099232343
@@ -43778,7 +43391,7 @@
 	{
 		"name": "72139",
 		"wab": "true",
-		"details": "TECH VIEW",
+		"details": "Tech View",
 		"coordinates": {
 			"lat": 1.337282,
 			"long": 103.909145
@@ -43787,7 +43400,7 @@
 	{
 		"name": "72141",
 		"wab": "true",
-		"details": "BARTLEY BIZ CTR",
+		"details": "Bartley Biz Ctr",
 		"coordinates": {
 			"lat": 1.33860729777301,
 			"long": 103.91150189998882
@@ -43796,7 +43409,7 @@
 	{
 		"name": "72149",
 		"wab": "true",
-		"details": "SHUN LI IND PK",
+		"details": "Shun Li Ind Pk",
 		"coordinates": {
 			"lat": 1.33834674682355,
 			"long": 103.91170534393189
@@ -43805,7 +43418,7 @@
 	{
 		"name": "72151",
 		"wab": "true",
-		"details": "AUTOBAY @ KAKI BT",
+		"details": "Autobay @ Kaki Bt",
 		"coordinates": {
 			"lat": 1.34084789558521,
 			"long": 103.91301810001244
@@ -43814,7 +43427,7 @@
 	{
 		"name": "72159",
 		"wab": "true",
-		"details": "OPP AUTOBAY @ KAKI BT",
+		"details": "Opp Autobay @ Kaki Bt",
 		"coordinates": {
 			"lat": 1.340359,
 			"long": 103.912709
@@ -43823,7 +43436,7 @@
 	{
 		"name": "72161",
 		"wab": "true",
-		"details": "AFT BARTLEY VIADUCT",
+		"details": "Aft Bartley Viaduct",
 		"coordinates": {
 			"lat": 1.34114935376337,
 			"long": 103.916355499978
@@ -43832,7 +43445,7 @@
 	{
 		"name": "72169",
 		"wab": "true",
-		"details": "BEF BARTLEY VIADUCT",
+		"details": "Bef Bartley Viaduct",
 		"coordinates": {
 			"lat": 1.34105,
 			"long": 103.916208
@@ -43967,7 +43580,7 @@
 	{
 		"name": "74031",
 		"wab": "true",
-		"details": "Bef Tampines Lk",
+		"details": "Bef Tampines Ik",
 		"coordinates": {
 			"lat": 1.367627,
 			"long": 103.925697
@@ -44030,7 +43643,7 @@
 	{
 		"name": "75021",
 		"wab": "true",
-		"details": "BLK 879B",
+		"details": "Blk 879B",
 		"coordinates": {
 			"lat": 1.35168445182114,
 			"long": 103.92851745350569
@@ -44057,7 +43670,7 @@
 	{
 		"name": "75051",
 		"wab": "true",
-		"details": "TAMPINES WEST STN EXIT B",
+		"details": "Tampines West Stn Exit B",
 		"coordinates": {
 			"lat": 1.34503394154132,
 			"long": 103.94008153173421
@@ -44066,7 +43679,7 @@
 	{
 		"name": "75059",
 		"wab": "true",
-		"details": "BEF TAMPINES WEST STN",
+		"details": "Bef Tampines West Stn",
 		"coordinates": {
 			"lat": 1.34471168546511,
 			"long": 103.9402168928283
@@ -44552,7 +44165,7 @@
 	{
 		"name": "75381",
 		"wab": "true",
-		"details": "T5@TAMPINES",
+		"details": "T5@Tampines",
 		"coordinates": {
 			"lat": 1.373188889,
 			"long": 103.9266
@@ -44561,7 +44174,7 @@
 	{
 		"name": "75391",
 		"wab": "true",
-		"details": "OPP SILTRONIC",
+		"details": "Opp Siltronic",
 		"coordinates": {
 			"lat": 1.37507,
 			"long": 103.9213
@@ -44570,37 +44183,37 @@
 	{
 		"name": "75401",
 		"wab": "true",
-		"details": "AFT TAMPINES AVE 1",
+		"details": "Aft Tampines Ave 1",
 		"coordinates": {
-			"lat": 1.3517582770335,
-			"long": 103.92671414169045
+			"lat": 1.3517585,
+			"long": 103.926714
 		}
 	},
 	{
 		"name": "75409",
 		"wab": "true",
-		"details": "THE SANTORINI",
+		"details": "The Santorini",
 		"coordinates": {
-			"lat": 1.35220181029011,
-			"long": 103.92724068972525
+			"lat": 1.352203,
+			"long": 103.9272395
 		}
 	},
 	{
 		"name": "75411",
 		"wab": "true",
-		"details": "BEF TAMPINES FIRE STN",
+		"details": "Bef Tampines Fire Stn",
 		"coordinates": {
-			"lat": 1.35607656836954,
-			"long": 103.92905500001906
+			"lat": 1.356078,
+			"long": 103.929055
 		}
 	},
 	{
 		"name": "75419",
 		"wab": "true",
-		"details": "AFT TAMPINES AVE 5",
+		"details": "Aft Tampines Ave 5",
 		"coordinates": {
-			"lat": 1.35575831547919,
-			"long": 103.92918587034406
+			"lat": 1.355758,
+			"long": 103.929187
 		}
 	},
 	{
@@ -44822,7 +44435,7 @@
 	{
 		"name": "76031",
 		"wab": "true",
-		"details": "TAMPINES EAST STN EXIT B",
+		"details": "Tampines East Stn Exit B",
 		"coordinates": {
 			"lat": 1.35507956918888,
 			"long": 103.95529781026745
@@ -44831,7 +44444,7 @@
 	{
 		"name": "76039",
 		"wab": "true",
-		"details": "TAMPINES EAST STN EXIT C",
+		"details": "Tampines East Stn Exit C",
 		"coordinates": {
 			"lat": 1.35506418976437,
 			"long": 103.9555498102644
@@ -44840,7 +44453,7 @@
 	{
 		"name": "76041",
 		"wab": "true",
-		"details": "BLK 842C",
+		"details": "Blk 842C",
 		"coordinates": {
 			"lat": 1.35122178461773,
 			"long": 103.9365069000221
@@ -44849,7 +44462,7 @@
 	{
 		"name": "76049",
 		"wab": "true",
-		"details": "OPP BLK 842C",
+		"details": "Opp Blk 842C",
 		"coordinates": {
 			"lat": 1.35118252345739,
 			"long": 103.93633200959248
@@ -45110,7 +44723,7 @@
 	{
 		"name": "76191",
 		"wab": "true",
-		"details": "BLK 401",
+		"details": "Blk 401",
 		"coordinates": {
 			"lat": 1.3569438864901,
 			"long": 103.94477445426702
@@ -45119,7 +44732,7 @@
 	{
 		"name": "76199",
 		"wab": "true",
-		"details": "BLK 503",
+		"details": "Blk 503",
 		"coordinates": {
 			"lat": 1.35660016333768,
 			"long": 103.94535428432116
@@ -45164,7 +44777,7 @@
 	{
 		"name": "76221",
 		"wab": "true",
-		"details": "TAMPINES EAST STN EXIT A",
+		"details": "Tampines East Stn Exit A",
 		"coordinates": {
 			"lat": 1.3563896244901,
 			"long": 103.95390226733993
@@ -45173,7 +44786,7 @@
 	{
 		"name": "76229",
 		"wab": "true",
-		"details": "OPP TAMPINES EAST STN",
+		"details": "Opp Tampines East Stn",
 		"coordinates": {
 			"lat": 1.35614001051089,
 			"long": 103.95353851635838
@@ -45335,7 +44948,7 @@
 	{
 		"name": "76339",
 		"wab": "true",
-		"details": "Opp Tampines Changkat Cc",
+		"details": "Opp Tampines Changkat CC",
 		"coordinates": {
 			"lat": 1.34547166699324,
 			"long": 103.94698416699394
@@ -45497,7 +45110,7 @@
 	{
 		"name": "76441",
 		"wab": "true",
-		"details": "OPP BLK 345",
+		"details": "Opp Blk 345",
 		"coordinates": {
 			"lat": 1.35219503409437,
 			"long": 103.96105194447786
@@ -45515,7 +45128,7 @@
 	{
 		"name": "76451",
 		"wab": "true",
-		"details": "BLK 324",
+		"details": "Blk 324",
 		"coordinates": {
 			"lat": 1.35220340979899,
 			"long": 103.95928609997816
@@ -45551,7 +45164,7 @@
 	{
 		"name": "76471",
 		"wab": "true",
-		"details": "BLK 444",
+		"details": "Blk 444",
 		"coordinates": {
 			"lat": 1.35855302099722,
 			"long": 103.95134500001934
@@ -45569,7 +45182,7 @@
 	{
 		"name": "76519",
 		"wab": "true",
-		"details": "BET BLKS 524B/523D",
+		"details": "Bet Blks 524B/523D",
 		"coordinates": {
 			"lat": 1.35920624506603,
 			"long": 103.93921870101352
@@ -45578,7 +45191,7 @@
 	{
 		"name": "76521",
 		"wab": "true",
-		"details": "OPP BLK 519A",
+		"details": "Opp Blk 519A",
 		"coordinates": {
 			"lat": 1.357468889,
 			"long": 103.940775
@@ -45587,7 +45200,7 @@
 	{
 		"name": "76529",
 		"wab": "true",
-		"details": "BLK 519A",
+		"details": "Blk 519A",
 		"coordinates": {
 			"lat": 1.35741,
 			"long": 103.940604
@@ -45614,7 +45227,7 @@
 	{
 		"name": "76551",
 		"wab": "true",
-		"details": "TAMPINES STN EXIT D",
+		"details": "Tampines Stn Exit D",
 		"coordinates": {
 			"lat": 1.355401,
 			"long": 103.943599
@@ -45623,7 +45236,7 @@
 	{
 		"name": "76559",
 		"wab": "true",
-		"details": "AFT TAMPINES STN EXIT E",
+		"details": "Aft Tampines Stn Exit E",
 		"coordinates": {
 			"lat": 1.355625,
 			"long": 103.943569
@@ -46685,7 +46298,7 @@
 	{
 		"name": "80011",
 		"wab": "true",
-		"details": "AFT PADANG JERINGAU",
+		"details": "Aft Padang Jeringau",
 		"coordinates": {
 			"lat": 1.30972720802554,
 			"long": 103.86737828692955
@@ -47270,7 +46883,7 @@
 	{
 		"name": "81161",
 		"wab": "true",
-		"details": "blk 56",
+		"details": "Blk 56",
 		"coordinates": {
 			"lat": 1.31054638768125,
 			"long": 103.88318148792811
@@ -47324,7 +46937,7 @@
 	{
 		"name": "81191",
 		"wab": "true",
-		"details": "AFT OLD AIRPORT RD",
+		"details": "Aft Old Airport Rd",
 		"coordinates": {
 			"lat": 1.30913166702397,
 			"long": 103.89180000002517
@@ -47333,7 +46946,7 @@
 	{
 		"name": "81199",
 		"wab": "true",
-		"details": "BEF OLD AIRPORT RD",
+		"details": "Bef Old Airport Rd",
 		"coordinates": {
 			"lat": 1.30862937328019,
 			"long": 103.8906311270188
@@ -47396,7 +47009,7 @@
 	{
 		"name": "81231",
 		"wab": "true",
-		"details": "Opp Kh Plaza",
+		"details": "Opp KH Plaza",
 		"coordinates": {
 			"lat": 1.31389305598354,
 			"long": 103.88189611100506
@@ -47531,7 +47144,7 @@
 	{
 		"name": "82091",
 		"wab": "true",
-		"details": "Aft Queen Of Peace Ch",
+		"details": "Aft Queen of Peace Ch",
 		"coordinates": {
 			"lat": 1.31264667096781,
 			"long": 103.89411050584133
@@ -48332,7 +47945,7 @@
 	{
 		"name": "84079",
 		"wab": "true",
-		"details": "Siglap Cc/Opp Blk 71",
+		"details": "Siglap CC/Opp Blk 71",
 		"coordinates": {
 			"lat": 1.32099303797206,
 			"long": 103.94325305782594
@@ -48359,7 +47972,7 @@
 	{
 		"name": "84101",
 		"wab": "true",
-		"details": "Opp Blk 49",
+		"details": "ECO Condo",
 		"coordinates": {
 			"lat": 1.32298200464523,
 			"long": 103.94421518494586
@@ -48368,7 +47981,7 @@
 	{
 		"name": "84109",
 		"wab": "true",
-		"details": "Blk 50",
+		"details": "Bef Bedok View Sec Sch",
 		"coordinates": {
 			"lat": 1.32350836424044,
 			"long": 103.9441209521673
@@ -48431,7 +48044,7 @@
 	{
 		"name": "84141",
 		"wab": "true",
-		"details": "OPP LION HME FOR ELDERS",
+		"details": "Opp Lion Hme for Elders",
 		"coordinates": {
 			"lat": 1.32021707852141,
 			"long": 103.93816948878941
@@ -48440,7 +48053,7 @@
 	{
 		"name": "84149",
 		"wab": "true",
-		"details": "LION HME FOR ELDERS",
+		"details": "Lion Hme For Elders",
 		"coordinates": {
 			"lat": 1.32047933475714,
 			"long": 103.93839375752798
@@ -48503,7 +48116,7 @@
 	{
 		"name": "84201",
 		"wab": "true",
-		"details": "BEDOK RESVR STN EXIT A",
+		"details": "Bedok Resvr Stn Exit A",
 		"coordinates": {
 			"lat": 1.33660054449421,
 			"long": 103.93309401156243
@@ -48917,7 +48530,7 @@
 	{
 		"name": "84451",
 		"wab": "true",
-		"details": "BEDOK NTH STN EXIT A",
+		"details": "Bedok Nth Stn Exit A",
 		"coordinates": {
 			"lat": 1.335644,
 			"long": 103.918055
@@ -49043,7 +48656,7 @@
 	{
 		"name": "84539",
 		"wab": "true",
-		"details": "BEDOK NTH STN EXIT B",
+		"details": "Bedok Nth Stn Exit B",
 		"coordinates": {
 			"lat": 1.3350342184363,
 			"long": 103.91851751540032
@@ -49070,7 +48683,7 @@
 	{
 		"name": "84551",
 		"wab": "true",
-		"details": "BLK 51",
+		"details": "Blk 51",
 		"coordinates": {
 			"lat": 1.32853887137542,
 			"long": 103.9225201285922
@@ -49088,7 +48701,7 @@
 	{
 		"name": "84561",
 		"wab": "true",
-		"details": "BLK 53",
+		"details": "Blk 53",
 		"coordinates": {
 			"lat": 1.32804725721627,
 			"long": 103.91973825722668
@@ -49106,7 +48719,7 @@
 	{
 		"name": "84571",
 		"wab": "true",
-		"details": "OPP BLK 55",
+		"details": "Opp Blk 55",
 		"coordinates": {
 			"lat": 1.32653228537615,
 			"long": 103.9187401751097
@@ -49531,8 +49144,8 @@
 		"wab": "true",
 		"details": "Pebble Bay",
 		"coordinates": {
-			"lat": 1.297235556,
-			"long": 103.8710544
+			"lat": 1.29723536717542,
+			"long": 103.8710587860504
 		}
 	},
 	{
@@ -49547,7 +49160,7 @@
 	{
 		"name": "90031",
 		"wab": "true",
-		"details": "Tg Ria Condo",
+		"details": "Camelot By-The-Water",
 		"coordinates": {
 			"lat": 1.29656022698907,
 			"long": 103.87500520610656
@@ -49556,7 +49169,7 @@
 	{
 		"name": "90039",
 		"wab": "true",
-		"details": "Opp Tg Ria Condo",
+		"details": "Opp Camelot By-The-Water",
 		"coordinates": {
 			"lat": 1.29663305723862,
 			"long": 103.87539308856654
@@ -49567,8 +49180,8 @@
 		"wab": "true",
 		"details": "Opp S'pore Swim Club",
 		"coordinates": {
-			"lat": 1.297659444,
-			"long": 103.8791731
+			"lat": 1.29771026847584,
+			"long": 103.87916708447622
 		}
 	},
 	{
@@ -49576,8 +49189,8 @@
 		"wab": "true",
 		"details": "S'pore Swim Club",
 		"coordinates": {
-			"lat": 1.297578611,
-			"long": 103.8791081
+			"lat": 1.29756473789566,
+			"long": 103.87911453017094
 		}
 	},
 	{
@@ -49585,8 +49198,8 @@
 		"wab": "true",
 		"details": "Dunman High Sch",
 		"coordinates": {
-			"lat": 1.2981225,
-			"long": 103.8824094
+			"lat": 1.29812421479672,
+			"long": 103.88241235160253
 		}
 	},
 	{
@@ -49738,8 +49351,8 @@
 		"wab": "true",
 		"details": "Opp Parkway Parade",
 		"coordinates": {
-			"lat": 1.30327282994495,
-			"long": 103.90583013375219
+			"lat": 1.30266269062521,
+			"long": 103.90495998583631
 		}
 	},
 	{
@@ -49882,8 +49495,8 @@
 		"wab": "true",
 		"details": "Opp The Holy Family Ch",
 		"coordinates": {
-			"lat": 1.30722207111074,
-			"long": 103.90676515165585
+			"lat": 1.307203333,
+			"long": 103.9067761
 		}
 	},
 	{
@@ -49891,8 +49504,8 @@
 		"wab": "true",
 		"details": "The Holy Family Ch",
 		"coordinates": {
-			"lat": 1.30686400495083,
-			"long": 103.90646134135645
+			"lat": 1.306954444,
+			"long": 103.9064278
 		}
 	},
 	{
@@ -49916,7 +49529,7 @@
 	{
 		"name": "92141",
 		"wab": "true",
-		"details": "Nafa Arts Kindergarten",
+		"details": "NAFA Arts Kindergarten",
 		"coordinates": {
 			"lat": 1.30939538245506,
 			"long": 103.91428724575974
@@ -49943,7 +49556,7 @@
 	{
 		"name": "92159",
 		"wab": "true",
-		"details": "ST. PATRICK'S SCH",
+		"details": "St. Patrick's Sch",
 		"coordinates": {
 			"lat": 1.309748,
 			"long": 103.9166295
@@ -50645,7 +50258,7 @@
 	{
 		"name": "94089",
 		"wab": "true",
-		"details": "Calvary Ably Of God Ch",
+		"details": "Calvary Ably of God Ch",
 		"coordinates": {
 			"lat": 1.31536333302999,
 			"long": 103.94294138900047
@@ -50663,7 +50276,7 @@
 	{
 		"name": "95011",
 		"wab": "true",
-		"details": "Bef Changi Airport PTB3",
+		"details": "Aft Aircraft Flyover",
 		"coordinates": {
 			"lat": 1.34719486317101,
 			"long": 103.98406055558529
@@ -50690,7 +50303,7 @@
 	{
 		"name": "95039",
 		"wab": "true",
-		"details": "Airfreight Ter Bldg",
+		"details": "AirFreight Ter Bldg",
 		"coordinates": {
 			"lat": 1.37218943783154,
 			"long": 103.99457879033221
@@ -50827,8 +50440,8 @@
 		"wab": "true",
 		"details": "Police Pass Off",
 		"coordinates": {
-			"lat": 1.38557240860116,
-			"long": 103.99899787539849
+			"lat": 1.386355278,
+			"long": 103.9995783
 		}
 	},
 	{
@@ -50933,7 +50546,7 @@
 	{
 		"name": "95209",
 		"wab": "true",
-		"details": "CHANGI AIRPORT PTB4",
+		"details": "Changi Airport PTB4",
 		"coordinates": {
 			"lat": 1.33899412275069,
 			"long": 103.98206408704047
@@ -51016,14 +50629,14 @@
 		"wab": "true",
 		"details": "Upp Changi Stn/Opp SUTD",
 		"coordinates": {
-			"lat": 1.34155179676505,
-			"long": 103.96123674713529
+			"lat": 1.33995375346513,
+			"long": 103.96079768187379
 		}
 	},
 	{
 		"name": "96049",
 		"wab": "true",
-		"details": "UPP CHANGI STN/SUTD",
+		"details": "Upp Changi Stn/SUTD",
 		"coordinates": {
 			"lat": 1.3408744614671,
 			"long": 103.96143293297968
@@ -51365,7 +50978,7 @@
 	{
 		"name": "96241",
 		"wab": "true",
-		"details": "LAGUNA NATL COUNTRY CLUB",
+		"details": "Laguna Natl Country Club",
 		"coordinates": {
 			"lat": 1.32746975992942,
 			"long": 103.96702744644506
@@ -51464,7 +51077,7 @@
 	{
 		"name": "96301",
 		"wab": "true",
-		"details": "EXPO STN EXIT B",
+		"details": "Expo Stn Exit B",
 		"coordinates": {
 			"lat": 1.33450022538919,
 			"long": 103.9617438259165
@@ -51473,7 +51086,7 @@
 	{
 		"name": "96309",
 		"wab": "true",
-		"details": "EXPO STN EXIT E",
+		"details": "Expo Stn Exit E",
 		"coordinates": {
 			"lat": 1.33427655612286,
 			"long": 103.96175810276951
@@ -51482,7 +51095,7 @@
 	{
 		"name": "96311",
 		"wab": "true",
-		"details": "BEF CHANGI STH ST 2",
+		"details": "Bef Changi Sth St 2",
 		"coordinates": {
 			"lat": 1.3329118846906,
 			"long": 103.9607070021467
@@ -51554,7 +51167,7 @@
 	{
 		"name": "96371",
 		"wab": "true",
-		"details": "STANDARD CHARTERED BANK",
+		"details": "Standard Chartered Bank",
 		"coordinates": {
 			"lat": 1.33433369984263,
 			"long": 103.9664670131305
@@ -51617,7 +51230,7 @@
 	{
 		"name": "96421",
 		"wab": "true",
-		"details": "OPP CHANGI LODGE 2",
+		"details": "Opp Changi Lodge 2",
 		"coordinates": {
 			"lat": 1.313621111,
 			"long": 103.99655
@@ -51626,7 +51239,7 @@
 	{
 		"name": "96429",
 		"wab": "true",
-		"details": "CHANGI LODGE 2",
+		"details": "Changi Lodge 2",
 		"coordinates": {
 			"lat": 1.313721111,
 			"long": 103.9953811
@@ -51635,7 +51248,7 @@
 	{
 		"name": "96431",
 		"wab": "true",
-		"details": "OPP CHANGI NAVAL BASE",
+		"details": "Opp Changi Naval Base",
 		"coordinates": {
 			"lat": 1.318286944,
 			"long": 104.0152631
@@ -51644,7 +51257,7 @@
 	{
 		"name": "96439",
 		"wab": "true",
-		"details": "CHANGI NAVAL BASE",
+		"details": "Changi Naval Base",
 		"coordinates": {
 			"lat": 1.317708,
 			"long": 104.015614
@@ -51653,7 +51266,7 @@
 	{
 		"name": "96441",
 		"wab": "true",
-		"details": "OPP SUTD",
+		"details": "Opp SUTD",
 		"coordinates": {
 			"lat": 1.33954269927544,
 			"long": 103.96290652054516
@@ -51932,7 +51545,7 @@
 	{
 		"name": "97159",
 		"wab": "true",
-		"details": "Bef Vicom",
+		"details": "Bef VICOM",
 		"coordinates": {
 			"lat": 1.35028972565622,
 			"long": 103.96769101118204
@@ -52193,7 +51806,7 @@
 	{
 		"name": "98111",
 		"wab": "true",
-		"details": "BLK 256/OPP LOYANG PT",
+		"details": "Blk 256/Opp Loyang Pt",
 		"coordinates": {
 			"lat": 1.36733773244319,
 			"long": 103.96424470880473
@@ -52400,7 +52013,7 @@
 	{
 		"name": "99011",
 		"wab": "true",
-		"details": "Bef Sch Of Commando",
+		"details": "Bef Sch of Commando",
 		"coordinates": {
 			"lat": 1.38328110134472,
 			"long": 103.97812168830427
@@ -52409,7 +52022,7 @@
 	{
 		"name": "99019",
 		"wab": "true",
-		"details": "Aft Sch Of Commando",
+		"details": "Aft Sch of Commando",
 		"coordinates": {
 			"lat": 1.3837089764569,
 			"long": 103.97844860768319

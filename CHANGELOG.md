@@ -1,3 +1,219 @@
+# 1 August 2023
+
+### Stops removed: 1
+
+- `02051` The Float @ Marina Bay
+
+### Stop names changed: 144
+
+- `11159` Aft Ch Of Our Saviour ⮕ Aft Ch of Our Saviour
+- `11161` C'Wealth Stn Exit A/D ⮕ C'wealth Stn Exit A/D
+- `11169` C'Wealth Stn Exit B/C ⮕ C'wealth Stn Exit B/C
+- `12091` SIM HQ ⮕ SIM Campus
+- `12099` Opp SIM HQ ⮕ Opp SIM Campus
+- `12201` Logishub @ Clementi ⮕ LogisHub @ Clementi
+- `12209` Opp Logishub @ Clementi ⮕ Opp LogisHub @ Clementi
+- `13021` Aft Min Of Foreign Affairs ⮕ Aft Min of Foreign Affairs
+- `14129` Harbourfront Stn Exit A ⮕ HarbourFront Stn Exit A
+- `15191` Pasir Panjang Stn/Fc ⮕ Pasir Panjang Stn/FC
+- `16101` Inst Of Micro-Electronics ⮕ Inst of Micro-electronics
+- `16161` Nus Museums ⮕ NUS Museums
+- `19071` Opp Acs Independent ⮕ Opp ACS Independent
+- `19089` Acs Independent ⮕ ACS Independent
+- `21229` Opp S'Pore A'Space Mfg ⮕ Opp S'pore A'space Mfg
+- `22011` Jurong Bird Pk ⮕ Bef Jurong Hill
+- `22019` Opp Jurong Bird Pk ⮕ Aft Tractor Rd
+- `22061` Ceva Logistics ⮕ CEVA Logistics
+- `22069` Opp Ceva Logistics ⮕ Opp CEVA Logistics
+- `22329` Opp Sam Mccoy Engrg ⮕ Opp Sam McCoy Engrg
+- `25561` INVISTA ⮕ Aft Tuas Cres
+- `25569` Opp INVISTA ⮕ Bef Tuas Cres
+- `27221` Sch Of CEE ⮕ Sch of CEE
+- `29119` Comfortdelgro Engrg ⮕ ComfortDelGro Engrg
+- `29121` Opp Clp Intl ⮕ Opp CLP Intl
+- `29129` Clp Intl ⮕ CLP Intl
+- `41121` S'Pore Bible Coll ⮕ S'pore Bible Coll
+- `41129` Opp S'Pore Bible Coll ⮕ Opp S'pore Bible Coll
+- `43111` Min Of Defence ⮕ Min of Defence
+- `43199` Ch Of St. Mary ⮕ Ch of St. Mary
+- `44029` Bt Panjang Stn Exit A/Lrt ⮕ Bt Panjang Stn Exit A/LRT
+- `44291` Opp Cck Polyclinic ⮕ Opp CCK Polyclinic
+- `44299` Cck Polyclinic ⮕ CCK Polyclinic
+- `45141` Aft W'Lands Rd ⮕ Aft W'lands Rd
+- `45149` Bef W'Lands Rd ⮕ Bef W'lands Rd
+- `45221` Aft W'Lands Rd ⮕ Aft W'lands Rd
+- `45229` Bef W'Lands Rd ⮕ Bef W'lands Rd
+- `46011` Bef W'Lands Ctr Rd ⮕ Bef W'lands Ctr Rd
+- `46019` Aft W'Lands Ctr Rd ⮕ Aft W'lands Ctr Rd
+- `46021` Bef W'Lands Ind Pk D St 2 ⮕ Bef W'lands Ind Pk D St 2
+- `46029` Aft W'Lands Ind Pk D St 2 ⮕ Aft W'lands Ind Pk D St 2
+- `46041` Opp Globalfoundries ⮕ Opp GLOBALFOUNDRIES
+- `46049` Globalfoundries ⮕ GLOBALFOUNDRIES
+- `46059` Globalfoundries/Aft Bke ⮕ GLOBALFOUNDRIES/Aft BKE
+- `46069` W'Lands Train Checkpt ⮕ W'lands Train Checkpt
+- `46091` Bef Bke ⮕ Bef BKE
+- `46101` W'Lands Checkpt ⮕ W'lands Checkpt
+- `46121` Opp Marsiling Lane Mkt/Fc ⮕ Opp Marsiling Lane Mkt/FC
+- `46129` Marsiling Lane Mkt/Fc ⮕ Marsiling Lane Mkt/FC
+- `46321` W'Lands Civic Ctr ⮕ W'lands Civic Ctr
+- `46329` Opp W'Lands Civic Ctr ⮕ Opp W'lands Civic Ctr
+- `46381` Opp W'Lands Ind Pk D St 1 ⮕ Opp W'lands Ind Pk D St 1
+- `46669` W'Lands Pr Sch ⮕ W'lands Pr Sch
+- `46721` Bef W'Lands Ind Pk E7 ⮕ Bef W'lands Ind Pk E7
+- `46729` Aft W'Lands Ind Pk E7 ⮕ Aft W'lands Ind Pk E7
+- `46801` Aft W'Lands Mart ⮕ Aft W'lands Mart
+- `46809` Opp W'Lands Mart ⮕ Opp W'lands Mart
+- `46931` Opp W'Lands Spectrum 1 ⮕ Opp W'lands Spectrum 1
+- `47011` Bef W'Lands Waterfront Pk ⮕ Bef W'lands Waterfront Pk
+- `47019` Aft W'Lands Waterfront Pk ⮕ Aft W'lands Waterfront Pk
+- `47041` Opp W'Lands Auto Hub ⮕ Opp W'lands Auto Hub
+- `47049` W'Lands Auto Hub ⮕ W'lands Auto Hub
+- `47051` Aft W'Lands Ind Pk E4 ⮕ Aft W'lands Ind Pk E4
+- `47059` Bef W'Lands Ind Pk E4 ⮕ Bef W'lands Ind Pk E4
+- `47131` Fuji Oil S'Pore ⮕ Fuji Oil S'pore
+- `47141` Bef Sc Auto ⮕ Bef SC Auto
+- `47151` Aft Scania S'Pore ⮕ Aft Scania S'pore
+- `47179` Comfortdelgro Engrg ⮕ ComfortDelGro Engrg
+- `47811` W'Lands Sunny Food ⮕ W'lands Sunny Food
+- `47819` Opp W'Lands Sunny Food ⮕ Opp W'lands Sunny Food
+- `48111` Aft Mandai Rd ⮕ Opp Bird Paradise
+- `48119` Bef Mandai Rd ⮕ Bird Paradise
+- `48131` S'Pore Zoo ⮕ S'pore Zoo
+- `50011` Opp Parish Of Christ Ch ⮕ Opp Parish of Christ Ch
+- `50019` Parish Of Christ Ch ⮕ Parish of Christ Ch
+- `50129` Opp Tan Tock Seng Hosp ⮕ Opp Natl Skin Ctr
+- `50231` Northlight Sch ⮕ NorthLight Sch
+- `52069` Comfortdelgro Corp Ltd ⮕ ComfortDelGro Corp Ltd
+- `52419` Curtin S'pore ⮕ Opp Blk 105
+- `53201` Opp Nea Reg Off ⮕ Opp NEA Reg Off
+- `53209` Aft Nea Reg Off ⮕ Aft NEA Reg Off
+- `54481` Ite Coll Ctrl ⮕ ITE Coll Ctrl
+- `54489` Opp Ite Coll Ctrl ⮕ Opp ITE Coll Ctrl
+- `55041` Aft Ang Mo Kio St 64 ⮕ Aft AMK St 64/Apple SG
+- `55049` Bef Ang Mo Kio St 64 ⮕ Bef AMK St 64/Apple SG
+- `55169` Opp Yio Chu Kang Cc ⮕ Opp Yio Chu Kang CC
+- `55221` Opp SMRT Buses AMK Depot ⮕ Aft Ang Mo Kio St 62
+- `55229` SMRT Buses AMK Depot ⮕ Bef Ang Mo Kio St 62
+- `58201` Aft Queen'S Ave ⮕ Aft Queen's Ave
+- `60081` St. Andrew'S Village ⮕ St. Andrew's Village
+- `60089` Opp St. Andrew'S Village ⮕ Opp St. Andrew's Village
+- `62131` S'Goon Stn Exit H ⮕ S'goon Stn Exit H
+- `62139` S'Goon Stn Exit A/Blk 413 ⮕ S'goon Stn Exit A/Blk 413
+- `62189` S'Goon Stn Exit D/Blk 416 ⮕ S'goon Stn Exit D/Blk 416
+- `63011` Opp Upp S'Goon Shop Ctr ⮕ Opp Upp S'goon Shop Ctr
+- `63019` Aft Upp S'Goon Shop Ctr ⮕ Aft Upp S'goon Shop Ctr
+- `63151` Aft Upp S'Goon Rd ⮕ Aft Upp S'goon Rd
+- `63229` Kovan Sports Ctr ⮕ Opp Kovan Hub
+- `63361` Opp S'Goon Sports Cplx ⮕ Opp S'goon Sports Cplx
+- `65071` Opp Blk 103A ⮕ Blk 203A
+- `65481` Bef Punggol Dr ⮕ Opp One Punggol
+- `65489` Aft Punggol Dr ⮕ One Punggol
+- `65561` Waterway Pr Sch ⮕ Blk 659A
+- `65569` Opp Waterway Pr Sch ⮕ Blk 654D
+- `66261` S'Goon Gdns Country Club ⮕ S'goon Gdns Country Club
+- `66359` S'Goon Stn Exit C/Blk 201 ⮕ S'goon Stn Exit C/Blk 201
+- `66381` Opp S'Goon Stn Exit F ⮕ Opp S'goon Stn Exit F
+- `66389` S'Goon Stn Exit F ⮕ S'goon Stn Exit F
+- `66571` Opp Blk 998B ⮕ Buangkok Sq
+- `66599` KLA Tencor ⮕ KLA Corporation
+- `67111` Chij St. Joseph'S Convent ⮕ CHIJ St. Joseph's Convent
+- `68081` Bef Seletar A'Space Rise ⮕ Bef Seletar A'space Rise
+- `68089` Aft Seletar A'Space Rise ⮕ Aft Seletar A'space Rise
+- `68161` Aft Seletar A'Space Lane ⮕ Aft Seletar A'space Lane
+- `68169` Bef Seletar A'Space Lane ⮕ Bef Seletar A'space Lane
+- `70251` Macpherson Stn Exit C ⮕ MacPherson Stn Exit C
+- `70259` Macpherson Stn Exit B ⮕ MacPherson Stn Exit B
+- `70371` Macpherson Stn Exit A ⮕ MacPherson Stn Exit A
+- `70379` Opp Macpherson Stn Exit A ⮕ Opp MacPherson Stn Exit A
+- `74031` Bef Tampines Lk ⮕ Bef Tampines Ik
+- `76339` Opp Tampines Changkat Cc ⮕ Opp Tampines Changkat CC
+- `81161` blk 56 ⮕ Blk 56
+- `81231` Opp Kh Plaza ⮕ Opp KH Plaza
+- `82091` Aft Queen Of Peace Ch ⮕ Aft Queen of Peace Ch
+- `84079` Siglap Cc/Opp Blk 71 ⮕ Siglap CC/Opp Blk 71
+- `84101` Opp Blk 49 ⮕ ECO Condo
+- `84109` Blk 50 ⮕ Bef Bedok View Sec Sch
+- `90031` Tg Ria Condo ⮕ Camelot By-The-Water
+- `90039` Opp Tg Ria Condo ⮕ Opp Camelot By-The-Water
+- `92141` Nafa Arts Kindergarten ⮕ NAFA Arts Kindergarten
+- `94089` Calvary Ably Of God Ch ⮕ Calvary Ably of God Ch
+- `95011` Bef Changi Airport PTB3 ⮕ Aft Aircraft Flyover
+- `95039` Airfreight Ter Bldg ⮕ AirFreight Ter Bldg
+- `97159` Bef Vicom ⮕ Bef VICOM
+- `99011` Bef Sch Of Commando ⮕ Bef Sch of Commando
+- `99019` Aft Sch Of Commando ⮕ Aft Sch of Commando
+- `02161` Promenade Stn ⮕ Aft Promenade Stn Exit C
+- `03071` Opp SO Sofitel S'pore ⮕ 80 Robinson Rd
+- `03529` Downtown Stn ⮕ Downtown Stn Exit E
+- `04151` Cath Of The Good Shepherd ⮕ Cath of The Good Shepherd
+- `04159` Aft Chijmes ⮕ Aft CHIJMES
+- `05012` Bef Pearl'S Hill Terr ⮕ Bef Pearl's Hill Terr
+- `07241` Bef S'Goon Rd ⮕ Bef S'goon Rd
+- `08079` Sch of the Arts ⮕ Sch of The Arts
+
+### Stop locations changed: 32
+
+- `12069` 103.77104,1.32143 ⮕ 103.77105,1.32143
+- `12099` 103.7767,1.32784 ⮕ 103.77671,1.32784
+- `14521` 103.82091,1.25643 ⮕ 103.82043,1.2536
+- `16059` 103.77594,1.28967 ⮕ 103.77593,1.28967
+- `16079` 103.7713,1.29138 ⮕ 103.77129,1.29138
+- `17159` 103.76981,1.31198 ⮕ 103.76982,1.31197
+- `25421` 103.63745,1.34147 ⮕ 103.63742,1.34126
+- `25451` 103.6341,1.33228 ⮕ 103.63405,1.33226
+- `25681` 103.63703,1.33254 ⮕ 103.63717,1.33249
+- `26251` 103.62973,1.31745 ⮕ 103.62979,1.31727
+- `26261` 103.62871,1.31471 ⮕ 103.62871,1.31442
+- `26349` 103.62994,1.31194 ⮕ 103.63096,1.31161
+- `31011` 103.6939,1.35908 ⮕ 103.69388,1.35882
+- `31019` 103.69399,1.35998 ⮕ 103.69399,1.36071
+- `42109` 103.77692,1.34325 ⮕ 103.77691,1.34325
+- `44361` 103.77559,1.36646 ⮕ 103.77555,1.36635
+- `44369` 103.77531,1.36574 ⮕ 103.77534,1.36586
+- `45051` 103.75601,1.40339 ⮕ 103.75601,1.40338
+- `46008` 103.78574,1.43685 ⮕ 103.78673,1.43773
+- `59072` 103.83549,1.42938 ⮕ 103.8355,1.42938
+- `66129` 103.86802,1.36149 ⮕ 103.86805,1.36149
+- `66551` 103.88144,1.38173 ⮕ 103.88144,1.38172
+- `66569` 103.88257,1.38316 ⮕ 103.88262,1.38327
+- `90021` 103.87105,1.29724 ⮕ 103.87106,1.29724
+- `90051` 103.87917,1.29766 ⮕ 103.87917,1.29771
+- `90059` 103.87911,1.29758 ⮕ 103.87911,1.29756
+- `92041` 103.90583,1.30327 ⮕ 103.90496,1.30266
+- `92121` 103.90677,1.30722 ⮕ 103.90678,1.3072
+- `92129` 103.90646,1.30686 ⮕ 103.90643,1.30695
+- `95139` 103.999,1.38557 ⮕ 103.99958,1.38636
+- `96041` 103.96124,1.34155 ⮕ 103.9608,1.33995
+- `07021` 103.84996,1.30325 ⮕ 103.85004,1.30372
+
+### Bus Stop Changes To Routes: 21
+
+- `961M` Woodlands Temp Int ⇄ Lor 1 Geylang Ter: -2
+- `960e` Woodlands Int ⇄ Marina Ctr Ter: -1
+- `70M` Yio Chu Kang Int ⟲ Opp The Ritz-Carlton: -1
+- `36A` Changi Airport PTB2 → Aft Cuscaden Rd: -1
+- `162M` Yio Chu Kang Int ⟲ Aft Promenade Stn Exit C: -1
+- `857` Yishun Int ⟲ Opp The Ritz-Carlton: -1
+- `111` Ghim Moh Ter ⟲ Opp The Ritz-Carlton: -1
+- `106` Bt Batok Int ⇄ Shenton Way Ter: -1
+- `77` Bt Batok Int ⇄ Marina Ctr Ter: -1
+- `75` Gali Batu Ter ⇄ Marina Ctr Ter: -1
+- `36` Changi Airport PTB2 ⟲ Orchard Stn Exit 13: -1
+- `56` Bishan Int ⇄ Marina Ctr Ter: -1
+- `97` Jurong East Int ⇄ Marina Ctr Ter: -1
+- `133` Ang Mo Kio Int ⇄ Shenton Way Ter: -1
+- `195` Marina Ctr Ter ⟲ Queenstown Stn Exit A/D: -1
+- `960` Woodlands Int ⇄ Marina Ctr Ter: -1
+- `195A` Marina Ctr Ter → Tiong Bahru Stn: -1
+- `36B` Lagoon View → Bef Seaside Residences: -1
+- `97e` Jurong East Int ⇄ Marina Ctr Ter: -1
+- `132` Hougang Ctrl Int ⇄ Bt Merah Int: +1, -1
+- `156` Sengkang Int ⇄ Clementi Int: +1, -1
+
+## First/last timings changed
+
+Affected services: `17`, `36`, `56`, `70`, `75`, `77`, `97`, `106`, `111`, `120`, `124`, `131`, `132`, `133`, `156`, `195`, `857`, `960`, `985`, `961M`, `195A`, `97e`, `960e`, `162M`, `70M`, `89e`, `36B`, `36A`
+
 # 1 July 2023
 
 ### Stop locations changed: 4
