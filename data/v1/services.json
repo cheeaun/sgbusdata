@@ -3228,7 +3228,6 @@
 				"02159",
 				"02089",
 				"02171",
-				"02051",
 				"02061",
 				"04111",
 				"04121",
@@ -4878,7 +4877,6 @@
 			[
 				"02099",
 				"02101",
-				"02051",
 				"02061",
 				"01611",
 				"01631",
@@ -6735,7 +6733,6 @@
 			[
 				"02099",
 				"02101",
-				"02051",
 				"02061",
 				"02029",
 				"03019",
@@ -6947,7 +6944,6 @@
 			[
 				"02099",
 				"02101",
-				"02051",
 				"02061",
 				"04111",
 				"04121",
@@ -8227,7 +8223,6 @@
 			[
 				"02099",
 				"02101",
-				"02051",
 				"02061",
 				"02151",
 				"02161",
@@ -8962,7 +8957,6 @@
 				"03391",
 				"03511",
 				"03501",
-				"02051",
 				"02061",
 				"04111",
 				"04121",
@@ -9275,7 +9269,6 @@
 				"02151",
 				"02161",
 				"02171",
-				"02051",
 				"02061",
 				"04111",
 				"04121",
@@ -9447,7 +9440,7 @@
 		]
 	},
 	"116": {
-		"name": "Hougang Ctrl Int ⟲ S'Goon Stn Exit C/Blk 201",
+		"name": "Hougang Ctrl Int ⟲ S'goon Stn Exit C/Blk 201",
 		"routes": [
 			[
 				"64009",
@@ -10491,7 +10484,7 @@
 				"40231",
 				"51091",
 				"51101",
-				"51021",
+				"51023",
 				"51031",
 				"51051",
 				"51071",
@@ -10585,7 +10578,6 @@
 				"03391",
 				"03511",
 				"03501",
-				"02051",
 				"02061",
 				"04151",
 				"01013",
@@ -10960,7 +10952,7 @@
 		]
 	},
 	"138": {
-		"name": "Ang Mo Kio Int ⟲ S'Pore Zoo",
+		"name": "Ang Mo Kio Int ⟲ S'pore Zoo",
 		"routes": [
 			[
 				"54009",
@@ -12278,7 +12270,7 @@
 				"40231",
 				"51091",
 				"51101",
-				"51021",
+				"51023",
 				"51031",
 				"51051",
 				"51071",
@@ -15481,7 +15473,6 @@
 			[
 				"02099",
 				"02101",
-				"02051",
 				"02061",
 				"04168",
 				"04251",
@@ -17862,7 +17853,7 @@
 		]
 	},
 	"381": {
-		"name": "Punggol Temp Int ⟲ Waterway Pr Sch",
+		"name": "Punggol Temp Int ⟲ Blk 659A",
 		"routes": [
 			[
 				"65009",
@@ -20220,7 +20211,6 @@
 				"02151",
 				"02161",
 				"02171",
-				"02051",
 				"02061",
 				"04111",
 				"04121",
@@ -20595,7 +20585,7 @@
 		]
 	},
 	"903": {
-		"name": "Woodlands Int ⟲ W'Lands Train Checkpt",
+		"name": "Woodlands Int ⟲ W'lands Train Checkpt",
 		"routes": [
 			[
 				"46009",
@@ -20936,7 +20926,7 @@
 		]
 	},
 	"927": {
-		"name": "Choa Chu Kang Int ⟲ Aft Mandai Rd",
+		"name": "Choa Chu Kang Int ⟲ Opp Bird Paradise",
 		"routes": [
 			[
 				"44009",
@@ -21153,7 +21143,6 @@
 			[
 				"02099",
 				"02101",
-				"02051",
 				"02061",
 				"04151",
 				"01013",
@@ -22005,7 +21994,7 @@
 		]
 	},
 	"974": {
-		"name": "Joo Koon Int ⟲ Bt Panjang Stn Exit A/Lrt",
+		"name": "Joo Koon Int ⟲ Bt Panjang Stn Exit A/LRT",
 		"routes": [
 			[
 				"24009",
@@ -22965,7 +22954,7 @@
 		]
 	},
 	"116A": {
-		"name": "Blk 504A CP → S'Goon Stn Exit C/Blk 201",
+		"name": "Blk 504A CP → S'goon Stn Exit C/Blk 201",
 		"routes": [
 			[
 				"66439",
@@ -23338,7 +23327,7 @@
 		]
 	},
 	"138A": {
-		"name": "Ang Mo Kio Int → S'Pore Zoo",
+		"name": "Ang Mo Kio Int → S'pore Zoo",
 		"routes": [
 			[
 				"54009",
@@ -23793,7 +23782,7 @@
 		]
 	},
 	"159B": {
-		"name": "Aft Ang Mo Kio Int → Ite Coll Ctrl",
+		"name": "Aft Ang Mo Kio Int → ITE Coll Ctrl",
 		"routes": [
 			[
 				"54391",
@@ -23886,7 +23875,7 @@
 		]
 	},
 	"162M": {
-		"name": "Yio Chu Kang Int ⟲ Opp The Ritz-Carlton",
+		"name": "Yio Chu Kang Int ⟲ Aft Promenade Stn Exit C",
 		"routes": [
 			[
 				"55509",
@@ -23937,7 +23926,6 @@
 				"02151",
 				"02161",
 				"02171",
-				"02051",
 				"02061",
 				"04111",
 				"04121",
@@ -24566,7 +24554,6 @@
 			[
 				"02099",
 				"02101",
-				"02051",
 				"02061",
 				"04168",
 				"04251",
@@ -25047,7 +25034,7 @@
 		]
 	},
 	"269A": {
-		"name": "Ang Mo Kio Int → Opp Yio Chu Kang Cc",
+		"name": "Ang Mo Kio Int → Opp Yio Chu Kang CC",
 		"routes": [
 			[
 				"54009",
@@ -25449,7 +25436,6 @@
 				"02159",
 				"02089",
 				"02171",
-				"02051",
 				"02061",
 				"04111",
 				"04121",
@@ -25485,7 +25471,6 @@
 				"02159",
 				"02089",
 				"02171",
-				"02051",
 				"02061",
 				"04111",
 				"04121",
@@ -25798,7 +25783,7 @@
 		]
 	},
 	"45A": {
-		"name": "Opp Blk 115 → S'Goon Stn Exit A/Blk 413",
+		"name": "Opp Blk 115 → S'goon Stn Exit A/Blk 413",
 		"routes": [
 			[
 				"63291",
@@ -25811,7 +25796,7 @@
 		]
 	},
 	"502A": {
-		"name": "Soon Lee Bus Pk → Downtown Stn",
+		"name": "Soon Lee Bus Pk → Downtown Stn Exit E",
 		"routes": [
 			[
 				"22609",
@@ -25977,7 +25962,7 @@
 		]
 	},
 	"58A": {
-		"name": "S'Goon Stn Exit H → Tampines Wafer Fab Pk",
+		"name": "S'goon Stn Exit H → Tampines Wafer Fab Pk",
 		"routes": [
 			[
 				"62131",
@@ -26322,7 +26307,7 @@
 		]
 	},
 	"70B": {
-		"name": "Opp Serenity Pk → S'Goon Stn Exit C/Blk 201",
+		"name": "Opp Serenity Pk → S'goon Stn Exit C/Blk 201",
 		"routes": [
 			[
 				"55101",
@@ -26347,7 +26332,7 @@
 		]
 	},
 	"70M": {
-		"name": "Yio Chu Kang Int ⟲ The Float @ Marina Bay",
+		"name": "Yio Chu Kang Int ⟲ Opp The Ritz-Carlton",
 		"routes": [
 			[
 				"55509",
@@ -26402,7 +26387,6 @@
 				"02151",
 				"02161",
 				"02171",
-				"02051",
 				"02061",
 				"80151",
 				"80161",
@@ -26486,7 +26470,7 @@
 		]
 	},
 	"72B": {
-		"name": "Yio Chu Kang Int → Ite Coll Ctrl",
+		"name": "Yio Chu Kang Int → ITE Coll Ctrl",
 		"routes": [
 			[
 				"55509",
@@ -26533,7 +26517,7 @@
 		]
 	},
 	"78A": {
-		"name": "Blk 131 → Opp Clp Intl",
+		"name": "Blk 131 → Opp CLP Intl",
 		"routes": [
 			[
 				"28301",
@@ -26929,7 +26913,7 @@
 		]
 	},
 	"851e": {
-		"name": "Yishun Int ⇄ Aft Duxton Plain Pk / Bef Pearl'S Hill Terr",
+		"name": "Yishun Int ⇄ Aft Duxton Plain Pk / Bef Pearl's Hill Terr",
 		"routes": [
 			[
 				"59009",
@@ -27167,7 +27151,7 @@
 		]
 	},
 	"856A": {
-		"name": "Woodlands Int → W'Lands Train Checkpt",
+		"name": "Woodlands Int → W'lands Train Checkpt",
 		"routes": [
 			[
 				"46009",
@@ -27228,7 +27212,7 @@
 		]
 	},
 	"857B": {
-		"name": "Yishun Int → Promenade Stn",
+		"name": "Yishun Int → Aft Promenade Stn Exit C",
 		"routes": [
 			[
 				"59009",
@@ -27458,7 +27442,7 @@
 		]
 	},
 	"868E": {
-		"name": "Blk 347 → Promenade Stn",
+		"name": "Blk 347 → Aft Promenade Stn Exit C",
 		"routes": [
 			[
 				"43581",
@@ -27611,7 +27595,7 @@
 		]
 	},
 	"89A": {
-		"name": "Aft Punggol Rd → Airfreight Ter Bldg",
+		"name": "Aft Punggol Rd → AirFreight Ter Bldg",
 		"routes": [
 			[
 				"65199",
@@ -28244,7 +28228,6 @@
 			[
 				"02099",
 				"02101",
-				"02051",
 				"02061",
 				"04151",
 				"01013",
@@ -28348,7 +28331,6 @@
 				"02181",
 				"02089",
 				"02101",
-				"02051",
 				"02061",
 				"01611",
 				"01621",
@@ -28379,7 +28361,6 @@
 				"01619",
 				"02089",
 				"02101",
-				"02051",
 				"02061",
 				"04168",
 				"04249",
@@ -28991,7 +28972,6 @@
 			[
 				"02099",
 				"02101",
-				"02051",
 				"02061",
 				"02151",
 				"02161",

@@ -267,17 +267,6 @@
 		]
 	},
 	{
-		"number": 527,
-		"description": "Rhu Cross to Stadium Crescent",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"527-1.kml"
-		],
-		"routeFile": [
-			"527.xml"
-		]
-	},
-	{
 		"number": 531,
 		"description": "Simei - Shenton Way/Anson Road",
 		"type": "PREMIUM",
@@ -427,28 +416,6 @@
 		]
 	},
 	{
-		"number": 594,
-		"description": "Northshore Drive to Upper Cross Street",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"594-1.kml"
-		],
-		"routeFile": [
-			"594.xml"
-		]
-	},
-	{
-		"number": 599,
-		"description": "Hougang Street 51 to Shenton Way",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"599-1.kml"
-		],
-		"routeFile": [
-			"599.xml"
-		]
-	},
-	{
 		"number": 722,
 		"description": "Senja Road to Cecil Street",
 		"type": "PREMIUM",
@@ -583,18 +550,6 @@
 		],
 		"routeFile": [
 			"767.xml"
-		]
-	},
-	{
-		"number": 768,
-		"description": "Woodlands Avenue 3 - Changi Business Park",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"768-1.kml",
-			"768-2.kml"
-		],
-		"routeFile": [
-			"768.xml"
 		]
 	},
 	{
@@ -5456,8 +5411,7 @@
 		"number": 911,
 		"type": "TRUNK",
 		"kmlFile": [
-			"911-1.kml",
-			"911-2.kml"
+			"911-1.kml"
 		],
 		"routeFile": [
 			"911.xml"
