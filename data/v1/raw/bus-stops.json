@@ -603,6 +603,15 @@
 		}
 	},
 	{
+		"name": "-P201",
+		"wab": "true",
+		"details": "Opp HarbourFront Int",
+		"coordinates": {
+			"lat": 1.26591350024271,
+			"long": 103.81925660621779
+		}
+	},
+	{
 		"name": "-P213",
 		"wab": "true",
 		"details": "Alexandra Retail Ctr",
@@ -3456,6 +3465,15 @@
 		}
 	},
 	{
+		"name": "-PC11",
+		"wab": "true",
+		"details": "Bef Seah Im Rd",
+		"coordinates": {
+			"lat": 1.2686352773503,
+			"long": 103.81546952380809
+		}
+	},
+	{
 		"name": "-PC38",
 		"wab": "true",
 		"details": "Yale-NUS College",
@@ -3489,6 +3507,15 @@
 		"coordinates": {
 			"lat": 1.2802,
 			"long": 103.8506
+		}
+	},
+	{
+		"name": "-PC76",
+		"wab": "true",
+		"details": "Chinatown Stn Exit E",
+		"coordinates": {
+			"lat": 1.28531114761754,
+			"long": 103.84455070696784
 		}
 	},
 	{
@@ -4392,6 +4419,15 @@
 		}
 	},
 	{
+		"name": "-S16",
+		"wab": "true",
+		"details": "Outside Golden Mile Tower",
+		"coordinates": {
+			"lat": 1.301894,
+			"long": 103.864144
+		}
+	},
+	{
 		"name": "-S160",
 		"wab": "true",
 		"details": "Landmark Village Hotel",
@@ -4428,12 +4464,12 @@
 		}
 	},
 	{
-		"name": "-S170",
+		"name": "-S17",
 		"wab": "true",
-		"details": "Holiday Inn Atrium",
+		"details": "Outside Park Royal Hotel",
 		"coordinates": {
-			"lat": 1.28963300933853,
-			"long": 103.833812419218
+			"lat": 1.310487,
+			"long": 103.855632
 		}
 	},
 	{
@@ -4443,6 +4479,15 @@
 		"coordinates": {
 			"lat": 1.29214000777612,
 			"long": 103.843036461911
+		}
+	},
+	{
+		"name": "-S184",
+		"wab": "true",
+		"details": "Shaw Twrs",
+		"coordinates": {
+			"lat": 1.29696997588846,
+			"long": 103.856858504932
 		}
 	},
 	{
@@ -4479,15 +4524,6 @@
 		"coordinates": {
 			"lat": 1.28938483786533,
 			"long": 103.86183148116275
-		}
-	},
-	{
-		"name": "-S225",
-		"wab": "true",
-		"details": "Selegie Ctr",
-		"coordinates": {
-			"lat": 1.30372354572677,
-			"long": 103.85003675652882
 		}
 	},
 	{
@@ -4644,12 +4680,21 @@
 		}
 	},
 	{
-		"name": "-S68",
+		"name": "-S33",
 		"wab": "true",
-		"details": "Singapore Flyer Driveway",
+		"details": "Outside Copthorne King's Hotel",
 		"coordinates": {
-			"lat": 1.289295,
-			"long": 103.861808
+			"lat": 1.28826,
+			"long": 103.836642
+		}
+	},
+	{
+		"name": "-S69",
+		"wab": "true",
+		"details": "Outside Mandarin Oriental Hotel",
+		"coordinates": {
+			"lat": 1.290092,
+			"long": 103.858443
 		}
 	},
 	{
@@ -4659,6 +4704,15 @@
 		"coordinates": {
 			"lat": 1.295953,
 			"long": 103.858941
+		}
+	},
+	{
+		"name": "-S71",
+		"wab": "true",
+		"details": "Outside The Pan Pacific Hotel",
+		"coordinates": {
+			"lat": 1.292414,
+			"long": 103.858815
 		}
 	},
 	{
@@ -4677,6 +4731,15 @@
 		"coordinates": {
 			"lat": 1.305116,
 			"long": 103.851437
+		}
+	},
+	{
+		"name": "-S84",
+		"wab": "true",
+		"details": "Outside Swissotel The Stamford",
+		"coordinates": {
+			"lat": 1.293287,
+			"long": 103.853274
 		}
 	},
 	{
@@ -6486,6 +6549,33 @@
 		"coordinates": {
 			"lat": 1.410027,
 			"long": 103.778718
+		}
+	},
+	{
+		"name": "-Z780",
+		"wab": "true",
+		"details": "Outside Peninsular Excelsior Hotel",
+		"coordinates": {
+			"lat": 1.292016,
+			"long": 103.84981999
+		}
+	},
+	{
+		"name": "-Z781",
+		"wab": "true",
+		"details": "Resorts World Sentosa",
+		"coordinates": {
+			"lat": 1.25352193438281,
+			"long": 103.82570322127442
+		}
+	},
+	{
+		"name": "-Z782",
+		"wab": "true",
+		"details": "Harbourfront Station/Vivocity",
+		"coordinates": {
+			"lat": 1.26552421466644,
+			"long": 103.82211326846237
 		}
 	},
 	{
@@ -22110,6 +22200,15 @@
 		"coordinates": {
 			"lat": 1.312641,
 			"long": 103.838298
+		}
+	},
+	{
+		"name": "40189",
+		"wab": "false",
+		"details": "Newton Stn Exit B",
+		"coordinates": {
+			"lat": 1.312274,
+			"long": 103.8381
 		}
 	},
 	{

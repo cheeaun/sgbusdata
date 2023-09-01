@@ -12152,6 +12152,13 @@
 		"Longitude": 103.838298
 	},
 	{
+		"BusStopCode": "40189",
+		"RoadName": "Scotts Rd",
+		"Description": "Newton Stn Exit B",
+		"Latitude": 1.312274,
+		"Longitude": 103.8381
+	},
+	{
 		"BusStopCode": "40191",
 		"RoadName": "Stevens Rd",
 		"Description": "Aft Draycott Pk",
