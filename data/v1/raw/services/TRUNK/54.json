@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Bishan Int to KAMPONG BAHRU TER",
+		"name": "From Bishan Int to Kampong Bahru Ter",
 		"stops": [
 			"53009",
 			"53279",
@@ -27,6 +27,7 @@
 			"50037",
 			"50069",
 			"40129",
+			"40189",
 			"40179",
 			"09219",
 			"13199",
@@ -48,7 +49,7 @@
 		]
 	},
 	{
-		"name": "From KAMPONG BAHRU TER to Bishan Int",
+		"name": "From Kampong Bahru Ter to Bishan Int",
 		"stops": [
 			"10499",
 			"10049",

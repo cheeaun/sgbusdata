@@ -1,3 +1,42 @@
+# 1 September 2023
+
+## Stops count change: 5083 ⮕ 5084
+
+### Stops added: 1
+
+- `40189` Newton Stn Exit B
+
+## Services count change: 535 ⮕ 537
+
+### Services added: 2
+
+- `5A` Aft Ballota Pk → Upp Changi Stn/SUTD
+- `5B` Simei Stn → Bef Mariam Wk
+
+### Bus Stop Changes To Routes: 11
+
+- `160` Jurong East Int ⟲ JB Sentral Bus Ter: -4
+- `5` Pasir Ris Int ⇄ Bt Merah Int: +1
+- `54` Bishan Int ⇄ Kampong Bahru Ter: +1
+- `124` St. Michael's Ter ⇄ HarbourFront Int: +1
+- `143` Toa Payoh Int ⇄ Jurong East Int: +1
+- `162` Yio Chu Kang Int ⇄ Shenton Way Ter: +1
+- `167` Sembawang Int ⇄ Bt Merah Int: +1
+- `518` Pasir Ris Int ⟲ Bef Cairnhill Rd: +1
+- `162M` Yio Chu Kang Int ⟲ Aft Promenade Stn Exit C: +1
+- `518A` Pasir Ris Int → Bayfront Stn Exit A: +1
+- `972M` Bt Panjang Int ⟲ YMCA: +1
+
+## Routes changed: 3
+
+- `979` Bt Panjang Int ⟲ Opp Blk 670
+- `5A` Aft Ballota Pk → Upp Changi Stn/SUTD
+- `5B` Simei Stn → Bef Mariam Wk
+
+## First/last timings changed
+
+Affected services: `5`, `43`, `54`, `113`, `124`, `143`, `160`, `161`, `162`, `167`, `170`, `196`, `518`, `972M`, `162M`, `518A`, `170X`, `43M`, `5B`, `5A`
+
 # 1 August 2023
 
 ### Stops removed: 1

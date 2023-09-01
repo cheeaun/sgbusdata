@@ -599,7 +599,7 @@
 	},
 	{
 		"number": "-S42",
-		"description": "Safari HIPPOtours - Suntec City to Singapore Zoo and Night Safari Tourist Bus Service",
+		"description": "Safari Big Bus Tours - Suntec City to Singapore Zoo and Night Safari Tourist Bus Service",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S42-1.kml"
@@ -610,7 +610,7 @@
 	},
 	{
 		"number": "-S49",
-		"description": "RWS8",
+		"description": "RWS 8 - Shuttle Bus Service from Resorts World Sentosa to HarbourFront Station (loop)",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S49-1.kml"
@@ -665,13 +665,24 @@
 	},
 	{
 		"number": "-S53",
-		"description": "Shuttle Bus Service from Khatib MRT Station to The Singapore Zoo",
+		"description": "Shuttle Bus Service from Khatib to Mandai Wildlife Reserve (loop)",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S53-1.kml"
 		],
 		"routeFile": [
 			"-S53.xml"
+		]
+	},
+	{
+		"number": "-S57",
+		"description": "SAEX Orange - Tourist Bus Service between Beach Road/Havelock Road and Mandai Wildlife Reserve",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S57-1.kml"
+		],
+		"routeFile": [
+			"-S57.xml"
 		]
 	},
 	{
@@ -3878,7 +3889,7 @@
 		"number": "410G",
 		"type": "TRUNK",
 		"kmlFile": [
-			"410G-2.kml"
+			"410G-1.kml"
 		],
 		"routeFile": [
 			"410G.xml"
@@ -4239,6 +4250,26 @@
 		],
 		"routeFile": [
 			"59.xml"
+		]
+	},
+	{
+		"number": "5A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"5A-1.kml"
+		],
+		"routeFile": [
+			"5A.xml"
+		]
+	},
+	{
+		"number": "5B",
+		"type": "TRUNK",
+		"kmlFile": [
+			"5B-1.kml"
+		],
+		"routeFile": [
+			"5B.xml"
 		]
 	},
 	{
@@ -5250,7 +5281,7 @@
 		"number": "88B",
 		"type": "TRUNK",
 		"kmlFile": [
-			"88B-1.kml"
+			"88B-2.kml"
 		],
 		"routeFile": [
 			"88B.xml"
