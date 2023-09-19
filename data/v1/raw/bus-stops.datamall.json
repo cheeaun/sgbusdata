@@ -301,6 +301,13 @@
 		"Longitude": 103.85402155505173
 	},
 	{
+		"BusStopCode": "02051",
+		"RoadName": "Raffles Ave",
+		"Description": "The Float @ Marina Bay",
+		"Latitude": 1.289503056,
+		"Longitude": 103.8590339
+	},
+	{
 		"BusStopCode": "02061",
 		"RoadName": "Raffles Ave",
 		"Description": "The Esplanade",
@@ -2273,6 +2280,13 @@
 		"Description": "Blk 1003",
 		"Latitude": 1.28362333298689,
 		"Longitude": 103.81472833301791
+	},
+	{
+		"BusStopCode": "11001",
+		"RoadName": "Ghim Moh Rd",
+		"Description": "Opposite Ghim Moh Terminal",
+		"Latitude": 1.311072,
+		"Longitude": 103.789159
 	},
 	{
 		"BusStopCode": "11009",
@@ -28922,6 +28936,13 @@
 		"Description": "Springfield Sec Sch",
 		"Latitude": 1.3506577199911,
 		"Longitude": 103.92956819494434
+	},
+	{
+		"BusStopCode": "75041",
+		"RoadName": "Tampines Street 86",
+		"Description": "Blk 875B",
+		"Latitude": 1.352932,
+		"Longitude": 103.929146
 	},
 	{
 		"BusStopCode": "75051",
