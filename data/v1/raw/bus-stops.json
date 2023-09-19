@@ -6966,6 +6966,15 @@
 		}
 	},
 	{
+		"name": "02051",
+		"wab": "true",
+		"details": "The Float @ Marina Bay",
+		"coordinates": {
+			"lat": 1.289503056,
+			"long": 103.8590339
+		}
+	},
+	{
 		"name": "02061",
 		"wab": "true",
 		"details": "The Esplanade",
@@ -9501,6 +9510,15 @@
 		"coordinates": {
 			"lat": 1.28362333298689,
 			"long": 103.81472833301791
+		}
+	},
+	{
+		"name": "11001",
+		"wab": "true",
+		"details": "Opposite Ghim Moh Terminal",
+		"coordinates": {
+			"lat": 1.311072,
+			"long": 103.789159
 		}
 	},
 	{
@@ -18226,7 +18244,7 @@
 	},
 	{
 		"name": "25451",
-		"wab": "false",
+		"wab": "true",
 		"details": "Aft Tuas West St",
 		"coordinates": {
 			"lat": 1.33226194444444,
@@ -22204,7 +22222,7 @@
 	},
 	{
 		"name": "40189",
-		"wab": "false",
+		"wab": "true",
 		"details": "Newton Stn Exit B",
 		"coordinates": {
 			"lat": 1.312274,
@@ -43767,6 +43785,15 @@
 		}
 	},
 	{
+		"name": "75041",
+		"wab": "true",
+		"details": "Blk 875B",
+		"coordinates": {
+			"lat": 1.352932,
+			"long": 103.929146
+		}
+	},
+	{
 		"name": "75051",
 		"wab": "true",
 		"details": "Tampines West Stn Exit B",
@@ -52237,7 +52264,7 @@
 	},
 	{
 		"name": "99101",
-		"wab": "false",
+		"wab": "true",
 		"details": "Govt Chalets",
 		"coordinates": {
 			"lat": 1.39138333298306,

@@ -2306,6 +2306,28 @@
 		},
 		{
 			"type": "Feature",
+			"id": "11001",
+			"properties": {
+				"number": "11001",
+				"name": "Opposite Ghim Moh Terminal",
+				"road": "Ghim Moh Rd",
+				"services": [
+					"100",
+					"111",
+					"92",
+					"92M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.789159,
+					1.311072
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "11009",
 			"properties": {
 				"number": "11009",
@@ -5187,6 +5209,8 @@
 				"name": "Blk 7",
 				"road": "Ghim Moh Rd",
 				"services": [
+					"100",
+					"111",
 					"92",
 					"92M"
 				]
@@ -87654,6 +87678,25 @@
 		},
 		{
 			"type": "Feature",
+			"id": "75041",
+			"properties": {
+				"number": "75041",
+				"name": "Blk 875B",
+				"road": "Tampines Street 86",
+				"services": [
+					"298"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.929146,
+					1.352932
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "75051",
 			"properties": {
 				"number": "75051",
@@ -110892,6 +110935,43 @@
 				"coordinates": [
 					103.85402155505173,
 					1.29452091230981
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "02051",
+			"properties": {
+				"number": "02051",
+				"name": "The Float @ Marina Bay",
+				"road": "Raffles Ave",
+				"services": [
+					"106",
+					"111",
+					"133",
+					"162M",
+					"195",
+					"195A",
+					"36",
+					"36A",
+					"36B",
+					"56",
+					"70M",
+					"75",
+					"77",
+					"857",
+					"960",
+					"960e",
+					"961M",
+					"97",
+					"97e"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8590339,
+					1.289503056
 				]
 			}
 		},

@@ -563,6 +563,12 @@
 		"Blk 1003",
 		"Bt Merah Ctrl"
 	],
+	"11001": [
+		103.78916,
+		1.31107,
+		"Opposite Ghim Moh Terminal",
+		"Ghim Moh Rd"
+	],
 	"11009": [
 		103.78932,
 		1.31107,
@@ -23405,6 +23411,12 @@
 		"Springfield Sec Sch",
 		"Tampines Ave 8"
 	],
+	"75041": [
+		103.92915,
+		1.35293,
+		"Blk 875B",
+		"Tampines Street 86"
+	],
 	"75051": [
 		103.94008,
 		1.34503,
@@ -29374,6 +29386,12 @@
 		1.29452,
 		"Raffles Hotel",
 		"Bras Basah Rd"
+	],
+	"02051": [
+		103.85903,
+		1.2895,
+		"The Float @ Marina Bay",
+		"Raffles Ave"
 	],
 	"02061": [
 		103.8564,
