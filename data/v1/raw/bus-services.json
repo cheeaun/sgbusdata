@@ -1948,16 +1948,6 @@
 		]
 	},
 	{
-		"number": "160M",
-		"type": "TRUNK",
-		"kmlFile": [
-			"160M-1.kml"
-		],
-		"routeFile": [
-			"160M.xml"
-		]
-	},
-	{
 		"number": 161,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -2781,6 +2771,16 @@
 		]
 	},
 	{
+		"number": 230,
+		"type": "TRUNK",
+		"kmlFile": [
+			"230-1.kml"
+		],
+		"routeFile": [
+			"230.xml"
+		]
+	},
+	{
 		"number": 231,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -3284,13 +3284,13 @@
 		]
 	},
 	{
-		"number": "2A",
+		"number": "2B",
 		"type": "TRUNK",
 		"kmlFile": [
-			"2A-1.kml"
+			"2B-1.kml"
 		],
 		"routeFile": [
-			"2A.xml"
+			"2B.xml"
 		]
 	},
 	{
@@ -5661,16 +5661,6 @@
 		]
 	},
 	{
-		"number": 944,
-		"type": "TRUNK",
-		"kmlFile": [
-			"944-1.kml"
-		],
-		"routeFile": [
-			"944.xml"
-		]
-	},
-	{
 		"number": 945,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -6276,6 +6266,36 @@
 		],
 		"routeFile": [
 			"991C.xml"
+		]
+	},
+	{
+		"number": 992,
+		"type": "TRUNK",
+		"kmlFile": [
+			"992-1.kml"
+		],
+		"routeFile": [
+			"992.xml"
+		]
+	},
+	{
+		"number": "992A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"992A-1.kml"
+		],
+		"routeFile": [
+			"992A.xml"
+		]
+	},
+	{
+		"number": 993,
+		"type": "TRUNK",
+		"kmlFile": [
+			"993-1.kml"
+		],
+		"routeFile": [
+			"993.xml"
 		]
 	},
 	{

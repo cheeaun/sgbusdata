@@ -1,14 +1,5 @@
 [
 	{
-		"name": "-P106",
-		"wab": "true",
-		"details": "Outside Hume Park 2 (After Lamp Post 11)",
-		"coordinates": {
-			"lat": 1.355213,
-			"long": 103.7684
-		}
-	},
-	{
 		"name": "-P11",
 		"wab": "true",
 		"details": "Grande Vista Condomium",
@@ -765,33 +756,6 @@
 		}
 	},
 	{
-		"name": "-P298",
-		"wab": "true",
-		"details": "Blk 272",
-		"coordinates": {
-			"lat": 1.348831907,
-			"long": 103.7576616
-		}
-	},
-	{
-		"name": "-P321",
-		"wab": "true",
-		"details": "Bef Summerhill",
-		"coordinates": {
-			"lat": 1.358391,
-			"long": 103.7649
-		}
-	},
-	{
-		"name": "-P322",
-		"wab": "true",
-		"details": "Opp Symphony Hts",
-		"coordinates": {
-			"lat": 1.356754,
-			"long": 103.7676
-		}
-	},
-	{
 		"name": "-P336",
 		"wab": "true",
 		"details": "Bangkit Station",
@@ -1377,42 +1341,6 @@
 		}
 	},
 	{
-		"name": "-P575",
-		"wab": "true",
-		"details": "Opp Blk 232",
-		"coordinates": {
-			"lat": 1.358964722,
-			"long": 103.8891383
-		}
-	},
-	{
-		"name": "-P576",
-		"wab": "true",
-		"details": "Blk 239",
-		"coordinates": {
-			"lat": 1.356395013,
-			"long": 103.8899763
-		}
-	},
-	{
-		"name": "-P578",
-		"wab": "true",
-		"details": "Opp Blk 115",
-		"coordinates": {
-			"lat": 1.352250023,
-			"long": 103.887858
-		}
-	},
-	{
-		"name": "-P579",
-		"wab": "true",
-		"details": "Paya Lebar Girl's Sch",
-		"coordinates": {
-			"lat": 1.351494732,
-			"long": 103.885312
-		}
-	},
-	{
 		"name": "-P581",
 		"wab": "true",
 		"details": "Opp Blk 634",
@@ -1545,15 +1473,6 @@
 		"coordinates": {
 			"lat": 1.37212119701131,
 			"long": 103.876539388425
-		}
-	},
-	{
-		"name": "-P6",
-		"wab": "true",
-		"details": "Outside Aquarius By The Park Condominium",
-		"coordinates": {
-			"lat": 1.337519,
-			"long": 103.93532
 		}
 	},
 	{
@@ -2214,15 +2133,6 @@
 		}
 	},
 	{
-		"name": "-P73",
-		"wab": "true",
-		"details": "SIF Building",
-		"coordinates": {
-			"lat": 1.27945,
-			"long": 103.84915
-		}
-	},
-	{
 		"name": "-P731",
 		"wab": "true",
 		"details": "Opp Blk 313 CP",
@@ -2745,51 +2655,6 @@
 		}
 	},
 	{
-		"name": "-P856",
-		"wab": "true",
-		"details": "Bet Blks 705/706",
-		"coordinates": {
-			"lat": 1.33522831708133,
-			"long": 103.91845121607756
-		}
-	},
-	{
-		"name": "-P857",
-		"wab": "true",
-		"details": "Blk 713",
-		"coordinates": {
-			"lat": 1.337421064,
-			"long": 103.9225316
-		}
-	},
-	{
-		"name": "-P861",
-		"wab": "true",
-		"details": "Waterfront Key",
-		"coordinates": {
-			"lat": 1.337911389,
-			"long": 103.9313081
-		}
-	},
-	{
-		"name": "-P862",
-		"wab": "true",
-		"details": "Waterfront Isle",
-		"coordinates": {
-			"lat": 1.338965014,
-			"long": 103.9274669
-		}
-	},
-	{
-		"name": "-P863",
-		"wab": "true",
-		"details": "Blk 716",
-		"coordinates": {
-			"lat": 1.338157493,
-			"long": 103.9253787
-		}
-	},
-	{
 		"name": "-P865",
 		"wab": "true",
 		"details": "Eastwood Ctr",
@@ -2922,60 +2787,6 @@
 		"coordinates": {
 			"lat": 1.33338002405472,
 			"long": 103.94880327361744
-		}
-	},
-	{
-		"name": "-P883",
-		"wab": "true",
-		"details": "Opp Pebble Bay",
-		"coordinates": {
-			"lat": 1.297006696,
-			"long": 103.8725309
-		}
-	},
-	{
-		"name": "-P884",
-		"wab": "true",
-		"details": "Tg Ria Condo",
-		"coordinates": {
-			"lat": 1.29656022698907,
-			"long": 103.87500520610656
-		}
-	},
-	{
-		"name": "-P885",
-		"wab": "true",
-		"details": "Opp Tg Ria Condo",
-		"coordinates": {
-			"lat": 1.296633057,
-			"long": 103.8753931
-		}
-	},
-	{
-		"name": "-P886",
-		"wab": "true",
-		"details": "Dunman High Sch",
-		"coordinates": {
-			"lat": 1.29812421479672,
-			"long": 103.88241235160253
-		}
-	},
-	{
-		"name": "-P887",
-		"wab": "true",
-		"details": "Opp Dunman High Sch",
-		"coordinates": {
-			"lat": 1.29795474,
-			"long": 103.8825818
-		}
-	},
-	{
-		"name": "-P888",
-		"wab": "true",
-		"details": "Opp Costa Rhu Condo",
-		"coordinates": {
-			"lat": 1.297607182,
-			"long": 103.8673275
 		}
 	},
 	{
@@ -3363,24 +3174,6 @@
 		"coordinates": {
 			"lat": 1.40201500002599,
 			"long": 103.912856944434
-		}
-	},
-	{
-		"name": "-PB42",
-		"wab": "true",
-		"details": "Hillview Green",
-		"coordinates": {
-			"lat": 1.358156,
-			"long": 103.7651
-		}
-	},
-	{
-		"name": "-PB43",
-		"wab": "true",
-		"details": "Symphony Hts",
-		"coordinates": {
-			"lat": 1.35685805598526,
-			"long": 103.767370833003
 		}
 	},
 	{
@@ -3798,24 +3591,6 @@
 		}
 	},
 	{
-		"name": "-PI43",
-		"wab": "true",
-		"details": "Outside Merawoods(Opposite LP 27R11)",
-		"coordinates": {
-			"lat": 1.35658,
-			"long": 103.7594
-		}
-	},
-	{
-		"name": "-PI45",
-		"wab": "true",
-		"details": "Outside Jurong-Clementi Town Council (Bukit Batok Office)",
-		"coordinates": {
-			"lat": 1.35116,
-			"long": 103.75047
-		}
-	},
-	{
 		"name": "-PI46",
 		"wab": "true",
 		"details": "Singapore Zoo",
@@ -3942,9 +3717,18 @@
 		}
 	},
 	{
+		"name": "-PS13",
+		"wab": "true",
+		"details": "Outram Park Stn Exit 1",
+		"coordinates": {
+			"lat": 1.28177041153491,
+			"long": 103.8383828488293
+		}
+	},
+	{
 		"name": "-PS14",
 		"wab": "true",
-		"details": "Opp Maritime House",
+		"details": "Blk 1G",
 		"coordinates": {
 			"lat": 1.27553472200739,
 			"long": 103.841126944004
@@ -4788,42 +4572,6 @@
 		}
 	},
 	{
-		"name": "-Z005",
-		"wab": "true",
-		"details": "Aft Waterfront Waves",
-		"coordinates": {
-			"lat": 1.33857139776249,
-			"long": 103.92937717202952
-		}
-	},
-	{
-		"name": "-Z006",
-		"wab": "true",
-		"details": "Blk 703",
-		"coordinates": {
-			"lat": 1.3375152915469,
-			"long": 103.9197283469228
-		}
-	},
-	{
-		"name": "-Z008",
-		"wab": "true",
-		"details": "Aft Paya Lebar Cres",
-		"coordinates": {
-			"lat": 1.34904000002665,
-			"long": 103.88022749996824
-		}
-	},
-	{
-		"name": "-Z009",
-		"wab": "true",
-		"details": "Raya Gdn",
-		"coordinates": {
-			"lat": 1.3467680506898,
-			"long": 103.880911959518
-		}
-	},
-	{
 		"name": "-Z057",
 		"wab": "true",
 		"details": "Bet Blk 443A/443B",
@@ -4992,24 +4740,6 @@
 		"coordinates": {
 			"lat": 1.30338444,
 			"long": 103.86483889
-		}
-	},
-	{
-		"name": "-Z335",
-		"wab": "true",
-		"details": "Blk 105 Mkt/FC",
-		"coordinates": {
-			"lat": 1.3541297220266,
-			"long": 103.8898808330127
-		}
-	},
-	{
-		"name": "-Z336",
-		"wab": "true",
-		"details": "Opp The Minton",
-		"coordinates": {
-			"lat": 1.35090140225527,
-			"long": 103.88255343944132
 		}
 	},
 	{
@@ -5418,15 +5148,6 @@
 		}
 	},
 	{
-		"name": "-Z475",
-		"wab": "true",
-		"details": "Downtown Stn",
-		"coordinates": {
-			"lat": 1.27939957,
-			"long": 103.8527877
-		}
-	},
-	{
 		"name": "-Z486",
 		"wab": "true",
 		"details": "Passenger pick-up/ drop-off point outside Buangkok Station",
@@ -5478,15 +5199,6 @@
 		"coordinates": {
 			"lat": 1.393803,
 			"long": 103.892332
-		}
-	},
-	{
-		"name": "-Z544",
-		"wab": "true",
-		"details": "Pebble Bay",
-		"coordinates": {
-			"lat": 1.29723536717542,
-			"long": 103.8710587860504
 		}
 	},
 	{
@@ -6513,24 +6225,6 @@
 		"coordinates": {
 			"lat": 1.280591,
 			"long": 103.87045
-		}
-	},
-	{
-		"name": "-Z776",
-		"wab": "true",
-		"details": "Outside The Amston (LP 27R6)",
-		"coordinates": {
-			"lat": 1.356624,
-			"long": 103.7607
-		}
-	},
-	{
-		"name": "-Z777",
-		"wab": "true",
-		"details": "Block 254",
-		"coordinates": {
-			"lat": 1.349311,
-			"long": 103.7579
 		}
 	},
 	{
@@ -11116,7 +10810,7 @@
 	},
 	{
 		"name": "14059",
-		"wab": "false",
+		"wab": "true",
 		"details": "Bef Telok Blangah Hts",
 		"coordinates": {
 			"lat": 1.276025,
@@ -22518,6 +22212,15 @@
 		}
 	},
 	{
+		"name": "40381",
+		"wab": "true",
+		"details": "Blk 111",
+		"coordinates": {
+			"lat": 1.35636,
+			"long": 103.73427
+		}
+	},
+	{
 		"name": "41011",
 		"wab": "true",
 		"details": "NUS Bt Timah Campus",
@@ -31281,6 +30984,24 @@
 		"coordinates": {
 			"lat": 1.336478,
 			"long": 103.83967
+		}
+	},
+	{
+		"name": "52569",
+		"wab": "true",
+		"details": "Opp Blk 269A",
+		"coordinates": {
+			"lat": 1.333124,
+			"long": 103.859789
+		}
+	},
+	{
+		"name": "52579",
+		"wab": "true",
+		"details": "Blk 259",
+		"coordinates": {
+			"lat": 1.332954,
+			"long": 103.858025
 		}
 	},
 	{
