@@ -1,3 +1,41 @@
+# 1 October 2023
+
+## Stops count change: 5087 ⮕ 5090
+
+### Stops added: 3
+
+- `40381` Blk 111
+- `52569` Opp Blk 269A
+- `52579` Blk 259
+
+## Services count change: 537 ⮕ 539
+
+### Services added: 5
+
+- `230` Toa Payoh Int ⟲ Opp Blk 269A
+- `992` Bt Batok Int ⟲ Blk 111
+- `993` Jurong East Int ⟲ Blk 433C
+- `2B` Changi Village Ter → Bedok Stn Exit A
+- `992A` Bt Batok Int → Blk 111
+
+### Services removed: 3
+
+- `2A` Kampong Bahru Ter → Tanah Merah Stn Exit B
+- `160M` Jurong East Int ⟲ Blk 436A
+- `944` Bt Batok Int ⟲ Blk 436A
+
+## Routes changed: 5
+
+- `230` Toa Payoh Int ⟲ Opp Blk 269A
+- `992` Bt Batok Int ⟲ Blk 111
+- `993` Jurong East Int ⟲ Blk 433C
+- `2B` Changi Village Ter → Bedok Stn Exit A
+- `992A` Bt Batok Int → Blk 111
+
+## First/last timings changed
+
+Affected services: `160M`, `2A`, `944`, `230`, `992`, `993`, `992A`, `2B`
+
 # 19 September 2023
 
 ## Stops count change: 5084 ⮕ 5087

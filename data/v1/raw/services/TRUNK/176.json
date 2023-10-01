@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From BT PANJANG INT to Bt Merah Int",
+		"name": "From Bt Panjang Int to Bt Merah Int",
 		"stops": [
 			"45009",
 			"44259",
@@ -64,7 +64,7 @@
 		]
 	},
 	{
-		"name": "From Bt Merah Int to BT PANJANG INT",
+		"name": "From Bt Merah Int to Bt Panjang Int",
 		"stops": [
 			"10009",
 			"10339",

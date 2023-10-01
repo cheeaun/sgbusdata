@@ -12397,6 +12397,13 @@
 		"Longitude": 103.74357270089524
 	},
 	{
+		"BusStopCode": "40381",
+		"RoadName": "Plantation Cres",
+		"Description": "Blk 111",
+		"Latitude": 1.35636,
+		"Longitude": 103.73427
+	},
+	{
 		"BusStopCode": "41011",
 		"RoadName": "Bt Timah Rd",
 		"Description": "NUS Bt Timah Campus",
@@ -19213,6 +19220,20 @@
 		"Description": "Caldecott Stn Exit 1",
 		"Latitude": 1.336478,
 		"Longitude": 103.83967
+	},
+	{
+		"BusStopCode": "52569",
+		"RoadName": "Kim Keat Ave",
+		"Description": "Opp Blk 269A",
+		"Latitude": 1.333124,
+		"Longitude": 103.859789
+	},
+	{
+		"BusStopCode": "52579",
+		"RoadName": "Toa Payoh East",
+		"Description": "Blk 259",
+		"Latitude": 1.332954,
+		"Longitude": 103.858025
 	},
 	{
 		"BusStopCode": "53009",

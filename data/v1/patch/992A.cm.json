@@ -1,0 +1,290 @@
+{
+	"feeds": [],
+	"routes": [
+		{
+			"aliases": [
+				"tower-transit-992a"
+			],
+			"brand": "TTSBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "TTSBuses992A",
+			"long_name": "Bt Batok Int - Blk 111",
+			"mode": "bus",
+			"name": "992A",
+			"patterns": [
+				{
+					"id": "992A_0",
+					"name": "towards Blk 111",
+					"path": [
+						[
+							1.349994,
+							103.751062
+						],
+						[
+							1.351555,
+							103.749988
+						],
+						[
+							1.352265,
+							103.746816
+						],
+						[
+							1.353326,
+							103.742874
+						],
+						[
+							1.354997,
+							103.741002
+						],
+						[
+							1.357154,
+							103.740856
+						],
+						[
+							1.359157,
+							103.739502
+						],
+						[
+							1.35636,
+							103.73427
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_BtBatokInt_NE",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_Blk628_W",
+							"path_index": 1
+						},
+						{
+							"id": "SingaporeStop_BtBatokPolyclinic_SW",
+							"path_index": 2
+						},
+						{
+							"id": "SingaporeStop_Blk451A_NW",
+							"path_index": 3
+						},
+						{
+							"id": "SingaporeStop_Blk461C_N",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_Blk438A_NW",
+							"path_index": 5
+						},
+						{
+							"id": "SingaporeStop_AftLp83_SW",
+							"path_index": 6
+						},
+						{
+							"id": "SingaporeStop_Blk111_E",
+							"path_index": 7
+						}
+					]
+				}
+			],
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
+			"ui_color": "#5BC824",
+			"url": "https://citymapper.com/singapore/l/tower-transit-992a"
+		}
+	],
+	"status": 0,
+	"stops": {
+		"SingaporeStop_AftLp83_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.359157,
+				103.739502
+			],
+			"live_code": "SingaporeStop_AftLp83_SW",
+			"name": "Blk 436a",
+			"routes": [
+				"SBSTBuses160",
+				"SMRTBuses180",
+				"TTSBuses992",
+				"TTSBuses992A",
+				"SBSTBuses993"
+			],
+			"stop_code": "43789"
+		},
+		"SingaporeStop_Blk111_E": {
+			"bearing": "E",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.35636,
+				103.73427
+			],
+			"live_code": "SingaporeStop_Blk111_E",
+			"name": "Blk 111",
+			"routes": [
+				"TTSBuses992",
+				"TTSBuses992A"
+			]
+		},
+		"SingaporeStop_Blk438A_NW": {
+			"bearing": "N",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.357154,
+				103.740856
+			],
+			"live_code": "SingaporeStop_Blk438A_NW",
+			"name": "Blk 438a",
+			"routes": [
+				"SMRTBuses991",
+				"TTSBuses992",
+				"TTSBuses992A",
+				"SBSTBuses993"
+			],
+			"stop_code": "40361"
+		},
+		"SingaporeStop_Blk451A_NW": {
+			"bearing": "NW",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.353326,
+				103.742874
+			],
+			"live_code": "SingaporeStop_Blk451A_NW",
+			"name": "Blk 451a",
+			"routes": [
+				"TTSBuses992",
+				"TTSBuses992A"
+			]
+		},
+		"SingaporeStop_Blk461C_N": {
+			"bearing": "NW",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.354997,
+				103.741002
+			],
+			"live_code": "SingaporeStop_Blk461C_N",
+			"name": "Blk 461c",
+			"routes": [
+				"TTSBuses992",
+				"TTSBuses992A",
+				"SBSTBuses993"
+			],
+			"stop_code": "40351"
+		},
+		"SingaporeStop_Blk628_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.351555,
+				103.749988
+			],
+			"live_code": "SingaporeStop_Blk628_W",
+			"name": "Aft Bt Batok Stn/Blk 628",
+			"routes": [
+				"SBSTBuses157",
+				"TTSBuses173",
+				"TTSBuses173A",
+				"SBSTBuses174",
+				"SBSTBuses174E",
+				"SMRTBuses176",
+				"SMRTBuses178",
+				"SMRTBuses187",
+				"SBSTBuses506",
+				"TTSBuses941",
+				"TTSBuses947",
+				"SMRTBuses985",
+				"SMRTBuses991",
+				"SMRTBuses991A",
+				"TTSBuses992",
+				"TTSBuses992A"
+			],
+			"stop_code": "43419"
+		},
+		"SingaporeStop_BtBatokInt_NE": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.349994,
+				103.751062
+			],
+			"live_code": "SingaporeStop_BtBatokInt_NE",
+			"name": "Bt Batok Int",
+			"routes": [
+				"TTSBuses106",
+				"TTSBuses106A",
+				"TTSBuses173",
+				"TTSBuses173A",
+				"TTSBuses177",
+				"TTSBuses189",
+				"TTSBuses189A",
+				"SMRTBuses61",
+				"TTSBuses77",
+				"SBSTBuses852",
+				"TTSBuses941",
+				"TTSBuses945",
+				"TTSBuses947",
+				"TTSBuses990",
+				"SMRTBuses991",
+				"SMRTBuses991A",
+				"TTSBuses992",
+				"TTSBuses992A"
+			],
+			"stop_code": "43009"
+		},
+		"SingaporeStop_BtBatokPolyclinic_SW": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.352265,
+				103.746816
+			],
+			"live_code": "SingaporeStop_BtBatokPolyclinic_SW",
+			"name": "Bt Batok Polyclinic",
+			"routes": [
+				"SBSTBuses157",
+				"SBSTBuses174",
+				"SBSTBuses174E",
+				"SMRTBuses176",
+				"SMRTBuses178",
+				"SMRTBuses188",
+				"SMRTBuses188E",
+				"SBSTBuses506",
+				"SMRTBuses868E",
+				"SMRTBuses991",
+				"SMRTBuses991A",
+				"TTSBuses992",
+				"TTSBuses992A"
+			],
+			"stop_code": "43401"
+		}
+	}
+}
