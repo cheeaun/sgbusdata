@@ -2058,7 +2058,7 @@
 		]
 	},
 	"24": {
-		"name": "Ang Mo Kio Int ⟲ Changi Airport PTB2",
+		"name": "Ang Mo Kio Int ⟲ Changi Airport Ter 2",
 		"routes": [
 			[
 				"54009",
@@ -2335,7 +2335,7 @@
 		]
 	},
 	"27": {
-		"name": "Hougang Ctrl Int ⟲ Changi Airport PTB1",
+		"name": "Hougang Ctrl Int ⟲ Changi Airport Ter 1",
 		"routes": [
 			[
 				"64009",
@@ -3102,7 +3102,7 @@
 		]
 	},
 	"34": {
-		"name": "Punggol Temp Int ⟲ Changi Airport PTB1",
+		"name": "Punggol Temp Int ⟲ Changi Airport Ter 1",
 		"routes": [
 			[
 				"65009",
@@ -3205,7 +3205,7 @@
 		]
 	},
 	"36": {
-		"name": "Changi Airport PTB2 ⟲ Orchard Stn Exit 13",
+		"name": "Changi Airport Ter 2 ⟲ Orchard Stn Exit 13",
 		"routes": [
 			[
 				"95129",
@@ -4548,7 +4548,7 @@
 		]
 	},
 	"53": {
-		"name": "Bishan Int ⟲ Changi Airport PTB3",
+		"name": "Bishan Int ⟲ Changi Airport Ter 3",
 		"routes": [
 			[
 				"53009",
@@ -9213,7 +9213,7 @@
 		]
 	},
 	"110": {
-		"name": "Compassvale Int ⟲ Changi Airport PTB1",
+		"name": "Compassvale Int ⟲ Changi Airport Ter 1",
 		"routes": [
 			[
 				"67759",
@@ -18088,12 +18088,11 @@
 		]
 	},
 	"403": {
-		"name": "Pasir Ris Int ⟲ Pasir Ris Pk",
+		"name": "Pasir Ris Int ⟲ Aft Pasir Ris Way",
 		"routes": [
 			[
 				"77009",
-				"77179",
-				"77031",
+				"77321",
 				"77021",
 				"77011",
 				"77181",
@@ -18112,8 +18111,8 @@
 				"78049",
 				"77019",
 				"77029",
-				"77039",
-				"77171",
+				"77329",
+				"77379",
 				"77009"
 			]
 		]
@@ -20284,7 +20283,7 @@
 		]
 	},
 	"858": {
-		"name": "Woodlands Int ⟲ Changi Airport PTB1",
+		"name": "Woodlands Int ⟲ Changi Airport Ter 1",
 		"routes": [
 			[
 				"46009",
@@ -22764,6 +22763,24 @@
 			]
 		]
 	},
+	"102B": {
+		"name": "Blk 461B → Opp Sengkang Stn/Blk 260A",
+		"routes": [
+			[
+				"67999",
+				"67099",
+				"68011",
+				"67491",
+				"67631",
+				"67561",
+				"67551",
+				"67541",
+				"67381",
+				"67391",
+				"67401"
+			]
+		]
+	},
 	"105B": {
 		"name": "Jurong East Int → Clementi Stn Exit B",
 		"routes": [
@@ -23154,9 +23171,14 @@
 		]
 	},
 	"118A": {
-		"name": "Aft Punggol Rd → ITE Coll East Adm Blk",
+		"name": "Punggol Temp Int → ITE Coll East Adm Blk",
 		"routes": [
 			[
+				"65009",
+				"65259",
+				"65409",
+				"65141",
+				"65431",
 				"65199",
 				"75359",
 				"75369",
@@ -24041,6 +24063,39 @@
 				"67499",
 				"67281",
 				"67651"
+			]
+		]
+	},
+	"163B": {
+		"name": "Sengkang Int → NCS Hub",
+		"routes": [
+			[
+				"67009",
+				"67189",
+				"67101",
+				"65049",
+				"65039",
+				"65029",
+				"67219",
+				"67269",
+				"67339",
+				"67299",
+				"67309",
+				"67329",
+				"67479",
+				"67489",
+				"67499",
+				"67281",
+				"67651",
+				"67039",
+				"67029",
+				"67019",
+				"55109",
+				"55089",
+				"55079",
+				"55059",
+				"55049",
+				"55039"
 			]
 		]
 	},
@@ -25457,7 +25512,7 @@
 		]
 	},
 	"36A": {
-		"name": "Changi Airport PTB2 → Aft Cuscaden Rd",
+		"name": "Changi Airport Ter 2 → Aft Cuscaden Rd",
 		"routes": [
 			[
 				"95129",
@@ -25945,7 +26000,7 @@
 		]
 	},
 	"53A": {
-		"name": "Blk 738 → Changi Airport PTB2",
+		"name": "Blk 738 → Changi Airport Ter 2",
 		"routes": [
 			[
 				"77289",
@@ -27573,6 +27628,7 @@
 				"59521",
 				"58549",
 				"58539",
+				"58621",
 				"58529",
 				"58519",
 				"58059",
@@ -28145,7 +28201,7 @@
 		]
 	},
 	"92B": {
-		"name": "Ghim Moh Ter → The Rutherford",
+		"name": "Ghim Moh Ter → Opp Normanton Pk/R'ford",
 		"routes": [
 			[
 				"11009",
@@ -28708,6 +28764,8 @@
 				"76529",
 				"76519",
 				"76549",
+				"75591",
+				"75581",
 				"65191",
 				"55281",
 				"59011",

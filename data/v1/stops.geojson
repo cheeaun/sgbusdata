@@ -1086,8 +1086,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.81191424883255,
-					1.29089526651849
+					103.81181,
+					1.290835
 				]
 			}
 		},
@@ -1372,7 +1372,7 @@
 			"id": "10291",
 			"properties": {
 				"number": "10291",
-				"name": "Bef Dawson Rd",
+				"name": "Opp Dawson Pl",
 				"road": "Alexandra Rd",
 				"services": [
 					"111",
@@ -1399,7 +1399,7 @@
 			"id": "10299",
 			"properties": {
 				"number": "10299",
-				"name": "Aft Dawson Rd",
+				"name": "Aft Dawson Pl",
 				"road": "Alexandra Rd",
 				"services": [
 					"111",
@@ -2410,7 +2410,7 @@
 			"id": "11029",
 			"properties": {
 				"number": "11029",
-				"name": "Blk 166",
+				"name": "Blk 166/Aft Mei Chin Rd",
 				"road": "Queensway",
 				"services": [
 					"100",
@@ -12479,7 +12479,7 @@
 			"id": "18281",
 			"properties": {
 				"number": "18281",
-				"name": "The Rutherford",
+				"name": "Opp Normanton Pk/R'ford",
 				"road": "Science Pk Dr",
 				"services": [
 					"92",
@@ -12500,7 +12500,7 @@
 			"id": "18289",
 			"properties": {
 				"number": "18289",
-				"name": "Opp The Rutherford",
+				"name": "Opp R'ford/Normanton Pk",
 				"road": "Science Pk Dr",
 				"services": [
 					"92",
@@ -36544,7 +36544,7 @@
 			"id": "43201",
 			"properties": {
 				"number": "43201",
-				"name": "Opp Autobacs",
+				"name": "Park Natura",
 				"road": "Bt Batok East Ave 6",
 				"services": [
 					"157",
@@ -36929,7 +36929,7 @@
 			"id": "43289",
 			"properties": {
 				"number": "43289",
-				"name": "Hillview Hse",
+				"name": "Mont Botanik Residence",
 				"road": "Jln Remaja",
 				"services": [
 					"173"
@@ -41175,7 +41175,7 @@
 			"id": "44449",
 			"properties": {
 				"number": "44449",
-				"name": "Opp Blks 237/239",
+				"name": "Opp Blk 238",
 				"road": "Choa Chu Kang Way",
 				"services": [
 					"188",
@@ -44976,7 +44976,7 @@
 			"id": "46011",
 			"properties": {
 				"number": "46011",
-				"name": "Bef W'lands Ctr Rd",
+				"name": "Blk 188A",
 				"road": "Marsiling Rd",
 				"services": [
 					"913",
@@ -49921,7 +49921,7 @@
 			"id": "47619",
 			"properties": {
 				"number": "47619",
-				"name": "Opp Woodsvale Condo",
+				"name": "Blk 688 CP",
 				"road": "Woodlands Ave 7",
 				"services": [
 					"962",
@@ -60153,6 +60153,7 @@
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
+					"163B",
 					"854",
 					"857",
 					"86"
@@ -60202,6 +60203,7 @@
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
+					"163B",
 					"70",
 					"70M",
 					"854",
@@ -60253,6 +60255,7 @@
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
+					"163B",
 					"70",
 					"70M",
 					"854",
@@ -60304,6 +60307,7 @@
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
+					"163B",
 					"70",
 					"70M",
 					"854",
@@ -60355,6 +60359,7 @@
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
+					"163B",
 					"70",
 					"70M",
 					"854",
@@ -60404,6 +60409,7 @@
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
+					"163B",
 					"70",
 					"70M",
 					"854",
@@ -60877,8 +60883,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.8455676081697,
-					1.38603759468682
+					103.845539,
+					1.386216
 				]
 			}
 		},
@@ -65118,6 +65124,7 @@
 				"road": "Canberra st",
 				"services": [
 					"883",
+					"883B",
 					"883M"
 				]
 			},
@@ -74238,7 +74245,7 @@
 			"id": "64311",
 			"properties": {
 				"number": "64311",
-				"name": "Blk 344",
+				"name": "Riverfront Residences",
 				"road": "Hougang Ave 7",
 				"services": [
 					"112"
@@ -74257,7 +74264,7 @@
 			"id": "64319",
 			"properties": {
 				"number": "64319",
-				"name": "Opp Blk 344",
+				"name": "Opp Riverfront Residences",
 				"road": "Hougang Ave 7",
 				"services": [
 					"112",
@@ -74277,7 +74284,7 @@
 			"id": "64321",
 			"properties": {
 				"number": "64321",
-				"name": "Blk 350",
+				"name": "Opp Rio Vista",
 				"road": "Hougang Ave 7",
 				"services": [
 					"112"
@@ -75509,6 +75516,7 @@
 					"117",
 					"117M",
 					"118",
+					"118A",
 					"119",
 					"136",
 					"3",
@@ -75627,6 +75635,7 @@
 				"services": [
 					"163",
 					"163A",
+					"163B",
 					"80",
 					"80A",
 					"82",
@@ -75674,6 +75683,7 @@
 				"services": [
 					"163",
 					"163A",
+					"163B",
 					"82",
 					"88",
 					"88A"
@@ -75719,6 +75729,7 @@
 				"services": [
 					"163",
 					"163A",
+					"163B",
 					"82",
 					"88",
 					"88A"
@@ -75968,6 +75979,7 @@
 				"road": "Punggol Way",
 				"services": [
 					"118",
+					"118A",
 					"381",
 					"39",
 					"43",
@@ -76189,8 +76201,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.91793305556935,
-					1.39682694447407
+					103.918161,
+					1.397182
 				]
 			}
 		},
@@ -76481,6 +76493,7 @@
 				"road": "Punggol Ctrl",
 				"services": [
 					"118",
+					"118A",
 					"381",
 					"384",
 					"39",
@@ -77058,6 +77071,7 @@
 				"road": "Punggol Ctrl",
 				"services": [
 					"118",
+					"118A",
 					"381",
 					"384",
 					"39",
@@ -77142,6 +77156,7 @@
 					"117",
 					"117M",
 					"118",
+					"118A",
 					"119",
 					"39",
 					"43",
@@ -80194,6 +80209,7 @@
 					"159A",
 					"163",
 					"163A",
+					"163B",
 					"371",
 					"372",
 					"80",
@@ -80248,6 +80264,7 @@
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
+					"163B",
 					"70",
 					"70M",
 					"854",
@@ -80296,6 +80313,7 @@
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
+					"163B",
 					"70",
 					"70M",
 					"854",
@@ -80319,6 +80337,7 @@
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
+					"163B",
 					"70",
 					"70M",
 					"854",
@@ -80596,7 +80615,8 @@
 				"name": "Blk 459B",
 				"road": "Sengkang West Rd",
 				"services": [
-					"102"
+					"102",
+					"102B"
 				]
 			},
 			"geometry": {
@@ -80619,6 +80639,7 @@
 					"161",
 					"163",
 					"163A",
+					"163B",
 					"50"
 				]
 			},
@@ -80968,6 +80989,7 @@
 					"102",
 					"163",
 					"163A",
+					"163B",
 					"27",
 					"27A",
 					"371",
@@ -81119,6 +81141,7 @@
 				"services": [
 					"163",
 					"163A",
+					"163B",
 					"671",
 					"87",
 					"89",
@@ -81348,6 +81371,7 @@
 				"services": [
 					"163",
 					"163A",
+					"163B",
 					"27"
 				]
 			},
@@ -81413,7 +81437,8 @@
 				"road": "Fernvale Lane",
 				"services": [
 					"163",
-					"163A"
+					"163A",
+					"163B"
 				]
 			},
 			"geometry": {
@@ -81471,7 +81496,8 @@
 				"road": "Sengkang East Ave",
 				"services": [
 					"163",
-					"163A"
+					"163A",
+					"163B"
 				]
 			},
 			"geometry": {
@@ -81510,7 +81536,8 @@
 				"road": "Sengkang East Ave",
 				"services": [
 					"163",
-					"163A"
+					"163A",
+					"163B"
 				]
 			},
 			"geometry": {
@@ -81592,6 +81619,7 @@
 				"services": [
 					"163",
 					"163A",
+					"163B",
 					"50",
 					"671"
 				]
@@ -81632,7 +81660,8 @@
 				"road": "Sengkang East Ave",
 				"services": [
 					"163",
-					"163A"
+					"163A",
+					"163B"
 				]
 			},
 			"geometry": {
@@ -81824,6 +81853,7 @@
 				"road": "Sengkang East Way",
 				"services": [
 					"102",
+					"102B",
 					"372",
 					"50",
 					"85",
@@ -81870,6 +81900,7 @@
 				"road": "Sengkang East Way",
 				"services": [
 					"102",
+					"102B",
 					"372",
 					"50",
 					"85",
@@ -81916,6 +81947,7 @@
 				"road": "Sengkang East Way",
 				"services": [
 					"102",
+					"102B",
 					"119",
 					"156",
 					"159",
@@ -82271,6 +82303,7 @@
 				"services": [
 					"163",
 					"163A",
+					"163B",
 					"50",
 					"671"
 				]
@@ -82314,6 +82347,7 @@
 				"services": [
 					"163",
 					"163A",
+					"163B",
 					"50",
 					"671"
 				]
@@ -82335,6 +82369,7 @@
 				"road": "Sengkang West Ave",
 				"services": [
 					"102",
+					"102B",
 					"163",
 					"50",
 					"671"
@@ -82360,6 +82395,7 @@
 					"102A",
 					"163",
 					"163A",
+					"163B",
 					"50",
 					"671"
 				]
@@ -82542,6 +82578,7 @@
 				"road": "Sengkang East Way",
 				"services": [
 					"102",
+					"102B",
 					"374",
 					"85",
 					"85A"
@@ -82586,6 +82623,7 @@
 				"road": "Sengkang West Way",
 				"services": [
 					"102",
+					"102B",
 					"374",
 					"85",
 					"85A"
@@ -82630,6 +82668,7 @@
 				"road": "Sengkang West Way",
 				"services": [
 					"102",
+					"102B",
 					"374",
 					"85",
 					"85A"
@@ -82895,7 +82934,8 @@
 				"name": "Blk 441D",
 				"road": "Fernvale Rd",
 				"services": [
-					"102"
+					"102",
+					"102B"
 				]
 			},
 			"geometry": {
@@ -82973,7 +83013,8 @@
 				"road": "Fernvale Lane",
 				"services": [
 					"163",
-					"163A"
+					"163A",
+					"163B"
 				]
 			},
 			"geometry": {
@@ -83319,7 +83360,8 @@
 				"name": "Blk 461B",
 				"road": "Sengkang West Way",
 				"services": [
-					"102"
+					"102",
+					"102B"
 				]
 			},
 			"geometry": {
@@ -83339,6 +83381,7 @@
 				"road": "Sengkang West Ave",
 				"services": [
 					"102",
+					"102B",
 					"103",
 					"50",
 					"671",
@@ -89639,7 +89682,8 @@
 				"services": [
 					"15",
 					"46",
-					"969"
+					"969",
+					"969A"
 				]
 			},
 			"geometry": {
@@ -89682,7 +89726,8 @@
 					"129",
 					"15",
 					"298",
-					"969"
+					"969",
+					"969A"
 				]
 			},
 			"geometry": {
@@ -92013,12 +92058,11 @@
 			"id": "77031",
 			"properties": {
 				"number": "77031",
-				"name": "Blk 528C/Pasir Ris Stn",
+				"name": "Opp Pasir Ris Stn Exit B",
 				"road": "Pasir Ris Dr 1",
 				"services": [
 					"109",
 					"39",
-					"403",
 					"518",
 					"53",
 					"81",
@@ -92028,8 +92072,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.9483810573245,
-					1.37116337071002
+					103.948468,
+					1.372262
 				]
 			}
 		},
@@ -92038,12 +92082,11 @@
 			"id": "77039",
 			"properties": {
 				"number": "77039",
-				"name": "Bef Pasir Ris Stn",
+				"name": "Pasir Ris Stn Exit B",
 				"road": "Pasir Ris Dr 1",
 				"services": [
 					"109",
 					"39",
-					"403",
 					"518",
 					"518A",
 					"53",
@@ -92056,8 +92099,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.94834855629753,
-					1.37159118708865
+					103.948657,
+					1.37241
 				]
 			}
 		},
@@ -92521,7 +92564,6 @@
 				"road": "Pasir Ris Ctrl",
 				"services": [
 					"359",
-					"403",
 					"89",
 					"89A"
 				]
@@ -92543,7 +92585,6 @@
 				"road": "Pasir Ris Ctrl",
 				"services": [
 					"359",
-					"403",
 					"89"
 				]
 			},
@@ -93172,6 +93213,7 @@
 				"services": [
 					"3",
 					"3A",
+					"403",
 					"46"
 				]
 			},
@@ -93192,6 +93234,7 @@
 				"road": "Pasir Ris Ctrl",
 				"services": [
 					"3",
+					"403",
 					"46"
 				]
 			},
@@ -93381,6 +93424,7 @@
 				"road": "Pasir Ris Dr 8",
 				"services": [
 					"3",
+					"403",
 					"46"
 				]
 			},
@@ -97071,7 +97115,7 @@
 			"id": "82121",
 			"properties": {
 				"number": "82121",
-				"name": "Dunman View",
+				"name": "Questa @ Dunman",
 				"road": "Dunman Rd",
 				"services": [
 					"16",
@@ -105298,7 +105342,7 @@
 			"id": "95019",
 			"properties": {
 				"number": "95019",
-				"name": "Aft Changi Airport PTB2",
+				"name": "Aft Changi Airport Ter 2",
 				"road": "Airport Blvd",
 				"services": [
 					"110",
@@ -105326,7 +105370,7 @@
 			"id": "95029",
 			"properties": {
 				"number": "95029",
-				"name": "Changi Airport PTB1",
+				"name": "Changi Airport Ter 1",
 				"road": "PTB1 Basement",
 				"services": [
 					"110",
@@ -105620,7 +105664,7 @@
 			"id": "95109",
 			"properties": {
 				"number": "95109",
-				"name": "Changi Airport PTB3",
+				"name": "Changi Airport Ter 3",
 				"road": "PTB3 Basement",
 				"services": [
 					"110",
@@ -105648,7 +105692,7 @@
 			"id": "95129",
 			"properties": {
 				"number": "95129",
-				"name": "Changi Airport PTB2",
+				"name": "Changi Airport Ter 2",
 				"road": "PTB2 Basement",
 				"services": [
 					"110",
@@ -105954,7 +105998,7 @@
 			"id": "95209",
 			"properties": {
 				"number": "95209",
-				"name": "Changi Airport PTB4",
+				"name": "Changi Airport Ter 4",
 				"road": "T4 CRESCENT",
 				"services": [
 					"110",
@@ -110248,7 +110292,7 @@
 			"id": "01139",
 			"properties": {
 				"number": "01139",
-				"name": "Parkview Sq",
+				"name": "Bugis Stn/Parkview Sq",
 				"road": "Nth Bridge Rd",
 				"services": [
 					"145",
@@ -115036,7 +115080,7 @@
 			"id": "07539",
 			"properties": {
 				"number": "07539",
-				"name": "Opp Rochor Stn",
+				"name": "Bef Rochor Stn Exit B",
 				"road": "Sungei Rd",
 				"services": [
 					"131",

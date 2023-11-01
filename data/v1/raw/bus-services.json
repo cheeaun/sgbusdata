@@ -198,18 +198,6 @@
 		]
 	},
 	{
-		"number": "-P12",
-		"description": "PBS between Tanjong Rhu and Suntec/ Raffles Place",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"-P12-1.kml",
-			"-P12-2.kml"
-		],
-		"routeFile": [
-			"-P12.xml"
-		]
-	},
-	{
 		"number": "-P13",
 		"description": "LCS1 (Tampines)",
 		"type": "PREMIUM",
@@ -234,17 +222,6 @@
 		]
 	},
 	{
-		"number": 523,
-		"description": "Bedok Reservoir View to Nicoll Highway",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"523-1.kml"
-		],
-		"routeFile": [
-			"523.xml"
-		]
-	},
-	{
 		"number": 525,
 		"description": "Buangkok Crescent to Marina Boulevard",
 		"type": "PREMIUM",
@@ -253,17 +230,6 @@
 		],
 		"routeFile": [
 			"525.xml"
-		]
-	},
-	{
-		"number": 526,
-		"description": "Hougang Avenue 1 to Upper Cross Street",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"526-1.kml"
-		],
-		"routeFile": [
-			"526.xml"
 		]
 	},
 	{
@@ -335,7 +301,7 @@
 	},
 	{
 		"number": 565,
-		"description": "Ah Hood Road to Central Boulevard",
+		"description": "Ah Hood Road to Phillip Street",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"565-1.kml"
@@ -517,17 +483,6 @@
 		],
 		"routeFile": [
 			"753.xml"
-		]
-	},
-	{
-		"number": 754,
-		"description": "Hillview Estate to Bukit Batok MRT Station (loop)",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"754-1.kml"
-		],
-		"routeFile": [
-			"754.xml"
 		]
 	},
 	{
@@ -998,6 +953,16 @@
 		],
 		"routeFile": [
 			"102A.xml"
+		]
+	},
+	{
+		"number": "102B",
+		"type": "TRUNK",
+		"kmlFile": [
+			"102B-1.kml"
+		],
+		"routeFile": [
+			"102B.xml"
 		]
 	},
 	{
@@ -1998,6 +1963,16 @@
 		],
 		"routeFile": [
 			"163A.xml"
+		]
+	},
+	{
+		"number": "163B",
+		"type": "TRUNK",
+		"kmlFile": [
+			"163B-1.kml"
+		],
+		"routeFile": [
+			"163B.xml"
 		]
 	},
 	{

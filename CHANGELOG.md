@@ -1,3 +1,75 @@
+# 1 November 2023
+
+### Stop names changed: 23
+
+- `10291` Bef Dawson Rd ⮕ Opp Dawson Pl
+- `10299` Aft Dawson Rd ⮕ Aft Dawson Pl
+- `11029` Blk 166 ⮕ Blk 166/Aft Mei Chin Rd
+- `18281` The Rutherford ⮕ Opp Normanton Pk/R'ford
+- `18289` Opp The Rutherford ⮕ Opp R'ford/Normanton Pk
+- `43201` Opp Autobacs ⮕ Park Natura
+- `43289` Hillview Hse ⮕ Mont Botanik Residence
+- `44449` Opp Blks 237/239 ⮕ Opp Blk 238
+- `46011` Bef W'lands Ctr Rd ⮕ Blk 188A
+- `47619` Opp Woodsvale Condo ⮕ Blk 688 CP
+- `64311` Blk 344 ⮕ Riverfront Residences
+- `64319` Opp Blk 344 ⮕ Opp Riverfront Residences
+- `64321` Blk 350 ⮕ Opp Rio Vista
+- `77031` Blk 528C/Pasir Ris Stn ⮕ Opp Pasir Ris Stn Exit B
+- `77039` Bef Pasir Ris Stn ⮕ Pasir Ris Stn Exit B
+- `82121` Dunman View ⮕ Questa @ Dunman
+- `95019` Aft Changi Airport PTB2 ⮕ Aft Changi Airport Ter 2
+- `95029` Changi Airport PTB1 ⮕ Changi Airport Ter 1
+- `95109` Changi Airport PTB3 ⮕ Changi Airport Ter 3
+- `95129` Changi Airport PTB2 ⮕ Changi Airport Ter 2
+- `95209` Changi Airport PTB4 ⮕ Changi Airport Ter 4
+- `01139` Parkview Sq ⮕ Bugis Stn/Parkview Sq
+- `07539` Opp Rochor Stn ⮕ Bef Rochor Stn Exit B
+
+### Stop locations changed: 5
+
+- `10219` 103.81191,1.2909 ⮕ 103.81181,1.29084
+- `55211` 103.84557,1.38604 ⮕ 103.84554,1.38622
+- `65189` 103.91793,1.39683 ⮕ 103.91816,1.39718
+- `77031` 103.94838,1.37116 ⮕ 103.94847,1.37226
+- `77039` 103.94835,1.37159 ⮕ 103.94866,1.37241
+
+## Services count change: 539 ⮕ 541
+
+### Services added: 2
+
+- `102B` Blk 461B → Opp Sengkang Stn/Blk 260A
+- `163B` Sengkang Int → NCS Hub
+
+### Bus Stop Changes To Routes: 4
+
+- `403` Pasir Ris Int ⟲ Aft Pasir Ris Way: +3, -4
+- `118A` Punggol Temp Int → ITE Coll East Adm Blk: +5
+- `883B` Yishun Stn → Opp Blk 590C: +1
+- `969A` Tampines Int → Yishun Stn: +2
+
+## Routes changed: 15
+
+- `52` Bishan Int ⇄ Jurong East Int
+- `92` Ghim Moh Ter ⟲ Opp Ayer Rajah Ind Est
+- `132` Hougang Ctrl Int ⇄ Bt Merah Int
+- `156` Sengkang Int ⇄ Clementi Int
+- `186` Shenton Way Ter ⇄ St. Michael's Ter
+- `230` Toa Payoh Int ⟲ Opp Blk 269A
+- `985` Choa Chu Kang Int ⇄ Lor 1 Geylang Ter
+- `992` Bt Batok Int ⟲ Blk 111
+- `993` Jurong East Int ⟲ Blk 433C
+- `2B` Changi Village Ter → Bedok Stn Exit A
+- `70A` Yio Chu Kang Int → Opp The Ritz-Carlton
+- `92M` Ghim Moh Ter ⟲ Opp Henry Pk
+- `992A` Bt Batok Int → Blk 111
+- `102B` Blk 461B → Opp Sengkang Stn/Blk 260A
+- `163B` Sengkang Int → NCS Hub
+
+## First/last timings changed
+
+Affected services: `89`, `107`, `109`, `132`, `138`, `168`, `170`, `403`, `518`, `655`, `860`, `964`, `78A`, `518A`, `169A`, `169B`, `856A`, `965T`, `856B`, `969A`, `882A`, `883B`, `118A`, `163B`, `102B`
+
 # 1 October 2023
 
 ## Stops count change: 5087 ⮕ 5090

@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From BT PANJANG INT to Shenton Way Ter",
+		"name": "From Bt Panjang Int to Shenton Way Ter",
 		"stops": [
 			"45009",
 			"44199",
@@ -71,7 +71,7 @@
 		]
 	},
 	{
-		"name": "From Shenton Way Ter to BT PANJANG INT",
+		"name": "From Shenton Way Ter to Bt Panjang Int",
 		"stops": [
 			"03239",
 			"03223",

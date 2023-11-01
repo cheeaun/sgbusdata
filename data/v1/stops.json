@@ -234,8 +234,8 @@
 		"Leng Kee Rd"
 	],
 	"10219": [
-		103.81191,
-		1.2909,
+		103.81181,
+		1.29084,
 		"Opp Motor Image",
 		"Leng Kee Rd"
 	],
@@ -314,13 +314,13 @@
 	"10291": [
 		103.81066,
 		1.29216,
-		"Bef Dawson Rd",
+		"Opp Dawson Pl",
 		"Alexandra Rd"
 	],
 	"10299": [
 		103.81146,
 		1.29233,
-		"Aft Dawson Rd",
+		"Aft Dawson Pl",
 		"Alexandra Rd"
 	],
 	"10321": [
@@ -590,7 +590,7 @@
 	"11029": [
 		103.80202,
 		1.29013,
-		"Blk 166",
+		"Blk 166/Aft Mei Chin Rd",
 		"Queensway"
 	],
 	"11031": [
@@ -3182,13 +3182,13 @@
 	"18281": [
 		103.79121,
 		1.28753,
-		"The Rutherford",
+		"Opp Normanton Pk/R'ford",
 		"Science Pk Dr"
 	],
 	"18289": [
 		103.79121,
 		1.28738,
-		"Opp The Rutherford",
+		"Opp R'ford/Normanton Pk",
 		"Science Pk Dr"
 	],
 	"18301": [
@@ -9926,7 +9926,7 @@
 	"43201": [
 		103.76465,
 		1.34694,
-		"Opp Autobacs",
+		"Park Natura",
 		"Bt Batok East Ave 6"
 	],
 	"43209": [
@@ -10028,7 +10028,7 @@
 	"43289": [
 		103.76144,
 		1.35737,
-		"Hillview Hse",
+		"Mont Botanik Residence",
 		"Jln Remaja"
 	],
 	"43291": [
@@ -11156,7 +11156,7 @@
 	"44449": [
 		103.74763,
 		1.37889,
-		"Opp Blks 237/239",
+		"Opp Blk 238",
 		"Choa Chu Kang Way"
 	],
 	"44451": [
@@ -12206,7 +12206,7 @@
 	"46011": [
 		103.77429,
 		1.43852,
-		"Bef W'lands Ctr Rd",
+		"Blk 188A",
 		"Marsiling Rd"
 	],
 	"46019": [
@@ -13598,7 +13598,7 @@
 	"47619": [
 		103.80714,
 		1.44431,
-		"Opp Woodsvale Condo",
+		"Blk 688 CP",
 		"Woodlands Ave 7"
 	],
 	"47621": [
@@ -16428,8 +16428,8 @@
 		"Ang Mo Kio Ave 6"
 	],
 	"55211": [
-		103.84557,
-		1.38604,
+		103.84554,
+		1.38622,
 		"Aft Ang Mo Kio Fire Stn",
 		"Ang Mo Kio St 62"
 	],
@@ -19832,19 +19832,19 @@
 	"64311": [
 		103.90023,
 		1.37014,
-		"Blk 344",
+		"Riverfront Residences",
 		"Hougang Ave 7"
 	],
 	"64319": [
 		103.90038,
 		1.36985,
-		"Opp Blk 344",
+		"Opp Riverfront Residences",
 		"Hougang Ave 7"
 	],
 	"64321": [
 		103.90046,
 		1.37229,
-		"Blk 350",
+		"Opp Rio Vista",
 		"Hougang Ave 7"
 	],
 	"64329": [
@@ -20322,8 +20322,8 @@
 		"Punggol East"
 	],
 	"65189": [
-		103.91793,
-		1.39683,
+		103.91816,
+		1.39718,
 		"Bef Punggol Ctrl",
 		"Punggol East"
 	],
@@ -24516,15 +24516,15 @@
 		"Pasir Ris Dr 1"
 	],
 	"77031": [
-		103.94838,
-		1.37116,
-		"Blk 528C/Pasir Ris Stn",
+		103.94847,
+		1.37226,
+		"Opp Pasir Ris Stn Exit B",
 		"Pasir Ris Dr 1"
 	],
 	"77039": [
-		103.94835,
-		1.37159,
-		"Bef Pasir Ris Stn",
+		103.94866,
+		1.37241,
+		"Pasir Ris Stn Exit B",
 		"Pasir Ris Dr 1"
 	],
 	"77041": [
@@ -25784,7 +25784,7 @@
 	"82121": [
 		103.89658,
 		1.30965,
-		"Dunman View",
+		"Questa @ Dunman",
 		"Dunman Rd"
 	],
 	"82129": [
@@ -27848,13 +27848,13 @@
 	"95019": [
 		103.98488,
 		1.34794,
-		"Aft Changi Airport PTB2",
+		"Aft Changi Airport Ter 2",
 		"Airport Blvd"
 	],
 	"95029": [
 		103.9907,
 		1.36127,
-		"Changi Airport PTB1",
+		"Changi Airport Ter 1",
 		"PTB1 Basement"
 	],
 	"95039": [
@@ -27932,13 +27932,13 @@
 	"95109": [
 		103.98635,
 		1.3565,
-		"Changi Airport PTB3",
+		"Changi Airport Ter 3",
 		"PTB3 Basement"
 	],
 	"95129": [
 		103.98922,
 		1.35509,
-		"Changi Airport PTB2",
+		"Changi Airport Ter 2",
 		"PTB2 Basement"
 	],
 	"95131": [
@@ -28022,7 +28022,7 @@
 	"95209": [
 		103.98206,
 		1.33899,
-		"Changi Airport PTB4",
+		"Changi Airport Ter 4",
 		"T4 CRESCENT"
 	],
 	"95901": [
@@ -29222,7 +29222,7 @@
 	"01139": [
 		103.85716,
 		1.30033,
-		"Parkview Sq",
+		"Bugis Stn/Parkview Sq",
 		"Nth Bridge Rd"
 	],
 	"01211": [
@@ -30308,7 +30308,7 @@
 	"07539": [
 		103.852,
 		1.30461,
-		"Opp Rochor Stn",
+		"Bef Rochor Stn Exit B",
 		"Sungei Rd"
 	],
 	"07551": [
