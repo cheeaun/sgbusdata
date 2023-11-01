@@ -86,7 +86,7 @@
 	{
 		"BusStopCode": "01139",
 		"RoadName": "Nth Bridge Rd",
-		"Description": "Parkview Sq",
+		"Description": "Bugis Stn/Parkview Sq",
 		"Latitude": 1.30033057855542,
 		"Longitude": 103.85716080665901
 	},
@@ -1353,7 +1353,7 @@
 	{
 		"BusStopCode": "07539",
 		"RoadName": "Sungei Rd",
-		"Description": "Opp Rochor Stn",
+		"Description": "Bef Rochor Stn Exit B",
 		"Latitude": 1.30461300741211,
 		"Longitude": 103.8520009720951
 	},
@@ -1900,8 +1900,8 @@
 		"BusStopCode": "10219",
 		"RoadName": "Leng Kee Rd",
 		"Description": "Opp Motor Image",
-		"Latitude": 1.29089526651849,
-		"Longitude": 103.81191424883255
+		"Latitude": 1.290835,
+		"Longitude": 103.81181
 	},
 	{
 		"BusStopCode": "10221",
@@ -1990,14 +1990,14 @@
 	{
 		"BusStopCode": "10291",
 		"RoadName": "Alexandra Rd",
-		"Description": "Bef Dawson Rd",
+		"Description": "Opp Dawson Pl",
 		"Latitude": 1.29215855273858,
 		"Longitude": 103.81065866068086
 	},
 	{
 		"BusStopCode": "10299",
 		"RoadName": "Alexandra Rd",
-		"Description": "Aft Dawson Rd",
+		"Description": "Aft Dawson Pl",
 		"Latitude": 1.29233498466278,
 		"Longitude": 103.81146486767658
 	},
@@ -2312,7 +2312,7 @@
 	{
 		"BusStopCode": "11029",
 		"RoadName": "Queensway",
-		"Description": "Blk 166",
+		"Description": "Blk 166/Aft Mei Chin Rd",
 		"Latitude": 1.29013472201419,
 		"Longitude": 103.80202111098815
 	},
@@ -5336,14 +5336,14 @@
 	{
 		"BusStopCode": "18281",
 		"RoadName": "Science Pk Dr",
-		"Description": "The Rutherford",
+		"Description": "Opp Normanton Pk/R'ford",
 		"Latitude": 1.28752556916883,
 		"Longitude": 103.7912122154174
 	},
 	{
 		"BusStopCode": "18289",
 		"RoadName": "Science Pk Dr",
-		"Description": "Opp The Rutherford",
+		"Description": "Opp R'ford/Normanton Pk",
 		"Latitude": 1.28738105702672,
 		"Longitude": 103.7912059790003
 	},
@@ -13204,7 +13204,7 @@
 	{
 		"BusStopCode": "43201",
 		"RoadName": "Bt Batok East Ave 6",
-		"Description": "Opp Autobacs",
+		"Description": "Park Natura",
 		"Latitude": 1.34694499998204,
 		"Longitude": 103.76464638897035
 	},
@@ -13323,7 +13323,7 @@
 	{
 		"BusStopCode": "43289",
 		"RoadName": "Jln Remaja",
-		"Description": "Hillview Hse",
+		"Description": "Mont Botanik Residence",
 		"Latitude": 1.35736881542526,
 		"Longitude": 103.76144116190218
 	},
@@ -14639,7 +14639,7 @@
 	{
 		"BusStopCode": "44449",
 		"RoadName": "Choa Chu Kang Way",
-		"Description": "Opp Blks 237/239",
+		"Description": "Opp Blk 238",
 		"Latitude": 1.37889232196067,
 		"Longitude": 103.74762704486072
 	},
@@ -15864,7 +15864,7 @@
 	{
 		"BusStopCode": "46011",
 		"RoadName": "Marsiling Rd",
-		"Description": "Bef W'Lands Ctr Rd",
+		"Description": "Blk 188A",
 		"Latitude": 1.4385198561158,
 		"Longitude": 103.7742921156719
 	},
@@ -17488,7 +17488,7 @@
 	{
 		"BusStopCode": "47619",
 		"RoadName": "Woodlands Ave 7",
-		"Description": "Opp Woodsvale Condo",
+		"Description": "Blk 688 CP",
 		"Latitude": 1.44430697551185,
 		"Longitude": 103.80713784459924
 	},
@@ -20793,8 +20793,8 @@
 		"BusStopCode": "55211",
 		"RoadName": "Ang Mo Kio St 62",
 		"Description": "Aft Ang Mo Kio Fire Stn",
-		"Latitude": 1.38603759468682,
-		"Longitude": 103.8455676081697
+		"Latitude": 1.386216,
+		"Longitude": 103.845539
 	},
 	{
 		"BusStopCode": "55219",
@@ -24761,21 +24761,21 @@
 	{
 		"BusStopCode": "64311",
 		"RoadName": "Hougang Ave 7",
-		"Description": "Blk 344",
+		"Description": "Riverfront Residences",
 		"Latitude": 1.37014334916955,
 		"Longitude": 103.90023200745897
 	},
 	{
 		"BusStopCode": "64319",
 		"RoadName": "Hougang Ave 7",
-		"Description": "Opp Blk 344",
+		"Description": "Opp Riverfront Residences",
 		"Latitude": 1.36984558380582,
 		"Longitude": 103.90037616571983
 	},
 	{
 		"BusStopCode": "64321",
 		"RoadName": "Hougang Ave 7",
-		"Description": "Blk 350",
+		"Description": "Opp Rio Vista",
 		"Latitude": 1.37229075864076,
 		"Longitude": 103.90046238900685
 	},
@@ -25336,8 +25336,8 @@
 		"BusStopCode": "65189",
 		"RoadName": "Punggol East",
 		"Description": "Bef Punggol Ctrl",
-		"Latitude": 1.39682694447407,
-		"Longitude": 103.91793305556935
+		"Latitude": 1.397182,
+		"Longitude": 103.918161
 	},
 	{
 		"BusStopCode": "65191",
@@ -30228,16 +30228,16 @@
 	{
 		"BusStopCode": "77031",
 		"RoadName": "Pasir Ris Dr 1",
-		"Description": "Blk 528C/Pasir Ris Stn",
-		"Latitude": 1.37116337071002,
-		"Longitude": 103.9483810573245
+		"Description": "Opp Pasir Ris Stn Exit B",
+		"Latitude": 1.372262,
+		"Longitude": 103.948468
 	},
 	{
 		"BusStopCode": "77039",
 		"RoadName": "Pasir Ris Dr 1",
-		"Description": "Bef Pasir Ris Stn",
-		"Latitude": 1.37159118708865,
-		"Longitude": 103.94834855629753
+		"Description": "Pasir Ris Stn Exit B",
+		"Latitude": 1.37241,
+		"Longitude": 103.948657
 	},
 	{
 		"BusStopCode": "77041",
@@ -31705,7 +31705,7 @@
 	{
 		"BusStopCode": "82121",
 		"RoadName": "Dunman Rd",
-		"Description": "Dunman View",
+		"Description": "Questa @ Dunman",
 		"Latitude": 1.30965150589688,
 		"Longitude": 103.8965764453886
 	},
@@ -34113,14 +34113,14 @@
 	{
 		"BusStopCode": "95019",
 		"RoadName": "Airport Blvd",
-		"Description": "Aft Changi Airport PTB2",
+		"Description": "Aft Changi Airport Ter 2",
 		"Latitude": 1.34794299896363,
 		"Longitude": 103.98488339642644
 	},
 	{
 		"BusStopCode": "95029",
 		"RoadName": "PTB1 Basement",
-		"Description": "Changi Airport PTB1",
+		"Description": "Changi Airport Ter 1",
 		"Latitude": 1.36126748727797,
 		"Longitude": 103.99069984684058
 	},
@@ -34211,14 +34211,14 @@
 	{
 		"BusStopCode": "95109",
 		"RoadName": "PTB3 Basement",
-		"Description": "Changi Airport PTB3",
+		"Description": "Changi Airport Ter 3",
 		"Latitude": 1.35650049529119,
 		"Longitude": 103.98635233782801
 	},
 	{
 		"BusStopCode": "95129",
 		"RoadName": "PTB2 Basement",
-		"Description": "Changi Airport PTB2",
+		"Description": "Changi Airport Ter 2",
 		"Latitude": 1.35509298857124,
 		"Longitude": 103.9892195407387
 	},
@@ -34316,7 +34316,7 @@
 	{
 		"BusStopCode": "95209",
 		"RoadName": "T4 CRESCENT",
-		"Description": "CHANGI AIRPORT PTB4",
+		"Description": "Changi Airport Ter 4",
 		"Latitude": 1.33899412275069,
 		"Longitude": 103.98206408704047
 	},

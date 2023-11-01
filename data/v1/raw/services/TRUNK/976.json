@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Choa Chu Kang Int to BT PANJANG INT",
+		"name": "From Choa Chu Kang Int to Bt Panjang Int",
 		"stops": [
 			"44009",
 			"44461",
@@ -29,7 +29,7 @@
 		]
 	},
 	{
-		"name": "From BT PANJANG INT to Choa Chu Kang Int",
+		"name": "From Bt Panjang Int to Choa Chu Kang Int",
 		"stops": [
 			"45009",
 			"44201",

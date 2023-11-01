@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Choa Chu Kang Int to KAMPONG BAHRU TER",
+		"name": "From Choa Chu Kang Int to Kampong Bahru Ter",
 		"stops": [
 			"44009",
 			"44539",
@@ -38,7 +38,7 @@
 		]
 	},
 	{
-		"name": "From KAMPONG BAHRU TER to Choa Chu Kang Int",
+		"name": "From Kampong Bahru Ter to Choa Chu Kang Int",
 		"stops": [
 			"10499",
 			"10049",

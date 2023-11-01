@@ -6383,7 +6383,7 @@
 	{
 		"name": "01139",
 		"wab": "true",
-		"details": "Parkview Sq",
+		"details": "Bugis Stn/Parkview Sq",
 		"coordinates": {
 			"lat": 1.30033057855542,
 			"long": 103.85716080665901
@@ -8012,7 +8012,7 @@
 	{
 		"name": "07539",
 		"wab": "true",
-		"details": "Opp Rochor Stn",
+		"details": "Bef Rochor Stn Exit B",
 		"coordinates": {
 			"lat": 1.30461300741211,
 			"long": 103.8520009720951
@@ -8716,8 +8716,8 @@
 		"wab": "true",
 		"details": "Opp Motor Image",
 		"coordinates": {
-			"lat": 1.29089526651849,
-			"long": 103.81191424883255
+			"lat": 1.290835,
+			"long": 103.81181
 		}
 	},
 	{
@@ -8831,7 +8831,7 @@
 	{
 		"name": "10291",
 		"wab": "true",
-		"details": "Bef Dawson Rd",
+		"details": "Opp Dawson Pl",
 		"coordinates": {
 			"lat": 1.29215855273858,
 			"long": 103.81065866068086
@@ -8840,7 +8840,7 @@
 	{
 		"name": "10299",
 		"wab": "true",
-		"details": "Aft Dawson Rd",
+		"details": "Aft Dawson Pl",
 		"coordinates": {
 			"lat": 1.29233498466278,
 			"long": 103.81146486767658
@@ -9245,7 +9245,7 @@
 	{
 		"name": "11029",
 		"wab": "true",
-		"details": "Blk 166",
+		"details": "Blk 166/Aft Mei Chin Rd",
 		"coordinates": {
 			"lat": 1.29013472201419,
 			"long": 103.80202111098815
@@ -13133,7 +13133,7 @@
 	{
 		"name": "18281",
 		"wab": "true",
-		"details": "The Rutherford",
+		"details": "Opp Normanton Pk/R'ford",
 		"coordinates": {
 			"lat": 1.28752556916883,
 			"long": 103.7912122154174
@@ -13142,7 +13142,7 @@
 	{
 		"name": "18289",
 		"wab": "true",
-		"details": "Opp The Rutherford",
+		"details": "Opp R'ford/Normanton Pk",
 		"coordinates": {
 			"lat": 1.28738105702672,
 			"long": 103.7912059790003
@@ -23249,7 +23249,7 @@
 	{
 		"name": "43201",
 		"wab": "true",
-		"details": "Opp Autobacs",
+		"details": "Park Natura",
 		"coordinates": {
 			"lat": 1.34694499998204,
 			"long": 103.76464638897035
@@ -23402,7 +23402,7 @@
 	{
 		"name": "43289",
 		"wab": "true",
-		"details": "Hillview Hse",
+		"details": "Mont Botanik Residence",
 		"coordinates": {
 			"lat": 1.35736881542526,
 			"long": 103.76144116190218
@@ -25084,7 +25084,7 @@
 	},
 	{
 		"name": "44441",
-		"wab": "false",
+		"wab": "true",
 		"details": "Blk 239",
 		"coordinates": {
 			"lat": 1.37924285981093,
@@ -25094,7 +25094,7 @@
 	{
 		"name": "44449",
 		"wab": "true",
-		"details": "Opp Blks 237/239",
+		"details": "Opp Blk 238",
 		"coordinates": {
 			"lat": 1.37889232196067,
 			"long": 103.74762704486072
@@ -26669,7 +26669,7 @@
 	{
 		"name": "46011",
 		"wab": "true",
-		"details": "Bef W'lands Ctr Rd",
+		"details": "Blk 188A",
 		"coordinates": {
 			"lat": 1.4385198561158,
 			"long": 103.7742921156719
@@ -28757,7 +28757,7 @@
 	{
 		"name": "47619",
 		"wab": "true",
-		"details": "Opp Woodsvale Condo",
+		"details": "Blk 688 CP",
 		"coordinates": {
 			"lat": 1.44430697551185,
 			"long": 103.80713784459924
@@ -33007,8 +33007,8 @@
 		"wab": "true",
 		"details": "Aft Ang Mo Kio Fire Stn",
 		"coordinates": {
-			"lat": 1.38603759468682,
-			"long": 103.8455676081697
+			"lat": 1.386216,
+			"long": 103.845539
 		}
 	},
 	{
@@ -38108,7 +38108,7 @@
 	{
 		"name": "64311",
 		"wab": "true",
-		"details": "Blk 344",
+		"details": "Riverfront Residences",
 		"coordinates": {
 			"lat": 1.37014334916955,
 			"long": 103.90023200745897
@@ -38117,7 +38117,7 @@
 	{
 		"name": "64319",
 		"wab": "true",
-		"details": "Opp Blk 344",
+		"details": "Opp Riverfront Residences",
 		"coordinates": {
 			"lat": 1.36984558380582,
 			"long": 103.90037616571983
@@ -38126,7 +38126,7 @@
 	{
 		"name": "64321",
 		"wab": "true",
-		"details": "Blk 350",
+		"details": "Opp Rio Vista",
 		"coordinates": {
 			"lat": 1.37229075864076,
 			"long": 103.90046238900685
@@ -38848,8 +38848,8 @@
 		"wab": "true",
 		"details": "Bef Punggol Ctrl",
 		"coordinates": {
-			"lat": 1.39682694447407,
-			"long": 103.91793305556935
+			"lat": 1.397182,
+			"long": 103.918161
 		}
 	},
 	{
@@ -45137,19 +45137,19 @@
 	{
 		"name": "77031",
 		"wab": "true",
-		"details": "Blk 528C/Pasir Ris Stn",
+		"details": "Opp Pasir Ris Stn Exit B",
 		"coordinates": {
-			"lat": 1.37116337071002,
-			"long": 103.9483810573245
+			"lat": 1.372262,
+			"long": 103.948468
 		}
 	},
 	{
 		"name": "77039",
 		"wab": "true",
-		"details": "Bef Pasir Ris Stn",
+		"details": "Pasir Ris Stn Exit B",
 		"coordinates": {
-			"lat": 1.37159118708865,
-			"long": 103.94834855629753
+			"lat": 1.37241,
+			"long": 103.948657
 		}
 	},
 	{
@@ -47036,7 +47036,7 @@
 	{
 		"name": "82121",
 		"wab": "true",
-		"details": "Dunman View",
+		"details": "Questa @ Dunman",
 		"coordinates": {
 			"lat": 1.30965150589688,
 			"long": 103.8965764453886
@@ -50132,7 +50132,7 @@
 	{
 		"name": "95019",
 		"wab": "true",
-		"details": "Aft Changi Airport PTB2",
+		"details": "Aft Changi Airport Ter 2",
 		"coordinates": {
 			"lat": 1.34794299896363,
 			"long": 103.98488339642644
@@ -50141,7 +50141,7 @@
 	{
 		"name": "95029",
 		"wab": "true",
-		"details": "Changi Airport PTB1",
+		"details": "Changi Airport Ter 1",
 		"coordinates": {
 			"lat": 1.36126748727797,
 			"long": 103.99069984684058
@@ -50258,7 +50258,7 @@
 	{
 		"name": "95109",
 		"wab": "true",
-		"details": "Changi Airport PTB3",
+		"details": "Changi Airport Ter 3",
 		"coordinates": {
 			"lat": 1.35650049529119,
 			"long": 103.98635233782801
@@ -50267,7 +50267,7 @@
 	{
 		"name": "95129",
 		"wab": "true",
-		"details": "Changi Airport PTB2",
+		"details": "Changi Airport Ter 2",
 		"coordinates": {
 			"lat": 1.35509298857124,
 			"long": 103.9892195407387
@@ -50393,7 +50393,7 @@
 	{
 		"name": "95209",
 		"wab": "true",
-		"details": "Changi Airport PTB4",
+		"details": "Changi Airport Ter 4",
 		"coordinates": {
 			"lat": 1.33899412275069,
 			"long": 103.98206408704047

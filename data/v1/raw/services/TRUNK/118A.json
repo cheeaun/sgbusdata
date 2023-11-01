@@ -1,7 +1,12 @@
 [
 	{
-		"name": "From Aft Punggol Rd to ITE Coll East Adm Blk",
+		"name": "From Punggol Temp Int to ITE Coll East Adm Blk",
 		"stops": [
+			"65009",
+			"65259",
+			"65409",
+			"65141",
+			"65431",
 			"65199",
 			"75359",
 			"75369",
