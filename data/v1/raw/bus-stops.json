@@ -17956,7 +17956,7 @@
 	},
 	{
 		"name": "25461",
-		"wab": "false",
+		"wab": "true",
 		"details": "Aft Tuas West Ave",
 		"coordinates": {
 			"lat": 1.32944826490136,
@@ -18658,7 +18658,7 @@
 	},
 	{
 		"name": "26201",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp MSD",
 		"coordinates": {
 			"lat": 1.32695291537121,
@@ -18784,7 +18784,7 @@
 	},
 	{
 		"name": "26321",
-		"wab": "false",
+		"wab": "true",
 		"details": "Bef Tuas Sth St 2",
 		"coordinates": {
 			"lat": 1.30603953289231,
@@ -18793,7 +18793,7 @@
 	},
 	{
 		"name": "26331",
-		"wab": "false",
+		"wab": "true",
 		"details": "RS Components",
 		"coordinates": {
 			"lat": 1.30869957612651,
@@ -20625,6 +20625,15 @@
 		"coordinates": {
 			"lat": 1.331639972025,
 			"long": 103.75734406053928
+		}
+	},
+	{
+		"name": "29009",
+		"wab": "true",
+		"details": "Jurong Town Hall Int",
+		"coordinates": {
+			"lat": 1.330212,
+			"long": 103.7433
 		}
 	},
 	{
@@ -27847,7 +27856,7 @@
 	},
 	{
 		"name": "46711",
-		"wab": "false",
+		"wab": "true",
 		"details": "Bef W'lands Ind Pk E3",
 		"coordinates": {
 			"lat": 1.45470160187201,
@@ -29517,6 +29526,24 @@
 		"coordinates": {
 			"lat": 1.43705520733335,
 			"long": 103.72546776099374
+		}
+	},
+	{
+		"name": "49251",
+		"wab": "true",
+		"details": "TimMac @ Kranji",
+		"coordinates": {
+			"lat": 1.437161,
+			"long": 103.756171
+		}
+	},
+	{
+		"name": "49259",
+		"wab": "true",
+		"details": "Opp TimMac @ Kranji",
+		"coordinates": {
+			"lat": 1.436986,
+			"long": 103.756005
 		}
 	},
 	{
@@ -33670,7 +33697,7 @@
 	},
 	{
 		"name": "57111",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp Blk 101",
 		"coordinates": {
 			"lat": 1.43123622644607,

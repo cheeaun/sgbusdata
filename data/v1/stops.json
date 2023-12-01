@@ -8177,6 +8177,12 @@
 		"Bef Old Toh Tuck Rd",
 		"Toh Tuck Link"
 	],
+	"29009": [
+		103.7433,
+		1.33021,
+		"Jurong Town Hall Int",
+		"Venture Dr"
+	],
 	"29011": [
 		103.73362,
 		1.30855,
@@ -14104,6 +14110,18 @@
 		1.43706,
 		"Aft Neo Tiew Rd",
 		"Neo Tiew Cres"
+	],
+	"49251": [
+		103.75617,
+		1.43716,
+		"TimMac @ Kranji",
+		"Kranji Loop"
+	],
+	"49259": [
+		103.75601,
+		1.43699,
+		"Opp TimMac @ Kranji",
+		"Kranji Loop"
 	],
 	"50011": [
 		103.8472,

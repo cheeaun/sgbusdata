@@ -1,0 +1,993 @@
+{
+	"feeds": [],
+	"routes": [
+		{
+			"aliases": [
+				"sbs-transit-9b"
+			],
+			"brand": "SBSTBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "SBSTBuses9B",
+			"long_name": "Simei Stn - 3rd Cargo Agents",
+			"mode": "bus",
+			"name": "9B",
+			"patterns": [
+				{
+					"id": "9B_0",
+					"name": "towards 3rd Cargo Agents",
+					"path": [
+						[
+							1.342262,
+							103.953466
+						],
+						[
+							1.344318,
+							103.955888
+						],
+						[
+							1.345631,
+							103.957705
+						],
+						[
+							1.347194,
+							103.95776
+						],
+						[
+							1.353033,
+							103.954802
+						],
+						[
+							1.35508,
+							103.955298
+						],
+						[
+							1.356669,
+							103.957362
+						],
+						[
+							1.358458,
+							103.959171
+						],
+						[
+							1.362214,
+							103.962916
+						],
+						[
+							1.364737,
+							103.965377
+						],
+						[
+							1.369059,
+							103.969683
+						],
+						[
+							1.372055,
+							103.970232
+						],
+						[
+							1.374114,
+							103.972259
+						],
+						[
+							1.376528,
+							103.977166
+						],
+						[
+							1.379654,
+							103.978389
+						],
+						[
+							1.383281,
+							103.978122
+						],
+						[
+							1.386671,
+							103.979169
+						],
+						[
+							1.387906,
+							103.981778
+						],
+						[
+							1.3878,
+							103.985473
+						],
+						[
+							1.387754,
+							103.988503
+						],
+						[
+							1.391128,
+							103.991021
+						],
+						[
+							1.390262,
+							103.992957
+						],
+						[
+							1.389947,
+							103.995122
+						],
+						[
+							1.38959,
+							103.997617
+						],
+						[
+							1.387214,
+							103.999714
+						],
+						[
+							1.385252,
+							103.999834
+						],
+						[
+							1.381386,
+							103.998191
+						],
+						[
+							1.377552,
+							103.996539
+						],
+						[
+							1.375283,
+							103.996196
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_SimeiStn_E",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_Blk146_E",
+							"path_index": 1
+						},
+						{
+							"id": "SingaporeStop_Blk151_N",
+							"path_index": 2
+						},
+						{
+							"id": "SingaporeStop_Blk135_NW",
+							"path_index": 3
+						},
+						{
+							"id": "SingaporeStop_TampinesEastCc_NE",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_TampinesEastStnExitB_N",
+							"path_index": 5
+						},
+						{
+							"id": "SingaporeStop_TampinesJc_NE",
+							"path_index": 6
+						},
+						{
+							"id": "SingaporeStop_Blk497D_E",
+							"path_index": 7
+						},
+						{
+							"id": "SingaporeStop_Blk149A_NE",
+							"path_index": 8
+						},
+						{
+							"id": "SingaporeStop_Blk275_NE",
+							"path_index": 9
+						},
+						{
+							"id": "SingaporeStop_OppLoyangValley_NE",
+							"path_index": 10
+						},
+						{
+							"id": "SingaporeStop_KrisliteBldg_NE",
+							"path_index": 11
+						},
+						{
+							"id": "SingaporeStop_OppHitachiChemical_NE",
+							"path_index": 12
+						},
+						{
+							"id": "SingaporeStop_OppEngineTestFacility_NE",
+							"path_index": 13
+						},
+						{
+							"id": "SingaporeStop_Lp80_N",
+							"path_index": 14
+						},
+						{
+							"id": "SingaporeStop_BefSchOfCommando_N",
+							"path_index": 15
+						},
+						{
+							"id": "SingaporeStop_BefCranwellRd_N",
+							"path_index": 16
+						},
+						{
+							"id": "SingaporeStop_OppMaranathaBpCh_E",
+							"path_index": 17
+						},
+						{
+							"id": "SingaporeStop_AftChangiGolfCourse_E",
+							"path_index": 18
+						},
+						{
+							"id": "SingaporeStop_BefSporeAviationAc_E",
+							"path_index": 19
+						},
+						{
+							"id": "SingaporeStop_ChangiBeachCp2_SE",
+							"path_index": 20
+						},
+						{
+							"id": "SingaporeStop_BefChangiBeachCp3_E",
+							"path_index": 21
+						},
+						{
+							"id": "SingaporeStop_ChangiBeachCp4_E",
+							"path_index": 22
+						},
+						{
+							"id": "SingaporeStop_ChangiBeachCp5_SE",
+							"path_index": 23
+						},
+						{
+							"id": "SingaporeStop_SafFerryTer_S",
+							"path_index": 24
+						},
+						{
+							"id": "SingaporeStop_PolicePassOff_SW",
+							"path_index": 25
+						},
+						{
+							"id": "SingaporeStop_AftCargoBldgD_SW",
+							"path_index": 26
+						},
+						{
+							"id": "SingaporeStop_SiaHangar_S",
+							"path_index": 27
+						},
+						{
+							"id": "SingaporeStop_3RdCargoAgents_S",
+							"path_index": 28
+						}
+					]
+				}
+			],
+			"status": {
+				"level": 0,
+				"summary": "Good Service"
+			},
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
+			"ui_color": "#5BC824",
+			"url": "https://citymapper.com/singapore/l/sbs-transit-9b"
+		}
+	],
+	"status": 0,
+	"stops": {
+		"SingaporeStop_3RdCargoAgents_S": {
+			"bearing": "S",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.375283,
+				103.996196
+			],
+			"live_code": "SingaporeStop_3RdCargoAgents_S",
+			"name": "3rd Cargo Agents",
+			"routes": [
+				"SBSTBuses19",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses89E",
+				"SBSTBuses9",
+				"SBSTBuses9B",
+				"SBSTBusesLcs1",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "95051"
+		},
+		"SingaporeStop_AftCargoBldgD_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.381386,
+				103.998191
+			],
+			"live_code": "SingaporeStop_AftCargoBldgD_SW",
+			"name": "Aft Cargo Bldg D",
+			"routes": [
+				"SBSTBuses19",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses89E",
+				"SBSTBuses9",
+				"SBSTBuses9B",
+				"SBSTBusesLcs1",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "95141"
+		},
+		"SingaporeStop_AftChangiGolfCourse_E": {
+			"bearing": "E",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.3878,
+				103.985473
+			],
+			"live_code": "SingaporeStop_AftChangiGolfCourse_E",
+			"name": "Aft Changi Golf Course",
+			"routes": [
+				"SBSTBuses109",
+				"SBSTBuses19",
+				"GASBuses2",
+				"SBSTBuses59",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses9",
+				"SBSTBuses9B"
+			],
+			"stop_code": "99041"
+		},
+		"SingaporeStop_BefChangiBeachCp3_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.390262,
+				103.992957
+			],
+			"live_code": "SingaporeStop_BefChangiBeachCp3_E",
+			"name": "Bef Changi Beach Cp 3",
+			"routes": [
+				"SBSTBuses19",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses9",
+				"SBSTBuses9B"
+			],
+			"stop_code": "99161"
+		},
+		"SingaporeStop_BefCranwellRd_N": {
+			"bearing": "N",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.386671,
+				103.979169
+			],
+			"live_code": "SingaporeStop_BefCranwellRd_N",
+			"name": "Bef Cranwell Rd",
+			"routes": [
+				"SBSTBuses109",
+				"SBSTBuses19",
+				"GASBuses2",
+				"SBSTBuses29",
+				"SBSTBuses59",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses9",
+				"SBSTBuses9B"
+			],
+			"stop_code": "99021"
+		},
+		"SingaporeStop_BefSchOfCommando_N": {
+			"bearing": "N",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.383281,
+				103.978122
+			],
+			"live_code": "SingaporeStop_BefSchOfCommando_N",
+			"name": "Bef Sch Of Commando",
+			"routes": [
+				"SBSTBuses109",
+				"SBSTBuses19",
+				"GASBuses2",
+				"SBSTBuses29",
+				"SBSTBuses59",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses9",
+				"SBSTBuses9B"
+			],
+			"stop_code": "99011"
+		},
+		"SingaporeStop_BefSporeAviationAc_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.387754,
+				103.988503
+			],
+			"live_code": "SingaporeStop_BefSporeAviationAc_E",
+			"name": "Bef S'Pore Aviation Ac",
+			"routes": [
+				"SBSTBuses19",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses89E",
+				"SBSTBuses9",
+				"SBSTBuses9B",
+				"SBSTBusesLcs1",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "99181"
+		},
+		"SingaporeStop_Blk135_NW": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.347194,
+				103.95776
+			],
+			"live_code": "SingaporeStop_Blk135_NW",
+			"name": "Metta Welfare Assn",
+			"routes": [
+				"GASBuses12",
+				"GASBuses12E",
+				"SBSTBuses20",
+				"SBSTBuses38",
+				"SBSTBuses9",
+				"SBSTBuses9A",
+				"SBSTBuses9B"
+			],
+			"stop_code": "96121"
+		},
+		"SingaporeStop_Blk146_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.344318,
+				103.955888
+			],
+			"live_code": "SingaporeStop_Blk146_E",
+			"name": "Blk 146",
+			"routes": [
+				"SBSTBuses5",
+				"SBSTBuses5B",
+				"SBSTBuses9",
+				"SBSTBuses9A",
+				"SBSTBuses9B"
+			],
+			"stop_code": "96269"
+		},
+		"SingaporeStop_Blk149A_NE": {
+			"bearing": "NE",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.362214,
+				103.962916
+			],
+			"live_code": "SingaporeStop_Blk149A_NE",
+			"name": "Blk 149a",
+			"routes": [
+				"GASBuses12",
+				"GASBuses12E",
+				"GASBuses17",
+				"SBSTBuses19",
+				"SBSTBuses21",
+				"GASBuses3",
+				"SBSTBuses39",
+				"GASBuses3A",
+				"GASBuses518",
+				"SBSTBuses53",
+				"SBSTBuses59",
+				"GASBuses661",
+				"SBSTBuses81",
+				"SBSTBuses9",
+				"SBSTBuses9A",
+				"SBSTBuses9B"
+			],
+			"stop_code": "98011"
+		},
+		"SingaporeStop_Blk151_N": {
+			"bearing": "N",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.345631,
+				103.957705
+			],
+			"live_code": "SingaporeStop_Blk151_N",
+			"name": "Blk 151",
+			"routes": [
+				"GASBuses12",
+				"GASBuses12E",
+				"SBSTBuses9",
+				"SBSTBuses9A",
+				"SBSTBuses9B"
+			],
+			"stop_code": "96181"
+		},
+		"SingaporeStop_Blk275_NE": {
+			"bearing": "N",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.364737,
+				103.965377
+			],
+			"live_code": "SingaporeStop_Blk275_NE",
+			"name": "Blk 275",
+			"routes": [
+				"SBSTBuses19",
+				"GASBuses359",
+				"SBSTBuses59",
+				"SBSTBuses9",
+				"SBSTBuses9B"
+			],
+			"stop_code": "98021"
+		},
+		"SingaporeStop_Blk497D_E": {
+			"bearing": "E",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.358458,
+				103.959171
+			],
+			"live_code": "SingaporeStop_Blk497D_E",
+			"name": "Blk 497d",
+			"routes": [
+				"GASBuses12",
+				"GASBuses12E",
+				"GASBuses17",
+				"SBSTBuses19",
+				"SBSTBuses21",
+				"SBSTBuses29",
+				"SBSTBuses29A",
+				"GASBuses3",
+				"GASBuses34",
+				"GASBuses34B",
+				"SBSTBuses37",
+				"SBSTBuses39",
+				"GASBuses3A",
+				"SBSTBuses4",
+				"GASBuses518",
+				"SBSTBuses59",
+				"SBSTBuses81",
+				"SBSTBuses9",
+				"SBSTBuses9A",
+				"SBSTBuses9B"
+			],
+			"stop_code": "76241"
+		},
+		"SingaporeStop_ChangiBeachCp2_SE": {
+			"bearing": "SE",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.391128,
+				103.991021
+			],
+			"live_code": "SingaporeStop_ChangiBeachCp2_SE",
+			"name": "Changi Beach Cp 2",
+			"routes": [
+				"SBSTBuses19",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses9",
+				"SBSTBuses9B"
+			],
+			"stop_code": "99171"
+		},
+		"SingaporeStop_ChangiBeachCp4_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.389947,
+				103.995122
+			],
+			"live_code": "SingaporeStop_ChangiBeachCp4_E",
+			"name": "Changi Beach Cp 4",
+			"routes": [
+				"SBSTBuses19",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses9",
+				"SBSTBuses9B"
+			],
+			"stop_code": "95071"
+		},
+		"SingaporeStop_ChangiBeachCp5_SE": {
+			"bearing": "SE",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.38959,
+				103.997617
+			],
+			"live_code": "SingaporeStop_ChangiBeachCp5_SE",
+			"name": "Changi Beach Cp 5",
+			"routes": [
+				"SBSTBuses19",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses9",
+				"SBSTBuses9B"
+			],
+			"stop_code": "95081"
+		},
+		"SingaporeStop_KrisliteBldg_NE": {
+			"bearing": "NE",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.372055,
+				103.970232
+			],
+			"live_code": "SingaporeStop_KrisliteBldg_NE",
+			"name": "Krislite Bldg",
+			"routes": [
+				"SBSTBuses109",
+				"SBSTBuses19",
+				"SBSTBuses59",
+				"GASBuses6",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses89E",
+				"SBSTBuses9",
+				"SBSTBuses9B",
+				"SBSTBusesLcs1",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "98121"
+		},
+		"SingaporeStop_Lp80_N": {
+			"bearing": "NE",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.379654,
+				103.978389
+			],
+			"live_code": "SingaporeStop_Lp80_N",
+			"name": "Loyang Way 4 / Soxal",
+			"routes": [
+				"SBSTBuses109",
+				"SBSTBuses19",
+				"GASBuses2",
+				"SBSTBuses29",
+				"SBSTBuses59",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses9",
+				"SBSTBuses9B",
+				"SBSTBusesLcs1",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "98071"
+		},
+		"SingaporeStop_OppEngineTestFacility_NE": {
+			"bearing": "NE",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.376528,
+				103.977166
+			],
+			"live_code": "SingaporeStop_OppEngineTestFacility_NE",
+			"name": "Opp Engine Test Facility",
+			"routes": [
+				"SBSTBuses109",
+				"SBSTBuses19",
+				"GASBuses2",
+				"SBSTBuses29",
+				"SBSTBuses59",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses89E",
+				"SBSTBuses9",
+				"SBSTBuses9B",
+				"SBSTBusesLcs1",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "98061"
+		},
+		"SingaporeStop_OppHitachiChemical_NE": {
+			"bearing": "NE",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.374114,
+				103.972259
+			],
+			"live_code": "SingaporeStop_OppHitachiChemical_NE",
+			"name": "Bef Loyang Way 1",
+			"routes": [
+				"SBSTBuses109",
+				"SBSTBuses19",
+				"SBSTBuses59",
+				"GASBuses6",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses89E",
+				"SBSTBuses9",
+				"SBSTBuses9B",
+				"SBSTBusesLcs1",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "98131"
+		},
+		"SingaporeStop_OppLoyangValley_NE": {
+			"bearing": "N",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.369059,
+				103.969683
+			],
+			"live_code": "SingaporeStop_OppLoyangValley_NE",
+			"name": "Opp Loyang Valley",
+			"routes": [
+				"SBSTBuses109",
+				"SBSTBuses19",
+				"SBSTBuses59",
+				"GASBuses6",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses9",
+				"SBSTBuses9B"
+			],
+			"stop_code": "98041"
+		},
+		"SingaporeStop_OppMaranathaBpCh_E": {
+			"bearing": "E",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.387906,
+				103.981778
+			],
+			"live_code": "SingaporeStop_OppMaranathaBpCh_E",
+			"name": "Opp Maranatha B-P Ch",
+			"routes": [
+				"SBSTBuses109",
+				"SBSTBuses19",
+				"GASBuses2",
+				"SBSTBuses59",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses9",
+				"SBSTBuses9B"
+			],
+			"stop_code": "99031"
+		},
+		"SingaporeStop_PolicePassOff_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.385252,
+				103.999834
+			],
+			"live_code": "SingaporeStop_PolicePassOff_SW",
+			"name": "Police Pass Off",
+			"routes": [
+				"SBSTBuses19",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses89E",
+				"SBSTBuses9",
+				"SBSTBuses9B"
+			],
+			"stop_code": "95131"
+		},
+		"SingaporeStop_SafFerryTer_S": {
+			"bearing": "S",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.387214,
+				103.999714
+			],
+			"live_code": "SingaporeStop_SafFerryTer_S",
+			"name": "Saf Ferry Ter",
+			"routes": [
+				"SBSTBuses19",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses9",
+				"SBSTBuses9B"
+			],
+			"stop_code": "95091"
+		},
+		"SingaporeStop_SiaHangar_S": {
+			"bearing": "S",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.377552,
+				103.996539
+			],
+			"live_code": "SingaporeStop_SiaHangar_S",
+			"name": "Airline Hse",
+			"routes": [
+				"SBSTBuses19",
+				"SBSTBuses89",
+				"SBSTBuses89A",
+				"SBSTBuses89E",
+				"SBSTBuses9",
+				"SBSTBuses9B",
+				"SBSTBusesLcs1",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "95061"
+		},
+		"SingaporeStop_SimeiStn_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses",
+				"SingaporeShuttle"
+			],
+			"coords": [
+				1.342262,
+				103.953466
+			],
+			"live_code": "SingaporeStop_SimeiStn_E",
+			"name": "Simei Stn",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses38",
+				"SBSTBuses5",
+				"SBSTBuses5B",
+				"SBSTBuses9",
+				"SBSTBuses9A",
+				"SBSTBuses9B",
+				"CM_ShuttleBus_changi_gen_hosp"
+			],
+			"stop_code": "96169"
+		},
+		"SingaporeStop_TampinesEastCc_NE": {
+			"bearing": "NE",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.353033,
+				103.954802
+			],
+			"live_code": "SingaporeStop_TampinesEastCc_NE",
+			"name": "Tampines East CC",
+			"routes": [
+				"GASBuses12",
+				"GASBuses12E",
+				"GASBuses17",
+				"SBSTBuses18",
+				"SBSTBuses28",
+				"GASBuses3",
+				"GASBuses34",
+				"GASBuses34B",
+				"SBSTBuses38",
+				"SBSTBuses39",
+				"GASBuses3A",
+				"GASBuses518",
+				"SBSTBuses59",
+				"SBSTBuses8",
+				"SBSTBuses9",
+				"SBSTBuses9A",
+				"SBSTBuses9B"
+			],
+			"stop_code": "76101"
+		},
+		"SingaporeStop_TampinesEastStnExitB_N": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.35508,
+				103.955298
+			],
+			"live_code": "SingaporeStop_TampinesEastStnExitB_N",
+			"name": "Tampines East Stn Exit B",
+			"routes": [
+				"GASBuses12",
+				"GASBuses12E",
+				"GASBuses17",
+				"GASBuses3",
+				"GASBuses34",
+				"GASBuses34B",
+				"SBSTBuses38",
+				"SBSTBuses39",
+				"GASBuses3A",
+				"GASBuses518",
+				"SBSTBuses59",
+				"SBSTBuses8",
+				"SBSTBuses9",
+				"SBSTBuses9A",
+				"SBSTBuses9B"
+			],
+			"stop_code": "76031"
+		},
+		"SingaporeStop_TampinesJc_NE": {
+			"bearing": "NE",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.356669,
+				103.957362
+			],
+			"live_code": "SingaporeStop_TampinesJc_NE",
+			"name": "Opp Blk 390",
+			"routes": [
+				"GASBuses12",
+				"GASBuses12E",
+				"GASBuses17",
+				"SBSTBuses18",
+				"SBSTBuses19",
+				"SBSTBuses21",
+				"SBSTBuses29",
+				"SBSTBuses293",
+				"SBSTBuses29A",
+				"GASBuses3",
+				"GASBuses34",
+				"GASBuses34B",
+				"SBSTBuses37",
+				"SBSTBuses39",
+				"GASBuses3A",
+				"SBSTBuses4",
+				"GASBuses518",
+				"SBSTBuses59",
+				"SBSTBuses81",
+				"SBSTBuses9",
+				"SBSTBuses9A",
+				"SBSTBuses9B"
+			],
+			"stop_code": "76231"
+		}
+	}
+}

@@ -1,7 +1,8 @@
 [
 	{
-		"name": "From Blk 131 to Opp CLP Intl",
+		"name": "From Jurong Town Hall Int to Opp CLP Intl",
 		"stops": [
+			"29009",
 			"28301",
 			"28431",
 			"28249",

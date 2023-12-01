@@ -1,7 +1,9 @@
 [
 	{
-		"name": "From OPP BLK 430B to Bef Khatib Stn",
+		"name": "From Opp Blks 469A/469B to Bef Khatib Stn",
 		"stops": [
+			"59779",
+			"59789",
 			"59479",
 			"59759",
 			"59749",
