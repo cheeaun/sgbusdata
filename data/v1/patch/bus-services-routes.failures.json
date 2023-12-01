@@ -28,6 +28,18 @@
 		{
 			"fileName": "860T-1.kml",
 			"e": "HTTPError: Response code 403 (Forbidden)"
+		},
+		{
+			"fileName": "870-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "870A-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "9B-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
 		}
 	]
 }

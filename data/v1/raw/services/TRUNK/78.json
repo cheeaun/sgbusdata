@@ -1,7 +1,8 @@
 [
 	{
-		"name": "From Blk 131 to Bef Jurong East Stn",
+		"name": "From Jurong Town Hall Int to Jurong Town Hall Int",
 		"stops": [
+			"29009",
 			"28301",
 			"28431",
 			"28249",
@@ -57,7 +58,8 @@
 			"28231",
 			"28241",
 			"28439",
-			"28211"
+			"28211",
+			"29009"
 		]
 	}
 ]

@@ -1,0 +1,686 @@
+{
+	"feeds": [],
+	"routes": [
+		{
+			"aliases": [
+				"tower-transit-870"
+			],
+			"brand": "TTSBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "TTSBuses870",
+			"long_name": "Jurong Town Hall Bus Interchange - Jurong Town Hall Bus Interchange",
+			"mode": "bus",
+			"name": "870",
+			"patterns": [
+				{
+					"id": "870_0",
+					"is_circular": true,
+					"name": "towards Jurong Town Hall Bus Interchange",
+					"path": [
+						[
+							1.330212,
+							103.7433
+						],
+						[
+							1.335766,
+							103.738849
+						],
+						[
+							1.338253,
+							103.741084
+						],
+						[
+							1.342172,
+							103.744076
+						],
+						[
+							1.344902,
+							103.746056
+						],
+						[
+							1.347166,
+							103.745187
+						],
+						[
+							1.349762,
+							103.74484
+						],
+						[
+							1.351549,
+							103.743776
+						],
+						[
+							1.349722,
+							103.741393
+						],
+						[
+							1.35636,
+							103.73427
+						],
+						[
+							1.351514,
+							103.737816
+						],
+						[
+							1.349891,
+							103.740738
+						],
+						[
+							1.351423,
+							103.743369
+						],
+						[
+							1.349906,
+							103.745109
+						],
+						[
+							1.346823,
+							103.745903
+						],
+						[
+							1.344753,
+							103.746283
+						],
+						[
+							1.342682,
+							103.744754
+						],
+						[
+							1.338626,
+							103.741733
+						],
+						[
+							1.336414,
+							103.739661
+						],
+						[
+							1.334187,
+							103.740707
+						],
+						[
+							1.330212,
+							103.7433
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_JurongTownHallBusInterchange_NW",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_SeventhdayAdventCh_NE",
+							"path_index": 1
+						},
+						{
+							"id": "SingaporeStop_Blk209_NE_1",
+							"path_index": 2
+						},
+						{
+							"id": "SingaporeStop_Blk241_NE",
+							"path_index": 3
+						},
+						{
+							"id": "SingaporeStop_Blk190_NE",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_Blk185_N",
+							"path_index": 5
+						},
+						{
+							"id": "SingaporeStop_Blk146_NE",
+							"path_index": 6
+						},
+						{
+							"id": "SingaporeStop_Blk140_SW",
+							"path_index": 7
+						},
+						{
+							"id": "SingaporeStop_PrincessEPrSch_SW",
+							"path_index": 8
+						},
+						{
+							"id": "SingaporeStop_Blk111_E",
+							"path_index": 9
+						},
+						{
+							"id": "SingaporeStop_AftLp37_S",
+							"path_index": 10
+						},
+						{
+							"id": "SingaporeStop_OppPrincessEPrSch_NE",
+							"path_index": 11
+						},
+						{
+							"id": "SingaporeStop_OppBlk140_E",
+							"path_index": 12
+						},
+						{
+							"id": "SingaporeStop_OppBlk144_SW",
+							"path_index": 13
+						},
+						{
+							"id": "SingaporeStop_Blk109_SE",
+							"path_index": 14
+						},
+						{
+							"id": "SingaporeStop_Blk298_SW",
+							"path_index": 15
+						},
+						{
+							"id": "SingaporeStop_Blk266_SW",
+							"path_index": 16
+						},
+						{
+							"id": "SingaporeStop_Blk207_SW",
+							"path_index": 17
+						},
+						{
+							"id": "SingaporeStop_BefSeventhdayAdventCh_S",
+							"path_index": 18
+						},
+						{
+							"id": "SingaporeStop_OppBlk135_SE",
+							"path_index": 19
+						},
+						{
+							"id": "SingaporeStop_JurongTownHallBusInterchange_NW",
+							"path_index": 20
+						}
+					]
+				}
+			],
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
+			"ui_color": "#5BC824",
+			"url": "https://citymapper.com/singapore/l/tower-transit-870"
+		}
+	],
+	"status": 0,
+	"stops": {
+		"SingaporeStop_AftLp37_S": {
+			"bearing": "SE",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.351514,
+				103.737816
+			],
+			"live_code": "SingaporeStop_AftLp37_S",
+			"name": "Dulwich Coll/Blk 445",
+			"routes": [
+				"SBSTBuses160",
+				"SMRTBuses180",
+				"TTSBuses870"
+			],
+			"stop_code": "43769"
+		},
+		"SingaporeStop_BefSeventhdayAdventCh_S": {
+			"bearing": "S",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.336414,
+				103.739661
+			],
+			"live_code": "SingaporeStop_BefSeventhdayAdventCh_S",
+			"name": "Bef Seventh-Day Advent Ch",
+			"routes": [
+				"SBSTBuses105",
+				"SBSTBuses160",
+				"SMRTBuses176",
+				"TTSBuses183",
+				"TTSBuses334",
+				"TTSBuses41",
+				"TTSBuses49",
+				"SBSTBuses506",
+				"SBSTBuses52",
+				"TTSBuses870",
+				"TTSBuses98",
+				"TTSBuses98M",
+				"TTSBuses990",
+				"SBSTBuses993"
+			],
+			"stop_code": "28449"
+		},
+		"SingaporeStop_Blk109_SE": {
+			"bearing": "SE",
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.346823,
+				103.745903
+			],
+			"live_code": "SingaporeStop_Blk109_SE",
+			"name": "Blk 109",
+			"routes": [
+				"SMRTBuses176",
+				"SMRTBuses188",
+				"SMRTBuses188E",
+				"TTSBuses66",
+				"SMRTBuses868E",
+				"TTSBuses870",
+				"TTSBuses941"
+			],
+			"stop_code": "43371"
+		},
+		"SingaporeStop_Blk111_E": {
+			"bearing": "SE",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.35636,
+				103.73427
+			],
+			"live_code": "SingaporeStop_Blk111_E",
+			"name": "Blk 111",
+			"routes": [
+				"TTSBuses870",
+				"TTSBuses870A",
+				"TTSBuses992",
+				"TTSBuses992A"
+			]
+		},
+		"SingaporeStop_Blk140_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.351549,
+				103.743776
+			],
+			"live_code": "SingaporeStop_Blk140_SW",
+			"name": "Blk 140",
+			"routes": [
+				"SBSTBuses157",
+				"SBSTBuses174",
+				"SBSTBuses174E",
+				"SMRTBuses178",
+				"SBSTBuses506",
+				"TTSBuses870",
+				"TTSBuses870A"
+			],
+			"stop_code": "43531"
+		},
+		"SingaporeStop_Blk146_NE": {
+			"bearing": "NW",
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.349762,
+				103.74484
+			],
+			"live_code": "SingaporeStop_Blk146_NE",
+			"name": "Blk 146",
+			"routes": [
+				"SMRTBuses176",
+				"SMRTBuses188",
+				"TTSBuses870",
+				"TTSBuses870A",
+				"SMRTBuses991"
+			],
+			"stop_code": "43329"
+		},
+		"SingaporeStop_Blk185_N": {
+			"bearing": "NW",
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.347166,
+				103.745187
+			],
+			"live_code": "SingaporeStop_Blk185_N",
+			"name": "Blk 185",
+			"routes": [
+				"SMRTBuses176",
+				"SMRTBuses188",
+				"TTSBuses66",
+				"TTSBuses870",
+				"TTSBuses870A",
+				"TTSBuses941"
+			],
+			"stop_code": "43379"
+		},
+		"SingaporeStop_Blk190_NE": {
+			"bearing": "NE",
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.344902,
+				103.746056
+			],
+			"live_code": "SingaporeStop_Blk190_NE",
+			"name": "Blk 190",
+			"routes": [
+				"SMRTBuses176",
+				"SMRTBuses187",
+				"SMRTBuses188",
+				"TTSBuses870",
+				"TTSBuses870A",
+				"TTSBuses990"
+			],
+			"stop_code": "43691"
+		},
+		"SingaporeStop_Blk207_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.338626,
+				103.741733
+			],
+			"live_code": "SingaporeStop_Blk207_SW",
+			"name": "Blk 207",
+			"routes": [
+				"SBSTBuses105",
+				"SMRTBuses176",
+				"TTSBuses183",
+				"TTSBuses41",
+				"SBSTBuses52",
+				"TTSBuses870",
+				"TTSBuses98",
+				"TTSBuses98M"
+			],
+			"stop_code": "28319"
+		},
+		"SingaporeStop_Blk209_NE_1": {
+			"bearing": "NE",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.338253,
+				103.741084
+			],
+			"live_code": "SingaporeStop_Blk209_NE_1",
+			"name": "Blk 209",
+			"routes": [
+				"SBSTBuses105",
+				"SBSTBuses105B",
+				"SMRTBuses176",
+				"TTSBuses183",
+				"TTSBuses183B",
+				"TTSBuses41",
+				"SBSTBuses52",
+				"TTSBuses870",
+				"TTSBuses870A",
+				"TTSBuses98",
+				"TTSBuses98M"
+			],
+			"stop_code": "28311"
+		},
+		"SingaporeStop_Blk241_NE": {
+			"bearing": "NE",
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.342172,
+				103.744076
+			],
+			"live_code": "SingaporeStop_Blk241_NE",
+			"name": "Blk 241",
+			"routes": [
+				"SMRTBuses176",
+				"SMRTBuses187",
+				"SMRTBuses188",
+				"TTSBuses870",
+				"TTSBuses870A",
+				"TTSBuses990"
+			],
+			"stop_code": "28621"
+		},
+		"SingaporeStop_Blk266_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.342682,
+				103.744754
+			],
+			"live_code": "SingaporeStop_Blk266_SW",
+			"name": "Blk 266",
+			"routes": [
+				"SMRTBuses176",
+				"SMRTBuses187",
+				"SMRTBuses188",
+				"SMRTBuses188E",
+				"SMRTBuses868E",
+				"TTSBuses870",
+				"TTSBuses990"
+			],
+			"stop_code": "28629"
+		},
+		"SingaporeStop_Blk298_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.344753,
+				103.746283
+			],
+			"live_code": "SingaporeStop_Blk298_SW",
+			"name": "Blk 298",
+			"routes": [
+				"SMRTBuses176",
+				"SMRTBuses187",
+				"SMRTBuses188",
+				"SMRTBuses188E",
+				"SMRTBuses868E",
+				"TTSBuses870",
+				"TTSBuses990"
+			],
+			"stop_code": "43699"
+		},
+		"SingaporeStop_JurongTownHallBusInterchange_NW": {
+			"bearing": "NW",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.330212,
+				103.7433
+			],
+			"live_code": "SingaporeStop_JurongTownHallBusInterchange_NW",
+			"name": "Jurong Town Hall Bus Interchange",
+			"routes": [
+				"SBSTBuses160",
+				"SBSTBuses160A",
+				"TTSBuses78",
+				"TTSBuses78A",
+				"TTSBuses870",
+				"TTSBuses870A"
+			],
+			"stop_code": "29009"
+		},
+		"SingaporeStop_OppBlk135_SE": {
+			"bearing": "S",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.334187,
+				103.740707
+			],
+			"live_code": "SingaporeStop_OppBlk135_SE",
+			"name": "Bef Jurong East Stn",
+			"routes": [
+				"SBSTBuses105",
+				"TTSBuses143",
+				"TTSBuses143M",
+				"SBSTBuses160",
+				"TTSBuses183",
+				"TTSBuses334",
+				"TTSBuses335",
+				"TTSBuses41",
+				"SBSTBuses51",
+				"SBSTBuses52",
+				"TTSBuses78",
+				"TTSBuses870",
+				"TTSBuses98",
+				"TTSBuses98M",
+				"TTSBuses990"
+			],
+			"stop_code": "28211"
+		},
+		"SingaporeStop_OppBlk140_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.351423,
+				103.743369
+			],
+			"live_code": "SingaporeStop_OppBlk140_E",
+			"name": "Opp Blk 140",
+			"routes": [
+				"SBSTBuses157",
+				"SBSTBuses174",
+				"SBSTBuses174E",
+				"SMRTBuses178",
+				"SBSTBuses506",
+				"TTSBuses870"
+			],
+			"stop_code": "43539"
+		},
+		"SingaporeStop_OppBlk144_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.349906,
+				103.745109
+			],
+			"live_code": "SingaporeStop_OppBlk144_SW",
+			"name": "Opp Blk 144",
+			"routes": [
+				"SMRTBuses176",
+				"SMRTBuses188",
+				"SMRTBuses188E",
+				"SMRTBuses868E",
+				"TTSBuses870",
+				"SMRTBuses991",
+				"SMRTBuses991A"
+			],
+			"stop_code": "43321"
+		},
+		"SingaporeStop_OppPrincessEPrSch_NE": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.349891,
+				103.740738
+			],
+			"live_code": "SingaporeStop_OppPrincessEPrSch_NE",
+			"name": "Opp Princess E Pr Sch",
+			"routes": [
+				"SBSTBuses157",
+				"SBSTBuses174",
+				"SBSTBuses174E",
+				"SMRTBuses178",
+				"SBSTBuses506",
+				"TTSBuses870",
+				"SMRTBuses991"
+			],
+			"stop_code": "43349"
+		},
+		"SingaporeStop_PrincessEPrSch_SW": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.349722,
+				103.741393
+			],
+			"live_code": "SingaporeStop_PrincessEPrSch_SW",
+			"name": "Princess E Pr Sch",
+			"routes": [
+				"SBSTBuses157",
+				"SBSTBuses174",
+				"SBSTBuses174E",
+				"SMRTBuses178",
+				"SBSTBuses506",
+				"TTSBuses870",
+				"TTSBuses870A",
+				"SMRTBuses991",
+				"SMRTBuses991A"
+			],
+			"stop_code": "43341"
+		},
+		"SingaporeStop_SeventhdayAdventCh_NE": {
+			"bearing": "NE",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.335766,
+				103.738849
+			],
+			"live_code": "SingaporeStop_SeventhdayAdventCh_NE",
+			"name": "Seventh-Day Advent Ch",
+			"routes": [
+				"SBSTBuses105",
+				"SBSTBuses105B",
+				"SBSTBuses160",
+				"SBSTBuses160A",
+				"SMRTBuses176",
+				"TTSBuses183",
+				"TTSBuses183B",
+				"TTSBuses334",
+				"TTSBuses41",
+				"TTSBuses49",
+				"SBSTBuses506",
+				"SBSTBuses52",
+				"TTSBuses870",
+				"TTSBuses870A",
+				"SBSTBuses993"
+			],
+			"stop_code": "28441"
+		}
+	}
+}

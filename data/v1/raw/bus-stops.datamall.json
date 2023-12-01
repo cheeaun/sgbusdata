@@ -11165,6 +11165,13 @@
 		"Longitude": 103.75734406053928
 	},
 	{
+		"BusStopCode": "29009",
+		"RoadName": "Venture Dr",
+		"Description": "Jurong Town Hall Int",
+		"Latitude": 1.330212,
+		"Longitude": 103.7433
+	},
+	{
 		"BusStopCode": "29011",
 		"RoadName": "Penjuru Rd",
 		"Description": "Opp Sanmina-SCI",
@@ -18079,6 +18086,20 @@
 		"Description": "Aft Neo Tiew Rd",
 		"Latitude": 1.43705520733335,
 		"Longitude": 103.72546776099374
+	},
+	{
+		"BusStopCode": "49251",
+		"RoadName": "Kranji Loop",
+		"Description": "TimMac @ Kranji",
+		"Latitude": 1.437161,
+		"Longitude": 103.756171
+	},
+	{
+		"BusStopCode": "49259",
+		"RoadName": "Kranji Loop",
+		"Description": "Opp TimMac @ Kranji",
+		"Latitude": 1.436986,
+		"Longitude": 103.756005
 	},
 	{
 		"BusStopCode": "50011",

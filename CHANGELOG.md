@@ -1,3 +1,46 @@
+# 1 December 2023
+
+## Stops count change: 5090 ⮕ 5093
+
+### Stops added: 3
+
+- `29009` Jurong Town Hall Int
+- `49251` TimMac @ Kranji
+- `49259` Opp TimMac @ Kranji
+
+## Services count change: 541 ⮕ 542
+
+### Services added: 3
+
+- `870` Jurong Town Hall Int ⟲ Dulwich Coll/Blk 445
+- `870A` Jurong Town Hall Int → Blk 111
+- `9B` Simei Stn → 3rd Cargo Agents
+
+### Services removed: 2
+
+- `92A` Ghim Moh Ter → Blk 13
+- `92B` Ghim Moh Ter → Opp Normanton Pk/R'ford
+
+### Bus Stop Changes To Routes: 6
+
+- `78` Jurong Town Hall Int ⟲ Clementi Stn Exit A: +2
+- `160` Jurong Town Hall Int ⟲ JB Sentral Bus Ter: +3, -2
+- `925` Woodlands Temp Int ⇄ Choa Chu Kang Int: +2, -2
+- `117A` Opp Blks 469A/469B → Bef Khatib Stn: +2
+- `160A` Jurong Town Hall Int → Opp Dunearn Sec Sch: +1, -1
+- `78A` Jurong Town Hall Int → Opp CLP Intl: +1
+
+## Routes changed: 4
+
+- `860T` Yio Chu Kang Int → Yishun Int
+- `870` Jurong Town Hall Int ⟲ Dulwich Coll/Blk 445
+- `870A` Jurong Town Hall Int → Blk 111
+- `9B` Simei Stn → 3rd Cargo Agents
+
+## First/last timings changed
+
+Affected services: `92B`, `92A`, `78`, `102`, `160`, `925`, `78A`, `160A`, `117A`, `89e`, `870`, `870A`, `9B`
+
 # 1 November 2023
 
 ### Stop names changed: 23

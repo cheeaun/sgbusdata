@@ -275,11 +275,15 @@
 						],
 						[
 							1.396216,
-							103.818592
+							103.818593
 						],
 						[
-							1.39689,
-							103.81845
+							1.39624,
+							103.81859
+						],
+						[
+							1.39688,
+							103.81841
 						],
 						[
 							1.39929,
@@ -693,95 +697,95 @@
 						},
 						{
 							"id": "SingaporeStop_OppNesseaClub_N",
-							"path_index": 67
+							"path_index": 68
 						},
 						{
 							"id": "SingaporeStop_ForestHillsCondo_NE",
-							"path_index": 74
+							"path_index": 75
 						},
 						{
 							"id": "SingaporeStop_NeeSoonDricladCtr_NE",
-							"path_index": 77
+							"path_index": 78
 						},
 						{
 							"id": "SingaporeStop_NeeSoonHq22Sib_N",
-							"path_index": 80
+							"path_index": 81
 						},
 						{
 							"id": "SingaporeStop_AftSembawangAirBase_N",
-							"path_index": 82
-						},
-						{
-							"id": "SingaporeStop_DieppeBarracks_N",
 							"path_index": 83
 						},
 						{
+							"id": "SingaporeStop_DieppeBarracks_N",
+							"path_index": 84
+						},
+						{
 							"id": "SingaporeStop_OppKhatibCamp_NE",
-							"path_index": 87
+							"path_index": 88
 						},
 						{
 							"id": "SingaporeStop_Blk722_SE",
-							"path_index": 91
+							"path_index": 92
 						},
 						{
 							"id": "SingaporeStop_OppKhatibCamp_E",
-							"path_index": 94
+							"path_index": 95
 						},
 						{
 							"id": "SingaporeStop_Blk773_E",
-							"path_index": 98
+							"path_index": 99
 						},
 						{
 							"id": "SingaporeStop_Blk608_S",
-							"path_index": 102
+							"path_index": 103
 						},
 						{
 							"id": "SingaporeStop_Blk624_E",
-							"path_index": 106
+							"path_index": 107
 						},
 						{
 							"id": "SingaporeStop_Blk630_E",
-							"path_index": 110
+							"path_index": 111
 						},
 						{
 							"id": "SingaporeStop_Blk672C_NE",
-							"path_index": 119
+							"path_index": 120
 						},
 						{
 							"id": "SingaporeStop_OppNorthbrooksSecSch_N_1",
-							"path_index": 124
+							"path_index": 125
 						},
 						{
 							"id": "SingaporeStop_OppBlk445_NE",
-							"path_index": 127
-						},
-						{
-							"id": "SingaporeStop_Blk356_N",
 							"path_index": 128
 						},
 						{
+							"id": "SingaporeStop_Blk356_N",
+							"path_index": 129
+						},
+						{
 							"id": "SingaporeStop_Blk358_N",
-							"path_index": 132
+							"path_index": 133
 						},
 						{
 							"id": "SingaporeStop_Blk342B_NW",
-							"path_index": 135
+							"path_index": 136
 						},
 						{
 							"id": "SingaporeStop_Blk314_NW",
-							"path_index": 143
+							"path_index": 144
 						},
 						{
 							"id": "SingaporeStop_Blk309_SW_1",
-							"path_index": 145
+							"path_index": 146
 						},
 						{
 							"id": "SingaporeStop_OppBlk201_W",
-							"path_index": 150
+							"path_index": 151
 						},
 						{
 							"id": "SingaporeStop_YishunInt_N",
-							"path_index": 153
+							"path_index": 154
 						}
 					]
 				}
@@ -1560,6 +1564,7 @@
 			"bearing": "NW",
 			"brands": [
 				"SBSTBuses",
+				"SingaporeShuttle",
 				"TTSBuses"
 			],
 			"coords": [
@@ -1575,7 +1580,8 @@
 				"TTSBuses169",
 				"SBSTBuses860",
 				"SBSTBuses860T",
-				"TTSBuses980"
+				"TTSBuses980",
+				"CM_SingaporeShuttle_shuttle_51"
 			],
 			"stop_code": "56091"
 		},
