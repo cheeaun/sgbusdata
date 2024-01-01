@@ -5,275 +5,1318 @@
 			"START_BUS_STOP": "TAMPINES INT",
 			"END_BUS_STOP": "BLK 401",
 			"START_BUS_STOP_NUM": "75009",
-			"START_BUS_STOP_LATLNG": "1.35407552367477, 103.943390984739",
+			"START_BUS_STOP_LATLNG": "1.3540755236747666, 103.94339098473912",
 			"END_BUS_STOP_NUM": "76191",
-			"END_BUS_STOP_LATLNG": "1.3569438864901, 103.944774454267",
+			"END_BUS_STOP_LATLNG": "1.3569438864901004, 103.944774454267",
 			"DISTANCE": "0",
-			"GEOMETRIES": "ingGkjlyRqAE[Eg@e@]Jk@n@a@a@Oc@Cg@?_CqF??[?mB"
+			"GEOMETRIES": [
+				[
+					103.94294,
+					1.35413
+				],
+				[
+					103.94297,
+					1.35454
+				],
+				[
+					103.943,
+					1.35468
+				],
+				[
+					103.94319,
+					1.35488
+				],
+				[
+					103.94313,
+					1.35503
+				],
+				[
+					103.94289,
+					1.35525
+				],
+				[
+					103.94306,
+					1.35542
+				],
+				[
+					103.94324,
+					1.3555
+				],
+				[
+					103.94344,
+					1.35552
+				],
+				[
+					103.94408,
+					1.35552
+				],
+				[
+					103.94408,
+					1.35673
+				],
+				[
+					103.94422,
+					1.35673
+				],
+				[
+					103.94477,
+					1.35673
+				]
+			],
+			"roadName": "TAMPINES INT"
 		},
 		{
 			"BUS_SEQUENCE": 2,
 			"START_BUS_STOP": "BLK 401",
 			"END_BUS_STOP": "BLK 423",
 			"START_BUS_STOP_NUM": "76191",
-			"START_BUS_STOP_LATLNG": "1.3569438864901, 103.944774454267",
+			"START_BUS_STOP_LATLNG": "1.3569438864901004, 103.944774454267",
 			"END_BUS_STOP_NUM": "76201",
-			"END_BUS_STOP_LATLNG": "1.35687499368341, 103.947967422067",
+			"END_BUS_STOP_LATLNG": "1.3568749936834137, 103.9479674220669",
 			"DISTANCE": "0.5",
-			"GEOMETRIES": "q~gGyulyR@uB?qC?EA_@C]?C@sF?{@"
+			"GEOMETRIES": [
+				[
+					103.94477,
+					1.35673
+				],
+				[
+					103.94536,
+					1.35672
+				],
+				[
+					103.94609,
+					1.35672
+				],
+				[
+					103.94612,
+					1.35672
+				],
+				[
+					103.94628,
+					1.35673
+				],
+				[
+					103.94643,
+					1.35675
+				],
+				[
+					103.94645,
+					1.35675
+				],
+				[
+					103.94767,
+					1.35674
+				],
+				[
+					103.94797,
+					1.35674
+				]
+			],
+			"roadName": "BLK 401"
 		},
 		{
 			"BUS_SEQUENCE": 3,
 			"START_BUS_STOP": "BLK 423",
 			"END_BUS_STOP": "BLK 449",
 			"START_BUS_STOP_NUM": "76201",
-			"START_BUS_STOP_LATLNG": "1.35687499368341, 103.947967422067",
+			"START_BUS_STOP_LATLNG": "1.3568749936834137, 103.9479674220669",
 			"END_BUS_STOP_NUM": "76211",
-			"END_BUS_STOP_LATLNG": "1.35675619021017, 103.950933587329",
+			"END_BUS_STOP_LATLNG": "1.3567561902101744, 103.95093358732876",
 			"DISTANCE": "0.8",
-			"GEOMETRIES": "s~gGyimyR@aJB_ABe@BWLkB@?"
+			"GEOMETRIES": [
+				[
+					103.94797,
+					1.35674
+				],
+				[
+					103.94974,
+					1.35673
+				],
+				[
+					103.95006,
+					1.35671
+				],
+				[
+					103.95025,
+					1.35669
+				],
+				[
+					103.95037,
+					1.35667
+				],
+				[
+					103.95091,
+					1.3566
+				],
+				[
+					103.95091,
+					1.35659
+				]
+			],
+			"roadName": "BLK 423"
 		},
 		{
 			"BUS_SEQUENCE": 4,
 			"START_BUS_STOP": "BLK 449",
 			"END_BUS_STOP": "TAMPINES EAST STN EXIT A",
 			"START_BUS_STOP_NUM": "76211",
-			"START_BUS_STOP_LATLNG": "1.35675619021017, 103.950933587329",
+			"START_BUS_STOP_LATLNG": "1.3567561902101744, 103.95093358732876",
 			"END_BUS_STOP_NUM": "76221",
-			"END_BUS_STOP_LATLNG": "1.3563896244901, 103.95390226734",
+			"END_BUS_STOP_LATLNG": "1.3563896244901028, 103.95390226733993",
 			"DISTANCE": "1.1",
-			"GEOMETRIES": "u}gGe|myRDq@??PuBB[@WZkEB}A??@oA"
+			"GEOMETRIES": [
+				[
+					103.95091,
+					1.35659
+				],
+				[
+					103.95116,
+					1.35656
+				],
+				[
+					103.95116,
+					1.35656
+				],
+				[
+					103.95175,
+					1.35647
+				],
+				[
+					103.95189,
+					1.35645
+				],
+				[
+					103.95201,
+					1.35644
+				],
+				[
+					103.95303,
+					1.3563
+				],
+				[
+					103.9535,
+					1.35628
+				],
+				[
+					103.9535,
+					1.35628
+				],
+				[
+					103.9539,
+					1.35627
+				]
+			],
+			"roadName": "BLK 449"
 		},
 		{
 			"BUS_SEQUENCE": 5,
 			"START_BUS_STOP": "TAMPINES EAST STN EXIT A",
 			"END_BUS_STOP": "TAMPINES JC/OPP BLK 390",
 			"START_BUS_STOP_NUM": "76221",
-			"START_BUS_STOP_LATLNG": "1.3563896244901, 103.95390226734",
+			"START_BUS_STOP_LATLNG": "1.3563896244901028, 103.95390226733993",
 			"END_BUS_STOP_NUM": "76231",
-			"END_BUS_STOP_LATLNG": "1.35666908955685, 103.95736200627",
+			"END_BUS_STOP_LATLNG": "1.356669089556853, 103.95736200626966",
 			"DISTANCE": "1.4",
-			"GEOMETRIES": "u{gG{nnyR??@y@@}C?{@?e@?[@iAGkCE]G]Wy@S_@"
+			"GEOMETRIES": [
+				[
+					103.9539,
+					1.35627
+				],
+				[
+					103.9539,
+					1.35627
+				],
+				[
+					103.95419,
+					1.35626
+				],
+				[
+					103.95498,
+					1.35625
+				],
+				[
+					103.95528,
+					1.35625
+				],
+				[
+					103.95547,
+					1.35625
+				],
+				[
+					103.95561,
+					1.35625
+				],
+				[
+					103.95598,
+					1.35624
+				],
+				[
+					103.95668,
+					1.35628
+				],
+				[
+					103.95683,
+					1.35631
+				],
+				[
+					103.95698,
+					1.35635
+				],
+				[
+					103.95727,
+					1.35647
+				],
+				[
+					103.95743,
+					1.35657
+				]
+			],
+			"roadName": "TAMPINES EAST STN EXIT A"
 		},
 		{
 			"BUS_SEQUENCE": 6,
 			"START_BUS_STOP": "TAMPINES JC/OPP BLK 390",
 			"END_BUS_STOP": "BLK 497D",
 			"START_BUS_STOP_NUM": "76231",
-			"START_BUS_STOP_LATLNG": "1.35666908955685, 103.95736200627",
+			"START_BUS_STOP_LATLNG": "1.356669089556853, 103.95736200626966",
 			"END_BUS_STOP_NUM": "76241",
-			"END_BUS_STOP_LATLNG": "1.35838664366355, 103.959146786595",
+			"END_BUS_STOP_LATLNG": "1.3583866436635466, 103.95914678659507",
 			"DISTANCE": "1.8",
-			"GEOMETRIES": "q}gG}doyRGGWe@aCgCe@]m@k@mBmBAA"
+			"GEOMETRIES": [
+				[
+					103.95743,
+					1.35657
+				],
+				[
+					103.95747,
+					1.35661
+				],
+				[
+					103.95766,
+					1.35673
+				],
+				[
+					103.95834,
+					1.35738
+				],
+				[
+					103.95849,
+					1.35757
+				],
+				[
+					103.95871,
+					1.3578
+				],
+				[
+					103.95926,
+					1.35835
+				],
+				[
+					103.95927,
+					1.35836
+				]
+			],
+			"roadName": "TAMPINES JC/OPP BLK 390"
 		},
 		{
 			"BUS_SEQUENCE": 7,
 			"START_BUS_STOP": "BLK 497D",
 			"END_BUS_STOP": "THE JAPANESE SCH",
 			"START_BUS_STOP_NUM": "76241",
-			"START_BUS_STOP_LATLNG": "1.35838664366355, 103.959146786595",
+			"START_BUS_STOP_LATLNG": "1.3583866436635466, 103.95914678659507",
 			"END_BUS_STOP_NUM": "97011",
-			"END_BUS_STOP_LATLNG": "1.35332331548207, 103.965959667648",
+			"END_BUS_STOP_LATLNG": "1.3533233154820656, 103.96595966764757",
 			"DISTANCE": "2.1",
-			"GEOMETRIES": "whhGmpoyRUUyEwE_B_Bi@g@TcAd@q@nAu@nAg@pBm@tA[nBc@|M{ChC}@hCw@~A[tBYMq@I]EU]cBG]YwA"
+			"GEOMETRIES": [
+				[
+					103.95927,
+					1.35836
+				],
+				[
+					103.95938,
+					1.35847
+				],
+				[
+					103.96046,
+					1.35956
+				],
+				[
+					103.96094,
+					1.36004
+				],
+				[
+					103.96114,
+					1.36025
+				],
+				[
+					103.96148,
+					1.36014
+				],
+				[
+					103.96173,
+					1.35995
+				],
+				[
+					103.962,
+					1.35955
+				],
+				[
+					103.9622,
+					1.35915
+				],
+				[
+					103.96243,
+					1.35858
+				],
+				[
+					103.96257,
+					1.35815
+				],
+				[
+					103.96275,
+					1.35759
+				],
+				[
+					103.96353,
+					1.3552
+				],
+				[
+					103.96384,
+					1.35451
+				],
+				[
+					103.96412,
+					1.35382
+				],
+				[
+					103.96426,
+					1.35334
+				],
+				[
+					103.96439,
+					1.35275
+				],
+				[
+					103.96464,
+					1.35282
+				],
+				[
+					103.96479,
+					1.35287
+				],
+				[
+					103.9649,
+					1.3529
+				],
+				[
+					103.9654,
+					1.35305
+				],
+				[
+					103.96555,
+					1.35309
+				],
+				[
+					103.96599,
+					1.35322
+				]
+			],
+			"roadName": "BLK 497D"
 		},
 		{
 			"BUS_SEQUENCE": 8,
 			"START_BUS_STOP": "THE JAPANESE SCH",
 			"END_BUS_STOP": "AFT UPP CHANGI RD NTH",
 			"START_BUS_STOP_NUM": "97011",
-			"START_BUS_STOP_LATLNG": "1.35332331548207, 103.965959667648",
+			"START_BUS_STOP_LATLNG": "1.3533233154820656, 103.96595966764757",
 			"END_BUS_STOP_NUM": "97141",
-			"END_BUS_STOP_LATLNG": "1.35231360645922, 103.967935110864",
+			"END_BUS_STOP_LATLNG": "1.3523136064592167, 103.96793511086433",
 			"DISTANCE": "3.4",
-			"GEOMETRIES": "shgGmzpyR[yAy@_EhCi@jBa@\\K"
+			"GEOMETRIES": [
+				[
+					103.96599,
+					1.35322
+				],
+				[
+					103.96644,
+					1.35336
+				],
+				[
+					103.9674,
+					1.35365
+				],
+				[
+					103.96761,
+					1.35296
+				],
+				[
+					103.96778,
+					1.35242
+				],
+				[
+					103.96784,
+					1.35227
+				]
+			],
+			"roadName": "THE JAPANESE SCH"
 		},
 		{
 			"BUS_SEQUENCE": 9,
 			"START_BUS_STOP": "AFT UPP CHANGI RD NTH",
 			"END_BUS_STOP": "AFT CHANGI NTH ST 2",
 			"START_BUS_STOP_NUM": "97141",
-			"START_BUS_STOP_LATLNG": "1.35231360645922, 103.967935110864",
+			"START_BUS_STOP_LATLNG": "1.3523136064592167, 103.96793511086433",
 			"END_BUS_STOP_NUM": "97151",
-			"END_BUS_STOP_LATLNG": "1.34957475260085, 103.967056886889",
+			"END_BUS_STOP_LATLNG": "1.3495747526008535, 103.96705688688903",
 			"DISTANCE": "3.7",
-			"GEOMETRIES": "ubgG_fqyRf@Oj@WHEfAs@fAs@ZUp@bAf@p@t@hAz@lAt@dA"
+			"GEOMETRIES": [
+				[
+					103.96784,
+					1.35227
+				],
+				[
+					103.96792,
+					1.35207
+				],
+				[
+					103.96804,
+					1.35185
+				],
+				[
+					103.96807,
+					1.3518
+				],
+				[
+					103.96833,
+					1.35144
+				],
+				[
+					103.96859,
+					1.35108
+				],
+				[
+					103.9687,
+					1.35094
+				],
+				[
+					103.96836,
+					1.35069
+				],
+				[
+					103.96811,
+					1.35049
+				],
+				[
+					103.96774,
+					1.35022
+				],
+				[
+					103.96735,
+					1.34992
+				],
+				[
+					103.967,
+					1.34965
+				]
+			],
+			"roadName": "AFT UPP CHANGI RD NTH"
 		},
 		{
 			"BUS_SEQUENCE": 10,
 			"START_BUS_STOP": "AFT CHANGI NTH ST 2",
 			"END_BUS_STOP": "EDWARDS LIFESCIENCES",
 			"START_BUS_STOP_NUM": "97151",
-			"START_BUS_STOP_LATLNG": "1.34957475260085, 103.967056886889",
+			"START_BUS_STOP_LATLNG": "1.3495747526008535, 103.96705688688903",
 			"END_BUS_STOP_NUM": "97161",
-			"END_BUS_STOP_LATLNG": "1.34716828634192, 103.967593954451",
+			"END_BUS_STOP_LATLNG": "1.3471682863419228, 103.96759395445096",
 			"DISTANCE": "4.1",
-			"GEOMETRIES": "irfGw`qyRrAhB~@Vr@K`DeCnCuA??"
+			"GEOMETRIES": [
+				[
+					103.967,
+					1.34965
+				],
+				[
+					103.96647,
+					1.34923
+				],
+				[
+					103.96635,
+					1.34891
+				],
+				[
+					103.96641,
+					1.34865
+				],
+				[
+					103.96708,
+					1.34784
+				],
+				[
+					103.96751,
+					1.34712
+				],
+				[
+					103.96751,
+					1.34712
+				]
+			],
+			"roadName": "AFT CHANGI NTH ST 2"
 		},
 		{
 			"BUS_SEQUENCE": 11,
 			"START_BUS_STOP": "EDWARDS LIFESCIENCES",
 			"END_BUS_STOP": "OPP SATS CATERING",
 			"START_BUS_STOP_NUM": "97161",
-			"START_BUS_STOP_LATLNG": "1.34716828634192, 103.967593954451",
+			"START_BUS_STOP_LATLNG": "1.3471682863419228, 103.96759395445096",
 			"END_BUS_STOP_NUM": "97171",
-			"END_BUS_STOP_LATLNG": "1.34566460198537, 103.969938037867",
+			"END_BUS_STOP_LATLNG": "1.345664601985368, 103.96993803786681",
 			"DISTANCE": "4.5",
-			"GEOMETRIES": "obfG}cqyRXQzEcCpAy@v@g@VWLi@Ao@[_@k@s@k@q@"
+			"GEOMETRIES": [
+				[
+					103.96751,
+					1.34712
+				],
+				[
+					103.9676,
+					1.34699
+				],
+				[
+					103.96826,
+					1.34589
+				],
+				[
+					103.96855,
+					1.34548
+				],
+				[
+					103.96875,
+					1.3452
+				],
+				[
+					103.96887,
+					1.34508
+				],
+				[
+					103.96908,
+					1.34501
+				],
+				[
+					103.96932,
+					1.34502
+				],
+				[
+					103.96948,
+					1.34516
+				],
+				[
+					103.96974,
+					1.34538
+				],
+				[
+					103.96999,
+					1.3456
+				]
+			],
+			"roadName": "EDWARDS LIFESCIENCES"
 		},
 		{
 			"BUS_SEQUENCE": 12,
 			"START_BUS_STOP": "OPP SATS CATERING",
 			"END_BUS_STOP": "SEAMAP",
 			"START_BUS_STOP_NUM": "97171",
-			"START_BUS_STOP_LATLNG": "1.34566460198537, 103.969938037867",
+			"START_BUS_STOP_LATLNG": "1.345664601985368, 103.96993803786681",
 			"END_BUS_STOP_NUM": "97181",
-			"END_BUS_STOP_LATLNG": "1.34784936649026, 103.97214908695",
+			"END_BUS_STOP_LATLNG": "1.347849366490263, 103.97214908694973",
 			"DISTANCE": "4.9",
-			"GEOMETRIES": "_yeGmsqyRiDgEa@g@e@m@}AmBe@WgAU"
+			"GEOMETRIES": [
+				[
+					103.96999,
+					1.3456
+				],
+				[
+					103.97099,
+					1.34645
+				],
+				[
+					103.97119,
+					1.34662
+				],
+				[
+					103.97142,
+					1.34681
+				],
+				[
+					103.97197,
+					1.34728
+				],
+				[
+					103.97209,
+					1.34747
+				],
+				[
+					103.9722,
+					1.34783
+				]
+			],
+			"roadName": "OPP SATS CATERING"
 		},
 		{
 			"BUS_SEQUENCE": 13,
 			"START_BUS_STOP": "SEAMAP",
 			"END_BUS_STOP": "SATS MAINTENANCE CTR 2",
 			"START_BUS_STOP_NUM": "97181",
-			"START_BUS_STOP_LATLNG": "1.34784936649026, 103.97214908695",
+			"START_BUS_STOP_LATLNG": "1.347849366490263, 103.97214908694973",
 			"END_BUS_STOP_NUM": "97189",
-			"END_BUS_STOP_LATLNG": "1.34674882374419, 103.971467670801",
+			"END_BUS_STOP_LATLNG": "1.3467488237441905, 103.97146767080093",
 			"DISTANCE": "5.3",
-			"GEOMETRIES": "q`fGk|qyR}AmBe@WgAUgFcA"
+			"GEOMETRIES": [
+				[
+					103.97142,
+					1.34681
+				],
+				[
+					103.97197,
+					1.34728
+				],
+				[
+					103.97209,
+					1.34747
+				],
+				[
+					103.9722,
+					1.34783
+				],
+				[
+					103.97254,
+					1.34899
+				]
+			],
+			"roadName": "SEAMAP"
 		},
 		{
 			"BUS_SEQUENCE": 14,
 			"START_BUS_STOP": "SATS MAINTENANCE CTR 2",
 			"END_BUS_STOP": "SATS CATERING",
 			"START_BUS_STOP_NUM": "97189",
-			"START_BUS_STOP_LATLNG": "1.34674882374419, 103.971467670801",
+			"START_BUS_STOP_LATLNG": "1.3467488237441905, 103.97146767080093",
 			"END_BUS_STOP_NUM": "97179",
-			"END_BUS_STOP_LATLNG": "1.34529387211141, 103.969813585275",
+			"END_BUS_STOP_LATLNG": "1.345293872111413, 103.9698135852748",
 			"DISTANCE": "5.7",
-			"GEOMETRIES": "q`fGk|qyRd@l@`@f@hDfEj@p@"
+			"GEOMETRIES": [
+				[
+					103.97142,
+					1.34681
+				],
+				[
+					103.97119,
+					1.34662
+				],
+				[
+					103.97099,
+					1.34645
+				],
+				[
+					103.96999,
+					1.3456
+				],
+				[
+					103.96974,
+					1.34538
+				]
+			],
+			"roadName": "SATS MAINTENANCE CTR 2"
 		},
 		{
 			"BUS_SEQUENCE": 15,
 			"START_BUS_STOP": "SATS CATERING",
 			"END_BUS_STOP": "OPP EDWARDS LIFESCIENCES",
 			"START_BUS_STOP_NUM": "97179",
-			"START_BUS_STOP_LATLNG": "1.34529387211141, 103.969813585275",
+			"START_BUS_STOP_LATLNG": "1.345293872111413, 103.9698135852748",
 			"END_BUS_STOP_NUM": "97169",
-			"END_BUS_STOP_LATLNG": "1.34695022666824, 103.967537241608",
+			"END_BUS_STOP_LATLNG": "1.3469502266682365, 103.96753724160826",
 			"DISTANCE": "5.9",
-			"GEOMETRIES": "sweG{qqyRj@r@Z^T`AEn@u@Lu@XqAx@{EbC"
+			"GEOMETRIES": [
+				[
+					103.96974,
+					1.34538
+				],
+				[
+					103.96948,
+					1.34516
+				],
+				[
+					103.96932,
+					1.34502
+				],
+				[
+					103.96899,
+					1.34491
+				],
+				[
+					103.96875,
+					1.34494
+				],
+				[
+					103.96868,
+					1.34521
+				],
+				[
+					103.96855,
+					1.34548
+				],
+				[
+					103.96826,
+					1.34589
+				],
+				[
+					103.9676,
+					1.34699
+				]
+			],
+			"roadName": "SATS CATERING"
 		},
 		{
 			"BUS_SEQUENCE": 16,
 			"START_BUS_STOP": "OPP EDWARDS LIFESCIENCES",
 			"END_BUS_STOP": "BEF VICOM",
 			"START_BUS_STOP_NUM": "97169",
-			"START_BUS_STOP_LATLNG": "1.34695022666824, 103.967537241608",
+			"START_BUS_STOP_LATLNG": "1.3469502266682365, 103.96753724160826",
 			"END_BUS_STOP_NUM": "97159",
-			"END_BUS_STOP_LATLNG": "1.35028972565623, 103.967691011182",
+			"END_BUS_STOP_LATLNG": "1.3502897256562252, 103.96769101118203",
 			"DISTANCE": "6.3",
-			"GEOMETRIES": "uafGodqyRYPoCtAaDdCs@J_AWsAiBu@eA{@mA"
+			"GEOMETRIES": [
+				[
+					103.9676,
+					1.34699
+				],
+				[
+					103.96751,
+					1.34712
+				],
+				[
+					103.96708,
+					1.34784
+				],
+				[
+					103.96641,
+					1.34865
+				],
+				[
+					103.96635,
+					1.34891
+				],
+				[
+					103.96647,
+					1.34923
+				],
+				[
+					103.967,
+					1.34965
+				],
+				[
+					103.96735,
+					1.34992
+				],
+				[
+					103.96774,
+					1.35022
+				]
+			],
+			"roadName": "OPP EDWARDS LIFESCIENCES"
 		},
 		{
 			"BUS_SEQUENCE": 17,
 			"START_BUS_STOP": "BEF VICOM",
 			"END_BUS_STOP": "AFT VICOM",
 			"START_BUS_STOP_NUM": "97159",
-			"START_BUS_STOP_LATLNG": "1.35028972565623, 103.967691011182",
+			"START_BUS_STOP_LATLNG": "1.3502897256562252, 103.96769101118203",
 			"END_BUS_STOP_NUM": "97149",
-			"END_BUS_STOP_LATLNG": "1.35180572395974, 103.967955960817",
+			"END_BUS_STOP_LATLNG": "1.351805723959738, 103.96795596081697",
 			"DISTANCE": "6.9",
-			"GEOMETRIES": "{ufGkeqyRu@iAc@o@u@eA[TgAr@gAr@ID"
+			"GEOMETRIES": [
+				[
+					103.96774,
+					1.35022
+				],
+				[
+					103.96811,
+					1.35049
+				],
+				[
+					103.96835,
+					1.35067
+				],
+				[
+					103.9687,
+					1.35094
+				],
+				[
+					103.96859,
+					1.35108
+				],
+				[
+					103.96833,
+					1.35144
+				],
+				[
+					103.96807,
+					1.3518
+				],
+				[
+					103.96804,
+					1.35185
+				]
+			],
+			"roadName": "BEF VICOM"
 		},
 		{
 			"BUS_SEQUENCE": 18,
 			"START_BUS_STOP": "AFT VICOM",
 			"END_BUS_STOP": "OPP SALVATION ARMY",
 			"START_BUS_STOP_NUM": "97149",
-			"START_BUS_STOP_LATLNG": "1.35180572395974, 103.967955960817",
+			"START_BUS_STOP_LATLNG": "1.351805723959738, 103.96795596081697",
 			"END_BUS_STOP_NUM": "97019",
-			"END_BUS_STOP_LATLNG": "1.3529227886583, 103.965440710708",
+			"END_BUS_STOP_LATLNG": "1.3529227886583042, 103.96544071070834",
 			"DISTANCE": "7.1",
-			"GEOMETRIES": "a`gGggqyRk@Vg@N]JkB`@iCh@x@~DZxAXvAF\\"
+			"GEOMETRIES": [
+				[
+					103.96804,
+					1.35185
+				],
+				[
+					103.96792,
+					1.35207
+				],
+				[
+					103.96784,
+					1.35227
+				],
+				[
+					103.96778,
+					1.35242
+				],
+				[
+					103.96761,
+					1.35296
+				],
+				[
+					103.9674,
+					1.35365
+				],
+				[
+					103.96644,
+					1.35336
+				],
+				[
+					103.96599,
+					1.35322
+				],
+				[
+					103.96555,
+					1.35309
+				],
+				[
+					103.9654,
+					1.35305
+				]
+			],
+			"roadName": "AFT VICOM"
 		},
 		{
 			"BUS_SEQUENCE": 19,
 			"START_BUS_STOP": "OPP SALVATION ARMY",
 			"END_BUS_STOP": "BLK 370",
 			"START_BUS_STOP_NUM": "97019",
-			"START_BUS_STOP_LATLNG": "1.3529227886583, 103.965440710708",
+			"START_BUS_STOP_LATLNG": "1.3529227886583042, 103.96544071070834",
 			"END_BUS_STOP_NUM": "76249",
-			"END_BUS_STOP_LATLNG": "1.35828311735626, 103.959447586431",
+			"END_BUS_STOP_LATLNG": "1.3582831173562608, 103.95944758643087",
 			"DISTANCE": "7.5",
-			"GEOMETRIES": "qggGwvpyR\\bBDTH\\Lp@Jb@F^kDr@eDp@iC`@uN`DeIxEs@j@S^Gd@@vAxEvE"
+			"GEOMETRIES": [
+				[
+					103.9654,
+					1.35305
+				],
+				[
+					103.9649,
+					1.3529
+				],
+				[
+					103.96479,
+					1.35287
+				],
+				[
+					103.96464,
+					1.35282
+				],
+				[
+					103.96439,
+					1.35275
+				],
+				[
+					103.96421,
+					1.35269
+				],
+				[
+					103.96405,
+					1.35265
+				],
+				[
+					103.96379,
+					1.35351
+				],
+				[
+					103.96354,
+					1.35434
+				],
+				[
+					103.96337,
+					1.35503
+				],
+				[
+					103.96256,
+					1.35754
+				],
+				[
+					103.96147,
+					1.35917
+				],
+				[
+					103.96125,
+					1.35943
+				],
+				[
+					103.96109,
+					1.35953
+				],
+				[
+					103.9609,
+					1.35957
+				],
+				[
+					103.96046,
+					1.35956
+				],
+				[
+					103.95938,
+					1.35847
+				]
+			],
+			"roadName": "OPP SALVATION ARMY"
 		},
 		{
 			"BUS_SEQUENCE": 20,
 			"START_BUS_STOP": "BLK 370",
 			"END_BUS_STOP": "BLK 390/OPP TAMPINES JC",
 			"START_BUS_STOP_NUM": "76249",
-			"START_BUS_STOP_LATLNG": "1.35828311735626, 103.959447586431",
+			"START_BUS_STOP_LATLNG": "1.3582831173562608, 103.95944758643087",
 			"END_BUS_STOP_NUM": "76239",
-			"END_BUS_STOP_LATLNG": "1.3564927293972, 103.957548264813",
+			"END_BUS_STOP_LATLNG": "1.356492729397204, 103.95754826481253",
 			"DISTANCE": "8.7",
-			"GEOMETRIES": "mihGcqoyRTTnBnBl@j@d@\\`CfCVd@"
+			"GEOMETRIES": [
+				[
+					103.95938,
+					1.35847
+				],
+				[
+					103.95927,
+					1.35836
+				],
+				[
+					103.95871,
+					1.3578
+				],
+				[
+					103.95849,
+					1.35757
+				],
+				[
+					103.95834,
+					1.35738
+				],
+				[
+					103.95766,
+					1.35673
+				],
+				[
+					103.95747,
+					1.35661
+				]
+			],
+			"roadName": "BLK 370"
 		},
 		{
 			"BUS_SEQUENCE": 21,
 			"START_BUS_STOP": "BLK 390/OPP TAMPINES JC",
 			"END_BUS_STOP": "OPP TAMPINES EAST STN",
 			"START_BUS_STOP_NUM": "76239",
-			"START_BUS_STOP_LATLNG": "1.3564927293972, 103.957548264813",
+			"START_BUS_STOP_LATLNG": "1.356492729397204, 103.95754826481253",
 			"END_BUS_STOP_NUM": "76229",
-			"END_BUS_STOP_LATLNG": "1.35613608043852, 103.953495285897",
+			"END_BUS_STOP_LATLNG": "1.3561360804385156, 103.95349528589743",
 			"DISTANCE": "9",
-			"GEOMETRIES": "y}gGeeoyRFFR^Vx@F\\D\\FjCAhA?Z?d@?z@A|CAx@??AnA"
+			"GEOMETRIES": [
+				[
+					103.95747,
+					1.35661
+				],
+				[
+					103.95743,
+					1.35657
+				],
+				[
+					103.95727,
+					1.35647
+				],
+				[
+					103.95698,
+					1.35635
+				],
+				[
+					103.95683,
+					1.35631
+				],
+				[
+					103.95668,
+					1.35628
+				],
+				[
+					103.95598,
+					1.35624
+				],
+				[
+					103.95561,
+					1.35625
+				],
+				[
+					103.95547,
+					1.35625
+				],
+				[
+					103.95528,
+					1.35625
+				],
+				[
+					103.95498,
+					1.35625
+				],
+				[
+					103.95419,
+					1.35626
+				],
+				[
+					103.9539,
+					1.35627
+				],
+				[
+					103.9539,
+					1.35627
+				],
+				[
+					103.9535,
+					1.35628
+				]
+			],
+			"roadName": "BLK 390/OPP TAMPINES JC"
 		},
 		{
 			"BUS_SEQUENCE": 22,
 			"START_BUS_STOP": "OPP TAMPINES EAST STN",
 			"END_BUS_STOP": "BLK 230E",
 			"START_BUS_STOP_NUM": "76229",
-			"START_BUS_STOP_LATLNG": "1.35613608043852, 103.953495285897",
+			"START_BUS_STOP_LATLNG": "1.3561360804385156, 103.95349528589743",
 			"END_BUS_STOP_NUM": "76219",
-			"END_BUS_STOP_LATLNG": "1.35644168689504, 103.951144185665",
+			"END_BUS_STOP_LATLNG": "1.3564416868950384, 103.95114418566536",
 			"DISTANCE": "9.4",
-			"GEOMETRIES": "w{gGklnyR??C|A[jEAVCZQtB??"
+			"GEOMETRIES": [
+				[
+					103.9535,
+					1.35628
+				],
+				[
+					103.9535,
+					1.35628
+				],
+				[
+					103.95303,
+					1.3563
+				],
+				[
+					103.95201,
+					1.35644
+				],
+				[
+					103.95189,
+					1.35645
+				],
+				[
+					103.95175,
+					1.35647
+				],
+				[
+					103.95116,
+					1.35656
+				],
+				[
+					103.95116,
+					1.35656
+				]
+			],
+			"roadName": "OPP TAMPINES EAST STN"
 		},
 		{
 			"BUS_SEQUENCE": 23,
 			"START_BUS_STOP": "BLK 230E",
 			"END_BUS_STOP": "BLK 233",
 			"START_BUS_STOP_NUM": "76219",
-			"START_BUS_STOP_LATLNG": "1.35644168689504, 103.951144185665",
+			"START_BUS_STOP_LATLNG": "1.3564416868950384, 103.95114418566536",
 			"END_BUS_STOP_NUM": "76209",
-			"END_BUS_STOP_LATLNG": "1.35660332787929, 103.947669131857",
+			"END_BUS_STOP_LATLNG": "1.3566033278792897, 103.94766913185744",
 			"DISTANCE": "9.7",
-			"GEOMETRIES": "o}gGw}myREp@A?MjBCVCd@C~@A`J?z@"
+			"GEOMETRIES": [
+				[
+					103.95116,
+					1.35656
+				],
+				[
+					103.95091,
+					1.35659
+				],
+				[
+					103.95091,
+					1.3566
+				],
+				[
+					103.95037,
+					1.35667
+				],
+				[
+					103.95025,
+					1.35669
+				],
+				[
+					103.95006,
+					1.35671
+				],
+				[
+					103.94974,
+					1.35673
+				],
+				[
+					103.94797,
+					1.35674
+				],
+				[
+					103.94767,
+					1.35674
+				]
+			],
+			"roadName": "BLK 230E"
 		},
 		{
 			"BUS_SEQUENCE": 24,
 			"START_BUS_STOP": "BLK 233",
 			"END_BUS_STOP": "BLK 503",
 			"START_BUS_STOP_NUM": "76209",
-			"START_BUS_STOP_LATLNG": "1.35660332787929, 103.947669131857",
+			"START_BUS_STOP_LATLNG": "1.3566033278792897, 103.94766913185744",
 			"END_BUS_STOP_NUM": "76199",
-			"END_BUS_STOP_LATLNG": "1.35660016333768, 103.945354284321",
+			"END_BUS_STOP_LATLNG": "1.3566001633376836, 103.94535428432116",
 			"DISTANCE": "10.1",
-			"GEOMETRIES": "s~gG}gmyRArF?BB\\@^?D?pC"
+			"GEOMETRIES": [
+				[
+					103.94767,
+					1.35674
+				],
+				[
+					103.94645,
+					1.35675
+				],
+				[
+					103.94643,
+					1.35675
+				],
+				[
+					103.94628,
+					1.35673
+				],
+				[
+					103.94612,
+					1.35672
+				],
+				[
+					103.94609,
+					1.35672
+				],
+				[
+					103.94536,
+					1.35672
+				]
+			],
+			"roadName": "BLK 233"
 		},
 		{
 			"BUS_SEQUENCE": 25,
 			"START_BUS_STOP": "BLK 503",
 			"END_BUS_STOP": "TAMPINES INT",
 			"START_BUS_STOP_NUM": "76199",
-			"START_BUS_STOP_LATLNG": "1.35660016333768, 103.945354284321",
+			"START_BUS_STOP_LATLNG": "1.3566001633376836, 103.94535428432116",
 			"END_BUS_STOP_NUM": "75009",
-			"END_BUS_STOP_LATLNG": "1.35407552367477, 103.943390984739",
+			"END_BUS_STOP_LATLNG": "1.3540755236747666, 103.94339098473912",
 			"DISTANCE": "10.4",
-			"GEOMETRIES": "o~gGoylyRAtB?lB?ZpF?RCL?NFHNp@rB^QZSXE"
+			"GEOMETRIES": [
+				[
+					103.94536,
+					1.35672
+				],
+				[
+					103.94477,
+					1.35673
+				],
+				[
+					103.94422,
+					1.35673
+				],
+				[
+					103.94408,
+					1.35673
+				],
+				[
+					103.94408,
+					1.35552
+				],
+				[
+					103.9441,
+					1.35542
+				],
+				[
+					103.9441,
+					1.35535
+				],
+				[
+					103.94406,
+					1.35527
+				],
+				[
+					103.94398,
+					1.35522
+				],
+				[
+					103.9434,
+					1.35497
+				],
+				[
+					103.94349,
+					1.35481
+				],
+				[
+					103.94359,
+					1.35467
+				],
+				[
+					103.94362,
+					1.35454
+				]
+			],
+			"roadName": "BLK 503"
 		}
-	]
+	],
+	"BUS_DIRECTION_TWO": null
 }

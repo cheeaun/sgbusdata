@@ -1,3 +1,84 @@
+# 1 January 2024
+
+## Stops count change: 5093 ⮕ 5106
+
+### Stops added: 14
+
+- `40391` Blk 231B
+- `40409` Blk 132B
+- `43799` Blk 432A
+- `47731` Opp Christ Ch Sec Sch
+- `47739` Blk 562A
+- `47749` Woodlands Health Campus
+- `53509` LTA Sin Ming Office
+- `53519` Sin Ming Autocity
+- `58431` Blk 567B
+- `58441` Blk 567A
+- `65691` Opposite Blk 437B
+- `65699` Blk 437B
+- `65711` Blk 446B
+- `65719` Blk 432B
+
+### Stops removed: 1
+
+- `65139` Punggol Rd End
+
+## Services count change: 542 ⮕ 539
+
+### Services removed: 3
+
+- `410` Bishan Int
+- `162M` Yio Chu Kang Int ⟲ Aft Promenade Stn Exit C
+- `900A` Woodlands Int ⟲ S'pore Sports Sch
+
+### Bus Stop Changes To Routes: 12
+
+- `75` Gali Batu Ter ⇄ Bt Merah Int: +11, -23
+- `162` Yio Chu Kang Int ⟲ Amtech Bldg: +10, -56
+- `84` Punggol Temp Int ⟲ Blk 446B: +4, -1
+- `121` Shenton Way Ter ⟲ Blk 25: +9, -6
+- `859` Sembawang Int ⟲ Opp Yishun Stn: +6, -2
+- `870` Jurong Town Hall Int ⟲ Blk 231B: +1
+- `900` Woodlands Int ⟲ Blk 589: +9
+- `992` Bt Batok Int ⟲ Blk 132B: +1
+- `993` Jurong East Int ⟲ Blk 433C: +1
+- `859T` Sembawang Int → Yishun Int: +3, -1
+- `870A` Jurong Town Hall Int → Blk 231B: +1
+- `992A` Bt Batok Int → Blk 132B: +1
+
+## Routes changed: 26
+
+- `162` Yio Chu Kang Int ⟲ Amtech Bldg
+- `25` Ang Mo Kio Int ⇄ Upp East Coast Ter
+- `75` Gali Batu Ter ⇄ Bt Merah Int
+- `78` Jurong Town Hall Int ⟲ Clementi Stn Exit A
+- `84` Punggol Temp Int ⟲ Blk 446B
+- `86` Sengkang Int ⇄ Ang Mo Kio Int
+- `92` Ghim Moh Ter ⟲ Opp Ayer Rajah Ind Est
+- `121` Shenton Way Ter ⟲ Blk 25
+- `136` Ang Mo Kio Int ⇄ Punggol Temp Int
+- `139` Toa Payoh Int ⇄ Bt Merah Int
+- `151` Hougang Ctrl Int ⇄ Kent Ridge Ter
+- `160` Jurong Town Hall Int ⟲ JB Sentral Bus Ter
+- `165` Hougang Ctrl Int ⇄ Clementi Int
+- `175` Clementi Int ⇄ Lor 1 Geylang Ter
+- `859` Sembawang Int ⟲ Opp Yishun Stn
+- `870` Jurong Town Hall Int ⟲ Blk 231B
+- `900` Woodlands Int ⟲ Blk 589
+- `925` Woodlands Temp Int ⇄ Choa Chu Kang Int
+- `992` Bt Batok Int ⟲ Blk 132B
+- `993` Jurong East Int ⟲ Blk 433C
+- `117A` Opp Blks 469A/469B → Bef Khatib Stn
+- `78A` Jurong Town Hall Int → Opp CLP Intl
+- `870A` Jurong Town Hall Int → Blk 231B
+- `92M` Ghim Moh Ter ⟲ Opp Henry Pk
+- `992A` Bt Batok Int → Blk 132B
+- `9B` Simei Stn → 3rd Cargo Agents
+
+## First/last timings changed
+
+Affected services: `900A`, `162M`, `410`, `75`, `80`, `84`, `121`, `162`, `167`, `182`, `859`, `870`, `900`, `964`, `992`, `993`, `182M`, `870A`, `992A`, `859T`
+
 # 1 December 2023
 
 ## Stops count change: 5090 ⮕ 5093

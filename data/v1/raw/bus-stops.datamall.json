@@ -12411,6 +12411,20 @@
 		"Longitude": 103.73427
 	},
 	{
+		"BusStopCode": "40391",
+		"RoadName": "Tengah Boulevard",
+		"Description": "Blk 231B",
+		"Latitude": 1.359258,
+		"Longitude": 103.733186
+	},
+	{
+		"BusStopCode": "40409",
+		"RoadName": "Tengah Boulevard",
+		"Description": "Blk 132B",
+		"Latitude": 1.357394,
+		"Longitude": 103.731808
+	},
+	{
 		"BusStopCode": "41011",
 		"RoadName": "Bt Timah Rd",
 		"Description": "NUS Bt Timah Campus",
@@ -13984,6 +13998,13 @@
 		"Description": "BLK 436A",
 		"Latitude": 1.35915702140816,
 		"Longitude": 103.73950237742633
+	},
+	{
+		"BusStopCode": "43799",
+		"RoadName": "Bt Batok West Ave 8",
+		"Description": "Blk 432A",
+		"Latitude": 1.360292,
+		"Longitude": 103.743215
 	},
 	{
 		"BusStopCode": "43801",
@@ -17570,6 +17591,27 @@
 		"Longitude": 103.76442341207213
 	},
 	{
+		"BusStopCode": "47731",
+		"RoadName": "Woodlands Dr 17",
+		"Description": "Opp Christ Ch Sec Sch",
+		"Latitude": 1.426029,
+		"Longitude": 103.791884
+	},
+	{
+		"BusStopCode": "47739",
+		"RoadName": "Woodlands Dr 17",
+		"Description": "Blk 562A",
+		"Latitude": 1.426643,
+		"Longitude": 103.791589
+	},
+	{
+		"BusStopCode": "47749",
+		"RoadName": "Woodlands Dr 17",
+		"Description": "Woodlands Health Campus",
+		"Latitude": 1.425821,
+		"Longitude": 103.793911
+	},
+	{
 		"BusStopCode": "47751",
 		"RoadName": "Woodlands Dr 62",
 		"Description": "Blk 691D",
@@ -19817,6 +19859,20 @@
 		"Longitude": 103.8553811
 	},
 	{
+		"BusStopCode": "53509",
+		"RoadName": "Sin Ming Dr",
+		"Description": "LTA Sin Ming Office",
+		"Latitude": 1.356831,
+		"Longitude": 103.8365
+	},
+	{
+		"BusStopCode": "53519",
+		"RoadName": "Sin Ming Dr",
+		"Description": "Sin Ming Autocity",
+		"Latitude": 1.359619,
+		"Longitude": 103.837843
+	},
+	{
 		"BusStopCode": "54009",
 		"RoadName": "Ang Mo Kio Ave 8",
 		"Description": "Ang Mo Kio Int",
@@ -21966,11 +22022,25 @@
 		"Longitude": 103.81892529028816
 	},
 	{
+		"BusStopCode": "58431",
+		"RoadName": "Champions Way",
+		"Description": "Blk 567B",
+		"Latitude": 1.428437,
+		"Longitude": 103.788426
+	},
+	{
 		"BusStopCode": "58439",
 		"RoadName": "Champions Way",
 		"Description": "Opp Blk 567B",
 		"Latitude": 1.42857896419364,
 		"Longitude": 103.78833922258168
+	},
+	{
+		"BusStopCode": "58441",
+		"RoadName": "Champions Way",
+		"Description": "Blk 567A",
+		"Latitude": 1.42731,
+		"Longitude": 103.788937
 	},
 	{
 		"BusStopCode": "58449",
@@ -25284,13 +25354,6 @@
 		"Longitude": 103.90711426733175
 	},
 	{
-		"BusStopCode": "65139",
-		"RoadName": "Punggol Rd",
-		"Description": "Punggol Rd End",
-		"Latitude": 1.4206253932076,
-		"Longitude": 103.91053469680278
-	},
-	{
 		"BusStopCode": "65141",
 		"RoadName": "Punggol Way",
 		"Description": "Aft Soo Teck Stn",
@@ -25919,6 +25982,34 @@
 		"Description": "Aft Northshore Cres",
 		"Latitude": 1.418378,
 		"Longitude": 103.907847
+	},
+	{
+		"BusStopCode": "65691",
+		"RoadName": "New Punggol Road",
+		"Description": "Opposite Blk 437B",
+		"Latitude": 1.420151,
+		"Longitude": 103.911959
+	},
+	{
+		"BusStopCode": "65699",
+		"RoadName": "New Punggol Road",
+		"Description": "Blk 437B",
+		"Latitude": 1.419958,
+		"Longitude": 103.912031
+	},
+	{
+		"BusStopCode": "65711",
+		"RoadName": "New Punggol Road",
+		"Description": "Blk 446B",
+		"Latitude": 1.417097,
+		"Longitude": 103.91168
+	},
+	{
+		"BusStopCode": "65719",
+		"RoadName": "New Punggol Road",
+		"Description": "Blk 432B",
+		"Latitude": 1.416997,
+		"Longitude": 103.912031
 	},
 	{
 		"BusStopCode": "65801",
