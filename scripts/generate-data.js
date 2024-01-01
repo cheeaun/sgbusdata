@@ -64,11 +64,11 @@ stops
     const stopName = stopNames[number] || details;
     let road;
 
-    stopsDatamall.forEach(s => {
+    stopsDatamall.forEach((s) => {
       if (s.BusStopCode == number) {
-        road = s.RoadName
+        road = s.RoadName;
       }
-    })
+    });
 
     stopsJSON[number] = [round(long, 5), round(lat, 5), stopName, road];
     stopsData[number] = {
@@ -216,9 +216,10 @@ services
             (s) => s.BUS_SEQUENCE === 1,
           ).START_BUS_STOP_NUM;
           const coordinates = BUS_DIRECTION_ONE.reduce((acc, v) => {
-            const line = polyline
-              .decode(v.GEOMETRIES)
-              .map((coords) => coords.reverse());
+            // const line = polyline
+            //   .decode(v.GEOMETRIES)
+            //   .map((coords) => coords.reverse());
+            const line = v.GEOMETRIES;
             if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
               line.shift(); // Remove first coord
             }
@@ -235,9 +236,10 @@ services
             (s) => s.BUS_SEQUENCE === 1,
           ).START_BUS_STOP_NUM;
           const coordinates = BUS_DIRECTION_TWO.reduce((acc, v) => {
-            const line = polyline
-              .decode(v.GEOMETRIES)
-              .map((coords) => coords.reverse());
+            // const line = polyline
+            //   .decode(v.GEOMETRIES)
+            //   .map((coords) => coords.reverse());
+            const line = v.GEOMETRIES;
             if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
               line.shift(); // Remove first coord
             }
@@ -250,6 +252,7 @@ services
           });
         }
       } catch (e) {
+        console.error(e);
         // If fails, read from CityMapper
         try {
           const patchRoute = readFile(`./data/v1/patch/${num}.cm.json`);
@@ -269,7 +272,7 @@ services
 
       if (!fauxError) {
         route.forEach((pattern, i) => {
-          const theRightPattern = patchPatterns.find(
+          let theRightPattern = patchPatterns.find(
             (p) => p.firstStop == pattern.stops[0],
           );
           if (!theRightPattern) {
@@ -277,7 +280,11 @@ services
             // But somehow one of them is missing
             // Affected bus service: 911
             console.warn(`⚠️⚠️⚠️ Bus service ${num} doesn't have pattern ${i}`);
-            return;
+            if (i === 0) {
+              theRightPattern = patchPatterns[0];
+            } else {
+              return;
+            }
           }
           const coordinates = theRightPattern.coordinates;
           routesPolylines[num][i] = coords2polyline(coordinates);
@@ -487,6 +494,9 @@ e = validator.validate(Object.entries(routesPolylines), {
     ],
   },
 });
-if (e.length) throw e;
+if (e.length) {
+  // writeFile('./data/v1/routes.error.json', routesPolylines);
+  throw e;
+}
 writeFile('./data/v1/routes.json', routesPolylines);
 writeFile('./data/v1/routes.min.json', routesPolylines);
