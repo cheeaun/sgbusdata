@@ -9245,6 +9245,18 @@
 		"Blk 111",
 		"Plantation Cres"
 	],
+	"40391": [
+		103.73319,
+		1.35926,
+		"Blk 231B",
+		"Tengah Boulevard"
+	],
+	"40409": [
+		103.73181,
+		1.35739,
+		"Blk 132B",
+		"Tengah Boulevard"
+	],
 	"41011": [
 		103.81892,
 		1.32236,
@@ -10594,6 +10606,12 @@
 		1.35916,
 		"Blk 436A",
 		"Bt Batok Rd"
+	],
+	"43799": [
+		103.74322,
+		1.36029,
+		"Blk 432A",
+		"Bt Batok West Ave 8"
 	],
 	"43801": [
 		103.75173,
@@ -13667,6 +13685,24 @@
 		"JB Sentral Bus Ter",
 		"Jln Jim Quee"
 	],
+	"47731": [
+		103.79188,
+		1.42603,
+		"Opp Christ Ch Sec Sch",
+		"Woodlands Dr 17"
+	],
+	"47739": [
+		103.79159,
+		1.42664,
+		"Blk 562A",
+		"Woodlands Dr 17"
+	],
+	"47749": [
+		103.79391,
+		1.42582,
+		"Woodlands Health Campus",
+		"Woodlands Dr 17"
+	],
 	"47751": [
 		103.80586,
 		1.43921,
@@ -15593,6 +15629,18 @@
 		"Blk 151A Mkt",
 		"Bishan St 11"
 	],
+	"53509": [
+		103.8365,
+		1.35683,
+		"LTA Sin Ming Office",
+		"Sin Ming Dr"
+	],
+	"53519": [
+		103.83784,
+		1.35962,
+		"Sin Ming Autocity",
+		"Sin Ming Dr"
+	],
 	"54009": [
 		103.84857,
 		1.36969,
@@ -17435,10 +17483,22 @@
 		"Bet Blks 415/416",
 		"Admiralty Dr"
 	],
+	"58431": [
+		103.78843,
+		1.42844,
+		"Blk 567B",
+		"Champions Way"
+	],
 	"58439": [
 		103.78834,
 		1.42858,
 		"Opp Blk 567B",
+		"Champions Way"
+	],
+	"58441": [
+		103.78894,
+		1.42731,
+		"Blk 567A",
 		"Champions Way"
 	],
 	"58449": [
@@ -20279,12 +20339,6 @@
 		"Blk 604A",
 		"Punggol Rd"
 	],
-	"65139": [
-		103.91053,
-		1.42063,
-		"Punggol Rd End",
-		"Punggol Rd"
-	],
 	"65141": [
 		103.89716,
 		1.40455,
@@ -20824,6 +20878,30 @@
 		1.41838,
 		"Aft Northshore Cres",
 		"Northshore Dr"
+	],
+	"65691": [
+		103.91196,
+		1.42015,
+		"Opposite Blk 437B",
+		"New Punggol Road"
+	],
+	"65699": [
+		103.91203,
+		1.41996,
+		"Blk 437B",
+		"New Punggol Road"
+	],
+	"65711": [
+		103.91168,
+		1.4171,
+		"Blk 446B",
+		"New Punggol Road"
+	],
+	"65719": [
+		103.91203,
+		1.417,
+		"Blk 432B",
+		"New Punggol Road"
 	],
 	"65801": [
 		103.8857,

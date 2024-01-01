@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Bt Batok Int to Blk 111",
+		"name": "From Bt Batok Int to Blk 132B",
 		"stops": [
 			"43009",
 			"43419",
@@ -9,7 +9,8 @@
 			"40351",
 			"40361",
 			"43789",
-			"40381"
+			"40381",
+			"40409"
 		]
 	}
 ]

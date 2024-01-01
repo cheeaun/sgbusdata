@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Jurong Town Hall Int to Blk 111",
+		"name": "From Jurong Town Hall Int to Blk 231B",
 		"stops": [
 			"29009",
 			"28441",
@@ -11,7 +11,8 @@
 			"43329",
 			"43531",
 			"43341",
-			"40381"
+			"40381",
+			"40391"
 		]
 	}
 ]

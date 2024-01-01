@@ -22230,6 +22230,24 @@
 		}
 	},
 	{
+		"name": "40391",
+		"wab": "true",
+		"details": "Blk 231B",
+		"coordinates": {
+			"lat": 1.359258,
+			"long": 103.733186
+		}
+	},
+	{
+		"name": "40409",
+		"wab": "true",
+		"details": "Blk 132B",
+		"coordinates": {
+			"lat": 1.357394,
+			"long": 103.731808
+		}
+	},
+	{
 		"name": "41011",
 		"wab": "true",
 		"details": "NUS Bt Timah Campus",
@@ -24252,6 +24270,15 @@
 		"coordinates": {
 			"lat": 1.35915702140816,
 			"long": 103.73950237742633
+		}
+	},
+	{
+		"name": "43799",
+		"wab": "true",
+		"details": "Blk 432A",
+		"coordinates": {
+			"lat": 1.360292,
+			"long": 103.743215
 		}
 	},
 	{
@@ -28863,6 +28890,33 @@
 		}
 	},
 	{
+		"name": "47731",
+		"wab": "true",
+		"details": "Opp Christ Ch Sec Sch",
+		"coordinates": {
+			"lat": 1.426029,
+			"long": 103.791884
+		}
+	},
+	{
+		"name": "47739",
+		"wab": "true",
+		"details": "Blk 562A",
+		"coordinates": {
+			"lat": 1.426643,
+			"long": 103.791589
+		}
+	},
+	{
+		"name": "47749",
+		"wab": "true",
+		"details": "Woodlands Health Campus",
+		"coordinates": {
+			"lat": 1.425821,
+			"long": 103.793911
+		}
+	},
+	{
 		"name": "47751",
 		"wab": "true",
 		"details": "Blk 691D",
@@ -31752,6 +31806,24 @@
 		}
 	},
 	{
+		"name": "53509",
+		"wab": "true",
+		"details": "LTA Sin Ming Office",
+		"coordinates": {
+			"lat": 1.356831,
+			"long": 103.8365
+		}
+	},
+	{
+		"name": "53519",
+		"wab": "true",
+		"details": "Sin Ming Autocity",
+		"coordinates": {
+			"lat": 1.359619,
+			"long": 103.837843
+		}
+	},
+	{
 		"name": "54009",
 		"wab": "true",
 		"details": "Ang Mo Kio Int",
@@ -34515,12 +34587,30 @@
 		}
 	},
 	{
+		"name": "58431",
+		"wab": "true",
+		"details": "Blk 567B",
+		"coordinates": {
+			"lat": 1.428437,
+			"long": 103.788426
+		}
+	},
+	{
 		"name": "58439",
 		"wab": "true",
 		"details": "Opp Blk 567B",
 		"coordinates": {
 			"lat": 1.42857896419364,
 			"long": 103.78833922258168
+		}
+	},
+	{
+		"name": "58441",
+		"wab": "true",
+		"details": "Blk 567A",
+		"coordinates": {
+			"lat": 1.42731,
+			"long": 103.788937
 		}
 	},
 	{
@@ -38781,15 +38871,6 @@
 		}
 	},
 	{
-		"name": "65139",
-		"wab": "true",
-		"details": "Punggol Rd End",
-		"coordinates": {
-			"lat": 1.4206253932076,
-			"long": 103.91053469680278
-		}
-	},
-	{
 		"name": "65141",
 		"wab": "true",
 		"details": "Aft Soo Teck Stn",
@@ -39597,6 +39678,42 @@
 		"coordinates": {
 			"lat": 1.418378,
 			"long": 103.907847
+		}
+	},
+	{
+		"name": "65691",
+		"wab": "true",
+		"details": "Opposite Blk 437B",
+		"coordinates": {
+			"lat": 1.420151,
+			"long": 103.911959
+		}
+	},
+	{
+		"name": "65699",
+		"wab": "true",
+		"details": "Blk 437B",
+		"coordinates": {
+			"lat": 1.419958,
+			"long": 103.912031
+		}
+	},
+	{
+		"name": "65711",
+		"wab": "true",
+		"details": "Blk 446B",
+		"coordinates": {
+			"lat": 1.417097,
+			"long": 103.91168
+		}
+	},
+	{
+		"name": "65719",
+		"wab": "true",
+		"details": "Blk 432B",
+		"coordinates": {
+			"lat": 1.416997,
+			"long": 103.912031
 		}
 	},
 	{
