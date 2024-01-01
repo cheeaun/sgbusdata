@@ -21,5 +21,5 @@ module.exports = (url, opts) => {
       ],
     },
     ...restOpts,
-  }).then((res) => res.body);
+  }).then((res) => (opts.returnResponse ? res : res.body));
 };

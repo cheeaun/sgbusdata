@@ -108,25 +108,46 @@ writeFile(
 // })();
 
 (async () => {
-  const { access_token } = await fetch(
-    'https://developers.onemap.sg/publicapi/publicsessionid',
-    {
-      json: true,
-    },
-  );
+  const res = await fetch('https://www.onemap.gov.sg/', {
+    returnResponse: true,
+  });
+  const cookie = res.headers['set-cookie'][0]; // string
+  const token = cookie.match(/OMITN=(.*?);/)[1];
+
   const multilineServices = [
     ...new Set(multilineGeoJSONs.map((g) => '' + g.number)),
   ];
   for (let i = 0; i < multilineServices.length; i++) {
     const number = multilineServices[i];
-    const directions = await fetch(
-      `https://developers.onemap.sg/publicapi/busexp/getBusRoutes?busNo=${number}&token=${access_token}`,
-      { json: true },
+    // const directions = await fetch(
+    //   `https://developers.onemap.sg/publicapi/busexp/getBusRoutes?busNo=${number}&token=${access_token}`,
+    //   { json: true },
+    // );
+    const direction1 = await fetch(
+      `https://www.onemap.gov.sg/omapp/getBusRoutes?busSvcNo=${number}`,
+      { json: true, headers: { Cookie: `OMITN=${token}` } },
     );
+    let direction2 = null;
+    if (direction1.length) {
+      const END_BUS_STOP_NUM = direction1[0].END_BUS_STOP_NUM;
+      if (END_BUS_STOP_NUM) {
+        direction2 = await fetch(
+          `https://www.onemap.gov.sg/omapp/getBusRoutes?busSvcNo=${number}&startBusStopNo=${END_BUS_STOP_NUM}`,
+          { json: true, headers: { Cookie: `OMITN=${token}` } },
+        );
+      }
+    }
+    const diff =
+      direction2?.[0]?.START_BUS_STOP_NUM !==
+      direction1?.[0]?.START_BUS_STOP_NUM;
+    const directions = {
+      BUS_DIRECTION_ONE: direction1 || direction2,
+      BUS_DIRECTION_TWO: diff ? direction2 : null,
+    };
     if (directions.BUS_DIRECTION_ONE) {
       writeFile(`data/v1/patch/${number}.om.json`, directions);
     } else {
-      throw 'what';
+      // throw 'what';
       console.warn(`Bus service ${number} is missing`);
     }
   }
