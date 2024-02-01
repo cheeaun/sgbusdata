@@ -5000,7 +5000,7 @@
 			"id": "12081",
 			"properties": {
 				"number": "12081",
-				"name": "Maju Camp",
+				"name": "Clementi N'hood Pk",
 				"road": "Clementi Rd",
 				"services": [
 					"151",
@@ -5776,7 +5776,7 @@
 			"id": "13071",
 			"properties": {
 				"number": "13071",
-				"name": "Riva Lodge",
+				"name": "Great World Stn Exit 5",
 				"road": "River Valley Rd",
 				"services": [
 					"139",
@@ -10552,6 +10552,7 @@
 				"road": "AYE",
 				"services": [
 					"188",
+					"189",
 					"196",
 					"197",
 					"198",
@@ -10563,8 +10564,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.7658699915105,
-					1.30903304650021
+					103.76674,
+					1.307653
 				]
 			}
 		},
@@ -11856,7 +11857,7 @@
 			"id": "18101",
 			"properties": {
 				"number": "18101",
-				"name": "PSB Science Pk Bldg",
+				"name": "5 Sci Pk Dr",
 				"road": "Buona Vista Flyover",
 				"services": [
 					"14",
@@ -27913,7 +27914,7 @@
 			"id": "28239",
 			"properties": {
 				"number": "28239",
-				"name": "Opp Jurong Town Hall",
+				"name": "Jurong Town Hall Int",
 				"road": "Jurong Town Hall Rd",
 				"services": [
 					"143",
@@ -41244,7 +41245,7 @@
 			"id": "44449",
 			"properties": {
 				"number": "44449",
-				"name": "Opp Blk 238",
+				"name": "Palm Gdns",
 				"road": "Choa Chu Kang Way",
 				"services": [
 					"188",
@@ -42396,8 +42397,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.76491900002709,
-					1.38679108297845
+					103.764921,
+					1.386786
 				]
 			}
 		},
@@ -42619,8 +42620,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.76004791400926,
-					1.38707539442819
+					103.759842,
+					1.387188
 				]
 			}
 		},
@@ -45640,7 +45641,7 @@
 			"id": "46169",
 			"properties": {
 				"number": "46169",
-				"name": "Si Ling Sec Sch",
+				"name": "Opp GES",
 				"road": "Marsiling Lane",
 				"services": [
 					"665",
@@ -49955,7 +49956,7 @@
 			"id": "47611",
 			"properties": {
 				"number": "47611",
-				"name": "Woodsvale Condo",
+				"name": "Northoaks Condo",
 				"road": "Woodlands Ave 7",
 				"services": [
 					"962",
@@ -50289,7 +50290,7 @@
 			"id": "47801",
 			"properties": {
 				"number": "47801",
-				"name": "Sunshine Bakery",
+				"name": "Opp North Link Bldg",
 				"road": "Admiralty Rd West",
 				"services": [
 					"169",
@@ -50312,7 +50313,7 @@
 			"id": "47809",
 			"properties": {
 				"number": "47809",
-				"name": "Opp Sunshine Bakery",
+				"name": "North Link Bldg",
 				"road": "Admiralty Rd West",
 				"services": [
 					"169",
@@ -54798,7 +54799,7 @@
 			"id": "52321",
 			"properties": {
 				"number": "52321",
-				"name": "Toa Payoh Stadium",
+				"name": "Aft SAFRA Toa Payoh",
 				"road": "Lor 6 Toa Payoh",
 				"services": [
 					"142",
@@ -54827,7 +54828,7 @@
 			"id": "52329",
 			"properties": {
 				"number": "52329",
-				"name": "Opp Toa Payoh Stadium",
+				"name": "Aft Lor 4 Toa Payoh",
 				"road": "Lor 6 Toa Payoh",
 				"services": [
 					"142",
@@ -63089,7 +63090,7 @@
 			"id": "58061",
 			"properties": {
 				"number": "58061",
-				"name": "Aft Durban Rd",
+				"name": "Opp Blk 101A",
 				"road": "Sembawang Rd",
 				"services": [
 					"169",
@@ -72169,7 +72170,7 @@
 			"id": "63201",
 			"properties": {
 				"number": "63201",
-				"name": "Blk 133",
+				"name": "Affinity At Serangoon",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"103",
@@ -74366,8 +74367,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.90023200745897,
-					1.37014334916955
+					103.900361,
+					1.370275
 				]
 			}
 		},
@@ -88051,7 +88052,7 @@
 			"id": "75061",
 			"properties": {
 				"number": "75061",
-				"name": "Opp Bedok Reform Trg Ctr",
+				"name": "Blk 954D",
 				"road": "Bedok Reservoir Rd",
 				"services": [
 					"168",
@@ -88079,7 +88080,7 @@
 			"id": "75069",
 			"properties": {
 				"number": "75069",
-				"name": "Bedok Reform Trg Ctr",
+				"name": "Blk 960A",
 				"road": "Bedok Reservoir Rd",
 				"services": [
 					"168",
@@ -89006,7 +89007,7 @@
 			"id": "75311",
 			"properties": {
 				"number": "75311",
-				"name": "Tampines Dormitory",
+				"name": "Bef Tampines Lk",
 				"road": "Tampines Ave 10",
 				"services": [
 					"118",
@@ -89034,7 +89035,7 @@
 			"id": "75319",
 			"properties": {
 				"number": "75319",
-				"name": "Opp Tampines Dormitory",
+				"name": "Aft Tampines Lk",
 				"road": "Tampines Ave 10",
 				"services": [
 					"118",
@@ -89185,7 +89186,7 @@
 			"id": "75359",
 			"properties": {
 				"number": "75359",
-				"name": "Ikea Tampines",
+				"name": "IKEA Tampines/Aft TPE",
 				"road": "Tampines Ave 10",
 				"services": [
 					"118",
@@ -99308,7 +99309,7 @@
 			"id": "84079",
 			"properties": {
 				"number": "84079",
-				"name": "Siglap CC/Opp Blk 71",
+				"name": "Opp Blk 71",
 				"road": "Bedok Sth Rd",
 				"services": [
 					"12",
@@ -102573,7 +102574,7 @@
 			"id": "91059",
 			"properties": {
 				"number": "91059",
-				"name": "Katong Pk Twrs",
+				"name": "Aft Margate Rd",
 				"road": "Mountbatten Rd",
 				"services": [
 					"12",
@@ -114011,7 +114012,7 @@
 			"id": "05431",
 			"properties": {
 				"number": "05431",
-				"name": "Tower 15",
+				"name": "Aft Tanjong Pagar Rd",
 				"road": "Hoe Chiang Rd",
 				"services": [
 					"145",

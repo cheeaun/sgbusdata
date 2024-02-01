@@ -1,3 +1,47 @@
+# 1 February 2024
+
+### Stop names changed: 21
+
+- `12081` Maju Camp ⮕ Clementi N'hood Pk
+- `13071` Riva Lodge ⮕ Great World Stn Exit 5
+- `18101` PSB Science Pk Bldg ⮕ 5 Sci Pk Dr
+- `28239` Opp Jurong Town Hall ⮕ Jurong Town Hall Int
+- `44449` Opp Blk 238 ⮕ Palm Gdns
+- `46169` Si Ling Sec Sch ⮕ Opp GES
+- `47611` Woodsvale Condo ⮕ Northoaks Condo
+- `47801` Sunshine Bakery ⮕ Opp North Link Bldg
+- `47809` Opp Sunshine Bakery ⮕ North Link Bldg
+- `52321` Toa Payoh Stadium ⮕ Aft SAFRA Toa Payoh
+- `52329` Opp Toa Payoh Stadium ⮕ Aft Lor 4 Toa Payoh
+- `58061` Aft Durban Rd ⮕ Opp Blk 101A
+- `63201` Blk 133 ⮕ Affinity At Serangoon
+- `75061` Opp Bedok Reform Trg Ctr ⮕ Blk 954D
+- `75069` Bedok Reform Trg Ctr ⮕ Blk 960A
+- `75311` Tampines Dormitory ⮕ Bef Tampines Lk
+- `75319` Opp Tampines Dormitory ⮕ Aft Tampines Lk
+- `75359` Ikea Tampines ⮕ IKEA Tampines/Aft TPE
+- `84079` Siglap CC/Opp Blk 71 ⮕ Opp Blk 71
+- `91059` Katong Pk Twrs ⮕ Aft Margate Rd
+- `05431` Tower 15 ⮕ Aft Tanjong Pagar Rd
+
+### Stop locations changed: 3
+
+- `17139` 103.76587,1.30903 ⮕ 103.76674,1.30765
+- `44819` 103.76005,1.38708 ⮕ 103.75984,1.38719
+- `64311` 103.90023,1.37014 ⮕ 103.90036,1.37028
+
+### Bus Stop Changes To Routes: 1
+
+- `189` Bt Batok Int ⟲ NUS High Sch: +1
+
+## Routes changed: 1
+
+- `162` Yio Chu Kang Int ⟲ Amtech Bldg
+
+## First/last timings changed
+
+Affected services: `33`, `63`, `75`, `121`, `122`, `159`, `175`, `189`, `197`, `660`, `851`, `920`
+
 # 1 January 2024
 
 ## Stops count change: 5093 ⮕ 5106

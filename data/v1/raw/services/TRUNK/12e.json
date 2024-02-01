@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Pasir Ris Int to KAMPONG BAHRU TER",
+		"name": "From Pasir Ris Int to Kampong Bahru Ter",
 		"stops": [
 			"77009",
 			"78109",
@@ -44,7 +44,7 @@
 		]
 	},
 	{
-		"name": "From KAMPONG BAHRU TER to Pasir Ris Int",
+		"name": "From Kampong Bahru Ter to Pasir Ris Int",
 		"stops": [
 			"10499",
 			"10017",

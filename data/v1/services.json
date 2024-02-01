@@ -15109,7 +15109,7 @@
 		]
 	},
 	"189": {
-		"name": "Bt Batok Int ⟲ Opp Nan Hua High Sch",
+		"name": "Bt Batok Int ⟲ NUS High Sch",
 		"routes": [
 			[
 				"43009",
@@ -15126,6 +15126,7 @@
 				"17189",
 				"17179",
 				"17259",
+				"17139",
 				"17191",
 				"16991",
 				"16891",
@@ -25272,7 +25273,7 @@
 		]
 	},
 	"34B": {
-		"name": "Ikea Tampines → Tampines Wafer Fab Pk",
+		"name": "IKEA Tampines/Aft TPE → Tampines Wafer Fab Pk",
 		"routes": [
 			[
 				"75359",
