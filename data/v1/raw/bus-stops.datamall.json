@@ -1003,7 +1003,7 @@
 	{
 		"BusStopCode": "05431",
 		"RoadName": "Hoe Chiang Rd",
-		"Description": "TOWER 15",
+		"Description": "Aft Tanjong Pagar Rd",
 		"Latitude": 1.27408,
 		"Longitude": 103.8420461
 	},
@@ -3061,7 +3061,7 @@
 	{
 		"BusStopCode": "12081",
 		"RoadName": "Clementi Rd",
-		"Description": "Maju Camp",
+		"Description": "Clementi N'hood Pk",
 		"Latitude": 1.326468056,
 		"Longitude": 103.77543
 	},
@@ -3306,7 +3306,7 @@
 	{
 		"BusStopCode": "13071",
 		"RoadName": "River Valley Rd",
-		"Description": "Riva Lodge",
+		"Description": "Great World Stn Exit 5",
 		"Latitude": 1.296335,
 		"Longitude": 103.832936
 	},
@@ -4735,8 +4735,8 @@
 		"BusStopCode": "17139",
 		"RoadName": "AYE",
 		"Description": "Aft Clementi Swim Cplx",
-		"Latitude": 1.30903304650021,
-		"Longitude": 103.7658699915105
+		"Latitude": 1.307653,
+		"Longitude": 103.76674
 	},
 	{
 		"BusStopCode": "17141",
@@ -5140,7 +5140,7 @@
 	{
 		"BusStopCode": "18101",
 		"RoadName": "Buona Vista Flyover",
-		"Description": "PSB Science Pk Bldg",
+		"Description": "5 Sci Pk Dr",
 		"Latitude": 1.292825,
 		"Longitude": 103.786354
 	},
@@ -10586,7 +10586,7 @@
 	{
 		"BusStopCode": "28239",
 		"RoadName": "Jurong Town Hall Rd",
-		"Description": "Opp Jurong Town Hall",
+		"Description": "Jurong Town Hall Int",
 		"Latitude": 1.330029,
 		"Longitude": 103.742845
 	},
@@ -14667,7 +14667,7 @@
 	{
 		"BusStopCode": "44449",
 		"RoadName": "Choa Chu Kang Way",
-		"Description": "Opp Blk 238",
+		"Description": "Palm Gdns",
 		"Latitude": 1.37889232196067,
 		"Longitude": 103.74762704486072
 	},
@@ -15032,8 +15032,8 @@
 		"BusStopCode": "44721",
 		"RoadName": "Bt Panjang Ring Rd",
 		"Description": "Opp Jelapang Stn",
-		"Latitude": 1.38679108297845,
-		"Longitude": 103.76491900002709
+		"Latitude": 1.386786,
+		"Longitude": 103.764921
 	},
 	{
 		"BusStopCode": "44731",
@@ -15102,8 +15102,8 @@
 		"BusStopCode": "44819",
 		"RoadName": "Senja Rd",
 		"Description": "Opp West Spring Sec Sch",
-		"Latitude": 1.38707539442819,
-		"Longitude": 103.76004791400926
+		"Latitude": 1.387188,
+		"Longitude": 103.759842
 	},
 	{
 		"BusStopCode": "44821",
@@ -16088,7 +16088,7 @@
 	{
 		"BusStopCode": "46169",
 		"RoadName": "Marsiling Lane",
-		"Description": "Si Ling Sec Sch",
+		"Description": "Opp GES",
 		"Latitude": 1.44535191044578,
 		"Longitude": 103.77526673254576
 	},
@@ -17509,7 +17509,7 @@
 	{
 		"BusStopCode": "47611",
 		"RoadName": "Woodlands Ave 7",
-		"Description": "Woodsvale Condo",
+		"Description": "Northoaks Condo",
 		"Latitude": 1.44388706173517,
 		"Longitude": 103.80622284389754
 	},
@@ -17628,14 +17628,14 @@
 	{
 		"BusStopCode": "47801",
 		"RoadName": "Admiralty Rd West",
-		"Description": "Sunshine Bakery",
+		"Description": "Opp North Link Bldg",
 		"Latitude": 1.46417400978934,
 		"Longitude": 103.8129834777538
 	},
 	{
 		"BusStopCode": "47809",
 		"RoadName": "Admiralty Rd West",
-		"Description": "Opp Sunshine Bakery",
+		"Description": "North Link Bldg",
 		"Latitude": 1.46379183832972,
 		"Longitude": 103.813587498325
 	},
@@ -19049,14 +19049,14 @@
 	{
 		"BusStopCode": "52321",
 		"RoadName": "Lor 6 Toa Payoh",
-		"Description": "Toa Payoh Stadium",
+		"Description": "Aft SAFRA Toa Payoh",
 		"Latitude": 1.3312589884768,
 		"Longitude": 103.8527071071997
 	},
 	{
 		"BusStopCode": "52329",
 		"RoadName": "Lor 6 Toa Payoh",
-		"Description": "Opp Toa Payoh Stadium",
+		"Description": "Aft Lor 4 Toa Payoh",
 		"Latitude": 1.33146817532374,
 		"Longitude": 103.85268688199498
 	},
@@ -21520,7 +21520,7 @@
 	{
 		"BusStopCode": "58061",
 		"RoadName": "Sembawang Rd",
-		"Description": "Aft Durban Rd",
+		"Description": "Opp Blk 101A",
 		"Latitude": 1.45296423052616,
 		"Longitude": 103.83110625286093
 	},
@@ -24215,7 +24215,7 @@
 	{
 		"BusStopCode": "63201",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "Blk 133",
+		"Description": "Affinity At Serangoon",
 		"Latitude": 1.36617789459924,
 		"Longitude": 103.87492029493984
 	},
@@ -24853,8 +24853,8 @@
 		"BusStopCode": "64311",
 		"RoadName": "Hougang Ave 7",
 		"Description": "Riverfront Residences",
-		"Latitude": 1.37014334916955,
-		"Longitude": 103.90023200745897
+		"Latitude": 1.370275,
+		"Longitude": 103.900361
 	},
 	{
 		"BusStopCode": "64319",
@@ -29094,14 +29094,14 @@
 	{
 		"BusStopCode": "75061",
 		"RoadName": "Bedok Reservoir Rd",
-		"Description": "Opp Bedok Reform Trg Ctr",
+		"Description": "Blk 954D",
 		"Latitude": 1.34071391760745,
 		"Longitude": 103.93646836281481
 	},
 	{
 		"BusStopCode": "75069",
 		"RoadName": "Bedok Reservoir Rd",
-		"Description": "Bedok Reform Trg Ctr",
+		"Description": "Blk 960A",
 		"Latitude": 1.34066333296943,
 		"Longitude": 103.93669999999881
 	},
@@ -29381,14 +29381,14 @@
 	{
 		"BusStopCode": "75311",
 		"RoadName": "Tampines Ave 10",
-		"Description": "Tampines Dormitory",
+		"Description": "Bef Tampines Lk",
 		"Latitude": 1.367478,
 		"Longitude": 103.930734
 	},
 	{
 		"BusStopCode": "75319",
 		"RoadName": "Tampines Ave 10",
-		"Description": "Opp Tampines Dormitory",
+		"Description": "Aft Tampines Lk",
 		"Latitude": 1.367593,
 		"Longitude": 103.931091
 	},
@@ -29430,7 +29430,7 @@
 	{
 		"BusStopCode": "75359",
 		"RoadName": "Tampines Ave 10",
-		"Description": "Ikea Tampines",
+		"Description": "IKEA Tampines/Aft TPE",
 		"Latitude": 1.37438650022455,
 		"Longitude": 103.93147946559002
 	},
@@ -32405,7 +32405,7 @@
 	{
 		"BusStopCode": "84079",
 		"RoadName": "Bedok Sth Rd",
-		"Description": "Siglap Cc/Opp Blk 71",
+		"Description": "Opp Blk 71",
 		"Latitude": 1.32099303797206,
 		"Longitude": 103.94325305782594
 	},
@@ -33420,7 +33420,7 @@
 	{
 		"BusStopCode": "91059",
 		"RoadName": "Mountbatten Rd",
-		"Description": "Katong Pk Twrs",
+		"Description": "Aft Margate Rd",
 		"Latitude": 1.30052638901127,
 		"Longitude": 103.88831333297796
 	},

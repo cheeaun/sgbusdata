@@ -1232,7 +1232,7 @@
 	"12081": [
 		103.77543,
 		1.32647,
-		"Maju Camp",
+		"Clementi N'hood Pk",
 		"Clementi Rd"
 	],
 	"12089": [
@@ -1442,7 +1442,7 @@
 	"13071": [
 		103.83294,
 		1.29634,
-		"Riva Lodge",
+		"Great World Stn Exit 5",
 		"River Valley Rd"
 	],
 	"13079": [
@@ -2664,8 +2664,8 @@
 		"AYE"
 	],
 	"17139": [
-		103.76587,
-		1.30903,
+		103.76674,
+		1.30765,
 		"Aft Clementi Swim Cplx",
 		"AYE"
 	],
@@ -3014,7 +3014,7 @@
 	"18101": [
 		103.78635,
 		1.29282,
-		"PSB Science Pk Bldg",
+		"5 Sci Pk Dr",
 		"Buona Vista Flyover"
 	],
 	"18109": [
@@ -7682,7 +7682,7 @@
 	"28239": [
 		103.74285,
 		1.33003,
-		"Opp Jurong Town Hall",
+		"Jurong Town Hall Int",
 		"Jurong Town Hall Rd"
 	],
 	"28241": [
@@ -11180,7 +11180,7 @@
 	"44449": [
 		103.74763,
 		1.37889,
-		"Opp Blk 238",
+		"Palm Gdns",
 		"Choa Chu Kang Way"
 	],
 	"44451": [
@@ -11550,8 +11550,8 @@
 		"Senja Rd"
 	],
 	"44819": [
-		103.76005,
-		1.38708,
+		103.75984,
+		1.38719,
 		"Opp West Spring Sec Sch",
 		"Senja Rd"
 	],
@@ -12398,7 +12398,7 @@
 	"46169": [
 		103.77527,
 		1.44535,
-		"Si Ling Sec Sch",
+		"Opp GES",
 		"Marsiling Lane"
 	],
 	"46171": [
@@ -13616,7 +13616,7 @@
 	"47611": [
 		103.80622,
 		1.44389,
-		"Woodsvale Condo",
+		"Northoaks Condo",
 		"Woodlands Ave 7"
 	],
 	"47619": [
@@ -13718,13 +13718,13 @@
 	"47801": [
 		103.81298,
 		1.46417,
-		"Sunshine Bakery",
+		"Opp North Link Bldg",
 		"Admiralty Rd West"
 	],
 	"47809": [
 		103.81359,
 		1.46379,
-		"Opp Sunshine Bakery",
+		"North Link Bldg",
 		"Admiralty Rd West"
 	],
 	"47811": [
@@ -14936,13 +14936,13 @@
 	"52321": [
 		103.85271,
 		1.33126,
-		"Toa Payoh Stadium",
+		"Aft SAFRA Toa Payoh",
 		"Lor 6 Toa Payoh"
 	],
 	"52329": [
 		103.85269,
 		1.33147,
-		"Opp Toa Payoh Stadium",
+		"Aft Lor 4 Toa Payoh",
 		"Lor 6 Toa Payoh"
 	],
 	"52331": [
@@ -17054,7 +17054,7 @@
 	"58061": [
 		103.83111,
 		1.45296,
-		"Aft Durban Rd",
+		"Opp Blk 101A",
 		"Sembawang Rd"
 	],
 	"58069": [
@@ -19364,7 +19364,7 @@
 	"63201": [
 		103.87492,
 		1.36618,
-		"Blk 133",
+		"Affinity At Serangoon",
 		"Yio Chu Kang Rd"
 	],
 	"63209": [
@@ -19908,8 +19908,8 @@
 		"Hougang Ave 7"
 	],
 	"64311": [
-		103.90023,
-		1.37014,
+		103.90036,
+		1.37028,
 		"Riverfront Residences",
 		"Hougang Ave 7"
 	],
@@ -23546,13 +23546,13 @@
 	"75061": [
 		103.93647,
 		1.34071,
-		"Opp Bedok Reform Trg Ctr",
+		"Blk 954D",
 		"Bedok Reservoir Rd"
 	],
 	"75069": [
 		103.9367,
 		1.34066,
-		"Bedok Reform Trg Ctr",
+		"Blk 960A",
 		"Bedok Reservoir Rd"
 	],
 	"75071": [
@@ -23792,13 +23792,13 @@
 	"75311": [
 		103.93073,
 		1.36748,
-		"Tampines Dormitory",
+		"Bef Tampines Lk",
 		"Tampines Ave 10"
 	],
 	"75319": [
 		103.93109,
 		1.36759,
-		"Opp Tampines Dormitory",
+		"Aft Tampines Lk",
 		"Tampines Ave 10"
 	],
 	"75329": [
@@ -23834,7 +23834,7 @@
 	"75359": [
 		103.93148,
 		1.37439,
-		"Ikea Tampines",
+		"IKEA Tampines/Aft TPE",
 		"Tampines Ave 10"
 	],
 	"75361": [
@@ -26384,7 +26384,7 @@
 	"84079": [
 		103.94325,
 		1.32099,
-		"Siglap CC/Opp Blk 71",
+		"Opp Blk 71",
 		"Bedok Sth Rd"
 	],
 	"84081": [
@@ -27254,7 +27254,7 @@
 	"91059": [
 		103.88831,
 		1.30053,
-		"Katong Pk Twrs",
+		"Aft Margate Rd",
 		"Mountbatten Rd"
 	],
 	"91061": [
@@ -30104,7 +30104,7 @@
 	"05431": [
 		103.84205,
 		1.27408,
-		"Tower 15",
+		"Aft Tanjong Pagar Rd",
 		"Hoe Chiang Rd"
 	],
 	"05519": [

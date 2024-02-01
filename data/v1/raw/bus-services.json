@@ -245,17 +245,6 @@
 		]
 	},
 	{
-		"number": 539,
-		"description": "Pasir Ris Drive 3 to Temasek Boulevard",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"539-1.kml"
-		],
-		"routeFile": [
-			"539.xml"
-		]
-	},
-	{
 		"number": 545,
 		"description": "Bedok North Avenue 4 to Fullerton Road",
 		"type": "PREMIUM",
@@ -315,8 +304,7 @@
 		"description": "Yishun Avenue 2/Avenue 5 - Pasir Panjang Road",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"573-1.kml",
-			"573-2.kml"
+			"573-1.kml"
 		],
 		"routeFile": [
 			"573.xml"
@@ -383,7 +371,7 @@
 	},
 	{
 		"number": 722,
-		"description": "Senja Road to Cecil Street",
+		"description": "Senja Road to Gopeng Street",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"722-1.kml"
@@ -553,17 +541,6 @@
 		]
 	},
 	{
-		"number": "-S42",
-		"description": "Safari Big Bus Tours - Suntec City to Singapore Zoo and Night Safari Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S42-1.kml"
-		],
-		"routeFile": [
-			"-S42.xml"
-		]
-	},
-	{
 		"number": "-S49",
 		"description": "RWS 8 - Shuttle Bus Service from Resorts World Sentosa to HarbourFront Station (loop)",
 		"type": "SHUTTLEATTRACTIONS",
@@ -583,39 +560,6 @@
 		],
 		"routeFile": [
 			"-S5.xml"
-		]
-	},
-	{
-		"number": "-S50",
-		"description": "Shuttle Bus Service between Bedok and Mandai Wildlife Reserve",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S50-1.kml"
-		],
-		"routeFile": [
-			"-S50.xml"
-		]
-	},
-	{
-		"number": "-S51",
-		"description": "Shuttle Bus Service between Sengkang and Mandai Wildlife Reserve",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S51-1.kml"
-		],
-		"routeFile": [
-			"-S51.xml"
-		]
-	},
-	{
-		"number": "-S52",
-		"description": "Shuttle Bus Service between Tampines and Mandai Wildlife Reserve",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S52-1.kml"
-		],
-		"routeFile": [
-			"-S52.xml"
 		]
 	},
 	{
@@ -641,6 +585,28 @@
 		]
 	},
 	{
+		"number": "-S58",
+		"description": "Safari Big Bus Tours - Night Safari to Suntec City via Little India / Chinatown Tourist Bus Service",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S58-1.kml"
+		],
+		"routeFile": [
+			"-S58.xml"
+		]
+	},
+	{
+		"number": "-S59",
+		"description": "Safari Big Bus Tours – Orchard Road to Singapore Zoo & Night Safari",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S59-1.kml"
+		],
+		"routeFile": [
+			"-S59.xml"
+		]
+	},
+	{
 		"number": "-S6",
 		"description": "Moonlight Big Bus Tours - Suntec City to Clarke Quay Tourist Bus Service",
 		"type": "SHUTTLEATTRACTIONS",
@@ -649,6 +615,17 @@
 		],
 		"routeFile": [
 			"-S6.xml"
+		]
+	},
+	{
+		"number": "-S60",
+		"description": "Safari Big Bus Tours - Night Safari to Suntec City via Orchard Road",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S60-1.kml"
+		],
+		"routeFile": [
+			"-S60.xml"
 		]
 	},
 	{
@@ -5255,7 +5232,7 @@
 		"number": "88B",
 		"type": "TRUNK",
 		"kmlFile": [
-			"88B-2.kml"
+			"88B-1.kml"
 		],
 		"routeFile": [
 			"88B.xml"
