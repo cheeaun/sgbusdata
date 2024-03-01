@@ -1,14 +1,5 @@
 [
 	{
-		"name": "-P11",
-		"wab": "true",
-		"details": "Grande Vista Condomium",
-		"coordinates": {
-			"lat": 1.388806,
-			"long": 103.852418
-		}
-	},
-	{
 		"name": "-P110",
 		"wab": "true",
 		"details": "Outside Estella Gardens",
@@ -47,7 +38,7 @@
 	{
 		"name": "-P115",
 		"wab": "true",
-		"details": "Pan Pacific Hotel",
+		"details": "Promenade Stn/Pan Pacific",
 		"coordinates": {
 			"lat": 1.291533235,
 			"long": 103.8592673
@@ -65,7 +56,7 @@
 	{
 		"name": "-P117",
 		"wab": "true",
-		"details": "Opp War Memorial Park",
+		"details": "Opp War Memorial Pk",
 		"coordinates": {
 			"lat": 1.291844074,
 			"long": 103.8553433
@@ -83,7 +74,7 @@
 	{
 		"name": "-P119",
 		"wab": "true",
-		"details": "Suntec Convention Centre",
+		"details": "Suntec Convention Ctr",
 		"coordinates": {
 			"lat": 1.29317776,
 			"long": 103.85784623
@@ -137,7 +128,7 @@
 	{
 		"name": "-P125",
 		"wab": "true",
-		"details": "Prudential Tower",
+		"details": "Prudential Twr",
 		"coordinates": {
 			"lat": 1.28255525,
 			"long": 103.84998904
@@ -173,7 +164,7 @@
 	{
 		"name": "-P129",
 		"wab": "true",
-		"details": "Opp SO Sofitel S'pore",
+		"details": "80 Robinson Rd",
 		"coordinates": {
 			"lat": 1.27990609626764,
 			"long": 103.84940030424481
@@ -200,7 +191,7 @@
 	{
 		"name": "-P132",
 		"wab": "true",
-		"details": "Opp GB Building",
+		"details": "Opp GB Bldg",
 		"coordinates": {
 			"lat": 1.27892125,
 			"long": 103.84776235
@@ -209,7 +200,7 @@
 	{
 		"name": "-P133",
 		"wab": "true",
-		"details": "Opp AXA Tower",
+		"details": "Opp AXA Twr",
 		"coordinates": {
 			"lat": 1.27552218897645,
 			"long": 103.847944367491
@@ -236,7 +227,7 @@
 	{
 		"name": "-P136",
 		"wab": "true",
-		"details": "Tanjong Pagar Station Exit C",
+		"details": "Tanjong Pagar Stn Exit C",
 		"coordinates": {
 			"lat": 1.275703395,
 			"long": 103.8463247
@@ -285,15 +276,6 @@
 		"coordinates": {
 			"lat": 1.284437,
 			"long": 103.849114
-		}
-	},
-	{
-		"name": "-P145",
-		"wab": "true",
-		"details": "Bef Cantonment Rd",
-		"coordinates": {
-			"lat": 1.27272393115133,
-			"long": 103.84140618785226
 		}
 	},
 	{
@@ -1305,15 +1287,6 @@
 		}
 	},
 	{
-		"name": "-P594",
-		"wab": "true",
-		"details": "Opp The Midtown",
-		"coordinates": {
-			"lat": 1.37037139,
-			"long": 103.8960325
-		}
-	},
-	{
 		"name": "-P595",
 		"wab": "true",
 		"details": "Blk 465A",
@@ -1323,30 +1296,12 @@
 		}
 	},
 	{
-		"name": "-P596",
-		"wab": "true",
-		"details": "Blk 355",
-		"coordinates": {
-			"lat": 1.372491357,
-			"long": 103.8983747
-		}
-	},
-	{
 		"name": "-P597",
 		"wab": "true",
 		"details": "Opp Punggol Pk",
 		"coordinates": {
 			"lat": 1.375140564,
 			"long": 103.8972481
-		}
-	},
-	{
-		"name": "-P598",
-		"wab": "true",
-		"details": "Punggol Pk",
-		"coordinates": {
-			"lat": 1.375008333,
-			"long": 103.8977478
 		}
 	},
 	{
@@ -1361,7 +1316,7 @@
 	{
 		"name": "-P600",
 		"wab": "true",
-		"details": "Gracehaven Salvation Army",
+		"details": "Gracehaven S Army",
 		"coordinates": {
 			"lat": 1.372023302,
 			"long": 103.876909
@@ -1773,30 +1728,12 @@
 		}
 	},
 	{
-		"name": "-P676",
-		"wab": "true",
-		"details": "Blk 554",
-		"coordinates": {
-			"lat": 1.371731765,
-			"long": 103.8701543
-		}
-	},
-	{
 		"name": "-P677",
 		"wab": "true",
 		"details": "Blk 101",
 		"coordinates": {
 			"lat": 1.371251832,
 			"long": 103.8705581
-		}
-	},
-	{
-		"name": "-P678",
-		"wab": "true",
-		"details": "Daikin S'pore",
-		"coordinates": {
-			"lat": 1.371141961,
-			"long": 103.8652534
 		}
 	},
 	{
@@ -2328,6 +2265,42 @@
 		"coordinates": {
 			"lat": 1.356303394,
 			"long": 103.9598505
+		}
+	},
+	{
+		"name": "-P799",
+		"wab": "true",
+		"details": "Blk 515",
+		"coordinates": {
+			"lat": 1.373731091,
+			"long": 103.9435316
+		}
+	},
+	{
+		"name": "-P800",
+		"wab": "true",
+		"details": "Blk 571",
+		"coordinates": {
+			"lat": 1.372760399,
+			"long": 103.9459904
+		}
+	},
+	{
+		"name": "-P802",
+		"wab": "true",
+		"details": "Blk 541",
+		"coordinates": {
+			"lat": 1.369448546,
+			"long": 103.9513045
+		}
+	},
+	{
+		"name": "-P803",
+		"wab": "true",
+		"details": "Blk 115",
+		"coordinates": {
+			"lat": 1.369085045,
+			"long": 103.9550853
 		}
 	},
 	{
@@ -3006,6 +2979,15 @@
 		}
 	},
 	{
+		"name": "-PA84",
+		"wab": "true",
+		"details": "Blk 612",
+		"coordinates": {
+			"lat": 1.37446278162558,
+			"long": 103.941805781265
+		}
+	},
+	{
 		"name": "-PB00",
 		"wab": "true",
 		"details": "Oasis Station Exit B/Blk 617D",
@@ -3062,7 +3044,7 @@
 	{
 		"name": "-PB97",
 		"wab": "true",
-		"details": "Blk 256/ Opp Loyang Point",
+		"details": "Blk 256/Opp Loyang Pt",
 		"coordinates": {
 			"lat": 1.36733773244319,
 			"long": 103.964244708804
@@ -3138,15 +3120,6 @@
 		"coordinates": {
 			"lat": 1.2802,
 			"long": 103.8506
-		}
-	},
-	{
-		"name": "-PC76",
-		"wab": "true",
-		"details": "Chinatown Stn Exit E",
-		"coordinates": {
-			"lat": 1.28531114761754,
-			"long": 103.84455070696784
 		}
 	},
 	{
@@ -3269,7 +3242,7 @@
 	{
 		"name": "-PD50",
 		"wab": "true",
-		"details": "Suntec Tower Two",
+		"details": "Suntec Twr Two",
 		"coordinates": {
 			"lat": 1.29576572,
 			"long": 103.85933815
@@ -3492,6 +3465,60 @@
 		}
 	},
 	{
+		"name": "-PP01",
+		"wab": "true",
+		"details": "Blk 643",
+		"coordinates": {
+			"lat": 1.37741830757924,
+			"long": 103.93793201117523
+		}
+	},
+	{
+		"name": "-PP02",
+		"wab": "true",
+		"details": "Blk 640",
+		"coordinates": {
+			"lat": 1.37599439507295,
+			"long": 103.939861116152
+		}
+	},
+	{
+		"name": "-PP03",
+		"wab": "true",
+		"details": "Pasir Ris Town Pk",
+		"coordinates": {
+			"lat": 1.36963556960047,
+			"long": 103.95158314847573
+		}
+	},
+	{
+		"name": "-PP04",
+		"wab": "true",
+		"details": "Blk 425",
+		"coordinates": {
+			"lat": 1.36936138996292,
+			"long": 103.95506338293471
+		}
+	},
+	{
+		"name": "-PP07",
+		"wab": "true",
+		"details": "Blk 269A",
+		"coordinates": {
+			"lat": 1.36457166700645,
+			"long": 103.96328361098551
+		}
+	},
+	{
+		"name": "-PP08",
+		"wab": "true",
+		"details": "Opp Blk 149A",
+		"coordinates": {
+			"lat": 1.3622609999684,
+			"long": 103.96338699998489
+		}
+	},
+	{
 		"name": "-PP10",
 		"wab": "true",
 		"details": "Aft Akzonobel",
@@ -3582,12 +3609,75 @@
 		}
 	},
 	{
+		"name": "-PW01",
+		"wab": "true",
+		"details": "Bef Mariam Wk",
+		"coordinates": {
+			"lat": 1.35930611110109,
+			"long": 103.96849111110153
+		}
+	},
+	{
 		"name": "-PW02",
 		"wab": "true",
 		"details": "Upper Changi Station/Singapore University of Technology and Design",
 		"coordinates": {
 			"lat": 1.3408744614671,
 			"long": 103.96143293297968
+		}
+	},
+	{
+		"name": "-PW06",
+		"wab": "true",
+		"details": "Aft Ballota Pk",
+		"coordinates": {
+			"lat": 1.3592369444173,
+			"long": 103.96845690524152
+		}
+	},
+	{
+		"name": "-PW07",
+		"wab": "true",
+		"details": "Carissa Pk",
+		"coordinates": {
+			"lat": 1.35996000001358,
+			"long": 103.96473694441013
+		}
+	},
+	{
+		"name": "-PW09",
+		"wab": "true",
+		"details": "Opp Blk 571",
+		"coordinates": {
+			"lat": 1.3726630000055,
+			"long": 103.94557280001845
+		}
+	},
+	{
+		"name": "-PW0A",
+		"wab": "true",
+		"details": "Opp Blk 515",
+		"coordinates": {
+			"lat": 1.37376489998905,
+			"long": 103.94266590001561
+		}
+	},
+	{
+		"name": "-PW0B",
+		"wab": "true",
+		"details": "Opp Blk 640",
+		"coordinates": {
+			"lat": 1.37531331487507,
+			"long": 103.940272636011
+		}
+	},
+	{
+		"name": "-PW0C",
+		"wab": "true",
+		"details": "Tampines Meridian Jc",
+		"coordinates": {
+			"lat": 1.37670503142246,
+			"long": 103.93844026085439
 		}
 	},
 	{
@@ -3636,9 +3726,18 @@
 		}
 	},
 	{
+		"name": "-PW14",
+		"wab": "true",
+		"details": "Changi City Pt",
+		"coordinates": {
+			"lat": 1.3332723569143,
+			"long": 103.96209564305455
+		}
+	},
+	{
 		"name": "-PW15",
 		"wab": "true",
-		"details": "Honeywell Building",
+		"details": "Honeywell Bldg",
 		"coordinates": {
 			"lat": 1.3367799,
 			"long": 103.9659831
@@ -4007,10 +4106,10 @@
 	{
 		"name": "-S153",
 		"wab": "true",
-		"details": "Grange Residences",
+		"details": "OPP ORCHARD BLVD STN",
 		"coordinates": {
-			"lat": 1.30391999998388,
-			"long": 103.823338056031
+			"lat": 1.30391999998489,
+			"long": 103.82333805603095
 		}
 	},
 	{
@@ -4034,19 +4133,10 @@
 	{
 		"name": "-S159",
 		"wab": "true",
-		"details": "Opp Rochor Stn",
+		"details": "Bef Rochor Stn Exit B",
 		"coordinates": {
 			"lat": 1.30461300741111,
 			"long": 103.852000972095
-		}
-	},
-	{
-		"name": "-S16",
-		"wab": "true",
-		"details": "Outside Golden Mile Tower",
-		"coordinates": {
-			"lat": 1.301894,
-			"long": 103.864144
 		}
 	},
 	{
@@ -4083,33 +4173,6 @@
 		"coordinates": {
 			"lat": 1.28406979945807,
 			"long": 103.84299874304
-		}
-	},
-	{
-		"name": "-S17",
-		"wab": "true",
-		"details": "Outside Park Royal Hotel",
-		"coordinates": {
-			"lat": 1.310487,
-			"long": 103.855632
-		}
-	},
-	{
-		"name": "-S178",
-		"wab": "true",
-		"details": "UE Sq",
-		"coordinates": {
-			"lat": 1.29214000777612,
-			"long": 103.843036461911
-		}
-	},
-	{
-		"name": "-S184",
-		"wab": "true",
-		"details": "Shaw Twrs",
-		"coordinates": {
-			"lat": 1.29696997588846,
-			"long": 103.856858504932
 		}
 	},
 	{
@@ -4205,7 +4268,7 @@
 	{
 		"name": "-S255",
 		"wab": "true",
-		"details": "Marina Barrage",
+		"details": "GARDENS BY THE BAY STN EXIT 1",
 		"coordinates": {
 			"lat": 1.27960772061959,
 			"long": 103.8698744774074
@@ -4293,39 +4356,12 @@
 		}
 	},
 	{
-		"name": "-S33",
-		"wab": "true",
-		"details": "Outside Copthorne King's Hotel",
-		"coordinates": {
-			"lat": 1.28826,
-			"long": 103.836642
-		}
-	},
-	{
-		"name": "-S69",
-		"wab": "true",
-		"details": "Outside Mandarin Oriental Hotel",
-		"coordinates": {
-			"lat": 1.290092,
-			"long": 103.858443
-		}
-	},
-	{
 		"name": "-S7",
 		"wab": "true",
 		"details": "DUCKtours bay at Suntec City",
 		"coordinates": {
 			"lat": 1.295953,
 			"long": 103.858941
-		}
-	},
-	{
-		"name": "-S71",
-		"wab": "true",
-		"details": "Outside The Pan Pacific Hotel",
-		"coordinates": {
-			"lat": 1.292414,
-			"long": 103.858815
 		}
 	},
 	{
@@ -4344,15 +4380,6 @@
 		"coordinates": {
 			"lat": 1.305116,
 			"long": 103.851437
-		}
-	},
-	{
-		"name": "-S84",
-		"wab": "true",
-		"details": "Outside Swissotel The Stamford",
-		"coordinates": {
-			"lat": 1.293287,
-			"long": 103.853274
 		}
 	},
 	{
@@ -4398,6 +4425,15 @@
 		"coordinates": {
 			"lat": 1.279919,
 			"long": 103.830637
+		}
+	},
+	{
+		"name": "-Z002",
+		"wab": "true",
+		"details": "Changi Prison",
+		"coordinates": {
+			"lat": 1.35817903735465,
+			"long": 103.96973879358464
 		}
 	},
 	{
@@ -4527,6 +4563,15 @@
 		}
 	},
 	{
+		"name": "-Z218",
+		"wab": "true",
+		"details": "Outside Citibank",
+		"coordinates": {
+			"lat": 1.33341379,
+			"long": 103.96485
+		}
+	},
+	{
 		"name": "-Z227",
 		"wab": "true",
 		"details": "Blk 306 CP",
@@ -4587,15 +4632,6 @@
 		"coordinates": {
 			"lat": 1.375517,
 			"long": 103.844916
-		}
-	},
-	{
-		"name": "-Z367",
-		"wab": "true",
-		"details": "Opp Blk 479",
-		"coordinates": {
-			"lat": 1.37568000002841,
-			"long": 103.957966111102
 		}
 	},
 	{
@@ -4905,15 +4941,6 @@
 		}
 	},
 	{
-		"name": "-Z452",
-		"wab": "true",
-		"details": "Citylife@ Tampines",
-		"coordinates": {
-			"lat": 1.360247,
-			"long": 103.940633
-		}
-	},
-	{
 		"name": "-Z454",
 		"wab": "true",
 		"details": "Opposite Lamp Post 13",
@@ -4941,6 +4968,15 @@
 		}
 	},
 	{
+		"name": "-Z462",
+		"wab": "true",
+		"details": "SUTD",
+		"coordinates": {
+			"lat": 1.33980186622645,
+			"long": 103.96388189995498
+		}
+	},
+	{
 		"name": "-Z464",
 		"wab": "true",
 		"details": "Aft Punggol Field",
@@ -4965,6 +5001,15 @@
 		"coordinates": {
 			"lat": 1.338026,
 			"long": 103.964172
+		}
+	},
+	{
+		"name": "-Z470",
+		"wab": "true",
+		"details": "Expo Stn Exit E",
+		"coordinates": {
+			"lat": 1.33427655612286,
+			"long": 103.96175810276951
 		}
 	},
 	{
@@ -5078,10 +5123,10 @@
 	{
 		"name": "-Z567",
 		"wab": "true",
-		"details": "Opposite Ang Mo Kio Police Div HQ",
+		"details": "Opp AMK Police Div HQ",
 		"coordinates": {
-			"lat": 1.38408333299371,
-			"long": 103.84444749999892
+			"lat": 1.384083333,
+			"long": 103.8444475
 		}
 	},
 	{
@@ -5379,42 +5424,6 @@
 		"coordinates": {
 			"lat": 1.284572,
 			"long": 103.849775
-		}
-	},
-	{
-		"name": "-Z659",
-		"wab": "true",
-		"details": "Blk 638",
-		"coordinates": {
-			"lat": 1.37591147273628,
-			"long": 103.941099346083
-		}
-	},
-	{
-		"name": "-Z660",
-		"wab": "true",
-		"details": "Blk 633",
-		"coordinates": {
-			"lat": 1.37810945408117,
-			"long": 103.941279008094
-		}
-	},
-	{
-		"name": "-Z661",
-		"wab": "true",
-		"details": "Opp Pasir Ris Elias CC",
-		"coordinates": {
-			"lat": 1.37902915784394,
-			"long": 103.942715912383
-		}
-	},
-	{
-		"name": "-Z662",
-		"wab": "true",
-		"details": "Opp Blk 500A",
-		"coordinates": {
-			"lat": 1.376671,
-			"long": 103.94637
 		}
 	},
 	{
@@ -6048,15 +6057,6 @@
 		}
 	},
 	{
-		"name": "-Z780",
-		"wab": "true",
-		"details": "Outside Peninsular Excelsior Hotel",
-		"coordinates": {
-			"lat": 1.292016,
-			"long": 103.84981999
-		}
-	},
-	{
 		"name": "-Z781",
 		"wab": "true",
 		"details": "Resorts World Sentosa",
@@ -6162,6 +6162,87 @@
 		"coordinates": {
 			"lat": 1.30572083298412,
 			"long": 103.85120583303191
+		}
+	},
+	{
+		"name": "-Z793",
+		"wab": "true",
+		"details": "BEF BLK 631B",
+		"coordinates": {
+			"lat": 1.362079,
+			"long": 103.942426
+		}
+	},
+	{
+		"name": "-Z794",
+		"wab": "true",
+		"details": "BLK 630B",
+		"coordinates": {
+			"lat": 1.363603,
+			"long": 103.94323
+		}
+	},
+	{
+		"name": "-Z795",
+		"wab": "true",
+		"details": "BLK 636C",
+		"coordinates": {
+			"lat": 1.365866,
+			"long": 103.941721
+		}
+	},
+	{
+		"name": "-Z796",
+		"wab": "true",
+		"details": "Opp Blk 609D",
+		"coordinates": {
+			"lat": 1.363941111,
+			"long": 103.9381689
+		}
+	},
+	{
+		"name": "-Z797",
+		"wab": "true",
+		"details": "Blk 619A",
+		"coordinates": {
+			"lat": 1.361776111,
+			"long": 103.9381889
+		}
+	},
+	{
+		"name": "-Z798",
+		"wab": "true",
+		"details": "Aft Jln Bena",
+		"coordinates": {
+			"lat": 1.35474723,
+			"long": 103.96851979
+		}
+	},
+	{
+		"name": "-Z799",
+		"wab": "true",
+		"details": "Ballota Pk Condo",
+		"coordinates": {
+			"lat": 1.35785139,
+			"long": 103.96938267
+		}
+	},
+	{
+		"name": "-Z800",
+		"wab": "true",
+		"details": "Loyang Pt/Opp Blk 256",
+		"coordinates": {
+			"lat": 1.36718972,
+			"long": 103.96432861
+		}
+	},
+	{
+		"name": "-Z801",
+		"wab": "true",
+		"details": "Grande Vista Condomium",
+		"coordinates": {
+			"lat": 1.388806,
+			"long": 103.852418
 		}
 	},
 	{
@@ -30469,8 +30550,8 @@
 		"wab": "true",
 		"details": "Bef Caldecott Stn Exit 3",
 		"coordinates": {
-			"lat": 1.338366,
-			"long": 103.841761
+			"lat": 1.338026,
+			"long": 103.840252
 		}
 	},
 	{

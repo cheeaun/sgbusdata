@@ -1,0 +1,513 @@
+{
+	"feeds": [],
+	"routes": [
+		{
+			"aliases": [
+				"sbs-transit-146"
+			],
+			"brand": "SBSTBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "SBSTBuses146",
+			"long_name": "Aft Upp Paya Lebar Rd - Bef Upp Paya Lebar Rd",
+			"mode": "bus",
+			"name": "146",
+			"patterns": [
+				{
+					"id": "146_0",
+					"name": "towards Bef Upp Paya Lebar Rd",
+					"path": [
+						[
+							1.341735,
+							103.881782
+						],
+						[
+							1.34253,
+							103.880029
+						],
+						[
+							1.343842,
+							103.877739
+						],
+						[
+							1.343667,
+							103.875191
+						],
+						[
+							1.343249,
+							103.873081
+						],
+						[
+							1.341963,
+							103.870969
+						],
+						[
+							1.338453,
+							103.870849
+						],
+						[
+							1.3355,
+							103.872035
+						],
+						[
+							1.336277,
+							103.870189
+						],
+						[
+							1.338365,
+							103.87045
+						],
+						[
+							1.34143,
+							103.870492
+						],
+						[
+							1.343741,
+							103.873807
+						],
+						[
+							1.344127,
+							103.875621
+						],
+						[
+							1.34384,
+							103.878251
+						],
+						[
+							1.342966,
+							103.879766
+						],
+						[
+							1.342099,
+							103.881613
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_AftUppPayaLebarRd_NW",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_OppBartleyStn_NW",
+							"path_index": 1
+						},
+						{
+							"id": "SingaporeStop_OppBartleyChrCh_W",
+							"path_index": 2
+						},
+						{
+							"id": "SingaporeStop_OppBartleyTerr_W",
+							"path_index": 3
+						},
+						{
+							"id": "SingaporeStop_BefUppSgoonRd_W",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_AftBartleyRd_S",
+							"path_index": 5
+						},
+						{
+							"id": "SingaporeStop_WoodleighStn_S",
+							"path_index": 6
+						},
+						{
+							"id": "SingaporeStop_Blk107A_SW",
+							"path_index": 7
+						},
+						{
+							"id": "SingaporeStop_AftWoodleighPk_N",
+							"path_index": 8
+						},
+						{
+							"id": "SingaporeStop_WoodleighStn_N",
+							"path_index": 9
+						},
+						{
+							"id": "SingaporeStop_BefBraddellRd_N",
+							"path_index": 10
+						},
+						{
+							"id": "SingaporeStop_AftUppSerangoonRd_E_1",
+							"path_index": 11
+						},
+						{
+							"id": "SingaporeStop_ClassicalTerr_E",
+							"path_index": 12
+						},
+						{
+							"id": "SingaporeStop_BartleyChrCh_SE",
+							"path_index": 13
+						},
+						{
+							"id": "SingaporeStop_BartleyStn_SE",
+							"path_index": 14
+						},
+						{
+							"id": "SingaporeStop_BefUppPayaLebarRd_SE",
+							"path_index": 15
+						}
+					]
+				}
+			],
+			"status": {
+				"level": 0,
+				"summary": "Good Service"
+			},
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
+			"ui_color": "#5BC824",
+			"url": "https://citymapper.com/singapore/l/sbs-transit-146"
+		}
+	],
+	"status": 0,
+	"stops": {
+		"SingaporeStop_AftBartleyRd_S": {
+			"bearing": "S",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.341963,
+				103.870969
+			],
+			"live_code": "SingaporeStop_AftBartleyRd_S",
+			"name": "Aft Bartley Rd",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses107",
+				"SBSTBuses107M",
+				"SBSTBuses13",
+				"SBSTBuses133",
+				"SBSTBuses135",
+				"SBSTBuses146",
+				"SBSTBuses147",
+				"SBSTBuses147A",
+				"SBSTBuses155",
+				"SBSTBuses506",
+				"TTSBuses853",
+				"TTSBuses853M"
+			],
+			"stop_code": "61049"
+		},
+		"SingaporeStop_AftUppPayaLebarRd_NW": {
+			"bearing": "NW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.341735,
+				103.881782
+			],
+			"live_code": "SingaporeStop_AftUppPayaLebarRd_NW",
+			"name": "Aft Upp Paya Lebar Rd",
+			"routes": [
+				"SBSTBuses146",
+				"SBSTBuses158",
+				"SBSTBuses28",
+				"SBSTBuses93"
+			],
+			"stop_code": "62061"
+		},
+		"SingaporeStop_AftUppSerangoonRd_E_1": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.343741,
+				103.873807
+			],
+			"live_code": "SingaporeStop_AftUppSerangoonRd_E_1",
+			"name": "Aft Upp Serangoon Rd",
+			"routes": [
+				"SBSTBuses146",
+				"SBSTBuses28",
+				"SBSTBuses93"
+			],
+			"stop_code": "62109"
+		},
+		"SingaporeStop_AftWoodleighPk_N": {
+			"bearing": "N",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.336277,
+				103.870189
+			],
+			"live_code": "SingaporeStop_AftWoodleighPk_N",
+			"name": "Aft Woodleigh Pk",
+			"routes": [
+				"SBSTBuses13",
+				"SBSTBuses133",
+				"SBSTBuses146",
+				"SBSTBuses147",
+				"SBSTBuses506",
+				"TTSBuses853",
+				"TTSBuses853M"
+			],
+			"stop_code": "61021"
+		},
+		"SingaporeStop_BartleyChrCh_SE": {
+			"bearing": "SE",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.34384,
+				103.878251
+			],
+			"live_code": "SingaporeStop_BartleyChrCh_SE",
+			"name": "Bartley Chr Ch",
+			"routes": [
+				"SBSTBuses129",
+				"SBSTBuses146",
+				"SBSTBuses158",
+				"SBSTBuses28",
+				"SBSTBuses93"
+			],
+			"stop_code": "62089"
+		},
+		"SingaporeStop_BartleyStn_SE": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.342966,
+				103.879766
+			],
+			"live_code": "SingaporeStop_BartleyStn_SE",
+			"name": "Aft Bartley Stn Exit B",
+			"routes": [
+				"SBSTBuses129",
+				"SBSTBuses146",
+				"SBSTBuses158",
+				"SBSTBuses28",
+				"SBSTBuses93"
+			],
+			"stop_code": "62079"
+		},
+		"SingaporeStop_BefBraddellRd_N": {
+			"bearing": "N",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.34143,
+				103.870492
+			],
+			"live_code": "SingaporeStop_BefBraddellRd_N",
+			"name": "Bef Braddell Rd",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses107",
+				"SBSTBuses107M",
+				"SBSTBuses13",
+				"SBSTBuses133",
+				"SBSTBuses135",
+				"SBSTBuses146",
+				"SBSTBuses147",
+				"SBSTBuses155",
+				"SBSTBuses506",
+				"TTSBuses853",
+				"TTSBuses853M"
+			],
+			"stop_code": "61041"
+		},
+		"SingaporeStop_BefUppPayaLebarRd_SE": {
+			"bearing": "SE",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.342099,
+				103.881613
+			],
+			"live_code": "SingaporeStop_BefUppPayaLebarRd_SE",
+			"name": "Bef Upp Paya Lebar Rd",
+			"routes": [
+				"SBSTBuses146",
+				"SBSTBuses158",
+				"SBSTBuses28",
+				"SBSTBuses93"
+			],
+			"stop_code": "62069"
+		},
+		"SingaporeStop_BefUppSgoonRd_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.343249,
+				103.873081
+			],
+			"live_code": "SingaporeStop_BefUppSgoonRd_W",
+			"name": "Bef Upp Serangoon Rd",
+			"routes": [
+				"SBSTBuses146",
+				"SBSTBuses28",
+				"SBSTBuses93"
+			],
+			"stop_code": "62101"
+		},
+		"SingaporeStop_Blk107A_SW": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.3355,
+				103.872035
+			],
+			"live_code": "SingaporeStop_Blk107A_SW",
+			"name": "Blk 114b",
+			"routes": [
+				"SBSTBuses107",
+				"SBSTBuses107M",
+				"SBSTBuses146"
+			],
+			"stop_code": "61111"
+		},
+		"SingaporeStop_ClassicalTerr_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.344127,
+				103.875621
+			],
+			"live_code": "SingaporeStop_ClassicalTerr_E",
+			"name": "Gambir Ridge",
+			"routes": [
+				"SBSTBuses129",
+				"SBSTBuses146",
+				"SBSTBuses28",
+				"SBSTBuses93"
+			],
+			"stop_code": "62099"
+		},
+		"SingaporeStop_OppBartleyChrCh_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.343842,
+				103.877739
+			],
+			"live_code": "SingaporeStop_OppBartleyChrCh_W",
+			"name": "Opp Bartley Chr Ch",
+			"routes": [
+				"SBSTBuses129",
+				"SBSTBuses146",
+				"SBSTBuses28",
+				"SBSTBuses93"
+			],
+			"stop_code": "62081"
+		},
+		"SingaporeStop_OppBartleyStn_NW": {
+			"bearing": "NW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.34253,
+				103.880029
+			],
+			"live_code": "SingaporeStop_OppBartleyStn_NW",
+			"name": "Bartley Stn Exit A",
+			"routes": [
+				"SBSTBuses129",
+				"SBSTBuses146",
+				"SBSTBuses158",
+				"SBSTBuses28",
+				"SBSTBuses93"
+			],
+			"stop_code": "62071"
+		},
+		"SingaporeStop_OppBartleyTerr_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.343667,
+				103.875191
+			],
+			"live_code": "SingaporeStop_OppBartleyTerr_W",
+			"name": "Opp Gambir Ridge",
+			"routes": [
+				"SBSTBuses129",
+				"SBSTBuses146",
+				"SBSTBuses28",
+				"SBSTBuses93"
+			],
+			"stop_code": "62091"
+		},
+		"SingaporeStop_WoodleighStn_N": {
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.338365,
+				103.87045
+			],
+			"live_code": "SingaporeStop_WoodleighStn_N",
+			"name": "Woodleigh Stn Exit B",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses107",
+				"SBSTBuses107M",
+				"SBSTBuses13",
+				"SBSTBuses133",
+				"SBSTBuses135",
+				"SBSTBuses146",
+				"SBSTBuses147",
+				"SBSTBuses155",
+				"SBSTBuses506",
+				"TTSBuses853",
+				"TTSBuses853M"
+			],
+			"stop_code": "61031"
+		},
+		"SingaporeStop_WoodleighStn_S": {
+			"bearing": "SE",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.338453,
+				103.870849
+			],
+			"live_code": "SingaporeStop_WoodleighStn_S",
+			"name": "Woodleigh Stn Exit A",
+			"routes": [
+				"SBSTBuses100",
+				"SBSTBuses100A",
+				"SBSTBuses107",
+				"SBSTBuses107M",
+				"SBSTBuses13",
+				"SBSTBuses133",
+				"SBSTBuses135",
+				"SBSTBuses146",
+				"SBSTBuses147",
+				"SBSTBuses147A",
+				"SBSTBuses155",
+				"SBSTBuses506",
+				"TTSBuses853",
+				"TTSBuses853M"
+			],
+			"stop_code": "61039"
+		}
+	}
+}
