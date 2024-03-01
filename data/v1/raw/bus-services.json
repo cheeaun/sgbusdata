@@ -300,6 +300,18 @@
 		]
 	},
 	{
+		"number": 570,
+		"description": "Pasir Ris Drive 1 - Changi Business Park",
+		"type": "PREMIUM",
+		"kmlFile": [
+			"570-1.kml",
+			"570-2.kml"
+		],
+		"routeFile": [
+			"570.xml"
+		]
+	},
+	{
 		"number": 573,
 		"description": "Yishun Avenue 2/Avenue 5 - Pasir Panjang Road",
 		"type": "PREMIUM",
@@ -315,8 +327,7 @@
 		"description": "Upper Serangoon Road - Anson Road",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"574-1.kml",
-			"574-2.kml"
+			"574-1.kml"
 		],
 		"routeFile": [
 			"574.xml"
@@ -486,7 +497,7 @@
 	},
 	{
 		"number": 767,
-		"description": "Elias Road to Beach Road",
+		"description": "Pasir Ris Drive 4 to Beach Road",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"767-1.kml"
@@ -571,17 +582,6 @@
 		],
 		"routeFile": [
 			"-S53.xml"
-		]
-	},
-	{
-		"number": "-S57",
-		"description": "SAEX Orange - Tourist Bus Service between Beach Road/Havelock Road and Mandai Wildlife Reserve",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S57-1.kml"
-		],
-		"routeFile": [
-			"-S57.xml"
 		]
 	},
 	{
@@ -1647,6 +1647,16 @@
 		],
 		"routeFile": [
 			"145A.xml"
+		]
+	},
+	{
+		"number": 146,
+		"type": "TRUNK",
+		"kmlFile": [
+			"146-1.kml"
+		],
+		"routeFile": [
+			"146.xml"
 		]
 	},
 	{

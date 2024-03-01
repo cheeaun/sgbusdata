@@ -1,3 +1,25 @@
+# 1 March 2024
+
+### Stop locations changed: 1
+
+- `52219` 103.84176,1.33837 ⮕ 103.84025,1.33803
+
+## Services count change: 539 ⮕ 540
+
+### Services added: 1
+
+- `146` Aft Upp Paya Lebar Rd → Bef Upp Paya Lebar Rd
+
+## Routes changed: 3
+
+- `114A` Buangkok Stn Exit B → Blk 998B
+- `860T` Yio Chu Kang Int → Yishun Int
+- `146` Aft Upp Paya Lebar Rd → Bef Upp Paya Lebar Rd
+
+## First/last timings changed
+
+Affected services: `62`, `82`, `85`, `146`
+
 # 1 February 2024
 
 ### Stop names changed: 21
