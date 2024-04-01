@@ -1,3 +1,64 @@
+# 1 April 2024
+
+## Stops count change: 5106 ⮕ 5109
+
+### Stops added: 3
+
+- `25251` S'pore Rail Test Ctr
+- `44969` Aft Teck Whye Walk
+- `51199` Blk 131B
+
+### Stop names changed: 2
+
+- `46981` Blk 541 ⮕ W'lands Sth Stn Exit 2
+- `46989` Opp Blk 540 ⮕ W'lands Sth Stn Exit 1
+
+### Stop locations changed: 15
+
+- `20259` 103.74477,1.31962 ⮕ 103.74508,1.32014
+- `22419` 103.70286,1.34623 ⮕ 103.70364,1.34653
+- `53239` 103.84762,1.35073 ⮕ 103.84764,1.351
+- `54041` 103.84498,1.37356 ⮕ 103.84504,1.37368
+- `55241` 103.84071,1.38933 ⮕ 103.84032,1.38955
+- `59011` 103.82738,1.40205 ⮕ 103.82746,1.40144
+- `59019` 103.82763,1.40218 ⮕ 103.82751,1.40368
+- `77029` 103.94598,1.37275 ⮕ 103.94554,1.37301
+- `80089` 103.88081,1.31274 ⮕ 103.88011,1.31266
+- `92071` 103.91498,1.30679 ⮕ 103.91475,1.30682
+- `94061` 103.95138,1.31844 ⮕ 103.9506,1.31804
+- `94071` 103.95515,1.3199 ⮕ 103.95497,1.31972
+- `94079` 103.95524,1.31962 ⮕ 103.95533,1.31956
+- `98041` 103.96968,1.36906 ⮕ 103.96897,1.36808
+- `98049` 103.97064,1.36955 ⮕ 103.96936,1.36833
+
+## Services count change: 540 ⮕ 542
+
+### Services added: 2
+
+- `911A` Woodlands Int → Blk 146
+- `983M` Opp Blk 486 → Aft Teck Whye Walk
+
+### Bus Stop Changes To Routes: 6
+
+- `911T` Woodlands Int → Woodlands Int: +12, -13
+- `950` Woodlands Temp Int ⟲ Johor Bahru Checkpt: -4
+- `141` Lor 1 Geylang Ter ⇄ Toa Payoh Int: +1
+- `182` Joo Koon Int ⟲ Aft Tuas View Circuit: +1
+- `235` Toa Payoh Int ⟲ Caldecott Stn Exit 4: +1
+- `182M` Joo Koon Int ⟲ Bef Tuas Sth Ave 9: +1
+
+## Routes changed: 5
+
+- `146` Aft Upp Paya Lebar Rd → Bef Upp Paya Lebar Rd
+- `860T` Yio Chu Kang Int → Yishun Int
+- `911T` Woodlands Int → Woodlands Int
+- `911A` Woodlands Int → Blk 146
+- `983M` Opp Blk 486 → Aft Teck Whye Walk
+
+## First/last timings changed
+
+Affected services: `50`, `141`, `153`, `182`, `235`, `950`, `182M`, `170X`, `911T`, `983M`, `911A`
+
 # 1 March 2024
 
 ### Stop locations changed: 1
