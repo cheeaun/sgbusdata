@@ -3582,8 +3582,8 @@
 		"Jurong Town Hall Rd"
 	],
 	"20259": [
-		103.74477,
-		1.31962,
+		103.74508,
+		1.32014,
 		"C'wealth Sec Sch",
 		"Jurong Town Hall Rd"
 	],
@@ -4830,8 +4830,8 @@
 		"Jurong West Ave 4"
 	],
 	"22419": [
-		103.70286,
-		1.34623,
+		103.70364,
+		1.34653,
 		"Jurong West Sub-Stn",
 		"Jurong West Ave 4"
 	],
@@ -6225,6 +6225,12 @@
 		103.64535,
 		1.33985,
 		"Aft Tuas West Rd",
+		"Jln Ahmad Ibrahim"
+	],
+	"25251": [
+		103.64018,
+		1.34528,
+		"S'pore Rail Test Ctr",
 		"Jln Ahmad Ibrahim"
 	],
 	"25259": [
@@ -11693,6 +11699,12 @@
 		"Blk 643A",
 		"Senja Close"
 	],
+	"44969": [
+		103.75449,
+		1.38215,
+		"Aft Teck Whye Walk",
+		"Teck Whye Cres"
+	],
 	"44989": [
 		103.75607,
 		1.39082,
@@ -13262,13 +13274,13 @@
 	"46981": [
 		103.79362,
 		1.42742,
-		"Blk 541",
+		"W'lands Sth Stn Exit 2",
 		"Woodlands Ave 1"
 	],
 	"46989": [
 		103.79221,
 		1.42802,
-		"Opp Blk 540",
+		"W'lands Sth Stn Exit 1",
 		"Woodlands Ave 1"
 	],
 	"46991": [
@@ -14585,6 +14597,12 @@
 		"Braddell View",
 		"Braddell Rd"
 	],
+	"51199": [
+		103.84256,
+		1.33878,
+		"Blk 131B",
+		"Toa Payoh Rise"
+	],
 	"52009": [
 		103.84693,
 		1.33202,
@@ -15408,8 +15426,8 @@
 		"Bishan Rd"
 	],
 	"53239": [
-		103.84762,
-		1.35073,
+		103.84764,
+		1.351,
 		"Opp Bishan Stn",
 		"Bishan Rd"
 	],
@@ -15672,8 +15690,8 @@
 		"Ang Mo Kio Ave 6"
 	],
 	"54041": [
-		103.84498,
-		1.37356,
+		103.84504,
+		1.37368,
 		"Opp Courts Ang Mo Kio",
 		"Ang Mo Kio Ave 6"
 	],
@@ -16530,8 +16548,8 @@
 		"Ang Mo Kio St 63"
 	],
 	"55241": [
-		103.84071,
-		1.38933,
+		103.84032,
+		1.38955,
 		"Aft Yio Chu Kang Rd",
 		"Lentor Ave"
 	],
@@ -17682,14 +17700,14 @@
 		"Yishun Ave 2"
 	],
 	"59011": [
-		103.82738,
-		1.40205,
+		103.82746,
+		1.40144,
 		"Bef Sg Seletar Bridge",
 		"Lentor Ave"
 	],
 	"59019": [
-		103.82763,
-		1.40218,
+		103.82751,
+		1.40368,
 		"Aft Sg Seletar Bridge",
 		"Lentor Ave"
 	],
@@ -24606,8 +24624,8 @@
 		"Pasir Ris Dr 1"
 	],
 	"77029": [
-		103.94598,
-		1.37275,
+		103.94554,
+		1.37301,
 		"Blk 571",
 		"Pasir Ris Dr 1"
 	],
@@ -25332,8 +25350,8 @@
 		"Sims Ave"
 	],
 	"80089": [
-		103.88081,
-		1.31274,
+		103.88011,
+		1.31266,
 		"Bef Lor 18 Geylang",
 		"Geylang Rd"
 	],
@@ -27354,8 +27372,8 @@
 		"Marine Parade Rd"
 	],
 	"92071": [
-		103.91498,
-		1.30679,
+		103.91475,
+		1.30682,
 		"Opp Blk 57",
 		"Marine Parade Rd"
 	],
@@ -27900,8 +27918,8 @@
 		"Upp East Coast Rd"
 	],
 	"94061": [
-		103.95138,
-		1.31844,
+		103.9506,
+		1.31804,
 		"Kew Green Condo",
 		"Upp East Coast Rd"
 	],
@@ -27912,14 +27930,14 @@
 		"Upp East Coast Rd"
 	],
 	"94071": [
-		103.95515,
-		1.3199,
+		103.95497,
+		1.31972,
 		"Opp Bedok Camp 2",
 		"Upp East Coast Rd"
 	],
 	"94079": [
-		103.95524,
-		1.31962,
+		103.95533,
+		1.31956,
 		"Bedok Camp 2",
 		"Upp East Coast Rd"
 	],
@@ -28884,14 +28902,14 @@
 		"Loyang Ave"
 	],
 	"98041": [
-		103.96968,
-		1.36906,
+		103.96897,
+		1.36808,
 		"Opp Loyang Valley",
 		"Loyang Ave"
 	],
 	"98049": [
-		103.97064,
-		1.36955,
+		103.96936,
+		1.36833,
 		"Loyang Valley",
 		"Loyang Ave"
 	],

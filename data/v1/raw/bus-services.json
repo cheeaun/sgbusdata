@@ -5400,6 +5400,16 @@
 		]
 	},
 	{
+		"number": "911A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"911A-1.kml"
+		],
+		"routeFile": [
+			"911A.xml"
+		]
+	},
+	{
 		"number": "911T",
 		"type": "TRUNK",
 		"kmlFile": [
@@ -6094,6 +6104,16 @@
 		],
 		"routeFile": [
 			"983A.xml"
+		]
+	},
+	{
+		"number": "983M",
+		"type": "TRUNK",
+		"kmlFile": [
+			"983M-1.kml"
+		],
+		"routeFile": [
+			"983M.xml"
 		]
 	},
 	{

@@ -22,6 +22,74 @@
 							103.84536
 						],
 						[
+							1.38126,
+							103.84536
+						],
+						[
+							1.3814,
+							103.84553
+						],
+						[
+							1.38208,
+							103.84492
+						],
+						[
+							1.38239,
+							103.84513
+						],
+						[
+							1.38268,
+							103.84517
+						],
+						[
+							1.38332,
+							103.84509
+						],
+						[
+							1.38347,
+							103.84499
+						],
+						[
+							1.38347,
+							103.84493
+						],
+						[
+							1.3834,
+							103.84468
+						],
+						[
+							1.38267,
+							103.84467
+						],
+						[
+							1.38249,
+							103.8446
+						],
+						[
+							1.38227,
+							103.84425
+						],
+						[
+							1.38227,
+							103.84418
+						],
+						[
+							1.38116,
+							103.84424
+						],
+						[
+							1.38028,
+							103.84446
+						],
+						[
+							1.37942,
+							103.84452
+						],
+						[
+							1.37875,
+							103.84462
+						],
+						[
 							1.378626,
 							103.84463
 						],
@@ -653,147 +721,147 @@
 						},
 						{
 							"id": "SingaporeStop_AndersonJc_SE",
-							"path_index": 1
+							"path_index": 18
 						},
 						{
 							"id": "SingaporeStop_OppBlk649_W",
-							"path_index": 4
+							"path_index": 21
 						},
 						{
 							"id": "SingaporeStop_Blk151_W",
-							"path_index": 7
+							"path_index": 24
 						},
 						{
 							"id": "SingaporeStop_Blk180_NW",
-							"path_index": 9
+							"path_index": 26
 						},
 						{
 							"id": "SingaporeStop_OppBlk604_NW",
-							"path_index": 14
+							"path_index": 31
 						},
 						{
 							"id": "SingaporeStop_BefThomsonHillsDr_SW",
-							"path_index": 20
+							"path_index": 37
 						},
 						{
 							"id": "SingaporeStop_NpbSgoonDepot_SW",
-							"path_index": 23
+							"path_index": 40
 						},
 						{
 							"id": "SingaporeStop_OppMeadowsPierce_NW",
-							"path_index": 30
-						},
-						{
-							"id": "SingaporeStop_Opp3MSpore_NW",
-							"path_index": 32
-						},
-						{
-							"id": "SingaporeStop_AftNtucFairpriceCtr_NW",
-							"path_index": 36
-						},
-						{
-							"id": "SingaporeStop_BefOldUppThomsonRd_N",
-							"path_index": 39
-						},
-						{
-							"id": "SingaporeStop_BefSle_N",
 							"path_index": 47
 						},
 						{
-							"id": "SingaporeStop_OppThongSoonRd_N",
+							"id": "SingaporeStop_Opp3MSpore_NW",
+							"path_index": 49
+						},
+						{
+							"id": "SingaporeStop_AftNtucFairpriceCtr_NW",
 							"path_index": 53
 						},
 						{
+							"id": "SingaporeStop_BefOldUppThomsonRd_N",
+							"path_index": 56
+						},
+						{
+							"id": "SingaporeStop_BefSle_N",
+							"path_index": 64
+						},
+						{
+							"id": "SingaporeStop_OppThongSoonRd_N",
+							"path_index": 70
+						},
+						{
 							"id": "SingaporeStop_OppNesseaClub_N",
-							"path_index": 57
+							"path_index": 74
 						},
 						{
 							"id": "SingaporeStop_ForestHillsCondo_NE",
-							"path_index": 65
+							"path_index": 82
 						},
 						{
 							"id": "SingaporeStop_NeeSoonDricladCtr_NE",
-							"path_index": 69
+							"path_index": 86
 						},
 						{
 							"id": "SingaporeStop_NeeSoonHq22Sib_N",
-							"path_index": 72
+							"path_index": 89
 						},
 						{
 							"id": "SingaporeStop_AftSembawangAirBase_N",
-							"path_index": 75
+							"path_index": 92
 						},
 						{
 							"id": "SingaporeStop_DieppeBarracks_N",
-							"path_index": 77
+							"path_index": 94
 						},
 						{
 							"id": "SingaporeStop_OppKhatibCamp_NE",
-							"path_index": 80
+							"path_index": 97
 						},
 						{
 							"id": "SingaporeStop_Blk722_SE",
-							"path_index": 85
+							"path_index": 102
 						},
 						{
 							"id": "SingaporeStop_OppKhatibCamp_E",
-							"path_index": 88
-						},
-						{
-							"id": "SingaporeStop_Blk773_E",
-							"path_index": 93
-						},
-						{
-							"id": "SingaporeStop_Blk608_S",
-							"path_index": 96
-						},
-						{
-							"id": "SingaporeStop_Blk624_E",
-							"path_index": 100
-						},
-						{
-							"id": "SingaporeStop_Blk630_E",
 							"path_index": 105
 						},
 						{
+							"id": "SingaporeStop_Blk773_E",
+							"path_index": 110
+						},
+						{
+							"id": "SingaporeStop_Blk608_S",
+							"path_index": 113
+						},
+						{
+							"id": "SingaporeStop_Blk624_E",
+							"path_index": 117
+						},
+						{
+							"id": "SingaporeStop_Blk630_E",
+							"path_index": 122
+						},
+						{
 							"id": "SingaporeStop_Blk672C_NE",
-							"path_index": 114
+							"path_index": 131
 						},
 						{
 							"id": "SingaporeStop_OppNorthbrooksSecSch_N_1",
-							"path_index": 119
+							"path_index": 136
 						},
 						{
 							"id": "SingaporeStop_OppBlk445_NE",
-							"path_index": 123
+							"path_index": 140
 						},
 						{
 							"id": "SingaporeStop_Blk356_N",
-							"path_index": 125
+							"path_index": 142
 						},
 						{
 							"id": "SingaporeStop_Blk358_N",
-							"path_index": 130
+							"path_index": 147
 						},
 						{
 							"id": "SingaporeStop_Blk342B_NW",
-							"path_index": 134
+							"path_index": 151
 						},
 						{
 							"id": "SingaporeStop_Blk314_NW",
-							"path_index": 143
+							"path_index": 160
 						},
 						{
 							"id": "SingaporeStop_Blk309_SW_1",
-							"path_index": 146
+							"path_index": 163
 						},
 						{
 							"id": "SingaporeStop_OppBlk201_W",
-							"path_index": 152
+							"path_index": 169
 						},
 						{
 							"id": "SingaporeStop_YishunInt_N",
-							"path_index": 156
+							"path_index": 173
 						}
 					]
 				}

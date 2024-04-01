@@ -6,10 +6,6 @@
 			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
-			"fileName": "146-1.kml",
-			"e": "HTTPError: Response code 404 (Not Found)"
-		},
-		{
 			"fileName": "307-2.kml",
 			"e": "HTTPError: Response code 404 (Not Found)"
 		},

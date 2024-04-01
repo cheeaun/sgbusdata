@@ -5806,8 +5806,8 @@
 		"BusStopCode": "20259",
 		"RoadName": "Jurong Town Hall Rd",
 		"Description": "C'wealth Sec Sch",
-		"Latitude": 1.31962187605788,
-		"Longitude": 103.74477002532701
+		"Latitude": 1.320135,
+		"Longitude": 103.745076
 	},
 	{
 		"BusStopCode": "20261",
@@ -7262,8 +7262,8 @@
 		"BusStopCode": "22419",
 		"RoadName": "Jurong West Ave 4",
 		"Description": "Jurong West Sub-Stn",
-		"Latitude": 1.34622597800485,
-		"Longitude": 103.70286134292765
+		"Latitude": 1.346532,
+		"Longitude": 103.703637
 	},
 	{
 		"BusStopCode": "22421",
@@ -8888,6 +8888,13 @@
 		"Description": "Aft Tuas West Rd",
 		"Latitude": 1.33985499996776,
 		"Longitude": 103.64535166698558
+	},
+	{
+		"BusStopCode": "25251",
+		"RoadName": "Jln Ahmad Ibrahim",
+		"Description": "S'pore Rail Test Ctr",
+		"Latitude": 1.345284,
+		"Longitude": 103.640183
 	},
 	{
 		"BusStopCode": "25259",
@@ -15267,6 +15274,13 @@
 		"Longitude": 103.762426
 	},
 	{
+		"BusStopCode": "44969",
+		"RoadName": "Teck Whye Cres",
+		"Description": "Aft Teck Whye Walk",
+		"Latitude": 1.382146,
+		"Longitude": 103.754489
+	},
+	{
 		"BusStopCode": "44989",
 		"RoadName": "Jln Gali Batu",
 		"Description": "Gali Batu Ter",
@@ -17096,14 +17110,14 @@
 	{
 		"BusStopCode": "46981",
 		"RoadName": "Woodlands Ave 1",
-		"Description": "Blk 541",
+		"Description": "W'lands Sth Stn Exit 2",
 		"Latitude": 1.42742,
 		"Longitude": 103.793617
 	},
 	{
 		"BusStopCode": "46989",
 		"RoadName": "Woodlands Ave 1",
-		"Description": "Opp Blk 540",
+		"Description": "W'lands Sth Stn Exit 1",
 		"Latitude": 1.42802334589801,
 		"Longitude": 103.79221259917931
 	},
@@ -18641,6 +18655,13 @@
 		"Longitude": 103.84032264966956
 	},
 	{
+		"BusStopCode": "51199",
+		"RoadName": "Toa Payoh Rise",
+		"Description": "Blk 131B",
+		"Latitude": 1.338775,
+		"Longitude": 103.842559
+	},
+	{
 		"BusStopCode": "52009",
 		"RoadName": "Lor 6 Toa Payoh",
 		"Description": "Toa Payoh Int",
@@ -19603,8 +19624,8 @@
 		"BusStopCode": "53239",
 		"RoadName": "Bishan Rd",
 		"Description": "OPP BISHAN STN",
-		"Latitude": 1.350734,
-		"Longitude": 103.847622
+		"Latitude": 1.351,
+		"Longitude": 103.847641
 	},
 	{
 		"BusStopCode": "53241",
@@ -19911,8 +19932,8 @@
 		"BusStopCode": "54041",
 		"RoadName": "Ang Mo Kio Ave 6",
 		"Description": "Opp Courts Ang Mo Kio",
-		"Latitude": 1.373558,
-		"Longitude": 103.844975
+		"Latitude": 1.373676,
+		"Longitude": 103.845043
 	},
 	{
 		"BusStopCode": "54049",
@@ -20912,8 +20933,8 @@
 		"BusStopCode": "55241",
 		"RoadName": "Lentor Ave",
 		"Description": "Aft Yio Chu Kang Rd",
-		"Latitude": 1.38932985258763,
-		"Longitude": 103.84071031595586
+		"Latitude": 1.389545,
+		"Longitude": 103.840319
 	},
 	{
 		"BusStopCode": "55249",
@@ -22256,15 +22277,15 @@
 		"BusStopCode": "59011",
 		"RoadName": "Lentor Ave",
 		"Description": "Bef Sg Seletar Bridge",
-		"Latitude": 1.40205059877403,
-		"Longitude": 103.82737908252
+		"Latitude": 1.401439,
+		"Longitude": 103.827464
 	},
 	{
 		"BusStopCode": "59019",
 		"RoadName": "Lentor Ave",
 		"Description": "Aft Sg Seletar Bridge",
-		"Latitude": 1.40217670308957,
-		"Longitude": 103.82763036053306
+		"Latitude": 1.403681,
+		"Longitude": 103.82751
 	},
 	{
 		"BusStopCode": "59021",
@@ -30334,8 +30355,8 @@
 		"BusStopCode": "77029",
 		"RoadName": "Pasir Ris Dr 1",
 		"Description": "Blk 571",
-		"Latitude": 1.37274960000662,
-		"Longitude": 103.94597779999948
+		"Latitude": 1.373014,
+		"Longitude": 103.945543
 	},
 	{
 		"BusStopCode": "77031",
@@ -31181,8 +31202,8 @@
 		"BusStopCode": "80089",
 		"RoadName": "Geylang Rd",
 		"Description": "Bef Lor 18 Geylang",
-		"Latitude": 1.31274483593155,
-		"Longitude": 103.88080516731976
+		"Latitude": 1.312658,
+		"Longitude": 103.880111
 	},
 	{
 		"BusStopCode": "80091",
@@ -33540,8 +33561,8 @@
 		"BusStopCode": "92071",
 		"RoadName": "Marine Parade Rd",
 		"Description": "Opp Blk 57",
-		"Latitude": 1.3067937735779,
-		"Longitude": 103.91498055803811
+		"Latitude": 1.306815,
+		"Longitude": 103.914746
 	},
 	{
 		"BusStopCode": "92079",
@@ -34177,8 +34198,8 @@
 		"BusStopCode": "94061",
 		"RoadName": "Upp East Coast Rd",
 		"Description": "Kew Green Condo",
-		"Latitude": 1.31843666702467,
-		"Longitude": 103.95138333302127
+		"Latitude": 1.318036,
+		"Longitude": 103.950595
 	},
 	{
 		"BusStopCode": "94069",
@@ -34191,15 +34212,15 @@
 		"BusStopCode": "94071",
 		"RoadName": "Upp East Coast Rd",
 		"Description": "Opp Bedok Camp 2",
-		"Latitude": 1.31990193658073,
-		"Longitude": 103.95514880285305
+		"Latitude": 1.319719,
+		"Longitude": 103.954968
 	},
 	{
 		"BusStopCode": "94079",
 		"RoadName": "Upp East Coast Rd",
 		"Description": "Bedok Camp 2",
-		"Latitude": 1.31962000617397,
-		"Longitude": 103.95524325955397
+		"Latitude": 1.319557,
+		"Longitude": 103.955325
 	},
 	{
 		"BusStopCode": "94089",
@@ -35325,15 +35346,15 @@
 		"BusStopCode": "98041",
 		"RoadName": "Loyang Ave",
 		"Description": "Opp Loyang Valley",
-		"Latitude": 1.36905889178012,
-		"Longitude": 103.96968330432956
+		"Latitude": 1.368079,
+		"Longitude": 103.968974
 	},
 	{
 		"BusStopCode": "98049",
 		"RoadName": "Loyang Ave",
 		"Description": "Loyang Valley",
-		"Latitude": 1.36955111611083,
-		"Longitude": 103.97064054814314
+		"Latitude": 1.368333,
+		"Longitude": 103.969362
 	},
 	{
 		"BusStopCode": "98061",

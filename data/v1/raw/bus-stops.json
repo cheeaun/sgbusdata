@@ -13711,8 +13711,8 @@
 		"wab": "true",
 		"details": "C'wealth Sec Sch",
 		"coordinates": {
-			"lat": 1.31962187605788,
-			"long": 103.74477002532701
+			"lat": 1.320135,
+			"long": 103.745076
 		}
 	},
 	{
@@ -15583,8 +15583,8 @@
 		"wab": "true",
 		"details": "Jurong West Sub-Stn",
 		"coordinates": {
-			"lat": 1.34622597800485,
-			"long": 103.70286134292765
+			"lat": 1.346532,
+			"long": 103.703637
 		}
 	},
 	{
@@ -17673,6 +17673,15 @@
 		"coordinates": {
 			"lat": 1.33985499996776,
 			"long": 103.64535166698558
+		}
+	},
+	{
+		"name": "25251",
+		"wab": "true",
+		"details": "S'pore Rail Test Ctr",
+		"coordinates": {
+			"lat": 1.345284,
+			"long": 103.640183
 		}
 	},
 	{
@@ -25875,6 +25884,15 @@
 		}
 	},
 	{
+		"name": "44969",
+		"wab": "true",
+		"details": "Aft Teck Whye Walk",
+		"coordinates": {
+			"lat": 1.382146,
+			"long": 103.754489
+		}
+	},
+	{
 		"name": "44989",
 		"wab": "true",
 		"details": "Gali Batu Ter",
@@ -28226,7 +28244,7 @@
 	{
 		"name": "46981",
 		"wab": "true",
-		"details": "Blk 541",
+		"details": "W'lands Sth Stn Exit 2",
 		"coordinates": {
 			"lat": 1.42742,
 			"long": 103.793617
@@ -28235,7 +28253,7 @@
 	{
 		"name": "46989",
 		"wab": "true",
-		"details": "Opp Blk 540",
+		"details": "W'lands Sth Stn Exit 1",
 		"coordinates": {
 			"lat": 1.42802334589801,
 			"long": 103.79221259917931
@@ -30213,6 +30231,15 @@
 		}
 	},
 	{
+		"name": "51199",
+		"wab": "true",
+		"details": "Blk 131B",
+		"coordinates": {
+			"lat": 1.338775,
+			"long": 103.842559
+		}
+	},
+	{
 		"name": "52009",
 		"wab": "true",
 		"details": "Toa Payoh Int",
@@ -31450,8 +31477,8 @@
 		"wab": "true",
 		"details": "Opp Bishan Stn",
 		"coordinates": {
-			"lat": 1.350734,
-			"long": 103.847622
+			"lat": 1.351,
+			"long": 103.847641
 		}
 	},
 	{
@@ -31846,8 +31873,8 @@
 		"wab": "true",
 		"details": "Opp Courts Ang Mo Kio",
 		"coordinates": {
-			"lat": 1.373558,
-			"long": 103.844975
+			"lat": 1.373676,
+			"long": 103.845043
 		}
 	},
 	{
@@ -33133,8 +33160,8 @@
 		"wab": "true",
 		"details": "Aft Yio Chu Kang Rd",
 		"coordinates": {
-			"lat": 1.38932985258763,
-			"long": 103.84071031595586
+			"lat": 1.389545,
+			"long": 103.840319
 		}
 	},
 	{
@@ -34861,8 +34888,8 @@
 		"wab": "true",
 		"details": "Bef Sg Seletar Bridge",
 		"coordinates": {
-			"lat": 1.40205059877403,
-			"long": 103.82737908252
+			"lat": 1.401439,
+			"long": 103.827464
 		}
 	},
 	{
@@ -34870,8 +34897,8 @@
 		"wab": "true",
 		"details": "Aft Sg Seletar Bridge",
 		"coordinates": {
-			"lat": 1.40217670308957,
-			"long": 103.82763036053306
+			"lat": 1.403681,
+			"long": 103.82751
 		}
 	},
 	{
@@ -45247,8 +45274,8 @@
 		"wab": "true",
 		"details": "Blk 571",
 		"coordinates": {
-			"lat": 1.37274960000662,
-			"long": 103.94597779999948
+			"lat": 1.373014,
+			"long": 103.945543
 		}
 	},
 	{
@@ -46336,8 +46363,8 @@
 		"wab": "false",
 		"details": "Bef Lor 18 Geylang",
 		"coordinates": {
-			"lat": 1.31274483593155,
-			"long": 103.88080516731976
+			"lat": 1.312658,
+			"long": 103.880111
 		}
 	},
 	{
@@ -49369,8 +49396,8 @@
 		"wab": "true",
 		"details": "Opp Blk 57",
 		"coordinates": {
-			"lat": 1.3067937735779,
-			"long": 103.91498055803811
+			"lat": 1.306815,
+			"long": 103.914746
 		}
 	},
 	{
@@ -50188,8 +50215,8 @@
 		"wab": "true",
 		"details": "Kew Green Condo",
 		"coordinates": {
-			"lat": 1.31843666702467,
-			"long": 103.95138333302127
+			"lat": 1.318036,
+			"long": 103.950595
 		}
 	},
 	{
@@ -50206,8 +50233,8 @@
 		"wab": "true",
 		"details": "Opp Bedok Camp 2",
 		"coordinates": {
-			"lat": 1.31990193658073,
-			"long": 103.95514880285305
+			"lat": 1.319719,
+			"long": 103.954968
 		}
 	},
 	{
@@ -50215,8 +50242,8 @@
 		"wab": "true",
 		"details": "Bedok Camp 2",
 		"coordinates": {
-			"lat": 1.31962000617397,
-			"long": 103.95524325955397
+			"lat": 1.319557,
+			"long": 103.955325
 		}
 	},
 	{
@@ -51664,8 +51691,8 @@
 		"wab": "true",
 		"details": "Opp Loyang Valley",
 		"coordinates": {
-			"lat": 1.36905889178012,
-			"long": 103.96968330432956
+			"lat": 1.368079,
+			"long": 103.968974
 		}
 	},
 	{
@@ -51673,8 +51700,8 @@
 		"wab": "true",
 		"details": "Loyang Valley",
 		"coordinates": {
-			"lat": 1.36955111611083,
-			"long": 103.97064054814314
+			"lat": 1.368333,
+			"long": 103.969362
 		}
 	},
 	{
