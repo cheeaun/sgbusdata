@@ -1,3 +1,66 @@
+# 1 May 2024
+
+## Stops count change: 5109 ⮕ 5118
+
+### Stops added: 9
+
+- `75521` Blk 660 CP
+- `75529` Opp Blk 660 CP
+- `75531` Opp Blk 662B
+- `75539` Blk 662B
+- `75601` IKEA Tampines
+- `75611` BHCC Space
+- `75619` T-Space
+- `90041` Opp Tanjong Rhu Stn Exit B
+- `90049` Tanjong Rhu Stn Exit B
+
+### Stop names changed: 20
+
+- `10211` Porsche Ctr S'pore ⮕ BMW Eurokars Auto
+- `10321` Aft Margaret Dr ⮕ Opp Grace Ably of God Ch
+- `10461` Aft Margaret Dr ⮕ Opp Blk 95
+- `17139` Aft Clementi Swim Cplx ⮕ Aft Clementi Ave 2
+- `20179` Aft Teban Gdns Rd ⮕ Blk 31
+- `21631` Blk 115/Opp Japanese Gdn ⮕ Blk 115
+- `21639` Japanese Gdn/Opp Blk 115 ⮕ Opp Blk 115
+- `21641` Opp Lakeside Apt ⮕ Bef Blk 322
+- `21649` Lakeside Apt ⮕ Opp Blk 322
+- `24179` Opp Hong Hock Hardware ⮕ Bef Gul Lane
+- `42221` Goodluck Gdn ⮕ Forett @ Bt Timah
+- `67641` Bef Anchorvale St ⮕ Opp Treasure Crest
+- `67649` Aft Anchorvale St ⮕ Treasure Crest
+- `70141` Citimac Ind Cplx ⮕ Grantral Mall Macpherson
+- `70149` Bef Blk 82 ⮕ Sky Green Condo
+- `76291` Angsana Pr Sch ⮕ Opp Blk 273
+- `91041` EtonHouse Pre-Sch ⮕ KiddiWinkie S/H @ Mountbatten
+- `92141` NAFA Arts Kindergarten ⮕ KiddiWinkie S/H @ East Coast
+- `96331` Premier ⮕ Strides Premier
+- `01559` Landmark Village Hotel ⮕ Village Hotel Bugis
+
+## Services count change: 542 ⮕ 543
+
+### Services added: 1
+
+- `296` Tampines Int ⟲ IKEA Tampines
+
+### Bus Stop Changes To Routes: 2
+
+- `11` Lor 1 Geylang Ter ⟲ Opp Costa Rhu Condo: +2
+- `158` S'Goon Int ⟲ Opp Costa Rhu Condo: +2
+
+## Routes changed: 6
+
+- `92` Ghim Moh Ter ⟲ Opp Ayer Rajah Ind Est
+- `162` Yio Chu Kang Int ⟲ Amtech Bldg
+- `950` Woodlands Temp Int ⟲ Johor Bahru Checkpt
+- `860T` Yio Chu Kang Int → Yishun Int
+- `92M` Ghim Moh Ter ⟲ Opp Henry Pk
+- `296` Tampines Int ⟲ IKEA Tampines
+
+## First/last timings changed
+
+Affected services: `11`, `31`, `88`, `99`, `102`, `137`, `158`, `167`, `181`, `182`, `196`, `198`, `258`, `292`, `293`, `358`, `902`, `89e`, `296`
+
 # 1 April 2024
 
 ## Stops count change: 5106 ⮕ 5109

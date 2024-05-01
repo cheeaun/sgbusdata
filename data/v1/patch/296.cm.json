@@ -1,0 +1,557 @@
+{
+	"feeds": [],
+	"routes": [
+		{
+			"aliases": [
+				"sbs-transit-296"
+			],
+			"brand": "SBSTBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "SBSTBuses296",
+			"long_name": "Tampines Int - Tampines Int",
+			"mode": "bus",
+			"name": "296",
+			"patterns": [
+				{
+					"id": "296_0",
+					"is_circular": true,
+					"name": "towards Tampines Int",
+					"path": [
+						[
+							1.354268,
+							103.943596
+						],
+						[
+							1.355636,
+							103.939365
+						],
+						[
+							1.35802,
+							103.937968
+						],
+						[
+							1.361598,
+							103.937941
+						],
+						[
+							1.363804,
+							103.93794
+						],
+						[
+							1.365746,
+							103.936676
+						],
+						[
+							1.367119,
+							103.933765
+						],
+						[
+							1.369246,
+							103.935001
+						],
+						[
+							1.372262,
+							103.934647
+						],
+						[
+							1.373503,
+							103.931982
+						],
+						[
+							1.372567,
+							103.93426
+						],
+						[
+							1.36908,
+							103.935023
+						],
+						[
+							1.367719,
+							103.933654
+						],
+						[
+							1.366074,
+							103.936768
+						],
+						[
+							1.363941,
+							103.938169
+						],
+						[
+							1.361776,
+							103.938189
+						],
+						[
+							1.359173,
+							103.938142
+						],
+						[
+							1.355934,
+							103.939033
+						],
+						[
+							1.354268,
+							103.943596
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_TampinesInt_W",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_DarulGhufranMque_NW",
+							"path_index": 1
+						},
+						{
+							"id": "SingaporeStop_BetBlks710713_NW",
+							"path_index": 2
+						},
+						{
+							"id": "SingaporeStop_Blk602B_W",
+							"path_index": 3
+						},
+						{
+							"id": "SingaporeStop_Blk609D_NW",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_Blk614_W",
+							"path_index": 5
+						},
+						{
+							"id": "SingaporeStop_OppBlk660Cp_NE",
+							"path_index": 6
+						},
+						{
+							"id": "SingaporeStop_Blk662B_N",
+							"path_index": 7
+						},
+						{
+							"id": "SingaporeStop_Tspace_NW",
+							"path_index": 8
+						},
+						{
+							"id": "SingaporeStop_IkeaTampines_E",
+							"path_index": 9
+						},
+						{
+							"id": "SingaporeStop_BhccSpace_S",
+							"path_index": 10
+						},
+						{
+							"id": "SingaporeStop_OppBlk662B_SW",
+							"path_index": 11
+						},
+						{
+							"id": "SingaporeStop_Blk660Cp_SE",
+							"path_index": 12
+						},
+						{
+							"id": "SingaporeStop_OppBlk614_SE",
+							"path_index": 13
+						},
+						{
+							"id": "SingaporeStop_OppBlk609D_S",
+							"path_index": 14
+						},
+						{
+							"id": "SingaporeStop_Blk619A_SE",
+							"path_index": 15
+						},
+						{
+							"id": "SingaporeStop_OppBlks710713_S",
+							"path_index": 16
+						},
+						{
+							"id": "SingaporeStop_OppDarulGhufranMque_SE",
+							"path_index": 17
+						},
+						{
+							"id": "SingaporeStop_TampinesInt_W",
+							"path_index": 18
+						}
+					]
+				}
+			],
+			"status": {
+				"level": 0,
+				"summary": "Good Service"
+			},
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
+			"ui_color": "#5BC824",
+			"url": "https://citymapper.com/singapore/l/sbs-transit-296"
+		}
+	],
+	"status": 0,
+	"stops": {
+		"SingaporeStop_BetBlks710713_NW": {
+			"bearing": "NW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.35802,
+				103.937968
+			],
+			"live_code": "SingaporeStop_BetBlks710713_NW",
+			"name": "Bet Blks 710/713",
+			"routes": [
+				"SBSTBuses296",
+				"SBSTBuses46",
+				"SBSTBuses72",
+				"SBSTBusesLcs1"
+			],
+			"stop_code": "75261"
+		},
+		"SingaporeStop_BhccSpace_S": {
+			"bearing": "S",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.372567,
+				103.93426
+			],
+			"live_code": "SingaporeStop_BhccSpace_S",
+			"name": "Bhcc Space",
+			"routes": [
+				"SBSTBuses296"
+			],
+			"stop_code": "75611"
+		},
+		"SingaporeStop_Blk602B_W": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.361598,
+				103.937941
+			],
+			"live_code": "SingaporeStop_Blk602B_W",
+			"name": "Blk 602b",
+			"routes": [
+				"SBSTBuses296",
+				"SBSTBuses46",
+				"GASBuses68",
+				"GASBuses68B"
+			],
+			"stop_code": "75471"
+		},
+		"SingaporeStop_Blk609D_NW": {
+			"bearing": "N",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.363804,
+				103.93794
+			],
+			"live_code": "SingaporeStop_Blk609D_NW",
+			"name": "Blk 609d",
+			"routes": [
+				"SBSTBuses296",
+				"SBSTBuses46",
+				"GASBuses68",
+				"GASBuses68B"
+			],
+			"stop_code": "75481"
+		},
+		"SingaporeStop_Blk614_W": {
+			"bearing": "W",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.365746,
+				103.936676
+			],
+			"live_code": "SingaporeStop_Blk614_W",
+			"name": "Blk 614",
+			"routes": [
+				"SBSTBuses18",
+				"SBSTBuses296",
+				"GASBuses68",
+				"GASBuses68B"
+			],
+			"stop_code": "75491"
+		},
+		"SingaporeStop_Blk619A_SE": {
+			"bearing": "S",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.361776,
+				103.938189
+			],
+			"live_code": "SingaporeStop_Blk619A_SE",
+			"name": "Blk 619a",
+			"routes": [
+				"SBSTBuses296",
+				"SBSTBuses46",
+				"GASBuses68",
+				"GASBuses68A"
+			],
+			"stop_code": "75479"
+		},
+		"SingaporeStop_Blk660Cp_SE": {
+			"bearing": "SE",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.367719,
+				103.933654
+			],
+			"live_code": "SingaporeStop_Blk660Cp_SE",
+			"name": "Blk 660 Cp",
+			"routes": [
+				"SBSTBuses296"
+			],
+			"stop_code": "75521"
+		},
+		"SingaporeStop_Blk662B_N": {
+			"bearing": "NW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.369246,
+				103.935001
+			],
+			"live_code": "SingaporeStop_Blk662B_N",
+			"name": "Blk 662b",
+			"routes": [
+				"SBSTBuses296"
+			],
+			"stop_code": "75539"
+		},
+		"SingaporeStop_DarulGhufranMque_NW": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.355636,
+				103.939365
+			],
+			"live_code": "SingaporeStop_DarulGhufranMque_NW",
+			"name": "Darul Ghufran Mque",
+			"routes": [
+				"SBSTBuses291",
+				"SBSTBuses296",
+				"GASBuses34",
+				"GASBuses34B",
+				"SBSTBuses513",
+				"SBSTBuses69",
+				"SBSTBuses72"
+			],
+			"stop_code": "75129"
+		},
+		"SingaporeStop_IkeaTampines_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.373503,
+				103.931982
+			],
+			"live_code": "SingaporeStop_IkeaTampines_E",
+			"name": "Ikea Tampines",
+			"routes": [
+				"SBSTBuses296"
+			],
+			"stop_code": "75601"
+		},
+		"SingaporeStop_OppBlk609D_S": {
+			"bearing": "S",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.363941,
+				103.938169
+			],
+			"live_code": "SingaporeStop_OppBlk609D_S",
+			"name": "Opp Blk 609d",
+			"routes": [
+				"SBSTBuses296",
+				"SBSTBuses46",
+				"GASBuses68",
+				"GASBuses68A"
+			],
+			"stop_code": "75489"
+		},
+		"SingaporeStop_OppBlk614_SE": {
+			"bearing": "E",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.366074,
+				103.936768
+			],
+			"live_code": "SingaporeStop_OppBlk614_SE",
+			"name": "Opp Blk 614",
+			"routes": [
+				"SBSTBuses18",
+				"SBSTBuses296",
+				"GASBuses68",
+				"GASBuses68A"
+			],
+			"stop_code": "75499"
+		},
+		"SingaporeStop_OppBlk660Cp_NE": {
+			"bearing": "NE",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.367119,
+				103.933765
+			],
+			"live_code": "SingaporeStop_OppBlk660Cp_NE",
+			"name": "Opp Blk 660 Cp",
+			"routes": [
+				"SBSTBuses296"
+			],
+			"stop_code": "75529"
+		},
+		"SingaporeStop_OppBlk662B_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.36908,
+				103.935023
+			],
+			"live_code": "SingaporeStop_OppBlk662B_SW",
+			"name": "Opp Blk 662b",
+			"routes": [
+				"SBSTBuses296"
+			],
+			"stop_code": "75531"
+		},
+		"SingaporeStop_OppBlks710713_S": {
+			"bearing": "S",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.359173,
+				103.938142
+			],
+			"live_code": "SingaporeStop_OppBlks710713_S",
+			"name": "Opp Blks 710/713",
+			"routes": [
+				"SBSTBuses296",
+				"SBSTBuses46",
+				"SBSTBuses72",
+				"SBSTBusesLcs1"
+			],
+			"stop_code": "75269"
+		},
+		"SingaporeStop_OppDarulGhufranMque_SE": {
+			"bearing": "SE",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.355934,
+				103.939033
+			],
+			"live_code": "SingaporeStop_OppDarulGhufranMque_SE",
+			"name": "Opp Darul Ghufran Mque",
+			"routes": [
+				"SBSTBuses291",
+				"SBSTBuses296",
+				"GASBuses34",
+				"GASBuses34A",
+				"GASBuses34B",
+				"SBSTBuses513",
+				"SBSTBuses69",
+				"SBSTBuses72"
+			],
+			"stop_code": "75121"
+		},
+		"SingaporeStop_TampinesInt_W": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.354268,
+				103.943596
+			],
+			"live_code": "SingaporeStop_TampinesInt_W",
+			"name": "Tampines Int",
+			"routes": [
+				"SBSTBuses10",
+				"SBSTBuses127",
+				"SBSTBuses127A",
+				"SBSTBuses19",
+				"SBSTBuses20",
+				"SBSTBuses23",
+				"SBSTBuses28",
+				"SBSTBuses29",
+				"SBSTBuses291",
+				"SBSTBuses292",
+				"SBSTBuses293",
+				"SBSTBuses296",
+				"SBSTBuses29A",
+				"GASBuses3",
+				"SBSTBuses31",
+				"SBSTBuses31A",
+				"SBSTBuses37",
+				"SBSTBuses38",
+				"GASBuses3A",
+				"SBSTBuses4",
+				"SBSTBuses65",
+				"SMRTBuses67",
+				"GASBuses68",
+				"GASBuses68A",
+				"GASBuses68B",
+				"SBSTBuses69",
+				"SBSTBuses72",
+				"SBSTBuses8",
+				"SBSTBuses81",
+				"TTSBuses969",
+				"TTSBuses969A"
+			],
+			"stop_code": "75009"
+		},
+		"SingaporeStop_Tspace_NW": {
+			"bearing": "NW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.372262,
+				103.934647
+			],
+			"live_code": "SingaporeStop_Tspace_NW",
+			"name": "T-Space",
+			"routes": [
+				"SBSTBuses296"
+			],
+			"stop_code": "75619"
+		}
+	}
+}

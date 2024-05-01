@@ -1063,7 +1063,7 @@
 			"id": "10211",
 			"properties": {
 				"number": "10211",
-				"name": "Porsche Ctr S'pore",
+				"name": "BMW Eurokars Auto",
 				"road": "Leng Kee Rd",
 				"services": [
 					"139"
@@ -1432,7 +1432,7 @@
 			"id": "10321",
 			"properties": {
 				"number": "10321",
-				"name": "Aft Margaret Dr",
+				"name": "Opp Grace Ably of God Ch",
 				"road": "Tanglin Rd",
 				"services": [
 					"111",
@@ -2049,7 +2049,7 @@
 			"id": "10461",
 			"properties": {
 				"number": "10461",
-				"name": "Aft Margaret Dr",
+				"name": "Opp Blk 95",
 				"road": "Kay Siang Rd",
 				"services": [
 					"122",
@@ -10548,7 +10548,7 @@
 			"id": "17139",
 			"properties": {
 				"number": "17139",
-				"name": "Aft Clementi Swim Cplx",
+				"name": "Aft Clementi Ave 2",
 				"road": "AYE",
 				"services": [
 					"188",
@@ -13634,7 +13634,7 @@
 			"id": "20179",
 			"properties": {
 				"number": "20179",
-				"name": "Aft Teban Gdns Rd",
+				"name": "Blk 31",
 				"road": "West Coast Rd",
 				"services": [
 					"143",
@@ -16656,7 +16656,7 @@
 			"id": "21631",
 			"properties": {
 				"number": "21631",
-				"name": "Blk 115/Opp Japanese Gdn",
+				"name": "Blk 115",
 				"road": "Yuan Ching Rd",
 				"services": [
 					"154",
@@ -16677,7 +16677,7 @@
 			"id": "21639",
 			"properties": {
 				"number": "21639",
-				"name": "Japanese Gdn/Opp Blk 115",
+				"name": "Opp Blk 115",
 				"road": "Yuan Ching Rd",
 				"services": [
 					"154",
@@ -16698,7 +16698,7 @@
 			"id": "21641",
 			"properties": {
 				"number": "21641",
-				"name": "Opp Lakeside Apt",
+				"name": "Bef Blk 322",
 				"road": "Yuan Ching Rd",
 				"services": [
 					"154",
@@ -16719,7 +16719,7 @@
 			"id": "21649",
 			"properties": {
 				"number": "21649",
-				"name": "Lakeside Apt",
+				"name": "Opp Blk 322",
 				"road": "Yuan Ching Rd",
 				"services": [
 					"154",
@@ -21019,7 +21019,7 @@
 			"id": "24179",
 			"properties": {
 				"number": "24179",
-				"name": "Opp Hong Hock Hardware",
+				"name": "Bef Gul Lane",
 				"road": "Gul Cres",
 				"services": [
 					"255"
@@ -35418,7 +35418,7 @@
 			"id": "42221",
 			"properties": {
 				"number": "42221",
-				"name": "Goodluck Gdn",
+				"name": "Forett @ Bt Timah",
 				"road": "Toh Tuck Rd",
 				"services": [
 					"41",
@@ -83228,7 +83228,7 @@
 			"id": "67641",
 			"properties": {
 				"number": "67641",
-				"name": "Bef Anchorvale St",
+				"name": "Opp Treasure Crest",
 				"road": "Anchorvale Cres",
 				"services": [
 					"374"
@@ -83247,7 +83247,7 @@
 			"id": "67649",
 			"properties": {
 				"number": "67649",
-				"name": "Aft Anchorvale St",
+				"name": "Treasure Crest",
 				"road": "Anchorvale Cres",
 				"services": [
 					"374"
@@ -85046,7 +85046,7 @@
 			"id": "70141",
 			"properties": {
 				"number": "70141",
-				"name": "Citimac Ind Cplx",
+				"name": "Grantral Mall Macpherson",
 				"road": "MacPherson Rd",
 				"services": [
 					"151",
@@ -85068,7 +85068,7 @@
 			"id": "70149",
 			"properties": {
 				"number": "70149",
-				"name": "Bef Blk 82",
+				"name": "Sky Green Condo",
 				"road": "MacPherson Rd",
 				"services": [
 					"151",
@@ -87938,6 +87938,7 @@
 					"291",
 					"292",
 					"293",
+					"296",
 					"29A",
 					"3",
 					"31",
@@ -88363,6 +88364,7 @@
 				"road": "Tampines Ave 5",
 				"services": [
 					"291",
+					"296",
 					"34",
 					"34A",
 					"34B",
@@ -88388,6 +88390,7 @@
 				"road": "Tampines Ave 5",
 				"services": [
 					"291",
+					"296",
 					"34",
 					"34B",
 					"513",
@@ -88910,6 +88913,7 @@
 				"name": "Bet Blks 710/713",
 				"road": "Tampines Ave 6",
 				"services": [
+					"296",
 					"46",
 					"72"
 				]
@@ -88930,6 +88934,7 @@
 				"name": "Opp Blks 710/713",
 				"road": "Tampines Ave 6",
 				"services": [
+					"296",
 					"46",
 					"72"
 				]
@@ -89571,6 +89576,7 @@
 				"name": "Blk 602B",
 				"road": "Tampines Ave 6",
 				"services": [
+					"296",
 					"46",
 					"68",
 					"68B"
@@ -89592,6 +89598,7 @@
 				"name": "Blk 619A",
 				"road": "Tampines Ave 6",
 				"services": [
+					"296",
 					"46",
 					"68",
 					"68A"
@@ -89613,6 +89620,7 @@
 				"name": "Blk 609D",
 				"road": "Tampines Ave 6",
 				"services": [
+					"296",
 					"46",
 					"68",
 					"68B"
@@ -89634,6 +89642,7 @@
 				"name": "Opp Blk 609D",
 				"road": "Tampines Ave 6",
 				"services": [
+					"296",
 					"46",
 					"68",
 					"68A"
@@ -89656,6 +89665,7 @@
 				"road": "Tampines Ave 6",
 				"services": [
 					"18",
+					"296",
 					"68",
 					"68B"
 				]
@@ -89677,6 +89687,7 @@
 				"road": "Tampines Ave 6",
 				"services": [
 					"18",
+					"296",
 					"68",
 					"68A"
 				]
@@ -89768,6 +89779,82 @@
 				"coordinates": [
 					103.934527,
 					1.364004
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "75521",
+			"properties": {
+				"number": "75521",
+				"name": "Blk 660 CP",
+				"road": "Tampines Nth Dr 1",
+				"services": [
+					"296"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.933654,
+					1.367719
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "75529",
+			"properties": {
+				"number": "75529",
+				"name": "Opp Blk 660 CP",
+				"road": "Tampines Nth Dr 1",
+				"services": [
+					"296"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.933765,
+					1.367119
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "75531",
+			"properties": {
+				"number": "75531",
+				"name": "Opp Blk 662B",
+				"road": "Tampines St 64",
+				"services": [
+					"296"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.935023,
+					1.36908
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "75539",
+			"properties": {
+				"number": "75539",
+				"name": "Blk 662B",
+				"road": "Tampines St 64",
+				"services": [
+					"296"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.935001,
+					1.369246
 				]
 			}
 		},
@@ -90013,6 +90100,63 @@
 				"coordinates": [
 					103.943349,
 					1.362446
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "75601",
+			"properties": {
+				"number": "75601",
+				"name": "IKEA Tampines",
+				"road": "Tampines Nth Dr 2",
+				"services": [
+					"296"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.931982,
+					1.373503
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "75611",
+			"properties": {
+				"number": "75611",
+				"name": "BHCC Space",
+				"road": "Tampines Nth Dr 2",
+				"services": [
+					"296"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.93426,
+					1.372567
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "75619",
+			"properties": {
+				"number": "75619",
+				"name": "T-Space",
+				"road": "Tampines Nth Dr 2",
+				"services": [
+					"296"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.934647,
+					1.372262
 				]
 			}
 		},
@@ -91370,7 +91514,7 @@
 			"id": "76291",
 			"properties": {
 				"number": "76291",
-				"name": "Angsana Pr Sch",
+				"name": "Opp Blk 273",
 				"road": "Tampines St 22",
 				"services": [
 					"292"
@@ -102492,6 +102636,46 @@
 		},
 		{
 			"type": "Feature",
+			"id": "90041",
+			"properties": {
+				"number": "90041",
+				"name": "Opp Tanjong Rhu Stn Exit B",
+				"road": "Tg Rhu Rd",
+				"services": [
+					"11",
+					"158"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.873691,
+					1.297196
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "90049",
+			"properties": {
+				"number": "90049",
+				"name": "Tanjong Rhu Stn Exit B",
+				"road": "Tg Rhu Rd",
+				"services": [
+					"11",
+					"158"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.873563,
+					1.297117
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "90051",
 			"properties": {
 				"number": "90051",
@@ -102596,7 +102780,7 @@
 			"id": "91041",
 			"properties": {
 				"number": "91041",
-				"name": "EtonHouse Pre-Sch",
+				"name": "KiddiWinkie S/H @ Mountbatten",
 				"road": "Mountbatten Rd",
 				"services": [
 					"12",
@@ -103513,7 +103697,7 @@
 			"id": "92141",
 			"properties": {
 				"number": "92141",
-				"name": "NAFA Arts Kindergarten",
+				"name": "KiddiWinkie S/H @ East Coast",
 				"road": "East Coast Rd",
 				"services": [
 					"10",
@@ -107654,7 +107838,7 @@
 			"id": "96331",
 			"properties": {
 				"number": "96331",
-				"name": "Premier",
+				"name": "Strides Premier",
 				"road": "Changi Sth Ave 2",
 				"services": [
 					"20"
@@ -111121,7 +111305,7 @@
 			"id": "01559",
 			"properties": {
 				"number": "01559",
-				"name": "Landmark Village Hotel",
+				"name": "Village Hotel Bugis",
 				"road": "Ophir Rd",
 				"services": [
 					"12e",
