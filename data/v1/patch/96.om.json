@@ -783,7 +783,7 @@
 					1.29784
 				]
 			],
-			"roadName": "NUS FAC OF ENGRG"
+			"roadName": "COLL OF DESIGN & ENGRG"
 		},
 		{
 			"BUS_SEQUENCE": 6,
@@ -856,7 +856,7 @@
 					1.29633
 				]
 			],
-			"roadName": "NUS FAC OF ARCHITECTURE"
+			"roadName": "SDE3"
 		},
 		{
 			"BUS_SEQUENCE": 7,
@@ -925,7 +925,7 @@
 					1.29736
 				]
 			],
-			"roadName": "NUS FAC OF DESIGN & ENV"
+			"roadName": "BEF ARCHITECTURE DR"
 		},
 		{
 			"BUS_SEQUENCE": 8,

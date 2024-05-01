@@ -230,7 +230,7 @@
 	"10211": [
 		103.81144,
 		1.29075,
-		"Porsche Ctr S'pore",
+		"BMW Eurokars Auto",
 		"Leng Kee Rd"
 	],
 	"10219": [
@@ -326,7 +326,7 @@
 	"10321": [
 		103.81588,
 		1.29428,
-		"Aft Margaret Dr",
+		"Opp Grace Ably of God Ch",
 		"Tanglin Rd"
 	],
 	"10329": [
@@ -494,7 +494,7 @@
 	"10461": [
 		103.81169,
 		1.29681,
-		"Aft Margaret Dr",
+		"Opp Blk 95",
 		"Kay Siang Rd"
 	],
 	"10469": [
@@ -2666,7 +2666,7 @@
 	"17139": [
 		103.76674,
 		1.30765,
-		"Aft Clementi Swim Cplx",
+		"Aft Clementi Ave 2",
 		"AYE"
 	],
 	"17141": [
@@ -3500,7 +3500,7 @@
 	"20179": [
 		103.7391,
 		1.32,
-		"Aft Teban Gdns Rd",
+		"Blk 31",
 		"West Coast Rd"
 	],
 	"20181": [
@@ -4346,25 +4346,25 @@
 	"21631": [
 		103.72494,
 		1.33364,
-		"Blk 115/Opp Japanese Gdn",
+		"Blk 115",
 		"Yuan Ching Rd"
 	],
 	"21639": [
 		103.72512,
 		1.33379,
-		"Japanese Gdn/Opp Blk 115",
+		"Opp Blk 115",
 		"Yuan Ching Rd"
 	],
 	"21641": [
 		103.72501,
 		1.3363,
-		"Opp Lakeside Apt",
+		"Bef Blk 322",
 		"Yuan Ching Rd"
 	],
 	"21649": [
 		103.72518,
 		1.33671,
-		"Lakeside Apt",
+		"Opp Blk 322",
 		"Yuan Ching Rd"
 	],
 	"21651": [
@@ -5636,7 +5636,7 @@
 	"24179": [
 		103.66477,
 		1.3094,
-		"Opp Hong Hock Hardware",
+		"Bef Gul Lane",
 		"Gul Cres"
 	],
 	"24189": [
@@ -9656,7 +9656,7 @@
 	"42221": [
 		103.76764,
 		1.33962,
-		"Goodluck Gdn",
+		"Forett @ Bt Timah",
 		"Toh Tuck Rd"
 	],
 	"42229": [
@@ -22274,13 +22274,13 @@
 	"67641": [
 		103.89344,
 		1.39804,
-		"Bef Anchorvale St",
+		"Opp Treasure Crest",
 		"Anchorvale Cres"
 	],
 	"67649": [
 		103.89334,
 		1.39805,
-		"Aft Anchorvale St",
+		"Treasure Crest",
 		"Anchorvale Cres"
 	],
 	"67651": [
@@ -22784,13 +22784,13 @@
 	"70141": [
 		103.88723,
 		1.33326,
-		"Citimac Ind Cplx",
+		"Grantral Mall Macpherson",
 		"MacPherson Rd"
 	],
 	"70149": [
 		103.88646,
 		1.33291,
-		"Bef Blk 82",
+		"Sky Green Condo",
 		"MacPherson Rd"
 	],
 	"70151": [
@@ -23987,6 +23987,30 @@
 		"Opp Blk 610C",
 		"Tampines Nth Dr 1"
 	],
+	"75521": [
+		103.93365,
+		1.36772,
+		"Blk 660 CP",
+		"Tampines Nth Dr 1"
+	],
+	"75529": [
+		103.93377,
+		1.36712,
+		"Opp Blk 660 CP",
+		"Tampines Nth Dr 1"
+	],
+	"75531": [
+		103.93502,
+		1.36908,
+		"Opp Blk 662B",
+		"Tampines St 64"
+	],
+	"75539": [
+		103.935,
+		1.36925,
+		"Blk 662B",
+		"Tampines St 64"
+	],
 	"75541": [
 		103.94152,
 		1.36831,
@@ -24058,6 +24082,24 @@
 		1.36245,
 		"Opp Blk 631B",
 		"Tampines Ave 12"
+	],
+	"75601": [
+		103.93198,
+		1.3735,
+		"IKEA Tampines",
+		"Tampines Nth Dr 2"
+	],
+	"75611": [
+		103.93426,
+		1.37257,
+		"BHCC Space",
+		"Tampines Nth Dr 2"
+	],
+	"75619": [
+		103.93465,
+		1.37226,
+		"T-Space",
+		"Tampines Nth Dr 2"
 	],
 	"76031": [
 		103.9553,
@@ -24374,7 +24416,7 @@
 	"76291": [
 		103.95121,
 		1.34883,
-		"Angsana Pr Sch",
+		"Opp Blk 273",
 		"Tampines St 22"
 	],
 	"76301": [
@@ -27221,6 +27263,18 @@
 		"Opp Camelot By-The-Water",
 		"Tg Rhu Rd"
 	],
+	"90041": [
+		103.87369,
+		1.2972,
+		"Opp Tanjong Rhu Stn Exit B",
+		"Tg Rhu Rd"
+	],
+	"90049": [
+		103.87356,
+		1.29712,
+		"Tanjong Rhu Stn Exit B",
+		"Tg Rhu Rd"
+	],
 	"90051": [
 		103.87917,
 		1.29771,
@@ -27254,7 +27308,7 @@
 	"91041": [
 		103.88651,
 		1.301,
-		"EtonHouse Pre-Sch",
+		"KiddiWinkie S/H @ Mountbatten",
 		"Mountbatten Rd"
 	],
 	"91049": [
@@ -27458,7 +27512,7 @@
 	"92141": [
 		103.91429,
 		1.3094,
-		"NAFA Arts Kindergarten",
+		"KiddiWinkie S/H @ East Coast",
 		"East Coast Rd"
 	],
 	"92149": [
@@ -28526,7 +28580,7 @@
 	"96331": [
 		103.96762,
 		1.33124,
-		"Premier",
+		"Strides Premier",
 		"Changi Sth Ave 2"
 	],
 	"96341": [
@@ -29468,7 +29522,7 @@
 	"01559": [
 		103.85753,
 		1.30169,
-		"Landmark Village Hotel",
+		"Village Hotel Bugis",
 		"Ophir Rd"
 	],
 	"01611": [

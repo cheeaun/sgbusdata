@@ -988,7 +988,7 @@
 					1.29824
 				]
 			],
-			"roadName": "PARKVIEW SQ"
+			"roadName": "BUGIS STN/PARKVIEW SQ"
 		},
 		{
 			"BUS_SEQUENCE": 15,
@@ -1449,7 +1449,7 @@
 					1.30261
 				]
 			],
-			"roadName": "NATL YOUTH COUNCIL"
+			"roadName": "SOMERSET YOUTH PK"
 		},
 		{
 			"BUS_SEQUENCE": 24,
@@ -1486,7 +1486,7 @@
 					1.30293
 				]
 			],
-			"roadName": "BEF ORCHARD STN EXIT B"
+			"roadName": "ORCHARD STN EXIT 13"
 		},
 		{
 			"BUS_SEQUENCE": 25,
@@ -1579,7 +1579,7 @@
 					1.29794
 				]
 			],
-			"roadName": "AFT ORCHARD BLVD"
+			"roadName": "AFT ORCHARD STN EXIT 12"
 		},
 		{
 			"BUS_SEQUENCE": 26,

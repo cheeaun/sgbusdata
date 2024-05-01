@@ -2281,8 +2281,8 @@
 		"wab": "true",
 		"details": "Blk 571",
 		"coordinates": {
-			"lat": 1.372760399,
-			"long": 103.9459904
+			"lat": 1.373014,
+			"long": 103.945543
 		}
 	},
 	{
@@ -3015,21 +3015,21 @@
 		}
 	},
 	{
+		"name": "-PB85",
+		"wab": "true",
+		"details": "Outside Citibank",
+		"coordinates": {
+			"lat": 1.33433,
+			"long": 103.96624
+		}
+	},
+	{
 		"name": "-PB90",
 		"wab": "true",
 		"details": "Blk 268C",
 		"coordinates": {
 			"lat": 1.4031330662473,
 			"long": 103.8980438895579
-		}
-	},
-	{
-		"name": "-PB91",
-		"wab": "true",
-		"details": "Blk 272C",
-		"coordinates": {
-			"lat": 1.40222088604884,
-			"long": 103.90077963354756
 		}
 	},
 	{
@@ -3129,15 +3129,6 @@
 		"coordinates": {
 			"lat": 1.39845074063981,
 			"long": 103.9041638374
-		}
-	},
-	{
-		"name": "-PD02",
-		"wab": "true",
-		"details": "Opp Blk 201A",
-		"coordinates": {
-			"lat": 1.40083471013366,
-			"long": 103.903580214986
 		}
 	},
 	{
@@ -4560,15 +4551,6 @@
 		"coordinates": {
 			"lat": 1.3376443,
 			"long": 103.9638595
-		}
-	},
-	{
-		"name": "-Z218",
-		"wab": "true",
-		"details": "Outside Citibank",
-		"coordinates": {
-			"lat": 1.33341379,
-			"long": 103.96485
 		}
 	},
 	{
@@ -6554,7 +6536,7 @@
 	{
 		"name": "01559",
 		"wab": "true",
-		"details": "Landmark Village Hotel",
+		"details": "Village Hotel Bugis",
 		"coordinates": {
 			"lat": 1.30168731070562,
 			"long": 103.85752923961614
@@ -8678,7 +8660,7 @@
 	{
 		"name": "10211",
 		"wab": "true",
-		"details": "Porsche Ctr S'pore",
+		"details": "BMW Eurokars Auto",
 		"coordinates": {
 			"lat": 1.29075499997303,
 			"long": 103.81144166700754
@@ -8822,7 +8804,7 @@
 	{
 		"name": "10321",
 		"wab": "true",
-		"details": "Aft Margaret Dr",
+		"details": "Opp Grace Ably of God Ch",
 		"coordinates": {
 			"lat": 1.29428332949691,
 			"long": 103.81587839882768
@@ -9074,7 +9056,7 @@
 	{
 		"name": "10461",
 		"wab": "true",
-		"details": "Aft Margaret Dr",
+		"details": "Opp Blk 95",
 		"coordinates": {
 			"lat": 1.29680597432594,
 			"long": 103.81169140516062
@@ -10333,7 +10315,7 @@
 	},
 	{
 		"name": "12189",
-		"wab": "false",
+		"wab": "true",
 		"details": "Bef Mt Sinai Dr",
 		"coordinates": {
 			"lat": 1.31642693680141,
@@ -12332,7 +12314,7 @@
 	{
 		"name": "17139",
 		"wab": "true",
-		"details": "Aft Clementi Swim Cplx",
+		"details": "Aft Clementi Ave 2",
 		"coordinates": {
 			"lat": 1.307653,
 			"long": 103.76674
@@ -13583,7 +13565,7 @@
 	{
 		"name": "20179",
 		"wab": "true",
-		"details": "Aft Teban Gdns Rd",
+		"details": "Blk 31",
 		"coordinates": {
 			"lat": 1.32000211967899,
 			"long": 103.73910069465363
@@ -14852,7 +14834,7 @@
 	{
 		"name": "21631",
 		"wab": "true",
-		"details": "Blk 115/Opp Japanese Gdn",
+		"details": "Blk 115",
 		"coordinates": {
 			"lat": 1.33363626085559,
 			"long": 103.72493610114242
@@ -14861,7 +14843,7 @@
 	{
 		"name": "21639",
 		"wab": "true",
-		"details": "Japanese Gdn/Opp Blk 115",
+		"details": "Opp Blk 115",
 		"coordinates": {
 			"lat": 1.33378861099344,
 			"long": 103.72511638897618
@@ -14870,7 +14852,7 @@
 	{
 		"name": "21641",
 		"wab": "true",
-		"details": "Opp Lakeside Apt",
+		"details": "Bef Blk 322",
 		"coordinates": {
 			"lat": 1.3363012622323,
 			"long": 103.7250086693193
@@ -14879,7 +14861,7 @@
 	{
 		"name": "21649",
 		"wab": "true",
-		"details": "Lakeside Apt",
+		"details": "Opp Blk 322",
 		"coordinates": {
 			"lat": 1.33670886560508,
 			"long": 103.72517977728532
@@ -16156,7 +16138,7 @@
 	},
 	{
 		"name": "23161",
-		"wab": "false",
+		"wab": "true",
 		"details": "Aft Kian Teck Rd",
 		"coordinates": {
 			"lat": 1.3278839556405,
@@ -16174,7 +16156,7 @@
 	},
 	{
 		"name": "23171",
-		"wab": "false",
+		"wab": "true",
 		"details": "SKK (S) Pte Ltd",
 		"coordinates": {
 			"lat": 1.32789603640425,
@@ -16291,7 +16273,7 @@
 	},
 	{
 		"name": "23239",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp Keppel Logistics",
 		"coordinates": {
 			"lat": 1.309154,
@@ -16787,7 +16769,7 @@
 	{
 		"name": "24179",
 		"wab": "true",
-		"details": "Opp Hong Hock Hardware",
+		"details": "Bef Gul Lane",
 		"coordinates": {
 			"lat": 1.30940312319597,
 			"long": 103.66477126222463
@@ -16858,7 +16840,7 @@
 	},
 	{
 		"name": "24259",
-		"wab": "false",
+		"wab": "true",
 		"details": "DNV GL Laboratory",
 		"coordinates": {
 			"lat": 1.32022430366593,
@@ -21142,7 +21124,7 @@
 	},
 	{
 		"name": "31071",
-		"wab": "true",
+		"wab": "false",
 		"details": "Aft Chinese Cemy Path 11",
 		"coordinates": {
 			"lat": 1.37853314214565,
@@ -21511,7 +21493,7 @@
 	},
 	{
 		"name": "33039",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp Jln Bahtera",
 		"coordinates": {
 			"lat": 1.42329599233546,
@@ -21520,7 +21502,7 @@
 	},
 	{
 		"name": "33041",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp Lim Chu Kang Lane 3",
 		"coordinates": {
 			"lat": 1.42761911626678,
@@ -21556,7 +21538,7 @@
 	},
 	{
 		"name": "34009",
-		"wab": "true",
+		"wab": "false",
 		"details": "Police Coast Guard",
 		"coordinates": {
 			"lat": 1.44482656088302,
@@ -21574,7 +21556,7 @@
 	},
 	{
 		"name": "34019",
-		"wab": "false",
+		"wab": "true",
 		"details": "Aft Lim Chu Kang Lane 4",
 		"coordinates": {
 			"lat": 1.43253416698475,
@@ -22817,7 +22799,7 @@
 	{
 		"name": "42221",
 		"wab": "true",
-		"details": "Goodluck Gdn",
+		"details": "Forett @ Bt Timah",
 		"coordinates": {
 			"lat": 1.339618,
 			"long": 103.767643
@@ -22834,7 +22816,7 @@
 	},
 	{
 		"name": "42231",
-		"wab": "false",
+		"wab": "true",
 		"details": "Bef Jln Jurong Kechil",
 		"coordinates": {
 			"lat": 1.34056805598593,
@@ -27172,7 +27154,7 @@
 	},
 	{
 		"name": "46301",
-		"wab": "true",
+		"wab": "false",
 		"details": "Progen Bldg",
 		"coordinates": {
 			"lat": 1.44274264517274,
@@ -27307,7 +27289,7 @@
 	},
 	{
 		"name": "46379",
-		"wab": "false",
+		"wab": "true",
 		"details": "Blk 409",
 		"coordinates": {
 			"lat": 1.42911804399457,
@@ -29314,7 +29296,7 @@
 	},
 	{
 		"name": "49071",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp Wason Wood Ind",
 		"coordinates": {
 			"lat": 1.42920936914454,
@@ -29323,7 +29305,7 @@
 	},
 	{
 		"name": "49079",
-		"wab": "false",
+		"wab": "true",
 		"details": "Wason Wood Ind",
 		"coordinates": {
 			"lat": 1.42936840267626,
@@ -36424,7 +36406,7 @@
 	},
 	{
 		"name": "60181",
-		"wab": "false",
+		"wab": "true",
 		"details": "Aft Moonstone Lane",
 		"coordinates": {
 			"lat": 1.32714561804071,
@@ -41744,7 +41726,7 @@
 	{
 		"name": "67641",
 		"wab": "true",
-		"details": "Bef Anchorvale St",
+		"details": "Opp Treasure Crest",
 		"coordinates": {
 			"lat": 1.398044,
 			"long": 103.8934405
@@ -41753,7 +41735,7 @@
 	{
 		"name": "67649",
 		"wab": "true",
-		"details": "Aft Anchorvale St",
+		"details": "Treasure Crest",
 		"coordinates": {
 			"lat": 1.398051,
 			"long": 103.8933425
@@ -42509,7 +42491,7 @@
 	{
 		"name": "70141",
 		"wab": "true",
-		"details": "Citimac Ind Cplx",
+		"details": "Grantral Mall Macpherson",
 		"coordinates": {
 			"lat": 1.33325940650465,
 			"long": 103.88723373413463
@@ -42518,7 +42500,7 @@
 	{
 		"name": "70149",
 		"wab": "true",
-		"details": "Bef Blk 82",
+		"details": "Sky Green Condo",
 		"coordinates": {
 			"lat": 1.33291249995394,
 			"long": 103.88646305557553
@@ -44316,6 +44298,42 @@
 		}
 	},
 	{
+		"name": "75521",
+		"wab": "true",
+		"details": "Blk 660 CP",
+		"coordinates": {
+			"lat": 1.367719,
+			"long": 103.933654
+		}
+	},
+	{
+		"name": "75529",
+		"wab": "true",
+		"details": "Opp Blk 660 CP",
+		"coordinates": {
+			"lat": 1.367119,
+			"long": 103.933765
+		}
+	},
+	{
+		"name": "75531",
+		"wab": "true",
+		"details": "Opp Blk 662B",
+		"coordinates": {
+			"lat": 1.36908,
+			"long": 103.935023
+		}
+	},
+	{
+		"name": "75539",
+		"wab": "true",
+		"details": "Blk 662B",
+		"coordinates": {
+			"lat": 1.369246,
+			"long": 103.935001
+		}
+	},
+	{
 		"name": "75541",
 		"wab": "true",
 		"details": "OPP BLK 648A",
@@ -44421,6 +44439,33 @@
 		"coordinates": {
 			"lat": 1.362446,
 			"long": 103.943349
+		}
+	},
+	{
+		"name": "75601",
+		"wab": "true",
+		"details": "IKEA Tampines",
+		"coordinates": {
+			"lat": 1.373503,
+			"long": 103.931982
+		}
+	},
+	{
+		"name": "75611",
+		"wab": "true",
+		"details": "BHCC Space",
+		"coordinates": {
+			"lat": 1.372567,
+			"long": 103.93426
+		}
+	},
+	{
+		"name": "75619",
+		"wab": "true",
+		"details": "T-Space",
+		"coordinates": {
+			"lat": 1.372262,
+			"long": 103.934647
 		}
 	},
 	{
@@ -44894,7 +44939,7 @@
 	{
 		"name": "76291",
 		"wab": "true",
-		"details": "Angsana Pr Sch",
+		"details": "Opp Blk 273",
 		"coordinates": {
 			"lat": 1.3488330441336,
 			"long": 103.95120760822915
@@ -49167,6 +49212,24 @@
 		}
 	},
 	{
+		"name": "90041",
+		"wab": "true",
+		"details": "Opp Tanjong Rhu Stn Exit B",
+		"coordinates": {
+			"lat": 1.297196,
+			"long": 103.873691
+		}
+	},
+	{
+		"name": "90049",
+		"wab": "true",
+		"details": "Tanjong Rhu Stn Exit B",
+		"coordinates": {
+			"lat": 1.297117,
+			"long": 103.873563
+		}
+	},
+	{
 		"name": "90051",
 		"wab": "true",
 		"details": "Opp S'pore Swim Club",
@@ -49204,7 +49267,7 @@
 	},
 	{
 		"name": "90079",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp Costa Rhu Condo",
 		"coordinates": {
 			"lat": 1.29760718196372,
@@ -49214,7 +49277,7 @@
 	{
 		"name": "91041",
 		"wab": "true",
-		"details": "EtonHouse Pre-Sch",
+		"details": "KiddiWinkie S/H @ Mountbatten",
 		"coordinates": {
 			"lat": 1.30100303875383,
 			"long": 103.8865107850326
@@ -49520,7 +49583,7 @@
 	{
 		"name": "92141",
 		"wab": "true",
-		"details": "NAFA Arts Kindergarten",
+		"details": "KiddiWinkie S/H @ East Coast",
 		"coordinates": {
 			"lat": 1.30939538245506,
 			"long": 103.91428724575974
@@ -51122,7 +51185,7 @@
 	{
 		"name": "96331",
 		"wab": "true",
-		"details": "Premier",
+		"details": "Strides Premier",
 		"coordinates": {
 			"lat": 1.33124389066562,
 			"long": 103.96761886176331

@@ -427,17 +427,6 @@
 		]
 	},
 	{
-		"number": 731,
-		"description": "Punggol East to Robinson Road",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"731-1.kml"
-		],
-		"routeFile": [
-			"731.xml"
-		]
-	},
-	{
 		"number": 736,
 		"description": "Tampines Avenue 9 to Temasek Boulevard",
 		"type": "PREMIUM",
@@ -3213,6 +3202,16 @@
 		],
 		"routeFile": [
 			"293.xml"
+		]
+	},
+	{
+		"number": 296,
+		"type": "TRUNK",
+		"kmlFile": [
+			"296-1.kml"
+		],
+		"routeFile": [
+			"296.xml"
 		]
 	},
 	{

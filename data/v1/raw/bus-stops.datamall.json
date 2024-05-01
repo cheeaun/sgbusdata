@@ -240,7 +240,7 @@
 	{
 		"BusStopCode": "01559",
 		"RoadName": "Ophir Rd",
-		"Description": "Landmark Village Hotel",
+		"Description": "Village Hotel Bugis",
 		"Latitude": 1.30168731070562,
 		"Longitude": 103.85752923961614
 	},
@@ -1892,7 +1892,7 @@
 	{
 		"BusStopCode": "10211",
 		"RoadName": "Leng Kee Rd",
-		"Description": "Porsche Ctr S'pore",
+		"Description": "BMW Eurokars Auto",
 		"Latitude": 1.29075499997303,
 		"Longitude": 103.81144166700754
 	},
@@ -2004,7 +2004,7 @@
 	{
 		"BusStopCode": "10321",
 		"RoadName": "Tanglin Rd",
-		"Description": "Aft Margaret Dr",
+		"Description": "Opp Grace Ably of God Ch",
 		"Latitude": 1.29428332949691,
 		"Longitude": 103.81587839882768
 	},
@@ -2200,7 +2200,7 @@
 	{
 		"BusStopCode": "10461",
 		"RoadName": "Kay Siang Rd",
-		"Description": "Aft Margaret Dr",
+		"Description": "Opp Blk 95",
 		"Latitude": 1.29680597432594,
 		"Longitude": 103.81169140516062
 	},
@@ -4734,7 +4734,7 @@
 	{
 		"BusStopCode": "17139",
 		"RoadName": "AYE",
-		"Description": "Aft Clementi Swim Cplx",
+		"Description": "Aft Clementi Ave 2",
 		"Latitude": 1.307653,
 		"Longitude": 103.76674
 	},
@@ -5707,7 +5707,7 @@
 	{
 		"BusStopCode": "20179",
 		"RoadName": "West Coast Rd",
-		"Description": "Aft Teban Gdns Rd",
+		"Description": "Blk 31",
 		"Latitude": 1.32000211967899,
 		"Longitude": 103.73910069465363
 	},
@@ -6694,28 +6694,28 @@
 	{
 		"BusStopCode": "21631",
 		"RoadName": "Yuan Ching Rd",
-		"Description": "Blk 115/Opp Japanese Gdn",
+		"Description": "Blk 115",
 		"Latitude": 1.33363626085559,
 		"Longitude": 103.72493610114242
 	},
 	{
 		"BusStopCode": "21639",
 		"RoadName": "Yuan Ching Rd",
-		"Description": "Japanese Gdn/Opp Blk 115",
+		"Description": "Opp Blk 115",
 		"Latitude": 1.33378861099344,
 		"Longitude": 103.72511638897618
 	},
 	{
 		"BusStopCode": "21641",
 		"RoadName": "Yuan Ching Rd",
-		"Description": "Opp Lakeside Apt",
+		"Description": "Bef Blk 322",
 		"Latitude": 1.3363012622323,
 		"Longitude": 103.7250086693193
 	},
 	{
 		"BusStopCode": "21649",
 		"RoadName": "Yuan Ching Rd",
-		"Description": "Lakeside Apt",
+		"Description": "Opp Blk 322",
 		"Latitude": 1.33670886560508,
 		"Longitude": 103.72517977728532
 	},
@@ -8199,7 +8199,7 @@
 	{
 		"BusStopCode": "24179",
 		"RoadName": "Gul Cres",
-		"Description": "Opp Hong Hock Hardware",
+		"Description": "Bef Gul Lane",
 		"Latitude": 1.30940312319597,
 		"Longitude": 103.66477126222463
 	},
@@ -12889,7 +12889,7 @@
 	{
 		"BusStopCode": "42221",
 		"RoadName": "Toh Tuck Rd",
-		"Description": "Goodluck Gdn",
+		"Description": "Forett @ Bt Timah",
 		"Latitude": 1.339618,
 		"Longitude": 103.767643
 	},
@@ -27610,14 +27610,14 @@
 	{
 		"BusStopCode": "67641",
 		"RoadName": "Anchorvale Cres",
-		"Description": "BEF ANCHORVALE ST",
+		"Description": "Opp Treasure Crest",
 		"Latitude": 1.398044,
 		"Longitude": 103.8934405
 	},
 	{
 		"BusStopCode": "67649",
 		"RoadName": "Anchorvale Cres",
-		"Description": "AFT ANCHORVALE ST",
+		"Description": "Treasure Crest",
 		"Latitude": 1.398051,
 		"Longitude": 103.8933425
 	},
@@ -28205,14 +28205,14 @@
 	{
 		"BusStopCode": "70141",
 		"RoadName": "MacPherson Rd",
-		"Description": "Citimac Ind Cplx",
+		"Description": "Grantral Mall Macpherson",
 		"Latitude": 1.33325940650465,
 		"Longitude": 103.88723373413463
 	},
 	{
 		"BusStopCode": "70149",
 		"RoadName": "MacPherson Rd",
-		"Description": "Bef Blk 82",
+		"Description": "Sky Green Condo",
 		"Latitude": 1.33291249995394,
 		"Longitude": 103.88646305557553
 	},
@@ -29610,6 +29610,34 @@
 		"Longitude": 103.934527
 	},
 	{
+		"BusStopCode": "75521",
+		"RoadName": "Tampines Nth Dr 1",
+		"Description": "Blk 660 CP",
+		"Latitude": 1.367719,
+		"Longitude": 103.933654
+	},
+	{
+		"BusStopCode": "75529",
+		"RoadName": "Tampines Nth Dr 1",
+		"Description": "Opp Blk 660 CP",
+		"Latitude": 1.367119,
+		"Longitude": 103.933765
+	},
+	{
+		"BusStopCode": "75531",
+		"RoadName": "Tampines St 64",
+		"Description": "Opp Blk 662B",
+		"Latitude": 1.36908,
+		"Longitude": 103.935023
+	},
+	{
+		"BusStopCode": "75539",
+		"RoadName": "Tampines St 64",
+		"Description": "Blk 662B",
+		"Latitude": 1.369246,
+		"Longitude": 103.935001
+	},
+	{
 		"BusStopCode": "75541",
 		"RoadName": "Tampines St 62",
 		"Description": "OPP BLK 648A",
@@ -29692,6 +29720,27 @@
 		"Description": "OPP BLK 631B",
 		"Latitude": 1.362446,
 		"Longitude": 103.943349
+	},
+	{
+		"BusStopCode": "75601",
+		"RoadName": "Tampines Nth Dr 2",
+		"Description": "IKEA Tampines",
+		"Latitude": 1.373503,
+		"Longitude": 103.931982
+	},
+	{
+		"BusStopCode": "75611",
+		"RoadName": "Tampines Nth Dr 2",
+		"Description": "BHCC Space",
+		"Latitude": 1.372567,
+		"Longitude": 103.93426
+	},
+	{
+		"BusStopCode": "75619",
+		"RoadName": "Tampines Nth Dr 2",
+		"Description": "T-Space",
+		"Latitude": 1.372262,
+		"Longitude": 103.934647
 	},
 	{
 		"BusStopCode": "76031",
@@ -30060,7 +30109,7 @@
 	{
 		"BusStopCode": "76291",
 		"RoadName": "Tampines St 22",
-		"Description": "Angsana Pr Sch",
+		"Description": "Opp Blk 273",
 		"Latitude": 1.3488330441336,
 		"Longitude": 103.95120760822915
 	},
@@ -33383,6 +33432,20 @@
 		"Longitude": 103.87539308856654
 	},
 	{
+		"BusStopCode": "90041",
+		"RoadName": "Tg Rhu Rd",
+		"Description": "Opp Tanjong Rhu Stn Exit B",
+		"Latitude": 1.297196,
+		"Longitude": 103.873691
+	},
+	{
+		"BusStopCode": "90049",
+		"RoadName": "Tg Rhu Rd",
+		"Description": "Tanjong Rhu Stn Exit B",
+		"Latitude": 1.297117,
+		"Longitude": 103.873563
+	},
+	{
 		"BusStopCode": "90051",
 		"RoadName": "Tg Rhu Rd",
 		"Description": "Opp S'pore Swim Club",
@@ -33420,7 +33483,7 @@
 	{
 		"BusStopCode": "91041",
 		"RoadName": "Mountbatten Rd",
-		"Description": "EtonHouse Pre-Sch",
+		"Description": "KiddiWinkie S/H @ Mountbatten",
 		"Latitude": 1.30100303875383,
 		"Longitude": 103.8865107850326
 	},
@@ -33658,7 +33721,7 @@
 	{
 		"BusStopCode": "92141",
 		"RoadName": "East Coast Rd",
-		"Description": "Nafa Arts Kindergarten",
+		"Description": "KiddiWinkie S/H @ East Coast",
 		"Latitude": 1.30939538245506,
 		"Longitude": 103.91428724575974
 	},
@@ -34904,7 +34967,7 @@
 	{
 		"BusStopCode": "96331",
 		"RoadName": "Changi Sth Ave 2",
-		"Description": "Premier",
+		"Description": "Strides Premier",
 		"Latitude": 1.33124389066562,
 		"Longitude": 103.96761886176331
 	},
