@@ -6,7 +6,11 @@
 			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
-			"fileName": "296-1.kml",
+			"fileName": "168A-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "20A-1.kml",
 			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
@@ -14,8 +18,20 @@
 			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
+			"fileName": "39A-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "39B-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
 			"fileName": "60T-1.kml",
 			"e": "HTTPError: Response code 403 (Forbidden)"
+		},
+		{
+			"fileName": "79T-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
 			"fileName": "812T-1.kml",

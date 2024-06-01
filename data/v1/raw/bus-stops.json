@@ -49214,7 +49214,7 @@
 	{
 		"name": "90041",
 		"wab": "true",
-		"details": "Opp Tanjong Rhu Stn Exit B",
+		"details": "Tanjong Rhu Stn Exit 2",
 		"coordinates": {
 			"lat": 1.297196,
 			"long": 103.873691
@@ -49223,7 +49223,7 @@
 	{
 		"name": "90049",
 		"wab": "true",
-		"details": "Tanjong Rhu Stn Exit B",
+		"details": "Tanjong Rhu Stn Exit 1",
 		"coordinates": {
 			"lat": 1.297117,
 			"long": 103.873563

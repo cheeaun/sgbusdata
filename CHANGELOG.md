@@ -1,3 +1,45 @@
+# 1 June 2024
+
+### Stop names changed: 2
+
+- `90041` Opp Tanjong Rhu Stn Exit B ⮕ Tanjong Rhu Stn Exit 2
+- `90049` Tanjong Rhu Stn Exit B ⮕ Tanjong Rhu Stn Exit 1
+
+## Services count change: 543 ⮕ 547
+
+### Services added: 5
+
+- `168A` Woodlands Int → Opp Tampines Stn/Int
+- `20A` Blk 148 → Expo Stn Exit B
+- `39A` Opp Pasir Ris Stn Exit B → Aft Seletar Camp G
+- `39B` Blk 220C → Pasir Ris Stn Exit B
+- `79T` Jurong Town Hall Int → Boon Lay Int
+
+### Services removed: 1
+
+- `79A` Boon Lay Int → Jurong East Lib
+
+### Bus Stop Changes To Routes: 3
+
+- `79` Jurong Town Hall Int ⟲ Opp Blk 662C: +8, -1
+- `252` Boon Lay Int ⟲ Opp ESAB: +2
+- `43e` Punggol Temp Int ⇄ Opp Blk 72 / Bet Blks 72/74: +14
+
+## Routes changed: 8
+
+- `11` Lor 1 Geylang Ter ⟲ Opp Costa Rhu Condo
+- `158` S'Goon Int ⟲ Opp Costa Rhu Condo
+- `296` Tampines Int ⟲ IKEA Tampines
+- `168A` Woodlands Int → Opp Tampines Stn/Int
+- `20A` Blk 148 → Expo Stn Exit B
+- `39A` Opp Pasir Ris Stn Exit B → Aft Seletar Camp G
+- `39B` Blk 220C → Pasir Ris Stn Exit B
+- `79T` Jurong Town Hall Int → Boon Lay Int
+
+## First/last timings changed
+
+Affected services: `79A`, `10`, `12`, `17`, `27`, `50`, `79`, `89`, `109`, `147`, `163`, `168`, `193`, `252`, `43e`, `79T`, `168A`, `39A`, `39B`, `20A`
+
 # 1 May 2024
 
 ## Stops count change: 5109 ⮕ 5118
