@@ -33434,14 +33434,14 @@
 	{
 		"BusStopCode": "90041",
 		"RoadName": "Tg Rhu Rd",
-		"Description": "Opp Tanjong Rhu Stn Exit B",
+		"Description": "Tanjong Rhu Stn Exit 2",
 		"Latitude": 1.297196,
 		"Longitude": 103.873691
 	},
 	{
 		"BusStopCode": "90049",
 		"RoadName": "Tg Rhu Rd",
-		"Description": "Tanjong Rhu Stn Exit B",
+		"Description": "Tanjong Rhu Stn Exit 1",
 		"Latitude": 1.297117,
 		"Longitude": 103.873563
 	},

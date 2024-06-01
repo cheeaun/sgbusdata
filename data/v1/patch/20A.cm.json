@@ -1,0 +1,593 @@
+{
+	"feeds": [],
+	"routes": [
+		{
+			"aliases": [
+				"sbs-transit-20a"
+			],
+			"brand": "SBSTBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "SBSTBuses20A",
+			"long_name": "Blk 148 - EXPO STN EXIT B",
+			"mode": "bus",
+			"name": "20A",
+			"patterns": [
+				{
+					"id": "20A_0",
+					"name": "towards Expo Stn Exit B",
+					"path": [
+						[
+							1.346464,
+							103.955853
+						],
+						[
+							1.344487,
+							103.953181
+						],
+						[
+							1.341922,
+							103.951763
+						],
+						[
+							1.342262,
+							103.953466
+						],
+						[
+							1.342236,
+							103.955927
+						],
+						[
+							1.341936,
+							103.95772
+						],
+						[
+							1.340611,
+							103.959694
+						],
+						[
+							1.339802,
+							103.963882
+						],
+						[
+							1.338026,
+							103.964172
+						],
+						[
+							1.334277,
+							103.961758
+						],
+						[
+							1.333272,
+							103.962096
+						],
+						[
+							1.332083,
+							103.965325
+						],
+						[
+							1.331244,
+							103.967619
+						],
+						[
+							1.332766,
+							103.970377
+						],
+						[
+							1.335296,
+							103.970392
+						],
+						[
+							1.336856,
+							103.967921
+						],
+						[
+							1.336491,
+							103.966437
+						],
+						[
+							1.334334,
+							103.966467
+						],
+						[
+							1.332024,
+							103.965263
+						],
+						[
+							1.33316,
+							103.962195
+						],
+						[
+							1.3345,
+							103.961744
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_Blk148_SW",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_SimeiStn_SW",
+							"path_index": 1
+						},
+						{
+							"id": "SingaporeStop_Blk254_E",
+							"path_index": 2
+						},
+						{
+							"id": "SingaporeStop_SimeiStn_E",
+							"path_index": 3
+						},
+						{
+							"id": "SingaporeStop_BetBlks227228_E",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_Blk223_SE",
+							"path_index": 5
+						},
+						{
+							"id": "SingaporeStop_OppSimeiGreenCondo_SE",
+							"path_index": 6
+						},
+						{
+							"id": "SingaporeStop_Sutd_S",
+							"path_index": 7
+						},
+						{
+							"id": "SingaporeStop_Eightrium_SW",
+							"path_index": 8
+						},
+						{
+							"id": "SingaporeStop_ExpoStnExitE_S",
+							"path_index": 9
+						},
+						{
+							"id": "SingaporeStop_ChangiCityPoint_NE",
+							"path_index": 10
+						},
+						{
+							"id": "SingaporeStop_DbsAsiaHub_E",
+							"path_index": 11
+						},
+						{
+							"id": "SingaporeStop_Premier_NE",
+							"path_index": 12
+						},
+						{
+							"id": "SingaporeStop_AftSunnyMetalEngrg_N",
+							"path_index": 13
+						},
+						{
+							"id": "SingaporeStop_BefChangiSthSt1_W",
+							"path_index": 14
+						},
+						{
+							"id": "SingaporeStop_AftChangiBizPkCres_W",
+							"path_index": 15
+						},
+						{
+							"id": "SingaporeStop_AftAkzonobel_S",
+							"path_index": 16
+						},
+						{
+							"id": "SingaporeStop_StandardCharteredBank_S",
+							"path_index": 17
+						},
+						{
+							"id": "SingaporeStop_Dhl_W",
+							"path_index": 18
+						},
+						{
+							"id": "SingaporeStop_OppChangiCityPoint_W",
+							"path_index": 19
+						},
+						{
+							"id": "SingaporeStop_ExpoStnExitB_NE",
+							"path_index": 20
+						}
+					]
+				}
+			],
+			"status": {
+				"level": 0,
+				"summary": "Good Service"
+			},
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
+			"ui_color": "#5BC824",
+			"url": "https://citymapper.com/singapore/l/sbs-transit-20a"
+		}
+	],
+	"status": 0,
+	"stops": {
+		"SingaporeStop_AftAkzonobel_S": {
+			"bearing": "SW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses",
+				"SingaporeShuttle"
+			],
+			"coords": [
+				1.336491,
+				103.966437
+			],
+			"live_code": "SingaporeStop_AftAkzonobel_S",
+			"name": "Aft Akzonobel",
+			"routes": [
+				"GASBuses118",
+				"SBSTBuses20",
+				"SBSTBuses20A",
+				"SBSTBuses47",
+				"CM_SingaporeShuttle_changi_city_pt",
+				"CM_SingaporeShuttle_expo"
+			],
+			"stop_code": "96361"
+		},
+		"SingaporeStop_AftChangiBizPkCres_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.336856,
+				103.967921
+			],
+			"live_code": "SingaporeStop_AftChangiBizPkCres_W",
+			"name": "Aft Changi Biz Pk Cres",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A"
+			],
+			"stop_code": "96391"
+		},
+		"SingaporeStop_AftSunnyMetalEngrg_N": {
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.332766,
+				103.970377
+			],
+			"live_code": "SingaporeStop_AftSunnyMetalEngrg_N",
+			"name": "Aft Sunny Metal & Engrg",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A"
+			],
+			"stop_code": "96341"
+		},
+		"SingaporeStop_BefChangiSthSt1_W": {
+			"bearing": "NW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.335296,
+				103.970392
+			],
+			"live_code": "SingaporeStop_BefChangiSthSt1_W",
+			"name": "Bef Changi Sth St 1",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A"
+			],
+			"stop_code": "96351"
+		},
+		"SingaporeStop_BetBlks227228_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.342236,
+				103.955927
+			],
+			"live_code": "SingaporeStop_BetBlks227228_E",
+			"name": "Bet Blks 227/228",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A",
+				"SBSTBuses38"
+			],
+			"stop_code": "96171"
+		},
+		"SingaporeStop_Blk148_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.346464,
+				103.955853
+			],
+			"live_code": "SingaporeStop_Blk148_SW",
+			"name": "Blk 148",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A",
+				"SBSTBuses38"
+			],
+			"stop_code": "96139"
+		},
+		"SingaporeStop_Blk223_SE": {
+			"bearing": "SE",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.341936,
+				103.95772
+			],
+			"live_code": "SingaporeStop_Blk223_SE",
+			"name": "Blk 223",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A",
+				"SBSTBuses38"
+			],
+			"stop_code": "96291"
+		},
+		"SingaporeStop_Blk254_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.341922,
+				103.951763
+			],
+			"live_code": "SingaporeStop_Blk254_E",
+			"name": "Blk 254",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A",
+				"SBSTBuses38"
+			],
+			"stop_code": "96159"
+		},
+		"SingaporeStop_ChangiCityPoint_NE": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.333272,
+				103.962096
+			],
+			"live_code": "SingaporeStop_ChangiCityPoint_NE",
+			"name": "Changi City Pt",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A",
+				"SBSTBuses47"
+			],
+			"stop_code": "96381"
+		},
+		"SingaporeStop_DbsAsiaHub_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.332083,
+				103.965325
+			],
+			"live_code": "SingaporeStop_DbsAsiaHub_E",
+			"name": "Dbs Asia Hub",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A"
+			],
+			"stop_code": "96321"
+		},
+		"SingaporeStop_Dhl_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.332024,
+				103.965263
+			],
+			"live_code": "SingaporeStop_Dhl_W",
+			"name": "Dhl",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A"
+			],
+			"stop_code": "96329"
+		},
+		"SingaporeStop_Eightrium_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.338026,
+				103.964172
+			],
+			"live_code": "SingaporeStop_Eightrium_SW",
+			"name": "Eightrium",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A"
+			],
+			"stop_code": "96419"
+		},
+		"SingaporeStop_ExpoStnExitB_NE": {
+			"bearing": "NE",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.3345,
+				103.961744
+			],
+			"live_code": "SingaporeStop_ExpoStnExitB_NE",
+			"name": "Expo Stn Exit B",
+			"routes": [
+				"GASBuses118",
+				"SBSTBuses20",
+				"SBSTBuses20A"
+			],
+			"stop_code": "96301"
+		},
+		"SingaporeStop_ExpoStnExitE_S": {
+			"bearing": "S",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.334277,
+				103.961758
+			],
+			"live_code": "SingaporeStop_ExpoStnExitE_S",
+			"name": "Expo Stn Exit E",
+			"routes": [
+				"GASBuses118",
+				"SBSTBuses20",
+				"SBSTBuses20A"
+			],
+			"stop_code": "96309"
+		},
+		"SingaporeStop_OppChangiCityPoint_W": {
+			"bearing": "NW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.33316,
+				103.962195
+			],
+			"live_code": "SingaporeStop_OppChangiCityPoint_W",
+			"name": "Opp Changi City Pt",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A",
+				"SBSTBuses47"
+			],
+			"stop_code": "96389"
+		},
+		"SingaporeStop_OppSimeiGreenCondo_SE": {
+			"bearing": "SE",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.340611,
+				103.959694
+			],
+			"live_code": "SingaporeStop_OppSimeiGreenCondo_SE",
+			"name": "Opp Simei Green Condo",
+			"routes": [
+				"GASBuses12",
+				"GASBuses12E",
+				"SBSTBuses20",
+				"SBSTBuses20A",
+				"SBSTBuses38",
+				"SBSTBuses5",
+				"SBSTBuses5B"
+			],
+			"stop_code": "96209"
+		},
+		"SingaporeStop_Premier_NE": {
+			"bearing": "NE",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.331244,
+				103.967619
+			],
+			"live_code": "SingaporeStop_Premier_NE",
+			"name": "Strides Premier",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A"
+			],
+			"stop_code": "96331"
+		},
+		"SingaporeStop_SimeiStn_E": {
+			"bearing": "E",
+			"brands": [
+				"SBSTBuses",
+				"SingaporeShuttle"
+			],
+			"coords": [
+				1.342262,
+				103.953466
+			],
+			"live_code": "SingaporeStop_SimeiStn_E",
+			"name": "Simei Stn",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A",
+				"SBSTBuses38",
+				"SBSTBuses5",
+				"SBSTBuses5B",
+				"SBSTBuses9",
+				"SBSTBuses9A",
+				"SBSTBuses9B",
+				"CM_ShuttleBus_changi_gen_hosp"
+			],
+			"stop_code": "96169"
+		},
+		"SingaporeStop_SimeiStn_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.344487,
+				103.953181
+			],
+			"live_code": "SingaporeStop_SimeiStn_SW",
+			"name": "Simei Stn/Blk 247",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A",
+				"SBSTBuses38"
+			],
+			"stop_code": "96149"
+		},
+		"SingaporeStop_StandardCharteredBank_S": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.334334,
+				103.966467
+			],
+			"live_code": "SingaporeStop_StandardCharteredBank_S",
+			"name": "Standard Chartered Bank",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A"
+			],
+			"stop_code": "96371"
+		},
+		"SingaporeStop_Sutd_S": {
+			"bearing": "S",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.339802,
+				103.963882
+			],
+			"live_code": "SingaporeStop_Sutd_S",
+			"name": "Sutd",
+			"routes": [
+				"SBSTBuses20",
+				"SBSTBuses20A"
+			],
+			"stop_code": "96449"
+		}
+	}
+}

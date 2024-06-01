@@ -1,0 +1,532 @@
+{
+	"feeds": [],
+	"routes": [
+		{
+			"aliases": [
+				"sbs-transit-39a"
+			],
+			"brand": "SBSTBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "SBSTBuses39A",
+			"long_name": "Opp Pasir Ris Stn Exit B - Aft Seletar Camp G",
+			"mode": "bus",
+			"name": "39A",
+			"patterns": [
+				{
+					"id": "39A_0",
+					"name": "towards Aft Seletar Camp G",
+					"path": [
+						[
+							1.372262,
+							103.948468
+						],
+						[
+							1.372663,
+							103.945573
+						],
+						[
+							1.373765,
+							103.942666
+						],
+						[
+							1.375313,
+							103.940273
+						],
+						[
+							1.376705,
+							103.93844
+						],
+						[
+							1.378372,
+							103.936187
+						],
+						[
+							1.39671,
+							103.914672
+						],
+						[
+							1.399297,
+							103.911034
+						],
+						[
+							1.401737,
+							103.90763
+						],
+						[
+							1.403622,
+							103.904916
+						],
+						[
+							1.405352,
+							103.901872
+						],
+						[
+							1.406245,
+							103.899575
+						],
+						[
+							1.404548,
+							103.897164
+						],
+						[
+							1.402389,
+							103.896736
+						],
+						[
+							1.402186,
+							103.872168
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_OppPasirRisStnExitB_W",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_OppBlk571_W",
+							"path_index": 1
+						},
+						{
+							"id": "SingaporeStop_OppBlk515_NW",
+							"path_index": 2
+						},
+						{
+							"id": "SingaporeStop_OppBlk640_NW",
+							"path_index": 3
+						},
+						{
+							"id": "SingaporeStop_MeridianJc_NW",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_Blk740_NW",
+							"path_index": 5
+						},
+						{
+							"id": "SingaporeStop_Blk162B_NW",
+							"path_index": 6
+						},
+						{
+							"id": "SingaporeStop_BetBlks187188_NW",
+							"path_index": 7
+						},
+						{
+							"id": "SingaporeStop_EdgefieldPrSch_NW",
+							"path_index": 8
+						},
+						{
+							"id": "SingaporeStop_Blk298_W",
+							"path_index": 9
+						},
+						{
+							"id": "SingaporeStop_PunggolStn_W",
+							"path_index": 10
+						},
+						{
+							"id": "SingaporeStop_BefBlk264_SW",
+							"path_index": 11
+						},
+						{
+							"id": "SingaporeStop_SooTeckStn_S",
+							"path_index": 12
+						},
+						{
+							"id": "SingaporeStop_TwinWaterfalls_S",
+							"path_index": 13
+						},
+						{
+							"id": "SingaporeStop_AftSeletarCampG_SW",
+							"path_index": 14
+						}
+					]
+				}
+			],
+			"status": {
+				"level": 0,
+				"summary": "Good Service"
+			},
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
+			"ui_color": "#5BC824",
+			"url": "https://citymapper.com/singapore/l/sbs-transit-39a"
+		}
+	],
+	"status": 0,
+	"stops": {
+		"SingaporeStop_AftSeletarCampG_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.402186,
+				103.872168
+			],
+			"live_code": "SingaporeStop_AftSeletarCampG_SW",
+			"name": "Aft Seletar Camp G",
+			"routes": [
+				"SBSTBuses102",
+				"SBSTBuses103",
+				"SBSTBuses117",
+				"SBSTBuses117M",
+				"SBSTBuses168",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"TTSBuses858",
+				"TTSBuses858B",
+				"SBSTBuses86"
+			],
+			"stop_code": "68119"
+		},
+		"SingaporeStop_BefBlk264_SW": {
+			"bearing": "W",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.406245,
+				103.899575
+			],
+			"live_code": "SingaporeStop_BefBlk264_SW",
+			"name": "Bef Blk 264",
+			"routes": [
+				"GASBuses118",
+				"GASBuses118A",
+				"GASBuses381",
+				"GASBuses384",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses43",
+				"GASBuses43M",
+				"GASBuses43E"
+			],
+			"stop_code": "65409"
+		},
+		"SingaporeStop_BetBlks187188_NW": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.399297,
+				103.911034
+			],
+			"live_code": "SingaporeStop_BetBlks187188_NW",
+			"name": "Bet Blks 187/188",
+			"routes": [
+				"GASBuses3",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses83",
+				"GASBuses85",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "65279"
+		},
+		"SingaporeStop_Blk162B_NW": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.39671,
+				103.914672
+			],
+			"live_code": "SingaporeStop_Blk162B_NW",
+			"name": "Blk 162b",
+			"routes": [
+				"GASBuses3",
+				"GASBuses386",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses83",
+				"GASBuses85",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "65269"
+		},
+		"SingaporeStop_Blk298_W": {
+			"bearing": "W",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.403622,
+				103.904916
+			],
+			"live_code": "SingaporeStop_Blk298_W",
+			"name": "Blk 298",
+			"routes": [
+				"GASBuses136",
+				"GASBuses3",
+				"GASBuses34",
+				"GASBuses381",
+				"GASBuses386",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses83",
+				"GASBuses84",
+				"GASBuses85",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "65229"
+		},
+		"SingaporeStop_Blk740_NW": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.378372,
+				103.936187
+			],
+			"live_code": "SingaporeStop_Blk740_NW",
+			"name": "Blk 740",
+			"routes": [
+				"SBSTBuses109",
+				"GASBuses3",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses3A",
+				"GASBuses518",
+				"SBSTBuses53",
+				"GASBuses68",
+				"SBSTBuses81",
+				"SBSTBuses89"
+			],
+			"stop_code": "77281"
+		},
+		"SingaporeStop_EdgefieldPrSch_NW": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.401737,
+				103.90763
+			],
+			"live_code": "SingaporeStop_EdgefieldPrSch_NW",
+			"name": "Opp Punggol Sec / Blk 195e",
+			"routes": [
+				"GASBuses136",
+				"GASBuses3",
+				"GASBuses381",
+				"GASBuses386",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses83",
+				"GASBuses85",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "65289"
+		},
+		"SingaporeStop_MeridianJc_NW": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.376705,
+				103.93844
+			],
+			"live_code": "SingaporeStop_MeridianJc_NW",
+			"name": "Tampines Meridian JC",
+			"routes": [
+				"SBSTBuses109",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses518",
+				"SBSTBuses53",
+				"SBSTBuses81",
+				"SBSTBuses89"
+			],
+			"stop_code": "77231"
+		},
+		"SingaporeStop_OppBlk515_NW": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.373765,
+				103.942666
+			],
+			"live_code": "SingaporeStop_OppBlk515_NW",
+			"name": "Opp Blk 515",
+			"routes": [
+				"SBSTBuses109",
+				"GASBuses3",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses3A",
+				"GASBuses403",
+				"GASBuses518",
+				"SBSTBuses53",
+				"SBSTBuses81",
+				"SBSTBuses89"
+			],
+			"stop_code": "77011"
+		},
+		"SingaporeStop_OppBlk571_W": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.372663,
+				103.945573
+			],
+			"live_code": "SingaporeStop_OppBlk571_W",
+			"name": "Opp Blk 571",
+			"routes": [
+				"SBSTBuses109",
+				"GASBuses15",
+				"GASBuses3",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses3A",
+				"GASBuses403",
+				"GASBuses518",
+				"SBSTBuses53",
+				"SBSTBuses81",
+				"SBSTBuses89"
+			],
+			"stop_code": "77021"
+		},
+		"SingaporeStop_OppBlk640_NW": {
+			"bearing": "NW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.375313,
+				103.940273
+			],
+			"live_code": "SingaporeStop_OppBlk640_NW",
+			"name": "Opp Blk 640",
+			"routes": [
+				"SBSTBuses109",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses518",
+				"SBSTBuses53",
+				"SBSTBuses81",
+				"SBSTBuses89"
+			],
+			"stop_code": "77241"
+		},
+		"SingaporeStop_OppPasirRisStnExitB_W": {
+			"bearing": "W",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.372262,
+				103.948468
+			],
+			"live_code": "SingaporeStop_OppPasirRisStnExitB_W",
+			"name": "Opp Pasir Ris Stn Exit B",
+			"routes": [
+				"SBSTBuses109",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses518",
+				"SBSTBuses53",
+				"SBSTBuses81",
+				"SBSTBuses89"
+			],
+			"stop_code": "77031"
+		},
+		"SingaporeStop_PunggolStn_W": {
+			"bearing": "W",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.405352,
+				103.901872
+			],
+			"live_code": "SingaporeStop_PunggolStn_W",
+			"name": "Punggol Stn / Int",
+			"routes": [
+				"GASBuses118",
+				"GASBuses118A",
+				"GASBuses381",
+				"GASBuses384",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses43",
+				"GASBuses43M",
+				"GASBuses43E",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "65259"
+		},
+		"SingaporeStop_SooTeckStn_S": {
+			"bearing": "S",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.404548,
+				103.897164
+			],
+			"live_code": "SingaporeStop_SooTeckStn_S",
+			"name": "Aft Soo Teck Stn",
+			"routes": [
+				"GASBuses118",
+				"GASBuses118A",
+				"GASBuses381",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses43",
+				"GASBuses43M",
+				"GASBuses43E",
+				"SBSTBusesLcs2"
+			],
+			"stop_code": "65141"
+		},
+		"SingaporeStop_TwinWaterfalls_S": {
+			"bearing": "SW",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.402389,
+				103.896736
+			],
+			"live_code": "SingaporeStop_TwinWaterfalls_S",
+			"name": "Twin Waterfalls",
+			"routes": [
+				"SBSTBuses117",
+				"SBSTBuses117M",
+				"GASBuses118",
+				"GASBuses118A",
+				"GASBuses119",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"GASBuses43",
+				"GASBuses43M",
+				"GASBuses43E",
+				"GASBuses666"
+			],
+			"stop_code": "65431"
+		}
+	}
+}
