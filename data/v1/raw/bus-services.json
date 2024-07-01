@@ -4875,13 +4875,23 @@
 		]
 	},
 	{
-		"number": 84,
+		"number": "84G",
 		"type": "TRUNK",
 		"kmlFile": [
-			"84-1.kml"
+			"84G-1.kml"
 		],
 		"routeFile": [
-			"84.xml"
+			"84G.xml"
+		]
+	},
+	{
+		"number": "84W",
+		"type": "TRUNK",
+		"kmlFile": [
+			"84W-1.kml"
+		],
+		"routeFile": [
+			"84W.xml"
 		]
 	},
 	{
@@ -5173,6 +5183,26 @@
 		],
 		"routeFile": [
 			"868E.xml"
+		]
+	},
+	{
+		"number": "86A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"86A-1.kml"
+		],
+		"routeFile": [
+			"86A.xml"
+		]
+	},
+	{
+		"number": "86B",
+		"type": "TRUNK",
+		"kmlFile": [
+			"86B-1.kml"
+		],
+		"routeFile": [
+			"86B.xml"
 		]
 	},
 	{

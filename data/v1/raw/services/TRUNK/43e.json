@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Punggol Temp Int to Opp Blk 72",
+		"name": "From Punggol Temp Int to Marine Pde Stn Exit 4",
 		"stops": [
 			"65009",
 			"65259",
@@ -33,7 +33,7 @@
 		]
 	},
 	{
-		"name": "From Bet Blks 72/74 to Punggol Temp Int",
+		"name": "From Marine Pde Stn Exit 6 to Punggol Temp Int",
 		"stops": [
 			"92059",
 			"92049",

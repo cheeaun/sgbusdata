@@ -1,3 +1,64 @@
+# 1 July 2024
+
+## Stops count change: 5118 ⮕ 5124
+
+### Stops added: 6
+
+- `65101` Opposite My First Skool PCC10
+- `65109` My First Skool PCC10
+- `65701` Opposite SIT Punggol
+- `65709` Before SIT Punggol
+- `65721` Opposite Punggol Coast Station
+- `65729` Punggol Coast Station
+
+### Stop names changed: 13
+
+- `82051` Tg Katong Rd Sth P/G ⮕ Aft Tg Katong Stn Exit 2
+- `82059` Opp Tg Katong Rd Sth P/G ⮕ Bef Tg Katong Stn Exit 3
+- `91081` Fort Gdns ⮕ Aft Katong Pk Stn Exit 2
+- `91089` Opp Fort Gdns ⮕ Opp Katong Pk Stn
+- `92041` Opp Parkway Parade ⮕ Marine Pde Stn Exit 2
+- `92049` Parkway Parade ⮕ Marine Pde Stn/Parkway Pde
+- `92051` Opp Blk 72 ⮕ Marine Pde Stn Exit 4
+- `92059` Bet Blks 72/74 ⮕ Marine Pde Stn Exit 6
+- `92071` Opp Blk 57 ⮕ Marine Terr Stn Exit 4
+- `92079` Blk 57 ⮕ Marine Terr Stn Exit 1
+- `92089` CHIJ Katong Convent ⮕ Marine Terr Stn/Katong Convent
+- `93031` Opp Victoria Sch ⮕ Siglap Stn/Opp Victoria Sch
+- `93039` Laguna Pk ⮕ Siglap Stn/Laguna Park
+
+## Services count change: 547 ⮕ 550
+
+### Services added: 4
+
+- `84G` Punggol Temp Int ⟲ Aft Northshore Cres
+- `84W` Punggol Temp Int ⟲ Bef Northshore Cres
+- `86A` Aft Seletar Camp G → Yio Chu Kang Stn
+- `86B` Opp Yio Chu Kang Stn → Bef Seletar Camp G
+
+### Services removed: 1
+
+- `84` Punggol Temp Int ⟲ Blk 446B
+
+## Routes changed: 12
+
+- `79` Jurong Town Hall Int ⟲ Opp Blk 662C
+- `252` Boon Lay Int ⟲ Opp ESAB
+- `168A` Woodlands Int → Opp Tampines Stn/Int
+- `20A` Blk 148 → Expo Stn Exit B
+- `39A` Opp Pasir Ris Stn Exit B → Aft Seletar Camp G
+- `39B` Blk 220C → Pasir Ris Stn Exit B
+- `43e` Punggol Temp Int ⇄ Marine Pde Stn Exit 4 / Marine Pde Stn Exit 6
+- `79T` Jurong Town Hall Int → Boon Lay Int
+- `84G` Punggol Temp Int ⟲ Aft Northshore Cres
+- `84W` Punggol Temp Int ⟲ Bef Northshore Cres
+- `86A` Aft Seletar Camp G → Yio Chu Kang Stn
+- `86B` Opp Yio Chu Kang Stn → Bef Seletar Camp G
+
+## First/last timings changed
+
+Affected services: `84`, `86B`, `86A`, `84G`, `84W`
+
 # 1 June 2024
 
 ### Stop names changed: 2
