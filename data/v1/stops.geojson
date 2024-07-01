@@ -60288,7 +60288,8 @@
 					"857",
 					"857A",
 					"857B",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -60311,7 +60312,8 @@
 					"163B",
 					"854",
 					"857",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -60338,7 +60340,8 @@
 					"857",
 					"857A",
 					"857B",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -60363,7 +60366,8 @@
 					"70M",
 					"854",
 					"857",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -60390,7 +60394,8 @@
 					"857",
 					"857A",
 					"857B",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -60415,7 +60420,8 @@
 					"70M",
 					"854",
 					"857",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -60442,7 +60448,8 @@
 					"857",
 					"857A",
 					"857B",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -60467,7 +60474,8 @@
 					"70M",
 					"854",
 					"857",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -60494,7 +60502,8 @@
 					"857",
 					"857A",
 					"857B",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -60519,7 +60528,8 @@
 					"70M",
 					"854",
 					"857",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -60544,7 +60554,8 @@
 					"70B",
 					"70M",
 					"854",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -60568,7 +60579,8 @@
 					"70",
 					"70M",
 					"854",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -60847,7 +60859,8 @@
 					"852",
 					"853",
 					"853M",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -60873,7 +60886,8 @@
 					"852",
 					"853",
 					"853M",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -60899,7 +60913,8 @@
 					"852",
 					"853",
 					"853M",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -60930,7 +60945,8 @@
 					"852",
 					"853",
 					"853M",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -75753,7 +75769,8 @@
 					"82",
 					"83",
 					"83T",
-					"84",
+					"84G",
+					"84W",
 					"85"
 				]
 			},
@@ -76135,7 +76152,8 @@
 				"name": "Blk 301A",
 				"road": "Punggol Rd",
 				"services": [
-					"84"
+					"84G",
+					"84W"
 				]
 			},
 			"geometry": {
@@ -76154,7 +76172,8 @@
 				"name": "Blk 604A",
 				"road": "Punggol Rd",
 				"services": [
-					"84"
+					"84G",
+					"84W"
 				]
 			},
 			"geometry": {
@@ -76162,6 +76181,44 @@
 				"coordinates": [
 					103.90711426733175,
 					1.40446781720997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "65101",
+			"properties": {
+				"number": "65101",
+				"name": "Opposite My First Skool PCC10",
+				"road": "New Punggol Road",
+				"services": [
+					"84W"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.908735,
+					1.407889
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "65109",
+			"properties": {
+				"number": "65109",
+				"name": "My First Skool PCC10",
+				"road": "New Punggol Road",
+				"services": [
+					"84G"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.908819,
+					1.407697
 				]
 			}
 		},
@@ -76534,7 +76591,8 @@
 					"39B",
 					"83",
 					"83T",
-					"84",
+					"84G",
+					"84W",
 					"85"
 				]
 			},
@@ -76562,7 +76620,8 @@
 					"39",
 					"39A",
 					"83",
-					"84",
+					"84G",
+					"84W",
 					"85"
 				]
 			},
@@ -77502,7 +77561,7 @@
 				"services": [
 					"382",
 					"382G",
-					"84"
+					"84W"
 				]
 			},
 			"geometry": {
@@ -77523,7 +77582,7 @@
 				"services": [
 					"382",
 					"382W",
-					"84"
+					"84G"
 				]
 			},
 			"geometry": {
@@ -77544,7 +77603,7 @@
 				"services": [
 					"382",
 					"382G",
-					"84"
+					"84W"
 				]
 			},
 			"geometry": {
@@ -77565,7 +77624,7 @@
 				"services": [
 					"382",
 					"382W",
-					"84"
+					"84G"
 				]
 			},
 			"geometry": {
@@ -77908,7 +77967,7 @@
 				"road": "Punggol Way",
 				"services": [
 					"384",
-					"84"
+					"84W"
 				]
 			},
 			"geometry": {
@@ -77928,7 +77987,7 @@
 				"road": "Punggol Way",
 				"services": [
 					"384",
-					"84"
+					"84G"
 				]
 			},
 			"geometry": {
@@ -77948,7 +78007,7 @@
 				"road": "Punggol Way",
 				"services": [
 					"384",
-					"84"
+					"84W"
 				]
 			},
 			"geometry": {
@@ -77967,7 +78026,7 @@
 				"name": "Samudera Stn Exit A",
 				"road": "Punggol Way",
 				"services": [
-					"84"
+					"84G"
 				]
 			},
 			"geometry": {
@@ -77987,7 +78046,7 @@
 				"road": "Punggol Way",
 				"services": [
 					"384",
-					"84"
+					"84W"
 				]
 			},
 			"geometry": {
@@ -78006,7 +78065,7 @@
 				"name": "Bef Punggol Pt Stn",
 				"road": "Punggol Way",
 				"services": [
-					"84"
+					"84G"
 				]
 			},
 			"geometry": {
@@ -78120,7 +78179,7 @@
 				"name": "Bef Northshore Cres",
 				"road": "Northshore Dr",
 				"services": [
-					"84"
+					"84W"
 				]
 			},
 			"geometry": {
@@ -78139,7 +78198,7 @@
 				"name": "Aft Northshore Cres",
 				"road": "Northshore Dr",
 				"services": [
-					"84"
+					"84G"
 				]
 			},
 			"geometry": {
@@ -78158,7 +78217,7 @@
 				"name": "Opposite Blk 437B",
 				"road": "New Punggol Road",
 				"services": [
-					"84"
+					"84G"
 				]
 			},
 			"geometry": {
@@ -78177,7 +78236,7 @@
 				"name": "Blk 437B",
 				"road": "New Punggol Road",
 				"services": [
-					"84"
+					"84W"
 				]
 			},
 			"geometry": {
@@ -78190,13 +78249,51 @@
 		},
 		{
 			"type": "Feature",
+			"id": "65701",
+			"properties": {
+				"number": "65701",
+				"name": "Opposite SIT Punggol",
+				"road": "New Punggol Road",
+				"services": [
+					"84G"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.911075,
+					1.411694
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "65709",
+			"properties": {
+				"number": "65709",
+				"name": "Before SIT Punggol",
+				"road": "New Punggol Road",
+				"services": [
+					"84W"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.910496,
+					1.411316
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "65711",
 			"properties": {
 				"number": "65711",
 				"name": "Blk 446B",
 				"road": "New Punggol Road",
 				"services": [
-					"84"
+					"84G"
 				]
 			},
 			"geometry": {
@@ -78215,7 +78312,7 @@
 				"name": "Blk 432B",
 				"road": "New Punggol Road",
 				"services": [
-					"84"
+					"84W"
 				]
 			},
 			"geometry": {
@@ -78223,6 +78320,44 @@
 				"coordinates": [
 					103.912031,
 					1.416997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "65721",
+			"properties": {
+				"number": "65721",
+				"name": "Opposite Punggol Coast Station",
+				"road": "New Punggol Road",
+				"services": [
+					"84G"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.911686,
+					1.414944
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "65729",
+			"properties": {
+				"number": "65729",
+				"name": "Punggol Coast Station",
+				"road": "New Punggol Road",
+				"services": [
+					"84W"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.911277,
+					1.414675
 				]
 			}
 		},
@@ -80532,7 +80667,8 @@
 					"70B",
 					"70M",
 					"854",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -80556,7 +80692,8 @@
 					"70",
 					"70M",
 					"854",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -80581,7 +80718,8 @@
 					"70B",
 					"70M",
 					"854",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -80605,7 +80743,8 @@
 					"70",
 					"70M",
 					"854",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -80629,7 +80768,8 @@
 					"70",
 					"70M",
 					"854",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -80843,7 +80983,8 @@
 				"services": [
 					"103",
 					"50",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -80864,7 +81005,8 @@
 				"services": [
 					"103",
 					"50",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -83679,7 +83821,8 @@
 					"103",
 					"50",
 					"671",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -83703,7 +83846,8 @@
 					"103",
 					"50",
 					"671",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -83723,7 +83867,8 @@
 				"road": "Jln Kayu",
 				"services": [
 					"103",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -83743,7 +83888,8 @@
 				"road": "Jln Kayu",
 				"services": [
 					"103",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -83765,7 +83911,8 @@
 					"102",
 					"103",
 					"85",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -83788,7 +83935,8 @@
 					"103",
 					"85",
 					"85A",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -83811,7 +83959,8 @@
 					"103",
 					"85",
 					"85A",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -83833,7 +83982,8 @@
 					"102",
 					"103",
 					"85",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -83856,7 +84006,8 @@
 					"103",
 					"85",
 					"85A",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -84054,7 +84205,8 @@
 					"39",
 					"858",
 					"858B",
-					"86"
+					"86",
+					"86B"
 				]
 			},
 			"geometry": {
@@ -84082,7 +84234,8 @@
 					"39A",
 					"858",
 					"858B",
-					"86"
+					"86",
+					"86A"
 				]
 			},
 			"geometry": {
@@ -97232,7 +97385,7 @@
 			"id": "82051",
 			"properties": {
 				"number": "82051",
-				"name": "Tg Katong Rd Sth P/G",
+				"name": "Aft Tg Katong Stn Exit 2",
 				"road": "Tg Katong Rd Sth",
 				"services": [
 					"36",
@@ -97253,7 +97406,7 @@
 			"id": "82059",
 			"properties": {
 				"number": "82059",
-				"name": "Opp Tg Katong Rd Sth P/G",
+				"name": "Bef Tg Katong Stn Exit 3",
 				"road": "Tg Katong Rd Sth",
 				"services": [
 					"36",
@@ -103025,7 +103178,7 @@
 			"id": "91081",
 			"properties": {
 				"number": "91081",
-				"name": "Fort Gdns",
+				"name": "Aft Katong Pk Stn Exit 2",
 				"road": "Fort Rd",
 				"services": [
 					"158",
@@ -103047,7 +103200,7 @@
 			"id": "91089",
 			"properties": {
 				"number": "91089",
-				"name": "Opp Fort Gdns",
+				"name": "Opp Katong Pk Stn",
 				"road": "Fort Rd",
 				"services": [
 					"158",
@@ -103161,7 +103314,7 @@
 			"id": "92041",
 			"properties": {
 				"number": "92041",
-				"name": "Opp Parkway Parade",
+				"name": "Marine Pde Stn Exit 2",
 				"road": "Marine Parade Rd",
 				"services": [
 					"134",
@@ -103194,7 +103347,7 @@
 			"id": "92049",
 			"properties": {
 				"number": "92049",
-				"name": "Parkway Parade",
+				"name": "Marine Pde Stn/Parkway Pde",
 				"road": "Marine Parade Rd",
 				"services": [
 					"134",
@@ -103231,7 +103384,7 @@
 			"id": "92051",
 			"properties": {
 				"number": "92051",
-				"name": "Opp Blk 72",
+				"name": "Marine Pde Stn Exit 4",
 				"road": "Marine Parade Rd",
 				"services": [
 					"134",
@@ -103265,7 +103418,7 @@
 			"id": "92059",
 			"properties": {
 				"number": "92059",
-				"name": "Bet Blks 72/74",
+				"name": "Marine Pde Stn Exit 6",
 				"road": "Marine Parade Rd",
 				"services": [
 					"134",
@@ -103374,7 +103527,7 @@
 			"id": "92071",
 			"properties": {
 				"number": "92071",
-				"name": "Opp Blk 57",
+				"name": "Marine Terr Stn Exit 4",
 				"road": "Marine Parade Rd",
 				"services": [
 					"13",
@@ -103406,7 +103559,7 @@
 			"id": "92079",
 			"properties": {
 				"number": "92079",
-				"name": "Blk 57",
+				"name": "Marine Terr Stn Exit 1",
 				"road": "Marine Parade Rd",
 				"services": [
 					"134",
@@ -103468,7 +103621,7 @@
 			"id": "92089",
 			"properties": {
 				"number": "92089",
-				"name": "CHIJ Katong Convent",
+				"name": "Marine Terr Stn/Katong Convent",
 				"road": "Marine Parade Rd",
 				"services": [
 					"13",
@@ -104569,7 +104722,7 @@
 			"id": "93031",
 			"properties": {
 				"number": "93031",
-				"name": "Opp Victoria Sch",
+				"name": "Siglap Stn/Opp Victoria Sch",
 				"road": "Marine Parade Rd",
 				"services": [
 					"155",
@@ -104597,7 +104750,7 @@
 			"id": "93039",
 			"properties": {
 				"number": "93039",
-				"name": "Laguna Pk",
+				"name": "Siglap Stn/Laguna Park",
 				"road": "Marine Parade Rd",
 				"services": [
 					"155",

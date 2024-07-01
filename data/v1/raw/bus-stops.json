@@ -38853,6 +38853,24 @@
 		}
 	},
 	{
+		"name": "65101",
+		"wab": "true",
+		"details": "Opposite My First Skool PCC10",
+		"coordinates": {
+			"lat": 1.407889,
+			"long": 103.908735
+		}
+	},
+	{
+		"name": "65109",
+		"wab": "true",
+		"details": "My First Skool PCC10",
+		"coordinates": {
+			"lat": 1.407697,
+			"long": 103.908819
+		}
+	},
+	{
 		"name": "65141",
 		"wab": "true",
 		"details": "Aft Soo Teck Stn",
@@ -39681,6 +39699,24 @@
 		}
 	},
 	{
+		"name": "65701",
+		"wab": "true",
+		"details": "Opposite SIT Punggol",
+		"coordinates": {
+			"lat": 1.411694,
+			"long": 103.911075
+		}
+	},
+	{
+		"name": "65709",
+		"wab": "true",
+		"details": "Before SIT Punggol",
+		"coordinates": {
+			"lat": 1.411316,
+			"long": 103.910496
+		}
+	},
+	{
 		"name": "65711",
 		"wab": "true",
 		"details": "Blk 446B",
@@ -39696,6 +39732,24 @@
 		"coordinates": {
 			"lat": 1.416997,
 			"long": 103.912031
+		}
+	},
+	{
+		"name": "65721",
+		"wab": "true",
+		"details": "Opposite Punggol Coast Station",
+		"coordinates": {
+			"lat": 1.414944,
+			"long": 103.911686
+		}
+	},
+	{
+		"name": "65729",
+		"wab": "true",
+		"details": "Punggol Coast Station",
+		"coordinates": {
+			"lat": 1.414675,
+			"long": 103.911277
 		}
 	},
 	{
@@ -47108,7 +47162,7 @@
 	{
 		"name": "82051",
 		"wab": "true",
-		"details": "Tg Katong Rd Sth P/G",
+		"details": "Aft Tg Katong Stn Exit 2",
 		"coordinates": {
 			"lat": 1.30079999936599,
 			"long": 103.89740107761654
@@ -47117,7 +47171,7 @@
 	{
 		"name": "82059",
 		"wab": "true",
-		"details": "Opp Tg Katong Rd Sth P/G",
+		"details": "Bef Tg Katong Stn Exit 3",
 		"coordinates": {
 			"lat": 1.301379,
 			"long": 103.897403
@@ -49349,7 +49403,7 @@
 	{
 		"name": "91081",
 		"wab": "true",
-		"details": "Fort Gdns",
+		"details": "Aft Katong Pk Stn Exit 2",
 		"coordinates": {
 			"lat": 1.29930499999248,
 			"long": 103.88533388902762
@@ -49358,7 +49412,7 @@
 	{
 		"name": "91089",
 		"wab": "true",
-		"details": "Opp Fort Gdns",
+		"details": "Opp Katong Pk Stn",
 		"coordinates": {
 			"lat": 1.29913832558004,
 			"long": 103.88553021350832
@@ -49403,7 +49457,7 @@
 	{
 		"name": "92041",
 		"wab": "true",
-		"details": "Opp Parkway Parade",
+		"details": "Marine Pde Stn Exit 2",
 		"coordinates": {
 			"lat": 1.30266269062521,
 			"long": 103.90495998583631
@@ -49412,7 +49466,7 @@
 	{
 		"name": "92049",
 		"wab": "true",
-		"details": "Parkway Parade",
+		"details": "Marine Pde Stn/Parkway Pde",
 		"coordinates": {
 			"lat": 1.302999,
 			"long": 103.905955
@@ -49421,7 +49475,7 @@
 	{
 		"name": "92051",
 		"wab": "true",
-		"details": "Opp Blk 72",
+		"details": "Marine Pde Stn Exit 4",
 		"coordinates": {
 			"lat": 1.30461834682389,
 			"long": 103.90783296450577
@@ -49430,7 +49484,7 @@
 	{
 		"name": "92059",
 		"wab": "true",
-		"details": "Bet Blks 72/74",
+		"details": "Marine Pde Stn Exit 6",
 		"coordinates": {
 			"lat": 1.304086,
 			"long": 103.907533
@@ -49457,7 +49511,7 @@
 	{
 		"name": "92071",
 		"wab": "true",
-		"details": "Opp Blk 57",
+		"details": "Marine Terr Stn Exit 4",
 		"coordinates": {
 			"lat": 1.306815,
 			"long": 103.914746
@@ -49466,7 +49520,7 @@
 	{
 		"name": "92079",
 		"wab": "true",
-		"details": "Blk 57",
+		"details": "Marine Terr Stn Exit 1",
 		"coordinates": {
 			"lat": 1.30684575808096,
 			"long": 103.91574700260743
@@ -49484,7 +49538,7 @@
 	{
 		"name": "92089",
 		"wab": "true",
-		"details": "CHIJ Katong Convent",
+		"details": "Marine Terr Stn/Katong Convent",
 		"coordinates": {
 			"lat": 1.3071917122941,
 			"long": 103.91764721757994
@@ -49880,7 +49934,7 @@
 	{
 		"name": "93031",
 		"wab": "true",
-		"details": "Opp Victoria Sch",
+		"details": "Siglap Stn/Opp Victoria Sch",
 		"coordinates": {
 			"lat": 1.30983637164414,
 			"long": 103.92937539318251
@@ -49889,7 +49943,7 @@
 	{
 		"name": "93039",
 		"wab": "true",
-		"details": "Laguna Pk",
+		"details": "Siglap Stn/Laguna Park",
 		"coordinates": {
 			"lat": 1.30958474832555,
 			"long": 103.92954154203639

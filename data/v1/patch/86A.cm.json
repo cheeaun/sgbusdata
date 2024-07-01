@@ -1,0 +1,599 @@
+{
+	"feeds": [],
+	"routes": [
+		{
+			"aliases": [
+				"sbs-transit-86a"
+			],
+			"brand": "SBSTBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "SBSTBuses86A",
+			"long_name": "Aft Seletar Camp G - Yio Chu Kang Stn",
+			"mode": "bus",
+			"name": "86A",
+			"patterns": [
+				{
+					"id": "86A_0",
+					"name": "towards Yio Chu Kang Stn",
+					"path": [
+						[
+							1.402186,
+							103.872168
+						],
+						[
+							1.399786,
+							103.872435
+						],
+						[
+							1.398517,
+							103.87296
+						],
+						[
+							1.39653,
+							103.873114
+						],
+						[
+							1.393122,
+							103.87265
+						],
+						[
+							1.391067,
+							103.870606
+						],
+						[
+							1.390294,
+							103.86916
+						],
+						[
+							1.38831,
+							103.868008
+						],
+						[
+							1.389067,
+							103.865177
+						],
+						[
+							1.389764,
+							103.862538
+						],
+						[
+							1.390494,
+							103.859933
+						],
+						[
+							1.391294,
+							103.856304
+						],
+						[
+							1.391952,
+							103.853366
+						],
+						[
+							1.392082,
+							103.849095
+						],
+						[
+							1.391105,
+							103.846593
+						],
+						[
+							1.389157,
+							103.843831
+						],
+						[
+							1.385992,
+							103.843169
+						],
+						[
+							1.382956,
+							103.844225
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_AftSeletarCampG_SW",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_AftTpe_S",
+							"path_index": 1
+						},
+						{
+							"id": "SingaporeStop_OppJlnTariLilin_S",
+							"path_index": 2
+						},
+						{
+							"id": "SingaporeStop_AftAbundantGraceCh_S",
+							"path_index": 3
+						},
+						{
+							"id": "SingaporeStop_AftSeletarWestFway2_SW",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_AftJlnKayu_SW",
+							"path_index": 5
+						},
+						{
+							"id": "SingaporeStop_BefFernvaleLane_S",
+							"path_index": 6
+						},
+						{
+							"id": "SingaporeStop_AftJlnKayu_W",
+							"path_index": 7
+						},
+						{
+							"id": "SingaporeStop_AftDedapRd_W",
+							"path_index": 8
+						},
+						{
+							"id": "SingaporeStop_OppTasReceivingStn_W",
+							"path_index": 9
+						},
+						{
+							"id": "SingaporeStop_SerenityPk_W",
+							"path_index": 10
+						},
+						{
+							"id": "SingaporeStop_AftSunriseGdns_W",
+							"path_index": 11
+						},
+						{
+							"id": "SingaporeStop_AftKlcSchOfEdn_W",
+							"path_index": 12
+						},
+						{
+							"id": "SingaporeStop_StElectronics_W",
+							"path_index": 13
+						},
+						{
+							"id": "SingaporeStop_Motorola_SW",
+							"path_index": 14
+						},
+						{
+							"id": "SingaporeStop_NcsHub_SW",
+							"path_index": 15
+						},
+						{
+							"id": "SingaporeStop_OppCastleGreen_S",
+							"path_index": 16
+						},
+						{
+							"id": "SingaporeStop_YioChuKangStn_SE",
+							"path_index": 17
+						}
+					]
+				}
+			],
+			"status": {
+				"level": 0,
+				"summary": "Good Service"
+			},
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
+			"ui_color": "#5BC824",
+			"url": "https://citymapper.com/singapore/l/sbs-transit-86a"
+		}
+	],
+	"status": 0,
+	"stops": {
+		"SingaporeStop_AftAbundantGraceCh_S": {
+			"bearing": "S",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.39653,
+				103.873114
+			],
+			"live_code": "SingaporeStop_AftAbundantGraceCh_S",
+			"name": "Aft Abundant Grace Ch",
+			"routes": [
+				"SBSTBuses102",
+				"SBSTBuses103",
+				"GASBuses85",
+				"GASBuses85A",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "68039"
+		},
+		"SingaporeStop_AftDedapRd_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.389067,
+				103.865177
+			],
+			"live_code": "SingaporeStop_AftDedapRd_W",
+			"name": "Aft Dedap Rd",
+			"routes": [
+				"SBSTBuses163",
+				"SBSTBuses163B",
+				"SBSTBuses70",
+				"SBSTBuses70M",
+				"TTSBuses854",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "67029"
+		},
+		"SingaporeStop_AftJlnKayu_SW": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.391067,
+				103.870606
+			],
+			"live_code": "SingaporeStop_AftJlnKayu_SW",
+			"name": "Aft Jln Kayu",
+			"routes": [
+				"SBSTBuses102",
+				"SBSTBuses102A",
+				"SBSTBuses103",
+				"SBSTBuses50",
+				"SBSTBuses671",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "68019"
+		},
+		"SingaporeStop_AftJlnKayu_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.38831,
+				103.868008
+			],
+			"live_code": "SingaporeStop_AftJlnKayu_W",
+			"name": "Aft Seletar Rd",
+			"routes": [
+				"SBSTBuses163",
+				"SBSTBuses163B",
+				"SBSTBuses70",
+				"SBSTBuses70M",
+				"TTSBuses854",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "67039"
+		},
+		"SingaporeStop_AftKlcSchOfEdn_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.391952,
+				103.853366
+			],
+			"live_code": "SingaporeStop_AftKlcSchOfEdn_W",
+			"name": "Aft Econ Medicare Ctr",
+			"routes": [
+				"SBSTBuses163",
+				"SBSTBuses163B",
+				"SBSTBuses70",
+				"SBSTBuses70M",
+				"TTSBuses854",
+				"TTSBuses857",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "55079"
+		},
+		"SingaporeStop_AftSeletarCampG_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.402186,
+				103.872168
+			],
+			"live_code": "SingaporeStop_AftSeletarCampG_SW",
+			"name": "Aft Seletar Camp G",
+			"routes": [
+				"SBSTBuses102",
+				"SBSTBuses103",
+				"SBSTBuses117",
+				"SBSTBuses117M",
+				"SBSTBuses168",
+				"SBSTBuses39",
+				"SBSTBuses39A",
+				"TTSBuses858",
+				"TTSBuses858B",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "68119"
+		},
+		"SingaporeStop_AftSeletarWestFway2_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.393122,
+				103.87265
+			],
+			"live_code": "SingaporeStop_AftSeletarWestFway2_SW",
+			"name": "Blk 448a",
+			"routes": [
+				"SBSTBuses103",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "68029"
+		},
+		"SingaporeStop_AftSunriseGdns_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.391294,
+				103.856304
+			],
+			"live_code": "SingaporeStop_AftSunriseGdns_W",
+			"name": "Aft Sunrise Gdns",
+			"routes": [
+				"SBSTBuses163",
+				"SBSTBuses163B",
+				"SBSTBuses70",
+				"SBSTBuses70M",
+				"TTSBuses854",
+				"TTSBuses857",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "55089"
+		},
+		"SingaporeStop_AftTpe_S": {
+			"bearing": "SE",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.399786,
+				103.872435
+			],
+			"live_code": "SingaporeStop_AftTpe_S",
+			"name": "Aft Tpe",
+			"routes": [
+				"SBSTBuses102",
+				"SBSTBuses103",
+				"GASBuses85",
+				"GASBuses85A",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "68059"
+		},
+		"SingaporeStop_BefFernvaleLane_S": {
+			"bearing": "S",
+			"brands": [
+				"SBSTBuses"
+			],
+			"coords": [
+				1.390294,
+				103.86916
+			],
+			"live_code": "SingaporeStop_BefFernvaleLane_S",
+			"name": "Bef Fernvale Lane",
+			"routes": [
+				"SBSTBuses103",
+				"SBSTBuses50",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "67089"
+		},
+		"SingaporeStop_Motorola_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.391105,
+				103.846593
+			],
+			"live_code": "SingaporeStop_Motorola_SW",
+			"name": "Bef Amk St 64/Apple Sg",
+			"routes": [
+				"SBSTBuses163",
+				"SBSTBuses163B",
+				"SBSTBuses70",
+				"SBSTBuses70M",
+				"TTSBuses854",
+				"TTSBuses857",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "55049"
+		},
+		"SingaporeStop_NcsHub_SW": {
+			"bearing": "SW",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.389157,
+				103.843831
+			],
+			"live_code": "SingaporeStop_NcsHub_SW",
+			"name": "Ncs Hub",
+			"routes": [
+				"SBSTBuses163",
+				"SBSTBuses163B",
+				"TTSBuses854",
+				"TTSBuses857",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "55039"
+		},
+		"SingaporeStop_OppCastleGreen_S": {
+			"bearing": "S",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.385992,
+				103.843169
+			],
+			"live_code": "SingaporeStop_OppCastleGreen_S",
+			"name": "Opp Castle Green",
+			"routes": [
+				"SBSTBuses668",
+				"SBSTBuses71",
+				"TTSBuses825",
+				"SBSTBuses851",
+				"SBSTBuses852",
+				"TTSBuses853",
+				"TTSBuses853M",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "55179"
+		},
+		"SingaporeStop_OppJlnTariLilin_S": {
+			"bearing": "S",
+			"brands": [
+				"GASBuses",
+				"SBSTBuses"
+			],
+			"coords": [
+				1.398517,
+				103.87296
+			],
+			"live_code": "SingaporeStop_OppJlnTariLilin_S",
+			"name": "Opp Jln Tari Lilin",
+			"routes": [
+				"SBSTBuses102",
+				"SBSTBuses103",
+				"GASBuses85",
+				"GASBuses85A",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "68049"
+		},
+		"SingaporeStop_OppTasReceivingStn_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.389764,
+				103.862538
+			],
+			"live_code": "SingaporeStop_OppTasReceivingStn_W",
+			"name": "Aft Begonia Rd",
+			"routes": [
+				"SBSTBuses163",
+				"SBSTBuses163B",
+				"SBSTBuses70",
+				"SBSTBuses70M",
+				"TTSBuses854",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "67019"
+		},
+		"SingaporeStop_SerenityPk_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.390494,
+				103.859933
+			],
+			"live_code": "SingaporeStop_SerenityPk_W",
+			"name": "Serenity Pk",
+			"routes": [
+				"SBSTBuses163",
+				"SBSTBuses163B",
+				"SBSTBuses70",
+				"SBSTBuses70M",
+				"TTSBuses854",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "55109"
+		},
+		"SingaporeStop_StElectronics_W": {
+			"bearing": "W",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.392082,
+				103.849095
+			],
+			"live_code": "SingaporeStop_StElectronics_W",
+			"name": "St Electronics",
+			"routes": [
+				"SBSTBuses163",
+				"SBSTBuses163B",
+				"SBSTBuses70",
+				"SBSTBuses70M",
+				"TTSBuses854",
+				"TTSBuses857",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "55059"
+		},
+		"SingaporeStop_YioChuKangStn_SE": {
+			"bearing": "S",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.382956,
+				103.844225
+			],
+			"live_code": "SingaporeStop_YioChuKangStn_SE",
+			"name": "Yio Chu Kang Stn",
+			"routes": [
+				"SBSTBuses45",
+				"SBSTBuses668",
+				"SBSTBuses70",
+				"SBSTBuses70M",
+				"SBSTBuses71",
+				"SBSTBuses76",
+				"TTSBuses825",
+				"SBSTBuses851",
+				"SBSTBuses851E",
+				"SBSTBuses852",
+				"TTSBuses853",
+				"TTSBuses853M",
+				"SBSTBuses86",
+				"SBSTBuses86A"
+			],
+			"stop_code": "55189"
+		}
+	}
+}

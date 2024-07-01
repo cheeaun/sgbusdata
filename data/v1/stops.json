@@ -20357,6 +20357,18 @@
 		"Blk 604A",
 		"Punggol Rd"
 	],
+	"65101": [
+		103.90874,
+		1.40789,
+		"Opposite My First Skool PCC10",
+		"New Punggol Road"
+	],
+	"65109": [
+		103.90882,
+		1.4077,
+		"My First Skool PCC10",
+		"New Punggol Road"
+	],
 	"65141": [
 		103.89716,
 		1.40455,
@@ -20909,6 +20921,18 @@
 		"Blk 437B",
 		"New Punggol Road"
 	],
+	"65701": [
+		103.91108,
+		1.41169,
+		"Opposite SIT Punggol",
+		"New Punggol Road"
+	],
+	"65709": [
+		103.9105,
+		1.41132,
+		"Before SIT Punggol",
+		"New Punggol Road"
+	],
 	"65711": [
 		103.91168,
 		1.4171,
@@ -20919,6 +20943,18 @@
 		103.91203,
 		1.417,
 		"Blk 432B",
+		"New Punggol Road"
+	],
+	"65721": [
+		103.91169,
+		1.41494,
+		"Opposite Punggol Coast Station",
+		"New Punggol Road"
+	],
+	"65729": [
+		103.91128,
+		1.41468,
+		"Punggol Coast Station",
 		"New Punggol Road"
 	],
 	"65801": [
@@ -25862,13 +25898,13 @@
 	"82051": [
 		103.8974,
 		1.3008,
-		"Tg Katong Rd Sth P/G",
+		"Aft Tg Katong Stn Exit 2",
 		"Tg Katong Rd Sth"
 	],
 	"82059": [
 		103.8974,
 		1.30138,
-		"Opp Tg Katong Rd Sth P/G",
+		"Bef Tg Katong Stn Exit 3",
 		"Tg Katong Rd Sth"
 	],
 	"82061": [
@@ -27356,13 +27392,13 @@
 	"91081": [
 		103.88533,
 		1.2993,
-		"Fort Gdns",
+		"Aft Katong Pk Stn Exit 2",
 		"Fort Rd"
 	],
 	"91089": [
 		103.88553,
 		1.29914,
-		"Opp Fort Gdns",
+		"Opp Katong Pk Stn",
 		"Fort Rd"
 	],
 	"91091": [
@@ -27392,25 +27428,25 @@
 	"92041": [
 		103.90496,
 		1.30266,
-		"Opp Parkway Parade",
+		"Marine Pde Stn Exit 2",
 		"Marine Parade Rd"
 	],
 	"92049": [
 		103.90596,
 		1.303,
-		"Parkway Parade",
+		"Marine Pde Stn/Parkway Pde",
 		"Marine Parade Rd"
 	],
 	"92051": [
 		103.90783,
 		1.30462,
-		"Opp Blk 72",
+		"Marine Pde Stn Exit 4",
 		"Marine Parade Rd"
 	],
 	"92059": [
 		103.90753,
 		1.30409,
-		"Bet Blks 72/74",
+		"Marine Pde Stn Exit 6",
 		"Marine Parade Rd"
 	],
 	"92061": [
@@ -27428,13 +27464,13 @@
 	"92071": [
 		103.91475,
 		1.30682,
-		"Opp Blk 57",
+		"Marine Terr Stn Exit 4",
 		"Marine Parade Rd"
 	],
 	"92079": [
 		103.91575,
 		1.30685,
-		"Blk 57",
+		"Marine Terr Stn Exit 1",
 		"Marine Parade Rd"
 	],
 	"92081": [
@@ -27446,7 +27482,7 @@
 	"92089": [
 		103.91765,
 		1.30719,
-		"CHIJ Katong Convent",
+		"Marine Terr Stn/Katong Convent",
 		"Marine Parade Rd"
 	],
 	"92091": [
@@ -27710,13 +27746,13 @@
 	"93031": [
 		103.92938,
 		1.30984,
-		"Opp Victoria Sch",
+		"Siglap Stn/Opp Victoria Sch",
 		"Marine Parade Rd"
 	],
 	"93039": [
 		103.92954,
 		1.30958,
-		"Laguna Pk",
+		"Siglap Stn/Laguna Park",
 		"Marine Parade Rd"
 	],
 	"93041": [

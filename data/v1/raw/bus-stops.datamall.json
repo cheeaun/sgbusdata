@@ -25375,6 +25375,20 @@
 		"Longitude": 103.90711426733175
 	},
 	{
+		"BusStopCode": "65101",
+		"RoadName": "New Punggol Road",
+		"Description": "Opposite My First Skool PCC10",
+		"Latitude": 1.407889,
+		"Longitude": 103.908735
+	},
+	{
+		"BusStopCode": "65109",
+		"RoadName": "New Punggol Road",
+		"Description": "My First Skool PCC10",
+		"Latitude": 1.407697,
+		"Longitude": 103.908819
+	},
+	{
 		"BusStopCode": "65141",
 		"RoadName": "Punggol Way",
 		"Description": "Aft Soo Teck Stn",
@@ -26019,6 +26033,20 @@
 		"Longitude": 103.912031
 	},
 	{
+		"BusStopCode": "65701",
+		"RoadName": "New Punggol Road",
+		"Description": "Opposite SIT Punggol",
+		"Latitude": 1.411694,
+		"Longitude": 103.911075
+	},
+	{
+		"BusStopCode": "65709",
+		"RoadName": "New Punggol Road",
+		"Description": "Before SIT Punggol",
+		"Latitude": 1.411316,
+		"Longitude": 103.910496
+	},
+	{
 		"BusStopCode": "65711",
 		"RoadName": "New Punggol Road",
 		"Description": "Blk 446B",
@@ -26031,6 +26059,20 @@
 		"Description": "Blk 432B",
 		"Latitude": 1.416997,
 		"Longitude": 103.912031
+	},
+	{
+		"BusStopCode": "65721",
+		"RoadName": "New Punggol Road",
+		"Description": "Opposite Punggol Coast Station",
+		"Latitude": 1.414944,
+		"Longitude": 103.911686
+	},
+	{
+		"BusStopCode": "65729",
+		"RoadName": "New Punggol Road",
+		"Description": "Punggol Coast Station",
+		"Latitude": 1.414675,
+		"Longitude": 103.911277
 	},
 	{
 		"BusStopCode": "65801",
@@ -31796,14 +31838,14 @@
 	{
 		"BusStopCode": "82051",
 		"RoadName": "Tg Katong Rd Sth",
-		"Description": "Tg Katong Rd Sth P/G",
+		"Description": "Aft Tg Katong Stn Exit 2",
 		"Latitude": 1.30079999936599,
 		"Longitude": 103.89740107761654
 	},
 	{
 		"BusStopCode": "82059",
 		"RoadName": "Tg Katong Rd Sth",
-		"Description": "Opp Tg Katong Rd Sth P/G",
+		"Description": "Bef Tg Katong Stn Exit 3",
 		"Latitude": 1.301379,
 		"Longitude": 103.897403
 	},
@@ -33539,14 +33581,14 @@
 	{
 		"BusStopCode": "91081",
 		"RoadName": "Fort Rd",
-		"Description": "Fort Gdns",
+		"Description": "Aft Katong Pk Stn Exit 2",
 		"Latitude": 1.29930499999248,
 		"Longitude": 103.88533388902762
 	},
 	{
 		"BusStopCode": "91089",
 		"RoadName": "Fort Rd",
-		"Description": "Opp Fort Gdns",
+		"Description": "Opp Katong Pk Stn",
 		"Latitude": 1.29913832558004,
 		"Longitude": 103.88553021350832
 	},
@@ -33581,28 +33623,28 @@
 	{
 		"BusStopCode": "92041",
 		"RoadName": "Marine Parade Rd",
-		"Description": "Opp Parkway Parade",
+		"Description": "Marine Pde Stn Exit 2",
 		"Latitude": 1.30327282994495,
 		"Longitude": 103.90583013375219
 	},
 	{
 		"BusStopCode": "92049",
 		"RoadName": "Marine Parade Rd",
-		"Description": "Parkway Parade",
+		"Description": "Marine Pde Stn/Parkway Pde",
 		"Latitude": 1.302999,
 		"Longitude": 103.905955
 	},
 	{
 		"BusStopCode": "92051",
 		"RoadName": "Marine Parade Rd",
-		"Description": "Opp Blk 72",
+		"Description": "Marine Pde Stn Exit 4",
 		"Latitude": 1.30461834682389,
 		"Longitude": 103.90783296450577
 	},
 	{
 		"BusStopCode": "92059",
 		"RoadName": "Marine Parade Rd",
-		"Description": "Bet Blks 72/74",
+		"Description": "Marine Pde Stn Exit 6",
 		"Latitude": 1.304086,
 		"Longitude": 103.907533
 	},
@@ -33623,14 +33665,14 @@
 	{
 		"BusStopCode": "92071",
 		"RoadName": "Marine Parade Rd",
-		"Description": "Opp Blk 57",
+		"Description": "Marine Terr Stn Exit 4",
 		"Latitude": 1.306815,
 		"Longitude": 103.914746
 	},
 	{
 		"BusStopCode": "92079",
 		"RoadName": "Marine Parade Rd",
-		"Description": "Blk 57",
+		"Description": "Marine Terr Stn Exit 1",
 		"Latitude": 1.30684575808096,
 		"Longitude": 103.91574700260743
 	},
@@ -33644,7 +33686,7 @@
 	{
 		"BusStopCode": "92089",
 		"RoadName": "Marine Parade Rd",
-		"Description": "CHIJ Katong Convent",
+		"Description": "Marine Terr Stn/Katong Convent",
 		"Latitude": 1.3071917122941,
 		"Longitude": 103.91764721757994
 	},
@@ -33952,14 +33994,14 @@
 	{
 		"BusStopCode": "93031",
 		"RoadName": "Marine Parade Rd",
-		"Description": "Opp Victoria Sch",
+		"Description": "Siglap Stn/Opp Victoria Sch",
 		"Latitude": 1.30983637164414,
 		"Longitude": 103.92937539318251
 	},
 	{
 		"BusStopCode": "93039",
 		"RoadName": "Marine Parade Rd",
-		"Description": "Laguna Pk",
+		"Description": "Siglap Stn/Laguna Park",
 		"Latitude": 1.30958474832555,
 		"Longitude": 103.92954154203639
 	},
