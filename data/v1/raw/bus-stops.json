@@ -468,15 +468,6 @@
 		}
 	},
 	{
-		"name": "-P183",
-		"wab": "true",
-		"details": "Opp Queensway Shop Ctr",
-		"coordinates": {
-			"lat": 1.286657422,
-			"long": 103.8033413
-		}
-	},
-	{
 		"name": "-P184",
 		"wab": "true",
 		"details": "Pandan Valley Condo",
@@ -837,69 +828,6 @@
 		}
 	},
 	{
-		"name": "-P429",
-		"wab": "true",
-		"details": "Bef Al-Muttaqin Mque",
-		"coordinates": {
-			"lat": 1.370917861,
-			"long": 103.8456365
-		}
-	},
-	{
-		"name": "-P431",
-		"wab": "true",
-		"details": "Courts Ang Mo Kio",
-		"coordinates": {
-			"lat": 1.373504722,
-			"long": 103.8453257
-		}
-	},
-	{
-		"name": "-P433",
-		"wab": "true",
-		"details": "Bef Ang Mo Kio Lib",
-		"coordinates": {
-			"lat": 1.376284989,
-			"long": 103.844983
-		}
-	},
-	{
-		"name": "-P443",
-		"wab": "true",
-		"details": "Blk 700B",
-		"coordinates": {
-			"lat": 1.36913518643274,
-			"long": 103.84618005827467
-		}
-	},
-	{
-		"name": "-P448",
-		"wab": "true",
-		"details": "Blk 586",
-		"coordinates": {
-			"lat": 1.369963268,
-			"long": 103.8535666
-		}
-	},
-	{
-		"name": "-P450",
-		"wab": "true",
-		"details": "Blk 570",
-		"coordinates": {
-			"lat": 1.369490257,
-			"long": 103.8560128
-		}
-	},
-	{
-		"name": "-P452",
-		"wab": "true",
-		"details": "Blk 564",
-		"coordinates": {
-			"lat": 1.369188614,
-			"long": 103.8588615
-		}
-	},
-	{
 		"name": "-P454",
 		"wab": "true",
 		"details": "Blk 5022",
@@ -915,33 +843,6 @@
 		"coordinates": {
 			"lat": 1.369888353,
 			"long": 103.863066
-		}
-	},
-	{
-		"name": "-P487",
-		"wab": "true",
-		"details": "Opp Castle Green",
-		"coordinates": {
-			"lat": 1.385991667,
-			"long": 103.8431694
-		}
-	},
-	{
-		"name": "-P489",
-		"wab": "true",
-		"details": "Yio Chu Kang Stn",
-		"coordinates": {
-			"lat": 1.382955556,
-			"long": 103.844225
-		}
-	},
-	{
-		"name": "-P492",
-		"wab": "true",
-		"details": "Opp Blk 646",
-		"coordinates": {
-			"lat": 1.378631667,
-			"long": 103.8446844
 		}
 	},
 	{
@@ -1158,42 +1059,6 @@
 		"coordinates": {
 			"lat": 1.434360863,
 			"long": 103.8394374
-		}
-	},
-	{
-		"name": "-P552",
-		"wab": "true",
-		"details": "Blk 314",
-		"coordinates": {
-			"lat": 1.431811316,
-			"long": 103.8419602
-		}
-	},
-	{
-		"name": "-P553",
-		"wab": "true",
-		"details": "Blk 342B",
-		"coordinates": {
-			"lat": 1.430211074,
-			"long": 103.8452311
-		}
-	},
-	{
-		"name": "-P554",
-		"wab": "true",
-		"details": "Blk 358",
-		"coordinates": {
-			"lat": 1.427054567,
-			"long": 103.8461513
-		}
-	},
-	{
-		"name": "-P555",
-		"wab": "true",
-		"details": "Blk 356",
-		"coordinates": {
-			"lat": 1.425047694,
-			"long": 103.8455415
 		}
 	},
 	{
@@ -2889,21 +2754,21 @@
 		}
 	},
 	{
-		"name": "-P953",
-		"wab": "true",
-		"details": "Blk 236",
-		"coordinates": {
-			"lat": 1.43427221606836,
-			"long": 103.839229301594
-		}
-	},
-	{
 		"name": "-P966",
 		"wab": "true",
 		"details": "Bef Ang Mo Kio Stn Exit B",
 		"coordinates": {
 			"lat": 1.37137302300716,
 			"long": 103.848661116474
+		}
+	},
+	{
+		"name": "-P985",
+		"wab": "true",
+		"details": "Along the road outside Twenty Anson",
+		"coordinates": {
+			"lat": 1.2753,
+			"long": 103.84593
 		}
 	},
 	{
@@ -2931,51 +2796,6 @@
 		"coordinates": {
 			"lat": 1.43716783426775,
 			"long": 103.833797915238
-		}
-	},
-	{
-		"name": "-PA14",
-		"wab": "true",
-		"details": "Yishun Stn Exit E",
-		"coordinates": {
-			"lat": 1.42937983869534,
-			"long": 103.8354956961933
-		}
-	},
-	{
-		"name": "-PA16",
-		"wab": "true",
-		"details": "Opp Darul Makmur Mosque",
-		"coordinates": {
-			"lat": 1.43669132626087,
-			"long": 103.833683373523
-		}
-	},
-	{
-		"name": "-PA17",
-		"wab": "true",
-		"details": "Yishun Emerald",
-		"coordinates": {
-			"lat": 1.44003661278572,
-			"long": 103.831710808465
-		}
-	},
-	{
-		"name": "-PA18",
-		"wab": "true",
-		"details": "Blk 590C",
-		"coordinates": {
-			"lat": 1.44939346470142,
-			"long": 103.826855803718
-		}
-	},
-	{
-		"name": "-PA19",
-		"wab": "true",
-		"details": "Blk 592C",
-		"coordinates": {
-			"lat": 1.45087972197593,
-			"long": 103.828430832967
 		}
 	},
 	{
@@ -3417,15 +3237,6 @@
 		"coordinates": {
 			"lat": 1.30088304,
 			"long": 103.86066098
-		}
-	},
-	{
-		"name": "-PJ19",
-		"wab": "true",
-		"details": "Opp St. John HQ",
-		"coordinates": {
-			"lat": 1.30211333,
-			"long": 103.86295598
 		}
 	},
 	{
@@ -4554,6 +4365,15 @@
 		}
 	},
 	{
+		"name": "-Z213",
+		"wab": "true",
+		"details": "Outside The IBM Place",
+		"coordinates": {
+			"lat": 1.3358,
+			"long": 103.96429
+		}
+	},
+	{
 		"name": "-Z227",
 		"wab": "true",
 		"details": "Blk 306 CP",
@@ -4581,30 +4401,12 @@
 		}
 	},
 	{
-		"name": "-Z303",
-		"wab": "true",
-		"details": "Aft Ang Mo Kio Stn Exit A",
-		"coordinates": {
-			"lat": 1.36946941916508,
-			"long": 103.85075454495572
-		}
-	},
-	{
 		"name": "-Z311",
 		"wab": "true",
 		"details": "Pick-up/drop-off point outside Khatib MRT Station",
 		"coordinates": {
 			"lat": 1.4176943,
 			"long": 103.8332734
-		}
-	},
-	{
-		"name": "-Z323",
-		"wab": "true",
-		"details": "Opp Golden Mile Complex",
-		"coordinates": {
-			"lat": 1.30338444,
-			"long": 103.86483889
 		}
 	},
 	{
@@ -4749,87 +4551,6 @@
 		"coordinates": {
 			"lat": 1.42111543044621,
 			"long": 103.849019715601
-		}
-	},
-	{
-		"name": "-Z400",
-		"wab": "true",
-		"details": "Opp Blk 430B",
-		"coordinates": {
-			"lat": 1.42034812354505,
-			"long": 103.848651474256
-		}
-	},
-	{
-		"name": "-Z401",
-		"wab": "true",
-		"details": "The Shaughnessy",
-		"coordinates": {
-			"lat": 1.41755035688919,
-			"long": 103.846310999972
-		}
-	},
-	{
-		"name": "-Z402",
-		"wab": "true",
-		"details": "Orchid Country Club",
-		"coordinates": {
-			"lat": 1.41499035691552,
-			"long": 103.84433300003
-		}
-	},
-	{
-		"name": "-Z403",
-		"wab": "true",
-		"details": "Opp Blk 512A",
-		"coordinates": {
-			"lat": 1.41416011900146,
-			"long": 103.842146881042
-		}
-	},
-	{
-		"name": "-Z404",
-		"wab": "true",
-		"details": "Naval Base Primary School",
-		"coordinates": {
-			"lat": 1.41588388901051,
-			"long": 103.83948333301474
-		}
-	},
-	{
-		"name": "-Z405",
-		"wab": "true",
-		"details": "Blk 672C",
-		"coordinates": {
-			"lat": 1.41817682642167,
-			"long": 103.84279331124482
-		}
-	},
-	{
-		"name": "-Z406",
-		"wab": "true",
-		"details": "Opp Northbrooks Secondary School",
-		"coordinates": {
-			"lat": 1.42072559126348,
-			"long": 103.84373330710623
-		}
-	},
-	{
-		"name": "-Z407",
-		"wab": "true",
-		"details": "Opp Blk 445",
-		"coordinates": {
-			"lat": 1.42333778088573,
-			"long": 103.843973890455
-		}
-	},
-	{
-		"name": "-Z408",
-		"wab": "true",
-		"details": "Blk 227",
-		"coordinates": {
-			"lat": 1.43537970016985,
-			"long": 103.836807450078
 		}
 	},
 	{
@@ -5040,15 +4761,6 @@
 		}
 	},
 	{
-		"name": "-Z555",
-		"wab": "true",
-		"details": "Blk 461",
-		"coordinates": {
-			"lat": 1.35497444398167,
-			"long": 103.73939913984925
-		}
-	},
-	{
 		"name": "-Z561",
 		"wab": "true",
 		"details": "Buangkok Sports Pk",
@@ -5139,6 +4851,24 @@
 		}
 	},
 	{
+		"name": "-Z577",
+		"wab": "true",
+		"details": "Aft Yishun Ave 6",
+		"coordinates": {
+			"lat": 1.4232168633454,
+			"long": 103.85125812567784
+		}
+	},
+	{
+		"name": "-Z578",
+		"wab": "true",
+		"details": "Blk 469B",
+		"coordinates": {
+			"lat": 1.423939,
+			"long": 103.852066
+		}
+	},
+	{
 		"name": "-Z602",
 		"wab": "true",
 		"details": "Grande Vista Condomium",
@@ -5224,8 +4954,8 @@
 		"wab": "true",
 		"details": "Along the road outside Clifford Centre",
 		"coordinates": {
-			"lat": 1.28369,
-			"long": 103.852694
+			"lat": 1.2837403,
+			"long": 103.8527016
 		}
 	},
 	{
@@ -5325,15 +5055,6 @@
 		"coordinates": {
 			"lat": 1.3329524,
 			"long": 103.9660716
-		}
-	},
-	{
-		"name": "-Z650",
-		"wab": "true",
-		"details": "Outside Citibank (opposite Standard Chartered)",
-		"coordinates": {
-			"lat": 1.3342261,
-			"long": 103.9663908
 		}
 	},
 	{
@@ -5445,15 +5166,6 @@
 		}
 	},
 	{
-		"name": "-Z668",
-		"wab": "true",
-		"details": "Blk 460D",
-		"coordinates": {
-			"lat": 1.353303,
-			"long": 103.740304
-		}
-	},
-	{
 		"name": "-Z669",
 		"wab": "true",
 		"details": "Opp Blk 451A",
@@ -5514,15 +5226,6 @@
 		"coordinates": {
 			"lat": 1.27519166,
 			"long": 103.8430919
-		}
-	},
-	{
-		"name": "-Z676",
-		"wab": "true",
-		"details": "Along the road outside Twenty Anson",
-		"coordinates": {
-			"lat": 1.275124,
-			"long": 103.845408
 		}
 	},
 	{
@@ -6225,6 +5928,24 @@
 		"coordinates": {
 			"lat": 1.388806,
 			"long": 103.852418
+		}
+	},
+	{
+		"name": "-Z802",
+		"wab": "true",
+		"details": "Opp Blk 461C",
+		"coordinates": {
+			"lat": 1.35540218970451,
+			"long": 103.74090581028908
+		}
+	},
+	{
+		"name": "-Z803",
+		"wab": "true",
+		"details": "Blk 471A",
+		"coordinates": {
+			"lat": 1.425903,
+			"long": 103.853576
 		}
 	},
 	{
@@ -7607,7 +7328,7 @@
 	{
 		"name": "06031",
 		"wab": "true",
-		"details": "Opp Blk 13",
+		"details": "The Landmark Condo",
 		"coordinates": {
 			"lat": 1.28607055552165,
 			"long": 103.83879166662209
@@ -8669,7 +8390,7 @@
 	{
 		"name": "10219",
 		"wab": "true",
-		"details": "Opp Motor Image",
+		"details": "Skoda S'pore/Volkswagen Grp",
 		"coordinates": {
 			"lat": 1.290835,
 			"long": 103.81181
@@ -9335,7 +9056,7 @@
 	{
 		"name": "11101",
 		"wab": "true",
-		"details": "Farrer Rd Mkt",
+		"details": "Empress Rd Mkt/FC",
 		"coordinates": {
 			"lat": 1.31614971080385,
 			"long": 103.80596012189226
@@ -11234,7 +10955,7 @@
 	{
 		"name": "14389",
 		"wab": "true",
-		"details": "Opp Blk 109",
+		"details": "Aft Radin Mas Pr Sch",
 		"coordinates": {
 			"lat": 1.27428160509375,
 			"long": 103.82500895193466
@@ -13745,7 +13466,7 @@
 	{
 		"name": "20291",
 		"wab": "true",
-		"details": "Tanglin Sec Sch",
+		"details": "Opp Blk 501",
 		"coordinates": {
 			"lat": 1.31095062259154,
 			"long": 103.75771430804498
@@ -13754,7 +13475,7 @@
 	{
 		"name": "20299",
 		"wab": "true",
-		"details": "Opp Tanglin Sec Sch",
+		"details": "Blk 501",
 		"coordinates": {
 			"lat": 1.3109280417106,
 			"long": 103.75857544044081
@@ -18631,7 +18352,7 @@
 	},
 	{
 		"name": "26209",
-		"wab": "false",
+		"wab": "true",
 		"details": "MSD",
 		"coordinates": {
 			"lat": 1.32692000001177,
@@ -18730,7 +18451,7 @@
 	},
 	{
 		"name": "26299",
-		"wab": "false",
+		"wab": "true",
 		"details": "Bef Tuas Sth Ave 6",
 		"coordinates": {
 			"lat": 1.30510954355111,
@@ -18739,7 +18460,7 @@
 	},
 	{
 		"name": "26311",
-		"wab": "false",
+		"wab": "true",
 		"details": "Aft Tuas Sth Ave 6",
 		"coordinates": {
 			"lat": 1.30228826515768,
@@ -22194,6 +21915,15 @@
 		}
 	},
 	{
+		"name": "40389",
+		"wab": "true",
+		"details": "Blk 119",
+		"coordinates": {
+			"lat": 1.356473,
+			"long": 103.734424
+		}
+	},
+	{
 		"name": "40391",
 		"wab": "true",
 		"details": "Blk 231B",
@@ -22203,12 +21933,93 @@
 		}
 	},
 	{
+		"name": "40399",
+		"wab": "true",
+		"details": "Blk 123B",
+		"coordinates": {
+			"lat": 1.35984,
+			"long": 103.734244
+		}
+	},
+	{
+		"name": "40401",
+		"wab": "true",
+		"details": "Blk 224A",
+		"coordinates": {
+			"lat": 1.35726,
+			"long": 103.73121
+		}
+	},
+	{
 		"name": "40409",
 		"wab": "true",
 		"details": "Blk 132B",
 		"coordinates": {
 			"lat": 1.357394,
 			"long": 103.731808
+		}
+	},
+	{
+		"name": "40421",
+		"wab": "true",
+		"details": "Blk 220A",
+		"coordinates": {
+			"lat": 1.35938,
+			"long": 103.729694
+		}
+	},
+	{
+		"name": "40429",
+		"wab": "true",
+		"details": "Blk 242",
+		"coordinates": {
+			"lat": 1.3594,
+			"long": 103.7293
+		}
+	},
+	{
+		"name": "40431",
+		"wab": "true",
+		"details": "Blk 237A",
+		"coordinates": {
+			"lat": 1.36142,
+			"long": 103.73163
+		}
+	},
+	{
+		"name": "40439",
+		"wab": "true",
+		"details": "Opposite Blk 236A",
+		"coordinates": {
+			"lat": 1.3611,
+			"long": 103.731
+		}
+	},
+	{
+		"name": "40441",
+		"wab": "true",
+		"details": "Blk 238",
+		"coordinates": {
+			"lat": 1.36187,
+			"long": 103.73349
+		}
+	},
+	{
+		"name": "40449",
+		"wab": "true",
+		"details": "Blk 324B",
+		"coordinates": {
+			"lat": 1.3622,
+			"long": 103.7335
+		}
+	},
+	{
+		"name": "41009",
+		"wab": "true",
+		"details": "Tengah Int",
+		"coordinates": {
+			"lat": 1.3627,
+			"long": 103.735967
 		}
 	},
 	{
@@ -31788,6 +31599,15 @@
 		}
 	},
 	{
+		"name": "53439",
+		"wab": "true",
+		"details": "BLK 228",
+		"coordinates": {
+			"lat": 1.357625,
+			"long": 103.847213
+		}
+	},
+	{
 		"name": "53509",
 		"wab": "true",
 		"details": "LTA Sin Ming Office",
@@ -37397,7 +37217,7 @@
 	{
 		"name": "63209",
 		"wab": "true",
-		"details": "Toho Green",
+		"details": "Parkwood Residences",
 		"coordinates": {
 			"lat": 1.36605804817414,
 			"long": 103.87522122785421
@@ -41744,7 +41564,7 @@
 	{
 		"name": "67621",
 		"wab": "true",
-		"details": "Opp Blk 558",
+		"details": "Blk 278 CP",
 		"coordinates": {
 			"lat": 1.38095802621952,
 			"long": 103.89025132744938
@@ -50474,7 +50294,7 @@
 	{
 		"name": "95079",
 		"wab": "true",
-		"details": "Opp Changi Beach CP 4",
+		"details": "Opp Changi Beach CP 3",
 		"coordinates": {
 			"lat": 1.39019416668503,
 			"long": 103.99252027779501
@@ -52310,7 +52130,7 @@
 	{
 		"name": "99161",
 		"wab": "true",
-		"details": "Bef Changi Beach CP 3",
+		"details": "Aft Changi Beach CP 3",
 		"coordinates": {
 			"lat": 1.39026180023806,
 			"long": 103.99295664134459

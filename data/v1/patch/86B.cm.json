@@ -18,68 +18,240 @@
 					"name": "towards Bef Seletar Camp G",
 					"path": [
 						[
-							1.381433,
-							103.843892
+							1.38156,
+							103.84399
 						],
 						[
-							1.385783,
-							103.842906
+							1.383,
+							103.84389
 						],
 						[
-							1.389448,
-							103.843603
+							1.38366,
+							103.84381
 						],
 						[
-							1.391224,
-							103.846028
+							1.38418,
+							103.84365
+						],
+						[
+							1.38543,
+							103.84314
+						],
+						[
+							1.38582,
+							103.84299
+						],
+						[
+							1.3881,
+							103.84197
+						],
+						[
+							1.38919,
+							103.84341
+						],
+						[
+							1.38938,
+							103.84366
+						],
+						[
+							1.39083,
+							103.84563
+						],
+						[
+							1.39113,
+							103.84608
+						],
+						[
+							1.39168,
+							103.84708
+						],
+						[
+							1.39197,
+							103.84778
+						],
+						[
+							1.39221,
+							103.84852
+						],
+						[
+							1.39231,
+							103.848981
+						],
+						[
+							1.39241,
+							103.84946
+						],
+						[
+							1.39251,
+							103.85037
+						],
+						[
+							1.3925,
+							103.85179
 						],
 						[
 							1.3924,
-							103.848962
+							103.85252
 						],
 						[
-							1.392463,
-							103.852618
+							1.39238,
+							103.852601
 						],
 						[
-							1.391771,
-							103.855973
+							1.39176,
+							103.85569
 						],
 						[
-							1.39094,
-							103.859679
+							1.3917,
+							103.85596
 						],
 						[
-							1.390097,
-							103.862633
+							1.39087,
+							103.85948
 						],
 						[
-							1.389306,
-							103.865487
+							1.39083,
+							103.85965
 						],
 						[
-							1.389902,
-							103.868837
+							1.39052,
+							103.8608
 						],
 						[
-							1.391317,
-							103.870103
+							1.39001,
+							103.86261
 						],
 						[
-							1.393179,
-							103.872471
+							1.38953,
+							103.86428
+						],
+						[
+							1.38924,
+							103.86544
+						],
+						[
+							1.38923,
+							103.86547
+						],
+						[
+							1.38845,
+							103.86833
+						],
+						[
+							1.38856,
+							103.8686
+						],
+						[
+							1.38857,
+							103.86874
+						],
+						[
+							1.38865,
+							103.86883
+						],
+						[
+							1.38956,
+							103.86892
+						],
+						[
+							1.389891,
+							103.86896
+						],
+						[
+							1.39128,
+							103.86908
+						],
+						[
+							1.39136,
+							103.86906
+						],
+						[
+							1.39131,
+							103.86957
+						],
+						[
+							1.39126,
+							103.8701
+						],
+						[
+							1.39116,
+							103.87132
+						],
+						[
+							1.39276,
+							103.87237
+						],
+						[
+							1.39291,
+							103.87244
+						],
+						[
+							1.393164,
+							103.872541
+						],
+						[
+							1.39454,
+							103.87283
+						],
+						[
+							1.39559,
+							103.87297
 						],
 						[
 							1.39705,
-							103.873073
+							103.8731
 						],
 						[
-							1.39955,
-							103.872321
+							1.39775,
+							103.87314
 						],
 						[
-							1.402222,
-							103.871388
+							1.3984,
+							103.87294
+						],
+						[
+							1.39936,
+							103.87247
+						],
+						[
+							1.39957,
+							103.87236
+						],
+						[
+							1.39985,
+							103.87226
+						],
+						[
+							1.40013,
+							103.87222
+						],
+						[
+							1.40173,
+							103.87222
+						],
+						[
+							1.40193,
+							103.87214
+						],
+						[
+							1.40198,
+							103.87206
+						],
+						[
+							1.40199,
+							103.87198
+						],
+						[
+							1.40196,
+							103.87158
+						],
+						[
+							1.40209,
+							103.87148
+						],
+						[
+							1.402178,
+							103.871449
 						]
 					],
 					"stop_points": [
@@ -89,63 +261,63 @@
 						},
 						{
 							"id": "SingaporeStop_CastleGreen_NW",
-							"path_index": 1
-						},
-						{
-							"id": "SingaporeStop_OppNcsHub_NE",
-							"path_index": 2
-						},
-						{
-							"id": "SingaporeStop_OppMotorola_E",
-							"path_index": 3
-						},
-						{
-							"id": "SingaporeStop_OppStElectronics_E",
-							"path_index": 4
-						},
-						{
-							"id": "SingaporeStop_BefKlcSchOfEdn_E",
 							"path_index": 5
 						},
 						{
-							"id": "SingaporeStop_OppSunriseGdns_SE",
-							"path_index": 6
-						},
-						{
-							"id": "SingaporeStop_OppSerenityPk_E",
-							"path_index": 7
-						},
-						{
-							"id": "SingaporeStop_TasReceivingStn_E",
+							"id": "SingaporeStop_OppNcsHub_NE",
 							"path_index": 8
 						},
 						{
-							"id": "SingaporeStop_OppDedapRd_E",
-							"path_index": 9
-						},
-						{
-							"id": "SingaporeStop_AftYioChuKangRd_NE",
+							"id": "SingaporeStop_OppMotorola_E",
 							"path_index": 10
 						},
 						{
-							"id": "SingaporeStop_BefJlnKayu_E",
-							"path_index": 11
-						},
-						{
-							"id": "SingaporeStop_BefSeletarWestFway4_N",
-							"path_index": 12
-						},
-						{
-							"id": "SingaporeStop_JlnKayuShophouse_N",
-							"path_index": 13
-						},
-						{
-							"id": "SingaporeStop_BefTpe_NW",
+							"id": "SingaporeStop_OppStElectronics_E",
 							"path_index": 14
 						},
 						{
+							"id": "SingaporeStop_BefKlcSchOfEdn_E",
+							"path_index": 19
+						},
+						{
+							"id": "SingaporeStop_OppSunriseGdns_SE",
+							"path_index": 21
+						},
+						{
+							"id": "SingaporeStop_OppSerenityPk_E",
+							"path_index": 23
+						},
+						{
+							"id": "SingaporeStop_TasReceivingStn_E",
+							"path_index": 25
+						},
+						{
+							"id": "SingaporeStop_OppDedapRd_E",
+							"path_index": 28
+						},
+						{
+							"id": "SingaporeStop_AftYioChuKangRd_NE",
+							"path_index": 34
+						},
+						{
+							"id": "SingaporeStop_BefJlnKayu_E",
+							"path_index": 38
+						},
+						{
+							"id": "SingaporeStop_BefSeletarWestFway4_N",
+							"path_index": 42
+						},
+						{
+							"id": "SingaporeStop_JlnKayuShophouse_N",
+							"path_index": 45
+						},
+						{
+							"id": "SingaporeStop_BefTpe_NW",
+							"path_index": 49
+						},
+						{
 							"id": "SingaporeStop_BefSeletarCampG_E",
-							"path_index": 15
+							"path_index": 58
 						}
 					]
 				}

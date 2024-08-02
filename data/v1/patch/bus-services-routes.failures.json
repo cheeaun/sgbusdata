@@ -48,6 +48,18 @@
 		{
 			"fileName": "86B-1.kml",
 			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "870-2.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "871-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "992-2.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
 		}
 	]
 }

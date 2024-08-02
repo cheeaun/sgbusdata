@@ -312,17 +312,6 @@
 		]
 	},
 	{
-		"number": 573,
-		"description": "Yishun Avenue 2/Avenue 5 - Pasir Panjang Road",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"573-1.kml"
-		],
-		"routeFile": [
-			"573.xml"
-		]
-	},
-	{
 		"number": 574,
 		"description": "Upper Serangoon Road - Anson Road",
 		"type": "PREMIUM",
@@ -500,8 +489,7 @@
 		"description": "Sembawang Road - Changi Business Park",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"776-1.kml",
-			"776-2.kml"
+			"776-1.kml"
 		],
 		"routeFile": [
 			"776.xml"
@@ -5220,20 +5208,21 @@
 		"number": 870,
 		"type": "TRUNK",
 		"kmlFile": [
-			"870-1.kml"
+			"870-1.kml",
+			"870-2.kml"
 		],
 		"routeFile": [
 			"870.xml"
 		]
 	},
 	{
-		"number": "870A",
+		"number": 871,
 		"type": "TRUNK",
 		"kmlFile": [
-			"870A-1.kml"
+			"871-1.kml"
 		],
 		"routeFile": [
-			"870A.xml"
+			"871.xml"
 		]
 	},
 	{
@@ -6292,20 +6281,11 @@
 		"number": 992,
 		"type": "TRUNK",
 		"kmlFile": [
-			"992-1.kml"
+			"992-1.kml",
+			"992-2.kml"
 		],
 		"routeFile": [
 			"992.xml"
-		]
-	},
-	{
-		"number": "992A",
-		"type": "TRUNK",
-		"kmlFile": [
-			"992A-1.kml"
-		],
-		"routeFile": [
-			"992A.xml"
 		]
 	},
 	{

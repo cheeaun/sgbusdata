@@ -1,3 +1,67 @@
+# 2 August 2024
+
+## Stops count change: 5124 ⮕ 5135
+
+### Stops added: 11
+
+- `40389` Blk 119
+- `40399` Blk 123B
+- `40401` Blk 224A
+- `40421` Blk 220A
+- `40429` Blk 242
+- `40431` Blk 237A
+- `40439` Opposite Blk 236A
+- `40441` Blk 238
+- `40449` Blk 324B
+- `41009` Tengah Int
+- `53439` Blk 228
+
+### Stop names changed: 10
+
+- `10219` Opp Motor Image ⮕ Skoda S'pore/Volkswagen Grp
+- `11101` Farrer Rd Mkt ⮕ Empress Rd Mkt/FC
+- `14389` Opp Blk 109 ⮕ Aft Radin Mas Pr Sch
+- `20291` Tanglin Sec Sch ⮕ Opp Blk 501
+- `20299` Opp Tanglin Sec Sch ⮕ Blk 501
+- `63209` Toho Green ⮕ Parkwood Residences
+- `67621` Opp Blk 558 ⮕ Blk 278 CP
+- `95079` Opp Changi Beach CP 4 ⮕ Opp Changi Beach CP 3
+- `99161` Bef Changi Beach CP 3 ⮕ Aft Changi Beach CP 3
+- `06031` Opp Blk 13 ⮕ The Landmark Condo
+
+## Services count change: 550 ⮕ 549
+
+### Services added: 1
+
+- `871` Tengah Int ⟲ Opp Beauty World Stn
+
+### Services removed: 2
+
+- `992A` Bt Batok Int → Blk 132B
+- `870A` Jurong Town Hall Int → Blk 231B
+
+### Bus Stop Changes To Routes: 4
+
+- `870` Jurong Town Hall Int ⇄ Tengah Int: +4
+- `75` Gali Batu Ter / Opp Blk 635A ⇄ Bt Merah Int: -1
+- `992` Bt Batok Int ⇄ Tengah Int: +10
+- `410G` Bishan Int ⟲ Upp Thomson Stn Exit 5: +1
+
+## Routes changed: 8
+
+- `870` Jurong Town Hall Int ⇄ Tengah Int
+- `992` Bt Batok Int ⇄ Tengah Int
+- `114A` Buangkok Stn Exit B → Blk 998B
+- `84G` Punggol Temp Int ⟲ Aft Northshore Cres
+- `84W` Punggol Temp Int ⟲ Bef Northshore Cres
+- `86A` Aft Seletar Camp G → Yio Chu Kang Stn
+- `86B` Opp Yio Chu Kang Stn → Bef Seletar Camp G
+- `871` Tengah Int ⟲ Opp Beauty World Stn
+
+## First/last timings changed
+
+Affected services: `992A`, `870A`, `7`, `18`, `75`, `105`, `110`, `171`, `174`, `372`, `870`, `992`, `174e`, `7B`, `410G`, `871`
+
 # 1 July 2024
 
 ## Stops count change: 5118 ⮕ 5124
