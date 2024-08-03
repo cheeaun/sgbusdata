@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Jurong Town Hall Int to Jurong Town Hall Int",
+		"name": "From Jurong Town Hall Int to Tengah Int",
 		"stops": [
 			"29009",
 			"28441",
@@ -13,6 +13,15 @@
 			"43341",
 			"40381",
 			"40391",
+			"41009"
+		]
+	},
+	{
+		"name": "From Tengah Int to Jurong Town Hall Int",
+		"stops": [
+			"41009",
+			"40399",
+			"40389",
 			"43769",
 			"43349",
 			"43539",

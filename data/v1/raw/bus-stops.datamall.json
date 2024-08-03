@@ -1073,7 +1073,7 @@
 	{
 		"BusStopCode": "06031",
 		"RoadName": "Chin Swee Rd",
-		"Description": "Opp Blk 13",
+		"Description": "The Landmark Condo",
 		"Latitude": 1.28607055552165,
 		"Longitude": 103.83879166662209
 	},
@@ -1899,7 +1899,7 @@
 	{
 		"BusStopCode": "10219",
 		"RoadName": "Leng Kee Rd",
-		"Description": "Opp Motor Image",
+		"Description": "Skoda S'pore/Volkswagen Grp",
 		"Latitude": 1.290835,
 		"Longitude": 103.81181
 	},
@@ -2417,7 +2417,7 @@
 	{
 		"BusStopCode": "11101",
 		"RoadName": "Farrer Rd",
-		"Description": "Farrer Rd Mkt",
+		"Description": "Empress Rd Mkt/FC",
 		"Latitude": 1.31614971080385,
 		"Longitude": 103.80596012189226
 	},
@@ -3894,7 +3894,7 @@
 	{
 		"BusStopCode": "14389",
 		"RoadName": "Bt Purmei Ave",
-		"Description": "Opp Blk 109",
+		"Description": "Aft Radin Mas Pr Sch",
 		"Latitude": 1.27428160509375,
 		"Longitude": 103.82500895193466
 	},
@@ -5847,14 +5847,14 @@
 	{
 		"BusStopCode": "20291",
 		"RoadName": "West Coast Rd",
-		"Description": "Tanglin Sec Sch",
+		"Description": "Opp Blk 501",
 		"Latitude": 1.31095062259154,
 		"Longitude": 103.75771430804498
 	},
 	{
 		"BusStopCode": "20299",
 		"RoadName": "West Coast Rd",
-		"Description": "Opp Tanglin Sec Sch",
+		"Description": "Blk 501",
 		"Latitude": 1.3109280417106,
 		"Longitude": 103.75857544044081
 	},
@@ -12418,6 +12418,13 @@
 		"Longitude": 103.73427
 	},
 	{
+		"BusStopCode": "40389",
+		"RoadName": "Plantation Cres",
+		"Description": "Blk 119",
+		"Latitude": 1.356473,
+		"Longitude": 103.734424
+	},
+	{
 		"BusStopCode": "40391",
 		"RoadName": "Tengah Boulevard",
 		"Description": "Blk 231B",
@@ -12425,11 +12432,74 @@
 		"Longitude": 103.733186
 	},
 	{
+		"BusStopCode": "40399",
+		"RoadName": "Tengah Boulevard",
+		"Description": "Blk 123B",
+		"Latitude": 1.35984,
+		"Longitude": 103.734244
+	},
+	{
+		"BusStopCode": "40401",
+		"RoadName": "Tengah Boulevard",
+		"Description": "Blk 224A",
+		"Latitude": 1.35726,
+		"Longitude": 103.73121
+	},
+	{
 		"BusStopCode": "40409",
 		"RoadName": "Tengah Boulevard",
 		"Description": "Blk 132B",
 		"Latitude": 1.357394,
 		"Longitude": 103.731808
+	},
+	{
+		"BusStopCode": "40421",
+		"RoadName": "Tengah Garden Walk",
+		"Description": "Blk 220A",
+		"Latitude": 1.35938,
+		"Longitude": 103.729694
+	},
+	{
+		"BusStopCode": "40429",
+		"RoadName": "Tengah Garden Walk",
+		"Description": "Blk 242",
+		"Latitude": 1.3594,
+		"Longitude": 103.7293
+	},
+	{
+		"BusStopCode": "40431",
+		"RoadName": "Tengah Garden Walk",
+		"Description": "Blk 237A",
+		"Latitude": 1.36142,
+		"Longitude": 103.73163
+	},
+	{
+		"BusStopCode": "40439",
+		"RoadName": "Tengah Garden Walk",
+		"Description": "Opposite Blk 236A",
+		"Latitude": 1.3611,
+		"Longitude": 103.731
+	},
+	{
+		"BusStopCode": "40441",
+		"RoadName": "Tengah Drive",
+		"Description": "Blk 238",
+		"Latitude": 1.36187,
+		"Longitude": 103.73349
+	},
+	{
+		"BusStopCode": "40449",
+		"RoadName": "Tengah Drive",
+		"Description": "Blk 324B",
+		"Latitude": 1.3622,
+		"Longitude": 103.7335
+	},
+	{
+		"BusStopCode": "41009",
+		"RoadName": "Tengah Boulevard",
+		"Description": "Tengah Int",
+		"Latitude": 1.3627,
+		"Longitude": 103.735967
 	},
 	{
 		"BusStopCode": "41011",
@@ -19880,6 +19950,13 @@
 		"Longitude": 103.8553811
 	},
 	{
+		"BusStopCode": "53439",
+		"RoadName": "Bishan St 23",
+		"Description": "BLK 228",
+		"Latitude": 1.357625,
+		"Longitude": 103.847213
+	},
+	{
 		"BusStopCode": "53509",
 		"RoadName": "Sin Ming Dr",
 		"Description": "LTA Sin Ming Office",
@@ -24243,7 +24320,7 @@
 	{
 		"BusStopCode": "63209",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "Toho Green",
+		"Description": "Parkwood Residences",
 		"Latitude": 1.36605804817414,
 		"Longitude": 103.87522122785421
 	},
@@ -27624,7 +27701,7 @@
 	{
 		"BusStopCode": "67621",
 		"RoadName": "Buangkok Dr",
-		"Description": "Opp Blk 558",
+		"Description": "Blk 278 CP",
 		"Latitude": 1.38095802621952,
 		"Longitude": 103.89025132744938
 	},
@@ -34414,7 +34491,7 @@
 	{
 		"BusStopCode": "95079",
 		"RoadName": "Nicoll Dr",
-		"Description": "Opp Changi Beach CP 4",
+		"Description": "Opp Changi Beach CP 3",
 		"Latitude": 1.39019416668503,
 		"Longitude": 103.99252027779501
 	},
@@ -35842,7 +35919,7 @@
 	{
 		"BusStopCode": "99161",
 		"RoadName": "Nicoll Dr",
-		"Description": "Bef Changi Beach CP 3",
+		"Description": "Aft Changi Beach CP 3",
 		"Latitude": 1.39026180023806,
 		"Longitude": 103.99295664134459
 	},

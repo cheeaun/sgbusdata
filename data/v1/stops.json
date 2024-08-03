@@ -236,7 +236,7 @@
 	"10219": [
 		103.81181,
 		1.29084,
-		"Opp Motor Image",
+		"Skoda S'pore/Volkswagen Grp",
 		"Leng Kee Rd"
 	],
 	"10221": [
@@ -680,7 +680,7 @@
 	"11101": [
 		103.80596,
 		1.31615,
-		"Farrer Rd Mkt",
+		"Empress Rd Mkt/FC",
 		"Farrer Rd"
 	],
 	"11109": [
@@ -1946,7 +1946,7 @@
 	"14389": [
 		103.82501,
 		1.27428,
-		"Opp Blk 109",
+		"Aft Radin Mas Pr Sch",
 		"Bt Purmei Ave"
 	],
 	"14391": [
@@ -3620,13 +3620,13 @@
 	"20291": [
 		103.75771,
 		1.31095,
-		"Tanglin Sec Sch",
+		"Opp Blk 501",
 		"West Coast Rd"
 	],
 	"20299": [
 		103.75858,
 		1.31093,
-		"Opp Tanglin Sec Sch",
+		"Blk 501",
 		"West Coast Rd"
 	],
 	"20309": [
@@ -9251,16 +9251,76 @@
 		"Blk 111",
 		"Plantation Cres"
 	],
+	"40389": [
+		103.73442,
+		1.35647,
+		"Blk 119",
+		"Plantation Cres"
+	],
 	"40391": [
 		103.73319,
 		1.35926,
 		"Blk 231B",
 		"Tengah Boulevard"
 	],
+	"40399": [
+		103.73424,
+		1.35984,
+		"Blk 123B",
+		"Tengah Boulevard"
+	],
+	"40401": [
+		103.73121,
+		1.35726,
+		"Blk 224A",
+		"Tengah Boulevard"
+	],
 	"40409": [
 		103.73181,
 		1.35739,
 		"Blk 132B",
+		"Tengah Boulevard"
+	],
+	"40421": [
+		103.72969,
+		1.35938,
+		"Blk 220A",
+		"Tengah Garden Walk"
+	],
+	"40429": [
+		103.7293,
+		1.3594,
+		"Blk 242",
+		"Tengah Garden Walk"
+	],
+	"40431": [
+		103.73163,
+		1.36142,
+		"Blk 237A",
+		"Tengah Garden Walk"
+	],
+	"40439": [
+		103.731,
+		1.3611,
+		"Opposite Blk 236A",
+		"Tengah Garden Walk"
+	],
+	"40441": [
+		103.73349,
+		1.36187,
+		"Blk 238",
+		"Tengah Drive"
+	],
+	"40449": [
+		103.7335,
+		1.3622,
+		"Blk 324B",
+		"Tengah Drive"
+	],
+	"41009": [
+		103.73597,
+		1.3627,
+		"Tengah Int",
 		"Tengah Boulevard"
 	],
 	"41011": [
@@ -15647,6 +15707,12 @@
 		"Blk 151A Mkt",
 		"Bishan St 11"
 	],
+	"53439": [
+		103.84721,
+		1.35763,
+		"Blk 228",
+		"Bishan St 23"
+	],
 	"53509": [
 		103.8365,
 		1.35683,
@@ -19388,7 +19454,7 @@
 	"63209": [
 		103.87522,
 		1.36606,
-		"Toho Green",
+		"Parkwood Residences",
 		"Yio Chu Kang Rd"
 	],
 	"63211": [
@@ -22286,7 +22352,7 @@
 	"67621": [
 		103.89025,
 		1.38096,
-		"Opp Blk 558",
+		"Blk 278 CP",
 		"Buangkok Dr"
 	],
 	"67629": [
@@ -28106,7 +28172,7 @@
 	"95079": [
 		103.99252,
 		1.39019,
-		"Opp Changi Beach CP 4",
+		"Opp Changi Beach CP 3",
 		"Nicoll Dr"
 	],
 	"95081": [
@@ -29330,7 +29396,7 @@
 	"99161": [
 		103.99296,
 		1.39026,
-		"Bef Changi Beach CP 3",
+		"Aft Changi Beach CP 3",
 		"Nicoll Dr"
 	],
 	"99171": [
@@ -30272,7 +30338,7 @@
 	"06031": [
 		103.83879,
 		1.28607,
-		"Opp Blk 13",
+		"The Landmark Condo",
 		"Chin Swee Rd"
 	],
 	"06039": [

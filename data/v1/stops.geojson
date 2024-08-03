@@ -1082,7 +1082,7 @@
 			"id": "10219",
 			"properties": {
 				"number": "10219",
-				"name": "Opp Motor Image",
+				"name": "Skoda S'pore/Volkswagen Grp",
 				"road": "Leng Kee Rd",
 				"services": [
 					"139"
@@ -2835,7 +2835,7 @@
 			"id": "11101",
 			"properties": {
 				"number": "11101",
-				"name": "Farrer Rd Mkt",
+				"name": "Empress Rd Mkt/FC",
 				"road": "Farrer Rd",
 				"services": [
 					"153",
@@ -7812,7 +7812,7 @@
 			"id": "14389",
 			"properties": {
 				"number": "14389",
-				"name": "Opp Blk 109",
+				"name": "Aft Radin Mas Pr Sch",
 				"road": "Bt Purmei Ave",
 				"services": [
 					"123",
@@ -14096,7 +14096,7 @@
 			"id": "20291",
 			"properties": {
 				"number": "20291",
-				"name": "Tanglin Sec Sch",
+				"name": "Opp Blk 501",
 				"road": "West Coast Rd",
 				"services": [
 					"143",
@@ -14120,7 +14120,7 @@
 			"id": "20299",
 			"properties": {
 				"number": "20299",
-				"name": "Opp Tanglin Sec Sch",
+				"name": "Blk 501",
 				"road": "West Coast Rd",
 				"services": [
 					"143",
@@ -28327,7 +28327,6 @@
 					"41",
 					"52",
 					"870",
-					"870A",
 					"98",
 					"98M"
 				]
@@ -28883,7 +28882,6 @@
 					"506",
 					"52",
 					"870",
-					"870A",
 					"993"
 				]
 			},
@@ -29534,7 +29532,6 @@
 					"187",
 					"188",
 					"870",
-					"870A",
 					"990"
 				]
 			},
@@ -29958,8 +29955,7 @@
 					"78A",
 					"79",
 					"79T",
-					"870",
-					"870A"
+					"870"
 				]
 			},
 			"geometry": {
@@ -33372,8 +33368,7 @@
 				"name": "Blk 451A",
 				"road": "Bt Batok West Ave 6",
 				"services": [
-					"992",
-					"992A"
+					"992"
 				]
 			},
 			"geometry": {
@@ -33411,6 +33406,7 @@
 				"name": "Blk 439C",
 				"road": "Bt Batok West Ave 6",
 				"services": [
+					"871",
 					"993"
 				]
 			},
@@ -33550,8 +33546,8 @@
 				"name": "Blk 461C",
 				"road": "Bt Batok West Ave 6",
 				"services": [
+					"871",
 					"992",
-					"992A",
 					"993"
 				]
 			},
@@ -33571,6 +33567,7 @@
 				"name": "Opp Blk 461C",
 				"road": "Bt Batok West Ave 6",
 				"services": [
+					"871",
 					"941",
 					"992",
 					"993"
@@ -33594,7 +33591,6 @@
 				"services": [
 					"991",
 					"992",
-					"992A",
 					"993"
 				]
 			},
@@ -33673,9 +33669,8 @@
 				"road": "Plantation Cres",
 				"services": [
 					"870",
-					"870A",
-					"992",
-					"992A"
+					"871",
+					"992"
 				]
 			},
 			"geometry": {
@@ -33688,14 +33683,34 @@
 		},
 		{
 			"type": "Feature",
+			"id": "40389",
+			"properties": {
+				"number": "40389",
+				"name": "Blk 119",
+				"road": "Plantation Cres",
+				"services": [
+					"870",
+					"871",
+					"992"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.734424,
+					1.356473
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "40391",
 			"properties": {
 				"number": "40391",
 				"name": "Blk 231B",
 				"road": "Tengah Boulevard",
 				"services": [
-					"870",
-					"870A"
+					"870"
 				]
 			},
 			"geometry": {
@@ -33708,14 +33723,53 @@
 		},
 		{
 			"type": "Feature",
+			"id": "40399",
+			"properties": {
+				"number": "40399",
+				"name": "Blk 123B",
+				"road": "Tengah Boulevard",
+				"services": [
+					"870"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.734244,
+					1.35984
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "40401",
+			"properties": {
+				"number": "40401",
+				"name": "Blk 224A",
+				"road": "Tengah Boulevard",
+				"services": [
+					"871",
+					"992"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.73121,
+					1.35726
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "40409",
 			"properties": {
 				"number": "40409",
 				"name": "Blk 132B",
 				"road": "Tengah Boulevard",
 				"services": [
-					"992",
-					"992A"
+					"871",
+					"992"
 				]
 			},
 			"geometry": {
@@ -33723,6 +33777,147 @@
 				"coordinates": [
 					103.731808,
 					1.357394
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "40421",
+			"properties": {
+				"number": "40421",
+				"name": "Blk 220A",
+				"road": "Tengah Garden Walk",
+				"services": [
+					"871",
+					"992"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.729694,
+					1.35938
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "40429",
+			"properties": {
+				"number": "40429",
+				"name": "Blk 242",
+				"road": "Tengah Garden Walk",
+				"services": [
+					"871",
+					"992"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7293,
+					1.3594
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "40431",
+			"properties": {
+				"number": "40431",
+				"name": "Blk 237A",
+				"road": "Tengah Garden Walk",
+				"services": [
+					"871",
+					"992"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.73163,
+					1.36142
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "40439",
+			"properties": {
+				"number": "40439",
+				"name": "Opposite Blk 236A",
+				"road": "Tengah Garden Walk",
+				"services": [
+					"871",
+					"992"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731,
+					1.3611
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "40441",
+			"properties": {
+				"number": "40441",
+				"name": "Blk 238",
+				"road": "Tengah Drive",
+				"services": [
+					"871",
+					"992"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.73349,
+					1.36187
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "40449",
+			"properties": {
+				"number": "40449",
+				"name": "Blk 324B",
+				"road": "Tengah Drive",
+				"services": [
+					"871",
+					"992"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7335,
+					1.3622
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "41009",
+			"properties": {
+				"number": "41009",
+				"name": "Tengah Int",
+				"road": "Tengah Boulevard",
+				"services": [
+					"870",
+					"871",
+					"992"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.735967,
+					1.3627
 				]
 			}
 		},
@@ -34805,7 +35000,8 @@
 					"170",
 					"66",
 					"67",
-					"75"
+					"75",
+					"871"
 				]
 			},
 			"geometry": {
@@ -35097,6 +35293,7 @@
 					"61",
 					"66",
 					"77",
+					"871",
 					"970",
 					"985"
 				]
@@ -35125,6 +35322,7 @@
 					"61",
 					"66",
 					"77",
+					"871",
 					"970",
 					"985"
 				]
@@ -35153,6 +35351,7 @@
 					"61",
 					"66",
 					"77",
+					"871",
 					"970",
 					"985"
 				]
@@ -35181,6 +35380,7 @@
 					"61",
 					"66",
 					"77",
+					"871",
 					"970",
 					"985"
 				]
@@ -35206,6 +35406,7 @@
 					"174e",
 					"61",
 					"66",
+					"871",
 					"970",
 					"985"
 				]
@@ -35231,6 +35432,7 @@
 					"174e",
 					"61",
 					"66",
+					"871",
 					"970",
 					"985"
 				]
@@ -35256,6 +35458,7 @@
 					"174e",
 					"61",
 					"66",
+					"871",
 					"970",
 					"985"
 				]
@@ -35281,6 +35484,7 @@
 					"174e",
 					"61",
 					"66",
+					"871",
 					"970",
 					"985"
 				]
@@ -35305,6 +35509,7 @@
 					"174",
 					"61",
 					"66",
+					"871",
 					"970",
 					"985"
 				]
@@ -35329,6 +35534,7 @@
 					"174",
 					"61",
 					"66",
+					"871",
 					"970",
 					"985"
 				]
@@ -35737,8 +35943,7 @@
 					"990",
 					"991",
 					"991A",
-					"992",
-					"992A"
+					"992"
 				]
 			},
 			"geometry": {
@@ -36449,6 +36654,7 @@
 					"653",
 					"77",
 					"852",
+					"871",
 					"990"
 				]
 			},
@@ -36480,6 +36686,7 @@
 					"653",
 					"77",
 					"852",
+					"871",
 					"990"
 				]
 			},
@@ -36509,6 +36716,7 @@
 					"653",
 					"77",
 					"852",
+					"871",
 					"963",
 					"963e",
 					"990"
@@ -36541,6 +36749,7 @@
 					"653",
 					"77",
 					"852",
+					"871",
 					"963",
 					"963e",
 					"990"
@@ -36568,7 +36777,8 @@
 					"178",
 					"61",
 					"66",
-					"852"
+					"852",
+					"871"
 				]
 			},
 			"geometry": {
@@ -36593,7 +36803,8 @@
 					"178",
 					"61",
 					"66",
-					"852"
+					"852",
+					"871"
 				]
 			},
 			"geometry": {
@@ -36618,6 +36829,7 @@
 					"61",
 					"66",
 					"852",
+					"871",
 					"970",
 					"985"
 				]
@@ -36644,6 +36856,7 @@
 					"61",
 					"66",
 					"852",
+					"871",
 					"970",
 					"985"
 				]
@@ -37140,7 +37353,6 @@
 					"176",
 					"188",
 					"870",
-					"870A",
 					"991"
 				]
 			},
@@ -37205,7 +37417,6 @@
 					"178",
 					"506",
 					"870",
-					"870A",
 					"991",
 					"991A"
 				]
@@ -37360,7 +37571,6 @@
 					"188",
 					"66",
 					"870",
-					"870A",
 					"941"
 				]
 			},
@@ -37478,8 +37688,7 @@
 					"868E",
 					"991",
 					"991A",
-					"992",
-					"992A"
+					"992"
 				]
 			},
 			"geometry": {
@@ -37570,8 +37779,7 @@
 					"985",
 					"991",
 					"991A",
-					"992",
-					"992A"
+					"992"
 				]
 			},
 			"geometry": {
@@ -37592,6 +37800,7 @@
 				"services": [
 					"176",
 					"653",
+					"871",
 					"945",
 					"985"
 				]
@@ -37614,6 +37823,7 @@
 				"services": [
 					"176",
 					"653",
+					"871",
 					"945",
 					"985"
 				]
@@ -38108,8 +38318,7 @@
 					"174e",
 					"178",
 					"506",
-					"870",
-					"870A"
+					"870"
 				]
 			},
 			"geometry": {
@@ -38152,6 +38361,7 @@
 				"name": "Blk 510",
 				"road": "Bt Batok East Ave 5",
 				"services": [
+					"871",
 					"945"
 				]
 			},
@@ -38171,6 +38381,7 @@
 				"name": "Regent Hts",
 				"road": "Bt Batok East Ave 5",
 				"services": [
+					"871",
 					"945"
 				]
 			},
@@ -38190,6 +38401,7 @@
 				"name": "Opp Bt Gombak Stadium",
 				"road": "Bt Batok East Ave 5",
 				"services": [
+					"871",
 					"945"
 				]
 			},
@@ -38209,6 +38421,7 @@
 				"name": "Bt Gombak Stadium",
 				"road": "Bt Batok East Ave 5",
 				"services": [
+					"871",
 					"945"
 				]
 			},
@@ -38354,6 +38567,7 @@
 				"name": "Opp Blk 532",
 				"road": "Bt Batok West Ave 5",
 				"services": [
+					"871",
 					"991"
 				]
 			},
@@ -38373,6 +38587,7 @@
 				"name": "Blk 531",
 				"road": "Bt Batok West Ave 5",
 				"services": [
+					"871",
 					"991"
 				]
 			},
@@ -38677,7 +38892,6 @@
 					"187",
 					"188",
 					"870",
-					"870A",
 					"990"
 				]
 			},
@@ -38883,6 +39097,7 @@
 					"160A",
 					"180",
 					"180A",
+					"871",
 					"992"
 				]
 			},
@@ -39034,7 +39249,6 @@
 					"160",
 					"180",
 					"992",
-					"992A",
 					"993"
 				]
 			},
@@ -39073,6 +39287,7 @@
 				"name": "Ren Ci @ Bt Batok St 52",
 				"road": "Bt Batok St 52",
 				"services": [
+					"871",
 					"945"
 				]
 			},
@@ -39092,6 +39307,7 @@
 				"name": "Blk 514",
 				"road": "Bt Batok St 52",
 				"services": [
+					"871",
 					"945"
 				]
 			},
@@ -57525,6 +57741,25 @@
 		},
 		{
 			"type": "Feature",
+			"id": "53439",
+			"properties": {
+				"number": "53439",
+				"name": "Blk 228",
+				"road": "Bishan St 23",
+				"services": [
+					"410G"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.847213,
+					1.357625
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "53509",
 			"properties": {
 				"number": "53509",
@@ -72317,7 +72552,7 @@
 			"id": "63209",
 			"properties": {
 				"number": "63209",
-				"name": "Toho Green",
+				"name": "Parkwood Residences",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"103",
@@ -83318,7 +83553,7 @@
 			"id": "67621",
 			"properties": {
 				"number": "67621",
-				"name": "Opp Blk 558",
+				"name": "Blk 278 CP",
 				"road": "Buangkok Dr",
 				"services": [
 					"114",
@@ -106226,7 +106461,7 @@
 			"id": "95079",
 			"properties": {
 				"number": "95079",
-				"name": "Opp Changi Beach CP 4",
+				"name": "Opp Changi Beach CP 3",
 				"road": "Nicoll Dr",
 				"services": [
 					"19",
@@ -110590,7 +110825,7 @@
 			"id": "99161",
 			"properties": {
 				"number": "99161",
-				"name": "Bef Changi Beach CP 3",
+				"name": "Aft Changi Beach CP 3",
 				"road": "Nicoll Dr",
 				"services": [
 					"19",
@@ -114758,7 +114993,7 @@
 			"id": "06031",
 			"properties": {
 				"number": "06031",
-				"name": "Opp Blk 13",
+				"name": "The Landmark Condo",
 				"road": "Chin Swee Rd",
 				"services": [
 					"174",
