@@ -6336,15 +6336,6 @@
 		}
 	},
 	{
-		"name": "02051",
-		"wab": "true",
-		"details": "The Float @ Marina Bay",
-		"coordinates": {
-			"lat": 1.289503056,
-			"long": 103.8590339
-		}
-	},
-	{
 		"name": "02061",
 		"wab": "true",
 		"details": "The Esplanade",
@@ -6360,15 +6351,6 @@
 		"coordinates": {
 			"lat": 1.29152694444975,
 			"long": 103.8592061110504
-		}
-	},
-	{
-		"name": "02099",
-		"wab": "true",
-		"details": "Marina Ctr Ter",
-		"coordinates": {
-			"lat": 1.29147264805943,
-			"long": 103.86148558380779
 		}
 	},
 	{
@@ -22968,15 +22950,6 @@
 		}
 	},
 	{
-		"name": "43159",
-		"wab": "true",
-		"details": "Bef Glendale Pk Condo",
-		"coordinates": {
-			"lat": 1.36439838852488,
-			"long": 103.76517947881914
-		}
-	},
-	{
 		"name": "43161",
 		"wab": "true",
 		"details": "Blk 272",
@@ -38675,7 +38648,7 @@
 	{
 		"name": "65101",
 		"wab": "true",
-		"details": "Opposite My First Skool PCC10",
+		"details": "Opp My First Skool PCC10",
 		"coordinates": {
 			"lat": 1.407889,
 			"long": 103.908735
@@ -51662,7 +51635,7 @@
 	{
 		"name": "98071",
 		"wab": "true",
-		"details": "Loyang Way/Soxal",
+		"details": "Loyang Way 4/Soxal",
 		"coordinates": {
 			"lat": 1.37965443818622,
 			"long": 103.97838930249063
@@ -51671,7 +51644,7 @@
 	{
 		"name": "98079",
 		"wab": "true",
-		"details": "Opp Loyang Way/Soxal",
+		"details": "Opp Loyang Way 4/Soxal",
 		"coordinates": {
 			"lat": 1.37859016739254,
 			"long": 103.97870069719525

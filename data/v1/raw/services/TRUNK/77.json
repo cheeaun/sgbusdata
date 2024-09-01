@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Bt Batok Int to Marina Ctr Ter",
+		"name": "From Bt Batok Int to Promenade Stn/Pan Pacific",
 		"stops": [
 			"43009",
 			"43179",
@@ -47,16 +47,13 @@
 			"08069",
 			"04179",
 			"02049",
-			"02089",
-			"02099"
+			"02089"
 		]
 	},
 	{
-		"name": "From Marina Ctr Ter to Bt Batok Int",
+		"name": "From Aft S&#039;pore Flyer to Bt Batok Int",
 		"stops": [
-			"02099",
 			"02101",
-			"02051",
 			"02061",
 			"04111",
 			"04121",

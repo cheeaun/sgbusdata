@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Jurong East Int to Marina Ctr Ter",
+		"name": "From Jurong East Int to Promenade Stn/Pan Pacific",
 		"stops": [
 			"28009",
 			"28239",
@@ -26,16 +26,13 @@
 			"03501",
 			"02169",
 			"02159",
-			"02089",
-			"02099"
+			"02089"
 		]
 	},
 	{
-		"name": "From Marina Ctr Ter to Jurong East Int",
+		"name": "From Aft S&#039;pore Flyer to Jurong East Int",
 		"stops": [
-			"02099",
 			"02101",
-			"02051",
 			"02061",
 			"02151",
 			"02161",
