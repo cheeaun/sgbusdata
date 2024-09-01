@@ -9953,12 +9953,6 @@
 		"Opp Glendale Pk Condo",
 		"Hillview Ave"
 	],
-	"43159": [
-		103.76518,
-		1.3644,
-		"Bef Glendale Pk Condo",
-		"Hillview Ave"
-	],
 	"43161": [
 		103.75766,
 		1.34883,
@@ -20426,7 +20420,7 @@
 	"65101": [
 		103.90874,
 		1.40789,
-		"Opposite My First Skool PCC10",
+		"Opp My First Skool PCC10",
 		"New Punggol Road"
 	],
 	"65109": [
@@ -29084,13 +29078,13 @@
 	"98071": [
 		103.97839,
 		1.37965,
-		"Loyang Way/Soxal",
+		"Loyang Way 4/Soxal",
 		"Loyang Ave"
 	],
 	"98079": [
 		103.9787,
 		1.37859,
-		"Opp Loyang Way/Soxal",
+		"Opp Loyang Way 4/Soxal",
 		"Loyang Ave"
 	],
 	"98081": [
@@ -29675,12 +29669,6 @@
 		"Raffles Hotel",
 		"Bras Basah Rd"
 	],
-	"02051": [
-		103.85903,
-		1.2895,
-		"The Float @ Marina Bay",
-		"Raffles Ave"
-	],
 	"02061": [
 		103.8564,
 		1.28996,
@@ -29691,12 +29679,6 @@
 		103.85921,
 		1.29153,
 		"Promenade Stn/Pan Pacific",
-		"Raffles Blvd"
-	],
-	"02099": [
-		103.86149,
-		1.29147,
-		"Marina Ctr Ter",
 		"Raffles Blvd"
 	],
 	"02101": [

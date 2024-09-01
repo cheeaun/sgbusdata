@@ -2316,8 +2316,7 @@
 				"services": [
 					"100",
 					"111",
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -2338,8 +2337,7 @@
 				"services": [
 					"100",
 					"111",
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -3946,8 +3944,7 @@
 				"services": [
 					"100",
 					"111",
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -3968,8 +3965,7 @@
 				"services": [
 					"100",
 					"111",
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -3996,7 +3992,6 @@
 					"74",
 					"91",
 					"92",
-					"92M",
 					"95",
 					"95B"
 				]
@@ -4026,7 +4021,7 @@
 					"74",
 					"91",
 					"92",
-					"92M",
+					"92A",
 					"95"
 				]
 			},
@@ -4763,8 +4758,7 @@
 					"61",
 					"7",
 					"75",
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -5205,8 +5199,7 @@
 				"services": [
 					"100",
 					"111",
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -5225,8 +5218,7 @@
 				"name": "Blk 3",
 				"road": "Ghim Moh Rd",
 				"services": [
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -5245,8 +5237,7 @@
 				"name": "Aft Grove Ave",
 				"road": "Mt Sinai Rd",
 				"services": [
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -5265,8 +5256,7 @@
 				"name": "Aft Mt Sinai Lane",
 				"road": "Mt Sinai Rd",
 				"services": [
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -5285,8 +5275,7 @@
 				"name": "Opp Henry Pk",
 				"road": "Mt Sinai Rd",
 				"services": [
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -5305,8 +5294,7 @@
 				"name": "Henry Pk",
 				"road": "Mt Sinai Rd",
 				"services": [
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -5325,8 +5313,7 @@
 				"name": "Bef Moonbeam Terr",
 				"road": "Moonbeam Walk",
 				"services": [
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -5345,8 +5332,7 @@
 				"name": "Pandan Valley",
 				"road": "Pandan Valley",
 				"services": [
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -5365,8 +5351,7 @@
 				"name": "Montview",
 				"road": "Mt Sinai Rise",
 				"services": [
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -5385,8 +5370,7 @@
 				"name": "Bef Mt Sinai Dr",
 				"road": "Mt Sinai Rise",
 				"services": [
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -5405,8 +5389,7 @@
 				"name": "Opp Village Twr",
 				"road": "Mt Sinai Rise",
 				"services": [
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -5465,8 +5448,7 @@
 				"name": "Bef Mt Sinai Wk",
 				"road": "Mt Sinai Dr",
 				"services": [
-					"92",
-					"92M"
+					"92"
 				]
 			},
 			"geometry": {
@@ -8409,7 +8391,8 @@
 				"services": [
 					"200",
 					"200A",
-					"92"
+					"92",
+					"92A"
 				]
 			},
 			"geometry": {
@@ -8587,7 +8570,8 @@
 				"name": "Opp Ascent",
 				"road": "Science Pk Dr",
 				"services": [
-					"92"
+					"92",
+					"92A"
 				]
 			},
 			"geometry": {
@@ -11992,6 +11976,7 @@
 					"33",
 					"33A",
 					"92",
+					"92A",
 					"95"
 				]
 			},
@@ -12045,7 +12030,6 @@
 					"74",
 					"91",
 					"92",
-					"92M",
 					"95",
 					"95B"
 				]
@@ -12075,7 +12059,7 @@
 					"74",
 					"91",
 					"92",
-					"92M",
+					"92A",
 					"95"
 				]
 			},
@@ -12324,7 +12308,8 @@
 				"name": "Opp Dnv Technology Ctr",
 				"road": "Science Pk Dr",
 				"services": [
-					"92"
+					"92",
+					"92A"
 				]
 			},
 			"geometry": {
@@ -12362,7 +12347,8 @@
 				"name": "Opp Reuters",
 				"road": "Science Pk Dr",
 				"services": [
-					"92"
+					"92",
+					"92A"
 				]
 			},
 			"geometry": {
@@ -12381,7 +12367,8 @@
 				"name": "Opp DSO Natl Laboratories",
 				"road": "Science Pk Dr",
 				"services": [
-					"92"
+					"92",
+					"92A"
 				]
 			},
 			"geometry": {
@@ -12419,7 +12406,8 @@
 				"name": "Blk 85",
 				"road": "Science Pk Dr",
 				"services": [
-					"92"
+					"92",
+					"92A"
 				]
 			},
 			"geometry": {
@@ -12457,7 +12445,8 @@
 				"name": "Opp Normanton Pk/R'ford",
 				"road": "Science Pk Dr",
 				"services": [
-					"92"
+					"92",
+					"92A"
 				]
 			},
 			"geometry": {
@@ -36573,25 +36562,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "43159",
-			"properties": {
-				"number": "43159",
-				"name": "Bef Glendale Pk Condo",
-				"road": "Hillview Ave",
-				"services": [
-					"177"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.76517947881914,
-					1.36439838852488
-				]
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "43161",
 			"properties": {
 				"number": "43161",
@@ -45278,6 +45248,7 @@
 					"187",
 					"856",
 					"856A",
+					"856B",
 					"858",
 					"858A",
 					"900",
@@ -45541,6 +45512,7 @@
 					"178",
 					"856",
 					"856A",
+					"856B",
 					"903",
 					"911",
 					"911T",
@@ -45610,6 +45582,7 @@
 					"170",
 					"178",
 					"856",
+					"856B",
 					"903",
 					"911",
 					"911T",
@@ -45701,6 +45674,7 @@
 				"services": [
 					"178",
 					"856",
+					"856B",
 					"903"
 				]
 			},
@@ -45742,7 +45716,8 @@
 				"name": "Opp Marsiling Lane Mkt/FC",
 				"road": "Admiralty Rd",
 				"services": [
-					"856"
+					"856",
+					"856B"
 				]
 			},
 			"geometry": {
@@ -45780,7 +45755,8 @@
 				"name": "Aft Marsiling Lane",
 				"road": "Admiralty Rd",
 				"services": [
-					"856"
+					"856",
+					"856B"
 				]
 			},
 			"geometry": {
@@ -47372,6 +47348,7 @@
 					"178",
 					"856",
 					"856A",
+					"856B",
 					"911",
 					"911T",
 					"912",
@@ -47424,6 +47401,7 @@
 					"178",
 					"856",
 					"856A",
+					"856B",
 					"912",
 					"912B",
 					"913M",
@@ -47481,6 +47459,7 @@
 					"187",
 					"856",
 					"856A",
+					"856B",
 					"925",
 					"925A",
 					"925M",
@@ -47545,6 +47524,7 @@
 					"187",
 					"856",
 					"856A",
+					"856B",
 					"925",
 					"925A",
 					"925M",
@@ -47609,6 +47589,7 @@
 					"187",
 					"856",
 					"856A",
+					"856B",
 					"925",
 					"925A",
 					"925M",
@@ -49165,7 +49146,8 @@
 				"name": "Bef W'lands Waterfront Pk",
 				"road": "Admiralty Rd",
 				"services": [
-					"856"
+					"856",
+					"856B"
 				]
 			},
 			"geometry": {
@@ -76004,6 +75986,7 @@
 					"82",
 					"83",
 					"83T",
+					"84A",
 					"84G",
 					"84W",
 					"85"
@@ -76387,6 +76370,7 @@
 				"name": "Blk 301A",
 				"road": "Punggol Rd",
 				"services": [
+					"84A",
 					"84G",
 					"84W"
 				]
@@ -76424,9 +76408,10 @@
 			"id": "65101",
 			"properties": {
 				"number": "65101",
-				"name": "Opposite My First Skool PCC10",
+				"name": "Opp My First Skool PCC10",
 				"road": "New Punggol Road",
 				"services": [
+					"84A",
 					"84W"
 				]
 			},
@@ -76826,6 +76811,7 @@
 					"39B",
 					"83",
 					"83T",
+					"84A",
 					"84G",
 					"84W",
 					"85"
@@ -78509,6 +78495,7 @@
 				"name": "Before SIT Punggol",
 				"road": "New Punggol Road",
 				"services": [
+					"84A",
 					"84W"
 				]
 			},
@@ -78585,6 +78572,7 @@
 				"name": "Punggol Coast Station",
 				"road": "New Punggol Road",
 				"services": [
+					"84A",
 					"84W"
 				]
 			},
@@ -109692,7 +109680,7 @@
 			"id": "98071",
 			"properties": {
 				"number": "98071",
-				"name": "Loyang Way/Soxal",
+				"name": "Loyang Way 4/Soxal",
 				"road": "Loyang Ave",
 				"services": [
 					"109",
@@ -109719,7 +109707,7 @@
 			"id": "98079",
 			"properties": {
 				"number": "98079",
-				"name": "Opp Loyang Way/Soxal",
+				"name": "Opp Loyang Way 4/Soxal",
 				"road": "Loyang Ave",
 				"services": [
 					"109",
@@ -112009,41 +111997,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "02051",
-			"properties": {
-				"number": "02051",
-				"name": "The Float @ Marina Bay",
-				"road": "Raffles Ave",
-				"services": [
-					"106",
-					"111",
-					"133",
-					"195",
-					"195A",
-					"36",
-					"36A",
-					"36B",
-					"56",
-					"70M",
-					"77",
-					"857",
-					"960",
-					"960e",
-					"961M",
-					"97",
-					"97e"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8590339,
-					1.289503056
-				]
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "02061",
 			"properties": {
 				"number": "02061",
@@ -112104,32 +112057,6 @@
 				"coordinates": [
 					103.8592061110504,
 					1.29152694444975
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "02099",
-			"properties": {
-				"number": "02099",
-				"name": "Marina Ctr Ter",
-				"road": "Raffles Blvd",
-				"services": [
-					"195",
-					"195A",
-					"56",
-					"77",
-					"960",
-					"960e",
-					"97",
-					"97e"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.86148558380779,
-					1.29147264805943
 				]
 			}
 		},
@@ -115940,6 +115867,7 @@
 					"139",
 					"147",
 					"147A",
+					"170",
 					"23",
 					"64",
 					"65",
@@ -116022,7 +115950,6 @@
 				"name": "Fu Lu Shou Cplx",
 				"road": "Rochor Rd",
 				"services": [
-					"170",
 					"48",
 					"57",
 					"851",

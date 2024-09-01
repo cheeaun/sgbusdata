@@ -301,13 +301,6 @@
 		"Longitude": 103.85402155505173
 	},
 	{
-		"BusStopCode": "02051",
-		"RoadName": "Raffles Ave",
-		"Description": "The Float @ Marina Bay",
-		"Latitude": 1.289503056,
-		"Longitude": 103.8590339
-	},
-	{
 		"BusStopCode": "02061",
 		"RoadName": "Raffles Ave",
 		"Description": "The Esplanade",
@@ -320,13 +313,6 @@
 		"Description": "Promenade Stn/Pan Pacific",
 		"Latitude": 1.29152694444975,
 		"Longitude": 103.8592061110504
-	},
-	{
-		"BusStopCode": "02099",
-		"RoadName": "Raffles Blvd",
-		"Description": "Marina Ctr Ter",
-		"Latitude": 1.29147264805943,
-		"Longitude": 103.86148558380779
 	},
 	{
 		"BusStopCode": "02101",
@@ -13237,13 +13223,6 @@
 		"Longitude": 103.76489101192684
 	},
 	{
-		"BusStopCode": "43159",
-		"RoadName": "Hillview Ave",
-		"Description": "Bef Glendale Pk Condo",
-		"Latitude": 1.36439838852488,
-		"Longitude": 103.76517947881914
-	},
-	{
 		"BusStopCode": "43161",
 		"RoadName": "Bt Batok East Ave 4",
 		"Description": "Blk 272",
@@ -25454,7 +25433,7 @@
 	{
 		"BusStopCode": "65101",
 		"RoadName": "New Punggol Road",
-		"Description": "Opposite My First Skool PCC10",
+		"Description": "Opp My First Skool PCC10",
 		"Latitude": 1.407889,
 		"Longitude": 103.908735
 	},
@@ -35555,14 +35534,14 @@
 	{
 		"BusStopCode": "98071",
 		"RoadName": "Loyang Ave",
-		"Description": "Loyang Way/Soxal",
+		"Description": "Loyang Way 4/Soxal",
 		"Latitude": 1.37965443818622,
 		"Longitude": 103.97838930249063
 	},
 	{
 		"BusStopCode": "98079",
 		"RoadName": "Loyang Ave",
-		"Description": "Opp Loyang Way/Soxal",
+		"Description": "Opp Loyang Way 4/Soxal",
 		"Latitude": 1.37859016739254,
 		"Longitude": 103.97870069719525
 	},

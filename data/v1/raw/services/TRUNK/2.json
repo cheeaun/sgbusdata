@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Changi Village Ter to KAMPONG BAHRU TER",
+		"name": "From Changi Village Ter to Kampong Bahru Ter",
 		"stops": [
 			"99009",
 			"99131",
@@ -74,7 +74,7 @@
 		]
 	},
 	{
-		"name": "From KAMPONG BAHRU TER to Changi Village Ter",
+		"name": "From Kampong Bahru Ter to Changi Village Ter",
 		"stops": [
 			"10499",
 			"10049",

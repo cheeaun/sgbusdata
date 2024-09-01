@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Woodlands Int to Marina Ctr Ter",
+		"name": "From Woodlands Int to Promenade Stn/Pan Pacific",
 		"stops": [
 			"46009",
 			"46549",
@@ -24,16 +24,13 @@
 			"01119",
 			"01019",
 			"02049",
-			"02089",
-			"02099"
+			"02089"
 		]
 	},
 	{
-		"name": "From Marina Ctr Ter to Woodlands Int",
+		"name": "From Aft S&#039;pore Flyer to Woodlands Int",
 		"stops": [
-			"02099",
 			"02101",
-			"02051",
 			"02061",
 			"04151",
 			"01013",

@@ -1,3 +1,72 @@
+# 1 September 2024
+
+## Stops count change: 5135 ⮕ 5132
+
+### Stops removed: 3
+
+- `02099` Marina Ctr Ter
+- `02051` The Float @ Marina Bay
+- `43159` Bef Glendale Pk Condo
+
+### Stop names changed: 3
+
+- `65101` Opposite My First Skool PCC10 ⮕ Opp My First Skool PCC10
+- `98071` Loyang Way/Soxal ⮕ Loyang Way 4/Soxal
+- `98079` Opp Loyang Way/Soxal ⮕ Opp Loyang Way 4/Soxal
+
+## Services count change: 549 ⮕ 550
+
+### Services added: 2
+
+- `84A` Punggol Temp Int → Punggol Coast Station
+- `92A` Buona Vista Stn Exit D → Opp Normanton Pk/R'ford
+
+### Services removed: 1
+
+- `92M` Ghim Moh Ter ⟲ Opp Henry Pk
+
+### Bus Stop Changes To Routes: 20
+
+- `97e` Jurong East Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -3
+- `961M` Woodlands Temp Int ⇄ Lor 1 Geylang Ter: -2
+- `960e` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -3
+- `36B` Lagoon View → Bef Seaside Residences: -1
+- `960` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -3
+- `857` Yishun Int ⟲ Opp The Ritz-Carlton: -1
+- `111` Ghim Moh Ter ⟲ The Esplanade: -1
+- `106` Bt Batok Int ⇄ Shenton Way Ter: -1
+- `97` Jurong East Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -3
+- `77` Bt Batok Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -3
+- `56` Bishan Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -3
+- `36` Changi Airport Ter 2 ⟲ Orchard Stn Exit 13: -1
+- `133` Ang Mo Kio Int ⇄ Shenton Way Ter: -1
+- `195` Aft S'pore Flyer → Promenade Stn/Pan Pacific: -3
+- `195A` Aft S'pore Flyer → Tiong Bahru Stn: -2
+- `36A` Changi Airport Ter 2 → Aft Cuscaden Rd: -1
+- `70M` Yio Chu Kang Int ⟲ Opp The Ritz-Carlton: -1
+- `170` Queen St Ter ⇄ Larkin Ter: +1, -1
+- `177` Bt Batok Int ⟲ Blk 180: +1, -1
+- `856B` Woodlands Int → Aft Admiral Hill: +12
+
+## Routes changed: 12
+
+- `870` Jurong Town Hall Int ⇄ Tengah Int
+- `871` Tengah Int ⟲ Opp Beauty World Stn
+- `992` Bt Batok Int ⇄ Tengah Int
+- `410G` Bishan Int ⟲ Upp Thomson Stn Exit 5
+- `410W` Bishan Int ⟲ Aft Windsor Pk Rd
+- `84G` Punggol Temp Int ⟲ Aft Northshore Cres
+- `84W` Punggol Temp Int ⟲ Bef Northshore Cres
+- `856B` Woodlands Int → Aft Admiral Hill
+- `86A` Aft Seletar Camp G → Yio Chu Kang Stn
+- `86B` Opp Yio Chu Kang Stn → Bef Seletar Camp G
+- `84A` Punggol Temp Int → Punggol Coast Station
+- `92A` Buona Vista Stn Exit D → Opp Normanton Pk/R'ford
+
+## First/last timings changed
+
+Affected services: `92M`, `36`, `48`, `56`, `57`, `77`, `92`, `97`, `106`, `111`, `133`, `170`, `176`, `177`, `195`, `851`, `857`, `960`, `980`, `983`, `985`, `961M`, `195A`, `97e`, `851e`, `960e`, `856B`, `70M`, `36B`, `36A`, `92A`, `249A`, `129A`, `129B`, `84A`
+
 # 2 August 2024
 
 ## Stops count change: 5124 ⮕ 5135
