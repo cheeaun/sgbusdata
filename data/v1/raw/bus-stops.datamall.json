@@ -301,6 +301,13 @@
 		"Longitude": 103.85402155505173
 	},
 	{
+		"BusStopCode": "02051",
+		"RoadName": "Raffles Ave",
+		"Description": "The Float @ Marina Bay",
+		"Latitude": 1.289503056,
+		"Longitude": 103.8590339
+	},
+	{
 		"BusStopCode": "02061",
 		"RoadName": "Raffles Ave",
 		"Description": "The Esplanade",
@@ -1965,6 +1972,13 @@
 		"Description": "SIS Bldg",
 		"Latitude": 1.29153833298318,
 		"Longitude": 103.81445166697797
+	},
+	{
+		"BusStopCode": "10287",
+		"RoadName": "Alexandra Rd",
+		"Description": "Opposite Cycle & Carriage",
+		"Latitude": 1.291914,
+		"Longitude": 103.813405
 	},
 	{
 		"BusStopCode": "10289",
@@ -6554,7 +6568,7 @@
 	{
 		"BusStopCode": "21541",
 		"RoadName": "Intl Rd",
-		"Description": "Jurong Futsal Ctr",
+		"Description": "Aft Fourth Chin Bee Rd",
 		"Latitude": 1.33138075779669,
 		"Longitude": 103.71986360869532
 	},
@@ -12437,6 +12451,20 @@
 		"Description": "Blk 132B",
 		"Latitude": 1.357394,
 		"Longitude": 103.731808
+	},
+	{
+		"BusStopCode": "40411",
+		"RoadName": "Tengah Garden Ave",
+		"Description": "Blk 221B",
+		"Latitude": 1.35755,
+		"Longitude": 103.7293
+	},
+	{
+		"BusStopCode": "40419",
+		"RoadName": "Tengah Garden Ave",
+		"Description": "Blk 215",
+		"Latitude": 1.3572,
+		"Longitude": 103.7294
 	},
 	{
 		"BusStopCode": "40421",
@@ -29825,6 +29853,13 @@
 		"Description": "IKEA Tampines",
 		"Latitude": 1.373503,
 		"Longitude": 103.931982
+	},
+	{
+		"BusStopCode": "75609",
+		"RoadName": "Tampines Nth Dr 2",
+		"Description": "Giant Hypermarket",
+		"Latitude": 1.373449,
+		"Longitude": 103.932049
 	},
 	{
 		"BusStopCode": "75611",

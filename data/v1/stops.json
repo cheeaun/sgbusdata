@@ -305,6 +305,12 @@
 		"SIS Bldg",
 		"Alexandra Rd"
 	],
+	"10287": [
+		103.81341,
+		1.29191,
+		"Opposite Cycle & Carriage",
+		"Alexandra Rd"
+	],
 	"10289": [
 		103.81441,
 		1.29187,
@@ -4238,7 +4244,7 @@
 	"21541": [
 		103.71986,
 		1.33138,
-		"Jurong Futsal Ctr",
+		"Aft Fourth Chin Bee Rd",
 		"Intl Rd"
 	],
 	"21549": [
@@ -9280,6 +9286,18 @@
 		1.35739,
 		"Blk 132B",
 		"Tengah Boulevard"
+	],
+	"40411": [
+		103.7293,
+		1.35755,
+		"Blk 221B",
+		"Tengah Garden Ave"
+	],
+	"40419": [
+		103.7294,
+		1.3572,
+		"Blk 215",
+		"Tengah Garden Ave"
 	],
 	"40421": [
 		103.72969,
@@ -24185,6 +24203,12 @@
 		"IKEA Tampines",
 		"Tampines Nth Dr 2"
 	],
+	"75609": [
+		103.93205,
+		1.37345,
+		"Giant Hypermarket",
+		"Tampines Nth Dr 2"
+	],
 	"75611": [
 		103.93426,
 		1.37257,
@@ -29668,6 +29692,12 @@
 		1.29452,
 		"Raffles Hotel",
 		"Bras Basah Rd"
+	],
+	"02051": [
+		103.85903,
+		1.2895,
+		"The Float @ Marina Bay",
+		"Raffles Ave"
 	],
 	"02061": [
 		103.8564,
