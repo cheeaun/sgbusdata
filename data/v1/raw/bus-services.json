@@ -222,6 +222,17 @@
 		]
 	},
 	{
+		"number": "-P15",
+		"description": "TM3 - Tampines Avenue 2 to Jalan Bukit Merah",
+		"type": "PREMIUM",
+		"kmlFile": [
+			"-P15-1.kml"
+		],
+		"routeFile": [
+			"-P15.xml"
+		]
+	},
+	{
 		"number": 525,
 		"description": "Buangkok Crescent to Marina Boulevard",
 		"type": "PREMIUM",
@@ -237,8 +248,7 @@
 		"description": "Simei - Shenton Way/Anson Road",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"531-1.kml",
-			"531-2.kml"
+			"531-1.kml"
 		],
 		"routeFile": [
 			"531.xml"
@@ -304,11 +314,21 @@
 		"description": "Pasir Ris Drive 1 - Changi Business Park",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"570-1.kml",
-			"570-2.kml"
+			"570-1.kml"
 		],
 		"routeFile": [
 			"570.xml"
+		]
+	},
+	{
+		"number": 573,
+		"description": "Ang Mo Kio Avenue 6 to Alexandra Road",
+		"type": "PREMIUM",
+		"kmlFile": [
+			"573-1.kml"
+		],
+		"routeFile": [
+			"573.xml"
 		]
 	},
 	{
@@ -4062,6 +4082,16 @@
 		]
 	},
 	{
+		"number": "50A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"50A-1.kml"
+		],
+		"routeFile": [
+			"50A.xml"
+		]
+	},
+	{
 		"number": 51,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -5201,6 +5231,26 @@
 		],
 		"routeFile": [
 			"860T.xml"
+		]
+	},
+	{
+		"number": 861,
+		"type": "TRUNK",
+		"kmlFile": [
+			"861-1.kml"
+		],
+		"routeFile": [
+			"861.xml"
+		]
+	},
+	{
+		"number": "861A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"861A-1.kml"
+		],
+		"routeFile": [
+			"861A.xml"
 		]
 	},
 	{

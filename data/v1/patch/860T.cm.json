@@ -90,12 +90,36 @@
 							103.84462
 						],
 						[
-							1.378626,
-							103.84463
+							1.378621,
+							103.844632
 						],
 						[
-							1.37725,
-							103.84479
+							1.37775,
+							103.84481
+						],
+						[
+							1.37761,
+							103.84487
+						],
+						[
+							1.37741,
+							103.84502
+						],
+						[
+							1.37728,
+							103.845
+						],
+						[
+							1.37715,
+							103.84484
+						],
+						[
+							1.37714,
+							103.84466
+						],
+						[
+							1.37726,
+							103.84439
 						],
 						[
 							1.37727,
@@ -358,8 +382,8 @@
 							103.81948
 						],
 						[
-							1.40685,
-							103.82013
+							1.40614,
+							103.81976
 						],
 						[
 							1.40701,
@@ -725,143 +749,143 @@
 						},
 						{
 							"id": "SingaporeStop_OppBlk649_W",
-							"path_index": 21
+							"path_index": 27
 						},
 						{
 							"id": "SingaporeStop_Blk151_W",
-							"path_index": 24
+							"path_index": 30
 						},
 						{
 							"id": "SingaporeStop_Blk180_NW",
-							"path_index": 26
+							"path_index": 32
 						},
 						{
 							"id": "SingaporeStop_OppBlk604_NW",
-							"path_index": 31
-						},
-						{
-							"id": "SingaporeStop_BefThomsonHillsDr_SW",
 							"path_index": 37
 						},
 						{
+							"id": "SingaporeStop_BefThomsonHillsDr_SW",
+							"path_index": 43
+						},
+						{
 							"id": "SingaporeStop_NpbSgoonDepot_SW",
-							"path_index": 40
+							"path_index": 46
 						},
 						{
 							"id": "SingaporeStop_OppMeadowsPierce_NW",
-							"path_index": 47
-						},
-						{
-							"id": "SingaporeStop_Opp3MSpore_NW",
-							"path_index": 49
-						},
-						{
-							"id": "SingaporeStop_AftNtucFairpriceCtr_NW",
 							"path_index": 53
 						},
 						{
+							"id": "SingaporeStop_Opp3MSpore_NW",
+							"path_index": 55
+						},
+						{
+							"id": "SingaporeStop_AftNtucFairpriceCtr_NW",
+							"path_index": 59
+						},
+						{
 							"id": "SingaporeStop_BefOldUppThomsonRd_N",
-							"path_index": 56
+							"path_index": 62
 						},
 						{
 							"id": "SingaporeStop_BefSle_N",
-							"path_index": 64
-						},
-						{
-							"id": "SingaporeStop_OppThongSoonRd_N",
 							"path_index": 70
 						},
 						{
+							"id": "SingaporeStop_OppThongSoonRd_N",
+							"path_index": 76
+						},
+						{
 							"id": "SingaporeStop_OppNesseaClub_N",
-							"path_index": 74
+							"path_index": 80
 						},
 						{
 							"id": "SingaporeStop_ForestHillsCondo_NE",
-							"path_index": 82
+							"path_index": 88
 						},
 						{
 							"id": "SingaporeStop_NeeSoonDricladCtr_NE",
-							"path_index": 86
-						},
-						{
-							"id": "SingaporeStop_NeeSoonHq22Sib_N",
-							"path_index": 89
-						},
-						{
-							"id": "SingaporeStop_AftSembawangAirBase_N",
 							"path_index": 92
 						},
 						{
+							"id": "SingaporeStop_NeeSoonHq22Sib_N",
+							"path_index": 95
+						},
+						{
+							"id": "SingaporeStop_AftSembawangAirBase_N",
+							"path_index": 98
+						},
+						{
 							"id": "SingaporeStop_DieppeBarracks_N",
-							"path_index": 94
+							"path_index": 100
 						},
 						{
 							"id": "SingaporeStop_OppKhatibCamp_NE",
-							"path_index": 97
+							"path_index": 103
 						},
 						{
 							"id": "SingaporeStop_Blk722_SE",
-							"path_index": 102
+							"path_index": 108
 						},
 						{
 							"id": "SingaporeStop_OppKhatibCamp_E",
-							"path_index": 105
+							"path_index": 111
 						},
 						{
 							"id": "SingaporeStop_Blk773_E",
-							"path_index": 110
+							"path_index": 116
 						},
 						{
 							"id": "SingaporeStop_Blk608_S",
-							"path_index": 113
+							"path_index": 119
 						},
 						{
 							"id": "SingaporeStop_Blk624_E",
-							"path_index": 117
+							"path_index": 123
 						},
 						{
 							"id": "SingaporeStop_Blk630_E",
-							"path_index": 122
+							"path_index": 128
 						},
 						{
 							"id": "SingaporeStop_Blk672C_NE",
-							"path_index": 131
+							"path_index": 137
 						},
 						{
 							"id": "SingaporeStop_OppNorthbrooksSecSch_N_1",
-							"path_index": 136
-						},
-						{
-							"id": "SingaporeStop_OppBlk445_NE",
-							"path_index": 140
-						},
-						{
-							"id": "SingaporeStop_Blk356_N",
 							"path_index": 142
 						},
 						{
+							"id": "SingaporeStop_OppBlk445_NE",
+							"path_index": 146
+						},
+						{
+							"id": "SingaporeStop_Blk356_N",
+							"path_index": 148
+						},
+						{
 							"id": "SingaporeStop_Blk358_N",
-							"path_index": 147
+							"path_index": 153
 						},
 						{
 							"id": "SingaporeStop_Blk342B_NW",
-							"path_index": 151
+							"path_index": 157
 						},
 						{
 							"id": "SingaporeStop_Blk314_NW",
-							"path_index": 160
+							"path_index": 166
 						},
 						{
 							"id": "SingaporeStop_Blk309_SW_1",
-							"path_index": 163
-						},
-						{
-							"id": "SingaporeStop_OppBlk201_W",
 							"path_index": 169
 						},
 						{
+							"id": "SingaporeStop_OppBlk201_W",
+							"path_index": 175
+						},
+						{
 							"id": "SingaporeStop_YishunInt_N",
-							"path_index": 173
+							"path_index": 179
 						}
 					]
 				}
@@ -1213,7 +1237,8 @@
 		"SingaporeStop_Blk624_E": {
 			"bearing": "E",
 			"brands": [
-				"SBSTBuses"
+				"SBSTBuses",
+				"TTSBuses"
 			],
 			"coords": [
 				1.417628,
@@ -1227,14 +1252,16 @@
 				"SBSTBuses811T",
 				"SBSTBuses850E",
 				"SBSTBuses860",
-				"SBSTBuses860T"
+				"SBSTBuses860T",
+				"TTSBuses861"
 			],
 			"stop_code": "59421"
 		},
 		"SingaporeStop_Blk630_E": {
 			"bearing": "SE",
 			"brands": [
-				"SBSTBuses"
+				"SBSTBuses",
+				"TTSBuses"
 			],
 			"coords": [
 				1.417805,
@@ -1248,14 +1275,16 @@
 				"SBSTBuses811T",
 				"SBSTBuses850E",
 				"SBSTBuses860",
-				"SBSTBuses860T"
+				"SBSTBuses860T",
+				"TTSBuses861"
 			],
 			"stop_code": "59431"
 		},
 		"SingaporeStop_Blk672C_NE": {
 			"bearing": "NE",
 			"brands": [
-				"SBSTBuses"
+				"SBSTBuses",
+				"TTSBuses"
 			],
 			"coords": [
 				1.418198,
@@ -1267,7 +1296,8 @@
 				"SBSTBuses807",
 				"SBSTBuses850E",
 				"SBSTBuses860",
-				"SBSTBuses860T"
+				"SBSTBuses860T",
+				"TTSBuses861"
 			],
 			"stop_code": "59711"
 		},

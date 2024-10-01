@@ -51,9 +51,10 @@
 		]
 	},
 	{
-		"name": "From Aft S&#039;pore Flyer to Bt Batok Int",
+		"name": "From Aft S'pore Flyer to Bt Batok Int",
 		"stops": [
 			"02101",
+			"02051",
 			"02061",
 			"04111",
 			"04121",

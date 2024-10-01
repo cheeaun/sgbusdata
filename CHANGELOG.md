@@ -1,3 +1,72 @@
+# 1 October 2024
+
+## Stops count change: 5132 ⮕ 5137
+
+### Stops added: 5
+
+- `10287` Opposite Cycle & Carriage
+- `40411` Blk 221B
+- `40419` Blk 215
+- `75609` Giant Hypermarket
+- `02051` The Float @ Marina Bay
+
+### Stop names changed: 1
+
+- `21541` Jurong Futsal Ctr ⮕ Aft Fourth Chin Bee Rd
+
+## Services count change: 550 ⮕ 555
+
+### Services added: 5
+
+- `861` Sembawang Int ⟲ Blk 846
+- `129A` Temasek Poly East G → Bartley Stn Exit A
+- `129B` Gambir Ridge → Opp Temasek Poly East G
+- `249A` Boon Lay Int → Jurong Shipyard
+- `861A` Sembawang Int → Khatib Stn Exit D
+
+### Bus Stop Changes To Routes: 26
+
+- `33` Bedok Int ⇄ Kent Ridge Ter: +1
+- `36` Changi Airport Ter 2 ⟲ Orchard Stn Exit 13: +1
+- `56` Bishan Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `64` Sims Pl Ter ⟲ Blk 157: +1
+- `77` Bt Batok Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `97` Jurong East Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `106` Bt Batok Int ⇄ Shenton Way Ter: +1
+- `111` Ghim Moh Ter ⟲ The Float @ Marina Bay: +1
+- `120` Kampong Bahru Ter ⟲ Opp Telok Blangah Mkt/FC: +1
+- `133` Ang Mo Kio Int ⇄ Shenton Way Ter: +1
+- `145` Toa Payoh Int ⇄ Buona Vista Ter: +1
+- `195` Aft S'pore Flyer → Promenade Stn/Pan Pacific: +1
+- `296` Tampines Int ⟲ Giant Hypermarket: +1
+- `857` Yishun Int ⟲ Opp The Ritz-Carlton: +1
+- `871` Tengah Int ⟲ Opp Beauty World Stn: +2
+- `960` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `992` Bt Batok Int ⇄ Tengah Int: +2
+- `195A` Aft S'pore Flyer → Tiong Bahru Stn: +1
+- `33A` Kent Ridge Ter → Blk 1: +1
+- `36A` Changi Airport Ter 2 → Aft Cuscaden Rd: +1
+- `36B` Lagoon View → Bef Seaside Residences: +1
+- `70M` Yio Chu Kang Int ⟲ The Float @ Marina Bay: +1
+- `89e` Hougang Ctrl Int ⇄ SATS Cargo Ter / 3rd Cargo Agents: +2
+- `960e` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `961M` Woodlands Temp Int ⇄ Lor 1 Geylang Ter: +2
+- `97e` Jurong East Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+
+## Routes changed: 7
+
+- `860T` Yio Chu Kang Int → Yishun Int
+- `92A` Buona Vista Stn Exit D → Opp Normanton Pk/R'ford
+- `861` Sembawang Int ⟲ Blk 846
+- `129A` Temasek Poly East G → Bartley Stn Exit A
+- `129B` Gambir Ridge → Opp Temasek Poly East G
+- `249A` Boon Lay Int → Jurong Shipyard
+- `861A` Sembawang Int → Khatib Stn Exit D
+
+## First/last timings changed
+
+Affected services: `33`, `36`, `50`, `56`, `64`, `77`, `97`, `106`, `111`, `120`, `133`, `145`, `155`, `178`, `195`, `296`, `857`, `871`, `960`, `992`, `961M`, `195A`, `33A`, `97e`, `960e`, `70M`, `89e`, `36B`, `36A`, `861`, `50A`, `861A`
+
 # 1 September 2024
 
 ## Stops count change: 5135 ⮕ 5132
