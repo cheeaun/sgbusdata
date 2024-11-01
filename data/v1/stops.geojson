@@ -791,7 +791,7 @@
 			"id": "10161",
 			"properties": {
 				"number": "10161",
-				"name": "Opp Tiong Bahru Stn",
+				"name": "Opp Tiong Bahru Stn/Plaza",
 				"road": "Tiong Bahru Rd",
 				"services": [
 					"121",
@@ -822,7 +822,7 @@
 			"id": "10169",
 			"properties": {
 				"number": "10169",
-				"name": "Tiong Bahru Stn",
+				"name": "Tiong Bahru Stn/Plaza",
 				"road": "Tiong Bahru Rd",
 				"services": [
 					"121",
@@ -7275,7 +7275,7 @@
 			"id": "14221",
 			"properties": {
 				"number": "14221",
-				"name": "Opp St. Teresa's Ch",
+				"name": "Opp Ch of St. Teresa",
 				"road": "Kg Bahru Rd",
 				"services": [
 					"124",
@@ -7297,7 +7297,7 @@
 			"id": "14229",
 			"properties": {
 				"number": "14229",
-				"name": "St. Teresa's Ch",
+				"name": "Ch of St. Teresa",
 				"road": "Kg Bahru Rd",
 				"services": [
 					"124",
@@ -13373,7 +13373,7 @@
 			"id": "20109",
 			"properties": {
 				"number": "20109",
-				"name": "Blk 203",
+				"name": "Aft Clementi Fire Stn",
 				"road": "C'wealth Ave West",
 				"services": [
 					"105",
@@ -15117,7 +15117,7 @@
 			"id": "21251",
 			"properties": {
 				"number": "21251",
-				"name": "Sime Darby",
+				"name": "Bef Quality Rd",
 				"road": "Chin Bee Dr",
 				"services": [
 					"246",
@@ -15137,7 +15137,7 @@
 			"id": "21259",
 			"properties": {
 				"number": "21259",
-				"name": "Opp Sime Darby",
+				"name": "Aft Quality Rd",
 				"road": "Chin Bee Dr",
 				"services": [
 					"246",
@@ -15432,7 +15432,7 @@
 			"id": "21341",
 			"properties": {
 				"number": "21341",
-				"name": "Opp Beecham Pte Ltd",
+				"name": "Opp GSK",
 				"road": "Jln Boon Lay",
 				"services": [
 					"249"
@@ -15451,7 +15451,7 @@
 			"id": "21349",
 			"properties": {
 				"number": "21349",
-				"name": "Beecham Pte Ltd",
+				"name": "GSK",
 				"road": "Jln Boon Lay",
 				"services": [
 					"249",
@@ -15983,7 +15983,7 @@
 			"id": "21471",
 			"properties": {
 				"number": "21471",
-				"name": "Aft Tukang Innovation Dr",
+				"name": "Bef Tukang Innovation Lane",
 				"road": "Jln Tukang",
 				"services": [
 					"246"
@@ -16002,7 +16002,7 @@
 			"id": "21479",
 			"properties": {
 				"number": "21479",
-				"name": "Hup Leck Heavy Equipment",
+				"name": "Aft Tukang Innovation Lane",
 				"road": "Jln Tukang",
 				"services": [
 					"246"
@@ -17015,6 +17015,46 @@
 		},
 		{
 			"type": "Feature",
+			"id": "21721",
+			"properties": {
+				"number": "21721",
+				"name": "Blk 239A",
+				"road": "Boon Lay Dr",
+				"services": [
+					"240",
+					"240M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.711075,
+					1.342563
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "21729",
+			"properties": {
+				"number": "21729",
+				"name": "Opposite Blk 239A",
+				"road": "Boon Lay Dr",
+				"services": [
+					"240",
+					"240M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.711321,
+					1.34238
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "21751",
 			"properties": {
 				"number": "21751",
@@ -17749,7 +17789,7 @@
 			"id": "22191",
 			"properties": {
 				"number": "22191",
-				"name": "Sbst Soon Lee Depot",
+				"name": "Soon Lee Depot",
 				"road": "Soon Lee Rd",
 				"services": [
 					"185",
@@ -17770,7 +17810,7 @@
 			"id": "22199",
 			"properties": {
 				"number": "22199",
-				"name": "Opp Sbst Soon Lee Depot",
+				"name": "Opp Soon Lee Depot",
 				"road": "Soon Lee Rd",
 				"services": [
 					"185",
@@ -18102,7 +18142,7 @@
 			"id": "22331",
 			"properties": {
 				"number": "22331",
-				"name": "Jurong Shipyard",
+				"name": "Tg Kling Rd (End)",
 				"road": "Tg Kling Rd",
 				"services": [
 					"249",
@@ -18402,7 +18442,7 @@
 			"id": "22431",
 			"properties": {
 				"number": "22431",
-				"name": "Opp Four Leaves",
+				"name": "Opp Fei Siong Group",
 				"road": "Enterprise Rd",
 				"services": [
 					"252"
@@ -18421,7 +18461,7 @@
 			"id": "22439",
 			"properties": {
 				"number": "22439",
-				"name": "Aft Four Leaves",
+				"name": "Aft Fei Siong Group",
 				"road": "Enterprise Rd",
 				"services": [
 					"252"
@@ -18587,7 +18627,7 @@
 			"id": "22471",
 			"properties": {
 				"number": "22471",
-				"name": "Bef Jurong West St 93",
+				"name": "Blk 991B",
 				"road": "Upp Jurong Rd",
 				"services": [
 					"192",
@@ -18609,7 +18649,7 @@
 			"id": "22479",
 			"properties": {
 				"number": "22479",
-				"name": "Aft Jurong West St 93",
+				"name": "Opp Blk 991B",
 				"road": "Upp Jurong Rd",
 				"services": [
 					"192",
@@ -19800,7 +19840,7 @@
 			"id": "23191",
 			"properties": {
 				"number": "23191",
-				"name": "Opp S'Pore Trspt Pte Ltd",
+				"name": "SK Tes",
 				"road": "Benoi Sector",
 				"services": [
 					"253"
@@ -19819,7 +19859,7 @@
 			"id": "23199",
 			"properties": {
 				"number": "23199",
-				"name": "S'Pore Trspt Pte Ltd",
+				"name": "Opp SK Tes",
 				"road": "Benoi Sector",
 				"services": [
 					"253"
@@ -19838,7 +19878,7 @@
 			"id": "23201",
 			"properties": {
 				"number": "23201",
-				"name": "Opp Shimano Pte Ltd",
+				"name": "Pall Corporation",
 				"road": "Benoi Sector",
 				"services": [
 					"253"
@@ -19857,7 +19897,7 @@
 			"id": "23209",
 			"properties": {
 				"number": "23209",
-				"name": "Aft Shimano Pte Ltd",
+				"name": "NS BlueScope Lysaght",
 				"road": "Benoi Sector",
 				"services": [
 					"253"
@@ -19895,7 +19935,7 @@
 			"id": "23219",
 			"properties": {
 				"number": "23219",
-				"name": "Tru-Marine",
+				"name": "Opp Mapletree Log Hub",
 				"road": "Benoi Sector",
 				"services": [
 					"253"
@@ -20186,7 +20226,7 @@
 			"id": "23311",
 			"properties": {
 				"number": "23311",
-				"name": "Keppel Shipyard",
+				"name": "Seatrium Benoi Yard",
 				"road": "Benoi Rd",
 				"services": [
 					"253"
@@ -20319,7 +20359,7 @@
 			"id": "23361",
 			"properties": {
 				"number": "23361",
-				"name": "Opp Keppel Logistics",
+				"name": "Bef Benoi Sector",
 				"road": "Benoi Rd",
 				"services": [
 					"257"
@@ -20338,7 +20378,7 @@
 			"id": "23369",
 			"properties": {
 				"number": "23369",
-				"name": "Keppel Logistics",
+				"name": "Aft Benoi Sector",
 				"road": "Benoi Rd",
 				"services": [
 					"257"
@@ -20477,7 +20517,7 @@
 			"id": "23429",
 			"properties": {
 				"number": "23429",
-				"name": "Opp EMAS Marine Base",
+				"name": "Opp Mooreast",
 				"road": "Shipyard Rd",
 				"services": [
 					"251"
@@ -20496,7 +20536,7 @@
 			"id": "23439",
 			"properties": {
 				"number": "23439",
-				"name": "Opp SML Shipyard Ltd",
+				"name": "Opp LP 71",
 				"road": "Shipyard Rd",
 				"services": [
 					"251"
@@ -20553,7 +20593,7 @@
 			"id": "23451",
 			"properties": {
 				"number": "23451",
-				"name": "Jurong Shipyard",
+				"name": "Opp Chemical Industries",
 				"road": "Jln Samulun",
 				"services": [
 					"249"
@@ -21357,7 +21397,7 @@
 			"id": "24341",
 			"properties": {
 				"number": "24341",
-				"name": "Opp Keppel Shipyard",
+				"name": "Seatrium Pioneer Yard",
 				"road": "Gul Rd",
 				"services": [
 					"257"
@@ -21376,7 +21416,7 @@
 			"id": "24349",
 			"properties": {
 				"number": "24349",
-				"name": "Keppel Shipyard",
+				"name": "ST Engrg Gul Yard",
 				"road": "Gul Rd",
 				"services": [
 					"257"
@@ -21547,7 +21587,7 @@
 			"id": "24411",
 			"properties": {
 				"number": "24411",
-				"name": "Gul Camp",
+				"name": "Opp Multi Ways Equipment",
 				"road": "Pioneer Sector 2",
 				"services": [
 					"257"
@@ -21855,7 +21895,7 @@
 			"id": "24541",
 			"properties": {
 				"number": "24541",
-				"name": "Opp Keppel Shipyard",
+				"name": "Opp Seatrium Tuas Yard",
 				"road": "Pioneer Sector 1",
 				"services": [
 					"257"
@@ -21874,7 +21914,7 @@
 			"id": "24549",
 			"properties": {
 				"number": "24549",
-				"name": "Keppel Shipyard",
+				"name": "Seatrium Tuas Yard",
 				"road": "Pioneer Sector 1",
 				"services": [
 					"257"
@@ -21893,7 +21933,7 @@
 			"id": "24559",
 			"properties": {
 				"number": "24559",
-				"name": "HQ 6 Div",
+				"name": "Opp Crystal Offshore",
 				"road": "Pioneer Sector 1",
 				"services": [
 					"257"
@@ -22719,7 +22759,7 @@
 			"id": "25181",
 			"properties": {
 				"number": "25181",
-				"name": "MAN Diesel",
+				"name": "Bef Tuas Dr 1",
 				"road": "Tuas Ave 1",
 				"services": [
 					"192"
@@ -23070,7 +23110,7 @@
 			"id": "25339",
 			"properties": {
 				"number": "25339",
-				"name": "Asia Steel Welded Mesh",
+				"name": "Opp Chugoku Marine Paints",
 				"road": "Tuas Ave 5",
 				"services": [
 					"193"
@@ -23089,7 +23129,7 @@
 			"id": "25341",
 			"properties": {
 				"number": "25341",
-				"name": "ROCKWOOL",
+				"name": "Bef Tuas Ave 2",
 				"road": "Tuas Ave 5",
 				"services": [
 					"193"
@@ -23184,7 +23224,7 @@
 			"id": "25369",
 			"properties": {
 				"number": "25369",
-				"name": "Jas Metal Coatings",
+				"name": "Opp Yan San Metals",
 				"road": "Tuas Ave 4",
 				"services": [
 					"193"
@@ -24983,7 +25023,7 @@
 			"id": "26141",
 			"properties": {
 				"number": "26141",
-				"name": "Smarty",
+				"name": "Mectron Engrg",
 				"road": "Tuas Ave 11",
 				"services": [
 					"254"
@@ -25002,7 +25042,7 @@
 			"id": "26151",
 			"properties": {
 				"number": "26151",
-				"name": "Opp Hempel",
+				"name": "Tuas Lot",
 				"road": "Tuas Ave 11",
 				"services": [
 					"254"
@@ -25363,7 +25403,7 @@
 			"id": "26331",
 			"properties": {
 				"number": "26331",
-				"name": "RS Components",
+				"name": "Aft Tuas Sth St 2",
 				"road": "Tuas Sth Ave 5",
 				"services": [
 					"182",
@@ -41281,7 +41321,7 @@
 			"id": "44361",
 			"properties": {
 				"number": "44361",
-				"name": "Bef Dairy Farm Rd",
+				"name": "Opp Dairy Farm Mall",
 				"road": "Petir Rd",
 				"services": [
 					"966",
@@ -41303,7 +41343,7 @@
 			"id": "44369",
 			"properties": {
 				"number": "44369",
-				"name": "Aft Dairy Farm Rd",
+				"name": "Dairy Farm Mall",
 				"road": "Petir Rd",
 				"services": [
 					"966",
@@ -45032,7 +45072,7 @@
 			"id": "45421",
 			"properties": {
 				"number": "45421",
-				"name": "Opp Blk 666",
+				"name": "Blk 689A",
 				"road": "Choa Chu Kang Cres",
 				"services": [
 					"302",
@@ -47739,7 +47779,7 @@
 			"id": "46561",
 			"properties": {
 				"number": "46561",
-				"name": "Opp Blk 178",
+				"name": "Blk 183C",
 				"road": "Woodlands St 13",
 				"services": [
 					"911",
@@ -47781,7 +47821,7 @@
 			"id": "46571",
 			"properties": {
 				"number": "46571",
-				"name": "Opp Blk 154",
+				"name": "Blk 182",
 				"road": "Woodlands St 13",
 				"services": [
 					"911",
@@ -47824,7 +47864,7 @@
 			"id": "46581",
 			"properties": {
 				"number": "46581",
-				"name": "Opp Blk 146",
+				"name": "Blk 189B",
 				"road": "Woodlands St 13",
 				"services": [
 					"911",
@@ -56673,7 +56713,7 @@
 			"id": "53161",
 			"properties": {
 				"number": "53161",
-				"name": "Opp Blk 254",
+				"name": "Marymount CC",
 				"road": "Marymount Rd",
 				"services": [
 					"13",
@@ -59331,7 +59371,8 @@
 					"159",
 					"159A",
 					"265",
-					"50"
+					"50",
+					"50A"
 				]
 			},
 			"geometry": {
@@ -59380,6 +59421,7 @@
 					"265",
 					"45",
 					"50",
+					"50A",
 					"668",
 					"72"
 				]
@@ -59534,7 +59576,8 @@
 					"159",
 					"159A",
 					"265",
-					"50"
+					"50",
+					"50A"
 				]
 			},
 			"geometry": {
@@ -59834,6 +59877,7 @@
 					"159A",
 					"45",
 					"50",
+					"50A",
 					"72"
 				]
 			},
@@ -59882,6 +59926,7 @@
 					"159",
 					"159A",
 					"50",
+					"50A",
 					"72",
 					"88",
 					"88A"
@@ -59930,6 +59975,7 @@
 					"159",
 					"159A",
 					"50",
+					"50A",
 					"72",
 					"88",
 					"88A"
@@ -59979,6 +60025,7 @@
 					"159A",
 					"268",
 					"50",
+					"50A",
 					"72",
 					"88",
 					"88A"
@@ -59997,7 +60044,7 @@
 			"id": "54511",
 			"properties": {
 				"number": "54511",
-				"name": "Blk 5028",
+				"name": "Blk 5032",
 				"road": "Ang Mo Kio Ind Pk 2",
 				"services": [
 					"268",
@@ -60017,7 +60064,7 @@
 			"id": "54519",
 			"properties": {
 				"number": "54519",
-				"name": "Opp Blk 5023",
+				"name": "Extra Space",
 				"road": "Ang Mo Kio Ind Pk 2",
 				"services": [
 					"268"
@@ -60448,6 +60495,7 @@
 					"268",
 					"268A",
 					"50",
+					"50A",
 					"72",
 					"88",
 					"88A"
@@ -68599,7 +68647,7 @@
 			"id": "59629",
 			"properties": {
 				"number": "59629",
-				"name": "Opposite Blk 317A",
+				"name": "Symphony Suites Condo",
 				"road": "Yishun Ave 6",
 				"services": [
 					"801",
@@ -69159,6 +69207,27 @@
 				"coordinates": [
 					103.853576,
 					1.425903
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "59799",
+			"properties": {
+				"number": "59799",
+				"name": "Opp Blk 470A",
+				"road": "Yishun Ave 1",
+				"services": [
+					"103",
+					"117",
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.853305,
+					1.425161
 				]
 			}
 		},
@@ -74273,6 +74342,7 @@
 				"services": [
 					"103",
 					"50",
+					"50A",
 					"70",
 					"70A",
 					"70B",
@@ -77822,7 +77892,8 @@
 					"43",
 					"43M",
 					"43e",
-					"666"
+					"666",
+					"673"
 				]
 			},
 			"geometry": {
@@ -77850,7 +77921,8 @@
 					"43",
 					"43M",
 					"43e",
-					"666"
+					"666",
+					"673"
 				]
 			},
 			"geometry": {
@@ -77870,7 +77942,8 @@
 				"road": "Sumang Walk",
 				"services": [
 					"382",
-					"382G"
+					"382G",
+					"673"
 				]
 			},
 			"geometry": {
@@ -77890,7 +77963,8 @@
 				"road": "Sumang Walk",
 				"services": [
 					"382",
-					"382W"
+					"382W",
+					"673"
 				]
 			},
 			"geometry": {
@@ -77910,7 +77984,8 @@
 				"road": "Sumang Walk",
 				"services": [
 					"382",
-					"382G"
+					"382G",
+					"673"
 				]
 			},
 			"geometry": {
@@ -77930,7 +78005,8 @@
 				"road": "Sumang Walk",
 				"services": [
 					"382",
-					"382W"
+					"382W",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78034,7 +78110,8 @@
 				"road": "Sumang Walk",
 				"services": [
 					"382",
-					"382G"
+					"382G",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78054,7 +78131,8 @@
 				"road": "Sumang Walk",
 				"services": [
 					"382",
-					"382W"
+					"382W",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78095,6 +78173,7 @@
 				"road": "Punggol East",
 				"services": [
 					"50",
+					"50A",
 					"62",
 					"62A",
 					"85"
@@ -78118,7 +78197,8 @@
 				"services": [
 					"382",
 					"382A",
-					"382G"
+					"382G",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78138,7 +78218,8 @@
 				"road": "Sumang Lane",
 				"services": [
 					"382",
-					"382W"
+					"382W",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78159,7 +78240,8 @@
 				"services": [
 					"382",
 					"382A",
-					"382G"
+					"382G",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78179,7 +78261,8 @@
 				"road": "Sumang Crescent",
 				"services": [
 					"382",
-					"382W"
+					"382W",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78200,7 +78283,8 @@
 				"services": [
 					"382",
 					"382A",
-					"382G"
+					"382G",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78220,7 +78304,8 @@
 				"road": "Punggol Field",
 				"services": [
 					"382",
-					"382W"
+					"382W",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78279,7 +78364,8 @@
 				"services": [
 					"382",
 					"382A",
-					"382G"
+					"382G",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78299,7 +78385,8 @@
 				"road": "Punggol Field",
 				"services": [
 					"382",
-					"382W"
+					"382W",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78377,6 +78464,7 @@
 				"road": "Punggol Way",
 				"services": [
 					"384",
+					"673",
 					"84G"
 				]
 			},
@@ -78397,6 +78485,7 @@
 				"road": "Punggol Way",
 				"services": [
 					"384",
+					"673",
 					"84W"
 				]
 			},
@@ -78416,6 +78505,7 @@
 				"name": "Samudera Stn Exit A",
 				"road": "Punggol Way",
 				"services": [
+					"673",
 					"84G"
 				]
 			},
@@ -78436,6 +78526,7 @@
 				"road": "Punggol Way",
 				"services": [
 					"384",
+					"673",
 					"84W"
 				]
 			},
@@ -78455,6 +78546,7 @@
 				"name": "Bef Punggol Pt Stn",
 				"road": "Punggol Way",
 				"services": [
+					"673",
 					"84G"
 				]
 			},
@@ -78531,7 +78623,8 @@
 				"name": "Punggol cove pr sch",
 				"road": "Sumang Link",
 				"services": [
-					"382G"
+					"382G",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78550,7 +78643,8 @@
 				"name": "Opp punggol cove pr sch",
 				"road": "Sumang Link",
 				"services": [
-					"382W"
+					"382W",
+					"673"
 				]
 			},
 			"geometry": {
@@ -78782,6 +78876,7 @@
 				"road": "Anchorvale Rd",
 				"services": [
 					"50",
+					"50A",
 					"671"
 				]
 			},
@@ -80437,6 +80532,7 @@
 					"159",
 					"159A",
 					"50",
+					"50A",
 					"72",
 					"88",
 					"88A"
@@ -80505,6 +80601,7 @@
 				"road": "Ang Mo Kio Ave 5",
 				"services": [
 					"50",
+					"50A",
 					"72",
 					"88",
 					"88A"
@@ -81182,6 +81279,7 @@
 				"services": [
 					"103",
 					"50",
+					"50A",
 					"70",
 					"70A",
 					"70B",
@@ -81230,6 +81328,7 @@
 				"services": [
 					"103",
 					"50",
+					"50A",
 					"70",
 					"70A",
 					"70B",
@@ -81279,6 +81378,7 @@
 				"services": [
 					"103",
 					"50",
+					"50A",
 					"70",
 					"70A",
 					"70B",
@@ -81327,6 +81427,7 @@
 				"services": [
 					"103",
 					"50",
+					"50A",
 					"70",
 					"70A",
 					"70B",
@@ -81397,6 +81498,7 @@
 				"services": [
 					"103",
 					"50",
+					"50A",
 					"86",
 					"86A"
 				]
@@ -81485,7 +81587,8 @@
 					"161",
 					"163",
 					"372",
-					"50"
+					"50",
+					"50A"
 				]
 			},
 			"geometry": {
@@ -81527,7 +81630,8 @@
 				"services": [
 					"119",
 					"136",
-					"50"
+					"50",
+					"50A"
 				]
 			},
 			"geometry": {
@@ -81569,7 +81673,8 @@
 				"services": [
 					"119",
 					"136",
-					"50"
+					"50",
+					"50A"
 				]
 			},
 			"geometry": {
@@ -82443,6 +82548,7 @@
 					"163A",
 					"163B",
 					"50",
+					"50A",
 					"671"
 				]
 			},
@@ -82634,7 +82740,8 @@
 				"services": [
 					"110",
 					"372",
-					"50"
+					"50",
+					"50A"
 				]
 			},
 			"geometry": {
@@ -82702,6 +82809,7 @@
 					"102A",
 					"372",
 					"50",
+					"50A",
 					"85"
 				]
 			},
@@ -82749,6 +82857,7 @@
 					"102A",
 					"372",
 					"50",
+					"50A",
 					"85"
 				]
 			},
@@ -82802,7 +82911,8 @@
 					"161",
 					"372",
 					"374",
-					"50"
+					"50",
+					"50A"
 				]
 			},
 			"geometry": {
@@ -83127,6 +83237,7 @@
 					"163A",
 					"163B",
 					"50",
+					"50A",
 					"671"
 				]
 			},
@@ -83171,6 +83282,7 @@
 					"163A",
 					"163B",
 					"50",
+					"50A",
 					"671"
 				]
 			},
@@ -83219,6 +83331,7 @@
 					"163A",
 					"163B",
 					"50",
+					"50A",
 					"671"
 				]
 			},
@@ -83338,6 +83451,7 @@
 				"road": "Sengkang East Dr",
 				"services": [
 					"50",
+					"50A",
 					"62",
 					"62A",
 					"85"
@@ -83380,6 +83494,7 @@
 				"road": "Sengkang East Way",
 				"services": [
 					"50",
+					"50A",
 					"85"
 				]
 			},
@@ -84237,6 +84352,7 @@
 					"102A",
 					"103",
 					"50",
+					"50A",
 					"671",
 					"86",
 					"86A"
@@ -86096,7 +86212,7 @@
 			"id": "70279",
 			"properties": {
 				"number": "70279",
-				"name": "Opp Trinity @ Paya Lebar",
+				"name": "Opp Trinity Paya Lebar",
 				"road": "Paya Lebar Rd",
 				"services": [
 					"158",
@@ -89510,7 +89626,7 @@
 			"id": "75261",
 			"properties": {
 				"number": "75261",
-				"name": "Bet Blks 710/713",
+				"name": "Blk 709",
 				"road": "Tampines Ave 6",
 				"services": [
 					"296",
@@ -89531,7 +89647,7 @@
 			"id": "75269",
 			"properties": {
 				"number": "75269",
-				"name": "Opp Blks 710/713",
+				"name": "Blk 522 CP",
 				"road": "Tampines Ave 6",
 				"services": [
 					"296",
@@ -93096,7 +93212,7 @@
 			"properties": {
 				"number": "77031",
 				"name": "Opp Pasir Ris Stn Exit B",
-				"road": "Pasir Ris Dr 1",
+				"road": "Pasir Ris Ctrl",
 				"services": [
 					"109",
 					"39",
@@ -93121,7 +93237,7 @@
 			"properties": {
 				"number": "77039",
 				"name": "Pasir Ris Stn Exit B",
-				"road": "Pasir Ris Dr 1",
+				"road": "Pasir Ris Ctrl",
 				"services": [
 					"109",
 					"39",
@@ -100718,7 +100834,7 @@
 			"id": "84219",
 			"properties": {
 				"number": "84219",
-				"name": "Bet Blks 139/140",
+				"name": "Blk 139",
 				"road": "Bedok Nth Ave 3",
 				"services": [
 					"14",
@@ -109030,7 +109146,7 @@
 			"id": "97051",
 			"properties": {
 				"number": "97051",
-				"name": "Opp Changi Women's Prison",
+				"name": "Komo Shoppes",
 				"road": "Upp Changi Rd Nth",
 				"services": [
 					"2",
@@ -110947,7 +111063,7 @@
 			"id": "99129",
 			"properties": {
 				"number": "99129",
-				"name": "Changi Village Hotel",
+				"name": "Village Hotel Changi",
 				"road": "Changi Village Rd",
 				"services": [
 					"29"
@@ -112393,7 +112509,8 @@
 				"name": "Suntec Twr Two",
 				"road": "Temasek Blvd",
 				"services": [
-					"107M"
+					"107M",
+					"673"
 				]
 			},
 			"geometry": {
@@ -112414,7 +112531,8 @@
 				"services": [
 					"36",
 					"36A",
-					"36B"
+					"36B",
+					"673"
 				]
 			},
 			"geometry": {
@@ -112499,6 +112617,7 @@
 					"502A",
 					"518",
 					"518A",
+					"673",
 					"70A",
 					"70M",
 					"857",
@@ -112525,6 +112644,7 @@
 				"road": "Temasek Ave",
 				"services": [
 					"107M",
+					"673",
 					"97",
 					"97e"
 				]
@@ -112555,6 +112675,7 @@
 					"502A",
 					"518",
 					"518A",
+					"673",
 					"70A",
 					"70M",
 					"857",
@@ -112924,6 +113045,7 @@
 					"670",
 					"671",
 					"672",
+					"673",
 					"70",
 					"850E",
 					"951E",
@@ -112954,6 +113076,7 @@
 					"186",
 					"400",
 					"57",
+					"673",
 					"970"
 				]
 			},
@@ -112980,6 +113103,7 @@
 					"131A",
 					"502",
 					"57",
+					"673",
 					"97",
 					"97e",
 					"982E"
@@ -113063,6 +113187,7 @@
 					"196",
 					"196e",
 					"513",
+					"673",
 					"70",
 					"850E",
 					"868E",
@@ -113093,6 +113218,7 @@
 					"186",
 					"400",
 					"57",
+					"673",
 					"970"
 				]
 			},
@@ -113323,6 +113449,7 @@
 					"670",
 					"671",
 					"672",
+					"673",
 					"97",
 					"97e",
 					"982E"
@@ -113360,6 +113487,7 @@
 					"670",
 					"671",
 					"672",
+					"673",
 					"97",
 					"97e",
 					"982E"
@@ -113440,6 +113568,7 @@
 				"services": [
 					"106",
 					"133",
+					"673",
 					"97",
 					"97e"
 				]
@@ -113466,6 +113595,7 @@
 					"502A",
 					"518",
 					"518A",
+					"673",
 					"97",
 					"97e"
 				]
@@ -113488,6 +113618,7 @@
 				"services": [
 					"106",
 					"133",
+					"673",
 					"97",
 					"97e"
 				]
@@ -113514,6 +113645,7 @@
 					"502A",
 					"518",
 					"518A",
+					"673",
 					"97",
 					"97e"
 				]
@@ -113551,6 +113683,7 @@
 					"670",
 					"671",
 					"672",
+					"673",
 					"97",
 					"97e",
 					"982E"
@@ -113590,6 +113723,7 @@
 					"670",
 					"671",
 					"672",
+					"673",
 					"97",
 					"97e",
 					"982E"
@@ -117255,7 +117389,7 @@
 			"id": "09213",
 			"properties": {
 				"number": "09213",
-				"name": "Thong Teck Bldg",
+				"name": "15 Scotts",
 				"road": "Scotts Rd",
 				"services": [
 					"105",

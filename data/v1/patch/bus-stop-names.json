@@ -160,6 +160,11 @@
 		"newName": "Opp UTOC Engrg"
 	},
 	{
+		"number": "21349",
+		"name": "GSK",
+		"newName": "GSK"
+	},
+	{
 		"number": "21691",
 		"name": "OPP SUMMERDALE",
 		"newName": "Opp Summerdale"
@@ -173,11 +178,6 @@
 		"number": "24441",
 		"name": "GSK",
 		"newName": "GSK"
-	},
-	{
-		"number": "25341",
-		"name": "ROCKWOOL",
-		"newName": "ROCKWOOL"
 	},
 	{
 		"number": "25421",

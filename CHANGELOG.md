@@ -1,3 +1,104 @@
+# 1 November 2024
+
+## Stops count change: 5137 ⮕ 5140
+
+### Stops added: 3
+
+- `21721` Blk 239A
+- `21729` Opposite Blk 239A
+- `59799` Opp Blk 470A
+
+### Stop names changed: 59
+
+- `10161` Opp Tiong Bahru Stn ⮕ Opp Tiong Bahru Stn/Plaza
+- `10169` Tiong Bahru Stn ⮕ Tiong Bahru Stn/Plaza
+- `14221` Opp St. Teresa's Ch ⮕ Opp Ch of St. Teresa
+- `14229` St. Teresa's Ch ⮕ Ch of St. Teresa
+- `20109` Blk 203 ⮕ Aft Clementi Fire Stn
+- `21251` Sime Darby ⮕ Bef Quality Rd
+- `21259` Opp Sime Darby ⮕ Aft Quality Rd
+- `21341` Opp Beecham Pte Ltd ⮕ Opp GSK
+- `21349` Beecham Pte Ltd ⮕ GSK
+- `21471` Aft Tukang Innovation Dr ⮕ Bef Tukang Innovation Lane
+- `21479` Hup Leck Heavy Equipment ⮕ Aft Tukang Innovation Lane
+- `22191` Sbst Soon Lee Depot ⮕ Soon Lee Depot
+- `22199` Opp Sbst Soon Lee Depot ⮕ Opp Soon Lee Depot
+- `22331` Jurong Shipyard ⮕ Tg Kling Rd (End)
+- `22431` Opp Four Leaves ⮕ Opp Fei Siong Group
+- `22439` Aft Four Leaves ⮕ Aft Fei Siong Group
+- `22471` Bef Jurong West St 93 ⮕ Blk 991B
+- `22479` Aft Jurong West St 93 ⮕ Opp Blk 991B
+- `23191` Opp S'Pore Trspt Pte Ltd ⮕ SK Tes
+- `23199` S'Pore Trspt Pte Ltd ⮕ Opp SK Tes
+- `23201` Opp Shimano Pte Ltd ⮕ Pall Corporation
+- `23209` Aft Shimano Pte Ltd ⮕ NS BlueScope Lysaght
+- `23219` Tru-Marine ⮕ Opp Mapletree Log Hub
+- `23311` Keppel Shipyard ⮕ Seatrium Benoi Yard
+- `23361` Opp Keppel Logistics ⮕ Bef Benoi Sector
+- `23369` Keppel Logistics ⮕ Aft Benoi Sector
+- `23429` Opp EMAS Marine Base ⮕ Opp Mooreast
+- `23439` Opp SML Shipyard Ltd ⮕ Opp LP 71
+- `23451` Jurong Shipyard ⮕ Opp Chemical Industries
+- `24341` Opp Keppel Shipyard ⮕ Seatrium Pioneer Yard
+- `24349` Keppel Shipyard ⮕ ST Engrg Gul Yard
+- `24411` Gul Camp ⮕ Opp Multi Ways Equipment
+- `24541` Opp Keppel Shipyard ⮕ Opp Seatrium Tuas Yard
+- `24549` Keppel Shipyard ⮕ Seatrium Tuas Yard
+- `24559` HQ 6 Div ⮕ Opp Crystal Offshore
+- `25181` MAN Diesel ⮕ Bef Tuas Dr 1
+- `25339` Asia Steel Welded Mesh ⮕ Opp Chugoku Marine Paints
+- `25341` ROCKWOOL ⮕ Bef Tuas Ave 2
+- `25369` Jas Metal Coatings ⮕ Opp Yan San Metals
+- `26141` Smarty ⮕ Mectron Engrg
+- `26151` Opp Hempel ⮕ Tuas Lot
+- `26331` RS Components ⮕ Aft Tuas Sth St 2
+- `44361` Bef Dairy Farm Rd ⮕ Opp Dairy Farm Mall
+- `44369` Aft Dairy Farm Rd ⮕ Dairy Farm Mall
+- `45421` Opp Blk 666 ⮕ Blk 689A
+- `46561` Opp Blk 178 ⮕ Blk 183C
+- `46571` Opp Blk 154 ⮕ Blk 182
+- `46581` Opp Blk 146 ⮕ Blk 189B
+- `53161` Opp Blk 254 ⮕ Marymount CC
+- `54511` Blk 5028 ⮕ Blk 5032
+- `54519` Opp Blk 5023 ⮕ Extra Space
+- `59629` Opposite Blk 317A ⮕ Symphony Suites Condo
+- `70279` Opp Trinity @ Paya Lebar ⮕ Opp Trinity Paya Lebar
+- `75261` Bet Blks 710/713 ⮕ Blk 709
+- `75269` Opp Blks 710/713 ⮕ Blk 522 CP
+- `84219` Bet Blks 139/140 ⮕ Blk 139
+- `97051` Opp Changi Women's Prison ⮕ Komo Shoppes
+- `99129` Changi Village Hotel ⮕ Village Hotel Changi
+- `09213` Thong Teck Bldg ⮕ 15 Scotts
+
+### Stop locations changed: 2
+
+- `77031` 103.94847,1.37226 ⮕ 103.94847,1.37226
+- `77039` 103.94866,1.37241 ⮕ 103.94866,1.37241
+
+## Services count change: 555 ⮕ 557
+
+### Services added: 2
+
+- `673` Aft Punggol Pt Stn / Bef Punggol Pt Stn ⇄ Suntec Twr Two / Suntec Twr Three
+- `50A` Aft Punggol Field → Bef Ang Mo Kio Stn Exit B
+
+### Bus Stop Changes To Routes: 5
+
+- `103` S'Goon Int ⇄ Yishun Int: +1
+- `117` Punggol Temp Int ⇄ Sembawang Int: +1
+- `240` Boon Lay Int ⟲ Corp Pl: +2
+- `117M` Punggol Temp Int ⇄ Sembawang Int: +1
+- `240M` Lakeside Stn → Opp Lakeside Stn: +2
+
+## Routes changed: 2
+
+- `673` Aft Punggol Pt Stn / Bef Punggol Pt Stn ⇄ Suntec Twr Two / Suntec Twr Three
+- `50A` Aft Punggol Field → Bef Ang Mo Kio Stn Exit B
+
+## First/last timings changed
+
+Affected services: `16`, `31`, `47`, `103`, `117`, `196`, `229`, `240`, `16M`, `240M`, `117M`, `673`
+
 # 1 October 2024
 
 ## Stops count change: 5132 ⮕ 5137
