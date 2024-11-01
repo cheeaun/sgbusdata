@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From S&#039;Goon Int to Yishun Int",
+		"name": "From S'Goon Int to Yishun Int",
 		"stops": [
 			"66009",
 			"62131",
@@ -34,6 +34,7 @@
 			"68141",
 			"68151",
 			"68171",
+			"59799",
 			"59779",
 			"59789",
 			"59461",
@@ -45,7 +46,7 @@
 		]
 	},
 	{
-		"name": "From Yishun Int to S&#039;Goon Int",
+		"name": "From Yishun Int to S'Goon Int",
 		"stops": [
 			"59009",
 			"59069",

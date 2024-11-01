@@ -8021,7 +8021,7 @@
 	{
 		"name": "09213",
 		"wab": "true",
-		"details": "Thong Teck Bldg",
+		"details": "15 Scotts",
 		"coordinates": {
 			"lat": 1.30783805600034,
 			"long": 103.83305083303023
@@ -8291,7 +8291,7 @@
 	{
 		"name": "10161",
 		"wab": "true",
-		"details": "Opp Tiong Bahru Stn",
+		"details": "Opp Tiong Bahru Stn/Plaza",
 		"coordinates": {
 			"lat": 1.28593135445772,
 			"long": 103.82668969231534
@@ -8300,7 +8300,7 @@
 	{
 		"name": "10169",
 		"wab": "true",
-		"details": "Tiong Bahru Stn",
+		"details": "Tiong Bahru Stn/Plaza",
 		"coordinates": {
 			"lat": 1.28599961406266,
 			"long": 103.82748123930962
@@ -10739,7 +10739,7 @@
 	{
 		"name": "14221",
 		"wab": "true",
-		"details": "Opp St. Teresa's Ch",
+		"details": "Opp Ch of St. Teresa",
 		"coordinates": {
 			"lat": 1.27359332247784,
 			"long": 103.82893371728431
@@ -10748,7 +10748,7 @@
 	{
 		"name": "14229",
 		"wab": "true",
-		"details": "St. Teresa's Ch",
+		"details": "Ch of St. Teresa",
 		"coordinates": {
 			"lat": 1.27370670186653,
 			"long": 103.82857888915174
@@ -13187,7 +13187,7 @@
 	{
 		"name": "20109",
 		"wab": "true",
-		"details": "Blk 203",
+		"details": "Aft Clementi Fire Stn",
 		"coordinates": {
 			"lat": 1.32085220079341,
 			"long": 103.76206999856427
@@ -13907,7 +13907,7 @@
 	{
 		"name": "21251",
 		"wab": "true",
-		"details": "Sime Darby",
+		"details": "Bef Quality Rd",
 		"coordinates": {
 			"lat": 1.33624121368399,
 			"long": 103.71034741400833
@@ -13916,7 +13916,7 @@
 	{
 		"name": "21259",
 		"wab": "true",
-		"details": "Opp Sime Darby",
+		"details": "Aft Quality Rd",
 		"coordinates": {
 			"lat": 1.33604134949327,
 			"long": 103.71043700168366
@@ -14051,7 +14051,7 @@
 	{
 		"name": "21341",
 		"wab": "true",
-		"details": "Opp Beecham Pte Ltd",
+		"details": "Opp GSK",
 		"coordinates": {
 			"lat": 1.33517345758852,
 			"long": 103.70895825573741
@@ -14060,7 +14060,7 @@
 	{
 		"name": "21349",
 		"wab": "true",
-		"details": "Beecham Pte Ltd",
+		"details": "GSK",
 		"coordinates": {
 			"lat": 1.335535,
 			"long": 103.709304
@@ -14276,7 +14276,7 @@
 	{
 		"name": "21471",
 		"wab": "true",
-		"details": "Aft Tukang Innovation Dr",
+		"details": "Bef Tukang Innovation Lane",
 		"coordinates": {
 			"lat": 1.32673138898791,
 			"long": 103.71542666702132
@@ -14285,7 +14285,7 @@
 	{
 		"name": "21479",
 		"wab": "true",
-		"details": "Hup Leck Heavy Equipment",
+		"details": "Aft Tukang Innovation Lane",
 		"coordinates": {
 			"lat": 1.3269180560083,
 			"long": 103.71570166699784
@@ -14706,6 +14706,24 @@
 		}
 	},
 	{
+		"name": "21721",
+		"wab": "true",
+		"details": "Blk 239A",
+		"coordinates": {
+			"lat": 1.342563,
+			"long": 103.711075
+		}
+	},
+	{
+		"name": "21729",
+		"wab": "true",
+		"details": "Opposite Blk 239A",
+		"coordinates": {
+			"lat": 1.34238,
+			"long": 103.711321
+		}
+	},
+	{
 		"name": "21751",
 		"wab": "true",
 		"details": "Jurong Sec Sch",
@@ -15023,7 +15041,7 @@
 	{
 		"name": "22191",
 		"wab": "true",
-		"details": "Sbst Soon Lee Depot",
+		"details": "Soon Lee Depot",
 		"coordinates": {
 			"lat": 1.33130584013018,
 			"long": 103.69832754842358
@@ -15032,7 +15050,7 @@
 	{
 		"name": "22199",
 		"wab": "true",
-		"details": "Opp Sbst Soon Lee Depot",
+		"details": "Opp Soon Lee Depot",
 		"coordinates": {
 			"lat": 1.33102248150132,
 			"long": 103.69847431049809
@@ -15185,7 +15203,7 @@
 	{
 		"name": "22331",
 		"wab": "true",
-		"details": "Jurong Shipyard",
+		"details": "Tg Kling Rd (End)",
 		"coordinates": {
 			"lat": 1.30485847664917,
 			"long": 103.70317916961058
@@ -15320,7 +15338,7 @@
 	{
 		"name": "22431",
 		"wab": "true",
-		"details": "Opp Four Leaves",
+		"details": "Opp Fei Siong Group",
 		"coordinates": {
 			"lat": 1.33308242562379,
 			"long": 103.70742208599415
@@ -15329,7 +15347,7 @@
 	{
 		"name": "22439",
 		"wab": "true",
-		"details": "Aft Four Leaves",
+		"details": "Aft Fei Siong Group",
 		"coordinates": {
 			"lat": 1.33311257526168,
 			"long": 103.70680944659455
@@ -15392,7 +15410,7 @@
 	{
 		"name": "22471",
 		"wab": "true",
-		"details": "Bef Jurong West St 93",
+		"details": "Blk 991B",
 		"coordinates": {
 			"lat": 1.33509047686273,
 			"long": 103.6931453983202
@@ -15401,7 +15419,7 @@
 	{
 		"name": "22479",
 		"wab": "true",
-		"details": "Aft Jurong West St 93",
+		"details": "Opp Blk 991B",
 		"coordinates": {
 			"lat": 1.33474242487786,
 			"long": 103.693102645977
@@ -15923,7 +15941,7 @@
 	{
 		"name": "23191",
 		"wab": "true",
-		"details": "Opp S'Pore Trspt Pte Ltd",
+		"details": "SK Tes",
 		"coordinates": {
 			"lat": 1.31966145615591,
 			"long": 103.68362765144359
@@ -15932,7 +15950,7 @@
 	{
 		"name": "23199",
 		"wab": "true",
-		"details": "S'Pore Trspt Pte Ltd",
+		"details": "Opp SK Tes",
 		"coordinates": {
 			"lat": 1.31951264524841,
 			"long": 103.68312351699183
@@ -15941,7 +15959,7 @@
 	{
 		"name": "23201",
 		"wab": "true",
-		"details": "Opp Shimano Pte Ltd",
+		"details": "Pall Corporation",
 		"coordinates": {
 			"lat": 1.31964589958011,
 			"long": 103.68628552653574
@@ -15950,7 +15968,7 @@
 	{
 		"name": "23209",
 		"wab": "true",
-		"details": "Aft Shimano Pte Ltd",
+		"details": "NS BlueScope Lysaght",
 		"coordinates": {
 			"lat": 1.31950327084795,
 			"long": 103.68577614249959
@@ -15968,7 +15986,7 @@
 	{
 		"name": "23219",
 		"wab": "true",
-		"details": "Tru-Marine",
+		"details": "Opp Mapletree Log Hub",
 		"coordinates": {
 			"lat": 1.31832727349422,
 			"long": 103.68852528629336
@@ -16103,7 +16121,7 @@
 	{
 		"name": "23311",
 		"wab": "true",
-		"details": "Keppel Shipyard",
+		"details": "Seatrium Benoi Yard",
 		"coordinates": {
 			"lat": 1.30178638897679,
 			"long": 103.67745555601714
@@ -16166,7 +16184,7 @@
 	{
 		"name": "23361",
 		"wab": "true",
-		"details": "Opp Keppel Logistics",
+		"details": "Bef Benoi Sector",
 		"coordinates": {
 			"lat": 1.31910770453777,
 			"long": 103.6788383227952
@@ -16175,7 +16193,7 @@
 	{
 		"name": "23369",
 		"wab": "true",
-		"details": "Keppel Logistics",
+		"details": "Aft Benoi Sector",
 		"coordinates": {
 			"lat": 1.31907826658404,
 			"long": 103.67911023430729
@@ -16238,7 +16256,7 @@
 	{
 		"name": "23429",
 		"wab": "true",
-		"details": "Opp EMAS Marine Base",
+		"details": "Opp Mooreast",
 		"coordinates": {
 			"lat": 1.30456833652112,
 			"long": 103.68472051252805
@@ -16247,7 +16265,7 @@
 	{
 		"name": "23439",
 		"wab": "true",
-		"details": "Opp SML Shipyard Ltd",
+		"details": "Opp LP 71",
 		"coordinates": {
 			"lat": 1.30774277950908,
 			"long": 103.68468656882482
@@ -16274,7 +16292,7 @@
 	{
 		"name": "23451",
 		"wab": "true",
-		"details": "Jurong Shipyard",
+		"details": "Opp Chemical Industries",
 		"coordinates": {
 			"lat": 1.30402666700212,
 			"long": 103.6972844439932
@@ -16643,7 +16661,7 @@
 	{
 		"name": "24341",
 		"wab": "true",
-		"details": "Opp Keppel Shipyard",
+		"details": "Seatrium Pioneer Yard",
 		"coordinates": {
 			"lat": 1.29559624794118,
 			"long": 103.67069575266142
@@ -16652,7 +16670,7 @@
 	{
 		"name": "24349",
 		"wab": "true",
-		"details": "Keppel Shipyard",
+		"details": "ST Engrg Gul Yard",
 		"coordinates": {
 			"lat": 1.29557792043984,
 			"long": 103.67091644467769
@@ -16733,7 +16751,7 @@
 	{
 		"name": "24411",
 		"wab": "true",
-		"details": "Gul Camp",
+		"details": "Opp Multi Ways Equipment",
 		"coordinates": {
 			"lat": 1.30243777798816,
 			"long": 103.66173361100701
@@ -16877,7 +16895,7 @@
 	{
 		"name": "24541",
 		"wab": "true",
-		"details": "Opp Keppel Shipyard",
+		"details": "Opp Seatrium Tuas Yard",
 		"coordinates": {
 			"lat": 1.30275657598845,
 			"long": 103.6556555059217
@@ -16886,7 +16904,7 @@
 	{
 		"name": "24549",
 		"wab": "true",
-		"details": "Keppel Shipyard",
+		"details": "Seatrium Tuas Yard",
 		"coordinates": {
 			"lat": 1.30273638896787,
 			"long": 103.65543583300811
@@ -16895,7 +16913,7 @@
 	{
 		"name": "24559",
 		"wab": "true",
-		"details": "HQ 6 Div",
+		"details": "Opp Crystal Offshore",
 		"coordinates": {
 			"lat": 1.30079305601761,
 			"long": 103.6574800000263
@@ -17282,7 +17300,7 @@
 	{
 		"name": "25181",
 		"wab": "true",
-		"details": "MAN Diesel",
+		"details": "Bef Tuas Dr 1",
 		"coordinates": {
 			"lat": 1.32385296919519,
 			"long": 103.65881324089645
@@ -17444,7 +17462,7 @@
 	{
 		"name": "25339",
 		"wab": "true",
-		"details": "Asia Steel Welded Mesh",
+		"details": "Opp Chugoku Marine Paints",
 		"coordinates": {
 			"lat": 1.32018179763398,
 			"long": 103.65396888287178
@@ -17453,7 +17471,7 @@
 	{
 		"name": "25341",
 		"wab": "true",
-		"details": "ROCKWOOL",
+		"details": "Bef Tuas Ave 2",
 		"coordinates": {
 			"lat": 1.32194305599571,
 			"long": 103.6519888889781
@@ -17498,7 +17516,7 @@
 	{
 		"name": "25369",
 		"wab": "true",
-		"details": "Jas Metal Coatings",
+		"details": "Opp Yan San Metals",
 		"coordinates": {
 			"lat": 1.32513576890329,
 			"long": 103.65147255685935
@@ -18317,7 +18335,7 @@
 	{
 		"name": "26141",
 		"wab": "true",
-		"details": "Smarty",
+		"details": "Mectron Engrg",
 		"coordinates": {
 			"lat": 1.32668624650782,
 			"long": 103.6402558570377
@@ -18326,7 +18344,7 @@
 	{
 		"name": "26151",
 		"wab": "true",
-		"details": "Opp Hempel",
+		"details": "Tuas Lot",
 		"coordinates": {
 			"lat": 1.32452998769194,
 			"long": 103.64252271521323
@@ -18488,7 +18506,7 @@
 	{
 		"name": "26331",
 		"wab": "true",
-		"details": "RS Components",
+		"details": "Aft Tuas Sth St 2",
 		"coordinates": {
 			"lat": 1.30869957612651,
 			"long": 103.63213426017337
@@ -24815,7 +24833,7 @@
 	{
 		"name": "44361",
 		"wab": "true",
-		"details": "Bef Dairy Farm Rd",
+		"details": "Opp Dairy Farm Mall",
 		"coordinates": {
 			"lat": 1.366354,
 			"long": 103.7755495
@@ -24824,7 +24842,7 @@
 	{
 		"name": "44369",
 		"wab": "true",
-		"details": "Aft Dairy Farm Rd",
+		"details": "Dairy Farm Mall",
 		"coordinates": {
 			"lat": 1.3658625,
 			"long": 103.775339
@@ -26372,7 +26390,7 @@
 	{
 		"name": "45421",
 		"wab": "true",
-		"details": "Opp Blk 666",
+		"details": "Blk 689A",
 		"coordinates": {
 			"lat": 1.40274884902867,
 			"long": 103.75050925171398
@@ -27452,7 +27470,7 @@
 	{
 		"name": "46561",
 		"wab": "true",
-		"details": "Opp Blk 178",
+		"details": "Blk 183C",
 		"coordinates": {
 			"lat": 1.434717,
 			"long": 103.777244
@@ -27470,7 +27488,7 @@
 	{
 		"name": "46571",
 		"wab": "true",
-		"details": "Opp Blk 154",
+		"details": "Blk 182",
 		"coordinates": {
 			"lat": 1.43475417848392,
 			"long": 103.7758535357882
@@ -27488,7 +27506,7 @@
 	{
 		"name": "46581",
 		"wab": "true",
-		"details": "Opp Blk 146",
+		"details": "Blk 189B",
 		"coordinates": {
 			"lat": 1.4364411890996,
 			"long": 103.77379636706418
@@ -31151,7 +31169,7 @@
 	{
 		"name": "53161",
 		"wab": "true",
-		"details": "Opp Blk 254",
+		"details": "Marymount CC",
 		"coordinates": {
 			"lat": 1.362208,
 			"long": 103.842055
@@ -32411,7 +32429,7 @@
 	{
 		"name": "54511",
 		"wab": "true",
-		"details": "Blk 5028",
+		"details": "Blk 5032",
 		"coordinates": {
 			"lat": 1.37167638225112,
 			"long": 103.86344756349828
@@ -32420,7 +32438,7 @@
 	{
 		"name": "54519",
 		"wab": "true",
-		"details": "Opp Blk 5023",
+		"details": "Extra Space",
 		"coordinates": {
 			"lat": 1.37121805600151,
 			"long": 103.86373555598497
@@ -35750,7 +35768,7 @@
 	{
 		"name": "59629",
 		"wab": "true",
-		"details": "Opposite Blk 317A",
+		"details": "Symphony Suites Condo",
 		"coordinates": {
 			"lat": 1.43463,
 			"long": 103.843898
@@ -35979,6 +35997,15 @@
 		"coordinates": {
 			"lat": 1.425903,
 			"long": 103.853576
+		}
+	},
+	{
+		"name": "59799",
+		"wab": "true",
+		"details": "Opp Blk 470A",
+		"coordinates": {
+			"lat": 1.425161,
+			"long": 103.853305
 		}
 	},
 	{
@@ -42536,7 +42563,7 @@
 	{
 		"name": "70279",
 		"wab": "true",
-		"details": "Opp Trinity @ Paya Lebar",
+		"details": "Opp Trinity Paya Lebar",
 		"coordinates": {
 			"lat": 1.33155751923227,
 			"long": 103.88951499040957
@@ -43850,7 +43877,7 @@
 	{
 		"name": "75261",
 		"wab": "true",
-		"details": "Bet Blks 710/713",
+		"details": "Blk 709",
 		"coordinates": {
 			"lat": 1.35801998380195,
 			"long": 103.93796778680796
@@ -43859,7 +43886,7 @@
 	{
 		"name": "75269",
 		"wab": "true",
-		"details": "Opp Blks 710/713",
+		"details": "Blk 522 CP",
 		"coordinates": {
 			"lat": 1.35917286418935,
 			"long": 103.93814214622792
@@ -48080,7 +48107,7 @@
 	{
 		"name": "84219",
 		"wab": "true",
-		"details": "Bet Blks 139/140",
+		"details": "Blk 139",
 		"coordinates": {
 			"lat": 1.32940888887166,
 			"long": 103.9348130555732
@@ -51329,7 +51356,7 @@
 	{
 		"name": "97051",
 		"wab": "true",
-		"details": "Opp Changi Women's Prison",
+		"details": "Komo Shoppes",
 		"coordinates": {
 			"lat": 1.36044412865764,
 			"long": 103.9703768491515
@@ -52130,7 +52157,7 @@
 	{
 		"name": "99129",
 		"wab": "true",
-		"details": "Changi Village Hotel",
+		"details": "Village Hotel Changi",
 		"coordinates": {
 			"lat": 1.3900050122734,
 			"long": 103.98675461297464

@@ -187,6 +187,17 @@
 		]
 	},
 	{
+		"number": 673,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"673-1.kml",
+			"673-2.kml"
+		],
+		"routeFile": [
+			"673.xml"
+		]
+	},
+	{
 		"number": "-P11",
 		"description": "PBS from Grande Vista to Yio Chu Kang/Ang Mo Kio MRT Stations (loop)",
 		"type": "PREMIUM",

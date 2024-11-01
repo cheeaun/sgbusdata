@@ -170,13 +170,13 @@
 	"10161": [
 		103.82669,
 		1.28593,
-		"Opp Tiong Bahru Stn",
+		"Opp Tiong Bahru Stn/Plaza",
 		"Tiong Bahru Rd"
 	],
 	"10169": [
 		103.82748,
 		1.286,
-		"Tiong Bahru Stn",
+		"Tiong Bahru Stn/Plaza",
 		"Tiong Bahru Rd"
 	],
 	"10171": [
@@ -1802,13 +1802,13 @@
 	"14221": [
 		103.82893,
 		1.27359,
-		"Opp St. Teresa's Ch",
+		"Opp Ch of St. Teresa",
 		"Kg Bahru Rd"
 	],
 	"14229": [
 		103.82858,
 		1.27371,
-		"St. Teresa's Ch",
+		"Ch of St. Teresa",
 		"Kg Bahru Rd"
 	],
 	"14231": [
@@ -3434,7 +3434,7 @@
 	"20109": [
 		103.76207,
 		1.32085,
-		"Blk 203",
+		"Aft Clementi Fire Stn",
 		"C'wealth Ave West"
 	],
 	"20121": [
@@ -3914,13 +3914,13 @@
 	"21251": [
 		103.71035,
 		1.33624,
-		"Sime Darby",
+		"Bef Quality Rd",
 		"Chin Bee Dr"
 	],
 	"21259": [
 		103.71044,
 		1.33604,
-		"Opp Sime Darby",
+		"Aft Quality Rd",
 		"Chin Bee Dr"
 	],
 	"21261": [
@@ -4010,13 +4010,13 @@
 	"21341": [
 		103.70896,
 		1.33517,
-		"Opp Beecham Pte Ltd",
+		"Opp GSK",
 		"Jln Boon Lay"
 	],
 	"21349": [
 		103.7093,
 		1.33554,
-		"Beecham Pte Ltd",
+		"GSK",
 		"Jln Boon Lay"
 	],
 	"21351": [
@@ -4160,13 +4160,13 @@
 	"21471": [
 		103.71543,
 		1.32673,
-		"Aft Tukang Innovation Dr",
+		"Bef Tukang Innovation Lane",
 		"Jln Tukang"
 	],
 	"21479": [
 		103.7157,
 		1.32692,
-		"Hup Leck Heavy Equipment",
+		"Aft Tukang Innovation Lane",
 		"Jln Tukang"
 	],
 	"21481": [
@@ -4445,6 +4445,18 @@
 		"Opp Blk 529",
 		"Corporation Rd"
 	],
+	"21721": [
+		103.71108,
+		1.34256,
+		"Blk 239A",
+		"Boon Lay Dr"
+	],
+	"21729": [
+		103.71132,
+		1.34238,
+		"Opposite Blk 239A",
+		"Boon Lay Dr"
+	],
 	"21751": [
 		103.7248,
 		1.33089,
@@ -4658,13 +4670,13 @@
 	"22191": [
 		103.69833,
 		1.33131,
-		"Sbst Soon Lee Depot",
+		"Soon Lee Depot",
 		"Soon Lee Rd"
 	],
 	"22199": [
 		103.69847,
 		1.33102,
-		"Opp Sbst Soon Lee Depot",
+		"Opp Soon Lee Depot",
 		"Soon Lee Rd"
 	],
 	"22219": [
@@ -4766,7 +4778,7 @@
 	"22331": [
 		103.70318,
 		1.30486,
-		"Jurong Shipyard",
+		"Tg Kling Rd (End)",
 		"Tg Kling Rd"
 	],
 	"22341": [
@@ -4856,13 +4868,13 @@
 	"22431": [
 		103.70742,
 		1.33308,
-		"Opp Four Leaves",
+		"Opp Fei Siong Group",
 		"Enterprise Rd"
 	],
 	"22439": [
 		103.70681,
 		1.33311,
-		"Aft Four Leaves",
+		"Aft Fei Siong Group",
 		"Enterprise Rd"
 	],
 	"22441": [
@@ -4904,13 +4916,13 @@
 	"22471": [
 		103.69315,
 		1.33509,
-		"Bef Jurong West St 93",
+		"Blk 991B",
 		"Upp Jurong Rd"
 	],
 	"22479": [
 		103.6931,
 		1.33474,
-		"Aft Jurong West St 93",
+		"Opp Blk 991B",
 		"Upp Jurong Rd"
 	],
 	"22481": [
@@ -5258,25 +5270,25 @@
 	"23191": [
 		103.68363,
 		1.31966,
-		"Opp S'Pore Trspt Pte Ltd",
+		"SK Tes",
 		"Benoi Sector"
 	],
 	"23199": [
 		103.68312,
 		1.31951,
-		"S'Pore Trspt Pte Ltd",
+		"Opp SK Tes",
 		"Benoi Sector"
 	],
 	"23201": [
 		103.68629,
 		1.31965,
-		"Opp Shimano Pte Ltd",
+		"Pall Corporation",
 		"Benoi Sector"
 	],
 	"23209": [
 		103.68578,
 		1.3195,
-		"Aft Shimano Pte Ltd",
+		"NS BlueScope Lysaght",
 		"Benoi Sector"
 	],
 	"23211": [
@@ -5288,7 +5300,7 @@
 	"23219": [
 		103.68853,
 		1.31833,
-		"Tru-Marine",
+		"Opp Mapletree Log Hub",
 		"Benoi Sector"
 	],
 	"23221": [
@@ -5378,7 +5390,7 @@
 	"23311": [
 		103.67746,
 		1.30179,
-		"Keppel Shipyard",
+		"Seatrium Benoi Yard",
 		"Benoi Rd"
 	],
 	"23321": [
@@ -5420,13 +5432,13 @@
 	"23361": [
 		103.67884,
 		1.31911,
-		"Opp Keppel Logistics",
+		"Bef Benoi Sector",
 		"Benoi Rd"
 	],
 	"23369": [
 		103.67911,
 		1.31908,
-		"Keppel Logistics",
+		"Aft Benoi Sector",
 		"Benoi Rd"
 	],
 	"23371": [
@@ -5468,13 +5480,13 @@
 	"23429": [
 		103.68472,
 		1.30457,
-		"Opp EMAS Marine Base",
+		"Opp Mooreast",
 		"Shipyard Rd"
 	],
 	"23439": [
 		103.68469,
 		1.30774,
-		"Opp SML Shipyard Ltd",
+		"Opp LP 71",
 		"Shipyard Rd"
 	],
 	"23441": [
@@ -5492,7 +5504,7 @@
 	"23451": [
 		103.69728,
 		1.30403,
-		"Jurong Shipyard",
+		"Opp Chemical Industries",
 		"Jln Samulun"
 	],
 	"23461": [
@@ -5738,13 +5750,13 @@
 	"24341": [
 		103.6707,
 		1.2956,
-		"Opp Keppel Shipyard",
+		"Seatrium Pioneer Yard",
 		"Gul Rd"
 	],
 	"24349": [
 		103.67092,
 		1.29558,
-		"Keppel Shipyard",
+		"ST Engrg Gul Yard",
 		"Gul Rd"
 	],
 	"24351": [
@@ -5798,7 +5810,7 @@
 	"24411": [
 		103.66173,
 		1.30244,
-		"Gul Camp",
+		"Opp Multi Ways Equipment",
 		"Pioneer Sector 2"
 	],
 	"24421": [
@@ -5894,19 +5906,19 @@
 	"24541": [
 		103.65566,
 		1.30276,
-		"Opp Keppel Shipyard",
+		"Opp Seatrium Tuas Yard",
 		"Pioneer Sector 1"
 	],
 	"24549": [
 		103.65544,
 		1.30274,
-		"Keppel Shipyard",
+		"Seatrium Tuas Yard",
 		"Pioneer Sector 1"
 	],
 	"24559": [
 		103.65748,
 		1.30079,
-		"HQ 6 Div",
+		"Opp Crystal Offshore",
 		"Pioneer Sector 1"
 	],
 	"24571": [
@@ -6164,7 +6176,7 @@
 	"25181": [
 		103.65881,
 		1.32385,
-		"MAN Diesel",
+		"Bef Tuas Dr 1",
 		"Tuas Ave 1"
 	],
 	"25189": [
@@ -6272,13 +6284,13 @@
 	"25339": [
 		103.65397,
 		1.32018,
-		"Asia Steel Welded Mesh",
+		"Opp Chugoku Marine Paints",
 		"Tuas Ave 5"
 	],
 	"25341": [
 		103.65199,
 		1.32194,
-		"ROCKWOOL",
+		"Bef Tuas Ave 2",
 		"Tuas Ave 5"
 	],
 	"25349": [
@@ -6308,7 +6320,7 @@
 	"25369": [
 		103.65147,
 		1.32514,
-		"Jas Metal Coatings",
+		"Opp Yan San Metals",
 		"Tuas Ave 4"
 	],
 	"25371": [
@@ -6854,13 +6866,13 @@
 	"26141": [
 		103.64026,
 		1.32669,
-		"Smarty",
+		"Mectron Engrg",
 		"Tuas Ave 11"
 	],
 	"26151": [
 		103.64252,
 		1.32453,
-		"Opp Hempel",
+		"Tuas Lot",
 		"Tuas Ave 11"
 	],
 	"26161": [
@@ -6968,7 +6980,7 @@
 	"26331": [
 		103.63213,
 		1.3087,
-		"RS Components",
+		"Aft Tuas Sth St 2",
 		"Tuas Sth Ave 5"
 	],
 	"26349": [
@@ -11186,13 +11198,13 @@
 	"44361": [
 		103.77555,
 		1.36635,
-		"Bef Dairy Farm Rd",
+		"Opp Dairy Farm Mall",
 		"Petir Rd"
 	],
 	"44369": [
 		103.77534,
 		1.36586,
-		"Aft Dairy Farm Rd",
+		"Dairy Farm Mall",
 		"Petir Rd"
 	],
 	"44371": [
@@ -12224,7 +12236,7 @@
 	"45421": [
 		103.75051,
 		1.40275,
-		"Opp Blk 666",
+		"Blk 689A",
 		"Choa Chu Kang Cres"
 	],
 	"45439": [
@@ -12944,7 +12956,7 @@
 	"46561": [
 		103.77724,
 		1.43472,
-		"Opp Blk 178",
+		"Blk 183C",
 		"Woodlands St 13"
 	],
 	"46569": [
@@ -12956,7 +12968,7 @@
 	"46571": [
 		103.77585,
 		1.43475,
-		"Opp Blk 154",
+		"Blk 182",
 		"Woodlands St 13"
 	],
 	"46579": [
@@ -12968,7 +12980,7 @@
 	"46581": [
 		103.7738,
 		1.43644,
-		"Opp Blk 146",
+		"Blk 189B",
 		"Woodlands St 13"
 	],
 	"46589": [
@@ -15410,7 +15422,7 @@
 	"53161": [
 		103.84206,
 		1.36221,
-		"Opp Blk 254",
+		"Marymount CC",
 		"Marymount Rd"
 	],
 	"53169": [
@@ -16250,13 +16262,13 @@
 	"54511": [
 		103.86345,
 		1.37168,
-		"Blk 5028",
+		"Blk 5032",
 		"Ang Mo Kio Ind Pk 2"
 	],
 	"54519": [
 		103.86374,
 		1.37122,
-		"Opp Blk 5023",
+		"Extra Space",
 		"Ang Mo Kio Ind Pk 2"
 	],
 	"54521": [
@@ -18476,7 +18488,7 @@
 	"59629": [
 		103.8439,
 		1.43463,
-		"Opposite Blk 317A",
+		"Symphony Suites Condo",
 		"Yishun Ave 6"
 	],
 	"59631": [
@@ -18627,6 +18639,12 @@
 		103.85358,
 		1.4259,
 		"Blk 471A",
+		"Yishun Ave 1"
+	],
+	"59799": [
+		103.85331,
+		1.42516,
+		"Opp Blk 470A",
 		"Yishun Ave 1"
 	],
 	"59801": [
@@ -23000,7 +23018,7 @@
 	"70279": [
 		103.88951,
 		1.33156,
-		"Opp Trinity @ Paya Lebar",
+		"Opp Trinity Paya Lebar",
 		"Paya Lebar Rd"
 	],
 	"70281": [
@@ -23876,13 +23894,13 @@
 	"75261": [
 		103.93797,
 		1.35802,
-		"Bet Blks 710/713",
+		"Blk 709",
 		"Tampines Ave 6"
 	],
 	"75269": [
 		103.93814,
 		1.35917,
-		"Opp Blks 710/713",
+		"Blk 522 CP",
 		"Tampines Ave 6"
 	],
 	"75271": [
@@ -24795,13 +24813,13 @@
 		103.94847,
 		1.37226,
 		"Opp Pasir Ris Stn Exit B",
-		"Pasir Ris Dr 1"
+		"Pasir Ris Ctrl"
 	],
 	"77039": [
 		103.94866,
 		1.37241,
 		"Pasir Ris Stn Exit B",
-		"Pasir Ris Dr 1"
+		"Pasir Ris Ctrl"
 	],
 	"77041": [
 		103.9513,
@@ -26696,7 +26714,7 @@
 	"84219": [
 		103.93481,
 		1.32941,
-		"Bet Blks 139/140",
+		"Blk 139",
 		"Bedok Nth Ave 3"
 	],
 	"84221": [
@@ -28862,7 +28880,7 @@
 	"97051": [
 		103.97038,
 		1.36044,
-		"Opp Changi Women's Prison",
+		"Komo Shoppes",
 		"Upp Changi Rd Nth"
 	],
 	"97059": [
@@ -29396,7 +29414,7 @@
 	"99129": [
 		103.98675,
 		1.39001,
-		"Changi Village Hotel",
+		"Village Hotel Changi",
 		"Changi Village Rd"
 	],
 	"99131": [
@@ -30812,7 +30830,7 @@
 	"09213": [
 		103.83305,
 		1.30784,
-		"Thong Teck Bldg",
+		"15 Scotts",
 		"Scotts Rd"
 	],
 	"09219": [
