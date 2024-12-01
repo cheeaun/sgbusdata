@@ -1,8 +1,8 @@
 [
 	{
-		"name": "From Compassvale Int to Compassvale Int",
+		"name": "From Sengkang Int to Sengkang Int",
 		"stops": [
-			"67759",
+			"67009",
 			"67409",
 			"67419",
 			"67649",
@@ -20,7 +20,7 @@
 			"67641",
 			"67411",
 			"67441",
-			"67759"
+			"67009"
 		]
 	}
 ]

@@ -1,7 +1,8 @@
 [
 	{
-		"name": "From Buangkok Stn Exit B to Buangkok Stn Exit A",
+		"name": "From Buangkok Int to Buangkok Int",
 		"stops": [
+			"63009",
 			"67601",
 			"67629",
 			"66569",
@@ -10,7 +11,8 @@
 			"66579",
 			"66609",
 			"67621",
-			"67609"
+			"67609",
+			"63009"
 		]
 	}
 ]

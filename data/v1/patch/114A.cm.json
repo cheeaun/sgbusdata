@@ -220,7 +220,8 @@
 			"routes": [
 				"SBSTBuses114",
 				"SBSTBuses114A",
-				"SBSTBuses329"
+				"SBSTBuses329",
+				"SBSTBuses660M"
 			],
 			"stop_code": "66579"
 		},
@@ -238,7 +239,8 @@
 			"routes": [
 				"SBSTBuses114",
 				"SBSTBuses114A",
-				"SBSTBuses329"
+				"SBSTBuses329",
+				"SBSTBuses660M"
 			],
 			"stop_code": "66589"
 		},

@@ -4669,6 +4669,13 @@
 		"Longitude": 103.76457888891022
 	},
 	{
+		"BusStopCode": "17089",
+		"RoadName": "West Coast Link",
+		"Description": "Before West Coast Crescent",
+		"Latitude": 1.299684,
+		"Longitude": 103.765425
+	},
+	{
 		"BusStopCode": "17091",
 		"RoadName": "Clementi Rd",
 		"Description": "Aft Clementi Ave 1",
@@ -12521,6 +12528,20 @@
 		"Description": "Blk 324B",
 		"Latitude": 1.3622,
 		"Longitude": 103.7335
+	},
+	{
+		"BusStopCode": "40451",
+		"RoadName": "Tengah Boulevard",
+		"Description": "Blk 306B",
+		"Latitude": 1.3617,
+		"Longitude": 103.736
+	},
+	{
+		"BusStopCode": "40459",
+		"RoadName": "Tengah Boulevard",
+		"Description": "Blk 321",
+		"Latitude": 1.3617,
+		"Longitude": 103.7356
 	},
 	{
 		"BusStopCode": "41009",
@@ -20590,15 +20611,15 @@
 		"BusStopCode": "54511",
 		"RoadName": "Ang Mo Kio Ind Pk 2",
 		"Description": "Blk 5032",
-		"Latitude": 1.37167638225112,
-		"Longitude": 103.86344756349828
+		"Latitude": 1.372192,
+		"Longitude": 103.863322
 	},
 	{
 		"BusStopCode": "54519",
 		"RoadName": "Ang Mo Kio Ind Pk 2",
 		"Description": "Extra Space",
-		"Latitude": 1.37121805600151,
-		"Longitude": 103.86373555598497
+		"Latitude": 1.372117,
+		"Longitude": 103.864539
 	},
 	{
 		"BusStopCode": "54521",
@@ -23240,6 +23261,13 @@
 		"Longitude": 103.83784276257873
 	},
 	{
+		"BusStopCode": "59671",
+		"RoadName": "Yishun Ave 2",
+		"Description": "Before Yishun Station",
+		"Latitude": 1.427779,
+		"Longitude": 103.835106
+	},
+	{
 		"BusStopCode": "59701",
 		"RoadName": "Yishun Ctrl",
 		"Description": "Opp SAFRA Yishun",
@@ -24106,6 +24134,13 @@
 		"Description": "Opp Blk 475B",
 		"Latitude": 1.37591304823679,
 		"Longitude": 103.8996359517733
+	},
+	{
+		"BusStopCode": "63009",
+		"RoadName": "Sengkang Ctrl",
+		"Description": "Buangkok Int",
+		"Latitude": 1.383707,
+		"Longitude": 103.892257
 	},
 	{
 		"BusStopCode": "63011",
@@ -27867,13 +27902,6 @@
 		"Longitude": 103.875622
 	},
 	{
-		"BusStopCode": "67759",
-		"RoadName": "Compassvale Rd",
-		"Description": "COMPASSVALE INT",
-		"Latitude": 1.39129522332876,
-		"Longitude": 103.89720218513328
-	},
-	{
 		"BusStopCode": "67761",
 		"RoadName": "Anchorvale Rd",
 		"Description": "OPP BLK 326D",
@@ -31015,6 +31043,20 @@
 		"Description": "Opp Blk 525B",
 		"Latitude": 1.369597,
 		"Longitude": 103.946715
+	},
+	{
+		"BusStopCode": "77401",
+		"RoadName": "Pasir Ris Ind Dr 1",
+		"Description": "UMC",
+		"Latitude": 1.381097,
+		"Longitude": 103.932503
+	},
+	{
+		"BusStopCode": "77409",
+		"RoadName": "Pasir Ris Ind Dr 1",
+		"Description": "Opposite UMC",
+		"Latitude": 1.381426,
+		"Longitude": 103.932338
 	},
 	{
 		"BusStopCode": "78031",

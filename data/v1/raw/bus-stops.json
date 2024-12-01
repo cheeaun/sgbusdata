@@ -3537,159 +3537,6 @@
 		}
 	},
 	{
-		"name": "-S105",
-		"wab": "true",
-		"details": "Jurong East MRT Station Shuttle Bus Pick-up Point",
-		"coordinates": {
-			"lat": 1.333295,
-			"long": 103.742154
-		}
-	},
-	{
-		"name": "-S106",
-		"wab": "true",
-		"details": "IMM",
-		"coordinates": {
-			"lat": 1.334918,
-			"long": 103.746877
-		}
-	},
-	{
-		"name": "-S107",
-		"wab": "true",
-		"details": "International Business Park",
-		"coordinates": {
-			"lat": 1.328256,
-			"long": 103.747245
-		}
-	},
-	{
-		"name": "-S108",
-		"wab": "true",
-		"details": "Plaza Singapura (near taxi stand)",
-		"coordinates": {
-			"lat": 1.300821,
-			"long": 103.845067
-		}
-	},
-	{
-		"name": "-S109",
-		"wab": "true",
-		"details": "SSC",
-		"coordinates": {
-			"lat": 1.441853,
-			"long": 103.824832
-		}
-	},
-	{
-		"name": "-S110",
-		"wab": "true",
-		"details": "Murata Electronics",
-		"coordinates": {
-			"lat": 1.439133,
-			"long": 103.833903
-		}
-	},
-	{
-		"name": "-S111",
-		"wab": "true",
-		"details": "Philips Lumileds",
-		"coordinates": {
-			"lat": 1.440736,
-			"long": 103.8364
-		}
-	},
-	{
-		"name": "-S112",
-		"wab": "true",
-		"details": "STATS ChipPAC (roundabout)",
-		"coordinates": {
-			"lat": 1.438645,
-			"long": 103.842204
-		}
-	},
-	{
-		"name": "-S115",
-		"wab": "true",
-		"details": "River Valley Pri. Sch.",
-		"coordinates": {
-			"lat": 1.296169722,
-			"long": 103.8325586
-		}
-	},
-	{
-		"name": "-S116",
-		"wab": "true",
-		"details": "Delta House",
-		"coordinates": {
-			"lat": 1.290881389,
-			"long": 103.8240778
-		}
-	},
-	{
-		"name": "-S117",
-		"wab": "true",
-		"details": "Opp. The Cosmopolitan",
-		"coordinates": {
-			"lat": 1.296340476,
-			"long": 103.833214
-		}
-	},
-	{
-		"name": "-S118",
-		"wab": "true",
-		"details": "Blk 252A",
-		"coordinates": {
-			"lat": 1.391308333,
-			"long": 103.8996617
-		}
-	},
-	{
-		"name": "-S119",
-		"wab": "true",
-		"details": "Blk 101",
-		"coordinates": {
-			"lat": 1.430340556,
-			"long": 103.8279722
-		}
-	},
-	{
-		"name": "-S120",
-		"wab": "true",
-		"details": "Blk 228",
-		"coordinates": {
-			"lat": 1.435416389,
-			"long": 103.8367511
-		}
-	},
-	{
-		"name": "-S121",
-		"wab": "true",
-		"details": "Blk 688",
-		"coordinates": {
-			"lat": 1.444343333,
-			"long": 103.8070972
-		}
-	},
-	{
-		"name": "-S122",
-		"wab": "true",
-		"details": "Blk 788",
-		"coordinates": {
-			"lat": 1.443511389,
-			"long": 103.8010631
-		}
-	},
-	{
-		"name": "-S123",
-		"wab": "true",
-		"details": "Blk 794",
-		"coordinates": {
-			"lat": 1.442115556,
-			"long": 103.8031136
-		}
-	},
-	{
 		"name": "-S13",
 		"wab": "true",
 		"details": "Singapore Zoological Gardens/ Night Safari",
@@ -11958,6 +11805,15 @@
 		"coordinates": {
 			"lat": 1.299503055534,
 			"long": 103.76457888891022
+		}
+	},
+	{
+		"name": "17089",
+		"wab": "true",
+		"details": "Before West Coast Crescent",
+		"coordinates": {
+			"lat": 1.299684,
+			"long": 103.765425
 		}
 	},
 	{
@@ -22059,6 +21915,24 @@
 		}
 	},
 	{
+		"name": "40451",
+		"wab": "true",
+		"details": "Blk 306B",
+		"coordinates": {
+			"lat": 1.3617,
+			"long": 103.736
+		}
+	},
+	{
+		"name": "40459",
+		"wab": "true",
+		"details": "Blk 321",
+		"coordinates": {
+			"lat": 1.3617,
+			"long": 103.7356
+		}
+	},
+	{
 		"name": "41009",
 		"wab": "true",
 		"details": "Tengah Int",
@@ -29692,7 +29566,7 @@
 	},
 	{
 		"name": "50209",
-		"wab": "false",
+		"wab": "true",
 		"details": "Aft Pegu Rd",
 		"coordinates": {
 			"lat": 1.32392782849174,
@@ -29701,7 +29575,7 @@
 	},
 	{
 		"name": "50211",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp Balestier Pt",
 		"coordinates": {
 			"lat": 1.32306968689436,
@@ -32431,8 +32305,8 @@
 		"wab": "true",
 		"details": "Blk 5032",
 		"coordinates": {
-			"lat": 1.37167638225112,
-			"long": 103.86344756349828
+			"lat": 1.372192,
+			"long": 103.863322
 		}
 	},
 	{
@@ -32440,8 +32314,8 @@
 		"wab": "true",
 		"details": "Extra Space",
 		"coordinates": {
-			"lat": 1.37121805600151,
-			"long": 103.86373555598497
+			"lat": 1.372117,
+			"long": 103.864539
 		}
 	},
 	{
@@ -35838,6 +35712,15 @@
 		}
 	},
 	{
+		"name": "59671",
+		"wab": "true",
+		"details": "Before Yishun Station",
+		"coordinates": {
+			"lat": 1.427779,
+			"long": 103.835106
+		}
+	},
+	{
 		"name": "59701",
 		"wab": "true",
 		"details": "Opp SAFRA Yishun",
@@ -36951,6 +36834,15 @@
 		"coordinates": {
 			"lat": 1.37591304823679,
 			"long": 103.8996359517733
+		}
+	},
+	{
+		"name": "63009",
+		"wab": "true",
+		"details": "Buangkok Int",
+		"coordinates": {
+			"lat": 1.383707,
+			"long": 103.892257
 		}
 	},
 	{
@@ -41787,15 +41679,6 @@
 		}
 	},
 	{
-		"name": "67759",
-		"wab": "true",
-		"details": "Compassvale Int",
-		"coordinates": {
-			"lat": 1.39129522332876,
-			"long": 103.89720218513328
-		}
-	},
-	{
 		"name": "67761",
 		"wab": "true",
 		"details": "Opp Blk 326D",
@@ -45837,6 +45720,24 @@
 		}
 	},
 	{
+		"name": "77401",
+		"wab": "true",
+		"details": "UMC",
+		"coordinates": {
+			"lat": 1.381097,
+			"long": 103.932503
+		}
+	},
+	{
+		"name": "77409",
+		"wab": "true",
+		"details": "Opposite UMC",
+		"coordinates": {
+			"lat": 1.381426,
+			"long": 103.932338
+		}
+	},
+	{
 		"name": "78031",
 		"wab": "true",
 		"details": "BLK 191",
@@ -47224,7 +47125,7 @@
 	},
 	{
 		"name": "82171",
-		"wab": "false",
+		"wab": "true",
 		"details": "Bef Mangis Rd",
 		"coordinates": {
 			"lat": 1.31382614901728,

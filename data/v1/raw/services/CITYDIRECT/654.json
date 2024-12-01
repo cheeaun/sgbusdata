@@ -1,7 +1,9 @@
 [
 	{
-		"name": "From Farmway Stn Exit A to Opp MAS Bldg",
+		"name": "From Treasure Crest to Opp MAS Bldg",
 		"stops": [
+			"67649",
+			"67699",
 			"67319",
 			"67429",
 			"67439",
@@ -18,7 +20,7 @@
 		]
 	},
 	{
-		"name": "From Mapletree Anson to Farmway Stn Exit B",
+		"name": "From Mapletree Anson to Opp Treasure Crest",
 		"stops": [
 			"03241",
 			"03111",
@@ -32,7 +34,9 @@
 			"67251",
 			"67431",
 			"67421",
-			"67311"
+			"67311",
+			"67691",
+			"67641"
 		]
 	}
 ]

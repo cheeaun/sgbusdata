@@ -1,3 +1,71 @@
+# 1 December 2024
+
+## Stops count change: 5140 ⮕ 5146
+
+### Stops added: 7
+
+- `17089` Before West Coast Crescent
+- `40451` Blk 306B
+- `40459` Blk 321
+- `59671` Before Yishun Station
+- `63009` Buangkok Int
+- `77401` UMC
+- `77409` Opposite UMC
+
+### Stops removed: 1
+
+- `67759` Compassvale Int
+
+### Stop locations changed: 2
+
+- `54511` 103.86345,1.37168 ⮕ 103.86332,1.37219
+- `54519` 103.86374,1.37122 ⮕ 103.86454,1.37212
+
+## Services count change: 557 ⮕ 559
+
+### Services added: 2
+
+- `674` Blk 238 / Blk 324B ⇄ Marina Bay Financial Ctr / Marina Bay Stn
+- `660M` Blk 991A / Opp Blk 991A ⇄ Opp MAS Bldg / Mapletree Anson
+
+### Bus Stop Changes To Routes: 17
+
+- `114A` Buangkok Stn Exit B → Blk 998B: -1
+- `156` Buangkok Int ⇄ Clementi Int: +4, -9
+- `39` Tampines Concourse Int ⇄ Yishun Int: +2
+- `110` Buangkok Int ⟲ Changi Airport Ter 1: +6, -4
+- `114` Buangkok Int ⟲ Buangkok Sports Pk: +2
+- `175` Clementi Int ⇄ Lor 1 Geylang Ter: +1
+- `374` Sengkang Int ⟲ Thanggam Stn: +2, -2
+- `654` Treasure Crest / Opp Treasure Crest ⇄ Opp MAS Bldg / Mapletree Anson: +4
+- `666` Damai Stn Exit A / Damai Stn Exit B ⇄ Promenade Stn/Pan Pacific / Suntec Convention Ctr: +10
+- `671` Opp The Rivervale / The Rivervale ⇄ Promenade Stn/Pan Pacific / Suntec Convention Ctr: +10
+- `672` Blk 568 / Blk 574 ⇄ Promenade Stn/Pan Pacific / Suntec Convention Ctr: +10
+- `804` Yishun Int ⟲ Blk 432C: +1
+- `870` Jurong Town Hall Int ⇄ Tengah Int: +2
+- `871` Tengah Int ⟲ Opp Beauty World Stn: +2
+- `992` Bt Batok Int ⇄ Tengah Int: +2
+- `39A` Opp Pasir Ris Stn Exit B → Aft Seletar Camp G: +1
+- `39B` Blk 220C → Pasir Ris Stn Exit B: +1
+
+## Routes changed: 11
+
+- `110` Buangkok Int ⟲ Changi Airport Ter 1
+- `114` Buangkok Int ⟲ Buangkok Sports Pk
+- `156` Buangkok Int ⇄ Clementi Int
+- `374` Sengkang Int ⟲ Thanggam Stn
+- `654` Treasure Crest / Opp Treasure Crest ⇄ Opp MAS Bldg / Mapletree Anson
+- `666` Damai Stn Exit A / Damai Stn Exit B ⇄ Promenade Stn/Pan Pacific / Suntec Convention Ctr
+- `671` Opp The Rivervale / The Rivervale ⇄ Promenade Stn/Pan Pacific / Suntec Convention Ctr
+- `672` Blk 568 / Blk 574 ⇄ Promenade Stn/Pan Pacific / Suntec Convention Ctr
+- `804` Yishun Int ⟲ Blk 432C
+- `674` Blk 238 / Blk 324B ⇄ Marina Bay Financial Ctr / Marina Bay Stn
+- `660M` Blk 991A / Opp Blk 991A ⇄ Opp MAS Bldg / Mapletree Anson
+
+## First/last timings changed
+
+Affected services: `39`, `110`, `114`, `156`, `175`, `268`, `374`, `654`, `666`, `671`, `672`, `804`, `870`, `871`, `992`, `39A`, `39B`, `114A`, `674`, `660M`
+
 # 1 November 2024
 
 ## Stops count change: 5137 ⮕ 5140
