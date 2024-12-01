@@ -2615,6 +2615,12 @@
 		"Aft West Coast Highway",
 		"West Coast Link"
 	],
+	"17089": [
+		103.76543,
+		1.29968,
+		"Before West Coast Crescent",
+		"West Coast Link"
+	],
 	"17091": [
 		103.77158,
 		1.30905,
@@ -9346,6 +9352,18 @@
 		1.3622,
 		"Blk 324B",
 		"Tengah Drive"
+	],
+	"40451": [
+		103.736,
+		1.3617,
+		"Blk 306B",
+		"Tengah Boulevard"
+	],
+	"40459": [
+		103.7356,
+		1.3617,
+		"Blk 321",
+		"Tengah Boulevard"
 	],
 	"41009": [
 		103.73597,
@@ -16260,14 +16278,14 @@
 		"Ang Mo Kio Ave 5"
 	],
 	"54511": [
-		103.86345,
-		1.37168,
+		103.86332,
+		1.37219,
 		"Blk 5032",
 		"Ang Mo Kio Ind Pk 2"
 	],
 	"54519": [
-		103.86374,
-		1.37122,
+		103.86454,
+		1.37212,
 		"Extra Space",
 		"Ang Mo Kio Ind Pk 2"
 	],
@@ -18533,6 +18551,12 @@
 		"Opp Blk 932",
 		"Yishun Ctrl 1"
 	],
+	"59671": [
+		103.83511,
+		1.42778,
+		"Before Yishun Station",
+		"Yishun Ave 2"
+	],
 	"59701": [
 		103.8402,
 		1.42548,
@@ -19276,6 +19300,12 @@
 		1.37591,
 		"Opp Blk 475B",
 		"Upp S'goon Cres"
+	],
+	"63009": [
+		103.89226,
+		1.38371,
+		"Buangkok Int",
+		"Sengkang Ctrl"
 	],
 	"63011": [
 		103.87824,
@@ -22499,12 +22529,6 @@
 		"Thanggam Stn",
 		"Fernvale Rd"
 	],
-	"67759": [
-		103.8972,
-		1.3913,
-		"Compassvale Int",
-		"Compassvale Rd"
-	],
 	"67761": [
 		103.8876,
 		1.39601,
@@ -25198,6 +25222,18 @@
 		1.3696,
 		"Opp Blk 525B",
 		"Pasir Ris Dr 8"
+	],
+	"77401": [
+		103.9325,
+		1.3811,
+		"UMC",
+		"Pasir Ris Ind Dr 1"
+	],
+	"77409": [
+		103.93234,
+		1.38143,
+		"Opposite UMC",
+		"Pasir Ris Ind Dr 1"
 	],
 	"78031": [
 		103.95864,

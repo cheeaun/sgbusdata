@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Opp The Rivervale to Marina Bay Financial Ctr",
+		"name": "From Opp The Rivervale to Promenade Stn/Pan Pacific",
 		"stops": [
 			"65011",
 			"67219",
@@ -18,12 +18,22 @@
 			"03111",
 			"03071",
 			"03381",
-			"03391"
+			"03391",
+			"03511",
+			"03501",
+			"02169",
+			"02159",
+			"02089"
 		]
 	},
 	{
-		"name": "From Marina Bay Stn to The Rivervale",
+		"name": "From Suntec Convention Ctr to The Rivervale",
 		"stops": [
+			"02151",
+			"02161",
+			"02171",
+			"03509",
+			"03519",
 			"03539",
 			"03529",
 			"03129",

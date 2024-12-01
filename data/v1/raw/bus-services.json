@@ -88,6 +88,17 @@
 		]
 	},
 	{
+		"number": "660M",
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"660M-1.kml",
+			"660M-2.kml"
+		],
+		"routeFile": [
+			"660M.xml"
+		]
+	},
+	{
 		"number": 661,
 		"type": "CITYDIRECT",
 		"kmlFile": [
@@ -195,6 +206,17 @@
 		],
 		"routeFile": [
 			"673.xml"
+		]
+	},
+	{
+		"number": 674,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"674-1.kml",
+			"674-2.kml"
+		],
+		"routeFile": [
+			"674.xml"
 		]
 	},
 	{
@@ -777,105 +799,6 @@
 		],
 		"routeFile": [
 			"-S56.xml"
-		]
-	},
-	{
-		"number": "-S32",
-		"description": "Jurong East MRT Station - IMM",
-		"type": "TRUNK",
-		"kmlFile": [
-			"-S32-1.kml"
-		],
-		"routeFile": [
-			"-S32.xml"
-		]
-	},
-	{
-		"number": "-S33",
-		"description": "International Business Park - IMM",
-		"type": "TRUNK",
-		"kmlFile": [
-			"-S33-1.kml"
-		],
-		"routeFile": [
-			"-S33.xml"
-		]
-	},
-	{
-		"number": "-S34",
-		"description": "Plaza Singapura",
-		"type": "TRUNK",
-		"kmlFile": [
-			"-S34-1.kml"
-		],
-		"routeFile": [
-			"-S34.xml"
-		]
-	},
-	{
-		"number": "-S35",
-		"description": "Rivervale Mall",
-		"type": "TRUNK",
-		"kmlFile": [
-			"-S35-1.kml"
-		],
-		"routeFile": [
-			"-S35.xml"
-		]
-	},
-	{
-		"number": "-S36",
-		"description": "Sembawang Shopping Centre - Sembawang Route",
-		"type": "TRUNK",
-		"kmlFile": [
-			"-S36-1.kml"
-		],
-		"routeFile": [
-			"-S36.xml"
-		]
-	},
-	{
-		"number": "-S37",
-		"description": "Sembawang Shopping Centre - Woodlands Industrial Route",
-		"type": "TRUNK",
-		"kmlFile": [
-			"-S37-1.kml"
-		],
-		"routeFile": [
-			"-S37.xml"
-		]
-	},
-	{
-		"number": "-S38",
-		"description": "Sembawang Shopping Centre - Yishun Route",
-		"type": "TRUNK",
-		"kmlFile": [
-			"-S38-1.kml"
-		],
-		"routeFile": [
-			"-S38.xml"
-		]
-	},
-	{
-		"number": "-S39",
-		"description": "Sembawang Shopping Centre - Woodlands Route",
-		"type": "TRUNK",
-		"kmlFile": [
-			"-S39-1.kml"
-		],
-		"routeFile": [
-			"-S39.xml"
-		]
-	},
-	{
-		"number": "-S40",
-		"description": "Sembawang Shopping Centre - Yishun Industrial Route",
-		"type": "TRUNK",
-		"kmlFile": [
-			"-S40-1.kml"
-		],
-		"routeFile": [
-			"-S40.xml"
 		]
 	},
 	{

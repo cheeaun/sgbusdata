@@ -1,11 +1,9 @@
 [
 	{
-		"name": "From Sengkang Int to Clementi Int",
+		"name": "From Buangkok Int to Clementi Int",
 		"stops": [
-			"67009",
-			"67409",
-			"67441",
-			"67271",
+			"63009",
+			"67339",
 			"67461",
 			"67451",
 			"64621",
@@ -69,7 +67,7 @@
 		]
 	},
 	{
-		"name": "From Clementi Int to Sengkang Int",
+		"name": "From Clementi Int to Buangkok Int",
 		"stops": [
 			"17009",
 			"17239",
@@ -125,11 +123,8 @@
 			"64629",
 			"67459",
 			"67469",
-			"67279",
-			"67449",
-			"67401",
-			"67181",
-			"67009"
+			"67331",
+			"63009"
 		]
 	}
 ]

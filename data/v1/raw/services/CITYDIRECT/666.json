@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Damai Stn Exit A to Marina Bay Financial Ctr",
+		"name": "From Damai Stn Exit A to Promenade Stn/Pan Pacific",
 		"stops": [
 			"65309",
 			"65319",
@@ -18,12 +18,22 @@
 			"03111",
 			"03071",
 			"03381",
-			"03391"
+			"03391",
+			"03511",
+			"03501",
+			"02169",
+			"02159",
+			"02089"
 		]
 	},
 	{
-		"name": "From Marina Bay Stn to Damai Stn Exit B",
+		"name": "From Suntec Convention Ctr to Damai Stn Exit B",
 		"stops": [
+			"02151",
+			"02161",
+			"02171",
+			"03509",
+			"03519",
 			"03539",
 			"03529",
 			"03129",

@@ -1720,7 +1720,7 @@
 			"stop_code": "55509"
 		},
 		"SingaporeStop_YishunInt_N": {
-			"bearing": "NW",
+			"bearing": "SW",
 			"brands": [
 				"GASBuses",
 				"SBSTBuses",

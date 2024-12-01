@@ -57,7 +57,7 @@
 		"number": 175,
 		"numberPattern": "175-2",
 		"e": "Not LineString but is GeometryCollection",
-		"count": 17
+		"count": 2
 	},
 	{
 		"number": "190A",
