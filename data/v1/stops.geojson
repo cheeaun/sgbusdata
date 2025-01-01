@@ -5961,7 +5961,7 @@
 			"id": "13119",
 			"properties": {
 				"number": "13119",
-				"name": "Opp Great World City",
+				"name": "Great World Stn Exit 3",
 				"road": "Kim Seng Rd",
 				"services": [
 					"16",
@@ -5977,8 +5977,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.832759,
-					1.293615
+					103.832501,
+					1.29425
 				]
 			}
 		},
@@ -6004,32 +6004,6 @@
 				"coordinates": [
 					103.8308377640795,
 					1.29409221679274
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "13139",
-			"properties": {
-				"number": "13139",
-				"name": "The Trillium",
-				"road": "Kim Seng Rd",
-				"services": [
-					"16",
-					"16M",
-					"175",
-					"195",
-					"195A",
-					"5",
-					"75",
-					"970"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.83205533028763,
-					1.2950426189642
 				]
 			}
 		},
@@ -20444,7 +20418,8 @@
 				"name": "Opp Joo Koon Int",
 				"road": "Benoi Rd",
 				"services": [
-					"192"
+					"192",
+					"193"
 				]
 			},
 			"geometry": {
@@ -23420,6 +23395,7 @@
 				"road": "Tuas West Dr",
 				"services": [
 					"182",
+					"182A",
 					"182M",
 					"192",
 					"193",
@@ -23470,6 +23446,7 @@
 				"road": "Tuas West Dr",
 				"services": [
 					"182",
+					"182A",
 					"182M",
 					"192",
 					"193",
@@ -23518,6 +23495,7 @@
 				"road": "Tuas West Dr",
 				"services": [
 					"182",
+					"182A",
 					"182M",
 					"192",
 					"193",
@@ -23566,6 +23544,7 @@
 				"road": "Tuas West Dr",
 				"services": [
 					"182",
+					"182A",
 					"182M",
 					"193"
 				]
@@ -23608,6 +23587,7 @@
 				"road": "Tuas West Dr",
 				"services": [
 					"182",
+					"182A",
 					"182M",
 					"193"
 				]
@@ -25122,6 +25102,7 @@
 				"road": "Tuas West Dr",
 				"services": [
 					"182",
+					"182A",
 					"182M",
 					"193"
 				]
@@ -25226,6 +25207,7 @@
 				"road": "Tuas Sth Ave 3",
 				"services": [
 					"182",
+					"182A",
 					"182M"
 				]
 			},
@@ -25266,6 +25248,7 @@
 				"road": "Tuas Sth Ave 3",
 				"services": [
 					"182",
+					"182A",
 					"182M"
 				]
 			},
@@ -25306,6 +25289,7 @@
 				"road": "Tuas Sth Ave 3",
 				"services": [
 					"182",
+					"182A",
 					"182M"
 				]
 			},
@@ -50912,6 +50896,7 @@
 				"road": "Mandai Rd",
 				"services": [
 					"138",
+					"138C",
 					"171"
 				]
 			},
@@ -50953,6 +50938,7 @@
 				"road": "Mandai Rd",
 				"services": [
 					"138",
+					"138C",
 					"171"
 				]
 			},
@@ -50994,6 +50980,7 @@
 				"road": "Mandai Rd",
 				"services": [
 					"138",
+					"138C",
 					"171"
 				]
 			},
@@ -51035,6 +51022,7 @@
 				"road": "Mandai Rd",
 				"services": [
 					"138",
+					"138C",
 					"171"
 				]
 			},
@@ -51076,6 +51064,7 @@
 				"road": "Mandai Rd",
 				"services": [
 					"138",
+					"138C",
 					"171"
 				]
 			},
@@ -51116,7 +51105,8 @@
 				"name": "Mandai Crematorium",
 				"road": "Mandai Rd",
 				"services": [
-					"138"
+					"138",
+					"138C"
 				]
 			},
 			"geometry": {
@@ -51155,7 +51145,8 @@
 				"name": "Opp Upp Seletar Resvr",
 				"road": "Mandai Rd",
 				"services": [
-					"138"
+					"138",
+					"138C"
 				]
 			},
 			"geometry": {
@@ -51194,7 +51185,8 @@
 				"name": "SCDF Nee Soon Camp",
 				"road": "Mandai Rd",
 				"services": [
-					"138"
+					"138",
+					"138C"
 				]
 			},
 			"geometry": {
@@ -51233,7 +51225,8 @@
 				"name": "Aft Meng Suan Rd",
 				"road": "Mandai Rd",
 				"services": [
-					"138"
+					"138",
+					"138C"
 				]
 			},
 			"geometry": {
@@ -51294,6 +51287,7 @@
 				"road": "Mandai Lake Rd",
 				"services": [
 					"138",
+					"138C",
 					"927"
 				]
 			},
@@ -51315,6 +51309,7 @@
 				"services": [
 					"138",
 					"138A",
+					"138C",
 					"927"
 				]
 			},
@@ -53693,7 +53688,7 @@
 			"id": "51089",
 			"properties": {
 				"number": "51089",
-				"name": "Bef Marymount Convent Sch",
+				"name": "Marymount Convent Sch",
 				"road": "Marymount Rd",
 				"services": [
 					"54",
@@ -62523,6 +62518,7 @@
 				"road": "Upp Thomson Rd",
 				"services": [
 					"138",
+					"138C",
 					"167",
 					"169",
 					"860",
@@ -62807,6 +62803,7 @@
 				"road": "Upp Thomson Rd",
 				"services": [
 					"138",
+					"138C",
 					"167",
 					"169",
 					"860",
@@ -63307,7 +63304,8 @@
 				"name": "Bef Upp Thomson Rd",
 				"road": "Mandai Rd",
 				"services": [
-					"138"
+					"138",
+					"138C"
 				]
 			},
 			"geometry": {
@@ -71965,6 +71963,7 @@
 				"services": [
 					"110",
 					"114",
+					"114A",
 					"156"
 				]
 			},
@@ -78827,7 +78826,8 @@
 				"name": "Opposite Blk 437B",
 				"road": "New Punggol Road",
 				"services": [
-					"84G"
+					"84G",
+					"84W"
 				]
 			},
 			"geometry": {
@@ -78846,6 +78846,7 @@
 				"name": "Blk 437B",
 				"road": "New Punggol Road",
 				"services": [
+					"84G",
 					"84W"
 				]
 			},
@@ -83983,6 +83984,7 @@
 				"road": "Buangkok Dr",
 				"services": [
 					"114",
+					"114A",
 					"43",
 					"43M"
 				]
@@ -88558,7 +88560,8 @@
 				"services": [
 					"129",
 					"18",
-					"298"
+					"298",
+					"298X"
 				]
 			},
 			"geometry": {
@@ -88819,7 +88822,8 @@
 				"name": "Blk 879B",
 				"road": "Tampines Street 86",
 				"services": [
-					"298"
+					"298",
+					"298X"
 				]
 			},
 			"geometry": {
@@ -88883,7 +88887,8 @@
 				"name": "Blk 875B",
 				"road": "Tampines Street 86",
 				"services": [
-					"298"
+					"298",
+					"298X"
 				]
 			},
 			"geometry": {
@@ -89444,6 +89449,7 @@
 					"118",
 					"118B",
 					"298",
+					"298X",
 					"34",
 					"34B"
 				]
@@ -89700,6 +89706,7 @@
 					"15",
 					"23",
 					"298",
+					"298X",
 					"518",
 					"8"
 				]
@@ -90353,6 +90360,7 @@
 				"road": "Tampines Ave 10",
 				"services": [
 					"298",
+					"298X",
 					"58",
 					"58B"
 				]
@@ -90704,7 +90712,8 @@
 				"name": "Opp Blk 648A",
 				"road": "Tampines St 62",
 				"services": [
-					"298"
+					"298",
+					"298X"
 				]
 			},
 			"geometry": {
@@ -90723,7 +90732,8 @@
 				"name": "Blk 648A",
 				"road": "Tampines St 62",
 				"services": [
-					"298"
+					"298",
+					"298X"
 				]
 			},
 			"geometry": {
@@ -90742,7 +90752,8 @@
 				"name": "Blk 641A",
 				"road": "Tampines St 62",
 				"services": [
-					"298"
+					"298",
+					"298X"
 				]
 			},
 			"geometry": {
@@ -90761,7 +90772,8 @@
 				"name": "Blk 646B",
 				"road": "Tampines St 62",
 				"services": [
-					"298"
+					"298",
+					"298X"
 				]
 			},
 			"geometry": {
@@ -90822,6 +90834,7 @@
 				"services": [
 					"129",
 					"298",
+					"298X",
 					"46"
 				]
 			},
@@ -90843,6 +90856,7 @@
 				"services": [
 					"129",
 					"298",
+					"298X",
 					"46"
 				]
 			},
@@ -91638,6 +91652,7 @@
 					"21",
 					"27",
 					"298",
+					"298X",
 					"3",
 					"3A"
 				]
@@ -91667,6 +91682,7 @@
 					"27",
 					"27A",
 					"298",
+					"298X",
 					"3"
 				]
 			},
@@ -93134,7 +93150,8 @@
 				"road": "Tampines Ctrl 1",
 				"services": [
 					"129",
-					"298"
+					"298",
+					"298X"
 				]
 			},
 			"geometry": {
@@ -93154,7 +93171,8 @@
 				"road": "Tampines Ctrl 1",
 				"services": [
 					"129",
-					"298"
+					"298",
+					"298X"
 				]
 			},
 			"geometry": {

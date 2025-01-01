@@ -505,7 +505,7 @@
 	},
 	{
 		"number": 753,
-		"description": "Flora Road - Anson Road",
+		"description": "Mariam Way - Anson Road",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"753-1.kml",
@@ -546,6 +546,17 @@
 		],
 		"routeFile": [
 			"776.xml"
+		]
+	},
+	{
+		"number": "TM3",
+		"description": "Tampines Avenue 2 to Jalan Bukit Merah",
+		"type": "PREMIUM",
+		"kmlFile": [
+			"TM3-1.kml"
+		],
+		"routeFile": [
+			"TM3.xml"
 		]
 	},
 	{
@@ -1476,6 +1487,16 @@
 		]
 	},
 	{
+		"number": "138C",
+		"type": "TRUNK",
+		"kmlFile": [
+			"138C-1.kml"
+		],
+		"routeFile": [
+			"138C.xml"
+		]
+	},
+	{
 		"number": 139,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -2237,6 +2258,16 @@
 		],
 		"routeFile": [
 			"182.xml"
+		]
+	},
+	{
+		"number": "182A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"182A-1.kml"
+		],
+		"routeFile": [
+			"182A.xml"
 		]
 	},
 	{
@@ -3214,6 +3245,16 @@
 		],
 		"routeFile": [
 			"298.xml"
+		]
+	},
+	{
+		"number": "298X",
+		"type": "TRUNK",
+		"kmlFile": [
+			"298X-1.kml"
+		],
+		"routeFile": [
+			"298X.xml"
 		]
 	},
 	{
@@ -6340,6 +6381,28 @@
 		],
 		"routeFile": [
 			"9B.xml"
+		]
+	},
+	{
+		"number": "NS-1",
+		"description": "Shenton Way to Punggol Way",
+		"type": "TRUNK",
+		"kmlFile": [
+			"NS-1-1.kml"
+		],
+		"routeFile": [
+			"NS-1.xml"
+		]
+	},
+	{
+		"number": "NS-2",
+		"description": "Shenton Way to Woodlands",
+		"type": "TRUNK",
+		"kmlFile": [
+			"NS-2-1.kml"
+		],
+		"routeFile": [
+			"NS-2.xml"
 		]
 	}
 ]

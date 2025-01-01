@@ -3362,9 +3362,9 @@
 	{
 		"BusStopCode": "13119",
 		"RoadName": "Kim Seng Rd",
-		"Description": "Opp Great World City",
-		"Latitude": 1.293615,
-		"Longitude": 103.832759
+		"Description": "Great World Stn Exit 3",
+		"Latitude": 1.29425,
+		"Longitude": 103.832501
 	},
 	{
 		"BusStopCode": "13121",
@@ -3372,13 +3372,6 @@
 		"Description": "Opp Great World City",
 		"Latitude": 1.29409221679274,
 		"Longitude": 103.8308377640795
-	},
-	{
-		"BusStopCode": "13139",
-		"RoadName": "Kim Seng Rd",
-		"Description": "The Trillium",
-		"Latitude": 1.2950426189642,
-		"Longitude": 103.83205533028763
 	},
 	{
 		"BusStopCode": "13141",
@@ -18706,7 +18699,7 @@
 	{
 		"BusStopCode": "51089",
 		"RoadName": "Marymount Rd",
-		"Description": "Bef Marymount Convent Sch",
+		"Description": "Marymount Convent Sch",
 		"Latitude": 1.34154969745419,
 		"Longitude": 103.83962581957273
 	},

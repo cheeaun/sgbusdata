@@ -1494,9 +1494,9 @@
 		"River Valley Rd"
 	],
 	"13119": [
-		103.83276,
-		1.29362,
-		"Opp Great World City",
+		103.8325,
+		1.29425,
+		"Great World Stn Exit 3",
 		"Kim Seng Rd"
 	],
 	"13121": [
@@ -1504,12 +1504,6 @@
 		1.29409,
 		"Opp Great World City",
 		"Zion Rd"
-	],
-	"13139": [
-		103.83206,
-		1.29504,
-		"The Trillium",
-		"Kim Seng Rd"
 	],
 	"13141": [
 		103.82998,
@@ -14648,7 +14642,7 @@
 	"51089": [
 		103.83963,
 		1.34155,
-		"Bef Marymount Convent Sch",
+		"Marymount Convent Sch",
 		"Marymount Rd"
 	],
 	"51091": [
