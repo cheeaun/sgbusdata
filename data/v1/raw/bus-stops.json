@@ -1377,15 +1377,6 @@
 		}
 	},
 	{
-		"name": "-P613",
-		"wab": "true",
-		"details": "Blk 579",
-		"coordinates": {
-			"lat": 1.37938473,
-			"long": 103.8864031
-		}
-	},
-	{
 		"name": "-P615",
 		"wab": "true",
 		"details": "Blk 917",
@@ -1746,48 +1737,12 @@
 		}
 	},
 	{
-		"name": "-P696",
+		"name": "-P695",
 		"wab": "true",
-		"details": "Blk 969",
+		"details": "Opp Blk 968",
 		"coordinates": {
-			"lat": 1.37889334,
-			"long": 103.8789799
-		}
-	},
-	{
-		"name": "-P698",
-		"wab": "true",
-		"details": "Blk 911",
-		"coordinates": {
-			"lat": 1.379123069,
-			"long": 103.8832693
-		}
-	},
-	{
-		"name": "-P705",
-		"wab": "true",
-		"details": "Blk 240",
-		"coordinates": {
-			"lat": 1.39101786,
-			"long": 103.8977802
-		}
-	},
-	{
-		"name": "-P707",
-		"wab": "true",
-		"details": "Blk 223D",
-		"coordinates": {
-			"lat": 1.38908889970693,
-			"long": 103.89710881285436
-		}
-	},
-	{
-		"name": "-P709",
-		"wab": "true",
-		"details": "Blk 206A",
-		"coordinates": {
-			"lat": 1.386697098,
-			"long": 103.8962889
+			"lat": 1.379186664,
+			"long": 103.8783096
 		}
 	},
 	{
@@ -1935,24 +1890,6 @@
 		}
 	},
 	{
-		"name": "-P731",
-		"wab": "true",
-		"details": "Opp Blk 313 CP",
-		"coordinates": {
-			"lat": 1.3927256179225,
-			"long": 103.88700896307408
-		}
-	},
-	{
-		"name": "-P732",
-		"wab": "true",
-		"details": "Blk 326 CP",
-		"coordinates": {
-			"lat": 1.394590402,
-			"long": 103.8884427
-		}
-	},
-	{
 		"name": "-P733",
 		"wab": "true",
 		"details": "Blk 317B",
@@ -1962,30 +1899,12 @@
 		}
 	},
 	{
-		"name": "-P734",
-		"wab": "true",
-		"details": "Blk 333B",
-		"coordinates": {
-			"lat": 1.394256762,
-			"long": 103.8914449
-		}
-	},
-	{
 		"name": "-P735",
 		"wab": "true",
 		"details": "Blk 325 CP",
 		"coordinates": {
 			"lat": 1.39385006,
 			"long": 103.8916701
-		}
-	},
-	{
-		"name": "-P736",
-		"wab": "true",
-		"details": "Opp Sengkang Station/Blk 260A",
-		"coordinates": {
-			"lat": 1.39290842289238,
-			"long": 103.895317384562
 		}
 	},
 	{
@@ -2103,24 +2022,6 @@
 		"coordinates": {
 			"lat": 1.38731666838873,
 			"long": 103.9092635072425
-		}
-	},
-	{
-		"name": "-P750",
-		"wab": "true",
-		"details": "Buangkok Stn Exit B",
-		"coordinates": {
-			"lat": 1.383344707,
-			"long": 103.8932683
-		}
-	},
-	{
-		"name": "-P753",
-		"wab": "true",
-		"details": "Blk 557",
-		"coordinates": {
-			"lat": 1.380279751,
-			"long": 103.890605
 		}
 	},
 	{
@@ -3402,6 +3303,15 @@
 		}
 	},
 	{
+		"name": "-PW06",
+		"wab": "true",
+		"details": "Aft Ballota Pk",
+		"coordinates": {
+			"lat": 1.3592369444173,
+			"long": 103.96845690524152
+		}
+	},
+	{
 		"name": "-PW0R",
 		"wab": "true",
 		"details": "Plaza 8",
@@ -4149,15 +4059,6 @@
 		}
 	},
 	{
-		"name": "-Z227",
-		"wab": "true",
-		"details": "Blk 306 CP",
-		"coordinates": {
-			"lat": 1.39071731059511,
-			"long": 103.88853458899818
-		}
-	},
-	{
 		"name": "-Z228",
 		"wab": "true",
 		"details": "Anchor Green Primary School",
@@ -4191,15 +4092,6 @@
 		"coordinates": {
 			"lat": 1.35071636446812,
 			"long": 103.95275166965992
-		}
-	},
-	{
-		"name": "-Z302",
-		"wab": "true",
-		"details": "Aft Promenade Stn Exit C",
-		"coordinates": {
-			"lat": 1.29268553508737,
-			"long": 103.86093156188176
 		}
 	},
 	{
@@ -4524,6 +4416,15 @@
 		"coordinates": {
 			"lat": 1.33427655612286,
 			"long": 103.96175810276951
+		}
+	},
+	{
+		"name": "-Z475",
+		"wab": "true",
+		"details": "Downtown Stn",
+		"coordinates": {
+			"lat": 1.27939957,
+			"long": 103.8527877
 		}
 	},
 	{
@@ -10127,10 +10028,10 @@
 	{
 		"name": "13119",
 		"wab": "true",
-		"details": "Opp Great World City",
+		"details": "Great World Stn Exit 3",
 		"coordinates": {
-			"lat": 1.293615,
-			"long": 103.832759
+			"lat": 1.29425,
+			"long": 103.832501
 		}
 	},
 	{
@@ -10140,15 +10041,6 @@
 		"coordinates": {
 			"lat": 1.29409221679274,
 			"long": 103.8308377640795
-		}
-	},
-	{
-		"name": "13139",
-		"wab": "true",
-		"details": "The Trillium",
-		"coordinates": {
-			"lat": 1.2950426189642,
-			"long": 103.83205533028763
 		}
 	},
 	{
@@ -17533,7 +17425,7 @@
 	},
 	{
 		"name": "25469",
-		"wab": "false",
+		"wab": "true",
 		"details": "Bef Tuas West Ave",
 		"coordinates": {
 			"lat": 1.32929472200012,
@@ -21142,7 +21034,7 @@
 	},
 	{
 		"name": "34009",
-		"wab": "false",
+		"wab": "true",
 		"details": "Police Coast Guard",
 		"coordinates": {
 			"lat": 1.44482656088302,
@@ -26875,7 +26767,7 @@
 	},
 	{
 		"name": "46301",
-		"wab": "false",
+		"wab": "true",
 		"details": "Progen Bldg",
 		"coordinates": {
 			"lat": 1.44274264517274,
@@ -29215,7 +29107,7 @@
 	},
 	{
 		"name": "49199",
-		"wab": "false",
+		"wab": "true",
 		"details": "Kranji Reservoir Pk B",
 		"coordinates": {
 			"lat": 1.4383674275063,
@@ -29855,7 +29747,7 @@
 	{
 		"name": "51089",
 		"wab": "true",
-		"details": "Bef Marymount Convent Sch",
+		"details": "Marymount Convent Sch",
 		"coordinates": {
 			"lat": 1.34154969745419,
 			"long": 103.83962581957273

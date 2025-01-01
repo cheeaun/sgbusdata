@@ -1166,7 +1166,7 @@
 			"stop_code": "76191"
 		},
 		"SingaporeStop_OppTampinesStnint_SW": {
-			"bearing": "SW",
+			"bearing": "W",
 			"brands": [
 				"GASBuses",
 				"SBSTBuses"
@@ -1187,6 +1187,7 @@
 				"SBSTBuses27",
 				"SBSTBuses27A",
 				"SBSTBuses298",
+				"SBSTBuses298X",
 				"GASBuses3"
 			],
 			"stop_code": "76149"

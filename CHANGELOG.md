@@ -1,3 +1,59 @@
+# 1 January 2025
+
+## Stops count change: 5146 ⮕ 5145
+
+### Stops removed: 1
+
+- `13139` The Trillium
+
+### Stop names changed: 2
+
+- `13119` Opp Great World City ⮕ Great World Stn Exit 3
+- `51089` Bef Marymount Convent Sch ⮕ Marymount Convent Sch
+
+### Stop locations changed: 1
+
+- `13119` 103.83276,1.29362 ⮕ 103.8325,1.29425
+
+## Services count change: 559 ⮕ 562
+
+### Services added: 3
+
+- `138C` S'pore Zoo → Springleaf Stn Exit 2
+- `182A` Opp Tuas Lk Stn → Bef Tuas Sth Ave 4
+- `298X` Tampines Nth Int ⟲ Blk 875B
+
+### Bus Stop Changes To Routes: 12
+
+- `195A` Aft S'pore Flyer → Tiong Bahru Stn/Plaza: -1
+- `175` Clementi Int ⇄ Lor 1 Geylang Ter: -1
+- `75` Gali Batu Ter / Opp Blk 635A ⇄ Bt Merah Int: -1
+- `5` Pasir Ris Int ⇄ Bt Merah Int: -1
+- `16` Bedok Int ⇄ Bt Merah Int: -1
+- `195` Aft S'pore Flyer → Promenade Stn/Pan Pacific: -1
+- `970` Bt Panjang Int ⇄ Shenton Way Ter: -1
+- `16M` Bedok Int ⇄ Bt Merah Int: -1
+- `193` Boon Lay Int ⇄ Tuas Ter: +1
+- `114A` Buangkok Int → Blk 998B: +2
+- `84G` Punggol Temp Int ⟲ Aft Northshore Cres: +1
+- `84W` Punggol Temp Int ⟲ Opposite Blk 437B: +1
+
+## Routes changed: 9
+
+- `175` Clementi Int ⇄ Lor 1 Geylang Ter
+- `114A` Buangkok Int → Blk 998B
+- `60T` Eunos Int → Bedok Int
+- `83T` Punggol Temp Int → Sengkang Int
+- `859T` Sembawang Int → Yishun Int
+- `860T` Yio Chu Kang Int → Yishun Int
+- `138C` S'pore Zoo → Springleaf Stn Exit 2
+- `182A` Opp Tuas Lk Stn → Bef Tuas Sth Ave 4
+- `298X` Tampines Nth Int ⟲ Blk 875B
+
+## First/last timings changed
+
+Affected services: `5`, `16`, `75`, `138`, `175`, `193`, `195`, `927`, `970`, `16M`, `195A`, `114A`, `84G`, `84W`, `182A`, `138C`, `298X`
+
 # 1 December 2024
 
 ## Stops count change: 5140 ⮕ 5146
