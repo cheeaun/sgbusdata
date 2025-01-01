@@ -10,17 +10,24 @@ const { failedXMLs, failedKMLs } = readFile(
 
 // Handling failed KMLs
 const missingServices = failedKMLs.map((d) => {
-  const [_, serviceNumber, pattern] = d.fileName.match(/^([^-]+)-(\d)\./i);
+  const [_, serviceNumber, pattern] = d.fileName.match(/^([\w-]+)\-(\d)\./i);
   const service = services.find((s) => s.number == serviceNumber);
-  const serviceData = readFile(
-    `./data/v1/raw/services/${service.type}/${serviceNumber}.json`,
-  );
-  const pat = Number(pattern);
-  if (serviceData[pat - 1]) {
-    return [serviceNumber, pat, serviceData];
-  } else {
-    // Patterns
-    console.warn(`Missing pattern ${pat} for service ${serviceNumber}`);
+  try {
+    const serviceData = readFile(
+      `./data/v1/raw/services/${service.type}/${serviceNumber}.json`,
+    );
+    const pat = Number(pattern);
+    if (serviceData[pat - 1]) {
+      return [serviceNumber, pat, serviceData];
+    } else {
+      // Patterns
+      console.warn(`Missing pattern ${pat} for service ${serviceNumber}`);
+    }
+  } catch (e) {
+    console.error(e);
+    console.warn(
+      `Failed to read service data for service ${serviceNumber}`,
+    );
   }
 });
 
