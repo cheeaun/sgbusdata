@@ -149,6 +149,7 @@ services
       });
     } catch (e) {
       console.error(e);
+      delete routesPolylines[num];
       return;
     }
 
