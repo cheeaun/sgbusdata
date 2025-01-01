@@ -131,20 +131,26 @@ services
     const num = '' + number;
     if (!routesPolylines[num]) routesPolylines[num] = [];
 
-    const route = readFile(`./data/v1/raw/services/${type}/${number}.json`)
-      // So, some routes have patterns that don't have stops
-      // They're known as "missing data"
-      // So here we're filtering them out and later *try* to link to the correct patterns and lines
-      .filter((pattern) => !!pattern.stops.length);
-    route.forEach((pattern) => {
-      pattern.stops.forEach((s) => {
-        if (stopsServices[s]) {
-          stopsServices[s].add(num);
-        } else {
-          stopsServices[s] = new Set([num]);
-        }
+    let route;
+    try {
+      route = readFile(`./data/v1/raw/services/${type}/${number}.json`)
+        // So, some routes have patterns that don't have stops
+        // They're known as "missing data"
+        // So here we're filtering them out and later *try* to link to the correct patterns and lines
+        .filter((pattern) => !!pattern.stops.length);
+      route.forEach((pattern) => {
+        pattern.stops.forEach((s) => {
+          if (stopsServices[s]) {
+            stopsServices[s].add(num);
+          } else {
+            stopsServices[s] = new Set([num]);
+          }
+        });
       });
-    });
+    } catch (e) {
+      console.error(e);
+      return;
+    }
 
     const stopsRoutes = route.map((r) =>
       r.stops.filter((s) => {
