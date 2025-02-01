@@ -1,60 +1,5 @@
 {
-	"failedXMLs": [
-		{
-			"fileName": "NS-1.xml",
-			"e": {
-				"name": "HTTPError",
-				"code": "ERR_NON_2XX_3XX_RESPONSE",
-				"timings": {
-					"start": 1735723108966,
-					"socket": 1735723108966,
-					"lookup": 1735723108966,
-					"connect": 1735723108995,
-					"secureConnect": 1735723109025,
-					"upload": 1735723109025,
-					"response": 1735723109224,
-					"end": 1735723109228,
-					"phases": {
-						"wait": 0,
-						"dns": 0,
-						"tcp": 29,
-						"tls": 30,
-						"request": 0,
-						"firstByte": 199,
-						"download": 4,
-						"total": 262
-					}
-				}
-			}
-		},
-		{
-			"fileName": "NS-2.xml",
-			"e": {
-				"name": "HTTPError",
-				"code": "ERR_NON_2XX_3XX_RESPONSE",
-				"timings": {
-					"start": 1735723110495,
-					"socket": 1735723110495,
-					"lookup": 1735723110495,
-					"connect": 1735723110524,
-					"secureConnect": 1735723110554,
-					"upload": 1735723110554,
-					"response": 1735723110752,
-					"end": 1735723110754,
-					"phases": {
-						"wait": 0,
-						"dns": 0,
-						"tcp": 29,
-						"tls": 30,
-						"request": 0,
-						"firstByte": 198,
-						"download": 2,
-						"total": 259
-					}
-				}
-			}
-		}
-	],
+	"failedXMLs": [],
 	"failedKMLs": [
 		{
 			"fileName": "673-1.kml",
@@ -62,6 +7,38 @@
 		},
 		{
 			"fileName": "673-2.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "675-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "675-2.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "676-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "676-2.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "677-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "677-2.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "678-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "678-2.kml",
 			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
@@ -97,11 +74,7 @@
 			"e": "HTTPError: Response code 404 (Not Found)"
 		},
 		{
-			"fileName": "NS-1-1.kml",
-			"e": "HTTPError: Response code 404 (Not Found)"
-		},
-		{
-			"fileName": "NS-2-1.kml",
+			"fileName": "967-1.kml",
 			"e": "HTTPError: Response code 404 (Not Found)"
 		}
 	]

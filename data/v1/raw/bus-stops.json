@@ -6356,7 +6356,7 @@
 	{
 		"name": "03241",
 		"wab": "true",
-		"details": "Mapletree Anson",
+		"details": "Aft Enggor St",
 		"coordinates": {
 			"lat": 1.27456,
 			"long": 103.84537
@@ -7229,7 +7229,7 @@
 	{
 		"name": "07011",
 		"wab": "true",
-		"details": "Peace Ctr",
+		"details": "Bef Sophia Rd",
 		"coordinates": {
 			"lat": 1.30099699058522,
 			"long": 103.8498101874305
@@ -10009,7 +10009,7 @@
 	},
 	{
 		"name": "13101",
-		"wab": "false",
+		"wab": "true",
 		"details": "Opp Mohd Sultan Rd",
 		"coordinates": {
 			"lat": 1.29414162678811,
@@ -17075,7 +17075,7 @@
 	{
 		"name": "25199",
 		"wab": "true",
-		"details": "Bestofire and Thermal",
+		"details": "Rockwool Building Materials",
 		"coordinates": {
 			"lat": 1.32109472197296,
 			"long": 103.65933166702904
@@ -20027,7 +20027,7 @@
 	{
 		"name": "28679",
 		"wab": "true",
-		"details": "Hitachi Elevator Bldg",
+		"details": "Bef Toh Guan Rd East",
 		"coordinates": {
 			"lat": 1.33661449274468,
 			"long": 103.75110456918219
@@ -24194,7 +24194,7 @@
 	{
 		"name": "44129",
 		"wab": "true",
-		"details": "Opp Blk 113",
+		"details": "Sol Acres Condo",
 		"coordinates": {
 			"lat": 1.37741713631203,
 			"long": 103.75092697249079
@@ -25697,7 +25697,7 @@
 	{
 		"name": "45121",
 		"wab": "true",
-		"details": "Opp S'pore Turf Club",
+		"details": "Opp KF1 Karting Circuit",
 		"coordinates": {
 			"lat": 1.42402638898738,
 			"long": 103.75863222200965
@@ -25706,7 +25706,7 @@
 	{
 		"name": "45129",
 		"wab": "true",
-		"details": "S'pore Turf Club",
+		"details": "KF1 Karting Circuit",
 		"coordinates": {
 			"lat": 1.42382925070118,
 			"long": 103.75863462427267
@@ -26165,7 +26165,7 @@
 	{
 		"name": "45439",
 		"wab": "true",
-		"details": "Opp Blk 661",
+		"details": "Blk 691A",
 		"coordinates": {
 			"lat": 1.40127194398549,
 			"long": 103.75115527801049
@@ -29646,15 +29646,6 @@
 		}
 	},
 	{
-		"name": "51023",
-		"wab": "true",
-		"details": "After Mount Pleasant Road",
-		"coordinates": {
-			"lat": 1.331459,
-			"long": 103.838652
-		}
-	},
-	{
 		"name": "51029",
 		"wab": "true",
 		"details": "Opp Old Police Acad",
@@ -30528,12 +30519,30 @@
 		}
 	},
 	{
+		"name": "52421",
+		"wab": "true",
+		"details": "BLK 12",
+		"coordinates": {
+			"lat": 1.336232,
+			"long": 103.857428
+		}
+	},
+	{
 		"name": "52429",
 		"wab": "true",
 		"details": "Blk 17A",
 		"coordinates": {
 			"lat": 1.33630975081569,
 			"long": 103.85712939407202
+		}
+	},
+	{
+		"name": "52431",
+		"wab": "true",
+		"details": "BLK 5",
+		"coordinates": {
+			"lat": 1.3383165,
+			"long": 103.855529
 		}
 	},
 	{
@@ -30620,7 +30629,7 @@
 	{
 		"name": "52509",
 		"wab": "true",
-		"details": "Opp Toa Payoh Swim Cplx",
+		"details": "Aft HDB Hub",
 		"coordinates": {
 			"lat": 1.33115712303762,
 			"long": 103.85017633434691
@@ -30633,6 +30642,15 @@
 		"coordinates": {
 			"lat": 1.34132643517011,
 			"long": 103.85733489917507
+		}
+	},
+	{
+		"name": "52531",
+		"wab": "true",
+		"details": "OPP BLK 210 MKT/FC",
+		"coordinates": {
+			"lat": 1.3397645,
+			"long": 103.854501
 		}
 	},
 	{
@@ -30663,6 +30681,15 @@
 		}
 	},
 	{
+		"name": "52561",
+		"wab": "true",
+		"details": "BLK 269A",
+		"coordinates": {
+			"lat": 1.33319,
+			"long": 103.859677
+		}
+	},
+	{
 		"name": "52569",
 		"wab": "true",
 		"details": "Opp Blk 269A",
@@ -30672,12 +30699,30 @@
 		}
 	},
 	{
+		"name": "52571",
+		"wab": "true",
+		"details": "BLK 268A",
+		"coordinates": {
+			"lat": 1.3328873,
+			"long": 103.858081
+		}
+	},
+	{
 		"name": "52579",
 		"wab": "true",
 		"details": "Blk 259",
 		"coordinates": {
 			"lat": 1.332954,
 			"long": 103.858025
+		}
+	},
+	{
+		"name": "52581",
+		"wab": "true",
+		"details": "BEF CALDECOTT STN EXIT 4",
+		"coordinates": {
+			"lat": 1.3371305,
+			"long": 103.839776
 		}
 	},
 	{
@@ -32391,15 +32436,6 @@
 		}
 	},
 	{
-		"name": "55009",
-		"wab": "true",
-		"details": "Ang Mo Kio Depot",
-		"coordinates": {
-			"lat": 1.38589831101442,
-			"long": 103.84757704926118
-		}
-	},
-	{
 		"name": "55011",
 		"wab": "true",
 		"details": "Bef Lentor Stn Exit 5",
@@ -32744,7 +32780,7 @@
 	{
 		"name": "55231",
 		"wab": "true",
-		"details": "Opp Sbst Ang Mo Kio Depot",
+		"details": "Liuxun Sanhemiao Tp",
 		"coordinates": {
 			"lat": 1.38576093943759,
 			"long": 103.84831692135697
@@ -32753,7 +32789,7 @@
 	{
 		"name": "55239",
 		"wab": "true",
-		"details": "Sbst Ang Mo Kio Depot",
+		"details": "Bef AMK St 64",
 		"coordinates": {
 			"lat": 1.38699777800655,
 			"long": 103.84804111102198
@@ -33743,7 +33779,7 @@
 	{
 		"name": "58171",
 		"wab": "true",
-		"details": "Sembawang Corp Industries",
+		"details": "Aft North Rd",
 		"coordinates": {
 			"lat": 1.45890580814381,
 			"long": 103.82379883168399
@@ -35912,7 +35948,7 @@
 	{
 		"name": "60061",
 		"wab": "true",
-		"details": "Aft Infineon",
+		"details": "Biotronik",
 		"coordinates": {
 			"lat": 1.32276521075674,
 			"long": 103.87402134422791
@@ -39195,6 +39231,42 @@
 		}
 	},
 	{
+		"name": "65581",
+		"wab": "true",
+		"details": "Opp Blk 683A",
+		"coordinates": {
+			"lat": 1.4046835,
+			"long": 103.9162165
+		}
+	},
+	{
+		"name": "65589",
+		"wab": "true",
+		"details": "Blk 683A",
+		"coordinates": {
+			"lat": 1.404972,
+			"long": 103.9154735
+		}
+	},
+	{
+		"name": "65591",
+		"wab": "true",
+		"details": "Opp Blk 662A",
+		"coordinates": {
+			"lat": 1.4027295,
+			"long": 103.9187425
+		}
+	},
+	{
+		"name": "65599",
+		"wab": "true",
+		"details": "Blk 662A",
+		"coordinates": {
+			"lat": 1.4028335,
+			"long": 103.918333
+		}
+	},
+	{
 		"name": "65601",
 		"wab": "true",
 		"details": "Sumang Stn Exit B",
@@ -41287,8 +41359,8 @@
 		"wab": "true",
 		"details": "Blk 471A",
 		"coordinates": {
-			"lat": 1.39600529337669,
-			"long": 103.87927293767908
+			"lat": 1.395806,
+			"long": 103.8804
 		}
 	},
 	{
@@ -41870,7 +41942,7 @@
 	{
 		"name": "68171",
 		"wab": "true",
-		"details": "Bef Yishun Ave 8",
+		"details": "Opp Blk 475A",
 		"coordinates": {
 			"lat": 1.42704251041342,
 			"long": 103.85535247743789
@@ -45668,7 +45740,7 @@
 	{
 		"name": "78061",
 		"wab": "true",
-		"details": "Opp Pasir Ris Polyclinic",
+		"details": "Blk 104",
 		"coordinates": {
 			"lat": 1.36824361151738,
 			"long": 103.95848117561664

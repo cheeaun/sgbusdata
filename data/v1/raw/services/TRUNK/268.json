@@ -1,8 +1,7 @@
 [
 	{
-		"name": "From Ang Mo Kio Depot to Ang Mo Kio Depot",
+		"name": "From Bef AMK St 64 to Liuxun Sanhemiao Tp",
 		"stops": [
-			"55009",
 			"55239",
 			"55229",
 			"55219",
@@ -48,8 +47,7 @@
 			"55301",
 			"55211",
 			"55221",
-			"55231",
-			"55009"
+			"55231"
 		]
 	}
 ]

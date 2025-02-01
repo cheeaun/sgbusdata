@@ -6194,7 +6194,7 @@
 	"25199": [
 		103.65933,
 		1.32109,
-		"Bestofire and Thermal",
+		"Rockwool Building Materials",
 		"Tuas Ave 1"
 	],
 	"25201": [
@@ -8162,7 +8162,7 @@
 	"28679": [
 		103.7511,
 		1.33661,
-		"Hitachi Elevator Bldg",
+		"Bef Toh Guan Rd East",
 		"Toh Guan Rd East"
 	],
 	"28681": [
@@ -10940,7 +10940,7 @@
 	"44129": [
 		103.75093,
 		1.37742,
-		"Opp Blk 113",
+		"Sol Acres Condo",
 		"Choa Chu Kang Way"
 	],
 	"44131": [
@@ -11942,13 +11942,13 @@
 	"45121": [
 		103.75863,
 		1.42403,
-		"Opp S'pore Turf Club",
+		"Opp KF1 Karting Circuit",
 		"Woodlands Rd"
 	],
 	"45129": [
 		103.75863,
 		1.42383,
-		"S'pore Turf Club",
+		"KF1 Karting Circuit",
 		"Woodlands Rd"
 	],
 	"45131": [
@@ -12254,7 +12254,7 @@
 	"45439": [
 		103.75116,
 		1.40127,
-		"Opp Blk 661",
+		"Blk 691A",
 		"Choa Chu Kang Cres"
 	],
 	"45441": [
@@ -14573,12 +14573,6 @@
 		"Old Police Acad",
 		"Thomson Rd"
 	],
-	"51023": [
-		103.83865,
-		1.33146,
-		"After Mount Pleasant Road",
-		"Thomson Rd"
-	],
 	"51029": [
 		103.83971,
 		1.33025,
@@ -15161,10 +15155,22 @@
 		"Opp Blk 105",
 		"Jln Rajah"
 	],
+	"52421": [
+		103.85743,
+		1.33623,
+		"Blk 12",
+		"Lor 7 Toa Payoh"
+	],
 	"52429": [
 		103.85713,
 		1.33631,
 		"Blk 17A",
+		"Lor 7 Toa Payoh"
+	],
+	"52431": [
+		103.85553,
+		1.33832,
+		"Blk 5",
 		"Lor 7 Toa Payoh"
 	],
 	"52439": [
@@ -15224,13 +15230,19 @@
 	"52509": [
 		103.85018,
 		1.33116,
-		"Opp Toa Payoh Swim Cplx",
+		"Aft HDB Hub",
 		"Lor 6 Toa Payoh"
 	],
 	"52529": [
 		103.85733,
 		1.34133,
 		"Bef Blk 221",
+		"Lor 8 Toa Payoh"
+	],
+	"52531": [
+		103.8545,
+		1.33976,
+		"Opp Blk 210 Mkt/FC",
 		"Lor 8 Toa Payoh"
 	],
 	"52539": [
@@ -15251,17 +15263,35 @@
 		"Caldecott Stn Exit 1",
 		"Toa Payoh Lk"
 	],
+	"52561": [
+		103.85968,
+		1.33319,
+		"Blk 269A",
+		"Kim Keat Ave"
+	],
 	"52569": [
 		103.85979,
 		1.33312,
 		"Opp Blk 269A",
 		"Kim Keat Ave"
 	],
+	"52571": [
+		103.85808,
+		1.33289,
+		"Blk 268A",
+		"Toa Payoh East"
+	],
 	"52579": [
 		103.85803,
 		1.33295,
 		"Blk 259",
 		"Toa Payoh East"
+	],
+	"52581": [
+		103.83978,
+		1.33713,
+		"Bef Caldecott Stn Exit 4",
+		"Toa Payoh Lk"
 	],
 	"53009": [
 		103.84988,
@@ -16403,12 +16433,6 @@
 		"Techplace 2",
 		"Ang Mo Kio Ave 5"
 	],
-	"55009": [
-		103.84758,
-		1.3859,
-		"Ang Mo Kio Depot",
-		"Ang Mo Kio St 63"
-	],
 	"55011": [
 		103.8357,
 		1.38226,
@@ -16640,13 +16664,13 @@
 	"55231": [
 		103.84832,
 		1.38576,
-		"Opp Sbst Ang Mo Kio Depot",
+		"Liuxun Sanhemiao Tp",
 		"Ang Mo Kio St 63"
 	],
 	"55239": [
 		103.84804,
 		1.387,
-		"Sbst Ang Mo Kio Depot",
+		"Bef AMK St 64",
 		"Ang Mo Kio St 63"
 	],
 	"55241": [
@@ -17306,7 +17330,7 @@
 	"58171": [
 		103.8238,
 		1.45891,
-		"Sembawang Corp Industries",
+		"Aft North Rd",
 		"Admiralty Rd West"
 	],
 	"58179": [
@@ -18752,7 +18776,7 @@
 	"60061": [
 		103.87402,
 		1.32277,
-		"Aft Infineon",
+		"Biotronik",
 		"Jln Kolam Ayer"
 	],
 	"60069": [
@@ -20939,6 +20963,30 @@
 		"Blk 258A",
 		"Punggol Field"
 	],
+	"65581": [
+		103.91622,
+		1.40468,
+		"Opp Blk 683A",
+		"Punggol North Avenue"
+	],
+	"65589": [
+		103.91547,
+		1.40497,
+		"Blk 683A",
+		"Punggol North Avenue"
+	],
+	"65591": [
+		103.91874,
+		1.40273,
+		"Opp Blk 662A",
+		"Punggol North Avenue"
+	],
+	"65599": [
+		103.91833,
+		1.40283,
+		"Blk 662A",
+		"Punggol North Avenue"
+	],
 	"65601": [
 		103.89849,
 		1.4077,
@@ -22332,8 +22380,8 @@
 		"Sengkang East Way"
 	],
 	"67551": [
-		103.87927,
-		1.39601,
+		103.8804,
+		1.39581,
 		"Blk 471A",
 		"Sengkang West Way"
 	],
@@ -22724,7 +22772,7 @@
 	"68171": [
 		103.85535,
 		1.42704,
-		"Bef Yishun Ave 8",
+		"Opp Blk 475A",
 		"Yishun Ave 1"
 	],
 	"68179": [
@@ -25256,7 +25304,7 @@
 	"78061": [
 		103.95848,
 		1.36824,
-		"Opp Pasir Ris Polyclinic",
+		"Blk 104",
 		"Pasir Ris Dr 1"
 	],
 	"78069": [
@@ -29918,7 +29966,7 @@
 	"03241": [
 		103.84537,
 		1.27456,
-		"Mapletree Anson",
+		"Aft Enggor St",
 		"Anson Rd"
 	],
 	"03331": [
@@ -30500,7 +30548,7 @@
 	"07011": [
 		103.84981,
 		1.301,
-		"Peace Ctr",
+		"Bef Sophia Rd",
 		"Selegie Rd"
 	],
 	"07021": [
