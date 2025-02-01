@@ -765,6 +765,7 @@
 				"SBSTBuses50A",
 				"GASBuses62",
 				"GASBuses62A",
+				"GASBuses678",
 				"GASBuses85"
 			],
 			"stop_code": "65529"
@@ -812,7 +813,7 @@
 			"stop_code": "66479"
 		},
 		"SingaporeStop_AnchorGreenPrSch_SW": {
-			"bearing": "SW",
+			"bearing": "S",
 			"brands": [
 				"SBSTBuses"
 			],
@@ -825,7 +826,8 @@
 			"routes": [
 				"SBSTBuses50",
 				"SBSTBuses50A",
-				"SBSTBuses671"
+				"SBSTBuses671",
+				"SBSTBuses677"
 			],
 			"stop_code": "65809"
 		},
@@ -1016,7 +1018,8 @@
 				"SBSTBuses163",
 				"SBSTBuses372",
 				"SBSTBuses50",
-				"SBSTBuses50A"
+				"SBSTBuses50A",
+				"SBSTBuses677"
 			],
 			"stop_code": "67109"
 		},
@@ -1036,7 +1039,8 @@
 				"SMRTBuses110",
 				"SBSTBuses372",
 				"SBSTBuses50",
-				"SBSTBuses50A"
+				"SBSTBuses50A",
+				"SBSTBuses677"
 			],
 			"stop_code": "67371"
 		},
@@ -1058,6 +1062,7 @@
 				"SBSTBuses372",
 				"SBSTBuses50",
 				"SBSTBuses50A",
+				"SBSTBuses677",
 				"GASBuses85"
 			],
 			"stop_code": "67389"
@@ -1080,6 +1085,7 @@
 				"SBSTBuses372",
 				"SBSTBuses50",
 				"SBSTBuses50A",
+				"SBSTBuses677",
 				"GASBuses85"
 			],
 			"stop_code": "67399"
@@ -1174,7 +1180,7 @@
 			"stop_code": "64129"
 		},
 		"SingaporeStop_OppBlk157A_W": {
-			"bearing": "W",
+			"bearing": "SW",
 			"brands": [
 				"GASBuses",
 				"SBSTBuses"
@@ -1190,6 +1196,7 @@
 				"SBSTBuses50A",
 				"GASBuses62",
 				"GASBuses62A",
+				"GASBuses678",
 				"GASBuses85"
 			],
 			"stop_code": "67529"
@@ -1325,7 +1332,8 @@
 				"SBSTBuses372",
 				"SBSTBuses374",
 				"SBSTBuses50",
-				"SBSTBuses50A"
+				"SBSTBuses50A",
+				"SBSTBuses677"
 			],
 			"stop_code": "67409"
 		},

@@ -220,6 +220,50 @@
 		]
 	},
 	{
+		"number": 675,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"675-1.kml",
+			"675-2.kml"
+		],
+		"routeFile": [
+			"675.xml"
+		]
+	},
+	{
+		"number": 676,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"676-1.kml",
+			"676-2.kml"
+		],
+		"routeFile": [
+			"676.xml"
+		]
+	},
+	{
+		"number": 677,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"677-1.kml",
+			"677-2.kml"
+		],
+		"routeFile": [
+			"677.xml"
+		]
+	},
+	{
+		"number": 678,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"678-1.kml",
+			"678-2.kml"
+		],
+		"routeFile": [
+			"678.xml"
+		]
+	},
+	{
 		"number": "-P11",
 		"description": "PBS from Grande Vista to Yio Chu Kang/Ang Mo Kio MRT Stations (loop)",
 		"type": "PREMIUM",
@@ -5962,6 +6006,16 @@
 		]
 	},
 	{
+		"number": 967,
+		"type": "TRUNK",
+		"kmlFile": [
+			"967-1.kml"
+		],
+		"routeFile": [
+			"967.xml"
+		]
+	},
+	{
 		"number": 969,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -6381,28 +6435,6 @@
 		],
 		"routeFile": [
 			"9B.xml"
-		]
-	},
-	{
-		"number": "NS-1",
-		"description": "Shenton Way to Punggol Way",
-		"type": "TRUNK",
-		"kmlFile": [
-			"NS-1-1.kml"
-		],
-		"routeFile": [
-			"NS-1.xml"
-		]
-	},
-	{
-		"number": "NS-2",
-		"description": "Shenton Way to Woodlands",
-		"type": "TRUNK",
-		"kmlFile": [
-			"NS-2-1.kml"
-		],
-		"routeFile": [
-			"NS-2.xml"
 		]
 	}
 ]

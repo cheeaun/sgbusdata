@@ -2248,6 +2248,35 @@
 		},
 		{
 			"BUS_SEQUENCE": 45,
+			"START_BUS_STOP": "OPP MAPLETREE BIZ CITY",
+			"END_BUS_STOP": "PASIR PANJANG CTR",
+			"START_BUS_STOP_NUM": "15151",
+			"START_BUS_STOP_LATLNG": "1.27389192906939, 103.79822208982424",
+			"END_BUS_STOP_NUM": "15161",
+			"END_BUS_STOP_LATLNG": "1.2744380619813171, 103.79666055940478",
+			"DISTANCE": "16.9",
+			"GEOMETRIES": [
+				[
+					103.79825,
+					1.27396
+				],
+				[
+					103.79794,
+					1.27407
+				],
+				[
+					103.79682,
+					1.27448
+				],
+				[
+					103.79669,
+					1.27452
+				]
+			],
+			"roadName": "OPP MAPLETREE BIZ CITY"
+		},
+		{
+			"BUS_SEQUENCE": 45,
 			"START_BUS_STOP": "PASIR PANJANG CTR",
 			"END_BUS_STOP": "PASIR PANJANG STN/FC",
 			"START_BUS_STOP_NUM": "15161",
@@ -2290,35 +2319,6 @@
 				]
 			],
 			"roadName": "PASIR PANJANG CTR"
-		},
-		{
-			"BUS_SEQUENCE": 45,
-			"START_BUS_STOP": "OPP MAPLETREE BIZ CITY",
-			"END_BUS_STOP": "PASIR PANJANG CTR",
-			"START_BUS_STOP_NUM": "15151",
-			"START_BUS_STOP_LATLNG": "1.27389192906939, 103.79822208982424",
-			"END_BUS_STOP_NUM": "15161",
-			"END_BUS_STOP_LATLNG": "1.2744380619813171, 103.79666055940478",
-			"DISTANCE": "16.9",
-			"GEOMETRIES": [
-				[
-					103.79825,
-					1.27396
-				],
-				[
-					103.79794,
-					1.27407
-				],
-				[
-					103.79682,
-					1.27448
-				],
-				[
-					103.79669,
-					1.27452
-				]
-			],
-			"roadName": "OPP MAPLETREE BIZ CITY"
 		},
 		{
 			"BUS_SEQUENCE": 47,

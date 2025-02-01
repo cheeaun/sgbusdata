@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Upp East Coast Ter to Ang Mo Kio Depot",
+		"name": "From Upp East Coast Ter to Opp Yio Chu Kang Stadium",
 		"stops": [
 			"94009",
 			"94071",
@@ -46,14 +46,12 @@
 			"55201",
 			"55181",
 			"55301",
-			"55311",
-			"55009"
+			"55311"
 		]
 	},
 	{
-		"name": "From Ang Mo Kio Depot to Upp East Coast Ter",
+		"name": "From Liuxun Sanhemiao Tp to Upp East Coast Ter",
 		"stops": [
-			"55009",
 			"55231",
 			"55319",
 			"55309",

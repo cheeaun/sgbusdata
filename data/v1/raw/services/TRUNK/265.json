@@ -1,8 +1,7 @@
 [
 	{
-		"name": "From Ang Mo Kio Depot to Ang Mo Kio Depot",
+		"name": "From Liuxun Sanhemiao Tp to Opp Yio Chu Kang Stadium",
 		"stops": [
-			"55009",
 			"55231",
 			"55319",
 			"55309",
@@ -43,8 +42,7 @@
 			"55011",
 			"55151",
 			"55301",
-			"55311",
-			"55009"
+			"55311"
 		]
 	}
 ]

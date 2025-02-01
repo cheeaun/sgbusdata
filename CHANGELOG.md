@@ -1,3 +1,82 @@
+# 1 February 2025
+
+## Stops count change: 5145 ⮕ 5153
+
+### Stops added: 10
+
+- `52421` Blk 12
+- `52431` Blk 5
+- `52531` Opp Blk 210 Mkt/FC
+- `52561` Blk 269A
+- `52571` Blk 268A
+- `52581` Bef Caldecott Stn Exit 4
+- `65581` Opp Blk 683A
+- `65589` Blk 683A
+- `65591` Opp Blk 662A
+- `65599` Blk 662A
+
+### Stops removed: 2
+
+- `51023` After Mount Pleasant Road
+- `55009` Ang Mo Kio Depot
+
+### Stop names changed: 15
+
+- `25199` Bestofire and Thermal ⮕ Rockwool Building Materials
+- `28679` Hitachi Elevator Bldg ⮕ Bef Toh Guan Rd East
+- `44129` Opp Blk 113 ⮕ Sol Acres Condo
+- `45121` Opp S'pore Turf Club ⮕ Opp KF1 Karting Circuit
+- `45129` S'pore Turf Club ⮕ KF1 Karting Circuit
+- `45439` Opp Blk 661 ⮕ Blk 691A
+- `52509` Opp Toa Payoh Swim Cplx ⮕ Aft HDB Hub
+- `55231` Opp Sbst Ang Mo Kio Depot ⮕ Liuxun Sanhemiao Tp
+- `55239` Sbst Ang Mo Kio Depot ⮕ Bef AMK St 64
+- `58171` Sembawang Corp Industries ⮕ Aft North Rd
+- `60061` Aft Infineon ⮕ Biotronik
+- `68171` Bef Yishun Ave 8 ⮕ Opp Blk 475A
+- `78061` Opp Pasir Ris Polyclinic ⮕ Blk 104
+- `03241` Mapletree Anson ⮕ Aft Enggor St
+- `07011` Peace Ctr ⮕ Bef Sophia Rd
+
+### Stop locations changed: 1
+
+- `67551` 103.87927,1.39601 ⮕ 103.8804,1.39581
+
+## Services count change: 562 ⮕ 567
+
+### Services added: 5
+
+- `675` Blk 953 / Opp Blk 953 ⇄ Suntec Twr Two / Suntec Twr Three
+- `676` Blk 477A / Opp Blk 477A ⇄ Suntec Twr Two / Suntec Twr Three
+- `677` Opp Blk 110 / Blk 111 ⇄ Suntec Twr Two / Suntec Twr Three
+- `678` Blk 162B / Blk 649 ⇄ Suntec Twr Two / Suntec Twr Three
+- `967` Woodlands Temp Int ⟲ Blk 589
+
+### Bus Stop Changes To Routes: 7
+
+- `268A` Bef AMK St 64 → Techplace 2: -1
+- `265` Liuxun Sanhemiao Tp → Opp Yio Chu Kang Stadium: -2
+- `156` Buangkok Int ⇄ Clementi Int: -1
+- `132` Hougang Ctrl Int ⇄ Bt Merah Int: -1
+- `45` Upp East Coast Ter ⇄ Opp Yio Chu Kang Stadium / Liuxun Sanhemiao Tp: -2
+- `268` Bef AMK St 64 → Liuxun Sanhemiao Tp: -2
+- `230` Caldecott Stn Exit 1 → Bef Caldecott Stn Exit 4: +21, -2
+
+## Routes changed: 8
+
+- `110` Buangkok Int ⟲ Changi Airport Ter 1
+- `114` Buangkok Int ⟲ Buangkok Sports Pk
+- `156` Buangkok Int ⇄ Clementi Int
+- `675` Blk 953 / Opp Blk 953 ⇄ Suntec Twr Two / Suntec Twr Three
+- `676` Blk 477A / Opp Blk 477A ⇄ Suntec Twr Two / Suntec Twr Three
+- `677` Opp Blk 110 / Blk 111 ⇄ Suntec Twr Two / Suntec Twr Three
+- `678` Blk 162B / Blk 649 ⇄ Suntec Twr Two / Suntec Twr Three
+- `967` Woodlands Temp Int ⟲ Blk 589
+
+## First/last timings changed
+
+Affected services: `5`, `11`, `15`, `16`, `45`, `62`, `82`, `132`, `156`, `158`, `175`, `230`, `265`, `268`, `16M`, `982E`, `268A`, `675`, `676`, `677`, `678`, `967`
+
 # 1 January 2025
 
 ## Stops count change: 5146 ⮕ 5145
