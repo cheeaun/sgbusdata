@@ -13134,14 +13134,14 @@
 	{
 		"BusStopCode": "43041",
 		"RoadName": "Upp Bt Timah Rd",
-		"Description": "Hume Pk Condo",
+		"Description": "Hume Stn Exit 1",
 		"Latitude": 1.35582940983395,
 		"Longitude": 103.76845331635313
 	},
 	{
 		"BusStopCode": "43049",
 		"RoadName": "Upp Bt Timah Rd",
-		"Description": "Opp Hume Pk Condo",
+		"Description": "Opp Hume Stn Exit 1",
 		"Latitude": 1.3556996199834,
 		"Longitude": 103.76885141403912
 	},
@@ -14149,14 +14149,14 @@
 	{
 		"BusStopCode": "43821",
 		"RoadName": "Hume Ave",
-		"Description": "Opp Symphony Hts",
+		"Description": "Bef Hume Stn Exit 2",
 		"Latitude": 1.356754,
 		"Longitude": 103.7676
 	},
 	{
 		"BusStopCode": "43829",
 		"RoadName": "Hume Ave",
-		"Description": "Symphony Hts",
+		"Description": "Aft Hume Stn Exit 2",
 		"Latitude": 1.35685805598526,
 		"Longitude": 103.767370833003
 	},
@@ -28185,8 +28185,8 @@
 		"BusStopCode": "68171",
 		"RoadName": "Yishun Ave 1",
 		"Description": "Opp Blk 475A",
-		"Latitude": 1.42704251041342,
-		"Longitude": 103.85535247743789
+		"Latitude": 1.426761,
+		"Longitude": 103.854462
 	},
 	{
 		"BusStopCode": "68179",
@@ -35845,6 +35845,20 @@
 		"Description": "Honey Well",
 		"Latitude": 1.37796803000431,
 		"Longitude": 103.97468689087003
+	},
+	{
+		"BusStopCode": "98281",
+		"RoadName": "Flora Rd",
+		"Description": "Estella Gdns",
+		"Latitude": 1.359681,
+		"Longitude": 103.9661555
+	},
+	{
+		"BusStopCode": "98289",
+		"RoadName": "Flora Rd",
+		"Description": "Opp Estella Gdns",
+		"Latitude": 1.3595295,
+		"Longitude": 103.966643
 	},
 	{
 		"BusStopCode": "98291",
