@@ -1,3 +1,61 @@
+# 1 March 2025
+
+## Stops count change: 5153 ⮕ 5155
+
+### Stops added: 2
+
+- `98281` Estella Gdns
+- `98289` Opp Estella Gdns
+
+### Stop names changed: 4
+
+- `43041` Hume Pk Condo ⮕ Hume Stn Exit 1
+- `43049` Opp Hume Pk Condo ⮕ Opp Hume Stn Exit 1
+- `43821` Opp Symphony Hts ⮕ Bef Hume Stn Exit 2
+- `43829` Symphony Hts ⮕ Aft Hume Stn Exit 2
+
+### Stop locations changed: 1
+
+- `68171` 103.85535,1.42704 ⮕ 103.85446,1.42676
+
+## Services count change: 567 ⮕ 565
+
+### Services added: 1
+
+- `871A` Tengah Int → Blk 240
+
+### Services removed: 3
+
+- `811T` Yishun Int ⟲ Opp Blk 245
+- `812T` Yishun Int ⟲ Blk 121
+- `912M` Woodlands Int → Woodlands Int
+
+### Bus Stop Changes To Routes: 4
+
+- `4` Tampines Int ⟲ Aft Changi Nth St 1: +2
+- `5` Pasir Ris Int ⇄ Bt Merah Int: +2
+- `5A` Aft Ballota Pk → Upp Changi Stn/SUTD: +1
+- `5B` Simei Stn → Bef Mariam Wk: +1
+
+## Routes changed: 12
+
+- `45` Upp East Coast Ter ⇄ Opp Yio Chu Kang Stadium / Liuxun Sanhemiao Tp
+- `162` Yio Chu Kang Int ⟲ Amtech Bldg
+- `230` Caldecott Stn Exit 1 → Bef Caldecott Stn Exit 4
+- `265` Liuxun Sanhemiao Tp → Opp Yio Chu Kang Stadium
+- `268` Bef AMK St 64 → Liuxun Sanhemiao Tp
+- `675` Blk 953 / Opp Blk 953 ⇄ Suntec Twr Two / Suntec Twr Three
+- `676` Blk 477A / Opp Blk 477A ⇄ Suntec Twr Two / Suntec Twr Three
+- `677` Opp Blk 110 / Blk 111 ⇄ Suntec Twr Two / Suntec Twr Three
+- `678` Blk 162B / Blk 649 ⇄ Suntec Twr Two / Suntec Twr Three
+- `967` Woodlands Temp Int ⟲ Blk 589
+- `182A` Opp Tuas Lk Stn → Bef Tuas Sth Ave 4
+- `871A` Tengah Int → Blk 240
+
+## First/last timings changed
+
+Affected services: `812T`, `811T`, `912M`, `4`, `5`, `307`, `911`, `5B`, `5A`, `871A`
+
 # 1 February 2025
 
 ## Stops count change: 5145 ⮕ 5153

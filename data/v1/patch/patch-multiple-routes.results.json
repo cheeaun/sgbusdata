@@ -36,12 +36,6 @@
 		"count": 22
 	},
 	{
-		"number": 162,
-		"numberPattern": "162-2",
-		"e": "Not LineString but is GeometryCollection",
-		"count": 17
-	},
-	{
 		"number": 165,
 		"numberPattern": "165-1",
 		"e": "Not LineString but is GeometryCollection",

@@ -22592,7 +22592,7 @@
 	{
 		"name": "43041",
 		"wab": "true",
-		"details": "Hume Pk Condo",
+		"details": "Hume Stn Exit 1",
 		"coordinates": {
 			"lat": 1.35582940983395,
 			"long": 103.76845331635313
@@ -22601,7 +22601,7 @@
 	{
 		"name": "43049",
 		"wab": "true",
-		"details": "Opp Hume Pk Condo",
+		"details": "Opp Hume Stn Exit 1",
 		"coordinates": {
 			"lat": 1.3556996199834,
 			"long": 103.76885141403912
@@ -23897,7 +23897,7 @@
 	{
 		"name": "43821",
 		"wab": "true",
-		"details": "Opp Symphony Hts",
+		"details": "Bef Hume Stn Exit 2",
 		"coordinates": {
 			"lat": 1.356754,
 			"long": 103.7676
@@ -23906,7 +23906,7 @@
 	{
 		"name": "43829",
 		"wab": "true",
-		"details": "Symphony Hts",
+		"details": "Aft Hume Stn Exit 2",
 		"coordinates": {
 			"lat": 1.35685805598526,
 			"long": 103.767370833003
@@ -41944,8 +41944,8 @@
 		"wab": "true",
 		"details": "Opp Blk 475A",
 		"coordinates": {
-			"lat": 1.42704251041342,
-			"long": 103.85535247743789
+			"lat": 1.426761,
+			"long": 103.854462
 		}
 	},
 	{
@@ -51792,6 +51792,24 @@
 		"coordinates": {
 			"lat": 1.37796803000431,
 			"long": 103.97468689087003
+		}
+	},
+	{
+		"name": "98281",
+		"wab": "true",
+		"details": "Estella Gdns",
+		"coordinates": {
+			"lat": 1.359681,
+			"long": 103.9661555
+		}
+	},
+	{
+		"name": "98289",
+		"wab": "true",
+		"details": "Opp Estella Gdns",
+		"coordinates": {
+			"lat": 1.3595295,
+			"long": 103.966643
 		}
 	},
 	{

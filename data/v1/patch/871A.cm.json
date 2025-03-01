@@ -1,0 +1,476 @@
+{
+	"feeds": [],
+	"routes": [
+		{
+			"aliases": [
+				"tower-transit-871a"
+			],
+			"brand": "TTSBuses",
+			"color": "#5BC824",
+			"live_availability": 0,
+			"live_line_code": "TTSBuses871A",
+			"long_name": "Tengah Int - Blk 240",
+			"mode": "bus",
+			"name": "871A",
+			"patterns": [
+				{
+					"id": "871A_0",
+					"name": "towards Blk 240",
+					"path": [
+						[
+							1.3627,
+							103.735967
+						],
+						[
+							1.3617,
+							103.736
+						],
+						[
+							1.36187,
+							103.73349
+						],
+						[
+							1.36142,
+							103.73163
+						],
+						[
+							1.35938,
+							103.729694
+						],
+						[
+							1.35755,
+							103.7293
+						],
+						[
+							1.35726,
+							103.73121
+						],
+						[
+							1.356473,
+							103.734424
+						],
+						[
+							1.356298,
+							103.736664
+						],
+						[
+							1.357305,
+							103.738908
+						],
+						[
+							1.355402,
+							103.740906
+						],
+						[
+							1.356643,
+							103.749505
+						],
+						[
+							1.357412,
+							103.753111
+						],
+						[
+							1.354371,
+							103.751871
+						],
+						[
+							1.352775,
+							103.755295
+						],
+						[
+							1.351087,
+							103.753891
+						]
+					],
+					"stop_points": [
+						{
+							"id": "SingaporeStop_TengahInt_SW",
+							"path_index": 0
+						},
+						{
+							"id": "SingaporeStop_Blk306B_W",
+							"path_index": 1
+						},
+						{
+							"id": "SingaporeStop_Blk238_W",
+							"path_index": 2
+						},
+						{
+							"id": "SingaporeStop_Blk237A_SW",
+							"path_index": 3
+						},
+						{
+							"id": "SingaporeStop_Blk220A_SE",
+							"path_index": 4
+						},
+						{
+							"id": "SingaporeStop_Blk221B_E",
+							"path_index": 5
+						},
+						{
+							"id": "SingaporeStop_Blk224A_E",
+							"path_index": 6
+						},
+						{
+							"id": "SingaporeStop_Blk119_SE",
+							"path_index": 7
+						},
+						{
+							"id": "SingaporeStop_AftLp56_NE",
+							"path_index": 8
+						},
+						{
+							"id": "SingaporeStop_Blk439C_SE",
+							"path_index": 9
+						},
+						{
+							"id": "SingaporeStop_OppBlk461C_SE",
+							"path_index": 10
+						},
+						{
+							"id": "SingaporeStop_OppBlk532_NE",
+							"path_index": 11
+						},
+						{
+							"id": "SingaporeStop_BtGombakStadium_SW",
+							"path_index": 12
+						},
+						{
+							"id": "SingaporeStop_Blk514_SE",
+							"path_index": 13
+						},
+						{
+							"id": "SingaporeStop_RegentHts_SW",
+							"path_index": 14
+						},
+						{
+							"id": "SingaporeStop_Blk240_W",
+							"path_index": 15
+						}
+					]
+				}
+			],
+			"supports_routeinfo": true,
+			"text_color": "#FFFFFF",
+			"ui_color": "#5BC824",
+			"url": "https://citymapper.com/singapore/l/tower-transit-871a"
+		}
+	],
+	"status": 0,
+	"stops": {
+		"SingaporeStop_AftLp56_NE": {
+			"bearing": "NE",
+			"brands": [
+				"SBSTBuses",
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.356298,
+				103.736664
+			],
+			"live_code": "SingaporeStop_AftLp56_NE",
+			"name": "Opp Blk 443d",
+			"routes": [
+				"SBSTBuses160",
+				"SBSTBuses160A",
+				"SMRTBuses180",
+				"SMRTBuses180A",
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses992"
+			],
+			"stop_code": "43751"
+		},
+		"SingaporeStop_Blk119_SE": {
+			"bearing": "SE",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.356473,
+				103.734424
+			],
+			"live_code": "SingaporeStop_Blk119_SE",
+			"name": "Blk 119",
+			"routes": [
+				"TTSBuses674",
+				"TTSBuses870",
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses992"
+			],
+			"stop_code": "40389"
+		},
+		"SingaporeStop_Blk220A_SE": {
+			"bearing": "S",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.35938,
+				103.729694
+			],
+			"live_code": "SingaporeStop_Blk220A_SE",
+			"name": "Blk 220a",
+			"routes": [
+				"TTSBuses674",
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses992"
+			],
+			"stop_code": "40421"
+		},
+		"SingaporeStop_Blk221B_E": {
+			"bearing": "E",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.35755,
+				103.7293
+			],
+			"live_code": "SingaporeStop_Blk221B_E",
+			"name": "Blk 221b",
+			"routes": [
+				"TTSBuses674",
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses992"
+			],
+			"stop_code": "40411"
+		},
+		"SingaporeStop_Blk224A_E": {
+			"bearing": "E",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.35726,
+				103.73121
+			],
+			"live_code": "SingaporeStop_Blk224A_E",
+			"name": "Blk 224a",
+			"routes": [
+				"TTSBuses674",
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses992"
+			],
+			"stop_code": "40401"
+		},
+		"SingaporeStop_Blk237A_SW": {
+			"bearing": "SW",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.36142,
+				103.73163
+			],
+			"live_code": "SingaporeStop_Blk237A_SW",
+			"name": "Blk 237a",
+			"routes": [
+				"TTSBuses674",
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses992"
+			],
+			"stop_code": "40431"
+		},
+		"SingaporeStop_Blk238_W": {
+			"bearing": "W",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.36187,
+				103.73349
+			],
+			"live_code": "SingaporeStop_Blk238_W",
+			"name": "Blk 238",
+			"routes": [
+				"TTSBuses674",
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses992"
+			],
+			"stop_code": "40441"
+		},
+		"SingaporeStop_Blk240_W": {
+			"bearing": "SW",
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.351087,
+				103.753891
+			],
+			"live_code": "SingaporeStop_Blk240_W",
+			"name": "Blk 240",
+			"routes": [
+				"SMRTBuses176",
+				"TTSBuses653",
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses945",
+				"SMRTBuses985"
+			],
+			"stop_code": "43429"
+		},
+		"SingaporeStop_Blk306B_W": {
+			"bearing": "W",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.3617,
+				103.736
+			],
+			"live_code": "SingaporeStop_Blk306B_W",
+			"name": "Blk 306b",
+			"routes": [
+				"TTSBuses870",
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses992"
+			],
+			"stop_code": "40451"
+		},
+		"SingaporeStop_Blk439C_SE": {
+			"bearing": "SE",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.357305,
+				103.738908
+			],
+			"live_code": "SingaporeStop_Blk439C_SE",
+			"name": "Blk 439c",
+			"routes": [
+				"TTSBuses871",
+				"TTSBuses871A",
+				"SBSTBuses993"
+			],
+			"stop_code": "40311"
+		},
+		"SingaporeStop_Blk514_SE": {
+			"bearing": "SE",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.354371,
+				103.751871
+			],
+			"live_code": "SingaporeStop_Blk514_SE",
+			"name": "Blk 514",
+			"routes": [
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses945"
+			],
+			"stop_code": "43809"
+		},
+		"SingaporeStop_BtGombakStadium_SW": {
+			"bearing": "S",
+			"brands": [
+				"SingaporeShuttle",
+				"TTSBuses"
+			],
+			"coords": [
+				1.357412,
+				103.753111
+			],
+			"live_code": "SingaporeStop_BtGombakStadium_SW",
+			"name": "Bt Gombak Stadium",
+			"routes": [
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses945",
+				"CM_SingaporeShuttle_hillv2"
+			],
+			"stop_code": "43569"
+		},
+		"SingaporeStop_OppBlk461C_SE": {
+			"bearing": "SE",
+			"brands": [
+				"SBSTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.355402,
+				103.740906
+			],
+			"live_code": "SingaporeStop_OppBlk461C_SE",
+			"name": "Opp Blk 461c",
+			"routes": [
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses941",
+				"TTSBuses992",
+				"SBSTBuses993"
+			],
+			"stop_code": "40359"
+		},
+		"SingaporeStop_OppBlk532_NE": {
+			"bearing": "NE",
+			"brands": [
+				"SMRTBuses",
+				"TTSBuses"
+			],
+			"coords": [
+				1.356643,
+				103.749505
+			],
+			"live_code": "SingaporeStop_OppBlk532_NE",
+			"name": "Opp Blk 532",
+			"routes": [
+				"TTSBuses871",
+				"TTSBuses871A",
+				"SMRTBuses991"
+			],
+			"stop_code": "43601"
+		},
+		"SingaporeStop_RegentHts_SW": {
+			"bearing": "SW",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.352775,
+				103.755295
+			],
+			"live_code": "SingaporeStop_RegentHts_SW",
+			"name": "Regent Hts",
+			"routes": [
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses945"
+			],
+			"stop_code": "43549"
+		},
+		"SingaporeStop_TengahInt_SW": {
+			"bearing": "S",
+			"brands": [
+				"TTSBuses"
+			],
+			"coords": [
+				1.3627,
+				103.735967
+			],
+			"live_code": "SingaporeStop_TengahInt_SW",
+			"name": "Tengah Int",
+			"routes": [
+				"TTSBuses870",
+				"TTSBuses871",
+				"TTSBuses871A",
+				"TTSBuses992"
+			],
+			"stop_code": "41009"
+		}
+	}
+}

@@ -958,8 +958,7 @@
 				"SMRTBuses901",
 				"SMRTBuses901M",
 				"SMRTBuses912",
-				"SMRTBuses912B",
-				"SMRTBuses912M"
+				"SMRTBuses912B"
 			],
 			"stop_code": "46331"
 		},
@@ -1232,7 +1231,6 @@
 				"SMRTBuses912",
 				"SMRTBuses912A",
 				"SMRTBuses912B",
-				"SMRTBuses912M",
 				"SMRTBuses913",
 				"SMRTBuses913M",
 				"SMRTBuses913T",

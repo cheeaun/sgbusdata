@@ -9872,13 +9872,13 @@
 	"43041": [
 		103.76845,
 		1.35583,
-		"Hume Pk Condo",
+		"Hume Stn Exit 1",
 		"Upp Bt Timah Rd"
 	],
 	"43049": [
 		103.76885,
 		1.3557,
-		"Opp Hume Pk Condo",
+		"Opp Hume Stn Exit 1",
 		"Upp Bt Timah Rd"
 	],
 	"43051": [
@@ -10742,13 +10742,13 @@
 	"43821": [
 		103.7676,
 		1.35675,
-		"Opp Symphony Hts",
+		"Bef Hume Stn Exit 2",
 		"Hume Ave"
 	],
 	"43829": [
 		103.76737,
 		1.35686,
-		"Symphony Hts",
+		"Aft Hume Stn Exit 2",
 		"Hume Ave"
 	],
 	"43831": [
@@ -22770,8 +22770,8 @@
 		"West Camp Rd"
 	],
 	"68171": [
-		103.85535,
-		1.42704,
+		103.85446,
+		1.42676,
 		"Opp Blk 475A",
 		"Yishun Ave 1"
 	],
@@ -29338,6 +29338,18 @@
 		1.37797,
 		"Honey Well",
 		"Loyang Cres"
+	],
+	"98281": [
+		103.96616,
+		1.35968,
+		"Estella Gdns",
+		"Flora Rd"
+	],
+	"98289": [
+		103.96664,
+		1.35953,
+		"Opp Estella Gdns",
+		"Flora Rd"
 	],
 	"98291": [
 		103.96519,
