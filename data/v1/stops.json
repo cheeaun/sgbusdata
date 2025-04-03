@@ -12972,8 +12972,8 @@
 		"Woodlands St 13"
 	],
 	"46569": [
-		103.77713,
-		1.4344,
+		103.77749,
+		1.43478,
 		"Blk 178",
 		"Woodlands St 13"
 	],
@@ -30411,6 +30411,12 @@
 		103.84059,
 		1.27677,
 		"Maritime Hse",
+		"Cantonment Rd"
+	],
+	"05539": [
+		103.84032,
+		1.27852,
+		"Opposite Police Cantonment Complex",
 		"Cantonment Rd"
 	],
 	"05629": [

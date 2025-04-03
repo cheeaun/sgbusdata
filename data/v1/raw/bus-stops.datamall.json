@@ -1015,6 +1015,13 @@
 		"Longitude": 103.84059222200347
 	},
 	{
+		"BusStopCode": "05539",
+		"RoadName": "Cantonment Rd",
+		"Description": "Opposite Police Cantonment Complex",
+		"Latitude": 1.278515,
+		"Longitude": 103.840322
+	},
+	{
 		"BusStopCode": "05629",
 		"RoadName": "Cantonment Rd",
 		"Description": "Opp Southpoint",
@@ -16754,8 +16761,8 @@
 		"BusStopCode": "46569",
 		"RoadName": "Woodlands St 13",
 		"Description": "Blk 178",
-		"Latitude": 1.434395,
-		"Longitude": 103.777132
+		"Latitude": 1.434776,
+		"Longitude": 103.777485
 	},
 	{
 		"BusStopCode": "46571",
