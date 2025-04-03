@@ -1,3 +1,77 @@
+# 3 April 2025
+
+## Stops count change: 5155 ⮕ 5156
+
+### Stops added: 1
+
+- `05539` Opposite Police Cantonment Complex
+
+### Stop locations changed: 1
+
+- `46569` 103.77713,1.4344 ⮕ 103.77749,1.43478
+
+## Services count change: 565 ⮕ 572
+
+### Services added: 8
+
+- `112B` Hougang Ctrl Int → Opp Blk 321
+- `138M` Ang Mo Kio Int ⟲ Courts Ang Mo Kio
+- `258M` Joo Koon Int ⟲ Boon Lay CC
+- `71A` Mayflower Stn Exit 5 → Opp Bishan Stn
+- `861B` Blk 430B → Canberra Stn
+- `861M` Blk 120A → Sembawang Int
+- `92B` Kent Ridge Stn Exit B → Kent Ridge Stn
+- `979X` Bt Panjang Int ⟲ Blk 689A
+
+### Services removed: 1
+
+- `138B` Ang Mo Kio Int → Opp Blk 604
+
+### Bus Stop Changes To Routes: 10
+
+- `138A` Springleaf Stn Exit 3 → S'pore Zoo: -16
+- `184` Gali Batu Ter → Opp Blk 635A: -1
+- `2` Changi Village Ter ⇄ Kampong Bahru Ter: +1
+- `12` Pasir Ris Int ⇄ Kampong Bahru Ter: +1
+- `54` Bishan Int ⇄ Kampong Bahru Ter: +1
+- `121` Shenton Way Ter ⟲ Blk 28: +1
+- `167` Sembawang Int ⇄ Bt Merah Int: +1
+- `190` Choa Chu Kang Int ⇄ Kampong Bahru Ter: +1
+- `196` Bedok Int ⇄ Clementi Int: +1
+- `12e` Pasir Ris Int ⇄ Kampong Bahru Ter: +1
+
+## Routes changed: 25
+
+- `4` Tampines Int ⟲ Aft Changi Nth St 1
+- `5` Pasir Ris Int ⇄ Bt Merah Int
+- `11` Lor 1 Geylang Ter ⟲ Opp Costa Rhu Condo
+- `158` S'Goon Int ⟲ Opp Costa Rhu Condo
+- `160` Jurong Town Hall Int ⟲ JB Sentral Bus Ter
+- `170` Queen St Ter ⇄ Larkin Ter
+- `673` Aft Punggol Pt Stn / Bef Punggol Pt Stn ⇄ Suntec Twr Two / Suntec Twr Three
+- `950` Woodlands Temp Int ⟲ Johor Bahru Checkpt
+- `114A` Buangkok Int → Blk 998B
+- `138A` Springleaf Stn Exit 3 → S'pore Zoo
+- `138C` S'pore Zoo → Springleaf Stn Exit 2
+- `158A` Aljunied Stn → Opp Aljunied Stn
+- `168A` Woodlands Int → Opp Tampines Stn/Int
+- `170X` Opp Kranji Stn / Kranji Stn ⇄ JB Sentral Bus Ter
+- `298X` Tampines Nth Int ⟲ Blk 875B
+- `50A` Aft Punggol Field → Bef Ang Mo Kio Stn Exit B
+- `871A` Tengah Int → Blk 240
+- `112B` Hougang Ctrl Int → Opp Blk 321
+- `138M` Ang Mo Kio Int ⟲ Courts Ang Mo Kio
+- `258M` Joo Koon Int ⟲ Boon Lay CC
+- `71A` Mayflower Stn Exit 5 → Opp Bishan Stn
+- `861B` Blk 430B → Canberra Stn
+- `861M` Blk 120A → Sembawang Int
+- `92B` Kent Ridge Stn Exit B → Kent Ridge Stn
+- `979X` Bt Panjang Int ⟲ Blk 689A
+
+## First/last timings changed
+
+Affected services: `138B`, `2`, `12`, `45`, `54`, `85`, `121`, `124`, `143`, `147`, `167`, `184`, `190`, `196`, `302`, `811`, `961`, `12e`, `174e`, `961M`, `972M`, `138A`, `883M`, `92B`, `258M`, `979X`, `71A`, `138M`, `861M`, `861B`, `112B`
+
 # 1 March 2025
 
 ## Stops count change: 5153 ⮕ 5155

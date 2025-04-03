@@ -7011,6 +7011,15 @@
 		}
 	},
 	{
+		"name": "05539",
+		"wab": "true",
+		"details": "Opposite Police Cantonment Complex",
+		"coordinates": {
+			"lat": 1.278515,
+			"long": 103.840322
+		}
+	},
+	{
 		"name": "05629",
 		"wab": "true",
 		"details": "Opp Southpoint",
@@ -27247,8 +27256,8 @@
 		"wab": "true",
 		"details": "Blk 178",
 		"coordinates": {
-			"lat": 1.434395,
-			"long": 103.777132
+			"lat": 1.434776,
+			"long": 103.777485
 		}
 	},
 	{
