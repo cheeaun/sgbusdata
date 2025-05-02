@@ -1,14 +1,9 @@
 [
 	{
-		"name": "From Aft Upp Paya Lebar Rd to Bef Upp Paya Lebar Rd",
+		"name": "From Woodleigh Int to Bef Upp Paya Lebar Rd",
 		"stops": [
-			"62061",
-			"62071",
-			"62081",
-			"62091",
-			"62101",
-			"61049",
-			"61039",
+			"68009",
+			"61131",
 			"61111",
 			"61021",
 			"61031",
@@ -18,6 +13,22 @@
 			"62089",
 			"62079",
 			"62069"
+		]
+	},
+	{
+		"name": "From Aft Upp Paya Lebar Rd to Woodleigh Int",
+		"stops": [
+			"62061",
+			"62071",
+			"62081",
+			"62091",
+			"62101",
+			"61049",
+			"61039",
+			"61029",
+			"61119",
+			"61139",
+			"68009"
 		]
 	}
 ]

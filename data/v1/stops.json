@@ -584,7 +584,7 @@
 	"11019": [
 		103.80566,
 		1.2868,
-		"Bef Blk 2",
+		"Alexandra Ctrl",
 		"Jln Bt Merah"
 	],
 	"11021": [
@@ -1718,13 +1718,13 @@
 	"14151": [
 		103.81294,
 		1.26965,
-		"Opp Chr Community Chapel",
+		"Opp Hotel Faber Pk",
 		"Telok Blangah Rd"
 	],
 	"14159": [
 		103.81315,
 		1.26994,
-		"Bef Chr Community Chapel",
+		"Hotel Faber Pk",
 		"Telok Blangah Rd"
 	],
 	"14161": [
@@ -2156,7 +2156,7 @@
 	"15181": [
 		103.78541,
 		1.29108,
-		"Opp Ascent",
+		"1A Sci Pk Dr (Geneo)",
 		"Science Pk Dr"
 	],
 	"15189": [
@@ -3026,7 +3026,7 @@
 	"18109": [
 		103.78673,
 		1.29403,
-		"Opp PSB Science Pk Bldg",
+		"Blk 55/Opp 5 Sci Pk Dr",
 		"Buona Vista Flyover"
 	],
 	"18111": [
@@ -3146,7 +3146,7 @@
 	"18241": [
 		103.78708,
 		1.29092,
-		"Opp Dnv Technology Ctr",
+		"7 Sci Pk Dr (Geneo)",
 		"Science Pk Dr"
 	],
 	"18249": [
@@ -3158,7 +3158,7 @@
 	"18251": [
 		103.78845,
 		1.29068,
-		"Opp Reuters",
+		"71 Sci Pk Dr",
 		"Science Pk Dr"
 	],
 	"18261": [
@@ -3170,7 +3170,7 @@
 	"18269": [
 		103.78919,
 		1.2901,
-		"Bef Reuters",
+		"DSO Natl Laboratories",
 		"Science Pk Dr"
 	],
 	"18271": [
@@ -5774,7 +5774,7 @@
 	"24369": [
 		103.66698,
 		1.30078,
-		"Dyna-Mac Engrg Svcs",
+		"Hanwha Offshore S'pore",
 		"Gul Rd"
 	],
 	"24379": [
@@ -6658,6 +6658,12 @@
 		1.28901,
 		"The Index",
 		"Tuas Sth Ave 5"
+	],
+	"25721": [
+		103.62829,
+		1.28511,
+		"Opp Abbott",
+		"Tuas Sth Ave 10"
 	],
 	"25729": [
 		103.62826,
@@ -9995,6 +10001,12 @@
 		"Opp Glendale Pk Condo",
 		"Hillview Ave"
 	],
+	"43159": [
+		103.7652,
+		1.3648,
+		"Bef Glendale Pk Condo",
+		"Hillview Ave"
+	],
 	"43161": [
 		103.75766,
 		1.34883,
@@ -10898,7 +10910,7 @@
 	"44091": [
 		103.74422,
 		1.37647,
-		"Bef Choa Chu Kang Mkt",
+		"Choa Chu Kang Mkt",
 		"Choa Chu Kang Ave 1"
 	],
 	"44099": [
@@ -11684,7 +11696,7 @@
 	"44859": [
 		103.76322,
 		1.37764,
-		"Maysprings Condo",
+		"Opp Bt Panjang Stn",
 		"Petir Rd"
 	],
 	"44861": [
@@ -13010,13 +13022,13 @@
 	"46611": [
 		103.77761,
 		1.42923,
-		"Fuchun Sec Sch",
+		"W'lands Ring Sec Sch",
 		"Woodlands Ave 1"
 	],
 	"46619": [
 		103.77775,
 		1.42907,
-		"Opp Fuchun Sec Sch",
+		"Opp W'lands Ring Sec Sch",
 		"Woodlands Ave 1"
 	],
 	"46621": [
@@ -15188,7 +15200,7 @@
 	"52449": [
 		103.85,
 		1.34045,
-		"Toa Payoh Police Ctr",
+		"Bef Blk 105",
 		"Lor 1 Toa Payoh"
 	],
 	"52451": [
@@ -19049,6 +19061,30 @@
 		"Blk 103B",
 		"Bidadari Pk Dr"
 	],
+	"61121": [
+		103.87418,
+		1.34164,
+		"Opp Blk 212",
+		"Bidadari Pk Dr"
+	],
+	"61129": [
+		103.87548,
+		1.34177,
+		"Blk 212",
+		"Bidadari Pk Dr"
+	],
+	"61131": [
+		103.8727,
+		1.3389,
+		"Opp Woodleigh Mall",
+		"Bidadari Pk Dr"
+	],
+	"61139": [
+		103.8725,
+		1.33893,
+		"Woodleigh Mall",
+		"Bidadari Pk Dr"
+	],
 	"62011": [
 		103.88345,
 		1.34213,
@@ -22595,6 +22631,12 @@
 		"Blk 461B",
 		"Sengkang West Way"
 	],
+	"68009": [
+		103.87145,
+		1.34014,
+		"Woodleigh Int",
+		"Bidadari Pk Dr"
+	],
 	"68011": [
 		103.8701,
 		1.39132,
@@ -23711,6 +23753,24 @@
 		"Opp Tampines Dormitory",
 		"Tampines Rd"
 	],
+	"74919": [
+		103.93562,
+		1.34428,
+		"Blk 951A",
+		"Tampines St 96"
+	],
+	"74929": [
+		103.93576,
+		1.34218,
+		"Blk 953C",
+		"Tampines St 96"
+	],
+	"74959": [
+		103.93791,
+		1.34003,
+		"Blk 969C",
+		"Tampines St 96"
+	],
 	"75009": [
 		103.94339,
 		1.35408,
@@ -24110,7 +24170,7 @@
 	"75419": [
 		103.92919,
 		1.35576,
-		"Aft Tampines Ave 5",
+		"The Alps Residences Condo",
 		"Tampines Ave 10"
 	],
 	"75461": [
@@ -24846,8 +24906,8 @@
 		"Tampines Ctrl 1"
 	],
 	"77009": [
-		103.95048,
-		1.37356,
+		103.94845,
+		1.3737,
 		"Pasir Ris Int",
 		"Pasir Ris Dr 3"
 	],
@@ -26237,6 +26297,18 @@
 		"Opp City Plaza",
 		"Guillemard Rd"
 	],
+	"82241": [
+		103.8985,
+		1.30775,
+		"Opp Tg Katong Sec Sch",
+		"Haig Rd"
+	],
+	"82249": [
+		103.89864,
+		1.30738,
+		"Tg Katong Sec Sch",
+		"Haig Rd"
+	],
 	"83011": [
 		103.90725,
 		1.31971,
@@ -26690,13 +26762,13 @@
 	"84111": [
 		103.93574,
 		1.31959,
-		"Temasek JC",
+		"Opp Blk 17",
 		"Bedok Sth Rd"
 	],
 	"84119": [
 		103.93523,
 		1.31964,
-		"Opp Temasek JC",
+		"Blk 18",
 		"Bedok Sth Rd"
 	],
 	"84121": [
@@ -28154,13 +28226,13 @@
 	"94031": [
 		103.9409,
 		1.31505,
-		"The Summit",
+		"Opp Bayshore Stn Exit 3",
 		"Upp East Coast Rd"
 	],
 	"94039": [
 		103.94066,
 		1.31485,
-		"Opp The Summit",
+		"Bef Bayshore Stn Exit 3",
 		"Upp East Coast Rd"
 	],
 	"94041": [
@@ -29606,13 +29678,13 @@
 	"01121": [
 		103.85868,
 		1.30394,
-		"Stamford Pr Sch",
+		"Aft Victoria Ln",
 		"Victoria St"
 	],
 	"01129": [
 		103.85865,
 		1.3035,
-		"Opp Stamford Pr Sch",
+		"Bef Jln Pisang",
 		"Victoria St"
 	],
 	"01139": [
@@ -29942,13 +30014,13 @@
 	"03151": [
 		103.84776,
 		1.27892,
-		"Opp GB Bldg",
+		"Aft Telok Ayer St",
 		"Cecil St"
 	],
 	"03217": [
 		103.84794,
 		1.27552,
-		"Opp AXA Twr",
+		"Aft Straits Blvd",
 		"Shenton Way"
 	],
 	"03218": [
@@ -30416,7 +30488,7 @@
 	"05539": [
 		103.84032,
 		1.27852,
-		"Opposite Police Cantonment Complex",
+		"Opp Police Cantonment Cplx",
 		"Cantonment Rd"
 	],
 	"05629": [

@@ -2376,7 +2376,7 @@
 			"id": "11019",
 			"properties": {
 				"number": "11019",
-				"name": "Bef Blk 2",
+				"name": "Alexandra Ctrl",
 				"road": "Jln Bt Merah",
 				"services": [
 					"123",
@@ -6896,7 +6896,7 @@
 			"id": "14151",
 			"properties": {
 				"number": "14151",
-				"name": "Opp Chr Community Chapel",
+				"name": "Opp Hotel Faber Pk",
 				"road": "Telok Blangah Rd",
 				"services": [
 					"10",
@@ -6928,7 +6928,7 @@
 			"id": "14159",
 			"properties": {
 				"number": "14159",
-				"name": "Bef Chr Community Chapel",
+				"name": "Hotel Faber Pk",
 				"road": "Telok Blangah Rd",
 				"services": [
 					"10",
@@ -8566,7 +8566,7 @@
 			"id": "15181",
 			"properties": {
 				"number": "15181",
-				"name": "Opp Ascent",
+				"name": "1A Sci Pk Dr (Geneo)",
 				"road": "Science Pk Dr",
 				"services": [
 					"92",
@@ -11886,7 +11886,7 @@
 			"id": "18109",
 			"properties": {
 				"number": "18109",
-				"name": "Opp PSB Science Pk Bldg",
+				"name": "Blk 55/Opp 5 Sci Pk Dr",
 				"road": "Buona Vista Flyover",
 				"services": [
 					"14",
@@ -12325,7 +12325,7 @@
 			"id": "18241",
 			"properties": {
 				"number": "18241",
-				"name": "Opp Dnv Technology Ctr",
+				"name": "7 Sci Pk Dr (Geneo)",
 				"road": "Science Pk Dr",
 				"services": [
 					"92",
@@ -12366,7 +12366,7 @@
 			"id": "18251",
 			"properties": {
 				"number": "18251",
-				"name": "Opp Reuters",
+				"name": "71 Sci Pk Dr",
 				"road": "Science Pk Dr",
 				"services": [
 					"92",
@@ -12408,7 +12408,7 @@
 			"id": "18269",
 			"properties": {
 				"number": "18269",
-				"name": "Bef Reuters",
+				"name": "DSO Natl Laboratories",
 				"road": "Science Pk Dr",
 				"services": [
 					"92",
@@ -21515,7 +21515,7 @@
 			"id": "24369",
 			"properties": {
 				"number": "24369",
-				"name": "Dyna-Mac Engrg Svcs",
+				"name": "Hanwha Offshore S'pore",
 				"road": "Gul Rd",
 				"services": [
 					"257"
@@ -24400,6 +24400,26 @@
 				"coordinates": [
 					103.624893,
 					1.289014
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "25721",
+			"properties": {
+				"number": "25721",
+				"name": "Opp Abbott",
+				"road": "Tuas Sth Ave 10",
+				"services": [
+					"248",
+					"248M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6282915,
+					1.2851115
 				]
 			}
 		},
@@ -36809,6 +36829,25 @@
 		},
 		{
 			"type": "Feature",
+			"id": "43159",
+			"properties": {
+				"number": "43159",
+				"name": "Bef Glendale Pk Condo",
+				"road": "Hillview Ave",
+				"services": [
+					"177"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7652,
+					1.364803
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "43161",
 			"properties": {
 				"number": "43161",
@@ -40214,7 +40253,7 @@
 			"id": "44091",
 			"properties": {
 				"number": "44091",
-				"name": "Bef Choa Chu Kang Mkt",
+				"name": "Choa Chu Kang Mkt",
 				"road": "Choa Chu Kang Ave 1",
 				"services": [
 					"172",
@@ -43185,7 +43224,7 @@
 			"id": "44859",
 			"properties": {
 				"number": "44859",
-				"name": "Maysprings Condo",
+				"name": "Opp Bt Panjang Stn",
 				"road": "Petir Rd",
 				"services": [
 					"177"
@@ -48073,7 +48112,7 @@
 			"id": "46611",
 			"properties": {
 				"number": "46611",
-				"name": "Fuchun Sec Sch",
+				"name": "W'lands Ring Sec Sch",
 				"road": "Woodlands Ave 1",
 				"services": [
 					"912",
@@ -48095,7 +48134,7 @@
 			"id": "46619",
 			"properties": {
 				"number": "46619",
-				"name": "Opp Fuchun Sec Sch",
+				"name": "Opp W'lands Ring Sec Sch",
 				"road": "Woodlands Ave 1",
 				"services": [
 					"912",
@@ -52456,6 +52495,7 @@
 					"141",
 					"166",
 					"21",
+					"21X",
 					"56",
 					"57",
 					"851",
@@ -52818,7 +52858,8 @@
 					"131A",
 					"139",
 					"186",
-					"21"
+					"21",
+					"21X"
 				]
 			},
 			"geometry": {
@@ -53402,7 +53443,8 @@
 					"131",
 					"139",
 					"186",
-					"21"
+					"21",
+					"21X"
 				]
 			},
 			"geometry": {
@@ -54195,7 +54237,8 @@
 				"road": "Jln Tenteram",
 				"services": [
 					"129",
-					"21"
+					"21",
+					"21X"
 				]
 			},
 			"geometry": {
@@ -54458,7 +54501,8 @@
 					"131A",
 					"139",
 					"186",
-					"21"
+					"21",
+					"21X"
 				]
 			},
 			"geometry": {
@@ -54503,7 +54547,8 @@
 				"road": "Jln Tenteram",
 				"services": [
 					"129",
-					"21"
+					"21",
+					"21X"
 				]
 			},
 			"geometry": {
@@ -54530,7 +54575,8 @@
 					"139",
 					"139A",
 					"186",
-					"21"
+					"21",
+					"21X"
 				]
 			},
 			"geometry": {
@@ -55880,7 +55926,7 @@
 			"id": "52449",
 			"properties": {
 				"number": "52449",
-				"name": "Toa Payoh Police Ctr",
+				"name": "Bef Blk 105",
 				"road": "Lor 1 Toa Payoh",
 				"services": [
 					"129",
@@ -55913,7 +55959,8 @@
 					"139",
 					"139A",
 					"186",
-					"21"
+					"21",
+					"21X"
 				]
 			},
 			"geometry": {
@@ -55997,7 +56044,8 @@
 					"131",
 					"131A",
 					"186",
-					"21"
+					"21",
+					"21X"
 				]
 			},
 			"geometry": {
@@ -70507,6 +70555,7 @@
 					"142",
 					"142A",
 					"147",
+					"148",
 					"506",
 					"853",
 					"853M"
@@ -70558,7 +70607,8 @@
 				"road": "Potong Pasir Ave 1",
 				"services": [
 					"142",
-					"142A"
+					"142A",
+					"148"
 				]
 			},
 			"geometry": {
@@ -70655,6 +70705,7 @@
 				"services": [
 					"13",
 					"133",
+					"146",
 					"147",
 					"147A",
 					"506",
@@ -70803,7 +70854,8 @@
 				"road": "Potong Pasir Ave 1",
 				"services": [
 					"142",
-					"142A"
+					"142A",
+					"148"
 				]
 			},
 			"geometry": {
@@ -70843,7 +70895,8 @@
 				"road": "Potong Pasir Ave 1",
 				"services": [
 					"142",
-					"142A"
+					"142A",
+					"148"
 				]
 			},
 			"geometry": {
@@ -70863,7 +70916,8 @@
 				"road": "Potong Pasir Ave 3",
 				"services": [
 					"142",
-					"142A"
+					"142A",
+					"148"
 				]
 			},
 			"geometry": {
@@ -70903,7 +70957,8 @@
 				"road": "Potong Pasir Ave 1",
 				"services": [
 					"142",
-					"142A"
+					"142A",
+					"148"
 				]
 			},
 			"geometry": {
@@ -70924,7 +70979,8 @@
 				"services": [
 					"107",
 					"107M",
-					"146"
+					"146",
+					"148"
 				]
 			},
 			"geometry": {
@@ -70944,7 +71000,9 @@
 				"road": "Bidadari Pk Dr",
 				"services": [
 					"107",
-					"107M"
+					"107M",
+					"146",
+					"148"
 				]
 			},
 			"geometry": {
@@ -70952,6 +71010,82 @@
 				"coordinates": [
 					103.871938,
 					1.335623
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "61121",
+			"properties": {
+				"number": "61121",
+				"name": "Opp Blk 212",
+				"road": "Bidadari Pk Dr",
+				"services": [
+					"148"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.874179,
+					1.3416375
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "61129",
+			"properties": {
+				"number": "61129",
+				"name": "Blk 212",
+				"road": "Bidadari Pk Dr",
+				"services": [
+					"148"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.875484,
+					1.3417695
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "61131",
+			"properties": {
+				"number": "61131",
+				"name": "Opp Woodleigh Mall",
+				"road": "Bidadari Pk Dr",
+				"services": [
+					"146"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8726965,
+					1.338895
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "61139",
+			"properties": {
+				"number": "61139",
+				"name": "Woodleigh Mall",
+				"road": "Bidadari Pk Dr",
+				"services": [
+					"146"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8724955,
+					1.3389265
 				]
 			}
 		},
@@ -76526,7 +76660,6 @@
 					"82",
 					"83",
 					"83T",
-					"84A",
 					"84G",
 					"84W",
 					"85"
@@ -76920,7 +77053,6 @@
 				"name": "Blk 301A",
 				"road": "Punggol Rd",
 				"services": [
-					"84A",
 					"84G",
 					"84W"
 				]
@@ -76961,7 +77093,6 @@
 				"name": "Opp My First Skool PCC10",
 				"road": "New Punggol Road",
 				"services": [
-					"84A",
 					"84W"
 				]
 			},
@@ -77363,7 +77494,6 @@
 					"39B",
 					"83",
 					"83T",
-					"84A",
 					"84G",
 					"84W",
 					"85"
@@ -79163,7 +79293,6 @@
 				"name": "Before SIT Punggol",
 				"road": "New Punggol Road",
 				"services": [
-					"84A",
 					"84W"
 				]
 			},
@@ -79240,7 +79369,6 @@
 				"name": "Punggol Coast Station",
 				"road": "New Punggol Road",
 				"services": [
-					"84A",
 					"84W"
 				]
 			},
@@ -84741,6 +84869,26 @@
 		},
 		{
 			"type": "Feature",
+			"id": "68009",
+			"properties": {
+				"number": "68009",
+				"name": "Woodleigh Int",
+				"road": "Bidadari Pk Dr",
+				"services": [
+					"146",
+					"148"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871449,
+					1.340141
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "68011",
 			"properties": {
 				"number": "68011",
@@ -85816,6 +85964,7 @@
 				"services": [
 					"100",
 					"135",
+					"148",
 					"155"
 				]
 			},
@@ -85838,6 +85987,7 @@
 					"100",
 					"100A",
 					"135",
+					"148",
 					"155"
 				]
 			},
@@ -88704,6 +88854,7 @@
 					"23",
 					"518",
 					"58",
+					"58B",
 					"8"
 				]
 			},
@@ -88867,7 +89018,8 @@
 					"129",
 					"18",
 					"298",
-					"298X"
+					"298X",
+					"299"
 				]
 			},
 			"geometry": {
@@ -89049,6 +89201,63 @@
 				"coordinates": [
 					103.929222,
 					1.366122
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "74919",
+			"properties": {
+				"number": "74919",
+				"name": "Blk 951A",
+				"road": "Tampines St 96",
+				"services": [
+					"299"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.93562,
+					1.344284
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "74929",
+			"properties": {
+				"number": "74929",
+				"name": "Blk 953C",
+				"road": "Tampines St 96",
+				"services": [
+					"299"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.935758,
+					1.34218
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "74959",
+			"properties": {
+				"number": "74959",
+				"name": "Blk 969C",
+				"road": "Tampines St 96",
+				"services": [
+					"299"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.937911,
+					1.340033
 				]
 			}
 		},
@@ -89871,6 +90080,7 @@
 					"15",
 					"15A",
 					"23",
+					"299",
 					"513",
 					"518",
 					"69",
@@ -90662,7 +90872,7 @@
 			"id": "75419",
 			"properties": {
 				"number": "75419",
-				"name": "Aft Tampines Ave 5",
+				"name": "The Alps Residences Condo",
 				"road": "Tampines Ave 10",
 				"services": [
 					"298",
@@ -91099,6 +91309,7 @@
 				"road": "Tampines Nth Dr 2",
 				"services": [
 					"129",
+					"299",
 					"46"
 				]
 			},
@@ -91119,6 +91330,7 @@
 				"road": "Tampines Nth Dr 2",
 				"services": [
 					"129",
+					"299",
 					"46"
 				]
 			},
@@ -91141,6 +91353,7 @@
 					"129",
 					"298",
 					"298X",
+					"299",
 					"46"
 				]
 			},
@@ -91163,6 +91376,7 @@
 					"129",
 					"298",
 					"298X",
+					"299",
 					"46"
 				]
 			},
@@ -91228,6 +91442,7 @@
 					"129",
 					"15",
 					"298",
+					"299",
 					"969",
 					"969A"
 				]
@@ -91451,6 +91666,7 @@
 					"23",
 					"292",
 					"293",
+					"299",
 					"3",
 					"31",
 					"34",
@@ -91481,6 +91697,7 @@
 					"23",
 					"292",
 					"293",
+					"299",
 					"3",
 					"31",
 					"31A",
@@ -91816,6 +92033,7 @@
 					"129",
 					"293",
 					"298",
+					"299",
 					"65"
 				]
 			},
@@ -91838,6 +92056,7 @@
 					"129",
 					"293",
 					"298",
+					"299",
 					"65"
 				]
 			},
@@ -91859,6 +92078,7 @@
 				"services": [
 					"129",
 					"293",
+					"299",
 					"65"
 				]
 			},
@@ -91880,6 +92100,7 @@
 				"services": [
 					"129",
 					"293",
+					"299",
 					"65"
 				]
 			},
@@ -92657,6 +92878,7 @@
 				"road": "Tampines Ave 4",
 				"services": [
 					"129",
+					"299",
 					"46",
 					"65"
 				]
@@ -92678,6 +92900,7 @@
 				"road": "Tampines Ave 4",
 				"services": [
 					"129",
+					"299",
 					"46",
 					"65"
 				]
@@ -93457,7 +93680,8 @@
 				"services": [
 					"129",
 					"298",
-					"298X"
+					"298X",
+					"299"
 				]
 			},
 			"geometry": {
@@ -93478,7 +93702,8 @@
 				"services": [
 					"129",
 					"298",
-					"298X"
+					"298X",
+					"299"
 				]
 			},
 			"geometry": {
@@ -93522,8 +93747,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.950478,
-					1.373564
+					103.94845,
+					1.373696
 				]
 			}
 		},
@@ -98529,7 +98754,6 @@
 				"services": [
 					"10",
 					"134",
-					"135",
 					"197",
 					"31",
 					"32",
@@ -98558,7 +98782,6 @@
 				"services": [
 					"10",
 					"134",
-					"135",
 					"197",
 					"31",
 					"32",
@@ -98760,6 +98983,7 @@
 				"name": "Questa @ Dunman",
 				"road": "Dunman Rd",
 				"services": [
+					"135",
 					"16",
 					"16M",
 					"33"
@@ -98781,6 +99005,7 @@
 				"name": "Tg Katong Sec Sch",
 				"road": "Dunman Rd",
 				"services": [
+					"135",
 					"16",
 					"16M",
 					"33",
@@ -99036,6 +99261,44 @@
 				"coordinates": [
 					103.8936761363468,
 					1.3142010130892
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "82241",
+			"properties": {
+				"number": "82241",
+				"name": "Opp Tg Katong Sec Sch",
+				"road": "Haig Rd",
+				"services": [
+					"135"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8985,
+					1.307747
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "82249",
+			"properties": {
+				"number": "82249",
+				"name": "Tg Katong Sec Sch",
+				"road": "Haig Rd",
+				"services": [
+					"135"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898635,
+					1.307375
 				]
 			}
 		},
@@ -100895,7 +101158,7 @@
 			"id": "84111",
 			"properties": {
 				"number": "84111",
-				"name": "Temasek JC",
+				"name": "Opp Blk 17",
 				"road": "Bedok Sth Rd",
 				"services": [
 					"12",
@@ -100918,7 +101181,7 @@
 			"id": "84119",
 			"properties": {
 				"number": "84119",
-				"name": "Opp Temasek JC",
+				"name": "Blk 18",
 				"road": "Bedok Sth Rd",
 				"services": [
 					"12",
@@ -105049,7 +105312,6 @@
 				"services": [
 					"10",
 					"134",
-					"135",
 					"197",
 					"31",
 					"32",
@@ -105078,7 +105340,6 @@
 				"services": [
 					"10",
 					"134",
-					"135",
 					"197",
 					"31",
 					"32",
@@ -106673,7 +106934,7 @@
 			"id": "94031",
 			"properties": {
 				"number": "94031",
-				"name": "The Summit",
+				"name": "Opp Bayshore Stn Exit 3",
 				"road": "Upp East Coast Rd",
 				"services": [
 					"10",
@@ -106701,7 +106962,7 @@
 			"id": "94039",
 			"properties": {
 				"number": "94039",
-				"name": "Opp The Summit",
+				"name": "Bef Bayshore Stn Exit 3",
 				"road": "Upp East Coast Rd",
 				"services": [
 					"10",
@@ -112008,7 +112269,7 @@
 			"id": "01121",
 			"properties": {
 				"number": "01121",
-				"name": "Stamford Pr Sch",
+				"name": "Aft Victoria Ln",
 				"road": "Victoria St",
 				"services": [
 					"12",
@@ -112040,7 +112301,7 @@
 			"id": "01129",
 			"properties": {
 				"number": "01129",
-				"name": "Opp Stamford Pr Sch",
+				"name": "Bef Jln Pisang",
 				"road": "Victoria St",
 				"services": [
 					"12",
@@ -113645,7 +113906,7 @@
 			"id": "03151",
 			"properties": {
 				"number": "03151",
-				"name": "Opp GB Bldg",
+				"name": "Aft Telok Ayer St",
 				"road": "Cecil St",
 				"services": [
 					"131",
@@ -113674,7 +113935,7 @@
 			"id": "03217",
 			"properties": {
 				"number": "03217",
-				"name": "Opp AXA Twr",
+				"name": "Aft Straits Blvd",
 				"road": "Shenton Way",
 				"services": [
 					"10",
@@ -115768,7 +116029,7 @@
 			"id": "05539",
 			"properties": {
 				"number": "05539",
-				"name": "Opposite Police Cantonment Complex",
+				"name": "Opp Police Cantonment Cplx",
 				"road": "Cantonment Rd",
 				"services": [
 					"121",
