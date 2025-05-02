@@ -1,3 +1,90 @@
+# 2 May 2025
+
+## Stops count change: 5156 ⮕ 5168
+
+### Stops added: 12
+
+- `25721` Opp Abbott
+- `43159` Bef Glendale Pk Condo
+- `61121` Opp Blk 212
+- `61129` Blk 212
+- `61131` Opp Woodleigh Mall
+- `61139` Woodleigh Mall
+- `68009` Woodleigh Int
+- `74919` Blk 951A
+- `74929` Blk 953C
+- `74959` Blk 969C
+- `82241` Opp Tg Katong Sec Sch
+- `82249` Tg Katong Sec Sch
+
+### Stop names changed: 24
+
+- `11019` Bef Blk 2 ⮕ Alexandra Ctrl
+- `14151` Opp Chr Community Chapel ⮕ Opp Hotel Faber Pk
+- `14159` Bef Chr Community Chapel ⮕ Hotel Faber Pk
+- `15181` Opp Ascent ⮕ 1A Sci Pk Dr (Geneo)
+- `18109` Opp PSB Science Pk Bldg ⮕ Blk 55/Opp 5 Sci Pk Dr
+- `18241` Opp Dnv Technology Ctr ⮕ 7 Sci Pk Dr (Geneo)
+- `18251` Opp Reuters ⮕ 71 Sci Pk Dr
+- `18269` Bef Reuters ⮕ DSO Natl Laboratories
+- `24369` Dyna-Mac Engrg Svcs ⮕ Hanwha Offshore S'pore
+- `44091` Bef Choa Chu Kang Mkt ⮕ Choa Chu Kang Mkt
+- `44859` Maysprings Condo ⮕ Opp Bt Panjang Stn
+- `46611` Fuchun Sec Sch ⮕ W'lands Ring Sec Sch
+- `46619` Opp Fuchun Sec Sch ⮕ Opp W'lands Ring Sec Sch
+- `52449` Toa Payoh Police Ctr ⮕ Bef Blk 105
+- `75419` Aft Tampines Ave 5 ⮕ The Alps Residences Condo
+- `84111` Temasek JC ⮕ Opp Blk 17
+- `84119` Opp Temasek JC ⮕ Blk 18
+- `94031` The Summit ⮕ Opp Bayshore Stn Exit 3
+- `94039` Opp The Summit ⮕ Bef Bayshore Stn Exit 3
+- `01121` Stamford Pr Sch ⮕ Aft Victoria Ln
+- `01129` Opp Stamford Pr Sch ⮕ Bef Jln Pisang
+- `03151` Opp GB Bldg ⮕ Aft Telok Ayer St
+- `03217` Opp AXA Twr ⮕ Aft Straits Blvd
+- `05539` Opposite Police Cantonment Complex ⮕ Opp Police Cantonment Cplx
+
+### Stop locations changed: 1
+
+- `77009` 103.95048,1.37356 ⮕ 103.94845,1.3737
+
+## Services count change: 572 ⮕ 574
+
+### Services added: 3
+
+- `148` Woodleigh Int ⟲ Blk 121
+- `299` Tampines Nth Int ⟲ Blk 953C
+- `21X` St. Michael's Ter ⟲ Bef Kim Keat Lane
+
+### Services removed: 1
+
+- `84A` Punggol Temp Int → Punggol Coast Station
+
+### Bus Stop Changes To Routes: 8
+
+- `68` Pasir Ris Int ⟲ Tampines Int: -1
+- `146` Woodleigh Int ⇄ Bef Upp Paya Lebar Rd / Aft Upp Paya Lebar Rd: +6
+- `359` Pasir Ris Int ⟲ Blk 569: -38
+- `135` Ang Mo Kio Int ⇄ Kembangan Stn: +4, -4
+- `177` Bt Batok Int ⟲ Blk 180: +1, -1
+- `248` Tuas Ter ⟲ Aft Tuas Sth St 7: +1
+- `248M` Tuas Ter ⟲ Opp REC S'pore: +1
+- `58B` Pasir Ris Int → Aft Tai Seng Stn: +1
+
+## Routes changed: 7
+
+- `359` Pasir Ris Int ⟲ Blk 569
+- `146` Woodleigh Int ⇄ Bef Upp Paya Lebar Rd / Aft Upp Paya Lebar Rd
+- `248` Tuas Ter ⟲ Aft Tuas Sth St 7
+- `248M` Tuas Ter ⟲ Opp REC S'pore
+- `148` Woodleigh Int ⟲ Blk 121
+- `299` Tampines Nth Int ⟲ Blk 953C
+- `21X` St. Michael's Ter ⟲ Bef Kim Keat Lane
+
+## First/last timings changed
+
+Affected services: `84A`, `5`, `21`, `27`, `46`, `58`, `68`, `72`, `88`, `118`, `135`, `146`, `168`, `177`, `248`, `359`, `248M`, `58B`, `15A`, `148`, `299`, `21X`
+
 # 3 April 2025
 
 ## Stops count change: 5155 ⮕ 5156

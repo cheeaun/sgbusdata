@@ -1679,7 +1679,8 @@
 		"number": 146,
 		"type": "TRUNK",
 		"kmlFile": [
-			"146-1.kml"
+			"146-1.kml",
+			"146-2.kml"
 		],
 		"routeFile": [
 			"146.xml"
@@ -1704,6 +1705,16 @@
 		],
 		"routeFile": [
 			"147A.xml"
+		]
+	},
+	{
+		"number": 148,
+		"type": "TRUNK",
+		"kmlFile": [
+			"148-1.kml"
+		],
+		"routeFile": [
+			"148.xml"
 		]
 	},
 	{
@@ -2687,6 +2698,16 @@
 		]
 	},
 	{
+		"number": "21X",
+		"type": "TRUNK",
+		"kmlFile": [
+			"21X-1.kml"
+		],
+		"routeFile": [
+			"21X.xml"
+		]
+	},
+	{
 		"number": 22,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -3321,6 +3342,16 @@
 		]
 	},
 	{
+		"number": 299,
+		"type": "TRUNK",
+		"kmlFile": [
+			"299-1.kml"
+		],
+		"routeFile": [
+			"299.xml"
+		]
+	},
+	{
 		"number": "29A",
 		"type": "TRUNK",
 		"kmlFile": [
@@ -3650,8 +3681,7 @@
 		"number": 359,
 		"type": "TRUNK",
 		"kmlFile": [
-			"359-1.kml",
-			"359-2.kml"
+			"359-1.kml"
 		],
 		"routeFile": [
 			"359.xml"
@@ -4947,16 +4977,6 @@
 		],
 		"routeFile": [
 			"83T.xml"
-		]
-	},
-	{
-		"number": "84A",
-		"type": "TRUNK",
-		"kmlFile": [
-			"84A-1.kml"
-		],
-		"routeFile": [
-			"84A.xml"
 		]
 	},
 	{

@@ -5798,7 +5798,7 @@
 	{
 		"name": "01121",
 		"wab": "true",
-		"details": "Stamford Pr Sch",
+		"details": "Aft Victoria Ln",
 		"coordinates": {
 			"lat": 1.30393809691048,
 			"long": 103.85867999243207
@@ -5807,7 +5807,7 @@
 	{
 		"name": "01129",
 		"wab": "true",
-		"details": "Opp Stamford Pr Sch",
+		"details": "Bef Jln Pisang",
 		"coordinates": {
 			"lat": 1.30350269187301,
 			"long": 103.85864530718491
@@ -6302,7 +6302,7 @@
 	{
 		"name": "03151",
 		"wab": "true",
-		"details": "Opp GB Bldg",
+		"details": "Aft Telok Ayer St",
 		"coordinates": {
 			"lat": 1.27892124625262,
 			"long": 103.84776234627124
@@ -6311,7 +6311,7 @@
 	{
 		"name": "03217",
 		"wab": "true",
-		"details": "Opp AXA Twr",
+		"details": "Aft Straits Blvd",
 		"coordinates": {
 			"lat": 1.27552218897645,
 			"long": 103.8479443674916
@@ -6401,7 +6401,7 @@
 	{
 		"name": "03361",
 		"wab": "true",
-		"details": "GARDENS BY THE BAY STN EXIT 2",
+		"details": "Gardens by the Bay Stn Exit 2",
 		"coordinates": {
 			"lat": 1.279917,
 			"long": 103.868895
@@ -6410,7 +6410,7 @@
 	{
 		"name": "03369",
 		"wab": "true",
-		"details": "GARDENS BY THE BAY STN EXIT 1",
+		"details": "Gardens by the Bay Stn Exit 1",
 		"coordinates": {
 			"lat": 1.27960772061959,
 			"long": 103.8698744774074
@@ -6851,7 +6851,7 @@
 	{
 		"name": "05069",
 		"wab": "true",
-		"details": "OUTRAM PK STN EXIT 4",
+		"details": "Outram Pk Stn Exit 4",
 		"coordinates": {
 			"lat": 1.28027629959632,
 			"long": 103.84029791443083
@@ -6914,7 +6914,7 @@
 	{
 		"name": "05259",
 		"wab": "true",
-		"details": "OPP MAXWELL STN EXIT 3",
+		"details": "Opp Maxwell Stn Exit 3",
 		"coordinates": {
 			"lat": 1.27979447837032,
 			"long": 103.84262707605177
@@ -6923,7 +6923,7 @@
 	{
 		"name": "05269",
 		"wab": "true",
-		"details": "MAXWELL STN EXIT 2",
+		"details": "Maxwell Stn Exit 2",
 		"coordinates": {
 			"lat": 1.280894,
 			"long": 103.844567
@@ -7013,7 +7013,7 @@
 	{
 		"name": "05539",
 		"wab": "true",
-		"details": "Opposite Police Cantonment Complex",
+		"details": "Opp Police Cantonment Cplx",
 		"coordinates": {
 			"lat": 1.278515,
 			"long": 103.840322
@@ -7067,7 +7067,7 @@
 	{
 		"name": "06011",
 		"wab": "true",
-		"details": "OUTRAM PK STN EXIT 7",
+		"details": "Outram Pk Stn Exit 7",
 		"coordinates": {
 			"lat": 1.28165999996967,
 			"long": 103.83801388886192
@@ -7076,7 +7076,7 @@
 	{
 		"name": "06029",
 		"wab": "true",
-		"details": "OUTRAM PK STN EXIT 1",
+		"details": "Outram Pk Stn Exit 1",
 		"coordinates": {
 			"lat": 1.28177041153491,
 			"long": 103.8383828488293
@@ -7130,7 +7130,7 @@
 	{
 		"name": "06071",
 		"wab": "true",
-		"details": "HAVELOCK STN EXIT 2",
+		"details": "Havelock Stn Exit 2",
 		"coordinates": {
 			"lat": 1.28685859481289,
 			"long": 103.83360028266564
@@ -7139,7 +7139,7 @@
 	{
 		"name": "06081",
 		"wab": "true",
-		"details": "HAVELOCK STN EXIT 3",
+		"details": "Havelock Stn Exit 3",
 		"coordinates": {
 			"lat": 1.28837086415387,
 			"long": 103.83349881780524
@@ -7166,7 +7166,7 @@
 	{
 		"name": "06141",
 		"wab": "true",
-		"details": "HAVELOCK STN EXIT 5",
+		"details": "Havelock Stn Exit 5",
 		"coordinates": {
 			"lat": 1.28963300933974,
 			"long": 103.83381241921823
@@ -7175,7 +7175,7 @@
 	{
 		"name": "06149",
 		"wab": "true",
-		"details": "HAVELOCK STN EXIT 4",
+		"details": "Havelock Stn Exit 4",
 		"coordinates": {
 			"lat": 1.28984045728104,
 			"long": 103.83411526676929
@@ -7616,7 +7616,7 @@
 	{
 		"name": "09022",
 		"wab": "true",
-		"details": "ORCHARD STN EXIT 13",
+		"details": "Orchard Stn Exit 13",
 		"coordinates": {
 			"lat": 1.30252834773643,
 			"long": 103.83239784275958
@@ -7697,7 +7697,7 @@
 	{
 		"name": "09131",
 		"wab": "true",
-		"details": "OPP ORCHARD BLVD STN",
+		"details": "Opp Orchard Blvd Stn",
 		"coordinates": {
 			"lat": 1.30391999998489,
 			"long": 103.82333805603095
@@ -7706,7 +7706,7 @@
 	{
 		"name": "09139",
 		"wab": "true",
-		"details": "ORCHARD BLVD STN EXIT 1",
+		"details": "Orchard Blvd Stn Exit 1",
 		"coordinates": {
 			"lat": 1.303528,
 			"long": 103.823585
@@ -7823,7 +7823,7 @@
 	{
 		"name": "10018",
 		"wab": "true",
-		"details": "OUTRAM PK STN EXIT 6/SGH",
+		"details": "Outram Pk Stn Exit 6/SGH",
 		"coordinates": {
 			"lat": 1.27900819665099,
 			"long": 103.83860360621959
@@ -8669,7 +8669,7 @@
 	{
 		"name": "11019",
 		"wab": "true",
-		"details": "Bef Blk 2",
+		"details": "Alexandra Ctrl",
 		"coordinates": {
 			"lat": 1.28679632523156,
 			"long": 103.80565677295323
@@ -9848,7 +9848,7 @@
 	{
 		"name": "13011",
 		"wab": "true",
-		"details": "NAPIER STN EXIT 2",
+		"details": "Napier Stn Exit 2",
 		"coordinates": {
 			"lat": 1.306504,
 			"long": 103.81932
@@ -9857,7 +9857,7 @@
 	{
 		"name": "13019",
 		"wab": "true",
-		"details": "NAPIER STN EXIT 1",
+		"details": "Napier Stn Exit 1",
 		"coordinates": {
 			"lat": 1.3067380217198,
 			"long": 103.82013079894885
@@ -9974,7 +9974,7 @@
 	{
 		"name": "13079",
 		"wab": "true",
-		"details": "GREAT WORLD STN EXIT 4",
+		"details": "Great World Stn Exit 4",
 		"coordinates": {
 			"lat": 1.29612213279141,
 			"long": 103.83229211134126
@@ -10118,7 +10118,7 @@
 	{
 		"name": "13191",
 		"wab": "true",
-		"details": "OPP ORCHARD STN EXIT 12",
+		"details": "Opp Orchard Stn Exit 12",
 		"coordinates": {
 			"lat": 1.302461,
 			"long": 103.8297819
@@ -10127,7 +10127,7 @@
 	{
 		"name": "13199",
 		"wab": "true",
-		"details": "AFT ORCHARD STN EXIT 12",
+		"details": "Aft Orchard Stn Exit 12",
 		"coordinates": {
 			"lat": 1.302127,
 			"long": 103.829875
@@ -10370,7 +10370,7 @@
 	{
 		"name": "14151",
 		"wab": "true",
-		"details": "Opp Chr Community Chapel",
+		"details": "Opp Hotel Faber Pk",
 		"coordinates": {
 			"lat": 1.26964765905364,
 			"long": 103.8129359412343
@@ -10379,7 +10379,7 @@
 	{
 		"name": "14159",
 		"wab": "true",
-		"details": "Bef Chr Community Chapel",
+		"details": "Hotel Faber Pk",
 		"coordinates": {
 			"lat": 1.26994046445496,
 			"long": 103.81315419081787
@@ -11027,7 +11027,7 @@
 	{
 		"name": "15181",
 		"wab": "true",
-		"details": "Opp Ascent",
+		"details": "1A Sci Pk Dr (Geneo)",
 		"coordinates": {
 			"lat": 1.29108496444522,
 			"long": 103.78541356072027
@@ -12332,7 +12332,7 @@
 	{
 		"name": "18109",
 		"wab": "true",
-		"details": "Opp PSB Science Pk Bldg",
+		"details": "Blk 55/Opp 5 Sci Pk Dr",
 		"coordinates": {
 			"lat": 1.29403436577434,
 			"long": 103.78672599789039
@@ -12512,7 +12512,7 @@
 	{
 		"name": "18241",
 		"wab": "true",
-		"details": "Opp Dnv Technology Ctr",
+		"details": "7 Sci Pk Dr (Geneo)",
 		"coordinates": {
 			"lat": 1.29092304543197,
 			"long": 103.78707861052065
@@ -12530,7 +12530,7 @@
 	{
 		"name": "18251",
 		"wab": "true",
-		"details": "Opp Reuters",
+		"details": "71 Sci Pk Dr",
 		"coordinates": {
 			"lat": 1.29068138903164,
 			"long": 103.78845361097359
@@ -12548,7 +12548,7 @@
 	{
 		"name": "18269",
 		"wab": "true",
-		"details": "Bef Reuters",
+		"details": "DSO Natl Laboratories",
 		"coordinates": {
 			"lat": 1.29010333301913,
 			"long": 103.78918694399599
@@ -16454,7 +16454,7 @@
 	{
 		"name": "24369",
 		"wab": "true",
-		"details": "Dyna-Mac Engrg Svcs",
+		"details": "Hanwha Offshore S'pore",
 		"coordinates": {
 			"lat": 1.30077687663858,
 			"long": 103.66698326196405
@@ -17781,6 +17781,15 @@
 		"coordinates": {
 			"lat": 1.289014,
 			"long": 103.624893
+		}
+	},
+	{
+		"name": "25721",
+		"wab": "true",
+		"details": "Opp Abbott",
+		"coordinates": {
+			"lat": 1.2851115,
+			"long": 103.6282915
 		}
 	},
 	{
@@ -21458,7 +21467,7 @@
 	{
 		"name": "40221",
 		"wab": "true",
-		"details": "STEVENS STN EXIT 3",
+		"details": "Stevens Stn Exit 3",
 		"coordinates": {
 			"lat": 1.31902531287493,
 			"long": 103.82545561296305
@@ -21467,7 +21476,7 @@
 	{
 		"name": "40229",
 		"wab": "true",
-		"details": "BEF STEVENS STN EXIT 2",
+		"details": "Bef Stevens Stn Exit 2",
 		"coordinates": {
 			"lat": 1.319241,
 			"long": 103.825711
@@ -22785,6 +22794,15 @@
 		"coordinates": {
 			"lat": 1.36363608446232,
 			"long": 103.76489101192684
+		}
+	},
+	{
+		"name": "43159",
+		"wab": "true",
+		"details": "Bef Glendale Pk Condo",
+		"coordinates": {
+			"lat": 1.364803,
+			"long": 103.7652
 		}
 	},
 	{
@@ -24140,7 +24158,7 @@
 	{
 		"name": "44091",
 		"wab": "true",
-		"details": "Bef Choa Chu Kang Mkt",
+		"details": "Choa Chu Kang Mkt",
 		"coordinates": {
 			"lat": 1.37647222708666,
 			"long": 103.74421611501322
@@ -25319,7 +25337,7 @@
 	{
 		"name": "44859",
 		"wab": "true",
-		"details": "Maysprings Condo",
+		"details": "Opp Bt Panjang Stn",
 		"coordinates": {
 			"lat": 1.37763753804628,
 			"long": 103.76321805626448
@@ -27308,7 +27326,7 @@
 	{
 		"name": "46611",
 		"wab": "true",
-		"details": "Fuchun Sec Sch",
+		"details": "W'lands Ring Sec Sch",
 		"coordinates": {
 			"lat": 1.42923412810157,
 			"long": 103.77760584579323
@@ -27317,7 +27335,7 @@
 	{
 		"name": "46619",
 		"wab": "true",
-		"details": "Opp Fuchun Sec Sch",
+		"details": "Opp W'lands Ring Sec Sch",
 		"coordinates": {
 			"lat": 1.42907407993851,
 			"long": 103.77775112537243
@@ -30575,7 +30593,7 @@
 	{
 		"name": "52449",
 		"wab": "true",
-		"details": "Toa Payoh Police Ctr",
+		"details": "Bef Blk 105",
 		"coordinates": {
 			"lat": 1.34044945876465,
 			"long": 103.85000305578686
@@ -36369,6 +36387,42 @@
 		}
 	},
 	{
+		"name": "61121",
+		"wab": "true",
+		"details": "Opp Blk 212",
+		"coordinates": {
+			"lat": 1.3416375,
+			"long": 103.874179
+		}
+	},
+	{
+		"name": "61129",
+		"wab": "true",
+		"details": "Blk 212",
+		"coordinates": {
+			"lat": 1.3417695,
+			"long": 103.875484
+		}
+	},
+	{
+		"name": "61131",
+		"wab": "true",
+		"details": "Opp Woodleigh Mall",
+		"coordinates": {
+			"lat": 1.338895,
+			"long": 103.8726965
+		}
+	},
+	{
+		"name": "61139",
+		"wab": "true",
+		"details": "Woodleigh Mall",
+		"coordinates": {
+			"lat": 1.3389265,
+			"long": 103.8724955
+		}
+	},
+	{
 		"name": "62011",
 		"wab": "true",
 		"details": "Aft Bartley Rd",
@@ -41688,6 +41742,15 @@
 		}
 	},
 	{
+		"name": "68009",
+		"wab": "true",
+		"details": "Woodleigh Int",
+		"coordinates": {
+			"lat": 1.340141,
+			"long": 103.871449
+		}
+	},
+	{
 		"name": "68011",
 		"wab": "true",
 		"details": "Bef Jln Kayu",
@@ -43362,6 +43425,33 @@
 		}
 	},
 	{
+		"name": "74919",
+		"wab": "true",
+		"details": "Blk 951A",
+		"coordinates": {
+			"lat": 1.344284,
+			"long": 103.93562
+		}
+	},
+	{
+		"name": "74929",
+		"wab": "true",
+		"details": "Blk 953C",
+		"coordinates": {
+			"lat": 1.34218,
+			"long": 103.935758
+		}
+	},
+	{
+		"name": "74959",
+		"wab": "true",
+		"details": "Blk 969C",
+		"coordinates": {
+			"lat": 1.340033,
+			"long": 103.937911
+		}
+	},
+	{
 		"name": "75009",
 		"wab": "true",
 		"details": "Tampines Int",
@@ -43958,7 +44048,7 @@
 	{
 		"name": "75419",
 		"wab": "true",
-		"details": "Aft Tampines Ave 5",
+		"details": "The Alps Residences Condo",
 		"coordinates": {
 			"lat": 1.355758,
 			"long": 103.929187
@@ -45067,8 +45157,8 @@
 		"wab": "true",
 		"details": "Pasir Ris Int",
 		"coordinates": {
-			"lat": 1.373564,
-			"long": 103.950478
+			"lat": 1.373696,
+			"long": 103.94845
 		}
 	},
 	{
@@ -47151,6 +47241,24 @@
 		}
 	},
 	{
+		"name": "82241",
+		"wab": "true",
+		"details": "Opp Tg Katong Sec Sch",
+		"coordinates": {
+			"lat": 1.307747,
+			"long": 103.8985
+		}
+	},
+	{
+		"name": "82249",
+		"wab": "true",
+		"details": "Tg Katong Sec Sch",
+		"coordinates": {
+			"lat": 1.307375,
+			"long": 103.898635
+		}
+	},
+	{
 		"name": "83011",
 		"wab": "true",
 		"details": "Casa Sarina",
@@ -47828,7 +47936,7 @@
 	{
 		"name": "84111",
 		"wab": "true",
-		"details": "Temasek JC",
+		"details": "Opp Blk 17",
 		"coordinates": {
 			"lat": 1.31958802627855,
 			"long": 103.93574197184712
@@ -47837,7 +47945,7 @@
 	{
 		"name": "84119",
 		"wab": "true",
-		"details": "Opp Temasek JC",
+		"details": "Blk 18",
 		"coordinates": {
 			"lat": 1.31964,
 			"long": 103.935232
@@ -50024,7 +50132,7 @@
 	{
 		"name": "94031",
 		"wab": "true",
-		"details": "The Summit",
+		"details": "Opp Bayshore Stn Exit 3",
 		"coordinates": {
 			"lat": 1.31504670788151,
 			"long": 103.94089937209914
@@ -50033,7 +50141,7 @@
 	{
 		"name": "94039",
 		"wab": "true",
-		"details": "Opp The Summit",
+		"details": "Bef Bayshore Stn Exit 3",
 		"coordinates": {
 			"lat": 1.31485363967239,
 			"long": 103.94066333773824
