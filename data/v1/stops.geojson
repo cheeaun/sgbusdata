@@ -91794,7 +91794,6 @@
 					"18",
 					"20",
 					"28",
-					"292",
 					"34",
 					"34B",
 					"39",
@@ -92995,6 +92994,25 @@
 		},
 		{
 			"type": "Feature",
+			"id": "76321",
+			"properties": {
+				"number": "76321",
+				"name": "Opp Blk 124",
+				"road": "Tampines St 11",
+				"services": [
+					"292"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.949073,
+					1.345967
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "76329",
 			"properties": {
 				"number": "76329",
@@ -93516,6 +93534,25 @@
 				"coordinates": [
 					103.95134500001934,
 					1.35855302099722
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "76481",
+			"properties": {
+				"number": "76481",
+				"name": "Blk 136",
+				"road": "Tampines Lane",
+				"services": [
+					"292"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.945919,
+					1.3448265
 				]
 			}
 		},

@@ -44847,6 +44847,15 @@
 		}
 	},
 	{
+		"name": "76321",
+		"wab": "true",
+		"details": "Opp Blk 124",
+		"coordinates": {
+			"lat": 1.345967,
+			"long": 103.949073
+		}
+	},
+	{
 		"name": "76329",
 		"wab": "true",
 		"details": "Blk 125",
@@ -45078,6 +45087,15 @@
 		"coordinates": {
 			"lat": 1.35855302099722,
 			"long": 103.95134500001934
+		}
+	},
+	{
+		"name": "76481",
+		"wab": "true",
+		"details": "Blk 136",
+		"coordinates": {
+			"lat": 1.3448265,
+			"long": 103.945919
 		}
 	},
 	{
