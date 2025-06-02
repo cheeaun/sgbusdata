@@ -5400,15 +5400,15 @@
 		"BusStopCode": "18331",
 		"RoadName": "Lower Kent Ridge Rd",
 		"Description": "Kent Ridge Stn Exit A/NUH",
-		"Latitude": 1.2937072200211,
-		"Longitude": 103.78489139998855
+		"Latitude": 1.29485266612069,
+		"Longitude": 103.78437805999793
 	},
 	{
 		"BusStopCode": "18339",
 		"RoadName": "Lower Kent Ridge Rd",
 		"Description": "Opp Kent Ridge Stn Exit A",
-		"Latitude": 1.29379302903228,
-		"Longitude": 103.78507910002646
+		"Latitude": 1.29506450651125,
+		"Longitude": 103.78455508578391
 	},
 	{
 		"BusStopCode": "19011",
@@ -30443,6 +30443,13 @@
 		"Longitude": 103.955554
 	},
 	{
+		"BusStopCode": "76321",
+		"RoadName": "Tampines St 11",
+		"Description": "Opp Blk 124",
+		"Latitude": 1.345967,
+		"Longitude": 103.949073
+	},
+	{
 		"BusStopCode": "76329",
 		"RoadName": "Tampines St 11",
 		"Description": "Blk 125",
@@ -30623,6 +30630,13 @@
 		"Description": "BLK 444",
 		"Latitude": 1.35855302099722,
 		"Longitude": 103.95134500001934
+	},
+	{
+		"BusStopCode": "76481",
+		"RoadName": "Tampines Lane",
+		"Description": "Blk 136",
+		"Latitude": 1.3448265,
+		"Longitude": 103.945919
 	},
 	{
 		"BusStopCode": "76511",

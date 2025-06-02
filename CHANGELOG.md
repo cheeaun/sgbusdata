@@ -1,3 +1,28 @@
+# 1 June 2025
+
+## Stops count change: 5168 ⮕ 5170
+
+### Stops added: 2
+
+- `76321` Opp Blk 124
+- `76481` Blk 136
+
+### Bus Stop Changes To Routes: 1
+
+- `292` Tampines Int ⟲ Blk 283: +2, -1
+
+## Routes changed: 5
+
+- `135` Ang Mo Kio Int ⇄ Kembangan Stn
+- `177` Bt Batok Int ⟲ Blk 180
+- `292` Tampines Int ⟲ Blk 283
+- `299` Tampines Nth Int ⟲ Blk 953C
+- `21X` St. Michael's Ter ⟲ Bef Kim Keat Lane
+
+## First/last timings changed
+
+Affected services: `110`, `178`, `182`, `187`, `292`, `671`, `963e`
+
 # 2 May 2025
 
 ## Stops count change: 5156 ⮕ 5168
