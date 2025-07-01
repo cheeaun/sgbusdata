@@ -1,3 +1,5 @@
+[![Update latest bus data](https://github.com/cheeaun/sgbusdata/actions/workflows/main.yml/badge.svg)](https://github.com/cheeaun/sgbusdata/actions/workflows/main.yml)
+
 # SG Bus Data
 
 > Singapore Bus data
