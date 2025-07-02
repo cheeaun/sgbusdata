@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Punggol Temp Int to Changi Business Pk Ter",
+		"name": "From Punggol Int to Changi Business Pk Ter",
 		"stops": [
 			"65009",
 			"65259",
@@ -31,7 +31,7 @@
 		]
 	},
 	{
-		"name": "From Changi Business Pk Ter to Punggol Temp Int",
+		"name": "From Changi Business Pk Ter to Punggol Int",
 		"stops": [
 			"97009",
 			"96361",

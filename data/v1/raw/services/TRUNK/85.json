@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Punggol Temp Int to Yishun Int",
+		"name": "From Punggol Int to Yishun Int",
 		"stops": [
 			"65009",
 			"65221",
@@ -35,7 +35,7 @@
 		]
 	},
 	{
-		"name": "From Yishun Int to Punggol Temp Int",
+		"name": "From Yishun Int to Punggol Int",
 		"stops": [
 			"59009",
 			"59069",

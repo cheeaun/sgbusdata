@@ -12636,8 +12636,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.78489139998855,
-					1.2937072200211
+					103.78437805999793,
+					1.29485266612069
 				]
 			}
 		},
@@ -12656,8 +12656,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.78507910002646,
-					1.29379302903228
+					103.78455508578391,
+					1.29506450651125
 				]
 			}
 		},
@@ -27464,7 +27464,7 @@
 			"id": "28021",
 			"properties": {
 				"number": "28021",
-				"name": "Opp 8 @Tradehub 21",
+				"name": "Opp 8 @ Tradehub 21",
 				"road": "Boon Lay Way",
 				"services": [
 					"105",
@@ -31077,46 +31077,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "31021",
-			"properties": {
-				"number": "31021",
-				"name": "Jln Bahar Power Stn",
-				"road": "Jln Bahar",
-				"services": [
-					"172",
-					"405"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.69287888535482,
-					1.36247047014576
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "31029",
-			"properties": {
-				"number": "31029",
-				"name": "Opp Jln Bahar Power Stn",
-				"road": "Jln Bahar",
-				"services": [
-					"172",
-					"405"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.69296604646463,
-					1.36307987152083
-				]
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "31031",
 			"properties": {
 				"number": "31031",
@@ -31237,137 +31197,14 @@
 		},
 		{
 			"type": "Feature",
-			"id": "31061",
-			"properties": {
-				"number": "31061",
-				"name": "Opp Lim Chu Kang Camp II",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"405",
-					"975",
-					"975B",
-					"975C"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.695570278013,
-					1.37594722202959
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "31069",
-			"properties": {
-				"number": "31069",
-				"name": "Bef Old Choa Chu Kang Rd",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"405",
-					"975"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.69550611102841,
-					1.37493138896603
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "31071",
-			"properties": {
-				"number": "31071",
-				"name": "Aft Chinese Cemy Path 11",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"405",
-					"975",
-					"975B",
-					"975C"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.69626045229732,
-					1.37853314214565
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "31079",
-			"properties": {
-				"number": "31079",
-				"name": "Opp Chinese Cemy Path 11",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"405",
-					"975"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.69632194402648,
-					1.37768611102662
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "31081",
-			"properties": {
-				"number": "31081",
-				"name": "Opp HQ 5th SIB Camp I",
-				"road": "Old Lim Chu Kang Rd",
-				"services": [
-					"975",
-					"975B",
-					"975C"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.69732526991169,
-					1.38056264189347
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "31089",
-			"properties": {
-				"number": "31089",
-				"name": "HQ 5th SIB Camp I",
-				"road": "Old Lim Chu Kang Rd",
-				"services": [
-					"975"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.69711516294915,
-					1.37992729418245
-				]
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "31121",
 			"properties": {
 				"number": "31121",
 				"name": "Nirvana Memorial Gdn",
 				"road": "Old Choa Chu Kang Rd",
 				"services": [
-					"405"
+					"405",
+					"975"
 				]
 			},
 			"geometry": {
@@ -31386,7 +31223,10 @@
 				"name": "Aft Nirvana Memorial Gdn",
 				"road": "Old Choa Chu Kang Rd",
 				"services": [
-					"405"
+					"405",
+					"975",
+					"975B",
+					"975C"
 				]
 			},
 			"geometry": {
@@ -31405,7 +31245,8 @@
 				"name": "Aft Track 33",
 				"road": "Old Choa Chu Kang Rd",
 				"services": [
-					"405"
+					"405",
+					"975"
 				]
 			},
 			"geometry": {
@@ -31424,7 +31265,10 @@
 				"name": "Bef Track 33",
 				"road": "Old Choa Chu Kang Rd",
 				"services": [
-					"405"
+					"405",
+					"975",
+					"975B",
+					"975C"
 				]
 			},
 			"geometry": {
@@ -31443,7 +31287,8 @@
 				"name": "CCK Cemy Office",
 				"road": "Old Choa Chu Kang Rd",
 				"services": [
-					"405"
+					"405",
+					"975"
 				]
 			},
 			"geometry": {
@@ -31462,7 +31307,10 @@
 				"name": "Opp CCK Cemy Office",
 				"road": "Old Choa Chu Kang Rd",
 				"services": [
-					"405"
+					"405",
+					"975",
+					"975B",
+					"975C"
 				]
 			},
 			"geometry": {
@@ -31643,204 +31491,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "31201",
-			"properties": {
-				"number": "31201",
-				"name": "Aft Chinese Cemy Path 13",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"405"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.69659409681319,
-					1.38044981963514
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "31211",
-			"properties": {
-				"number": "31211",
-				"name": "Aft Muslim Cemy Path 17",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"405"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.6969997018249,
-					1.38283900023768
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "32031",
-			"properties": {
-				"number": "32031",
-				"name": "Opp Ama Keng Rd",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"975",
-					"975B",
-					"975C"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.70078174769526,
-					1.40270299424992
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "32039",
-			"properties": {
-				"number": "32039",
-				"name": "Aft Ama Keng Rd",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"975"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.70081478116067,
-					1.40251788786303
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "32041",
-			"properties": {
-				"number": "32041",
-				"name": "Opp LP 160",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"975",
-					"975B",
-					"975C"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.70166157203701,
-					1.40436104392726
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "32049",
-			"properties": {
-				"number": "32049",
-				"name": "Aft LP 161",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"975"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.70187031633597,
-					1.40452254375654
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "32051",
-			"properties": {
-				"number": "32051",
-				"name": "Aft Track 11",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"975",
-					"975B",
-					"975C"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.70097942080086,
-					1.40929365504034
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "32059",
-			"properties": {
-				"number": "32059",
-				"name": "Opp Track 11",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"975"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.70120779053055,
-					1.40903140804682
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "32061",
-			"properties": {
-				"number": "32061",
-				"name": "Opp LP 173",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"975",
-					"975B",
-					"975C"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.70006004261607,
-					1.41146307596912
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "32069",
-			"properties": {
-				"number": "32069",
-				"name": "B26 Lim Chu Kang Rd",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"975"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.7003812106999,
-					1.41103257931936
-				]
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "32071",
 			"properties": {
 				"number": "32071",
@@ -31857,25 +31507,6 @@
 				"coordinates": [
 					103.70056776202736,
 					1.4160246040166
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "32079",
-			"properties": {
-				"number": "32079",
-				"name": "Opp Track 13",
-				"road": "Lim Chu Kang Rd",
-				"services": [
-					"975"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.70026822968337,
-					1.41512827700833
 				]
 			}
 		},
@@ -31921,10 +31552,10 @@
 		},
 		{
 			"type": "Feature",
-			"id": "32101",
+			"id": "32121",
 			"properties": {
-				"number": "32101",
-				"name": "Aft Murai Farmway",
+				"number": "32121",
+				"name": "Aft Old Choa Chu Kang Rd",
 				"road": "Lim Chu Kang Rd",
 				"services": [
 					"975",
@@ -31935,17 +31566,17 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.69744470002844,
-					1.38541382998394
+					103.6851701,
+					1.37292105
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"id": "32109",
+			"id": "32129",
 			"properties": {
-				"number": "32109",
-				"name": "Bef Lor Serambi",
+				"number": "32129",
+				"name": "Bef Old Choa Chu Kang Rd",
 				"road": "Lim Chu Kang Rd",
 				"services": [
 					"975"
@@ -31954,17 +31585,17 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.69770270003046,
-					1.3857176700282
+					103.6854902,
+					1.373591307
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"id": "32111",
+			"id": "32131",
 			"properties": {
-				"number": "32111",
-				"name": "Aft LP 93",
+				"number": "32131",
+				"name": "Bef Chinese & Muslim Cemy",
 				"road": "Lim Chu Kang Rd",
 				"services": [
 					"975",
@@ -31975,17 +31606,17 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.69964580001103,
-					1.39837200000575
+					103.6841405,
+					1.381767314
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"id": "32119",
+			"id": "32139",
 			"properties": {
-				"number": "32119",
-				"name": "Aft LP 96",
+				"number": "32139",
+				"name": "Aft Chinese & Muslim Cemy",
 				"road": "Lim Chu Kang Rd",
 				"services": [
 					"975"
@@ -31994,8 +31625,88 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.699882699978,
-					1.39858000001944
+					103.6845929,
+					1.380833595
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "32141",
+			"properties": {
+				"number": "32141",
+				"name": "B27 Lim Chu Kang Rd",
+				"road": "Lim Chu Kang Rd",
+				"services": [
+					"975",
+					"975B",
+					"975C"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69183,
+					1.395173887
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "32149",
+			"properties": {
+				"number": "32149",
+				"name": "B26 Lim Chu Kang Rd",
+				"road": "Lim Chu Kang Rd",
+				"services": [
+					"975"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6921278,
+					1.395007965
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "32151",
+			"properties": {
+				"number": "32151",
+				"name": "Opp Lim Chu Kang Substation No. 1",
+				"road": "Lim Chu Kang Rd",
+				"services": [
+					"975",
+					"975B",
+					"975C"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696621,
+					1.414093161
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "32159",
+			"properties": {
+				"number": "32159",
+				"name": "Bef Lim Chu Kang Substation No. 1",
+				"road": "Lim Chu Kang Rd",
+				"services": [
+					"975"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6973396,
+					1.414025693
 				]
 			}
 		},
@@ -32410,46 +32121,6 @@
 				"coordinates": [
 					103.7078689605441,
 					1.44234338763128
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "34101",
-			"properties": {
-				"number": "34101",
-				"name": "Aft Old Lim Chu Kang Rd",
-				"road": "Lor Rusuk",
-				"services": [
-					"975",
-					"975B",
-					"975C"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.69790380001842,
-					1.38440683002823
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "34109",
-			"properties": {
-				"number": "34109",
-				"name": "Aft Lim Chu Kang Rd",
-				"road": "Lor Rusuk",
-				"services": [
-					"975"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.69811219997105,
-					1.38430083002772
 				]
 			}
 		},
@@ -54058,6 +53729,7 @@
 					"157",
 					"159",
 					"163",
+					"230M",
 					"231",
 					"232",
 					"235",
@@ -55365,6 +55037,7 @@
 				"road": "Toa Payoh East",
 				"services": [
 					"230",
+					"230M",
 					"232",
 					"238"
 				]
@@ -55386,6 +55059,7 @@
 				"road": "Toa Payoh East",
 				"services": [
 					"230",
+					"230M",
 					"238"
 				]
 			},
@@ -55407,6 +55081,7 @@
 				"services": [
 					"142",
 					"230",
+					"230M",
 					"235",
 					"238",
 					"26",
@@ -55437,6 +55112,7 @@
 					"142",
 					"142A",
 					"230",
+					"230M",
 					"235",
 					"238",
 					"26",
@@ -55466,6 +55142,7 @@
 				"road": "Lor 6 Toa Payoh",
 				"services": [
 					"230",
+					"230M",
 					"235",
 					"238",
 					"57"
@@ -55488,6 +55165,7 @@
 				"road": "Lor 6 Toa Payoh",
 				"services": [
 					"230",
+					"230M",
 					"235",
 					"238",
 					"57"
@@ -56070,6 +55748,7 @@
 					"159",
 					"163",
 					"230",
+					"230M",
 					"235",
 					"238",
 					"26",
@@ -56108,6 +55787,7 @@
 					"159",
 					"163",
 					"230",
+					"230M",
 					"232",
 					"235",
 					"238",
@@ -56236,7 +55916,8 @@
 				"name": "Blk 269A",
 				"road": "Kim Keat Ave",
 				"services": [
-					"230"
+					"230",
+					"230M"
 				]
 			},
 			"geometry": {
@@ -56274,7 +55955,8 @@
 				"name": "Blk 268A",
 				"road": "Toa Payoh East",
 				"services": [
-					"230"
+					"230",
+					"230M"
 				]
 			},
 			"geometry": {
@@ -71027,8 +70709,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.874179,
-					1.3416375
+					103.875484,
+					1.3417695
 				]
 			}
 		},
@@ -71046,8 +70728,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.875484,
-					1.3417695
+					103.874179,
+					1.3416375
 				]
 			}
 		},
@@ -76631,18 +76313,14 @@
 			"id": "65009",
 			"properties": {
 				"number": "65009",
-				"name": "Punggol Temp Int",
+				"name": "Punggol Int",
 				"road": "Punggol Pl",
 				"services": [
-					"117",
-					"117M",
 					"118",
 					"118A",
 					"119",
 					"136",
 					"3",
-					"34",
-					"34A",
 					"381",
 					"382",
 					"382A",
@@ -77477,6 +77155,46 @@
 		},
 		{
 			"type": "Feature",
+			"id": "65211",
+			"properties": {
+				"number": "65211",
+				"name": "Bef Punggol Int",
+				"road": "Punggol Pl",
+				"services": [
+					"117",
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902709,
+					1.402691
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "65219",
+			"properties": {
+				"number": "65219",
+				"name": "Opp Punggol Int",
+				"road": "Punggol Pl",
+				"services": [
+					"117",
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903422,
+					1.403538
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "65221",
 			"properties": {
 				"number": "65221",
@@ -77636,6 +77354,8 @@
 				"name": "Punggol Stn/Waterway Pt",
 				"road": "Punggol Ctrl",
 				"services": [
+					"34",
+					"34A",
 					"381",
 					"39",
 					"39B"
@@ -77659,6 +77379,7 @@
 				"services": [
 					"118",
 					"118A",
+					"34",
 					"381",
 					"384",
 					"39",
@@ -78062,6 +77783,8 @@
 				"name": "Punggol View Pr Sch",
 				"road": "Punggol Pl",
 				"services": [
+					"117",
+					"117M",
 					"382",
 					"382G",
 					"50"
@@ -78083,6 +77806,8 @@
 				"name": "Opp Punggol View Pr Sch",
 				"road": "Punggol Pl",
 				"services": [
+					"117",
+					"117M",
 					"382",
 					"382W",
 					"50"
@@ -78226,6 +77951,8 @@
 				"road": "Punggol Ctrl",
 				"services": [
 					"118",
+					"34",
+					"34A",
 					"381",
 					"384",
 					"39",
@@ -78253,6 +77980,7 @@
 				"services": [
 					"118",
 					"118A",
+					"34",
 					"381",
 					"384",
 					"39",
@@ -78276,7 +78004,7 @@
 			"properties": {
 				"number": "65411",
 				"name": "Horizon Pr Sch",
-				"road": "Edgefield Plains",
+				"road": "Edgedale Plains",
 				"services": [
 					"386"
 				]
@@ -78295,7 +78023,7 @@
 			"properties": {
 				"number": "65419",
 				"name": "Opp Horizon Pr Sch",
-				"road": "Edgefield Plains",
+				"road": "Edgedale Plains",
 				"services": [
 					"386"
 				]
@@ -78314,7 +78042,7 @@
 			"properties": {
 				"number": "65429",
 				"name": "Greendale Pr Sch",
-				"road": "Edgefield Plains",
+				"road": "Edgedale Plains",
 				"services": [
 					"386"
 				]
@@ -78394,6 +78122,7 @@
 				"name": "Opp Blk 315B",
 				"road": "Sumang Walk",
 				"services": [
+					"34",
 					"382",
 					"382G",
 					"673"
@@ -78415,6 +78144,8 @@
 				"name": "Blk 315B",
 				"road": "Sumang Walk",
 				"services": [
+					"34",
+					"34A",
 					"382",
 					"382W",
 					"673"
@@ -78436,6 +78167,7 @@
 				"name": "Blk 322 CP",
 				"road": "Sumang Walk",
 				"services": [
+					"34",
 					"382",
 					"382G",
 					"673"
@@ -78457,6 +78189,8 @@
 				"name": "Opp Blk 322 CP",
 				"road": "Sumang Walk",
 				"services": [
+					"34",
+					"34A",
 					"382",
 					"382W",
 					"673"
@@ -78520,6 +78254,8 @@
 				"name": "Opp One Punggol",
 				"road": "Sentul Cres",
 				"services": [
+					"117",
+					"117M",
 					"382",
 					"382G",
 					"84W"
@@ -78541,6 +78277,8 @@
 				"name": "One Punggol",
 				"road": "Sentul Cres",
 				"services": [
+					"117",
+					"117M",
 					"382",
 					"382W",
 					"84G"
@@ -78996,6 +78734,7 @@
 				"name": "Nibong Stn Exit A",
 				"road": "Punggol Way",
 				"services": [
+					"34",
 					"384",
 					"673",
 					"84G"
@@ -79017,6 +78756,8 @@
 				"name": "Samudera Stn Exit B",
 				"road": "Punggol Way",
 				"services": [
+					"34",
+					"34A",
 					"384",
 					"673",
 					"84W"
@@ -79038,6 +78779,7 @@
 				"name": "Samudera Stn Exit A",
 				"road": "Punggol Way",
 				"services": [
+					"34",
 					"673",
 					"84G"
 				]
@@ -79058,6 +78800,8 @@
 				"name": "Aft Punggol Pt Stn",
 				"road": "Punggol Way",
 				"services": [
+					"34",
+					"34A",
 					"384",
 					"673",
 					"84W"
@@ -79079,6 +78823,7 @@
 				"name": "Bef Punggol Pt Stn",
 				"road": "Punggol Way",
 				"services": [
+					"34",
 					"673",
 					"84G"
 				]
@@ -79156,6 +78901,7 @@
 				"name": "Punggol cove pr sch",
 				"road": "Sumang Link",
 				"services": [
+					"34",
 					"382G",
 					"673"
 				]
@@ -79176,6 +78922,8 @@
 				"name": "Opp punggol cove pr sch",
 				"road": "Sumang Link",
 				"services": [
+					"34",
+					"34A",
 					"382W",
 					"673"
 				]
@@ -79377,6 +79125,46 @@
 				"coordinates": [
 					103.911277,
 					1.414675
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "65731",
+			"properties": {
+				"number": "65731",
+				"name": "Teck Lee Stn Exit B",
+				"road": "Sentul Wk",
+				"services": [
+					"117",
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.906819,
+					1.413252
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "65739",
+			"properties": {
+				"number": "65739",
+				"name": "Teck Lee Stn Exit A",
+				"road": "Sentul Wk",
+				"services": [
+					"117",
+					"117M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.906954,
+					1.413142
 				]
 			}
 		},
@@ -85706,6 +85494,28 @@
 				"coordinates": [
 					103.87287372479017,
 					1.41360008537368
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "69009",
+			"properties": {
+				"number": "69009",
+				"name": "Punggol Coast Int",
+				"road": "Sentul Wk",
+				"services": [
+					"117",
+					"117M",
+					"34",
+					"34A"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.908557,
+					1.414795
 				]
 			}
 		},
@@ -99336,6 +99146,44 @@
 				"coordinates": [
 					103.898635,
 					1.307375
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "82251",
+			"properties": {
+				"number": "82251",
+				"name": "Tg Katong Pr Sch",
+				"road": "Haig Rd",
+				"services": [
+					"135"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.899669,
+					1.305103
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "82259",
+			"properties": {
+				"number": "82259",
+				"name": "Opp Tg Katong Pr Sch",
+				"road": "Haig Rd",
+				"services": [
+					"135"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900094,
+					1.303918
 				]
 			}
 		},

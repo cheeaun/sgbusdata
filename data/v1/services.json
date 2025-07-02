@@ -141,7 +141,7 @@
 		]
 	},
 	"3": {
-		"name": "Tampines Int ⇄ Punggol Temp Int",
+		"name": "Tampines Int ⇄ Punggol Int",
 		"routes": [
 			[
 				"75009",
@@ -3109,10 +3109,17 @@
 		]
 	},
 	"34": {
-		"name": "Punggol Temp Int ⟲ Changi Airport Ter 1",
+		"name": "Punggol Coast Int ⟲ Changi Airport Ter 2",
 		"routes": [
 			[
-				"65009",
+				"69009",
+				"65631",
+				"65621",
+				"65679",
+				"65459",
+				"65449",
+				"65401",
+				"65251",
 				"65221",
 				"65089",
 				"65079",
@@ -3165,7 +3172,15 @@
 				"65071",
 				"65081",
 				"65229",
-				"65009"
+				"65259",
+				"65409",
+				"65441",
+				"65451",
+				"65671",
+				"65619",
+				"65629",
+				"65639",
+				"69009"
 			]
 		]
 	},
@@ -3617,7 +3632,7 @@
 		]
 	},
 	"43": {
-		"name": "Punggol Temp Int ⇄ Upp East Coast Ter",
+		"name": "Punggol Int ⇄ Upp East Coast Ter",
 		"routes": [
 			[
 				"65009",
@@ -4151,7 +4166,7 @@
 		]
 	},
 	"50": {
-		"name": "Bishan Int ⇄ Punggol Temp Int",
+		"name": "Bishan Int ⇄ Punggol Int",
 		"routes": [
 			[
 				"53009",
@@ -5468,7 +5483,7 @@
 		]
 	},
 	"62": {
-		"name": "Punggol Temp Int ⟲ Aft Sims Way",
+		"name": "Punggol Int ⟲ Aft Sims Way",
 		"routes": [
 			[
 				"65009",
@@ -7321,7 +7336,7 @@
 		]
 	},
 	"82": {
-		"name": "Punggol Temp Int ⟲ S'goon Stn Exit E",
+		"name": "Punggol Int ⟲ S'goon Stn Exit E",
 		"routes": [
 			[
 				"65009",
@@ -7371,7 +7386,7 @@
 		]
 	},
 	"83": {
-		"name": "Punggol Temp Int ⟲ Sengkang Int",
+		"name": "Punggol Int ⟲ Sengkang Int",
 		"routes": [
 			[
 				"65009",
@@ -7409,7 +7424,7 @@
 		]
 	},
 	"85": {
-		"name": "Punggol Temp Int ⇄ Yishun Int",
+		"name": "Punggol Int ⇄ Yishun Int",
 		"routes": [
 			[
 				"65009",
@@ -9474,10 +9489,14 @@
 		]
 	},
 	"117": {
-		"name": "Punggol Temp Int ⇄ Sembawang Int",
+		"name": "Punggol Coast Int ⇄ Sembawang Int",
 		"routes": [
 			[
-				"65009",
+				"69009",
+				"65739",
+				"65481",
+				"65351",
+				"65219",
 				"65341",
 				"65331",
 				"65431",
@@ -9562,12 +9581,16 @@
 				"65439",
 				"65339",
 				"65349",
-				"65009"
+				"65211",
+				"65359",
+				"65489",
+				"65731",
+				"69009"
 			]
 		]
 	},
 	"118": {
-		"name": "Punggol Temp Int ⇄ Changi Business Pk Ter",
+		"name": "Punggol Int ⇄ Changi Business Pk Ter",
 		"routes": [
 			[
 				"65009",
@@ -9627,7 +9650,7 @@
 		]
 	},
 	"119": {
-		"name": "Punggol Temp Int ⟲ Kovan Stn Exit C",
+		"name": "Punggol Int ⟲ Kovan Stn Exit C",
 		"routes": [
 			[
 				"65009",
@@ -10689,6 +10712,7 @@
 				"82089",
 				"82121",
 				"82241",
+				"82251",
 				"92249",
 				"92041",
 				"92051",
@@ -10720,6 +10744,7 @@
 				"92059",
 				"92049",
 				"92241",
+				"82259",
 				"82249",
 				"82129",
 				"82081",
@@ -10756,7 +10781,7 @@
 		]
 	},
 	"136": {
-		"name": "Ang Mo Kio Int ⇄ Punggol Temp Int",
+		"name": "Ang Mo Kio Int ⇄ Punggol Int",
 		"routes": [
 			[
 				"54009",
@@ -13765,7 +13790,6 @@
 				"31059",
 				"31049",
 				"31039",
-				"31029",
 				"31019",
 				"27129",
 				"27109",
@@ -13784,7 +13808,6 @@
 				"27101",
 				"27121",
 				"31011",
-				"31021",
 				"31031",
 				"31041",
 				"31051",
@@ -17912,7 +17935,7 @@
 		]
 	},
 	"381": {
-		"name": "Punggol Temp Int ⟲ Blk 659A",
+		"name": "Punggol Int ⟲ Blk 659A",
 		"routes": [
 			[
 				"65009",
@@ -17947,7 +17970,7 @@
 		]
 	},
 	"382": {
-		"name": "Punggol Temp Int",
+		"name": "Punggol Int",
 		"routes": [
 			[
 				"65009",
@@ -17984,7 +18007,7 @@
 		]
 	},
 	"384": {
-		"name": "Punggol Temp Int ⟲ Blk 413C",
+		"name": "Punggol Int ⟲ Blk 413C",
 		"routes": [
 			[
 				"65009",
@@ -18005,7 +18028,7 @@
 		]
 	},
 	"386": {
-		"name": "Punggol Temp Int ⟲ Coral Edge Stn Exit B",
+		"name": "Punggol Int ⟲ Coral Edge Stn Exit B",
 		"routes": [
 			[
 				"65009",
@@ -18141,7 +18164,7 @@
 		]
 	},
 	"405": {
-		"name": "Boon Lay Int ⟲ CCK Cemy Office",
+		"name": "Boon Lay Int ⟲ Choa Chu Kang Rd End",
 		"routes": [
 			[
 				"22009",
@@ -18151,7 +18174,6 @@
 				"27101",
 				"27121",
 				"31011",
-				"31021",
 				"31031",
 				"31041",
 				"31051",
@@ -18162,16 +18184,9 @@
 				"31121",
 				"31131",
 				"31141",
-				"31061",
-				"31071",
-				"31201",
-				"31211",
-				"31079",
-				"31069",
 				"31059",
 				"31049",
 				"31039",
-				"31029",
 				"31019",
 				"27129",
 				"27109",
@@ -22582,16 +22597,13 @@
 				"31179",
 				"31169",
 				"31159",
-				"31061",
-				"31071",
-				"31081",
-				"34101",
-				"32101",
-				"32111",
-				"32031",
-				"32041",
-				"32051",
-				"32061",
+				"31149",
+				"31139",
+				"31129",
+				"32121",
+				"32131",
+				"32141",
+				"32151",
 				"32071",
 				"32081",
 				"33011",
@@ -22616,17 +22628,13 @@
 				"33029",
 				"33019",
 				"32089",
-				"32079",
-				"32069",
-				"32059",
-				"32049",
-				"32039",
-				"32119",
-				"32109",
-				"34109",
-				"31089",
-				"31079",
-				"31069",
+				"32159",
+				"32149",
+				"32139",
+				"32129",
+				"31121",
+				"31131",
+				"31141",
 				"31151",
 				"31161",
 				"31171",
@@ -23597,10 +23605,14 @@
 		]
 	},
 	"117M": {
-		"name": "Punggol Temp Int ⇄ Sembawang Int",
+		"name": "Punggol Coast Int ⇄ Sembawang Int",
 		"routes": [
 			[
-				"65009",
+				"69009",
+				"65739",
+				"65481",
+				"65351",
+				"65219",
 				"65341",
 				"65331",
 				"65431",
@@ -23687,12 +23699,16 @@
 				"65439",
 				"65339",
 				"65349",
-				"65009"
+				"65211",
+				"65359",
+				"65489",
+				"65731",
+				"69009"
 			]
 		]
 	},
 	"118A": {
-		"name": "Punggol Temp Int → ITE Coll East Adm Blk",
+		"name": "Punggol Int → ITE Coll East Adm Blk",
 		"routes": [
 			[
 				"65009",
@@ -25462,6 +25478,25 @@
 			]
 		]
 	},
+	"230M": {
+		"name": "Toa Payoh Int ⟲ Blk 268A",
+		"routes": [
+			[
+				"52009",
+				"52509",
+				"52329",
+				"52339",
+				"52311",
+				"52571",
+				"52561",
+				"52319",
+				"52331",
+				"52321",
+				"52501",
+				"52009"
+			]
+		]
+	},
 	"240A": {
 		"name": "Blk 65 → Lakeside Stn",
 		"routes": [
@@ -26049,10 +26084,17 @@
 		]
 	},
 	"34A": {
-		"name": "Punggol Temp Int → Opp Our Tampines Hub",
+		"name": "Punggol Coast Int → Opp Our Tampines Hub",
 		"routes": [
 			[
-				"65009",
+				"69009",
+				"65631",
+				"65621",
+				"65679",
+				"65459",
+				"65449",
+				"65401",
+				"65251",
 				"65221",
 				"65089",
 				"65079",
@@ -26247,7 +26289,7 @@
 		]
 	},
 	"382A": {
-		"name": "Punggol Temp Int → Blk 226A",
+		"name": "Punggol Int → Blk 226A",
 		"routes": [
 			[
 				"65009",
@@ -26261,7 +26303,7 @@
 		]
 	},
 	"382G": {
-		"name": "Punggol Temp Int ⟲ Opp Blk 259 CP",
+		"name": "Punggol Int ⟲ Opp Blk 259 CP",
 		"routes": [
 			[
 				"65009",
@@ -26283,7 +26325,7 @@
 		]
 	},
 	"382W": {
-		"name": "Punggol Temp Int ⟲ Blk 259 CP",
+		"name": "Punggol Int ⟲ Blk 259 CP",
 		"routes": [
 			[
 				"65009",
@@ -26305,7 +26347,7 @@
 		]
 	},
 	"386A": {
-		"name": "Punggol Temp Int → Blk 682A",
+		"name": "Punggol Int → Blk 682A",
 		"routes": [
 			[
 				"65009",
@@ -26460,7 +26502,7 @@
 		]
 	},
 	"43M": {
-		"name": "Punggol Temp Int ⟲ Serangoon Stadium",
+		"name": "Punggol Int ⟲ Serangoon Stadium",
 		"routes": [
 			[
 				"65009",
@@ -26515,7 +26557,7 @@
 		]
 	},
 	"43e": {
-		"name": "Punggol Temp Int ⇄ Marine Pde Stn Exit 4 / Marine Pde Stn Exit 6",
+		"name": "Punggol Int ⇄ Marine Pde Stn Exit 4 / Marine Pde Stn Exit 6",
 		"routes": [
 			[
 				"65009",
@@ -26943,7 +26985,7 @@
 		]
 	},
 	"62A": {
-		"name": "Punggol Temp Int → Aljunied Stn",
+		"name": "Punggol Int → Aljunied Stn",
 		"routes": [
 			[
 				"65009",
@@ -27705,7 +27747,7 @@
 		]
 	},
 	"83T": {
-		"name": "Punggol Temp Int → Sengkang Int",
+		"name": "Punggol Int → Sengkang Int",
 		"routes": [
 			[
 				"65009",
@@ -27728,7 +27770,7 @@
 		]
 	},
 	"84G": {
-		"name": "Punggol Temp Int ⟲ Aft Northshore Cres",
+		"name": "Punggol Int ⟲ Aft Northshore Cres",
 		"routes": [
 			[
 				"65009",
@@ -27753,7 +27795,7 @@
 		]
 	},
 	"84W": {
-		"name": "Punggol Temp Int ⟲ Opposite Blk 437B",
+		"name": "Punggol Int ⟲ Opposite Blk 437B",
 		"routes": [
 			[
 				"65009",
@@ -29866,16 +29908,13 @@
 				"31179",
 				"31169",
 				"31159",
-				"31061",
-				"31071",
-				"31081",
-				"34101",
-				"32101",
-				"32111",
-				"32031",
-				"32041",
-				"32051",
-				"32061",
+				"31149",
+				"31139",
+				"31129",
+				"32121",
+				"32131",
+				"32141",
+				"32151",
 				"32071",
 				"32081",
 				"33011",
@@ -29913,16 +29952,13 @@
 				"31179",
 				"31169",
 				"31159",
-				"31061",
-				"31071",
-				"31081",
-				"34101",
-				"32101",
-				"32111",
-				"32031",
-				"32041",
-				"32051",
-				"32061",
+				"31149",
+				"31139",
+				"31129",
+				"32121",
+				"32131",
+				"32141",
+				"32151",
 				"32071",
 				"32081",
 				"33011",

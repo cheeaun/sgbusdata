@@ -1,8 +1,15 @@
 [
 	{
-		"name": "From Punggol Temp Int to Opp Our Tampines Hub",
+		"name": "From Punggol Coast Int to Opp Our Tampines Hub",
 		"stops": [
-			"65009",
+			"69009",
+			"65631",
+			"65621",
+			"65679",
+			"65459",
+			"65449",
+			"65401",
+			"65251",
 			"65221",
 			"65089",
 			"65079",

@@ -11543,20 +11543,6 @@
 		"Longitude": 103.69398905356208
 	},
 	{
-		"BusStopCode": "31021",
-		"RoadName": "Jln Bahar",
-		"Description": "Jln Bahar Power Stn",
-		"Latitude": 1.36247047014576,
-		"Longitude": 103.69287888535482
-	},
-	{
-		"BusStopCode": "31029",
-		"RoadName": "Jln Bahar",
-		"Description": "Opp Jln Bahar Power Stn",
-		"Latitude": 1.36307987152083,
-		"Longitude": 103.69296604646463
-	},
-	{
 		"BusStopCode": "31031",
 		"RoadName": "Jln Bahar",
 		"Description": "Civil Defence Acad",
@@ -11597,48 +11583,6 @@
 		"Description": "Aft Cemy Chapel",
 		"Latitude": 1.37207574401713,
 		"Longitude": 103.69466807265977
-	},
-	{
-		"BusStopCode": "31061",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Opp Lim Chu Kang Camp II",
-		"Latitude": 1.37594722202959,
-		"Longitude": 103.695570278013
-	},
-	{
-		"BusStopCode": "31069",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Bef Old Choa Chu Kang Rd",
-		"Latitude": 1.37493138896603,
-		"Longitude": 103.69550611102841
-	},
-	{
-		"BusStopCode": "31071",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Aft Chinese Cemy Path 11",
-		"Latitude": 1.37853314214565,
-		"Longitude": 103.69626045229732
-	},
-	{
-		"BusStopCode": "31079",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Opp Chinese Cemy Path 11",
-		"Latitude": 1.37768611102662,
-		"Longitude": 103.69632194402648
-	},
-	{
-		"BusStopCode": "31081",
-		"RoadName": "Old Lim Chu Kang Rd",
-		"Description": "Opp HQ 5th SIB Camp I",
-		"Latitude": 1.38056264189347,
-		"Longitude": 103.69732526991169
-	},
-	{
-		"BusStopCode": "31089",
-		"RoadName": "Old Lim Chu Kang Rd",
-		"Description": "HQ 5th SIB Camp I",
-		"Latitude": 1.37992729418245,
-		"Longitude": 103.69711516294915
 	},
 	{
 		"BusStopCode": "31121",
@@ -11739,88 +11683,11 @@
 		"Longitude": 103.70931539839594
 	},
 	{
-		"BusStopCode": "31201",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Aft Chinese Cemy Path 13",
-		"Latitude": 1.38044981963514,
-		"Longitude": 103.69659409681319
-	},
-	{
-		"BusStopCode": "31211",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Aft Muslim Cemy Path 17",
-		"Latitude": 1.38283900023768,
-		"Longitude": 103.6969997018249
-	},
-	{
-		"BusStopCode": "32031",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Opp Ama Keng Rd",
-		"Latitude": 1.40270299424992,
-		"Longitude": 103.70078174769526
-	},
-	{
-		"BusStopCode": "32039",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Aft Ama Keng Rd",
-		"Latitude": 1.40251788786303,
-		"Longitude": 103.70081478116067
-	},
-	{
-		"BusStopCode": "32041",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Opp LP 160",
-		"Latitude": 1.40436104392726,
-		"Longitude": 103.70166157203701
-	},
-	{
-		"BusStopCode": "32049",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Aft LP 161",
-		"Latitude": 1.40452254375654,
-		"Longitude": 103.70187031633597
-	},
-	{
-		"BusStopCode": "32051",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Aft Track 11",
-		"Latitude": 1.40929365504034,
-		"Longitude": 103.70097942080086
-	},
-	{
-		"BusStopCode": "32059",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Opp Track 11",
-		"Latitude": 1.40903140804682,
-		"Longitude": 103.70120779053055
-	},
-	{
-		"BusStopCode": "32061",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Opp LP 173",
-		"Latitude": 1.41146307596912,
-		"Longitude": 103.70006004261607
-	},
-	{
-		"BusStopCode": "32069",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "B26 Lim Chu Kang Rd",
-		"Latitude": 1.41103257931936,
-		"Longitude": 103.7003812106999
-	},
-	{
 		"BusStopCode": "32071",
 		"RoadName": "Lim Chu Kang Rd",
 		"Description": "Aft Track 13",
 		"Latitude": 1.4160246040166,
 		"Longitude": 103.70056776202736
-	},
-	{
-		"BusStopCode": "32079",
-		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Opp Track 13",
-		"Latitude": 1.41512827700833,
-		"Longitude": 103.70026822968337
 	},
 	{
 		"BusStopCode": "32081",
@@ -11837,32 +11704,60 @@
 		"Longitude": 103.7010851003633
 	},
 	{
-		"BusStopCode": "32101",
+		"BusStopCode": "32121",
 		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Aft Murai Farmway",
-		"Latitude": 1.38541382998394,
-		"Longitude": 103.69744470002844
+		"Description": "Aft Old Choa Chu Kang Rd",
+		"Latitude": 1.37292105,
+		"Longitude": 103.6851701
 	},
 	{
-		"BusStopCode": "32109",
+		"BusStopCode": "32129",
 		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Bef Lor Serambi",
-		"Latitude": 1.3857176700282,
-		"Longitude": 103.69770270003046
+		"Description": "Bef Old Choa Chu Kang Rd",
+		"Latitude": 1.373591307,
+		"Longitude": 103.6854902
 	},
 	{
-		"BusStopCode": "32111",
+		"BusStopCode": "32131",
 		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Aft LP 93",
-		"Latitude": 1.39837200000575,
-		"Longitude": 103.69964580001103
+		"Description": "Bef Chinese & Muslim Cemy",
+		"Latitude": 1.381767314,
+		"Longitude": 103.6841405
 	},
 	{
-		"BusStopCode": "32119",
+		"BusStopCode": "32139",
 		"RoadName": "Lim Chu Kang Rd",
-		"Description": "Aft LP 96",
-		"Latitude": 1.39858000001944,
-		"Longitude": 103.699882699978
+		"Description": "Aft Chinese & Muslim Cemy",
+		"Latitude": 1.380833595,
+		"Longitude": 103.6845929
+	},
+	{
+		"BusStopCode": "32141",
+		"RoadName": "Lim Chu Kang Rd",
+		"Description": "B27 Lim Chu Kang Rd",
+		"Latitude": 1.395173887,
+		"Longitude": 103.69183
+	},
+	{
+		"BusStopCode": "32149",
+		"RoadName": "Lim Chu Kang Rd",
+		"Description": "B26 Lim Chu Kang Rd",
+		"Latitude": 1.395007965,
+		"Longitude": 103.6921278
+	},
+	{
+		"BusStopCode": "32151",
+		"RoadName": "Lim Chu Kang Rd",
+		"Description": "Opp Lim Chu Kang Substation No. 1",
+		"Latitude": 1.414093161,
+		"Longitude": 103.696621
+	},
+	{
+		"BusStopCode": "32159",
+		"RoadName": "Lim Chu Kang Rd",
+		"Description": "Bef Lim Chu Kang Substation No. 1",
+		"Latitude": 1.414025693,
+		"Longitude": 103.6973396
 	},
 	{
 		"BusStopCode": "33011",
@@ -12010,20 +11905,6 @@
 		"Description": "Yishun Dairy Farm",
 		"Latitude": 1.44234338763128,
 		"Longitude": 103.7078689605441
-	},
-	{
-		"BusStopCode": "34101",
-		"RoadName": "Lor Rusuk",
-		"Description": "Aft Old Lim Chu Kang Rd",
-		"Latitude": 1.38440683002823,
-		"Longitude": 103.69790380001842
-	},
-	{
-		"BusStopCode": "34109",
-		"RoadName": "Lor Rusuk",
-		"Description": "Aft Lim Chu Kang Rd",
-		"Latitude": 1.38430083002772,
-		"Longitude": 103.69811219997105
 	},
 	{
 		"BusStopCode": "40011",
@@ -23866,15 +23747,15 @@
 		"BusStopCode": "61121",
 		"RoadName": "Bidadari Pk Dr",
 		"Description": "Opp Blk 212",
-		"Latitude": 1.3416375,
-		"Longitude": 103.874179
+		"Latitude": 1.3417695,
+		"Longitude": 103.875484
 	},
 	{
 		"BusStopCode": "61129",
 		"RoadName": "Bidadari Pk Dr",
 		"Description": "Blk 212",
-		"Latitude": 1.3417695,
-		"Longitude": 103.875484
+		"Latitude": 1.3416375,
+		"Longitude": 103.874179
 	},
 	{
 		"BusStopCode": "61131",
@@ -25461,7 +25342,7 @@
 	{
 		"BusStopCode": "65009",
 		"RoadName": "Punggol Pl",
-		"Description": "Punggol Temp Int",
+		"Description": "Punggol Int",
 		"Latitude": 1.40370629859822,
 		"Longitude": 103.90224337575333
 	},
@@ -25695,6 +25576,20 @@
 		"Description": "Blk 201A",
 		"Latitude": 1.40040560689368,
 		"Longitude": 103.90387509832152
+	},
+	{
+		"BusStopCode": "65211",
+		"RoadName": "Punggol Pl",
+		"Description": "Bef Punggol Int",
+		"Latitude": 1.402691,
+		"Longitude": 103.902709
+	},
+	{
+		"BusStopCode": "65219",
+		"RoadName": "Punggol Pl",
+		"Description": "Opp Punggol Int",
+		"Latitude": 1.403538,
+		"Longitude": 103.903422
 	},
 	{
 		"BusStopCode": "65221",
@@ -25936,21 +25831,21 @@
 	},
 	{
 		"BusStopCode": "65411",
-		"RoadName": "Edgefield Plains",
+		"RoadName": "Edgedale Plains",
 		"Description": "Horizon Pr Sch",
 		"Latitude": 1.39944781445392,
 		"Longitude": 103.91384912994876
 	},
 	{
 		"BusStopCode": "65419",
-		"RoadName": "Edgefield Plains",
+		"RoadName": "Edgedale Plains",
 		"Description": "Opp Horizon Pr Sch",
 		"Latitude": 1.39946209125417,
 		"Longitude": 103.91395382625832
 	},
 	{
 		"BusStopCode": "65429",
-		"RoadName": "Edgefield Plains",
+		"RoadName": "Edgedale Plains",
 		"Description": "Greendale Pr Sch",
 		"Latitude": 1.39678724110144,
 		"Longitude": 103.912022758935
@@ -26311,6 +26206,20 @@
 		"Description": "Punggol Coast Station",
 		"Latitude": 1.414675,
 		"Longitude": 103.911277
+	},
+	{
+		"BusStopCode": "65731",
+		"RoadName": "Sentul Wk",
+		"Description": "Teck Lee Stn Exit B",
+		"Latitude": 1.413252,
+		"Longitude": 103.906819
+	},
+	{
+		"BusStopCode": "65739",
+		"RoadName": "Sentul Wk",
+		"Description": "Teck Lee Stn Exit A",
+		"Latitude": 1.413142,
+		"Longitude": 103.906954
 	},
 	{
 		"BusStopCode": "65801",
@@ -28299,6 +28208,13 @@
 		"Description": "Seletar Airport",
 		"Latitude": 1.41360008537368,
 		"Longitude": 103.87287372479017
+	},
+	{
+		"BusStopCode": "69009",
+		"RoadName": "Sentul Wk",
+		"Description": "Punggol Coast Int",
+		"Latitude": 1.414795,
+		"Longitude": 103.908557
 	},
 	{
 		"BusStopCode": "70011",
@@ -32331,6 +32247,20 @@
 		"Description": "Tg Katong Sec Sch",
 		"Latitude": 1.307375,
 		"Longitude": 103.898635
+	},
+	{
+		"BusStopCode": "82251",
+		"RoadName": "Haig Rd",
+		"Description": "Tg Katong Pr Sch",
+		"Latitude": 1.305103,
+		"Longitude": 103.899669
+	},
+	{
+		"BusStopCode": "82259",
+		"RoadName": "Haig Rd",
+		"Description": "Opp Tg Katong Pr Sch",
+		"Latitude": 1.303918,
+		"Longitude": 103.900094
 	},
 	{
 		"BusStopCode": "83011",
