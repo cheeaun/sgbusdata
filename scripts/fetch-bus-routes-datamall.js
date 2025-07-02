@@ -7,7 +7,7 @@ const { fetch, writeFile } = require('../utils');
   let data;
   do {
     data = await fetch(
-      `http://datamall2.mytransport.sg/ltaodataservice/BusRoutes?$skip=${skip}`,
+      `https://datamall2.mytransport.sg/ltaodataservice/BusRoutes?$skip=${skip}`,
       {
         json: true,
         headers: {
