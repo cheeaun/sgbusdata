@@ -2809,6 +2809,16 @@
 		]
 	},
 	{
+		"number": "230M",
+		"type": "TRUNK",
+		"kmlFile": [
+			"230M-1.kml"
+		],
+		"routeFile": [
+			"230M.xml"
+		]
+	},
+	{
 		"number": 231,
 		"type": "TRUNK",
 		"kmlFile": [

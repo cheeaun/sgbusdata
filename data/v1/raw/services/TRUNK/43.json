@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Punggol Temp Int to Upp East Coast Ter",
+		"name": "From Punggol Int to Upp East Coast Ter",
 		"stops": [
 			"65009",
 			"65259",
@@ -67,7 +67,7 @@
 		]
 	},
 	{
-		"name": "From Upp East Coast Ter to Punggol Temp Int",
+		"name": "From Upp East Coast Ter to Punggol Int",
 		"stops": [
 			"94009",
 			"94069",

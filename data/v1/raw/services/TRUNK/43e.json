@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Punggol Temp Int to Marine Pde Stn Exit 4",
+		"name": "From Punggol Int to Marine Pde Stn Exit 4",
 		"stops": [
 			"65009",
 			"65259",
@@ -33,7 +33,7 @@
 		]
 	},
 	{
-		"name": "From Marine Pde Stn Exit 6 to Punggol Temp Int",
+		"name": "From Marine Pde Stn Exit 6 to Punggol Int",
 		"stops": [
 			"92059",
 			"92049",

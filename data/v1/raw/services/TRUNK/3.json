@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Tampines Int to Punggol Temp Int",
+		"name": "From Tampines Int to Punggol Int",
 		"stops": [
 			"75009",
 			"76059",
@@ -44,7 +44,7 @@
 		]
 	},
 	{
-		"name": "From Punggol Temp Int to Tampines Int",
+		"name": "From Punggol Int to Tampines Int",
 		"stops": [
 			"65009",
 			"65221",

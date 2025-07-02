@@ -12649,8 +12649,8 @@
 		"wab": "true",
 		"details": "Kent Ridge Stn Exit A/NUH",
 		"coordinates": {
-			"lat": 1.2937072200211,
-			"long": 103.78489139998855
+			"lat": 1.29485266612069,
+			"long": 103.78437805999793
 		}
 	},
 	{
@@ -12658,8 +12658,8 @@
 		"wab": "true",
 		"details": "Opp Kent Ridge Stn Exit A",
 		"coordinates": {
-			"lat": 1.29379302903228,
-			"long": 103.78507910002646
+			"lat": 1.29506450651125,
+			"long": 103.78455508578391
 		}
 	},
 	{
@@ -20547,24 +20547,6 @@
 		}
 	},
 	{
-		"name": "31021",
-		"wab": "true",
-		"details": "Jln Bahar Power Stn",
-		"coordinates": {
-			"lat": 1.36247047014576,
-			"long": 103.69287888535482
-		}
-	},
-	{
-		"name": "31029",
-		"wab": "true",
-		"details": "Opp Jln Bahar Power Stn",
-		"coordinates": {
-			"lat": 1.36307987152083,
-			"long": 103.69296604646463
-		}
-	},
-	{
 		"name": "31031",
 		"wab": "true",
 		"details": "Civil Defence Acad",
@@ -20616,60 +20598,6 @@
 		"coordinates": {
 			"lat": 1.37207574401713,
 			"long": 103.69466807265977
-		}
-	},
-	{
-		"name": "31061",
-		"wab": "true",
-		"details": "Opp Lim Chu Kang Camp II",
-		"coordinates": {
-			"lat": 1.37594722202959,
-			"long": 103.695570278013
-		}
-	},
-	{
-		"name": "31069",
-		"wab": "true",
-		"details": "Bef Old Choa Chu Kang Rd",
-		"coordinates": {
-			"lat": 1.37493138896603,
-			"long": 103.69550611102841
-		}
-	},
-	{
-		"name": "31071",
-		"wab": "false",
-		"details": "Aft Chinese Cemy Path 11",
-		"coordinates": {
-			"lat": 1.37853314214565,
-			"long": 103.69626045229732
-		}
-	},
-	{
-		"name": "31079",
-		"wab": "true",
-		"details": "Opp Chinese Cemy Path 11",
-		"coordinates": {
-			"lat": 1.37768611102662,
-			"long": 103.69632194402648
-		}
-	},
-	{
-		"name": "31081",
-		"wab": "false",
-		"details": "Opp HQ 5th SIB Camp I",
-		"coordinates": {
-			"lat": 1.38056264189347,
-			"long": 103.69732526991169
-		}
-	},
-	{
-		"name": "31089",
-		"wab": "false",
-		"details": "HQ 5th SIB Camp I",
-		"coordinates": {
-			"lat": 1.37992729418245,
-			"long": 103.69711516294915
 		}
 	},
 	{
@@ -20799,111 +20727,12 @@
 		}
 	},
 	{
-		"name": "31201",
-		"wab": "false",
-		"details": "Aft Chinese Cemy Path 13",
-		"coordinates": {
-			"lat": 1.38044981963514,
-			"long": 103.69659409681319
-		}
-	},
-	{
-		"name": "31211",
-		"wab": "false",
-		"details": "Aft Muslim Cemy Path 17",
-		"coordinates": {
-			"lat": 1.38283900023768,
-			"long": 103.6969997018249
-		}
-	},
-	{
-		"name": "32031",
-		"wab": "true",
-		"details": "Opp Ama Keng Rd",
-		"coordinates": {
-			"lat": 1.40270299424992,
-			"long": 103.70078174769526
-		}
-	},
-	{
-		"name": "32039",
-		"wab": "true",
-		"details": "Aft Ama Keng Rd",
-		"coordinates": {
-			"lat": 1.40251788786303,
-			"long": 103.70081478116067
-		}
-	},
-	{
-		"name": "32041",
-		"wab": "false",
-		"details": "Opp LP 160",
-		"coordinates": {
-			"lat": 1.40436104392726,
-			"long": 103.70166157203701
-		}
-	},
-	{
-		"name": "32049",
-		"wab": "false",
-		"details": "Aft LP 161",
-		"coordinates": {
-			"lat": 1.40452254375654,
-			"long": 103.70187031633597
-		}
-	},
-	{
-		"name": "32051",
-		"wab": "false",
-		"details": "Aft Track 11",
-		"coordinates": {
-			"lat": 1.40929365504034,
-			"long": 103.70097942080086
-		}
-	},
-	{
-		"name": "32059",
-		"wab": "false",
-		"details": "Opp Track 11",
-		"coordinates": {
-			"lat": 1.40903140804682,
-			"long": 103.70120779053055
-		}
-	},
-	{
-		"name": "32061",
-		"wab": "false",
-		"details": "Opp LP 173",
-		"coordinates": {
-			"lat": 1.41146307596912,
-			"long": 103.70006004261607
-		}
-	},
-	{
-		"name": "32069",
-		"wab": "false",
-		"details": "B26 Lim Chu Kang Rd",
-		"coordinates": {
-			"lat": 1.41103257931936,
-			"long": 103.7003812106999
-		}
-	},
-	{
 		"name": "32071",
 		"wab": "false",
 		"details": "Aft Track 13",
 		"coordinates": {
 			"lat": 1.4160246040166,
 			"long": 103.70056776202736
-		}
-	},
-	{
-		"name": "32079",
-		"wab": "false",
-		"details": "Opp Track 13",
-		"coordinates": {
-			"lat": 1.41512827700833,
-			"long": 103.70026822968337
 		}
 	},
 	{
@@ -20925,39 +20754,75 @@
 		}
 	},
 	{
-		"name": "32101",
-		"wab": "false",
-		"details": "Aft Murai Farmway",
+		"name": "32121",
+		"wab": "true",
+		"details": "Aft Old Choa Chu Kang Rd",
 		"coordinates": {
-			"lat": 1.38541382998394,
-			"long": 103.69744470002844
+			"lat": 1.37292105,
+			"long": 103.6851701
 		}
 	},
 	{
-		"name": "32109",
-		"wab": "false",
-		"details": "Bef Lor Serambi",
+		"name": "32129",
+		"wab": "true",
+		"details": "Bef Old Choa Chu Kang Rd",
 		"coordinates": {
-			"lat": 1.3857176700282,
-			"long": 103.69770270003046
+			"lat": 1.373591307,
+			"long": 103.6854902
 		}
 	},
 	{
-		"name": "32111",
-		"wab": "false",
-		"details": "Aft LP 93",
+		"name": "32131",
+		"wab": "true",
+		"details": "Bef Chinese & Muslim Cemy",
 		"coordinates": {
-			"lat": 1.39837200000575,
-			"long": 103.69964580001103
+			"lat": 1.381767314,
+			"long": 103.6841405
 		}
 	},
 	{
-		"name": "32119",
-		"wab": "false",
-		"details": "Aft LP 96",
+		"name": "32139",
+		"wab": "true",
+		"details": "Aft Chinese & Muslim Cemy",
 		"coordinates": {
-			"lat": 1.39858000001944,
-			"long": 103.699882699978
+			"lat": 1.380833595,
+			"long": 103.6845929
+		}
+	},
+	{
+		"name": "32141",
+		"wab": "true",
+		"details": "B27 Lim Chu Kang Rd",
+		"coordinates": {
+			"lat": 1.395173887,
+			"long": 103.69183
+		}
+	},
+	{
+		"name": "32149",
+		"wab": "true",
+		"details": "B26 Lim Chu Kang Rd",
+		"coordinates": {
+			"lat": 1.395007965,
+			"long": 103.6921278
+		}
+	},
+	{
+		"name": "32151",
+		"wab": "true",
+		"details": "Opp Lim Chu Kang Substation No. 1",
+		"coordinates": {
+			"lat": 1.414093161,
+			"long": 103.696621
+		}
+	},
+	{
+		"name": "32159",
+		"wab": "true",
+		"details": "Bef Lim Chu Kang Substation No. 1",
+		"coordinates": {
+			"lat": 1.414025693,
+			"long": 103.6973396
 		}
 	},
 	{
@@ -21147,24 +21012,6 @@
 		"coordinates": {
 			"lat": 1.44234338763128,
 			"long": 103.7078689605441
-		}
-	},
-	{
-		"name": "34101",
-		"wab": "true",
-		"details": "Aft Old Lim Chu Kang Rd",
-		"coordinates": {
-			"lat": 1.38440683002823,
-			"long": 103.69790380001842
-		}
-	},
-	{
-		"name": "34109",
-		"wab": "true",
-		"details": "Aft Lim Chu Kang Rd",
-		"coordinates": {
-			"lat": 1.38430083002772,
-			"long": 103.69811219997105
 		}
 	},
 	{
@@ -29422,7 +29269,7 @@
 	},
 	{
 		"name": "50169",
-		"wab": "false",
+		"wab": "true",
 		"details": "Aft Irrawaddy Rd",
 		"coordinates": {
 			"lat": 1.32647401158756,
@@ -36391,8 +36238,8 @@
 		"wab": "true",
 		"details": "Opp Blk 212",
 		"coordinates": {
-			"lat": 1.3416375,
-			"long": 103.874179
+			"lat": 1.3417695,
+			"long": 103.875484
 		}
 	},
 	{
@@ -36400,8 +36247,8 @@
 		"wab": "true",
 		"details": "Blk 212",
 		"coordinates": {
-			"lat": 1.3417695,
-			"long": 103.875484
+			"lat": 1.3416375,
+			"long": 103.874179
 		}
 	},
 	{
@@ -38441,7 +38288,7 @@
 	{
 		"name": "65009",
 		"wab": "true",
-		"details": "Punggol Temp Int",
+		"details": "Punggol Int",
 		"coordinates": {
 			"lat": 1.40370629859822,
 			"long": 103.90224337575333
@@ -38742,6 +38589,24 @@
 		"coordinates": {
 			"lat": 1.40040560689368,
 			"long": 103.90387509832152
+		}
+	},
+	{
+		"name": "65211",
+		"wab": "true",
+		"details": "Bef Punggol Int",
+		"coordinates": {
+			"lat": 1.402691,
+			"long": 103.902709
+		}
+	},
+	{
+		"name": "65219",
+		"wab": "true",
+		"details": "Opp Punggol Int",
+		"coordinates": {
+			"lat": 1.403538,
+			"long": 103.903422
 		}
 	},
 	{
@@ -39534,6 +39399,24 @@
 		"coordinates": {
 			"lat": 1.414675,
 			"long": 103.911277
+		}
+	},
+	{
+		"name": "65731",
+		"wab": "true",
+		"details": "Teck Lee Stn Exit B",
+		"coordinates": {
+			"lat": 1.413252,
+			"long": 103.906819
+		}
+	},
+	{
+		"name": "65739",
+		"wab": "true",
+		"details": "Teck Lee Stn Exit A",
+		"coordinates": {
+			"lat": 1.413142,
+			"long": 103.906954
 		}
 	},
 	{
@@ -42090,6 +41973,15 @@
 		"coordinates": {
 			"lat": 1.41360008537368,
 			"long": 103.87287372479017
+		}
+	},
+	{
+		"name": "69009",
+		"wab": "true",
+		"details": "Punggol Coast Int",
+		"coordinates": {
+			"lat": 1.414795,
+			"long": 103.908557
 		}
 	},
 	{
@@ -47274,6 +47166,24 @@
 		"coordinates": {
 			"lat": 1.307375,
 			"long": 103.898635
+		}
+	},
+	{
+		"name": "82251",
+		"wab": "true",
+		"details": "Tg Katong Pr Sch",
+		"coordinates": {
+			"lat": 1.305103,
+			"long": 103.899669
+		}
+	},
+	{
+		"name": "82259",
+		"wab": "true",
+		"details": "Opp Tg Katong Pr Sch",
+		"coordinates": {
+			"lat": 1.303918,
+			"long": 103.900094
 		}
 	},
 	{

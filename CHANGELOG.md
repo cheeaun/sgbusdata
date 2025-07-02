@@ -1,3 +1,104 @@
+# 2 July 2025
+
+## Stops count change: 5170 ⮕ 5160
+
+### Stops added: 15
+
+- `32121` Aft Old Choa Chu Kang Rd
+- `32129` Bef Old Choa Chu Kang Rd
+- `32131` Bef Chinese & Muslim Cemy
+- `32139` Aft Chinese & Muslim Cemy
+- `32141` B27 Lim Chu Kang Rd
+- `32149` B26 Lim Chu Kang Rd
+- `32151` Opp Lim Chu Kang Substation No. 1
+- `32159` Bef Lim Chu Kang Substation No. 1
+- `65211` Bef Punggol Int
+- `65219` Opp Punggol Int
+- `65731` Teck Lee Stn Exit B
+- `65739` Teck Lee Stn Exit A
+- `69009` Punggol Coast Int
+- `82251` Tg Katong Pr Sch
+- `82259` Opp Tg Katong Pr Sch
+
+### Stops removed: 25
+
+- `31021` Jln Bahar Power Stn
+- `31029` Opp Jln Bahar Power Stn
+- `31061` Opp Lim Chu Kang Camp II
+- `31069` Bef Old Choa Chu Kang Rd
+- `31071` Aft Chinese Cemy Path 11
+- `31079` Opp Chinese Cemy Path 11
+- `31081` Opp HQ 5th SIB Camp I
+- `31089` HQ 5th SIB Camp I
+- `31201` Aft Chinese Cemy Path 13
+- `31211` Aft Muslim Cemy Path 17
+- `32031` Opp Ama Keng Rd
+- `32039` Aft Ama Keng Rd
+- `32041` Opp LP 160
+- `32049` Aft LP 161
+- `32051` Aft Track 11
+- `32059` Opp Track 11
+- `32061` Opp LP 173
+- `32069` B26 Lim Chu Kang Rd
+- `32079` Opp Track 13
+- `32101` Aft Murai Farmway
+- `32109` Bef Lor Serambi
+- `32111` Aft LP 93
+- `32119` Aft LP 96
+- `34101` Aft Old Lim Chu Kang Rd
+- `34109` Aft Lim Chu Kang Rd
+
+### Stop names changed: 2
+
+- `28021` Opp 8 @Tradehub 21 ⮕ Opp 8 @ Tradehub 21
+- `65009` Punggol Temp Int ⮕ Punggol Int
+
+### Stop locations changed: 7
+
+- `18331` 103.78489,1.29371 ⮕ 103.78438,1.29485
+- `18339` 103.78508,1.29379 ⮕ 103.78456,1.29506
+- `61121` 103.87418,1.34164 ⮕ 103.87548,1.34177
+- `61129` 103.87548,1.34177 ⮕ 103.87418,1.34164
+- `65411` 103.91385,1.39945 ⮕ 103.91385,1.39945
+- `65419` 103.91395,1.39946 ⮕ 103.91395,1.39946
+- `65429` 103.91202,1.39679 ⮕ 103.91202,1.39679
+
+## Services count change: 574 ⮕ 575
+
+### Services added: 1
+
+- `230M` Toa Payoh Int ⟲ Blk 268A
+
+### Bus Stop Changes To Routes: 10
+
+- `975C` Bt Panjang Int → Police Coast Guard: +7, -10
+- `975` Bt Panjang Int ⟲ Aft Lim Chu Kang Lane 8: +14, -21
+- `405` Boon Lay Int ⟲ Choa Chu Kang Rd End: -8
+- `172` Choa Chu Kang Int ⇄ Boon Lay Int: -2
+- `975B` Opp Choa Chu Kang Stn → Opp Lim Chu Kang Lane 3: +7, -10
+- `34` Punggol Coast Int ⟲ Changi Airport Ter 2: +17, -2
+- `117` Punggol Coast Int ⇄ Sembawang Int: +10, -2
+- `135` Ang Mo Kio Int ⇄ Kembangan Stn: +2
+- `117M` Punggol Coast Int ⇄ Sembawang Int: +10, -2
+- `34A` Punggol Coast Int → Opp Our Tampines Hub: +8, -1
+
+## Routes changed: 10
+
+- `34` Punggol Coast Int ⟲ Changi Airport Ter 2
+- `117` Punggol Coast Int ⇄ Sembawang Int
+- `172` Choa Chu Kang Int ⇄ Boon Lay Int
+- `405` Boon Lay Int ⟲ Choa Chu Kang Rd End
+- `975` Bt Panjang Int ⟲ Aft Lim Chu Kang Lane 8
+- `117M` Punggol Coast Int ⇄ Sembawang Int
+- `34A` Punggol Coast Int → Opp Our Tampines Hub
+- `975B` Opp Choa Chu Kang Stn → Opp Lim Chu Kang Lane 3
+- `975C` Bt Panjang Int → Police Coast Guard
+- `230M` Toa Payoh Int ⟲ Blk 268A
+
+## First/last timings changed
+
+Affected services: `34`, `107`, `117`, `135`, `172`, `193`, `252`, `405`, `975`, `975B`, `975C`, `117M`, `107M`, `34A`, `230M`
+
 # 1 June 2025
 
 ## Stops count change: 5168 ⮕ 5170

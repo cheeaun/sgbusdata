@@ -3234,14 +3234,14 @@
 		"Lower Kent Ridge Rd"
 	],
 	"18331": [
-		103.78489,
-		1.29371,
+		103.78438,
+		1.29485,
 		"Kent Ridge Stn Exit A/NUH",
 		"Lower Kent Ridge Rd"
 	],
 	"18339": [
-		103.78508,
-		1.29379,
+		103.78456,
+		1.29506,
 		"Opp Kent Ridge Stn Exit A",
 		"Lower Kent Ridge Rd"
 	],
@@ -7556,7 +7556,7 @@
 	"28021": [
 		103.75545,
 		1.32616,
-		"Opp 8 @Tradehub 21",
+		"Opp 8 @ Tradehub 21",
 		"Boon Lay Way"
 	],
 	"28029": [
@@ -8501,18 +8501,6 @@
 		"Bef Nanyang Ave",
 		"Jln Bahar"
 	],
-	"31021": [
-		103.69288,
-		1.36247,
-		"Jln Bahar Power Stn",
-		"Jln Bahar"
-	],
-	"31029": [
-		103.69297,
-		1.36308,
-		"Opp Jln Bahar Power Stn",
-		"Jln Bahar"
-	],
 	"31031": [
 		103.69327,
 		1.36599,
@@ -8548,42 +8536,6 @@
 		1.37208,
 		"Aft Cemy Chapel",
 		"Jln Bahar"
-	],
-	"31061": [
-		103.69557,
-		1.37595,
-		"Opp Lim Chu Kang Camp II",
-		"Lim Chu Kang Rd"
-	],
-	"31069": [
-		103.69551,
-		1.37493,
-		"Bef Old Choa Chu Kang Rd",
-		"Lim Chu Kang Rd"
-	],
-	"31071": [
-		103.69626,
-		1.37853,
-		"Aft Chinese Cemy Path 11",
-		"Lim Chu Kang Rd"
-	],
-	"31079": [
-		103.69632,
-		1.37769,
-		"Opp Chinese Cemy Path 11",
-		"Lim Chu Kang Rd"
-	],
-	"31081": [
-		103.69733,
-		1.38056,
-		"Opp HQ 5th SIB Camp I",
-		"Old Lim Chu Kang Rd"
-	],
-	"31089": [
-		103.69712,
-		1.37993,
-		"HQ 5th SIB Camp I",
-		"Old Lim Chu Kang Rd"
 	],
 	"31121": [
 		103.688,
@@ -8669,76 +8621,10 @@
 		"B25 Old Choa Chu Kang Rd",
 		"Old Choa Chu Kang Rd"
 	],
-	"31201": [
-		103.69659,
-		1.38045,
-		"Aft Chinese Cemy Path 13",
-		"Lim Chu Kang Rd"
-	],
-	"31211": [
-		103.697,
-		1.38284,
-		"Aft Muslim Cemy Path 17",
-		"Lim Chu Kang Rd"
-	],
-	"32031": [
-		103.70078,
-		1.4027,
-		"Opp Ama Keng Rd",
-		"Lim Chu Kang Rd"
-	],
-	"32039": [
-		103.70081,
-		1.40252,
-		"Aft Ama Keng Rd",
-		"Lim Chu Kang Rd"
-	],
-	"32041": [
-		103.70166,
-		1.40436,
-		"Opp LP 160",
-		"Lim Chu Kang Rd"
-	],
-	"32049": [
-		103.70187,
-		1.40452,
-		"Aft LP 161",
-		"Lim Chu Kang Rd"
-	],
-	"32051": [
-		103.70098,
-		1.40929,
-		"Aft Track 11",
-		"Lim Chu Kang Rd"
-	],
-	"32059": [
-		103.70121,
-		1.40903,
-		"Opp Track 11",
-		"Lim Chu Kang Rd"
-	],
-	"32061": [
-		103.70006,
-		1.41146,
-		"Opp LP 173",
-		"Lim Chu Kang Rd"
-	],
-	"32069": [
-		103.70038,
-		1.41103,
-		"B26 Lim Chu Kang Rd",
-		"Lim Chu Kang Rd"
-	],
 	"32071": [
 		103.70057,
 		1.41602,
 		"Aft Track 13",
-		"Lim Chu Kang Rd"
-	],
-	"32079": [
-		103.70027,
-		1.41513,
-		"Opp Track 13",
 		"Lim Chu Kang Rd"
 	],
 	"32081": [
@@ -8753,28 +8639,52 @@
 		"Aft Sg Gedong Camp",
 		"Lim Chu Kang Rd"
 	],
-	"32101": [
-		103.69744,
-		1.38541,
-		"Aft Murai Farmway",
+	"32121": [
+		103.68517,
+		1.37292,
+		"Aft Old Choa Chu Kang Rd",
 		"Lim Chu Kang Rd"
 	],
-	"32109": [
-		103.6977,
-		1.38572,
-		"Bef Lor Serambi",
+	"32129": [
+		103.68549,
+		1.37359,
+		"Bef Old Choa Chu Kang Rd",
 		"Lim Chu Kang Rd"
 	],
-	"32111": [
-		103.69965,
-		1.39837,
-		"Aft LP 93",
+	"32131": [
+		103.68414,
+		1.38177,
+		"Bef Chinese & Muslim Cemy",
 		"Lim Chu Kang Rd"
 	],
-	"32119": [
-		103.69988,
-		1.39858,
-		"Aft LP 96",
+	"32139": [
+		103.68459,
+		1.38083,
+		"Aft Chinese & Muslim Cemy",
+		"Lim Chu Kang Rd"
+	],
+	"32141": [
+		103.69183,
+		1.39517,
+		"B27 Lim Chu Kang Rd",
+		"Lim Chu Kang Rd"
+	],
+	"32149": [
+		103.69213,
+		1.39501,
+		"B26 Lim Chu Kang Rd",
+		"Lim Chu Kang Rd"
+	],
+	"32151": [
+		103.69662,
+		1.41409,
+		"Opp Lim Chu Kang Substation No. 1",
+		"Lim Chu Kang Rd"
+	],
+	"32159": [
+		103.69734,
+		1.41403,
+		"Bef Lim Chu Kang Substation No. 1",
 		"Lim Chu Kang Rd"
 	],
 	"33011": [
@@ -8902,18 +8812,6 @@
 		1.44234,
 		"Yishun Dairy Farm",
 		"Lim Chu Kang Rd"
-	],
-	"34101": [
-		103.6979,
-		1.38441,
-		"Aft Old Lim Chu Kang Rd",
-		"Lor Rusuk"
-	],
-	"34109": [
-		103.69811,
-		1.3843,
-		"Aft Lim Chu Kang Rd",
-		"Lor Rusuk"
 	],
 	"40011": [
 		103.84909,
@@ -19062,14 +18960,14 @@
 		"Bidadari Pk Dr"
 	],
 	"61121": [
-		103.87418,
-		1.34164,
+		103.87548,
+		1.34177,
 		"Opp Blk 212",
 		"Bidadari Pk Dr"
 	],
 	"61129": [
-		103.87548,
-		1.34177,
+		103.87418,
+		1.34164,
 		"Blk 212",
 		"Bidadari Pk Dr"
 	],
@@ -20432,7 +20330,7 @@
 	"65009": [
 		103.90224,
 		1.40371,
-		"Punggol Temp Int",
+		"Punggol Int",
 		"Punggol Pl"
 	],
 	"65011": [
@@ -20632,6 +20530,18 @@
 		1.40041,
 		"Blk 201A",
 		"Punggol Field"
+	],
+	"65211": [
+		103.90271,
+		1.40269,
+		"Bef Punggol Int",
+		"Punggol Pl"
+	],
+	"65219": [
+		103.90342,
+		1.40354,
+		"Opp Punggol Int",
+		"Punggol Pl"
 	],
 	"65221": [
 		103.90481,
@@ -20841,19 +20751,19 @@
 		103.91385,
 		1.39945,
 		"Horizon Pr Sch",
-		"Edgefield Plains"
+		"Edgedale Plains"
 	],
 	"65419": [
 		103.91395,
 		1.39946,
 		"Opp Horizon Pr Sch",
-		"Edgefield Plains"
+		"Edgedale Plains"
 	],
 	"65429": [
 		103.91202,
 		1.39679,
 		"Greendale Pr Sch",
-		"Edgefield Plains"
+		"Edgedale Plains"
 	],
 	"65431": [
 		103.89674,
@@ -21160,6 +21070,18 @@
 		1.41468,
 		"Punggol Coast Station",
 		"New Punggol Road"
+	],
+	"65731": [
+		103.90682,
+		1.41325,
+		"Teck Lee Stn Exit B",
+		"Sentul Wk"
+	],
+	"65739": [
+		103.90695,
+		1.41314,
+		"Teck Lee Stn Exit A",
+		"Sentul Wk"
 	],
 	"65801": [
 		103.8857,
@@ -22864,6 +22786,12 @@
 		1.4136,
 		"Seletar Airport",
 		"Seletar Aerospace View"
+	],
+	"69009": [
+		103.90856,
+		1.4148,
+		"Punggol Coast Int",
+		"Sentul Wk"
 	],
 	"70011": [
 		103.88116,
@@ -26319,6 +26247,18 @@
 		103.89864,
 		1.30738,
 		"Tg Katong Sec Sch",
+		"Haig Rd"
+	],
+	"82251": [
+		103.89967,
+		1.3051,
+		"Tg Katong Pr Sch",
+		"Haig Rd"
+	],
+	"82259": [
+		103.90009,
+		1.30392,
+		"Opp Tg Katong Pr Sch",
 		"Haig Rd"
 	],
 	"83011": [

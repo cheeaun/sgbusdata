@@ -1,8 +1,12 @@
 [
 	{
-		"name": "From Punggol Temp Int to Sembawang Int",
+		"name": "From Punggol Coast Int to Sembawang Int",
 		"stops": [
-			"65009",
+			"69009",
+			"65739",
+			"65481",
+			"65351",
+			"65219",
 			"65341",
 			"65331",
 			"65431",
@@ -47,7 +51,7 @@
 		]
 	},
 	{
-		"name": "From Sembawang Int to Punggol Temp Int",
+		"name": "From Sembawang Int to Punggol Coast Int",
 		"stops": [
 			"58009",
 			"58259",
@@ -90,7 +94,11 @@
 			"65439",
 			"65339",
 			"65349",
-			"65009"
+			"65211",
+			"65359",
+			"65489",
+			"65731",
+			"69009"
 		]
 	}
 ]

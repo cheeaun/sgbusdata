@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Ang Mo Kio Int to Punggol Temp Int",
+		"name": "From Ang Mo Kio Int to Punggol Int",
 		"stops": [
 			"54009",
 			"54248",
@@ -45,7 +45,7 @@
 		]
 	},
 	{
-		"name": "From Punggol Temp Int to Ang Mo Kio Int",
+		"name": "From Punggol Int to Ang Mo Kio Int",
 		"stops": [
 			"65009",
 			"65221",
