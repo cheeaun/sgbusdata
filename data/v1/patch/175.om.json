@@ -2989,7 +2989,7 @@
 		{
 			"BUS_SEQUENCE": 62,
 			"START_BUS_STOP": "BLK 455",
-			"END_BUS_STOP": "CLEMENTI STN EXIT A",
+			"END_BUS_STOP": "Clementi Stn Exit A/Mall",
 			"START_BUS_STOP_NUM": "17161",
 			"START_BUS_STOP_LATLNG": "1.3124099360360528, 103.76685476875126",
 			"END_BUS_STOP_NUM": "17171",
@@ -3045,7 +3045,7 @@
 		},
 		{
 			"BUS_SEQUENCE": 63,
-			"START_BUS_STOP": "CLEMENTI STN EXIT A",
+			"START_BUS_STOP": "Clementi Stn Exit A/Mall",
 			"END_BUS_STOP": "CLEMENTI INT",
 			"START_BUS_STOP_NUM": "17171",
 			"START_BUS_STOP_LATLNG": "1.3149739926861135, 103.76502698264449",
@@ -3094,7 +3094,7 @@
 					1.31492
 				]
 			],
-			"roadName": "CLEMENTI STN EXIT A"
+			"roadName": "Clementi Stn Exit A/Mall"
 		}
 	],
 	"BUS_DIRECTION_TWO": null

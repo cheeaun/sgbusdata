@@ -6204,7 +6204,6 @@
 				"84351",
 				"84651",
 				"84009",
-				"84009",
 				"84659",
 				"84359",
 				"84211",
@@ -7005,7 +7004,7 @@
 		]
 	},
 	"78": {
-		"name": "Jurong Town Hall Int ⟲ Clementi Stn Exit A",
+		"name": "Jurong Town Hall Int ⟲ Clementi Stn Exit A/Mall",
 		"routes": [
 			[
 				"29009",
@@ -8436,7 +8435,7 @@
 		]
 	},
 	"100": {
-		"name": "S'Goon Int ⇄ Ghim Moh Ter",
+		"name": "Serangoon Int ⇄ Ghim Moh Ter",
 		"routes": [
 			[
 				"66009",
@@ -8556,7 +8555,7 @@
 		]
 	},
 	"101": {
-		"name": "S'Goon Int ⟲ Outside Blk 991B",
+		"name": "Serangoon Int ⟲ Blk 991B",
 		"routes": [
 			[
 				"66009",
@@ -8676,7 +8675,7 @@
 		]
 	},
 	"103": {
-		"name": "S'Goon Int ⇄ Yishun Int",
+		"name": "Serangoon Int ⇄ Yishun Int",
 		"routes": [
 			[
 				"66009",
@@ -8770,7 +8769,7 @@
 		]
 	},
 	"105": {
-		"name": "S'Goon Int ⇄ Jurong East Int",
+		"name": "Serangoon Int ⇄ Jurong East Int",
 		"routes": [
 			[
 				"66009",
@@ -9088,7 +9087,7 @@
 		]
 	},
 	"109": {
-		"name": "S'Goon Int ⇄ Changi Village Ter",
+		"name": "Serangoon Int ⇄ Changi Village Ter",
 		"routes": [
 			[
 				"66009",
@@ -9857,7 +9856,7 @@
 		]
 	},
 	"123": {
-		"name": "Bt Merah Int ⇄ Beach Station Bus Terminal",
+		"name": "Bt Merah Int ⇄ Beach Stn Ter",
 		"routes": [
 			[
 				"10009",
@@ -11718,7 +11717,7 @@
 		]
 	},
 	"148": {
-		"name": "Woodleigh Int ⟲ Blk 121",
+		"name": "Woodleigh Int ⟲ Blk 120",
 		"routes": [
 			[
 				"68009",
@@ -11733,6 +11732,7 @@
 				"60261",
 				"61119",
 				"70069",
+				"69099",
 				"61121",
 				"68009"
 			]
@@ -12501,7 +12501,7 @@
 		]
 	},
 	"158": {
-		"name": "S'Goon Int ⟲ Opp Costa Rhu Condo",
+		"name": "Serangoon Int ⟲ Opp Costa Rhu Condo",
 		"routes": [
 			[
 				"66009",
@@ -17505,7 +17505,7 @@
 		]
 	},
 	"315": {
-		"name": "S'Goon Int ⟲ Blk 538",
+		"name": "Serangoon Int ⟲ Blk 538",
 		"routes": [
 			[
 				"66009",
@@ -17544,7 +17544,7 @@
 		]
 	},
 	"317": {
-		"name": "S'Goon Int ⟲ Opp Bloxhome Dr",
+		"name": "Serangoon Int ⟲ Opp Bloxhome Dr",
 		"routes": [
 			[
 				"66009",
@@ -18283,7 +18283,7 @@
 		]
 	},
 	"506": {
-		"name": "Jurong East Int ⇄ S'Goon Int",
+		"name": "Jurong East Int ⇄ Serangoon Int",
 		"routes": [
 			[
 				"28009",
@@ -18525,7 +18525,7 @@
 		]
 	},
 	"652": {
-		"name": "Opp Sembawang Hills FC / Bef Sembawang Hills Fc ⇄ Opp MAS Bldg / Aft Enggor St",
+		"name": "Opp Sembawang Hills FC / Bef Sembawang Hills FC ⇄ Opp MAS Bldg / Aft Enggor St",
 		"routes": [
 			[
 				"56021",
@@ -19836,8 +19836,7 @@
 				"59351",
 				"59161",
 				"59072",
-				"59008",
-				"59008",
+				"59009",
 				"59091",
 				"59101",
 				"59121",
@@ -23238,7 +23237,7 @@
 		]
 	},
 	"100A": {
-		"name": "S'Goon Int → Aljunied Stn",
+		"name": "Serangoon Int → Aljunied Stn",
 		"routes": [
 			[
 				"66009",
@@ -23408,7 +23407,7 @@
 		]
 	},
 	"109A": {
-		"name": "S'Goon Int → Blk 913",
+		"name": "Serangoon Int → Blk 913",
 		"routes": [
 			[
 				"66009",
@@ -24900,7 +24899,7 @@
 		]
 	},
 	"17A": {
-		"name": "Bedok Int → Sbst Bedok Nth Depot",
+		"name": "Bedok Int → SBST Bedok Nth Depot",
 		"routes": [
 			[
 				"84009",
@@ -26502,7 +26501,7 @@
 		]
 	},
 	"43M": {
-		"name": "Punggol Int ⟲ Serangoon Stadium",
+		"name": "Punggol Int ⟲ S'goon Stadium",
 		"routes": [
 			[
 				"65009",
@@ -27795,7 +27794,7 @@
 		]
 	},
 	"84W": {
-		"name": "Punggol Int ⟲ Opposite Blk 437B",
+		"name": "Punggol Int ⟲ Opp Blk 437B",
 		"routes": [
 			[
 				"65009",
@@ -28150,6 +28149,24 @@
 				"58129",
 				"58119",
 				"58159"
+			]
+		]
+	},
+	"856C": {
+		"name": "Blk 23 → Bef British American Tobacco",
+		"routes": [
+			[
+				"46111",
+				"46121",
+				"46131",
+				"47011",
+				"47201",
+				"47021",
+				"47031",
+				"47041",
+				"47051",
+				"47061",
+				"47071"
 			]
 		]
 	},
@@ -29043,7 +29060,7 @@
 		]
 	},
 	"925A": {
-		"name": "Woodlands Temp Int → Kranji Reservoir Pk B",
+		"name": "Woodlands Temp Int → Kranji Resvr Pk B",
 		"routes": [
 			[
 				"47009",
@@ -29484,7 +29501,7 @@
 		]
 	},
 	"962B": {
-		"name": "Opp Sun Plaza → Sun Plaza/Sembawang Stn",
+		"name": "Opp Sun Plaza → Sun Plaza/ Sembawang Stn",
 		"routes": [
 			[
 				"58259",
@@ -29697,7 +29714,7 @@
 		]
 	},
 	"96B": {
-		"name": "Aft Architecture Dr → Clementi Stn Exit A",
+		"name": "Bef Architecture Dr → Clementi Stn Exit A/Mall",
 		"routes": [
 			[
 				"16199",

@@ -1,3 +1,172 @@
+# 1 August 2025
+
+### Stops added: 1
+
+- `69099` Blk 227
+
+### Stops removed: 1
+
+- `59008` Yishun Int
+
+### Stop names changed: 130
+
+- `10287` Opposite Cycle & Carriage ⮕ Opp Cycle & Carriage
+- `11001` Opposite Ghim Moh Terminal ⮕ Opp Ghim Moh Ter
+- `11401` Holland V Stn/Blk12 ⮕ Holland V Stn/Blk 12
+- `14281` Safra Mt Faber ⮕ SAFRA Mt Faber
+- `14539` Beach Station Bus Terminal ⮕ Beach Stn Ter
+- `16091` Opp SIT Dover ⮕ NUS Sports Ctr
+- `16099` SIT Dover ⮕ Opp NUS Sports Ctr
+- `16199` Aft Architecture Dr ⮕ Bef Architecture Dr
+- `17089` Before West Coast Crescent ⮕ Bef West Coast Cres
+- `17099` Yale-NUS College ⮕ UTown - Cendana
+- `17171` Clementi Stn Exit A ⮕ Clementi Stn Exit A/Mall
+- `18011` Aft Hortpark ⮕ Aft HortPark
+- `18051` One-North Stn ⮕ one-north Stn
+- `18059` Opp One-North Stn ⮕ Opp one-north Stn
+- `18151` Opp One-North Stn/Galaxis ⮕ Opp one-north Stn/Galaxis
+- `18159` One-North Stn/Galaxis ⮕ one-north Stn/Galaxis
+- `19059` University Town ⮕ UTown - RC4
+- `20131` S'pore Food Industries Bldg ⮕ S'pore Food Ind Bldg
+- `21151` CWT Distripark ⮕ CWT Distripk
+- `21511` Opp Amoy Canning ⮕ Bef Chin Bee Rd
+- `21519` Amoy Canning ⮕ Aft Chin Bee Rd
+- `21729` Opposite Blk 239A ⮕ Opp Blk 239A
+- `22179` Secura S'Pore ⮕ Secura S'pore
+- `22561` Blk 660 Cp ⮕ Blk 660 CP
+- `25199` Rockwool Building Materials ⮕ Rockwool Bldg Materials
+- `28021` Opp 8 @ Tradehub 21 ⮕ Opp 8 @Tradehub 21
+- `28199` Opposite JEM ⮕ Opp Jem
+- `31131` Aft Track 33 ⮕ CCK Cemy Office
+- `31139` Bef Track 33 ⮕ Opp CCK Cemy Office
+- `31141` CCK Cemy Office ⮕ Aft Gdn of Remembrance
+- `31149` Opp CCK Cemy Office ⮕ Bef Gdn of Remembrance
+- `40101` Kk Women & Children Hosp ⮕ KK Women & Children Hosp
+- `40249` St. Joseph'S Instn ⮕ St. Joseph's Instn
+- `40279` Kk Women & Children Hosp ⮕ KK Women & Children Hosp
+- `40379` Blk 467 Cp ⮕ Blk 467 CP
+- `40389` Blk 119 ⮕ Tengah CC
+- `40439` Opposite Blk 236A ⮕ Opp Blk 236A
+- `42139` Ave Villa ⮕ Avenue Villa
+- `43211` Sbst Bt Batok Depot ⮕ SBST Bt Batok Depot
+- `43219` Opp Sbst Bt Batok Depot ⮕ Opp SBST Bt Batok Depot
+- `43631` Ppis Bt Batok ⮕ PPIS Bt Batok
+- `43639` Opp Ppis Bt Batok ⮕ Opp PPIS Bt Batok
+- `44499` Blk 429A Cp ⮕ Blk 429A CP
+- `44839` West Spring Pri Sch ⮕ West Spring Pr Sch
+- `44869` Bef Blk 629A Cp ⮕ Bef Blk 629A CP
+- `46109` W'Lands Checkpt ⮕ W'lands Checkpt
+- `46339` Bef W'Lands Stn Exit 7 ⮕ Bef W'lands Stn Exit 7
+- `46389` Aft W'Lands Ind Pk D St 1 ⮕ Aft W'lands Ind Pk D St 1
+- `46481` Aft Woodlands Ind Pk E6 ⮕ Aft W'lands Ind Pk E6
+- `46631` W'Lands Stn Exit 5 ⮕ W'lands Stn Exit 5
+- `46639` W'Lands Stn Exit 4 ⮕ W'lands Stn Exit 4
+- `47021` Khalsa Crescent Drug Rehab Ctr ⮕ Khalsa Cres Drug Rehab Ctr
+- `47029` Opp Khalsa Crescent Drug Rehab Ctr ⮕ Opp Khalsa Cres Drug Rehab Ctr
+- `47101` Aft Senoko Ave ⮕ Bef Senoko Ave
+- `47109` Maxsteel Enterprise ⮕ MaxSteel Enterprise
+- `47749` Woodlands Health Campus ⮕ W'lands Health Campus
+- `49199` Kranji Reservoir Pk B ⮕ Kranji Resvr Pk B
+- `52241` Bef Caldecott Stn/Savh ⮕ Bef Caldecott Stn/SAVH
+- `52501` Toa Payoh Swim Cplx ⮕ Bef Toa Payoh Pk
+- `53021` Lakeview Estate ⮕ Lakeview Est
+- `54409` Opp Blk 522 ⮕ Jing Shan Pr Sch
+- `55071` Bef Econ Medicare Ctr ⮕ Bef ECON Medicare Ctr
+- `55079` Aft Econ Medicare Ctr ⮕ Aft ECON Medicare Ctr
+- `55151` Ang Mo Kio Comm Hosp ⮕ Ang Mo Kio Community Hosp
+- `55159` Opp Ang Mo Kio Comm Hosp ⮕ Opp Ang Mo Kio Cmty Hosp
+- `56011` Bef adana at thomson ⮕ Bef Adana @ Thomson
+- `56029` Bef Sembawang Hills Fc ⮕ Bef Sembawang Hills FC
+- `56269` BEF Ang mo kio avenue 2 ⮕ Bef Ang Mo Kio Ave 2
+- `58251` Sun Plaza/Sembawang Stn ⮕ Sun Plaza/ Sembawang Stn
+- `58361` Nth Link Bldg ⮕ Nth Lk Bldg
+- `58571` Gambas Ave ⮕ Bef Sembawang Ave
+- `58579` Gambas Ave ⮕ Aft Sembawang Ave
+- `58621` Blk 126 Cp ⮕ Blk 126 CP
+- `59671` Before Yishun Station ⮕ Bef Yishun Stn
+- `59829` Opposite Blk 334B ⮕ Opp Blk 334B
+- `62101` Bef Upp Serangoon Rd ⮕ Bef Upp S'goon Rd
+- `62109` Aft Upp Serangoon Rd ⮕ Aft Upp S'goon Rd
+- `62161` St.Gabriel's Sec Sch ⮕ St. Gabriel's Sec Sch
+- `63149` Serangoon Stadium ⮕ S'goon Stadium
+- `63161` Serangoon Swim Cplx ⮕ S'goon Swim Cplx
+- `63169` Opp Serangoon Swim Cplx ⮕ Opp S'goon Swim Cplx
+- `63189` Aft Serangoon Gdn Way ⮕ Aft S'goon Gdn Way
+- `63191` Aft Serangoon Nth Ave 1 ⮕ Aft S'goon Nth Ave 1
+- `63301` Paya Lebar Meth Girls' Sc ⮕ Paya Lebar Meth Girls' Sch
+- `63369` Serangoon Sports Cplx ⮕ S'goon Sports Cplx
+- `64061` Opp Serangoon Sec Sch ⮕ Opp S'goon Sec Sch
+- `64069` Serangoon Sec Sch ⮕ S'goon Sec Sch
+- `64397` Block 513 ⮕ Blk 513
+- `65181` Atf Punggol Ctrl ⮕ Aft Punggol Ctrl
+- `65559` Opposite Blk 227A ⮕ Opp Blk 227A
+- `65671` Punggol cove pr sch ⮕ Punggol Cove Pr Sch
+- `65679` Opp punggol cove pr sch ⮕ Opp Punggol Cove Pr Sch
+- `65691` Opposite Blk 437B ⮕ Opp Blk 437B
+- `65701` Opposite SIT Punggol ⮕ Opp SIT Punggol
+- `65709` Before SIT Punggol ⮕ Bef SIT Punggol
+- `65721` Opposite Punggol Coast Station ⮕ Opp Punggol Coast Stn
+- `65729` Punggol Coast Station ⮕ Punggol Coast Stn
+- `66009` S'Goon Int ⮕ Serangoon Int
+- `66271` Serangoon Gdn Circus ⮕ S'goon Gdn Circus
+- `66561` Outside Blk 991B ⮕ Blk 991B
+- `67079` Ch Of St. Vincent De Paul ⮕ Ch of St. Vincent de Paul
+- `68181` Bef Jtc Aerospace ⮕ Bef JTC Aerospace
+- `68189` Bef Seletar A'Space Cres ⮕ Aft JTC Aerospace
+- `68191` Bef Seletar A'Space Lk ⮕ Bef Seletar A'space Lk
+- `68199` Aft Seletar A'Space Lk ⮕ Aft Seletar A'space Lk
+- `71171` Opp Scdf Hq ⮕ Opp SCDF HQ
+- `71179` Aft Scdf Hq ⮕ Aft SCDF HQ
+- `71331`  Kaki Bt Autohub ⮕ Kaki Bt Autohub
+- `71339`  Opp Kaki Bt Autohub ⮕ Opp Kaki Bt Autohub
+- `74031` Bef Tampines Ik ⮕ Bef Tampines Lk
+- `76431`  Blk 333 ⮕ Blk 333
+- `76541` Citylife@ Tampines ⮕ Citylife @ Tampines
+- `76549` Opp Citylife@ Tampines ⮕ Opp Citylife @ Tampines
+- `77231` Tampines Meridian Jc ⮕ Tampines Meridian JC
+- `77409` Opposite UMC ⮕ Opp UMC
+- `78199` Opp White Sands Pri Sch ⮕ Opp White Sands Pr Sch
+- `81101` CISCO Ctr ⮕ Paya Lebar Green
+- `81109` Opp CISCO Ctr ⮕ Opp Paya Lebar Green
+- `82061` Eunos Stn/ Int ⮕ Eunos Stn/Int
+- `84261` Saint Anthony's Canossian School ⮕ St. Anthony's Cano Sch
+- `84591` Sbst Bedok Nth Depot ⮕ SBST Bedok Nth Depot
+- `84599` Opp Sbst Bedok Nth Depot ⮕ Opp SBST Bedok Nth Depot
+- `92081` St. Patrick's Sec Sch ⮕ St. Patrick's Sch
+- `92181` 112 Katong ⮕ i12 Katong
+- `92189` Opp 112 Katong ⮕ Opp i12 Katong
+- `94029` Aft Sennet Rd ⮕ Aft Sennett Rd
+- `96461` Before Aviation Park Road ⮕ Bef Aviation Pk Rd
+- `96471` Bef Changi Coast Road ⮕ Bef Changi Coast Rd
+- `96479` After Changi Coast Road ⮕ Aft Changi Coast Rd
+- `05239` Bef The Pinnacle@Duxton ⮕ Bef The Pinnacle @Duxton
+
+### Stop locations changed: 2
+
+- `65809` 103.88631,1.39121 ⮕ 103.88605,1.39067
+- `95051` 103.9962,1.37528 ⮕ 103.9962,1.37528
+
+## Services count change: 575 ⮕ 576
+
+### Services added: 1
+
+- `856C` Blk 23 → Bef British American Tobacco
+
+### Bus Stop Changes To Routes: 3
+
+- `812` Yishun Int ⟲ Blk 121: +1, -2
+- `69` Tampines Int ⟲ Bedok Int: -1
+- `148` Woodleigh Int ⟲ Blk 120: +1
+
+## Routes changed: 2
+
+- `502` Soon Lee Bus Pk ⟲ Raffles Hotel
+- `856C` Blk 23 → Bef British American Tobacco
+
+## First/last timings changed
+
+Affected services: `14`, `21`, `22`, `28`, `45`, `46`, `69`, `136`, `148`, `159`, `163`, `168`, `182`, `222`, `228`, `248`, `265`, `325`, `812`, `993`, `182M`, `248M`, `14e`, `856C`
+
 # 2 July 2025
 
 ## Stops count change: 5170 ⮕ 5160

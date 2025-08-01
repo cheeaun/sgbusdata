@@ -653,14 +653,14 @@
 	{
 		"BusStopCode": "04019",
 		"RoadName": "Bencoolen St",
-		"Description": "OPP BENCOOLEN STN EXIT B",
+		"Description": "Opp Bencoolen Stn Exit B",
 		"Latitude": 1.29807216909408,
 		"Longitude": 103.84975607305783
 	},
 	{
 		"BusStopCode": "04029",
 		"RoadName": "Bencoolen St",
-		"Description": "BEF BENCOOLEN STN EXIT A",
+		"Description": "Bef Bencoolen Stn Exit A",
 		"Latitude": 1.29948166696821,
 		"Longitude": 103.85092666701239
 	},
@@ -702,14 +702,14 @@
 	{
 		"BusStopCode": "04151",
 		"RoadName": "Victoria St",
-		"Description": "Cath Of The Good Shepherd",
+		"Description": "Cath of The Good Shepherd",
 		"Latitude": 1.29533777799211,
 		"Longitude": 103.85113972198121
 	},
 	{
 		"BusStopCode": "04159",
 		"RoadName": "Victoria St",
-		"Description": "Aft Chijmes",
+		"Description": "Aft CHIJMES",
 		"Latitude": 1.29489484954945,
 		"Longitude": 103.85108138663934
 	},
@@ -814,21 +814,21 @@
 	{
 		"BusStopCode": "04331",
 		"RoadName": "River Valley Rd",
-		"Description": "BEF FORT CANNING STN",
+		"Description": "Bef Fort Canning Stn",
 		"Latitude": 1.29183939431601,
 		"Longitude": 103.84504089382705
 	},
 	{
 		"BusStopCode": "04339",
 		"RoadName": "River Valley Rd",
-		"Description": "FORT CANNING STN EXIT B",
+		"Description": "Fort Canning Stn Exit B",
 		"Latitude": 1.29221099996741,
 		"Longitude": 103.84500500002959
 	},
 	{
 		"BusStopCode": "05012",
 		"RoadName": "Eu Tong Sen St",
-		"Description": "Bef Pearl'S Hill Terr",
+		"Description": "Bef Pearl's Hill Terr",
 		"Latitude": 1.28154583300728,
 		"Longitude": 103.84087722199499
 	},
@@ -926,7 +926,7 @@
 	{
 		"BusStopCode": "05239",
 		"RoadName": "Neil Rd",
-		"Description": "Bef The Pinnacle@Duxton",
+		"Description": "Bef The Pinnacle @Duxton",
 		"Latitude": 1.27854113014976,
 		"Longitude": 103.8415105424013
 	},
@@ -1087,7 +1087,7 @@
 	{
 		"BusStopCode": "06049",
 		"RoadName": "Outram Rd",
-		"Description": "BEF OUTRAM FLYOVER",
+		"Description": "Bef Outram Flyover",
 		"Latitude": 1.28474856880259,
 		"Longitude": 103.83517705055233
 	},
@@ -1241,7 +1241,7 @@
 	{
 		"BusStopCode": "07241",
 		"RoadName": "Lavender St",
-		"Description": "Bef S'Goon Rd",
+		"Description": "Bef S'goon Rd",
 		"Latitude": 1.31557142083242,
 		"Longitude": 103.85900616698896
 	},
@@ -1276,14 +1276,14 @@
 	{
 		"BusStopCode": "07351",
 		"RoadName": "Lavender St",
-		"Description": "ARC 380",
+		"Description": "Arc 380",
 		"Latitude": 1.31351833300073,
 		"Longitude": 103.86054527803076
 	},
 	{
 		"BusStopCode": "07359",
 		"RoadName": "Lavender St",
-		"Description": "OPP ARC 380",
+		"Description": "Opp Arc 380",
 		"Latitude": 1.31368253065979,
 		"Longitude": 103.86071451807119
 	},
@@ -1325,21 +1325,21 @@
 	{
 		"BusStopCode": "07517",
 		"RoadName": "Bencoolen St",
-		"Description": "IBIS S'PORE ON BENCOOLEN",
+		"Description": "ibis S'pore on Bencoolen",
 		"Latitude": 1.30145216158073,
 		"Longitude": 103.85247781934106
 	},
 	{
 		"BusStopCode": "07518",
 		"RoadName": "Bencoolen St",
-		"Description": "OPP NAFA CAMPUS 3",
+		"Description": "Opp NAFA Campus 3",
 		"Latitude": 1.30095828368506,
 		"Longitude": 103.85211175034802
 	},
 	{
 		"BusStopCode": "07529",
 		"RoadName": "Jln Besar",
-		"Description": "JLN BESAR STN EXIT A",
+		"Description": "Jln Besar Stn Exit A",
 		"Latitude": 1.30431906266143,
 		"Longitude": 103.85501564257024
 	},
@@ -1381,7 +1381,7 @@
 	{
 		"BusStopCode": "07571",
 		"RoadName": "Middle Rd",
-		"Description": "SUNSHINE PLAZA",
+		"Description": "Sunshine Plaza",
 		"Latitude": 1.30063444632288,
 		"Longitude": 103.85114009314601
 	},
@@ -1444,7 +1444,7 @@
 	{
 		"BusStopCode": "08079",
 		"RoadName": "Prinsep St",
-		"Description": "Sch of the Arts",
+		"Description": "Sch of The Arts",
 		"Latitude": 1.29921444445586,
 		"Longitude": 103.84910329217985
 	},
@@ -1633,7 +1633,7 @@
 	{
 		"BusStopCode": "10011",
 		"RoadName": "New Bridge Rd",
-		"Description": "BEF NEIL RD",
+		"Description": "Bef Neil Rd",
 		"Latitude": 1.2777380589964,
 		"Longitude": 103.83749709165197
 	},
@@ -1661,14 +1661,14 @@
 	{
 		"BusStopCode": "10041",
 		"RoadName": "Kg Bahru Rd",
-		"Description": "BEF KAMPONG BAHRU TER",
+		"Description": "Bef Kampong Bahru Ter",
 		"Latitude": 1.27605834770353,
 		"Longitude": 103.83519065305671
 	},
 	{
 		"BusStopCode": "10049",
 		"RoadName": "Kg Bahru Rd",
-		"Description": "OPP KAMPONG BAHRU TER",
+		"Description": "Opp Kampong Bahru Ter",
 		"Latitude": 1.27623302424393,
 		"Longitude": 103.83483786772155
 	},
@@ -1745,14 +1745,14 @@
 	{
 		"BusStopCode": "10101",
 		"RoadName": "Jln Bt Merah",
-		"Description": "OPP BT MERAH SEC SCH",
+		"Description": "Opp Bt Merah Sec Sch",
 		"Latitude": 1.28506195168861,
 		"Longitude": 103.8137833011436
 	},
 	{
 		"BusStopCode": "10109",
 		"RoadName": "Jln Bt Merah",
-		"Description": "BT MERAH SEC SCH",
+		"Description": "Bt Merah Sec Sch",
 		"Latitude": 1.28535315729277,
 		"Longitude": 103.81370529674271
 	},
@@ -1850,7 +1850,7 @@
 	{
 		"BusStopCode": "10181",
 		"RoadName": "Tiong Bahru Rd",
-		"Description": "BEF AR-RABITAH MQUE",
+		"Description": "Bef Ar-Rabitah Mque",
 		"Latitude": 1.28850399420484,
 		"Longitude": 103.82109741719866
 	},
@@ -1983,7 +1983,7 @@
 	{
 		"BusStopCode": "10287",
 		"RoadName": "Alexandra Rd",
-		"Description": "Opposite Cycle & Carriage",
+		"Description": "Opp Cycle & Carriage",
 		"Latitude": 1.291914,
 		"Longitude": 103.813405
 	},
@@ -2165,14 +2165,14 @@
 	{
 		"BusStopCode": "10431",
 		"RoadName": "Lengkok Bahru",
-		"Description": "ENABLING VILLAGE",
+		"Description": "Enabling Village",
 		"Latitude": 1.287195,
 		"Longitude": 103.813984
 	},
 	{
 		"BusStopCode": "10439",
 		"RoadName": "Lengkok Bahru",
-		"Description": "OPP ENABLING VILLAGE",
+		"Description": "Opp Enabling Village",
 		"Latitude": 1.28747956947939,
 		"Longitude": 103.81418936580334
 	},
@@ -2249,7 +2249,7 @@
 	{
 		"BusStopCode": "10499",
 		"RoadName": "Spooner Rd",
-		"Description": "KAMPONG BAHRU TER",
+		"Description": "Kampong Bahru Ter",
 		"Latitude": 1.27585400417691,
 		"Longitude": 103.83401000002084
 	},
@@ -2291,7 +2291,7 @@
 	{
 		"BusStopCode": "11001",
 		"RoadName": "Ghim Moh Rd",
-		"Description": "Opposite Ghim Moh Terminal",
+		"Description": "Opp Ghim Moh Ter",
 		"Latitude": 1.311072,
 		"Longitude": 103.789159
 	},
@@ -2487,21 +2487,21 @@
 	{
 		"BusStopCode": "11159",
 		"RoadName": "C'wealth Ave",
-		"Description": "Aft Ch Of Our Saviour",
+		"Description": "Aft Ch of Our Saviour",
 		"Latitude": 1.29800440816386,
 		"Longitude": 103.80362656855579
 	},
 	{
 		"BusStopCode": "11161",
 		"RoadName": "C'wealth Ave",
-		"Description": "C'Wealth Stn Exit A/D",
+		"Description": "C'wealth Stn Exit A/D",
 		"Latitude": 1.30213305598263,
 		"Longitude": 103.79839083302141
 	},
 	{
 		"BusStopCode": "11169",
 		"RoadName": "C'wealth Ave",
-		"Description": "C'Wealth Stn Exit B/C",
+		"Description": "C'wealth Stn Exit B/C",
 		"Latitude": 1.30270500001823,
 		"Longitude": 103.79838166697326
 	},
@@ -2788,7 +2788,7 @@
 	{
 		"BusStopCode": "11401",
 		"RoadName": "Holland Ave",
-		"Description": "Holland V Stn/Blk12",
+		"Description": "Holland V Stn/Blk 12",
 		"Latitude": 1.30906722197973,
 		"Longitude": 103.79507444402137
 	},
@@ -3201,14 +3201,14 @@
 	{
 		"BusStopCode": "12201",
 		"RoadName": "Clementi Ave 6",
-		"Description": "Logishub @ Clementi",
+		"Description": "LogisHub @ Clementi",
 		"Latitude": 1.32670826856501,
 		"Longitude": 103.76399509585458
 	},
 	{
 		"BusStopCode": "12209",
 		"RoadName": "Clementi Ave 6",
-		"Description": "Opp Logishub @ Clementi",
+		"Description": "Opp LogisHub @ Clementi",
 		"Latitude": 1.32653202760922,
 		"Longitude": 103.76429968220569
 	},
@@ -3236,7 +3236,7 @@
 	{
 		"BusStopCode": "13021",
 		"RoadName": "Holland Rd",
-		"Description": "Aft Min Of Foreign Affairs",
+		"Description": "Aft Min of Foreign Affairs",
 		"Latitude": 1.30633972996805,
 		"Longitude": 103.81430670816292
 	},
@@ -3292,21 +3292,21 @@
 	{
 		"BusStopCode": "13062",
 		"RoadName": "River Valley Rd",
-		"Description": "STELLAR RV",
+		"Description": "Stellar RV",
 		"Latitude": 1.29476674399435,
 		"Longitude": 103.82853268161283
 	},
 	{
 		"BusStopCode": "13063",
 		"RoadName": "River Valley Rd",
-		"Description": "RV SUITES",
+		"Description": "RV Suites",
 		"Latitude": 1.29534692836828,
 		"Longitude": 103.82964309110659
 	},
 	{
 		"BusStopCode": "13069",
 		"RoadName": "River Valley Rd",
-		"Description": "RV RESIDENCES",
+		"Description": "RV Residences",
 		"Latitude": 1.29488000002792,
 		"Longitude": 103.82880805602646
 	},
@@ -3341,14 +3341,14 @@
 	{
 		"BusStopCode": "13091",
 		"RoadName": "River Valley Rd",
-		"Description": "AFT KIM YAM RD",
+		"Description": "Aft Kim Yam Rd",
 		"Latitude": 1.29593138900491,
 		"Longitude": 103.83937805601917
 	},
 	{
 		"BusStopCode": "13099",
 		"RoadName": "River Valley Rd",
-		"Description": "BEF KIM YAM RD",
+		"Description": "Bef Kim Yam Rd",
 		"Latitude": 1.29578024244395,
 		"Longitude": 103.83961272081199
 	},
@@ -3600,7 +3600,7 @@
 	{
 		"BusStopCode": "14129",
 		"RoadName": "Telok Blangah Rd",
-		"Description": "Harbourfront Stn Exit A",
+		"Description": "HarbourFront Stn Exit A",
 		"Latitude": 1.26607869101924,
 		"Longitude": 103.81977877391114
 	},
@@ -3789,7 +3789,7 @@
 	{
 		"BusStopCode": "14281",
 		"RoadName": "Telok Blangah Way",
-		"Description": "Safra Mt Faber",
+		"Description": "SAFRA Mt Faber",
 		"Latitude": 1.27699671573899,
 		"Longitude": 103.81804377490617
 	},
@@ -3943,14 +3943,14 @@
 	{
 		"BusStopCode": "14501",
 		"RoadName": "Telok Blangah St 31",
-		"Description": "OPP BLK 91A",
+		"Description": "Opp Blk 91A",
 		"Latitude": 1.27687216148362,
 		"Longitude": 103.80648081848618
 	},
 	{
 		"BusStopCode": "14509",
 		"RoadName": "Telok Blangah St 31",
-		"Description": "BLK 92B",
+		"Description": "Blk 92B",
 		"Latitude": 1.275651111,
 		"Longitude": 103.8068061
 	},
@@ -3978,7 +3978,7 @@
 	{
 		"BusStopCode": "14539",
 		"RoadName": "Beach View",
-		"Description": "Beach Station Bus Terminal",
+		"Description": "Beach Stn Ter",
 		"Latitude": 1.251427,
 		"Longitude": 103.818545
 	},
@@ -4153,7 +4153,7 @@
 	{
 		"BusStopCode": "15191",
 		"RoadName": "Pasir Panjang Rd",
-		"Description": "Pasir Panjang Stn/Fc",
+		"Description": "Pasir Panjang Stn/FC",
 		"Latitude": 1.27581227029734,
 		"Longitude": 103.79263571257981
 	},
@@ -4258,14 +4258,14 @@
 	{
 		"BusStopCode": "16041",
 		"RoadName": "Pasir Panjang Rd",
-		"Description": "OPP LUXE VILLE",
+		"Description": "Opp Luxe Ville",
 		"Latitude": 1.2893086506189,
 		"Longitude": 103.77660095143266
 	},
 	{
 		"BusStopCode": "16049",
 		"RoadName": "Pasir Panjang Rd",
-		"Description": "WHITEHAVEN",
+		"Description": "Whitehaven",
 		"Latitude": 1.28910696351866,
 		"Longitude": 103.77738952047318
 	},
@@ -4328,21 +4328,21 @@
 	{
 		"BusStopCode": "16091",
 		"RoadName": "AYE",
-		"Description": "Opp SIT Dover",
+		"Description": "NUS Sports Ctr",
 		"Latitude": 1.299478,
 		"Longitude": 103.779229
 	},
 	{
 		"BusStopCode": "16099",
 		"RoadName": "AYE",
-		"Description": "SIT Dover",
+		"Description": "Opp NUS Sports Ctr",
 		"Latitude": 1.30061249997689,
 		"Longitude": 103.77815138886747
 	},
 	{
 		"BusStopCode": "16101",
 		"RoadName": "Science Pk Rd",
-		"Description": "Inst Of Micro-Electronics",
+		"Description": "Inst of Micro-electronics",
 		"Latitude": 1.28923831874246,
 		"Longitude": 103.77969239279669
 	},
@@ -4419,7 +4419,7 @@
 	{
 		"BusStopCode": "16161",
 		"RoadName": "Kent Ridge Cres",
-		"Description": "Nus Museums",
+		"Description": "NUS Museums",
 		"Latitude": 1.30107500001488,
 		"Longitude": 103.77369416698464
 	},
@@ -4468,7 +4468,7 @@
 	{
 		"BusStopCode": "16199",
 		"RoadName": "Kent Ridge Cres",
-		"Description": "Aft Architecture Dr",
+		"Description": "Bef Architecture Dr",
 		"Latitude": 1.29639303583424,
 		"Longitude": 103.77072917887465
 	},
@@ -4482,7 +4482,7 @@
 	{
 		"BusStopCode": "16209",
 		"RoadName": "Pasir Panjang Rd",
-		"Description": "HORIZON RESIDENCES",
+		"Description": "Horizon Residences",
 		"Latitude": 1.28159092769912,
 		"Longitude": 103.78400650244838
 	},
@@ -4671,7 +4671,7 @@
 	{
 		"BusStopCode": "17089",
 		"RoadName": "West Coast Link",
-		"Description": "Before West Coast Crescent",
+		"Description": "Bef West Coast Cres",
 		"Latitude": 1.299684,
 		"Longitude": 103.765425
 	},
@@ -4685,7 +4685,7 @@
 	{
 		"BusStopCode": "17099",
 		"RoadName": "Clementi Rd",
-		"Description": "YALE-NUS COLLEGE",
+		"Description": "UTown - Cendana",
 		"Latitude": 1.3078304704809,
 		"Longitude": 103.77165274445558
 	},
@@ -4790,7 +4790,7 @@
 	{
 		"BusStopCode": "17171",
 		"RoadName": "C'wealth Ave West",
-		"Description": "Clementi Stn Exit A",
+		"Description": "Clementi Stn Exit A/Mall",
 		"Latitude": 1.31497399268611,
 		"Longitude": 103.76502698264449
 	},
@@ -5042,7 +5042,7 @@
 	{
 		"BusStopCode": "18011",
 		"RoadName": "Alexandra Rd",
-		"Description": "Aft Hortpark",
+		"Description": "Aft HortPark",
 		"Latitude": 1.28087089714667,
 		"Longitude": 103.8021033300325
 	},
@@ -5084,14 +5084,14 @@
 	{
 		"BusStopCode": "18051",
 		"RoadName": "Ayer Rajah Ave",
-		"Description": "One-North Stn",
+		"Description": "one-north Stn",
 		"Latitude": 1.29863776004531,
 		"Longitude": 103.7873441662514
 	},
 	{
 		"BusStopCode": "18059",
 		"RoadName": "Ayer Rajah Ave",
-		"Description": "Opp One-North Stn",
+		"Description": "Opp one-north Stn",
 		"Latitude": 1.29849138898115,
 		"Longitude": 103.78720666698497
 	},
@@ -5210,14 +5210,14 @@
 	{
 		"BusStopCode": "18151",
 		"RoadName": "Portsdown Rd",
-		"Description": "Opp One-North Stn/Galaxis",
+		"Description": "Opp one-north Stn/Galaxis",
 		"Latitude": 1.30051083054497,
 		"Longitude": 103.78864286195989
 	},
 	{
 		"BusStopCode": "18159",
 		"RoadName": "Portsdown Rd",
-		"Description": "One-North Stn/Galaxis",
+		"Description": "one-north Stn/Galaxis",
 		"Latitude": 1.3003468994065,
 		"Longitude": 103.78858368998314
 	},
@@ -5476,7 +5476,7 @@
 	{
 		"BusStopCode": "19059",
 		"RoadName": "Dover Rd",
-		"Description": "University Town",
+		"Description": "UTown - RC4",
 		"Latitude": 1.30894500001531,
 		"Longitude": 103.7727225000061
 	},
@@ -5497,7 +5497,7 @@
 	{
 		"BusStopCode": "19071",
 		"RoadName": "Dover Rd",
-		"Description": "Opp Acs Independent",
+		"Description": "Opp ACS Independent",
 		"Latitude": 1.30515500002931,
 		"Longitude": 103.78108305597279
 	},
@@ -5518,7 +5518,7 @@
 	{
 		"BusStopCode": "19089",
 		"RoadName": "Dover Rd",
-		"Description": "Acs Independent",
+		"Description": "ACS Independent",
 		"Latitude": 1.30370305599194,
 		"Longitude": 103.78184388900041
 	},
@@ -5553,14 +5553,14 @@
 	{
 		"BusStopCode": "20021",
 		"RoadName": "AYE",
-		"Description": "NEWEST",
+		"Description": "NEWest",
 		"Latitude": 1.31675923723731,
 		"Longitude": 103.75788959223745
 	},
 	{
 		"BusStopCode": "20029",
 		"RoadName": "AYE",
-		"Description": "OPP NEWEST",
+		"Description": "Opp NEWest",
 		"Latitude": 1.31772833949651,
 		"Longitude": 103.75767989744158
 	},
@@ -5651,7 +5651,7 @@
 	{
 		"BusStopCode": "20131",
 		"RoadName": "West Coast Rd",
-		"Description": "S'pore Food Industries Bldg",
+		"Description": "S'pore Food Ind Bldg",
 		"Latitude": 1.3155936163792,
 		"Longitude": 103.7518511517015
 	},
@@ -5924,7 +5924,7 @@
 	{
 		"BusStopCode": "21029",
 		"RoadName": "Jln Ahmad Ibrahim",
-		"Description": "AFT CORP PL",
+		"Description": "Aft Corp Pl",
 		"Latitude": 1.32429728567538,
 		"Longitude": 103.72180766916203
 	},
@@ -6057,7 +6057,7 @@
 	{
 		"BusStopCode": "21151",
 		"RoadName": "Jurong Port Rd",
-		"Description": "CWT Distripark",
+		"Description": "CWT Distripk",
 		"Latitude": 1.3169920318205,
 		"Longitude": 103.71988944330612
 	},
@@ -6085,14 +6085,14 @@
 	{
 		"BusStopCode": "21171",
 		"RoadName": "Corporation Rd",
-		"Description": "OPP CORP PL",
+		"Description": "Opp Corp Pl",
 		"Latitude": 1.3258163890121,
 		"Longitude": 103.71906611098208
 	},
 	{
 		"BusStopCode": "21179",
 		"RoadName": "Corporation Rd",
-		"Description": "CORP PL",
+		"Description": "Corp Pl",
 		"Latitude": 1.32586166697514,
 		"Longitude": 103.71929527796603
 	},
@@ -6155,7 +6155,7 @@
 	{
 		"BusStopCode": "21229",
 		"RoadName": "Corporation Rd",
-		"Description": "Opp S'Pore A'Space Mfg",
+		"Description": "Opp S'pore A'space Mfg",
 		"Latitude": 1.34206,
 		"Longitude": 103.716007
 	},
@@ -6176,7 +6176,7 @@
 	{
 		"BusStopCode": "21241",
 		"RoadName": "Boon Lay Ave",
-		"Description": "216 CP",
+		"Description": "Blk 216 CP",
 		"Latitude": 1.34973665190679,
 		"Longitude": 103.71235425312759
 	},
@@ -6204,7 +6204,7 @@
 	{
 		"BusStopCode": "21261",
 		"RoadName": "Quality Rd",
-		"Description": "AFT CHIN BEE AVE",
+		"Description": "Aft Chin Bee Ave",
 		"Latitude": 1.33393514008105,
 		"Longitude": 103.71025085451481
 	},
@@ -6274,14 +6274,14 @@
 	{
 		"BusStopCode": "21321",
 		"RoadName": "Jln Boon Lay",
-		"Description": "UTOC ENGRG",
+		"Description": "UTOC Engrg",
 		"Latitude": 1.32624055798556,
 		"Longitude": 103.70885429370763
 	},
 	{
 		"BusStopCode": "21329",
 		"RoadName": "Jln Boon Lay",
-		"Description": "OPP UTOC ENGRG",
+		"Description": "Opp UTOC Engrg",
 		"Latitude": 1.32691548284142,
 		"Longitude": 103.70901792785014
 	},
@@ -6316,14 +6316,14 @@
 	{
 		"BusStopCode": "21351",
 		"RoadName": "Jln Boon Lay",
-		"Description": "BEF BOON LAY WAY",
+		"Description": "Bef Boon Lay Way",
 		"Latitude": 1.33882138642125,
 		"Longitude": 103.70956429008974
 	},
 	{
 		"BusStopCode": "21359",
 		"RoadName": "Jln Boon Lay",
-		"Description": "AFT ST KINETICS",
+		"Description": "Aft ST Kinetics",
 		"Latitude": 1.33867010260834,
 		"Longitude": 103.7099597309989
 	},
@@ -6358,14 +6358,14 @@
 	{
 		"BusStopCode": "21381",
 		"RoadName": "Jurong West Ave 2",
-		"Description": "ST. JOSEPH'S HME",
+		"Description": "St. Joseph's Hme",
 		"Latitude": 1.350462,
 		"Longitude": 103.709815
 	},
 	{
 		"BusStopCode": "21389",
 		"RoadName": "Jurong West Ave 2",
-		"Description": "OPP ST. JOSEPH'S HME",
+		"Description": "Opp St. Joseph's Hme",
 		"Latitude": 1.350059,
 		"Longitude": 103.709927
 	},
@@ -6463,7 +6463,7 @@
 	{
 		"BusStopCode": "21461",
 		"RoadName": "Jln Tukang",
-		"Description": "BEF TUKANG INNOVATION DR",
+		"Description": "Bef Tukang Innovation Dr",
 		"Latitude": 1.32731972199567,
 		"Longitude": 103.71799361099863
 	},
@@ -6533,14 +6533,14 @@
 	{
 		"BusStopCode": "21511",
 		"RoadName": "Chin Bee Ave",
-		"Description": "Opp Amoy Canning",
+		"Description": "Bef Chin Bee Rd",
 		"Latitude": 1.3331199693958,
 		"Longitude": 103.71107697488075
 	},
 	{
 		"BusStopCode": "21519",
 		"RoadName": "Chin Bee Ave",
-		"Description": "Amoy Canning",
+		"Description": "Aft Chin Bee Rd",
 		"Latitude": 1.33295908040191,
 		"Longitude": 103.71129155158583
 	},
@@ -6680,7 +6680,7 @@
 	{
 		"BusStopCode": "21619",
 		"RoadName": "Corporation Dr",
-		"Description": "AFT CORP RD",
+		"Description": "Aft Corp Rd",
 		"Latitude": 1.33793509893342,
 		"Longitude": 103.71816213921478
 	},
@@ -6785,14 +6785,14 @@
 	{
 		"BusStopCode": "21691",
 		"RoadName": "Boon Lay Way",
-		"Description": "OPP SUMMERDALE",
+		"Description": "Opp Summerdale",
 		"Latitude": 1.34107859811695,
 		"Longitude": 103.71138811111824
 	},
 	{
 		"BusStopCode": "21699",
 		"RoadName": "Boon Lay Way",
-		"Description": "SUMMERDALE",
+		"Description": "Summerdale",
 		"Latitude": 1.34154982082089,
 		"Longitude": 103.71203075013112
 	},
@@ -6820,7 +6820,7 @@
 	{
 		"BusStopCode": "21729",
 		"RoadName": "Boon Lay Dr",
-		"Description": "Opposite Blk 239A",
+		"Description": "Opp Blk 239A",
 		"Latitude": 1.34238,
 		"Longitude": 103.711321
 	},
@@ -6855,7 +6855,7 @@
 	{
 		"BusStopCode": "21771",
 		"RoadName": "Yung Ho Rd",
-		"Description": "AFT CORP DR",
+		"Description": "Aft Corp Dr",
 		"Latitude": 1.3266,
 		"Longitude": 103.723626
 	},
@@ -6946,14 +6946,14 @@
 	{
 		"BusStopCode": "22061",
 		"RoadName": "Jln Buroh",
-		"Description": "Ceva Logistics",
+		"Description": "CEVA Logistics",
 		"Latitude": 1.31427617763344,
 		"Longitude": 103.70464097156747
 	},
 	{
 		"BusStopCode": "22069",
 		"RoadName": "Jln Buroh",
-		"Description": "Opp Ceva Logistics",
+		"Description": "Opp CEVA Logistics",
 		"Latitude": 1.31365447950552,
 		"Longitude": 103.70379462205501
 	},
@@ -7051,7 +7051,7 @@
 	{
 		"BusStopCode": "22179",
 		"RoadName": "Pioneer Rd Nth",
-		"Description": "Secura S'Pore",
+		"Description": "Secura S'pore",
 		"Latitude": 1.33000472340216,
 		"Longitude": 103.6966590690515
 	},
@@ -7191,7 +7191,7 @@
 	{
 		"BusStopCode": "22329",
 		"RoadName": "Wan Lee Rd",
-		"Description": "Opp Sam Mccoy Engrg",
+		"Description": "Opp Sam McCoy Engrg",
 		"Latitude": 1.33024346855102,
 		"Longitude": 103.70501590196446
 	},
@@ -7485,7 +7485,7 @@
 	{
 		"BusStopCode": "22561",
 		"RoadName": "Boon Lay Way",
-		"Description": "Blk 660 Cp",
+		"Description": "Blk 660 CP",
 		"Latitude": 1.33497038465954,
 		"Longitude": 103.704144267721
 	},
@@ -8472,14 +8472,14 @@
 	{
 		"BusStopCode": "24511",
 		"RoadName": "Tuas Rd",
-		"Description": "GUL CIRCLE STN EXIT A",
+		"Description": "Gul Circle Stn Exit A",
 		"Latitude": 1.319446944,
 		"Longitude": 103.6608911
 	},
 	{
 		"BusStopCode": "24519",
 		"RoadName": "Tuas Rd",
-		"Description": "GUL CIRCLE STN EXIT B",
+		"Description": "Gul Circle Stn Exit B",
 		"Latitude": 1.319071944,
 		"Longitude": 103.6598081
 	},
@@ -8668,28 +8668,28 @@
 	{
 		"BusStopCode": "24701",
 		"RoadName": "Pioneer Rd",
-		"Description": "TUAS CRES STN EXIT B",
+		"Description": "Tuas Cres Stn Exit B",
 		"Latitude": 1.321386,
 		"Longitude": 103.649116
 	},
 	{
 		"BusStopCode": "24709",
 		"RoadName": "Pioneer Rd",
-		"Description": "TUAS CRES STN EXIT A",
+		"Description": "Tuas Cres Stn Exit A",
 		"Latitude": 1.32089,
 		"Longitude": 103.649026
 	},
 	{
 		"BusStopCode": "24711",
 		"RoadName": "Pioneer Rd",
-		"Description": "TUAS WEST RD STN EXIT B",
+		"Description": "Tuas West Rd Stn Exit B",
 		"Latitude": 1.329871,
 		"Longitude": 103.639994
 	},
 	{
 		"BusStopCode": "24719",
 		"RoadName": "Pioneer Rd",
-		"Description": "TUAS WEST RD STN EXIT A",
+		"Description": "Tuas West Rd Stn Exit A",
 		"Latitude": 1.330051,
 		"Longitude": 103.639332
 	},
@@ -8850,7 +8850,7 @@
 	{
 		"BusStopCode": "25199",
 		"RoadName": "Tuas Ave 1",
-		"Description": "Rockwool Building Materials",
+		"Description": "Rockwool Bldg Materials",
 		"Latitude": 1.32109472197296,
 		"Longitude": 103.65933166702904
 	},
@@ -9046,7 +9046,7 @@
 	{
 		"BusStopCode": "25411",
 		"RoadName": "Tuas West Dr",
-		"Description": "BEF TUAS TER",
+		"Description": "Bef Tuas Ter",
 		"Latitude": 1.34387062081224,
 		"Longitude": 103.63830559259954
 	},
@@ -9060,14 +9060,14 @@
 	{
 		"BusStopCode": "25421",
 		"RoadName": "Tuas West Dr",
-		"Description": "OPP TUAS LINK STN",
+		"Description": "Opp Tuas Lk Stn",
 		"Latitude": 1.3414665264837,
 		"Longitude": 103.63745040018382
 	},
 	{
 		"BusStopCode": "25429",
 		"RoadName": "Tuas West Dr",
-		"Description": "TUAS LINK STN",
+		"Description": "Tuas Lk Stn",
 		"Latitude": 1.34055807307548,
 		"Longitude": 103.63696536000046
 	},
@@ -9172,28 +9172,28 @@
 	{
 		"BusStopCode": "25511",
 		"RoadName": "Tuas Ave 12",
-		"Description": "MICHELMAN",
+		"Description": "Michelman",
 		"Latitude": 1.32981500001918,
 		"Longitude": 103.64080472198735
 	},
 	{
 		"BusStopCode": "25519",
 		"RoadName": "Tuas Ave 12",
-		"Description": "OPP MICHELMAN",
+		"Description": "Opp Michelman",
 		"Latitude": 1.32981451584967,
 		"Longitude": 103.6409965426425
 	},
 	{
 		"BusStopCode": "25531",
 		"RoadName": "Tuas Ave 7",
-		"Description": "ST KINETICS",
+		"Description": "ST Kinetics",
 		"Latitude": 1.332349,
 		"Longitude": 103.645156
 	},
 	{
 		"BusStopCode": "25539",
 		"RoadName": "Tuas Ave 7",
-		"Description": "FUJIFILM",
+		"Description": "Fujifilm",
 		"Latitude": 1.332311,
 		"Longitude": 103.64507
 	},
@@ -9207,7 +9207,7 @@
 	{
 		"BusStopCode": "25549",
 		"RoadName": "Tuas Ave 7",
-		"Description": "CAST LABORATORIES",
+		"Description": "CAST Laboratories",
 		"Latitude": 1.329815,
 		"Longitude": 103.647687
 	},
@@ -9221,7 +9221,7 @@
 	{
 		"BusStopCode": "25559",
 		"RoadName": "Tuas Ave 8",
-		"Description": "LEE WELDED MESH",
+		"Description": "Lee Welded Mesh",
 		"Latitude": 1.325651,
 		"Longitude": 103.645879
 	},
@@ -9242,84 +9242,84 @@
 	{
 		"BusStopCode": "25571",
 		"RoadName": "Tuas Sth Ave 5",
-		"Description": "OPP WEST STAR",
+		"Description": "Opp West Star",
 		"Latitude": 1.315444,
 		"Longitude": 103.635242
 	},
 	{
 		"BusStopCode": "25579",
 		"RoadName": "Tuas Sth Ave 5",
-		"Description": "WEST STAR",
+		"Description": "West Star",
 		"Latitude": 1.315542,
 		"Longitude": 103.634947
 	},
 	{
 		"BusStopCode": "25589",
 		"RoadName": "Tuas Ave 8",
-		"Description": "CROWN EQUIPMENT",
+		"Description": "Crown Equipment",
 		"Latitude": 1.328334,
 		"Longitude": 103.648426
 	},
 	{
 		"BusStopCode": "25591",
 		"RoadName": "Tuas Sth Ave 4",
-		"Description": "OPP WYETH PHARMACEUTICALS",
+		"Description": "Opp Wyeth Pharmaceuticals",
 		"Latitude": 1.310246,
 		"Longitude": 103.63509
 	},
 	{
 		"BusStopCode": "25599",
 		"RoadName": "Tuas Sth Ave 4",
-		"Description": "WYETH PHARMACEUTICALS",
+		"Description": "Wyeth Pharmaceuticals",
 		"Latitude": 1.30943,
 		"Longitude": 103.635806
 	},
 	{
 		"BusStopCode": "25601",
 		"RoadName": "Tuas Sth Ave 7",
-		"Description": "PFIZER GLOBAL",
+		"Description": "Pfizer Global",
 		"Latitude": 1.301632,
 		"Longitude": 103.634717
 	},
 	{
 		"BusStopCode": "25609",
 		"RoadName": "Tuas Sth Ave 7",
-		"Description": "MERCK SHARP & DOHME",
+		"Description": "Merck Sharp & Dohme",
 		"Latitude": 1.301942,
 		"Longitude": 103.634519
 	},
 	{
 		"BusStopCode": "25611",
 		"RoadName": "Tuas Sth Ave 7",
-		"Description": "OPP WESTLINK TWO",
+		"Description": "Opp WestLink Two",
 		"Latitude": 1.297703,
 		"Longitude": 103.633033
 	},
 	{
 		"BusStopCode": "25621",
 		"RoadName": "Tuas Sth Ave 7",
-		"Description": "STARBURST ENGRG",
+		"Description": "Starburst Engrg",
 		"Latitude": 1.294382,
 		"Longitude": 103.631889
 	},
 	{
 		"BusStopCode": "25631",
 		"RoadName": "Tuas Sth Ave 7",
-		"Description": "CONTAINER CONNECTIONS",
+		"Description": "Container Connections",
 		"Latitude": 1.290329,
 		"Longitude": 103.631397
 	},
 	{
 		"BusStopCode": "25641",
 		"RoadName": "Tuas Sth Ave 9",
-		"Description": "OPP ROCHE S'PORE TECH",
+		"Description": "Opp Roche S'pore Tech",
 		"Latitude": 1.296157,
 		"Longitude": 103.638434
 	},
 	{
 		"BusStopCode": "25651",
 		"RoadName": "Tuas Sth Ave 6",
-		"Description": "NOVARTIS",
+		"Description": "Novartis",
 		"Latitude": 1.299345,
 		"Longitude": 103.63553
 	},
@@ -9340,56 +9340,56 @@
 	{
 		"BusStopCode": "25671",
 		"RoadName": "Tuas Bay Link",
-		"Description": "BEF OFFSHORE MARINE CTR",
+		"Description": "Bef Offshore Marine Ctr",
 		"Latitude": 1.294546,
 		"Longitude": 103.641614
 	},
 	{
 		"BusStopCode": "25681",
 		"RoadName": "Pioneer Rd",
-		"Description": "BEF TUAS WEST AVE",
+		"Description": "Bef Tuas West Ave",
 		"Latitude": 1.332541,
 		"Longitude": 103.637033
 	},
 	{
 		"BusStopCode": "25689",
 		"RoadName": "Pioneer Rd",
-		"Description": "AFT TUAS WEST AVE",
+		"Description": "Aft Tuas West Ave",
 		"Latitude": 1.332109,
 		"Longitude": 103.637126
 	},
 	{
 		"BusStopCode": "25691",
 		"RoadName": "Tuas Ave 20",
-		"Description": "AFT TUAS WEST RD STN",
+		"Description": "Aft Tuas West Rd Stn",
 		"Latitude": 1.328519,
 		"Longitude": 103.639669
 	},
 	{
 		"BusStopCode": "25701",
 		"RoadName": "Tuas Sth Ave 5",
-		"Description": "GLAXOSMITHKLINE",
+		"Description": "GlaxoSmithKline",
 		"Latitude": 1.295593,
 		"Longitude": 103.627651
 	},
 	{
 		"BusStopCode": "25709",
 		"RoadName": "Tuas Sth Ave 5",
-		"Description": "EDGEN MURRAY",
+		"Description": "Edgen Murray",
 		"Latitude": 1.295671,
 		"Longitude": 103.627284
 	},
 	{
 		"BusStopCode": "25711",
 		"RoadName": "Tuas Sth Ave 5",
-		"Description": "OPP THE INDEX",
+		"Description": "Opp The Index",
 		"Latitude": 1.288627,
 		"Longitude": 103.625073
 	},
 	{
 		"BusStopCode": "25719",
 		"RoadName": "Tuas Sth Ave 5",
-		"Description": "THE INDEX",
+		"Description": "The Index",
 		"Latitude": 1.289014,
 		"Longitude": 103.624893
 	},
@@ -9403,56 +9403,56 @@
 	{
 		"BusStopCode": "25729",
 		"RoadName": "Tuas Sth Ave 10",
-		"Description": "ABBOTT",
+		"Description": "Abbott",
 		"Latitude": 1.284932,
 		"Longitude": 103.628258
 	},
 	{
 		"BusStopCode": "25741",
 		"RoadName": "Tuas Sth Ave 12",
-		"Description": "HALLIBURTON",
+		"Description": "Halliburton",
 		"Latitude": 1.280501,
 		"Longitude": 103.62711
 	},
 	{
 		"BusStopCode": "25751",
 		"RoadName": "Tuas Sth Ave 5",
-		"Description": "BEF TUAS STH AVE 14",
+		"Description": "Bef Tuas Sth Ave 14",
 		"Latitude": 1.278059,
 		"Longitude": 103.621663
 	},
 	{
 		"BusStopCode": "25761",
 		"RoadName": "Tuas Sth Ave 14",
-		"Description": "OPP REC S'PORE",
+		"Description": "Opp REC S'pore",
 		"Latitude": 1.275062,
 		"Longitude": 103.624222
 	},
 	{
 		"BusStopCode": "25771",
 		"RoadName": "Tuas Sth Ave 14",
-		"Description": "AFT TUAS STH ST 7",
+		"Description": "Aft Tuas Sth St 7",
 		"Latitude": 1.274334,
 		"Longitude": 103.632329
 	},
 	{
 		"BusStopCode": "25781",
 		"RoadName": "Tuas Sth Ave 9",
-		"Description": "OPP SLS",
+		"Description": "Opp SLS",
 		"Latitude": 1.276398,
 		"Longitude": 103.635811
 	},
 	{
 		"BusStopCode": "25791",
 		"RoadName": "Tuas Sth Ave 9",
-		"Description": "BEF TUAS STH AVE 10",
+		"Description": "Bef Tuas Sth Ave 10",
 		"Latitude": 1.28202,
 		"Longitude": 103.636126
 	},
 	{
 		"BusStopCode": "25801",
 		"RoadName": "Tuas Sth Ave 10",
-		"Description": "BEF TUAS STH AVE 7",
+		"Description": "Bef Tuas Sth Ave 7",
 		"Latitude": 1.28451,
 		"Longitude": 103.634186
 	},
@@ -9473,7 +9473,7 @@
 	{
 		"BusStopCode": "25821",
 		"RoadName": "Pioneer Rd",
-		"Description": "TUAS AMENITY CTR",
+		"Description": "Tuas Amenity Ctr",
 		"Latitude": 1.317492,
 		"Longitude": 103.652589
 	},
@@ -9487,7 +9487,7 @@
 	{
 		"BusStopCode": "26019",
 		"RoadName": "Tuas Cres",
-		"Description": "PROGRESS GALVANIZING",
+		"Description": "Progress Galvanizing",
 		"Latitude": 1.318612,
 		"Longitude": 103.648062
 	},
@@ -9501,7 +9501,7 @@
 	{
 		"BusStopCode": "26029",
 		"RoadName": "Tuas Cres",
-		"Description": "CHIA HOCK TRADING CO",
+		"Description": "Chia Hock Trading Co",
 		"Latitude": 1.317805,
 		"Longitude": 103.647257
 	},
@@ -9515,14 +9515,14 @@
 	{
 		"BusStopCode": "26039",
 		"RoadName": "Tuas Cres",
-		"Description": "ASIA POLYURETHANE",
+		"Description": "Asia Polyurethane",
 		"Latitude": 1.316062,
 		"Longitude": 103.645623
 	},
 	{
 		"BusStopCode": "26041",
 		"RoadName": "Tuas Cres",
-		"Description": "HIAP SENG ENGRG LTD",
+		"Description": "Hiap Seng Engrg Ltd",
 		"Latitude": 1.314711,
 		"Longitude": 103.643052
 	},
@@ -9536,21 +9536,21 @@
 	{
 		"BusStopCode": "26051",
 		"RoadName": "Tuas Cres",
-		"Description": "BLASTING ABRASIVES",
+		"Description": "Blasting Abrasives",
 		"Latitude": 1.316385,
 		"Longitude": 103.641295
 	},
 	{
 		"BusStopCode": "26059",
 		"RoadName": "Tuas Cres",
-		"Description": "PAXOCEAN",
+		"Description": "PaxOcean",
 		"Latitude": 1.31672777803073,
 		"Longitude": 103.64083888900358
 	},
 	{
 		"BusStopCode": "26061",
 		"RoadName": "Tuas Cres",
-		"Description": "B S DEVELOPMENT",
+		"Description": "BS Development",
 		"Latitude": 1.318186,
 		"Longitude": 103.639406
 	},
@@ -9564,7 +9564,7 @@
 	{
 		"BusStopCode": "26071",
 		"RoadName": "Tuas Cres",
-		"Description": "UNIFINE STAR PETROCHEM",
+		"Description": "Unifine Star Petrochem",
 		"Latitude": 1.320508,
 		"Longitude": 103.637024
 	},
@@ -9578,7 +9578,7 @@
 	{
 		"BusStopCode": "26081",
 		"RoadName": "Tuas Cres",
-		"Description": "BEF TUAS AVE 18A",
+		"Description": "Bef Tuas Ave 18A",
 		"Latitude": 1.322491,
 		"Longitude": 103.634908
 	},
@@ -9592,7 +9592,7 @@
 	{
 		"BusStopCode": "26091",
 		"RoadName": "Tuas Ave 20",
-		"Description": "ROTARY ENGRG",
+		"Description": "Rotary Engrg",
 		"Latitude": 1.324656,
 		"Longitude": 103.636135
 	},
@@ -9606,7 +9606,7 @@
 	{
 		"BusStopCode": "26101",
 		"RoadName": "Tuas Ave 20",
-		"Description": "BASF STH EAST ASIA",
+		"Description": "BASF Sth East Asia",
 		"Latitude": 1.326868,
 		"Longitude": 103.638144
 	},
@@ -10061,7 +10061,7 @@
 	{
 		"BusStopCode": "27221",
 		"RoadName": "Nanyang Dr",
-		"Description": "Sch Of CEE",
+		"Description": "Sch of CEE",
 		"Latitude": 1.34623151653928,
 		"Longitude": 103.67851763727317
 	},
@@ -10362,7 +10362,7 @@
 	{
 		"BusStopCode": "27501",
 		"RoadName": "Jurong West St 93",
-		"Description": "NTUC HEALTH NURSING HME",
+		"Description": "NTUC Health Nursing Hme",
 		"Latitude": 1.34097116721964,
 		"Longitude": 103.69167107077278
 	},
@@ -10411,7 +10411,7 @@
 	{
 		"BusStopCode": "27539",
 		"RoadName": "Jurong West St 91",
-		"Description": "BEF XINGNAN PR SCH",
+		"Description": "Bef Xingnan Pr Sch",
 		"Latitude": 1.34071614464901,
 		"Longitude": 103.6868923374865
 	},
@@ -10425,7 +10425,7 @@
 	{
 		"BusStopCode": "28011",
 		"RoadName": "C'wealth Ave West",
-		"Description": "BEF TOH TUCK AVE",
+		"Description": "Bef Toh Tuck Ave",
 		"Latitude": 1.32425805601593,
 		"Longitude": 103.7591472219987
 	},
@@ -10439,14 +10439,14 @@
 	{
 		"BusStopCode": "28021",
 		"RoadName": "Boon Lay Way",
-		"Description": "OPP 8 @TRADEHUB 21",
+		"Description": "Opp 8 @Tradehub 21",
 		"Latitude": 1.32615808379173,
 		"Longitude": 103.75545022241596
 	},
 	{
 		"BusStopCode": "28029",
 		"RoadName": "Boon Lay Way",
-		"Description": "8 @ TRADEHUB 21",
+		"Description": "8 @ Tradehub 21",
 		"Latitude": 1.32688998200812,
 		"Longitude": 103.75436027668461
 	},
@@ -10579,7 +10579,7 @@
 	{
 		"BusStopCode": "28199",
 		"RoadName": "Jurong Gateway Rd",
-		"Description": "Opposite JEM",
+		"Description": "Opp Jem",
 		"Latitude": 1.332679,
 		"Longitude": 103.743839
 	},
@@ -11342,21 +11342,21 @@
 	{
 		"BusStopCode": "29119",
 		"RoadName": "Pandan Rd",
-		"Description": "Comfortdelgro Engrg",
+		"Description": "ComfortDelGro Engrg",
 		"Latitude": 1.30075962146214,
 		"Longitude": 103.74720096588953
 	},
 	{
 		"BusStopCode": "29121",
 		"RoadName": "Tg Penjuru",
-		"Description": "Opp Clp Intl",
+		"Description": "Opp CLP Intl",
 		"Latitude": 1.30670185792468,
 		"Longitude": 103.73955130573647
 	},
 	{
 		"BusStopCode": "29129",
 		"RoadName": "Tg Penjuru",
-		"Description": "Clp Intl",
+		"Description": "CLP Intl",
 		"Latitude": 1.30639194302217,
 		"Longitude": 103.73949183679694
 	},
@@ -11503,7 +11503,7 @@
 	{
 		"BusStopCode": "30119",
 		"RoadName": "Brickland Rd",
-		"Description": "AFT CHOA CHU KANG AVE 6",
+		"Description": "Aft Choa Chu Kang Ave 6",
 		"Latitude": 1.37288750001555,
 		"Longitude": 103.7404039307868
 	},
@@ -11517,7 +11517,7 @@
 	{
 		"BusStopCode": "30129",
 		"RoadName": "Brickland Rd",
-		"Description": "OPP BLK 805D",
+		"Description": "Opp Blk 805D",
 		"Latitude": 1.37203889001441,
 		"Longitude": 103.74381033081468
 	},
@@ -11601,28 +11601,28 @@
 	{
 		"BusStopCode": "31131",
 		"RoadName": "Old Choa Chu Kang Rd",
-		"Description": "Aft Track 33",
+		"Description": "CCK Cemy Office",
 		"Latitude": 1.3721005602879,
 		"Longitude": 103.6901494100538
 	},
 	{
 		"BusStopCode": "31139",
 		"RoadName": "Old Choa Chu Kang Rd",
-		"Description": "Bef Track 33",
+		"Description": "Opp CCK Cemy Office",
 		"Latitude": 1.37211281474792,
 		"Longitude": 103.69038412231409
 	},
 	{
 		"BusStopCode": "31141",
 		"RoadName": "Old Choa Chu Kang Rd",
-		"Description": "CCK Cemy Office",
+		"Description": "Aft Gdn of Remembrance",
 		"Latitude": 1.37409630689339,
 		"Longitude": 103.69342185827556
 	},
 	{
 		"BusStopCode": "31149",
 		"RoadName": "Old Choa Chu Kang Rd",
-		"Description": "Opp CCK Cemy Office",
+		"Description": "Bef Gdn of Remembrance",
 		"Latitude": 1.37394854683347,
 		"Longitude": 103.69400832710886
 	},
@@ -11909,7 +11909,7 @@
 	{
 		"BusStopCode": "40011",
 		"RoadName": "Bt Timah Rd",
-		"Description": "LITTLE INDIA STN EXIT A",
+		"Description": "Little India Stn Exit A",
 		"Latitude": 1.30606411522588,
 		"Longitude": 103.84908751469008
 	},
@@ -11923,7 +11923,7 @@
 	{
 		"BusStopCode": "40021",
 		"RoadName": "Bt Timah Rd",
-		"Description": "BEF WINSTEDT RD",
+		"Description": "Bef Winstedt Rd",
 		"Latitude": 1.311033889,
 		"Longitude": 103.8427911
 	},
@@ -12000,14 +12000,14 @@
 	{
 		"BusStopCode": "40081",
 		"RoadName": "Bt Timah Rd",
-		"Description": "STEVENS STN EXIT 1",
+		"Description": "Stevens Stn Exit 1",
 		"Latitude": 1.32012951912406,
 		"Longitude": 103.82605259642706
 	},
 	{
 		"BusStopCode": "40089",
 		"RoadName": "Dunearn Rd",
-		"Description": "AFT STEVENS STN EXIT 5",
+		"Description": "Aft Stevens Stn Exit 5",
 		"Latitude": 1.320510556,
 		"Longitude": 103.8273903
 	},
@@ -12028,7 +12028,7 @@
 	{
 		"BusStopCode": "40101",
 		"RoadName": "Kg Java Rd",
-		"Description": "Kk Women & Children Hosp",
+		"Description": "KK Women & Children Hosp",
 		"Latitude": 1.31036186651665,
 		"Longitude": 103.84779148902439
 	},
@@ -12119,7 +12119,7 @@
 	{
 		"BusStopCode": "40209",
 		"RoadName": "Stevens Rd",
-		"Description": "NOVOTEL MERCURE @ STEVENS",
+		"Description": "Novotel Mercure @ Stevens",
 		"Latitude": 1.31388805600649,
 		"Longitude": 103.82738777802837
 	},
@@ -12161,14 +12161,14 @@
 	{
 		"BusStopCode": "40239",
 		"RoadName": "Whitley Rd",
-		"Description": "BEF STEVENS STN EXIT 4",
+		"Description": "Bef Stevens Stn Exit 4",
 		"Latitude": 1.322585278,
 		"Longitude": 103.8262153
 	},
 	{
 		"BusStopCode": "40249",
 		"RoadName": "Whitley Rd",
-		"Description": "St. Joseph'S Instn",
+		"Description": "St. Joseph's Instn",
 		"Latitude": 1.3249247219882,
 		"Longitude": 103.82735055603025
 	},
@@ -12210,7 +12210,7 @@
 	{
 		"BusStopCode": "40279",
 		"RoadName": "Bt Timah Rd",
-		"Description": "Kk Women & Children Hosp",
+		"Description": "KK Women & Children Hosp",
 		"Latitude": 1.30981925741503,
 		"Longitude": 103.8460393043403
 	},
@@ -12308,14 +12308,14 @@
 	{
 		"BusStopCode": "40371",
 		"RoadName": "Bt Batok West Ave 5",
-		"Description": "OPP BLK 465A",
+		"Description": "Opp Blk 465A",
 		"Latitude": 1.35813308018627,
 		"Longitude": 103.74305344718294
 	},
 	{
 		"BusStopCode": "40379",
 		"RoadName": "Bt Batok West Ave 5",
-		"Description": "Blk 467 Cp",
+		"Description": "Blk 467 CP",
 		"Latitude": 1.35754268986546,
 		"Longitude": 103.74357270089524
 	},
@@ -12329,7 +12329,7 @@
 	{
 		"BusStopCode": "40389",
 		"RoadName": "Plantation Cres",
-		"Description": "Blk 119",
+		"Description": "Tengah CC",
 		"Latitude": 1.356473,
 		"Longitude": 103.734424
 	},
@@ -12399,7 +12399,7 @@
 	{
 		"BusStopCode": "40439",
 		"RoadName": "Tengah Garden Walk",
-		"Description": "Opposite Blk 236A",
+		"Description": "Opp Blk 236A",
 		"Latitude": 1.3611,
 		"Longitude": 103.731
 	},
@@ -12567,14 +12567,14 @@
 	{
 		"BusStopCode": "41121",
 		"RoadName": "Adam Rd",
-		"Description": "S'Pore Bible Coll",
+		"Description": "S'pore Bible Coll",
 		"Latitude": 1.32554444399609,
 		"Longitude": 103.81350777801268
 	},
 	{
 		"BusStopCode": "41129",
 		"RoadName": "Adam Rd",
-		"Description": "Opp S'Pore Bible Coll",
+		"Description": "Opp S'pore Bible Coll",
 		"Latitude": 1.32542946413096,
 		"Longitude": 103.81399869920736
 	},
@@ -12616,7 +12616,7 @@
 	{
 		"BusStopCode": "41161",
 		"RoadName": "Lornie Highway",
-		"Description": "AFT KHEAM HOCK RD",
+		"Description": "Aft Kheam Hock Rd",
 		"Latitude": 1.335063889,
 		"Longitude": 103.8187389
 	},
@@ -12749,7 +12749,7 @@
 	{
 		"BusStopCode": "42111",
 		"RoadName": "Upp Bt Timah Rd",
-		"Description": "WOH HUP BLDG",
+		"Description": "Woh Hup Bldg",
 		"Latitude": 1.34584805601375,
 		"Longitude": 103.77262861101015
 	},
@@ -12777,7 +12777,7 @@
 	{
 		"BusStopCode": "42139",
 		"RoadName": "Sixth Ave",
-		"Description": "Ave Villa",
+		"Description": "Avenue Villa",
 		"Latitude": 1.32877805376848,
 		"Longitude": 103.7944440268283
 	},
@@ -12987,7 +12987,7 @@
 	{
 		"BusStopCode": "42991",
 		"RoadName": "Upp Bt Timah Rd",
-		"Description": "BEF HILLVIEW STN EXIT B",
+		"Description": "Bef Hillview Stn Exit B",
 		"Latitude": 1.36164,
 		"Longitude": 103.766952
 	},
@@ -13064,7 +13064,7 @@
 	{
 		"BusStopCode": "43069",
 		"RoadName": "Upp Bt Timah Rd",
-		"Description": "HILLVIEW STN EXIT A",
+		"Description": "Hillview Stn Exit A",
 		"Latitude": 1.36296778241046,
 		"Longitude": 103.76768583722071
 	},
@@ -13113,7 +13113,7 @@
 	{
 		"BusStopCode": "43111",
 		"RoadName": "Upp Bt Timah Rd",
-		"Description": "Min Of Defence",
+		"Description": "Min of Defence",
 		"Latitude": 1.37229972154626,
 		"Longitude": 103.76298146518725
 	},
@@ -13232,7 +13232,7 @@
 	{
 		"BusStopCode": "43199",
 		"RoadName": "Bt Batok East Ave 6",
-		"Description": "Ch Of St. Mary",
+		"Description": "Ch of St. Mary",
 		"Latitude": 1.34663409083885,
 		"Longitude": 103.75920055445125
 	},
@@ -13253,14 +13253,14 @@
 	{
 		"BusStopCode": "43211",
 		"RoadName": "Bt Batok St 23",
-		"Description": "Sbst Bt Batok Depot",
+		"Description": "SBST Bt Batok Depot",
 		"Latitude": 1.34087277799084,
 		"Longitude": 103.75507916698768
 	},
 	{
 		"BusStopCode": "43219",
 		"RoadName": "Bt Batok St 23",
-		"Description": "Opp Sbst Bt Batok Depot",
+		"Description": "Opp SBST Bt Batok Depot",
 		"Latitude": 1.3413740257309,
 		"Longitude": 103.75446757134857
 	},
@@ -13582,14 +13582,14 @@
 	{
 		"BusStopCode": "43452",
 		"RoadName": "Bt Batok Rd",
-		"Description": "AFT BT BATOK WEST AVE 3",
+		"Description": "Aft Bt Batok West Ave 3",
 		"Latitude": 1.348526111,
 		"Longitude": 103.7385769
 	},
 	{
 		"BusStopCode": "43453",
 		"RoadName": "Bt Batok Rd",
-		"Description": "BEF PIE",
+		"Description": "Bef PIE",
 		"Latitude": 1.3479,
 		"Longitude": 103.7385
 	},
@@ -13827,14 +13827,14 @@
 	{
 		"BusStopCode": "43631",
 		"RoadName": "Old Jurong Rd",
-		"Description": "Ppis Bt Batok",
+		"Description": "PPIS Bt Batok",
 		"Latitude": 1.34785920936647,
 		"Longitude": 103.7685845905285
 	},
 	{
 		"BusStopCode": "43639",
 		"RoadName": "Old Jurong Rd",
-		"Description": "Opp Ppis Bt Batok",
+		"Description": "Opp PPIS Bt Batok",
 		"Latitude": 1.34810218754524,
 		"Longitude": 103.76845262919154
 	},
@@ -13883,7 +13883,7 @@
 	{
 		"BusStopCode": "43681",
 		"RoadName": "Bt Batok West Ave 2",
-		"Description": "BT BATOK HME FOR THE AGED",
+		"Description": "Bt Batok Hme for the Aged",
 		"Latitude": 1.36178500002853,
 		"Longitude": 103.74358000000312
 	},
@@ -14009,7 +14009,7 @@
 	{
 		"BusStopCode": "43789",
 		"RoadName": "Bt Batok Rd",
-		"Description": "BLK 436A",
+		"Description": "Blk 436A",
 		"Latitude": 1.35915702140816,
 		"Longitude": 103.73950237742633
 	},
@@ -14086,35 +14086,35 @@
 	{
 		"BusStopCode": "43891",
 		"RoadName": "Dairy Farm Rd",
-		"Description": "AFT DAIRY FARM CRES",
+		"Description": "Aft Dairy Farm Cres",
 		"Latitude": 1.363698889,
 		"Longitude": 103.7692319
 	},
 	{
 		"BusStopCode": "43899",
 		"RoadName": "Dairy Farm Rd",
-		"Description": "BEF DAIRY FARM CRES",
+		"Description": "Bef Dairy Farm Cres",
 		"Latitude": 1.363535,
 		"Longitude": 103.769
 	},
 	{
 		"BusStopCode": "43961",
 		"RoadName": "Dairy Farm Rd",
-		"Description": "AFT DAIRY FARM HTS",
+		"Description": "Aft Dairy Farm Hts",
 		"Latitude": 1.364838889,
 		"Longitude": 103.7729861
 	},
 	{
 		"BusStopCode": "43969",
 		"RoadName": "Dairy Farm Rd",
-		"Description": "BEF DAIRY FARM HTS",
+		"Description": "Bef Dairy Farm Hts",
 		"Latitude": 1.36463,
 		"Longitude": 103.7725931
 	},
 	{
 		"BusStopCode": "43991",
 		"RoadName": "Woodlands Rd",
-		"Description": "OPP BLK 635A",
+		"Description": "Opp Blk 635A",
 		"Latitude": 1.386207,
 		"Longitude": 103.7565
 	},
@@ -14149,7 +14149,7 @@
 	{
 		"BusStopCode": "44029",
 		"RoadName": "Upp Bt Timah Rd",
-		"Description": "Bt Panjang Stn Exit A/Lrt",
+		"Description": "Bt Panjang Stn Exit A/LRT",
 		"Latitude": 1.37863409952448,
 		"Longitude": 103.7621954983533
 	},
@@ -14513,14 +14513,14 @@
 	{
 		"BusStopCode": "44291",
 		"RoadName": "Teck Whye Ave",
-		"Description": "Opp Cck Polyclinic",
+		"Description": "Opp CCK Polyclinic",
 		"Latitude": 1.38151999999791,
 		"Longitude": 103.75140111097832
 	},
 	{
 		"BusStopCode": "44299",
 		"RoadName": "Teck Whye Ave",
-		"Description": "Cck Polyclinic",
+		"Description": "CCK Polyclinic",
 		"Latitude": 1.38177250001353,
 		"Longitude": 103.75131333302434
 	},
@@ -14751,7 +14751,7 @@
 	{
 		"BusStopCode": "44499",
 		"RoadName": "Choa Chu Kang Ave 4",
-		"Description": "Blk 429A Cp",
+		"Description": "Blk 429A CP",
 		"Latitude": 1.383205,
 		"Longitude": 103.740969
 	},
@@ -15017,14 +15017,14 @@
 	{
 		"BusStopCode": "44691",
 		"RoadName": "Segar Rd",
-		"Description": "BLK 485",
+		"Description": "Blk 485",
 		"Latitude": 1.38826258050731,
 		"Longitude": 103.7714646491703
 	},
 	{
 		"BusStopCode": "44699",
 		"RoadName": "Segar Rd",
-		"Description": "BLK 457",
+		"Description": "Blk 457",
 		"Latitude": 1.38805300466507,
 		"Longitude": 103.77154344868076
 	},
@@ -15136,14 +15136,14 @@
 	{
 		"BusStopCode": "44831",
 		"RoadName": "Bt Panjang Ring Rd",
-		"Description": "BLK 519",
+		"Description": "Blk 519",
 		"Latitude": 1.387891389,
 		"Longitude": 103.7657931
 	},
 	{
 		"BusStopCode": "44839",
 		"RoadName": "Bt Panjang Ring Rd",
-		"Description": "West Spring Pri Sch",
+		"Description": "West Spring Pr Sch",
 		"Latitude": 1.38855,
 		"Longitude": 103.7662
 	},
@@ -15157,14 +15157,14 @@
 	{
 		"BusStopCode": "44861",
 		"RoadName": "Senja Rd",
-		"Description": "BLK 636A",
+		"Description": "Blk 636A",
 		"Latitude": 1.3866920101757,
 		"Longitude": 103.75877312173013
 	},
 	{
 		"BusStopCode": "44869",
 		"RoadName": "Senja Rd",
-		"Description": "Bef Blk 629A Cp",
+		"Description": "Bef Blk 629A CP",
 		"Latitude": 1.38658738981297,
 		"Longitude": 103.75886226371927
 	},
@@ -15185,7 +15185,7 @@
 	{
 		"BusStopCode": "44881",
 		"RoadName": "Keat Hong Link",
-		"Description": "BLK 816B",
+		"Description": "Blk 816B",
 		"Latitude": 1.37573320756145,
 		"Longitude": 103.74842003077862
 	},
@@ -15220,7 +15220,7 @@
 	{
 		"BusStopCode": "44911",
 		"RoadName": "Bt Panjang Ring Rd",
-		"Description": "BLK 450",
+		"Description": "Blk 450",
 		"Latitude": 1.3848475,
 		"Longitude": 103.772859
 	},
@@ -15255,14 +15255,14 @@
 	{
 		"BusStopCode": "44941",
 		"RoadName": "KJE",
-		"Description": "OPP BLK 502",
+		"Description": "Opp Blk 502",
 		"Latitude": 1.388198,
 		"Longitude": 103.744284
 	},
 	{
 		"BusStopCode": "44949",
 		"RoadName": "KJE",
-		"Description": "AFT BLK 503",
+		"Description": "Aft Blk 503",
 		"Latitude": 1.388429,
 		"Longitude": 103.742903
 	},
@@ -15304,7 +15304,7 @@
 	{
 		"BusStopCode": "45009",
 		"RoadName": "Petir Rd",
-		"Description": "BT PANJANG INT",
+		"Description": "Bt Panjang Int",
 		"Latitude": 1.37812611932206,
 		"Longitude": 103.763286611367
 	},
@@ -15479,14 +15479,14 @@
 	{
 		"BusStopCode": "45141",
 		"RoadName": "Kranji Rd",
-		"Description": "Aft W'Lands Rd",
+		"Description": "Aft W'lands Rd",
 		"Latitude": 1.42484086207371,
 		"Longitude": 103.75684069951173
 	},
 	{
 		"BusStopCode": "45149",
 		"RoadName": "Kranji Rd",
-		"Description": "Bef W'Lands Rd",
+		"Description": "Bef W'lands Rd",
 		"Latitude": 1.4251485321405,
 		"Longitude": 103.75694671247683
 	},
@@ -15584,14 +15584,14 @@
 	{
 		"BusStopCode": "45221",
 		"RoadName": "Mandai Rd",
-		"Description": "Aft W'Lands Rd",
+		"Description": "Aft W'lands Rd",
 		"Latitude": 1.41185472198007,
 		"Longitude": 103.75786055597196
 	},
 	{
 		"BusStopCode": "45229",
 		"RoadName": "Mandai Rd",
-		"Description": "Bef W'Lands Rd",
+		"Description": "Bef W'lands Rd",
 		"Latitude": 1.41157694400245,
 		"Longitude": 103.75794694401966
 	},
@@ -15857,21 +15857,21 @@
 	{
 		"BusStopCode": "45489",
 		"RoadName": "Choa Chu Kang Nth 5",
-		"Description": "BEF CHOA CHU KANG LK",
+		"Description": "Bef Choa Chu Kang Lk",
 		"Latitude": 1.3937917601606,
 		"Longitude": 103.75199938008781
 	},
 	{
 		"BusStopCode": "45491",
 		"RoadName": "Stagmont Ring",
-		"Description": "BEF CHOA CHU KANG NTH 5",
+		"Description": "Bef Choa Chu Kang Nth 5",
 		"Latitude": 1.39414432388749,
 		"Longitude": 103.75296269916254
 	},
 	{
 		"BusStopCode": "45581",
 		"RoadName": "Woodlands St 32",
-		"Description": "BLK 325",
+		"Description": "Blk 325",
 		"Latitude": 1.430976111,
 		"Longitude": 103.7800619
 	},
@@ -15920,21 +15920,21 @@
 	{
 		"BusStopCode": "46019",
 		"RoadName": "Marsiling Rd",
-		"Description": "Aft W'Lands Ctr Rd",
+		"Description": "Aft W'lands Ctr Rd",
 		"Latitude": 1.4386733329964,
 		"Longitude": 103.7741286109918
 	},
 	{
 		"BusStopCode": "46021",
 		"RoadName": "Woodlands Rd",
-		"Description": "Bef W'Lands Ind Pk D St 2",
+		"Description": "Bef W'lands Ind Pk D St 2",
 		"Latitude": 1.42919861102901,
 		"Longitude": 103.76175138901188
 	},
 	{
 		"BusStopCode": "46029",
 		"RoadName": "Woodlands Rd",
-		"Description": "Aft W'Lands Ind Pk D St 2",
+		"Description": "Aft W'lands Ind Pk D St 2",
 		"Latitude": 1.42861423605127,
 		"Longitude": 103.76226643430736
 	},
@@ -15955,14 +15955,14 @@
 	{
 		"BusStopCode": "46041",
 		"RoadName": "Woodlands Rd",
-		"Description": "Opp Globalfoundries",
+		"Description": "Opp GLOBALFOUNDRIES",
 		"Latitude": 1.43664137008987,
 		"Longitude": 103.76405579624996
 	},
 	{
 		"BusStopCode": "46049",
 		"RoadName": "Woodlands Rd",
-		"Description": "Globalfoundries",
+		"Description": "GLOBALFOUNDRIES",
 		"Latitude": 1.43709,
 		"Longitude": 103.76476
 	},
@@ -15976,14 +15976,14 @@
 	{
 		"BusStopCode": "46059",
 		"RoadName": "Woodlands Rd",
-		"Description": "Globalfoundries/Aft Bke",
+		"Description": "GLOBALFOUNDRIES/Aft BKE",
 		"Latitude": 1.4387537800127,
 		"Longitude": 103.76656472079625
 	},
 	{
 		"BusStopCode": "46069",
 		"RoadName": "Woodlands Ctr Rd",
-		"Description": "W'Lands Train Checkpt",
+		"Description": "W'lands Train Checkpt",
 		"Latitude": 1.44288948418349,
 		"Longitude": 103.76933833799299
 	},
@@ -16011,21 +16011,21 @@
 	{
 		"BusStopCode": "46091",
 		"RoadName": "Woodlands Ctr Rd",
-		"Description": "Bef Bke",
+		"Description": "Bef BKE",
 		"Latitude": 1.43960616363191,
 		"Longitude": 103.77010864564294
 	},
 	{
 		"BusStopCode": "46101",
 		"RoadName": "Woodlands Crossing",
-		"Description": "W'Lands Checkpt",
+		"Description": "W'lands Checkpt",
 		"Latitude": 1.44460832436456,
 		"Longitude": 103.76774882217022
 	},
 	{
 		"BusStopCode": "46109",
 		"RoadName": "Woodlands Crossing",
-		"Description": "W'Lands Checkpt",
+		"Description": "W'lands Checkpt",
 		"Latitude": 1.44694093553778,
 		"Longitude": 103.76925342517902
 	},
@@ -16046,14 +16046,14 @@
 	{
 		"BusStopCode": "46121",
 		"RoadName": "Admiralty Rd",
-		"Description": "Opp Marsiling Lane Mkt/Fc",
+		"Description": "Opp Marsiling Lane Mkt/FC",
 		"Latitude": 1.44387999997343,
 		"Longitude": 103.7764388889843
 	},
 	{
 		"BusStopCode": "46129",
 		"RoadName": "Admiralty Rd",
-		"Description": "Marsiling Lane Mkt/Fc",
+		"Description": "Marsiling Lane Mkt/FC",
 		"Latitude": 1.44378798401059,
 		"Longitude": 103.77675415681387
 	},
@@ -16312,14 +16312,14 @@
 	{
 		"BusStopCode": "46321",
 		"RoadName": "Woodlands Ave 5",
-		"Description": "W'Lands Civic Ctr",
+		"Description": "W'lands Civic Ctr",
 		"Latitude": 1.43457763941924,
 		"Longitude": 103.78655642033898
 	},
 	{
 		"BusStopCode": "46329",
 		"RoadName": "Woodlands Ave 5",
-		"Description": "Opp W'Lands Civic Ctr",
+		"Description": "Opp W'lands Civic Ctr",
 		"Latitude": 1.43444810854853,
 		"Longitude": 103.78737576801932
 	},
@@ -16333,7 +16333,7 @@
 	{
 		"BusStopCode": "46339",
 		"RoadName": "Woodlands Ave 2",
-		"Description": "Bef W'Lands Stn Exit 7",
+		"Description": "Bef W'lands Stn Exit 7",
 		"Latitude": 1.43352632033198,
 		"Longitude": 103.78798319246935
 	},
@@ -16354,7 +16354,7 @@
 	{
 		"BusStopCode": "46351",
 		"RoadName": "Woodlands Ave 1",
-		"Description": "WOODHAVEN",
+		"Description": "Woodhaven",
 		"Latitude": 1.43084888887005,
 		"Longitude": 103.78373500001297
 	},
@@ -16396,14 +16396,14 @@
 	{
 		"BusStopCode": "46381",
 		"RoadName": "Woodlands Ave 3",
-		"Description": "Opp W'Lands Ind Pk D St 1",
+		"Description": "Opp W'lands Ind Pk D St 1",
 		"Latitude": 1.42907427878851,
 		"Longitude": 103.76676266569542
 	},
 	{
 		"BusStopCode": "46389",
 		"RoadName": "Woodlands Ave 3",
-		"Description": "Aft W'Lands Ind Pk D St 1",
+		"Description": "Aft W'lands Ind Pk D St 1",
 		"Latitude": 1.42930397640592,
 		"Longitude": 103.76660954719264
 	},
@@ -16536,7 +16536,7 @@
 	{
 		"BusStopCode": "46481",
 		"RoadName": "Woodlands Ave 9",
-		"Description": "Aft Woodlands Ind Pk E6",
+		"Description": "Aft W'lands Ind Pk E6",
 		"Latitude": 1.44964404178885,
 		"Longitude": 103.8011125258027
 	},
@@ -16725,14 +16725,14 @@
 	{
 		"BusStopCode": "46631",
 		"RoadName": "Woodlands Ave 2",
-		"Description": "W'Lands Stn Exit 5",
+		"Description": "W'lands Stn Exit 5",
 		"Latitude": 1.43689297551872,
 		"Longitude": 103.78915264291737
 	},
 	{
 		"BusStopCode": "46639",
 		"RoadName": "Woodlands Ave 2",
-		"Description": "W'Lands Stn Exit 4",
+		"Description": "W'lands Stn Exit 4",
 		"Latitude": 1.43702205360453,
 		"Longitude": 103.78884919678751
 	},
@@ -16774,7 +16774,7 @@
 	{
 		"BusStopCode": "46669",
 		"RoadName": "Woodlands Dr 50",
-		"Description": "W'Lands Pr Sch",
+		"Description": "W'lands Pr Sch",
 		"Latitude": 1.43740934044808,
 		"Longitude": 103.79182446445486
 	},
@@ -16844,14 +16844,14 @@
 	{
 		"BusStopCode": "46721",
 		"RoadName": "Woodlands Ave 8",
-		"Description": "Bef W'Lands Ind Pk E7",
+		"Description": "Bef W'lands Ind Pk E7",
 		"Latitude": 1.45248916519346,
 		"Longitude": 103.80178758846797
 	},
 	{
 		"BusStopCode": "46729",
 		"RoadName": "Woodlands Ave 8",
-		"Description": "Aft W'Lands Ind Pk E7",
+		"Description": "Aft W'lands Ind Pk E7",
 		"Latitude": 1.4521571470745,
 		"Longitude": 103.80223070821165
 	},
@@ -16865,7 +16865,7 @@
 	{
 		"BusStopCode": "46739",
 		"RoadName": "Gambas Ave",
-		"Description": "BLK 782",
+		"Description": "Blk 782",
 		"Latitude": 1.44847350274561,
 		"Longitude": 103.80400338022199
 	},
@@ -16886,7 +16886,7 @@
 	{
 		"BusStopCode": "46759",
 		"RoadName": "Woodlands Ring Rd",
-		"Description": "BLK 676A",
+		"Description": "Blk 676A",
 		"Latitude": 1.439275,
 		"Longitude": 103.801227
 	},
@@ -16949,14 +16949,14 @@
 	{
 		"BusStopCode": "46801",
 		"RoadName": "Woodlands Ave 6",
-		"Description": "Aft W'Lands Mart",
+		"Description": "Aft W'lands Mart",
 		"Latitude": 1.44651205748064,
 		"Longitude": 103.79756626316295
 	},
 	{
 		"BusStopCode": "46809",
 		"RoadName": "Woodlands Ave 6",
-		"Description": "Opp W'Lands Mart",
+		"Description": "Opp W'lands Mart",
 		"Latitude": 1.44649662319346,
 		"Longitude": 103.79808713932866
 	},
@@ -17068,7 +17068,7 @@
 	{
 		"BusStopCode": "46931",
 		"RoadName": "Woodlands Ave 9",
-		"Description": "Opp W'Lands Spectrum 1",
+		"Description": "Opp W'lands Spectrum 1",
 		"Latitude": 1.45305389773625,
 		"Longitude": 103.80789928421208
 	},
@@ -17152,28 +17152,28 @@
 	{
 		"BusStopCode": "47011",
 		"RoadName": "Admiralty Rd",
-		"Description": "Bef W'Lands Waterfront Pk",
+		"Description": "Bef W'lands Waterfront Pk",
 		"Latitude": 1.45076766255392,
 		"Longitude": 103.77863124035153
 	},
 	{
 		"BusStopCode": "47019",
 		"RoadName": "Admiralty Rd",
-		"Description": "Aft W'Lands Waterfront Pk",
+		"Description": "Aft W'lands Waterfront Pk",
 		"Latitude": 1.45075155241442,
 		"Longitude": 103.77892930711522
 	},
 	{
 		"BusStopCode": "47021",
 		"RoadName": "Admiralty Rd West",
-		"Description": "Khalsa Crescent Drug Rehab Ctr",
+		"Description": "Khalsa Cres Drug Rehab Ctr",
 		"Latitude": 1.4511345744486,
 		"Longitude": 103.78327492635378
 	},
 	{
 		"BusStopCode": "47029",
 		"RoadName": "Admiralty Rd West",
-		"Description": "Opp Khalsa Crescent Drug Rehab Ctr",
+		"Description": "Opp Khalsa Cres Drug Rehab Ctr",
 		"Latitude": 1.45096550351717,
 		"Longitude": 103.78252315836185
 	},
@@ -17194,28 +17194,28 @@
 	{
 		"BusStopCode": "47041",
 		"RoadName": "Admiralty Rd West",
-		"Description": "Opp W'Lands Auto Hub",
+		"Description": "Opp W'lands Auto Hub",
 		"Latitude": 1.4525686110144,
 		"Longitude": 103.79164305597227
 	},
 	{
 		"BusStopCode": "47049",
 		"RoadName": "Admiralty Rd West",
-		"Description": "W'Lands Auto Hub",
+		"Description": "W'lands Auto Hub",
 		"Latitude": 1.45246524141338,
 		"Longitude": 103.7925804884025
 	},
 	{
 		"BusStopCode": "47051",
 		"RoadName": "Admiralty Rd West",
-		"Description": "Aft W'Lands Ind Pk E4",
+		"Description": "Aft W'lands Ind Pk E4",
 		"Latitude": 1.45449749999994,
 		"Longitude": 103.79560277796767
 	},
 	{
 		"BusStopCode": "47059",
 		"RoadName": "Admiralty Rd West",
-		"Description": "Bef W'Lands Ind Pk E4",
+		"Description": "Bef W'lands Ind Pk E4",
 		"Latitude": 1.45396450182247,
 		"Longitude": 103.7954729366899
 	},
@@ -17271,21 +17271,21 @@
 	{
 		"BusStopCode": "47099",
 		"RoadName": "Senoko Dr",
-		"Description": "MASTERDON",
+		"Description": "Masterdon",
 		"Latitude": 1.46400708429355,
 		"Longitude": 103.80529911397457
 	},
 	{
 		"BusStopCode": "47101",
 		"RoadName": "Senoko Dr",
-		"Description": "Aft Senoko Ave",
+		"Description": "Bef Senoko Ave",
 		"Latitude": 1.46653722200693,
 		"Longitude": 103.8090658329841
 	},
 	{
 		"BusStopCode": "47109",
 		"RoadName": "Senoko Dr",
-		"Description": "Maxsteel Enterprise",
+		"Description": "MaxSteel Enterprise",
 		"Latitude": 1.46608416701086,
 		"Longitude": 103.80861861101391
 	},
@@ -17320,35 +17320,35 @@
 	{
 		"BusStopCode": "47131",
 		"RoadName": "Senoko Rd",
-		"Description": "Fuji Oil S'Pore",
+		"Description": "Fuji Oil S'pore",
 		"Latitude": 1.46664224303828,
 		"Longitude": 103.80222436305644
 	},
 	{
 		"BusStopCode": "47141",
 		"RoadName": "Senoko Rd",
-		"Description": "Bef Sc Auto",
+		"Description": "Bef SC Auto",
 		"Latitude": 1.46756958848835,
 		"Longitude": 103.80367776966509
 	},
 	{
 		"BusStopCode": "47151",
 		"RoadName": "Senoko Rd",
-		"Description": "Aft Scania S'Pore",
+		"Description": "Aft Scania S'pore",
 		"Latitude": 1.46627333237122,
 		"Longitude": 103.80397260190183
 	},
 	{
 		"BusStopCode": "47169",
 		"RoadName": "Senoko Dr",
-		"Description": "CHUAN LIM CONSTRN",
+		"Description": "Chuan Lim Constrn",
 		"Latitude": 1.46092504799029,
 		"Longitude": 103.80059733131966
 	},
 	{
 		"BusStopCode": "47179",
 		"RoadName": "Senoko Loop",
-		"Description": "Comfortdelgro Engrg",
+		"Description": "ComfortDelGro Engrg",
 		"Latitude": 1.45828424831176,
 		"Longitude": 103.79880737870576
 	},
@@ -17376,14 +17376,14 @@
 	{
 		"BusStopCode": "47491",
 		"RoadName": "Woodlands Ave 6",
-		"Description": "TWIN FOUNTAINS",
+		"Description": "Twin Fountains",
 		"Latitude": 1.431021111,
 		"Longitude": 103.8004889
 	},
 	{
 		"BusStopCode": "47499",
 		"RoadName": "Woodlands Ave 6",
-		"Description": "OPP TWIN FOUNTAINS",
+		"Description": "Opp Twin Fountains",
 		"Latitude": 1.430773889,
 		"Longitude": 103.8006081
 	},
@@ -17397,7 +17397,7 @@
 	{
 		"BusStopCode": "47509",
 		"RoadName": "Woodlands Dr 16",
-		"Description": "BLK 583",
+		"Description": "Blk 583",
 		"Latitude": 1.430331111,
 		"Longitude": 103.7948411
 	},
@@ -17418,7 +17418,7 @@
 	{
 		"BusStopCode": "47529",
 		"RoadName": "Woodlands Dr 16",
-		"Description": "BLK 573A",
+		"Description": "Blk 573A",
 		"Latitude": 1.431536111,
 		"Longitude": 103.7981161
 	},
@@ -17628,7 +17628,7 @@
 	{
 		"BusStopCode": "47749",
 		"RoadName": "Woodlands Dr 17",
-		"Description": "Woodlands Health Campus",
+		"Description": "W'lands Health Campus",
 		"Latitude": 1.425821,
 		"Longitude": 103.793911
 	},
@@ -17663,14 +17663,14 @@
 	{
 		"BusStopCode": "47811",
 		"RoadName": "Admiralty Rd West",
-		"Description": "W'Lands Sunny Food",
+		"Description": "W'lands Sunny Food",
 		"Latitude": 1.46237692251291,
 		"Longitude": 103.80898707919847
 	},
 	{
 		"BusStopCode": "47819",
 		"RoadName": "Admiralty Rd West",
-		"Description": "Opp W'Lands Sunny Food",
+		"Description": "Opp W'lands Sunny Food",
 		"Latitude": 1.4625580134543,
 		"Longitude": 103.81005089658552
 	},
@@ -17845,7 +17845,7 @@
 	{
 		"BusStopCode": "48131",
 		"RoadName": "Mandai Lake Rd",
-		"Description": "S'Pore Zoo",
+		"Description": "S'pore Zoo",
 		"Latitude": 1.40462388269986,
 		"Longitude": 103.78935694475769
 	},
@@ -18076,7 +18076,7 @@
 	{
 		"BusStopCode": "49171",
 		"RoadName": "Kranji Way",
-		"Description": "OPP SHINGDA CONSTRN",
+		"Description": "Opp Shingda Constrn",
 		"Latitude": 1.43471927034855,
 		"Longitude": 103.75086631663139
 	},
@@ -18104,7 +18104,7 @@
 	{
 		"BusStopCode": "49199",
 		"RoadName": "Kranji Way",
-		"Description": "Kranji Reservoir Pk B",
+		"Description": "Kranji Resvr Pk B",
 		"Latitude": 1.4383674275063,
 		"Longitude": 103.73578447263064
 	},
@@ -18167,14 +18167,14 @@
 	{
 		"BusStopCode": "50011",
 		"RoadName": "Kg Java Rd",
-		"Description": "Opp Parish Of Christ Ch",
+		"Description": "Opp Parish of Christ Ch",
 		"Latitude": 1.31181999999518,
 		"Longitude": 103.84719777801662
 	},
 	{
 		"BusStopCode": "50019",
 		"RoadName": "Keng Lee Rd",
-		"Description": "Parish Of Christ Ch",
+		"Description": "Parish of Christ Ch",
 		"Latitude": 1.31194891032358,
 		"Longitude": 103.84763856174139
 	},
@@ -18405,7 +18405,7 @@
 	{
 		"BusStopCode": "50231",
 		"RoadName": "Balestier Rd",
-		"Description": "Northlight Sch",
+		"Description": "NorthLight Sch",
 		"Latitude": 1.31872472201456,
 		"Longitude": 103.85492583301323
 	},
@@ -18552,14 +18552,14 @@
 	{
 		"BusStopCode": "51051",
 		"RoadName": "Thomson Rd",
-		"Description": "AFT ANDREW RD",
+		"Description": "Aft Andrew Rd",
 		"Latitude": 1.33635352726982,
 		"Longitude": 103.83707802024655
 	},
 	{
 		"BusStopCode": "51059",
 		"RoadName": "Thomson Rd",
-		"Description": "AFT TOA PAYOH RISE",
+		"Description": "Aft Toa Payoh Rise",
 		"Latitude": 1.3370325833883,
 		"Longitude": 103.83735019393414
 	},
@@ -18685,7 +18685,7 @@
 	{
 		"BusStopCode": "52021",
 		"RoadName": "Braddell Rd",
-		"Description": "OPP BLK 1004",
+		"Description": "Opp Blk 1004",
 		"Latitude": 1.34431313758435,
 		"Longitude": 103.84766088139544
 	},
@@ -18699,7 +18699,7 @@
 	{
 		"BusStopCode": "52031",
 		"RoadName": "Braddell Rd",
-		"Description": "OPP BLK 998",
+		"Description": "Opp Blk 998",
 		"Latitude": 1.34404852974216,
 		"Longitude": 103.85026155631283
 	},
@@ -18720,7 +18720,7 @@
 	{
 		"BusStopCode": "52051",
 		"RoadName": "Braddell Rd",
-		"Description": "BLK 147",
+		"Description": "Blk 147",
 		"Latitude": 1.34338820709349,
 		"Longitude": 103.85469257245785
 	},
@@ -18741,7 +18741,7 @@
 	{
 		"BusStopCode": "52069",
 		"RoadName": "Braddell Rd",
-		"Description": "Comfortdelgro Corp Ltd",
+		"Description": "ComfortDelGro Corp Ltd",
 		"Latitude": 1.34314389988912,
 		"Longitude": 103.85856611406128
 	},
@@ -18958,7 +18958,7 @@
 	{
 		"BusStopCode": "52241",
 		"RoadName": "Toa Payoh Rise",
-		"Description": "Bef Caldecott Stn/Savh",
+		"Description": "Blk 105",
 		"Latitude": 1.33804611111505,
 		"Longitude": 103.8389949999753
 	},
@@ -19203,7 +19203,7 @@
 	{
 		"BusStopCode": "52421",
 		"RoadName": "Lor 7 Toa Payoh",
-		"Description": "BLK 12",
+		"Description": "Blk 12",
 		"Latitude": 1.336232,
 		"Longitude": 103.857428
 	},
@@ -19217,7 +19217,7 @@
 	{
 		"BusStopCode": "52431",
 		"RoadName": "Lor 7 Toa Payoh",
-		"Description": "BLK 5",
+		"Description": "Blk 5",
 		"Latitude": 1.3383165,
 		"Longitude": 103.855529
 	},
@@ -19280,7 +19280,7 @@
 	{
 		"BusStopCode": "52501",
 		"RoadName": "Lor 6 Toa Payoh",
-		"Description": "Toa Payoh Swim Cplx",
+		"Description": "Bef Toa Payoh Pk",
 		"Latitude": 1.33090220918791,
 		"Longitude": 103.85011762889827
 	},
@@ -19301,7 +19301,7 @@
 	{
 		"BusStopCode": "52531",
 		"RoadName": "Lor 8 Toa Payoh",
-		"Description": "OPP BLK 210 MKT/FC",
+		"Description": "Opp Blk 210 Mkt/FC",
 		"Latitude": 1.3397645,
 		"Longitude": 103.854501
 	},
@@ -19329,7 +19329,7 @@
 	{
 		"BusStopCode": "52561",
 		"RoadName": "Kim Keat Ave",
-		"Description": "BLK 269A",
+		"Description": "Blk 269A",
 		"Latitude": 1.33319,
 		"Longitude": 103.859677
 	},
@@ -19343,7 +19343,7 @@
 	{
 		"BusStopCode": "52571",
 		"RoadName": "Toa Payoh East",
-		"Description": "BLK 268A",
+		"Description": "Blk 268A",
 		"Latitude": 1.3328873,
 		"Longitude": 103.858081
 	},
@@ -19357,7 +19357,7 @@
 	{
 		"BusStopCode": "52581",
 		"RoadName": "Toa Payoh Lk",
-		"Description": "BEF CALDECOTT STN EXIT 4",
+		"Description": "Bef Caldecott Stn Exit 4",
 		"Latitude": 1.3371305,
 		"Longitude": 103.839776
 	},
@@ -19371,21 +19371,21 @@
 	{
 		"BusStopCode": "53011",
 		"RoadName": "Upp Thomson Rd",
-		"Description": "ST. THERESA'S HME",
+		"Description": "St. Theresa's Hme",
 		"Latitude": 1.34555351143315,
 		"Longitude": 103.8382633553218
 	},
 	{
 		"BusStopCode": "53019",
 		"RoadName": "Upp Thomson Rd",
-		"Description": "OPP ST. THERESA'S HME",
+		"Description": "Opp St. Theresa's Hme",
 		"Latitude": 1.34600349626668,
 		"Longitude": 103.83871779531225
 	},
 	{
 		"BusStopCode": "53021",
 		"RoadName": "Upp Thomson Rd",
-		"Description": "Lakeview Estate",
+		"Description": "Lakeview Est",
 		"Latitude": 1.34967996840542,
 		"Longitude": 103.83652457261991
 	},
@@ -19616,14 +19616,14 @@
 	{
 		"BusStopCode": "53201",
 		"RoadName": "Sin Ming Dr",
-		"Description": "Opp Nea Reg Off",
+		"Description": "Opp NEA Reg Off",
 		"Latitude": 1.36128501070806,
 		"Longitude": 103.83850250682744
 	},
 	{
 		"BusStopCode": "53209",
 		"RoadName": "Sin Ming Dr",
-		"Description": "Aft Nea Reg Off",
+		"Description": "Aft NEA Reg Off",
 		"Latitude": 1.36099828733018,
 		"Longitude": 103.83852670989133
 	},
@@ -19644,7 +19644,7 @@
 	{
 		"BusStopCode": "53221",
 		"RoadName": "Bishan St 11",
-		"Description": "BLK 115",
+		"Description": "Blk 115",
 		"Latitude": 1.34816840593896,
 		"Longitude": 103.8484543562104
 	},
@@ -19658,35 +19658,35 @@
 	{
 		"BusStopCode": "53231",
 		"RoadName": "Bishan Rd",
-		"Description": "BISHAN STN",
+		"Description": "Bishan Stn",
 		"Latitude": 1.35089997844732,
 		"Longitude": 103.84797987894204
 	},
 	{
 		"BusStopCode": "53239",
 		"RoadName": "Bishan Rd",
-		"Description": "OPP BISHAN STN",
+		"Description": "Opp Bishan Stn",
 		"Latitude": 1.351,
 		"Longitude": 103.847641
 	},
 	{
 		"BusStopCode": "53241",
 		"RoadName": "Bishan Rd",
-		"Description": "OPP BLK 217",
+		"Description": "Opp Blk 217",
 		"Latitude": 1.35615639153054,
 		"Longitude": 103.84995659632311
 	},
 	{
 		"BusStopCode": "53249",
 		"RoadName": "Bishan Rd",
-		"Description": "BLK 210",
+		"Description": "Blk 210",
 		"Latitude": 1.35538305217047,
 		"Longitude": 103.84911895270494
 	},
 	{
 		"BusStopCode": "53251",
 		"RoadName": "Bishan St 11",
-		"Description": "BLK 125",
+		"Description": "Blk 125",
 		"Latitude": 1.34678829540395,
 		"Longitude": 103.85199823380812
 	},
@@ -19917,14 +19917,14 @@
 	{
 		"BusStopCode": "53421",
 		"RoadName": "Bishan St 11",
-		"Description": "BLK 151A MKT",
+		"Description": "Blk 151A Mkt",
 		"Latitude": 1.345658889,
 		"Longitude": 103.8553811
 	},
 	{
 		"BusStopCode": "53439",
 		"RoadName": "Bishan St 23",
-		"Description": "BLK 228",
+		"Description": "Blk 228",
 		"Latitude": 1.357625,
 		"Longitude": 103.847213
 	},
@@ -20029,35 +20029,35 @@
 	{
 		"BusStopCode": "54079",
 		"RoadName": "Ang Mo Kio Ave 1",
-		"Description": "OPP BLK 315",
+		"Description": "Opp Blk 315",
 		"Latitude": 1.36389805596869,
 		"Longitude": 103.84585916699372
 	},
 	{
 		"BusStopCode": "54081",
 		"RoadName": "Ang Mo Kio Ave 1",
-		"Description": "TECK GHEE CT",
+		"Description": "Teck Ghee Ct",
 		"Latitude": 1.36358972199933,
 		"Longitude": 103.84786694396756
 	},
 	{
 		"BusStopCode": "54089",
 		"RoadName": "Ang Mo Kio Ave 1",
-		"Description": "OPP ANG MO KIO SWIM CPLX",
+		"Description": "Opp Ang Mo Kio Swim Cplx",
 		"Latitude": 1.36297001065247,
 		"Longitude": 103.8484911674186
 	},
 	{
 		"BusStopCode": "54091",
 		"RoadName": "Ang Mo Kio Ave 1",
-		"Description": "BLK 331",
+		"Description": "Blk 331",
 		"Latitude": 1.36167975047647,
 		"Longitude": 103.85092799797833
 	},
 	{
 		"BusStopCode": "54099",
 		"RoadName": "Ang Mo Kio Ave 1",
-		"Description": "OPP BLK 333",
+		"Description": "Opp Blk 333",
 		"Latitude": 1.36118777797342,
 		"Longitude": 103.85104805596895
 	},
@@ -20120,14 +20120,14 @@
 	{
 		"BusStopCode": "54201",
 		"RoadName": "Ang Mo Kio Ave 4",
-		"Description": "OPP BLK 155",
+		"Description": "Opp Blk 155",
 		"Latitude": 1.375969,
 		"Longitude": 103.839271
 	},
 	{
 		"BusStopCode": "54209",
 		"RoadName": "Ang Mo Kio Ave 4",
-		"Description": "BET BLKS 152/155",
+		"Description": "Bet Blks 152/155",
 		"Latitude": 1.37638119735545,
 		"Longitude": 103.83952322759048
 	},
@@ -20407,7 +20407,7 @@
 	{
 		"BusStopCode": "54409",
 		"RoadName": "Ang Mo Kio St 52",
-		"Description": "Opp Blk 522",
+		"Description": "Jing Shan Pr Sch",
 		"Latitude": 1.37270833297137,
 		"Longitude": 103.85213888899418
 	},
@@ -20498,14 +20498,14 @@
 	{
 		"BusStopCode": "54481",
 		"RoadName": "Ang Mo Kio Ave 5",
-		"Description": "Ite Coll Ctrl",
+		"Description": "ITE Coll Ctrl",
 		"Latitude": 1.37599497932237,
 		"Longitude": 103.855765341723
 	},
 	{
 		"BusStopCode": "54489",
 		"RoadName": "Ang Mo Kio Ave 5",
-		"Description": "Opp Ite Coll Ctrl",
+		"Description": "Opp ITE Coll Ctrl",
 		"Latitude": 1.375675,
 		"Longitude": 103.855423
 	},
@@ -20568,14 +20568,14 @@
 	{
 		"BusStopCode": "54531",
 		"RoadName": "Bishan Rd",
-		"Description": "OPP BISHAN PK",
+		"Description": "Opp Bishan Pk",
 		"Latitude": 1.35839974282084,
 		"Longitude": 103.85132688003488
 	},
 	{
 		"BusStopCode": "54539",
 		"RoadName": "Bishan Rd",
-		"Description": "BISHAN PK",
+		"Description": "Bishan Pk",
 		"Latitude": 1.35857111103202,
 		"Longitude": 103.85104805599867
 	},
@@ -20638,28 +20638,28 @@
 	{
 		"BusStopCode": "54611",
 		"RoadName": "Ang Mo Kio Ave 1",
-		"Description": "BLK 220",
+		"Description": "Blk 220",
 		"Latitude": 1.36489470522366,
 		"Longitude": 103.84057417396242
 	},
 	{
 		"BusStopCode": "54619",
 		"RoadName": "Ang Mo Kio Ave 1",
-		"Description": "OPP BLK 220",
+		"Description": "Opp Blk 220",
 		"Latitude": 1.36467168386173,
 		"Longitude": 103.84050288513411
 	},
 	{
 		"BusStopCode": "54621",
 		"RoadName": "Ang Mo Kio Ave 1",
-		"Description": "BLK 223",
+		"Description": "Blk 223",
 		"Latitude": 1.36595331171712,
 		"Longitude": 103.83773071305599
 	},
 	{
 		"BusStopCode": "54629",
 		"RoadName": "Ang Mo Kio Ave 1",
-		"Description": "OPP BLK 223",
+		"Description": "Opp Blk 223",
 		"Latitude": 1.3655880696456,
 		"Longitude": 103.83801666007233
 	},
@@ -20708,14 +20708,14 @@
 	{
 		"BusStopCode": "55021",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "OPP SEASONS PK",
+		"Description": "Opp Seasons Pk",
 		"Latitude": 1.3857011784032,
 		"Longitude": 103.83872706499656
 	},
 	{
 		"BusStopCode": "55029",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "SEASONS PK",
+		"Description": "Seasons Pk",
 		"Latitude": 1.38565193733046,
 		"Longitude": 103.83917105055716
 	},
@@ -20764,14 +20764,14 @@
 	{
 		"BusStopCode": "55071",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "Bef Econ Medicare Ctr",
+		"Description": "Bef ECON Medicare Ctr",
 		"Latitude": 1.39246274085167,
 		"Longitude": 103.85261828242731
 	},
 	{
 		"BusStopCode": "55079",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "Aft Econ Medicare Ctr",
+		"Description": "Aft ECON Medicare Ctr",
 		"Latitude": 1.391952,
 		"Longitude": 103.853366
 	},
@@ -20834,49 +20834,49 @@
 	{
 		"BusStopCode": "55131",
 		"RoadName": "Ang Mo Kio Ave 4",
-		"Description": "BLK 612",
+		"Description": "Blk 612",
 		"Latitude": 1.37986282047018,
 		"Longitude": 103.8396597025406
 	},
 	{
 		"BusStopCode": "55139",
 		"RoadName": "Ang Mo Kio Ave 4",
-		"Description": "BLK 641",
+		"Description": "Blk 641",
 		"Latitude": 1.37894011617745,
 		"Longitude": 103.84007487448596
 	},
 	{
 		"BusStopCode": "55141",
 		"RoadName": "Ang Mo Kio Ave 4",
-		"Description": "OPP BLK 622",
+		"Description": "Opp Blk 622",
 		"Latitude": 1.38151305598601,
 		"Longitude": 103.83902055596755
 	},
 	{
 		"BusStopCode": "55149",
 		"RoadName": "Ang Mo Kio Ave 4",
-		"Description": "BLK 622",
+		"Description": "Blk 622",
 		"Latitude": 1.38147638900431,
 		"Longitude": 103.8392680559805
 	},
 	{
 		"BusStopCode": "55151",
 		"RoadName": "Ang Mo Kio Ave 9",
-		"Description": "Ang Mo Kio Comm Hosp",
+		"Description": "Ang Mo Kio Community Hosp",
 		"Latitude": 1.3833944010563,
 		"Longitude": 103.8403312479222
 	},
 	{
 		"BusStopCode": "55159",
 		"RoadName": "Ang Mo Kio Ave 9",
-		"Description": "Opp Ang Mo Kio Comm Hosp",
+		"Description": "Opp Ang Mo Kio Cmty Hosp",
 		"Latitude": 1.383362,
 		"Longitude": 103.84065
 	},
 	{
 		"BusStopCode": "55169",
 		"RoadName": "Ang Mo Kio St 61",
-		"Description": "Opp Yio Chu Kang Cc",
+		"Description": "Opp Yio Chu Kang CC",
 		"Latitude": 1.38123639226093,
 		"Longitude": 103.84100233602071
 	},
@@ -21135,7 +21135,7 @@
 	{
 		"BusStopCode": "56011",
 		"RoadName": "Upp Thomson Rd",
-		"Description": "Bef adana at thomson",
+		"Description": "Bef Adana @ Thomson",
 		"Latitude": 1.36865,
 		"Longitude": 103.828321
 	},
@@ -21156,7 +21156,7 @@
 	{
 		"BusStopCode": "56029",
 		"RoadName": "Upp Thomson Rd",
-		"Description": "Bef Sembawang Hills Fc",
+		"Description": "Bef Sembawang Hills FC",
 		"Latitude": 1.37359500001635,
 		"Longitude": 103.82870000002058
 	},
@@ -21324,7 +21324,7 @@
 	{
 		"BusStopCode": "56269",
 		"RoadName": "Ang Mo Kio Ave 1",
-		"Description": "BEF Ang mo kio avenue 2",
+		"Description": "Bef Ang Mo Kio Ave 2",
 		"Latitude": 1.36741835425889,
 		"Longitude": 103.83233403239235
 	},
@@ -21373,7 +21373,7 @@
 	{
 		"BusStopCode": "57039",
 		"RoadName": "Sembawang Rd",
-		"Description": "SPIRITUAL GRACE PRESBY CH",
+		"Description": "Spiritual Grace Presby Ch",
 		"Latitude": 1.40611750000192,
 		"Longitude": 103.8199872220186
 	},
@@ -21772,14 +21772,14 @@
 	{
 		"BusStopCode": "58199",
 		"RoadName": "Admiralty Rd East",
-		"Description": "OPP AUCKLAND ROAD WEST",
+		"Description": "Opp Auckland Rd West",
 		"Latitude": 1.4590501574168,
 		"Longitude": 103.82788431875926
 	},
 	{
 		"BusStopCode": "58201",
 		"RoadName": "Admiralty Rd East",
-		"Description": "Aft Queen'S Ave",
+		"Description": "Aft Queen's Ave",
 		"Latitude": 1.45531234912714,
 		"Longitude": 103.83098996673239
 	},
@@ -21835,7 +21835,7 @@
 	{
 		"BusStopCode": "58251",
 		"RoadName": "Sembawang Dr",
-		"Description": "Sun Plaza/Sembawang Stn",
+		"Description": "Sun Plaza/ Sembawang Stn",
 		"Latitude": 1.44803148822713,
 		"Longitude": 103.81895207486829
 	},
@@ -21849,14 +21849,14 @@
 	{
 		"BusStopCode": "58261",
 		"RoadName": "Canberra Link",
-		"Description": "VISIONAIRE",
+		"Description": "Visionaire",
 		"Latitude": 1.44710213838584,
 		"Longitude": 103.82726305553976
 	},
 	{
 		"BusStopCode": "58269",
 		"RoadName": "Canberra Link",
-		"Description": "OPP VISIONAIRE",
+		"Description": "Opp Visionaire",
 		"Latitude": 1.44702361616489,
 		"Longitude": 103.82761997468876
 	},
@@ -21989,14 +21989,14 @@
 	{
 		"BusStopCode": "58361",
 		"RoadName": "Admiralty St",
-		"Description": "Nth Link Bldg",
+		"Description": "Nth Lk Bldg",
 		"Latitude": 1.46118688481447,
 		"Longitude": 103.81270708997143
 	},
 	{
 		"BusStopCode": "58369",
 		"RoadName": "Admiralty St",
-		"Description": "BEF ACACIA HME",
+		"Description": "Bef Acacia Hme",
 		"Latitude": 1.46077451756536,
 		"Longitude": 103.81206144667213
 	},
@@ -22185,35 +22185,35 @@
 	{
 		"BusStopCode": "58519",
 		"RoadName": "Canberra st",
-		"Description": "OPP BLK 104B",
+		"Description": "Opp Blk 104B",
 		"Latitude": 1.44973306,
 		"Longitude": 103.831062
 	},
 	{
 		"BusStopCode": "58521",
 		"RoadName": "Canberra st",
-		"Description": "BLK 106A",
+		"Description": "Blk 106A",
 		"Latitude": 1.44819389,
 		"Longitude": 103.8326
 	},
 	{
 		"BusStopCode": "58529",
 		"RoadName": "Canberra st",
-		"Description": "BLK 108 CP",
+		"Description": "Blk 108 CP",
 		"Latitude": 1.44801889,
 		"Longitude": 103.832461
 	},
 	{
 		"BusStopCode": "58531",
 		"RoadName": "Canberra Way",
-		"Description": "BLK 129A",
+		"Description": "Blk 129A",
 		"Latitude": 1.44543806,
 		"Longitude": 103.8323
 	},
 	{
 		"BusStopCode": "58539",
 		"RoadName": "Canberra Way",
-		"Description": "BLK 120A",
+		"Description": "Blk 120A",
 		"Latitude": 1.44576806,
 		"Longitude": 103.832311
 	},
@@ -22234,14 +22234,14 @@
 	{
 		"BusStopCode": "58571",
 		"RoadName": "Sembawang Ave",
-		"Description": "Gambas Ave",
+		"Description": "Bef Sembawang Ave",
 		"Latitude": 1.441805,
 		"Longitude": 103.8168685
 	},
 	{
 		"BusStopCode": "58579",
 		"RoadName": "Sembawang Ave",
-		"Description": "Gambas Ave",
+		"Description": "Aft Sembawang Ave",
 		"Latitude": 1.4415255,
 		"Longitude": 103.817029
 	},
@@ -22290,23 +22290,16 @@
 	{
 		"BusStopCode": "58621",
 		"RoadName": "Canberra st",
-		"Description": "Blk 126 Cp",
+		"Description": "Blk 126 CP",
 		"Latitude": 1.445953,
 		"Longitude": 103.834031
 	},
 	{
 		"BusStopCode": "58991",
 		"RoadName": "Yishun Ave 2",
-		"Description": "BLK 767",
+		"Description": "Blk 767",
 		"Latitude": 1.424583611,
 		"Longitude": 103.8350086
-	},
-	{
-		"BusStopCode": "59008",
-		"RoadName": "Yishun Ave 2",
-		"Description": "Yishun Int",
-		"Latitude": 1.4285384902718,
-		"Longitude": 103.8361105319593
 	},
 	{
 		"BusStopCode": "59009",
@@ -23095,7 +23088,7 @@
 	{
 		"BusStopCode": "59601",
 		"RoadName": "Yishun Ave 6",
-		"Description": "BLK 391",
+		"Description": "Blk 391",
 		"Latitude": 1.429842,
 		"Longitude": 103.849376
 	},
@@ -23186,7 +23179,7 @@
 	{
 		"BusStopCode": "59671",
 		"RoadName": "Yishun Ave 2",
-		"Description": "Before Yishun Station",
+		"Description": "Bef Yishun Stn",
 		"Latitude": 1.427779,
 		"Longitude": 103.835106
 	},
@@ -23361,21 +23354,21 @@
 	{
 		"BusStopCode": "59829",
 		"RoadName": "Yishun Ave 6",
-		"Description": "Opposite Blk 334B",
+		"Description": "Opp Blk 334B",
 		"Latitude": 1.432833,
 		"Longitude": 103.846904
 	},
 	{
 		"BusStopCode": "60011",
 		"RoadName": "Kallang Bahru",
-		"Description": "BENDEMEER STN EXIT A",
+		"Description": "Bendemeer Stn Exit A",
 		"Latitude": 1.31471795031338,
 		"Longitude": 103.86376795493321
 	},
 	{
 		"BusStopCode": "60019",
 		"RoadName": "Kallang Bahru",
-		"Description": "BENDEMEER STN EXIT B",
+		"Description": "Bendemeer Stn Exit B",
 		"Latitude": 1.31479811892165,
 		"Longitude": 103.86413644350252
 	},
@@ -23396,7 +23389,7 @@
 	{
 		"BusStopCode": "60031",
 		"RoadName": "Kallang Bahru",
-		"Description": "BEF GEYLANG BAHRU STN",
+		"Description": "Bef Geylang Bahru Stn",
 		"Latitude": 1.3204097072077,
 		"Longitude": 103.87007832529532
 	},
@@ -23452,14 +23445,14 @@
 	{
 		"BusStopCode": "60081",
 		"RoadName": "Jln Toa Payoh",
-		"Description": "St. Andrew'S Village",
+		"Description": "St. Andrew's Village",
 		"Latitude": 1.32931226062177,
 		"Longitude": 103.8662910461625
 	},
 	{
 		"BusStopCode": "60089",
 		"RoadName": "Jln Toa Payoh",
-		"Description": "Opp St. Andrew'S Village",
+		"Description": "Opp St. Andrew's Village",
 		"Latitude": 1.32865054961465,
 		"Longitude": 103.86615967295366
 	},
@@ -23578,7 +23571,7 @@
 	{
 		"BusStopCode": "60221",
 		"RoadName": "Geylang Bahru",
-		"Description": "BLK 73/GEYLANG BAHRU STN",
+		"Description": "Blk 73/Geylang Bahru Stn",
 		"Latitude": 1.32212380559601,
 		"Longitude": 103.87081431318353
 	},
@@ -23858,14 +23851,14 @@
 	{
 		"BusStopCode": "62071",
 		"RoadName": "Bartley Rd",
-		"Description": "BARTLEY STN EXIT A",
+		"Description": "Bartley Stn Exit A",
 		"Latitude": 1.34252980960729,
 		"Longitude": 103.88002892732668
 	},
 	{
 		"BusStopCode": "62079",
 		"RoadName": "Bartley Rd",
-		"Description": "AFT BARTLEY STN EXIT B",
+		"Description": "Aft Bartley Stn Exit B",
 		"Latitude": 1.34296635529936,
 		"Longitude": 103.87976646424752
 	},
@@ -23900,14 +23893,14 @@
 	{
 		"BusStopCode": "62101",
 		"RoadName": "Bartley Rd",
-		"Description": "Bef Upp Serangoon Rd",
+		"Description": "Bef Upp S'goon Rd",
 		"Latitude": 1.34324887065522,
 		"Longitude": 103.87308054810315
 	},
 	{
 		"BusStopCode": "62109",
 		"RoadName": "Bartley Rd",
-		"Description": "Aft Upp Serangoon Rd",
+		"Description": "Aft Upp S'goon Rd",
 		"Latitude": 1.34374111656683,
 		"Longitude": 103.87380734555013
 	},
@@ -23942,14 +23935,14 @@
 	{
 		"BusStopCode": "62131",
 		"RoadName": "Upp S'goon Rd",
-		"Description": "S'Goon Stn Exit H",
+		"Description": "S'goon Stn Exit H",
 		"Latitude": 1.3489790064228,
 		"Longitude": 103.87277432797597
 	},
 	{
 		"BusStopCode": "62139",
 		"RoadName": "Upp S'goon Rd",
-		"Description": "S'Goon Stn Exit A/Blk 413",
+		"Description": "S'goon Stn Exit A/Blk 413",
 		"Latitude": 1.3490461240579,
 		"Longitude": 103.87341165935781
 	},
@@ -23984,7 +23977,7 @@
 	{
 		"BusStopCode": "62161",
 		"RoadName": "S'goon Ave 1",
-		"Description": "St.Gabriel's Sec Sch",
+		"Description": "St. Gabriel's Sec Sch",
 		"Latitude": 1.34750333302055,
 		"Longitude": 103.87601972203167
 	},
@@ -24012,7 +24005,7 @@
 	{
 		"BusStopCode": "62189",
 		"RoadName": "Upp S'goon Rd",
-		"Description": "S'Goon Stn Exit D/Blk 416",
+		"Description": "S'goon Stn Exit D/Blk 416",
 		"Latitude": 1.35056391832311,
 		"Longitude": 103.87470953705504
 	},
@@ -24040,14 +24033,14 @@
 	{
 		"BusStopCode": "62231",
 		"RoadName": "Hougang Ave 3",
-		"Description": "BEF S'PORE GIRLS' HME",
+		"Description": "Bef S'pore Girls' Hme",
 		"Latitude": 1.34771728070981,
 		"Longitude": 103.89029313192805
 	},
 	{
 		"BusStopCode": "62239",
 		"RoadName": "Hougang Ave 3",
-		"Description": "OPP S'PORE GIRLS' HME",
+		"Description": "Opp S'pore Girls' Hme",
 		"Latitude": 1.34763066655635,
 		"Longitude": 103.88998897946436
 	},
@@ -24096,14 +24089,14 @@
 	{
 		"BusStopCode": "63011",
 		"RoadName": "Upp S'goon Rd",
-		"Description": "Opp Upp S'Goon Shop Ctr",
+		"Description": "Opp Upp S'goon Shop Ctr",
 		"Latitude": 1.35432115760902,
 		"Longitude": 103.87823575937183
 	},
 	{
 		"BusStopCode": "63019",
 		"RoadName": "Upp S'goon Rd",
-		"Description": "Aft Upp S'Goon Shop Ctr",
+		"Description": "Aft Upp S'goon Shop Ctr",
 		"Latitude": 1.35347964311763,
 		"Longitude": 103.87800141702434
 	},
@@ -24236,7 +24229,7 @@
 	{
 		"BusStopCode": "63131",
 		"RoadName": "Tampines Rd",
-		"Description": "THE TEMBUSU",
+		"Description": "The Tembusu",
 		"Latitude": 1.36120884403234,
 		"Longitude": 103.89033109494885
 	},
@@ -24257,14 +24250,14 @@
 	{
 		"BusStopCode": "63149",
 		"RoadName": "Boundary Rd",
-		"Description": "Serangoon Stadium",
+		"Description": "S'goon Stadium",
 		"Latitude": 1.35489972198729,
 		"Longitude": 103.87452555599006
 	},
 	{
 		"BusStopCode": "63151",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "Aft Upp S'Goon Rd",
+		"Description": "Aft Upp S'goon Rd",
 		"Latitude": 1.35412291412202,
 		"Longitude": 103.87758355854012
 	},
@@ -24278,14 +24271,14 @@
 	{
 		"BusStopCode": "63161",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "Serangoon Swim Cplx",
+		"Description": "S'goon Swim Cplx",
 		"Latitude": 1.35717307747832,
 		"Longitude": 103.87530650239555
 	},
 	{
 		"BusStopCode": "63169",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "Opp Serangoon Swim Cplx",
+		"Description": "Opp S'goon Swim Cplx",
 		"Latitude": 1.35703664863271,
 		"Longitude": 103.87567788589342
 	},
@@ -24306,14 +24299,14 @@
 	{
 		"BusStopCode": "63189",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "Aft Serangoon Gdn Way",
+		"Description": "Aft S'goon Gdn Way",
 		"Latitude": 1.36133997852966,
 		"Longitude": 103.87363460960414
 	},
 	{
 		"BusStopCode": "63191",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "Aft Serangoon Nth Ave 1",
+		"Description": "Aft S'goon Nth Ave 1",
 		"Latitude": 1.36426277802723,
 		"Longitude": 103.87403972199432
 	},
@@ -24355,7 +24348,7 @@
 	{
 		"BusStopCode": "63221",
 		"RoadName": "Hougang St 21",
-		"Description": "KOVAN HUB",
+		"Description": "Kovan Hub",
 		"Latitude": 1.35799327947024,
 		"Longitude": 103.8855063915276
 	},
@@ -24376,7 +24369,7 @@
 	{
 		"BusStopCode": "63239",
 		"RoadName": "Hougang St 21",
-		"Description": "OPP BLK 211",
+		"Description": "Opp Blk 211",
 		"Latitude": 1.35891911967242,
 		"Longitude": 103.8878789953328
 	},
@@ -24453,7 +24446,7 @@
 	{
 		"BusStopCode": "63301",
 		"RoadName": "Lor Ah Soo",
-		"Description": "Paya Lebar Meth Girls' Sc",
+		"Description": "Paya Lebar Meth Girls' Sch",
 		"Latitude": 1.35149473186732,
 		"Longitude": 103.88531199399267
 	},
@@ -24537,14 +24530,14 @@
 	{
 		"BusStopCode": "63361",
 		"RoadName": "Yio Chu Kang Link",
-		"Description": "Opp S'Goon Sports Cplx",
+		"Description": "Opp S'goon Sports Cplx",
 		"Latitude": 1.35744648841295,
 		"Longitude": 103.87383985365209
 	},
 	{
 		"BusStopCode": "63369",
 		"RoadName": "Yio Chu Kang Link",
-		"Description": "Serangoon Sports Cplx",
+		"Description": "S'goon Sports Cplx",
 		"Latitude": 1.356702,
 		"Longitude": 103.874108
 	},
@@ -24670,14 +24663,14 @@
 	{
 		"BusStopCode": "64061",
 		"RoadName": "Upp S'goon Rd",
-		"Description": "Opp Serangoon Sec Sch",
+		"Description": "Opp S'goon Sec Sch",
 		"Latitude": 1.37557886299976,
 		"Longitude": 103.90111900001394
 	},
 	{
 		"BusStopCode": "64069",
 		"RoadName": "Upp S'goon Rd",
-		"Description": "Serangoon Sec Sch",
+		"Description": "S'goon Sec Sch",
 		"Latitude": 1.37526504951859,
 		"Longitude": 103.90134716214978
 	},
@@ -24705,7 +24698,7 @@
 	{
 		"BusStopCode": "64089",
 		"RoadName": "Hougang St 91",
-		"Description": "OPP HOUGANG 1",
+		"Description": "Opp Hougang 1",
 		"Latitude": 1.376101,
 		"Longitude": 103.8802
 	},
@@ -24719,7 +24712,7 @@
 	{
 		"BusStopCode": "64099",
 		"RoadName": "Hougang St 93",
-		"Description": "HOUGANG SEC SCH",
+		"Description": "Hougang Sec Sch",
 		"Latitude": 1.377877,
 		"Longitude": 103.8815677
 	},
@@ -25083,7 +25076,7 @@
 	{
 		"BusStopCode": "64397",
 		"RoadName": "Hougang Ave 10",
-		"Description": "Block 513",
+		"Description": "Blk 513",
 		"Latitude": 1.371948,
 		"Longitude": 103.890003
 	},
@@ -25461,7 +25454,7 @@
 	{
 		"BusStopCode": "65099",
 		"RoadName": "Punggol Rd",
-		"Description": "BLK 604A",
+		"Description": "Blk 604A",
 		"Latitude": 1.40446781720997,
 		"Longitude": 103.90711426733175
 	},
@@ -25538,7 +25531,7 @@
 	{
 		"BusStopCode": "65181",
 		"RoadName": "Punggol East",
-		"Description": "Atf Punggol Ctrl",
+		"Description": "Aft Punggol Ctrl",
 		"Latitude": 1.39681388886675,
 		"Longitude": 103.91754694442001
 	},
@@ -25986,7 +25979,7 @@
 	{
 		"BusStopCode": "65559",
 		"RoadName": "Punggol Field",
-		"Description": "Opposite Blk 227A",
+		"Description": "Opp Blk 227A",
 		"Latitude": 1.404046,
 		"Longitude": 103.8925
 	},
@@ -26007,14 +26000,14 @@
 	{
 		"BusStopCode": "65571",
 		"RoadName": "Punggol Field",
-		"Description": "BLK 218",
+		"Description": "Blk 218",
 		"Latitude": 1.403478611,
 		"Longitude": 103.895535
 	},
 	{
 		"BusStopCode": "65579",
 		"RoadName": "Punggol Field",
-		"Description": "BLK 258A",
+		"Description": "Blk 258A",
 		"Latitude": 1.403556111,
 		"Longitude": 103.8960314
 	},
@@ -26126,14 +26119,14 @@
 	{
 		"BusStopCode": "65671",
 		"RoadName": "Sumang Link",
-		"Description": "Punggol cove pr sch",
+		"Description": "Punggol Cove Pr Sch",
 		"Latitude": 1.411223,
 		"Longitude": 103.898788
 	},
 	{
 		"BusStopCode": "65679",
 		"RoadName": "Sumang Link",
-		"Description": "Opp punggol cove pr sch",
+		"Description": "Opp Punggol Cove Pr Sch",
 		"Latitude": 1.410983,
 		"Longitude": 103.898983
 	},
@@ -26154,7 +26147,7 @@
 	{
 		"BusStopCode": "65691",
 		"RoadName": "New Punggol Road",
-		"Description": "Opposite Blk 437B",
+		"Description": "Opp Blk 437B",
 		"Latitude": 1.420151,
 		"Longitude": 103.911959
 	},
@@ -26168,14 +26161,14 @@
 	{
 		"BusStopCode": "65701",
 		"RoadName": "New Punggol Road",
-		"Description": "Opposite SIT Punggol",
+		"Description": "Opp SIT Punggol",
 		"Latitude": 1.411694,
 		"Longitude": 103.911075
 	},
 	{
 		"BusStopCode": "65709",
 		"RoadName": "New Punggol Road",
-		"Description": "Before SIT Punggol",
+		"Description": "Bef SIT Punggol",
 		"Latitude": 1.411316,
 		"Longitude": 103.910496
 	},
@@ -26196,14 +26189,14 @@
 	{
 		"BusStopCode": "65721",
 		"RoadName": "New Punggol Road",
-		"Description": "Opposite Punggol Coast Station",
+		"Description": "Opp Punggol Coast Stn",
 		"Latitude": 1.414944,
 		"Longitude": 103.911686
 	},
 	{
 		"BusStopCode": "65729",
 		"RoadName": "New Punggol Road",
-		"Description": "Punggol Coast Station",
+		"Description": "Punggol Coast Stn",
 		"Latitude": 1.414675,
 		"Longitude": 103.911277
 	},
@@ -26232,13 +26225,13 @@
 		"BusStopCode": "65809",
 		"RoadName": "Anchorvale Rd",
 		"Description": "Anchor Green Pr Sch",
-		"Latitude": 1.39121000003879,
-		"Longitude": 103.88630888889303
+		"Latitude": 1.390669,
+		"Longitude": 103.886047
 	},
 	{
 		"BusStopCode": "66009",
 		"RoadName": "S'goon Ave 2",
-		"Description": "S'Goon Int",
+		"Description": "Serangoon Int",
 		"Latitude": 1.35046610176969,
 		"Longitude": 103.87168992264617
 	},
@@ -26518,14 +26511,14 @@
 	{
 		"BusStopCode": "66261",
 		"RoadName": "Kensington Pk Rd",
-		"Description": "S'Goon Gdns Country Club",
+		"Description": "S'goon Gdns Country Club",
 		"Latitude": 1.36555110748973,
 		"Longitude": 103.86640982940798
 	},
 	{
 		"BusStopCode": "66271",
 		"RoadName": "S'goon Gdn Way",
-		"Description": "Serangoon Gdn Circus",
+		"Description": "S'goon Gdn Circus",
 		"Latitude": 1.36398333300081,
 		"Longitude": 103.86578916701893
 	},
@@ -26616,7 +26609,7 @@
 	{
 		"BusStopCode": "66359",
 		"RoadName": "S'goon Ctrl",
-		"Description": "S'Goon Stn Exit C/Blk 201",
+		"Description": "S'goon Stn Exit C/Blk 201",
 		"Latitude": 1.35080698547823,
 		"Longitude": 103.87328604946424
 	},
@@ -26651,14 +26644,14 @@
 	{
 		"BusStopCode": "66381",
 		"RoadName": "S'goon Ave 2",
-		"Description": "Opp S'Goon Stn Exit F",
+		"Description": "Opp S'goon Stn Exit F",
 		"Latitude": 1.35020472222222,
 		"Longitude": 103.8712252777778
 	},
 	{
 		"BusStopCode": "66389",
 		"RoadName": "S'goon Ave 2",
-		"Description": "S'Goon Stn Exit F",
+		"Description": "S'goon Stn Exit F",
 		"Latitude": 1.35092163758707,
 		"Longitude": 103.8710690514159
 	},
@@ -26875,14 +26868,14 @@
 	{
 		"BusStopCode": "66561",
 		"RoadName": "Buangkok Link",
-		"Description": "Outside Blk 991B",
+		"Description": "Blk 991B",
 		"Latitude": 1.383486,
 		"Longitude": 103.882607
 	},
 	{
 		"BusStopCode": "66569",
 		"RoadName": "Buangkok Link",
-		"Description": "OPP BLK 991B",
+		"Description": "Opp Blk 991B",
 		"Latitude": 1.383159,
 		"Longitude": 103.882572
 	},
@@ -26896,7 +26889,7 @@
 	{
 		"BusStopCode": "66579",
 		"RoadName": "Buangkok Cres",
-		"Description": "BLK 998B",
+		"Description": "Blk 998B",
 		"Latitude": 1.38402973472559,
 		"Longitude": 103.88070409002009
 	},
@@ -27029,7 +27022,7 @@
 	{
 		"BusStopCode": "67079",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "Ch Of St. Vincent De Paul",
+		"Description": "Ch of St. Vincent de Paul",
 		"Latitude": 1.38256500000442,
 		"Longitude": 103.87673500001087
 	},
@@ -27078,7 +27071,7 @@
 	{
 		"BusStopCode": "67111",
 		"RoadName": "Sengkang East Way",
-		"Description": "Chij St. Joseph'S Convent",
+		"Description": "CHIJ St. Joseph's Convent",
 		"Latitude": 1.39105369405739,
 		"Longitude": 103.90237246307768
 	},
@@ -27841,21 +27834,21 @@
 	{
 		"BusStopCode": "67691",
 		"RoadName": "Anchorvale Cres",
-		"Description": "BLK 338A",
+		"Description": "Blk 338A",
 		"Latitude": 1.39899,
 		"Longitude": 103.8887775
 	},
 	{
 		"BusStopCode": "67699",
 		"RoadName": "Anchorvale Cres",
-		"Description": "BLK 334A",
+		"Description": "Blk 334A",
 		"Latitude": 1.3988295,
 		"Longitude": 103.889524
 	},
 	{
 		"BusStopCode": "67701",
 		"RoadName": "Fernvale St",
-		"Description": "AFT BLK 467B",
+		"Description": "Aft Blk 467B",
 		"Latitude": 1.3984935,
 		"Longitude": 103.877445
 	},
@@ -27911,14 +27904,14 @@
 	{
 		"BusStopCode": "67761",
 		"RoadName": "Anchorvale Rd",
-		"Description": "OPP BLK 326D",
+		"Description": "Opp Blk 326D",
 		"Latitude": 1.396006,
 		"Longitude": 103.887595
 	},
 	{
 		"BusStopCode": "67769",
 		"RoadName": "Anchorvale Rd",
-		"Description": "BLK 326D",
+		"Description": "Blk 326D",
 		"Latitude": 1.39607378603056,
 		"Longitude": 103.88766378607079
 	},
@@ -28023,14 +28016,14 @@
 	{
 		"BusStopCode": "68081",
 		"RoadName": "Seletar Aerospace Dr",
-		"Description": "Bef Seletar A'Space Rise",
+		"Description": "Bef Seletar A'space Rise",
 		"Latitude": 1.40559323576727,
 		"Longitude": 103.86681241814273
 	},
 	{
 		"BusStopCode": "68089",
 		"RoadName": "Seletar Aerospace Dr",
-		"Description": "Aft Seletar A'Space Rise",
+		"Description": "Aft Seletar A'space Rise",
 		"Latitude": 1.40570196065228,
 		"Longitude": 103.86666745163518
 	},
@@ -28135,14 +28128,14 @@
 	{
 		"BusStopCode": "68161",
 		"RoadName": "West Camp Rd",
-		"Description": "Aft Seletar A'Space Lane",
+		"Description": "Aft Seletar A'space Lane",
 		"Latitude": 1.41076903489058,
 		"Longitude": 103.86179481507453
 	},
 	{
 		"BusStopCode": "68169",
 		"RoadName": "West Camp Rd",
-		"Description": "Bef Seletar A'Space Lane",
+		"Description": "Bef Seletar A'space Lane",
 		"Latitude": 1.4107138403801,
 		"Longitude": 103.86188409763393
 	},
@@ -28163,28 +28156,28 @@
 	{
 		"BusStopCode": "68181",
 		"RoadName": "Seletar Aerospace Link",
-		"Description": "Bef Jtc Aerospace",
+		"Description": "Bef JTC Aerospace",
 		"Latitude": 1.40407,
 		"Longitude": 103.858281
 	},
 	{
 		"BusStopCode": "68189",
 		"RoadName": "Seletar Aerospace Link",
-		"Description": "Bef Seletar A'Space Cres",
+		"Description": "Aft JTC Aerospace",
 		"Latitude": 1.403739,
 		"Longitude": 103.858254
 	},
 	{
 		"BusStopCode": "68191",
 		"RoadName": "Seletar Aerospace Crescent",
-		"Description": "Bef Seletar A'Space Lk",
+		"Description": "Bef Seletar A'space Lk",
 		"Latitude": 1.402289,
 		"Longitude": 103.85963
 	},
 	{
 		"BusStopCode": "68199",
 		"RoadName": "Seletar Aerospace Crescent",
-		"Description": "Aft Seletar A'Space Lk",
+		"Description": "Aft Seletar A'space Lk",
 		"Latitude": 1.402553,
 		"Longitude": 103.859906
 	},
@@ -28215,6 +28208,13 @@
 		"Description": "Punggol Coast Int",
 		"Latitude": 1.414795,
 		"Longitude": 103.908557
+	},
+	{
+		"BusStopCode": "69099",
+		"RoadName": "Sang Nila Utama",
+		"Description": "Blk 227",
+		"Latitude": 1.339846,
+		"Longitude": 103.8765295
 	},
 	{
 		"BusStopCode": "70011",
@@ -28422,7 +28422,7 @@
 	{
 		"BusStopCode": "70161",
 		"RoadName": "Merpati Rd",
-		"Description": "OPP MATTAR STN EXIT A",
+		"Description": "Opp Mattar Stn Exit A",
 		"Latitude": 1.32758635490072,
 		"Longitude": 103.88324806418214
 	},
@@ -28443,14 +28443,14 @@
 	{
 		"BusStopCode": "70191",
 		"RoadName": "Circuit Rd",
-		"Description": "OPP BLK 66",
+		"Description": "Opp Blk 66",
 		"Latitude": 1.327333,
 		"Longitude": 103.887875
 	},
 	{
 		"BusStopCode": "70201",
 		"RoadName": "Circuit Rd",
-		"Description": "OPP MACPHERSON STN EXIT D",
+		"Description": "Opp MacPherson Stn Exit D",
 		"Latitude": 1.32461138902969,
 		"Longitude": 103.88885416699938
 	},
@@ -28471,7 +28471,7 @@
 	{
 		"BusStopCode": "70231",
 		"RoadName": "Mattar Rd",
-		"Description": "OPP MATTAR STN EXIT B",
+		"Description": "Opp Mattar Stn Exit B",
 		"Latitude": 1.325842,
 		"Longitude": 103.884002
 	},
@@ -28485,14 +28485,14 @@
 	{
 		"BusStopCode": "70251",
 		"RoadName": "Paya Lebar Rd",
-		"Description": "Macpherson Stn Exit C",
+		"Description": "MacPherson Stn Exit C",
 		"Latitude": 1.32497158481981,
 		"Longitude": 103.89037074589527
 	},
 	{
 		"BusStopCode": "70259",
 		"RoadName": "Paya Lebar Rd",
-		"Description": "Macpherson Stn Exit B",
+		"Description": "MacPherson Stn Exit B",
 		"Latitude": 1.32498730068675,
 		"Longitude": 103.89080428753108
 	},
@@ -28625,28 +28625,28 @@
 	{
 		"BusStopCode": "70371",
 		"RoadName": "Circuit Link",
-		"Description": "Macpherson Stn Exit A",
+		"Description": "MacPherson Stn Exit A",
 		"Latitude": 1.32623288866609,
 		"Longitude": 103.88932330108935
 	},
 	{
 		"BusStopCode": "70379",
 		"RoadName": "Circuit Link",
-		"Description": "Opp Macpherson Stn Exit A",
+		"Description": "Opp MacPherson Stn Exit A",
 		"Latitude": 1.32604294133609,
 		"Longitude": 103.88933975894
 	},
 	{
 		"BusStopCode": "70401",
 		"RoadName": "Ubi Rd 3",
-		"Description": "BEF UBI RD 4",
+		"Description": "Bef Ubi Rd 4",
 		"Latitude": 1.33088230075978,
 		"Longitude": 103.89811560002391
 	},
 	{
 		"BusStopCode": "70409",
 		"RoadName": "Ubi Rd 3",
-		"Description": "BLK 3032A",
+		"Description": "Blk 3032A",
 		"Latitude": 1.33094654621155,
 		"Longitude": 103.89789906902672
 	},
@@ -28793,14 +28793,14 @@
 	{
 		"BusStopCode": "71121",
 		"RoadName": "Ubi Ave 2",
-		"Description": "UBI STN EXIT B",
+		"Description": "Ubi Stn Exit B",
 		"Latitude": 1.330081111,
 		"Longitude": 103.8994169
 	},
 	{
 		"BusStopCode": "71129",
 		"RoadName": "Ubi Ave 2",
-		"Description": "UBI STN EXIT A",
+		"Description": "Ubi Stn Exit A",
 		"Latitude": 1.329761944,
 		"Longitude": 103.8991489
 	},
@@ -28863,14 +28863,14 @@
 	{
 		"BusStopCode": "71171",
 		"RoadName": "Airport Rd",
-		"Description": "Opp Scdf Hq",
+		"Description": "Opp SCDF HQ",
 		"Latitude": 1.33497828854869,
 		"Longitude": 103.89238738026172
 	},
 	{
 		"BusStopCode": "71179",
 		"RoadName": "Airport Rd",
-		"Description": "Aft Scdf Hq",
+		"Description": "Aft SCDF HQ",
 		"Latitude": 1.3346773011372,
 		"Longitude": 103.89238294056769
 	},
@@ -28940,28 +28940,28 @@
 	{
 		"BusStopCode": "71291",
 		"RoadName": "Kaki Bt Rd 3",
-		"Description": "THE LEO",
+		"Description": "The Leo",
 		"Latitude": 1.33709007875103,
 		"Longitude": 103.90374749997088
 	},
 	{
 		"BusStopCode": "71299",
 		"RoadName": "Kaki Bt Rd 3",
-		"Description": "EMPIRE TECHNOCENTRE",
+		"Description": "Empire Technocentre",
 		"Latitude": 1.33675693078428,
 		"Longitude": 103.9040176205713
 	},
 	{
 		"BusStopCode": "71331",
 		"RoadName": "Kaki Bt Ave 2",
-		"Description": "KAKI BT AUTOHUB",
+		"Description": "Kaki Bt Autohub",
 		"Latitude": 1.33683480070641,
 		"Longitude": 103.90096749998749
 	},
 	{
 		"BusStopCode": "71339",
 		"RoadName": "Kaki Bt Ave 2",
-		"Description": "OPP KAKI BT AUTOHUB",
+		"Description": "Opp Kaki Bt Autohub",
 		"Latitude": 1.33681468016557,
 		"Longitude": 103.90112122053516
 	},
@@ -28996,14 +28996,14 @@
 	{
 		"BusStopCode": "72031",
 		"RoadName": "Kaki Bt Ave 1",
-		"Description": "BEF KAKI BT STN EXIT B",
+		"Description": "Bef Kaki Bt Stn Exit B",
 		"Latitude": 1.33521859078695,
 		"Longitude": 103.9099203114682
 	},
 	{
 		"BusStopCode": "72039",
 		"RoadName": "Kaki Bt Ave 1",
-		"Description": "KAKI BT STN EXIT A",
+		"Description": "Kaki Bt Stn Exit A",
 		"Latitude": 1.33546648279458,
 		"Longitude": 103.90985114690736
 	},
@@ -29066,56 +29066,56 @@
 	{
 		"BusStopCode": "72131",
 		"RoadName": "Kaki Bt Ave 3",
-		"Description": "OPP TECH VIEW",
+		"Description": "Opp Tech View",
 		"Latitude": 1.33791126455323,
 		"Longitude": 103.90994099232343
 	},
 	{
 		"BusStopCode": "72139",
 		"RoadName": "Kaki Bt Ave 3",
-		"Description": "TECH VIEW",
+		"Description": "Tech View",
 		"Latitude": 1.337282,
 		"Longitude": 103.909145
 	},
 	{
 		"BusStopCode": "72141",
 		"RoadName": "Kaki Bt Ave 3",
-		"Description": "BARTLEY BIZ CTR",
+		"Description": "Bartley Biz Ctr",
 		"Latitude": 1.33860729777301,
 		"Longitude": 103.91150189998882
 	},
 	{
 		"BusStopCode": "72149",
 		"RoadName": "Kaki Bt Ave 3",
-		"Description": "SHUN LI IND PK",
+		"Description": "Shun Li Ind Pk",
 		"Latitude": 1.33834674682355,
 		"Longitude": 103.91170534393189
 	},
 	{
 		"BusStopCode": "72151",
 		"RoadName": "Kaki Bt Ave 6",
-		"Description": "AUTOBAY @ KAKI BT",
+		"Description": "Autobay @ Kaki Bt",
 		"Latitude": 1.34084789558521,
 		"Longitude": 103.91301810001244
 	},
 	{
 		"BusStopCode": "72159",
 		"RoadName": "Kaki Bt Ave 6",
-		"Description": "OPP AUTOBAY @ KAKI BT",
+		"Description": "Opp Autobay @ Kaki Bt",
 		"Latitude": 1.340359,
 		"Longitude": 103.912709
 	},
 	{
 		"BusStopCode": "72161",
 		"RoadName": "Kaki Bt Rd 5",
-		"Description": "AFT BARTLEY VIADUCT",
+		"Description": "Aft Bartley Viaduct",
 		"Latitude": 1.34114935376337,
 		"Longitude": 103.916355499978
 	},
 	{
 		"BusStopCode": "72169",
 		"RoadName": "Kaki Bt Rd 5",
-		"Description": "BEF BARTLEY VIADUCT",
+		"Description": "Bef Bartley Viaduct",
 		"Latitude": 1.34105,
 		"Longitude": 103.916208
 	},
@@ -29290,7 +29290,7 @@
 	{
 		"BusStopCode": "75021",
 		"RoadName": "Tampines Street 86",
-		"Description": "BLK 879B",
+		"Description": "Blk 879B",
 		"Latitude": 1.35168445182114,
 		"Longitude": 103.92851745350569
 	},
@@ -29318,14 +29318,14 @@
 	{
 		"BusStopCode": "75051",
 		"RoadName": "Tampines Ave 1",
-		"Description": "TAMPINES WEST STN EXIT B",
+		"Description": "Tampines West Stn Exit B",
 		"Latitude": 1.34503394154132,
 		"Longitude": 103.94008153173421
 	},
 	{
 		"BusStopCode": "75059",
 		"RoadName": "Tampines Ave 1",
-		"Description": "BEF TAMPINES WEST STN",
+		"Description": "Bef Tampines West Stn",
 		"Latitude": 1.34471168546511,
 		"Longitude": 103.9402168928283
 	},
@@ -29703,35 +29703,35 @@
 	{
 		"BusStopCode": "75381",
 		"RoadName": "Tampines Ind Ave 5",
-		"Description": "T5@TAMPINES",
+		"Description": "T5@Tampines",
 		"Latitude": 1.373188889,
 		"Longitude": 103.9266
 	},
 	{
 		"BusStopCode": "75391",
 		"RoadName": "Tampines Ind Ave 5",
-		"Description": "OPP SILTRONIC",
+		"Description": "Opp Siltronic",
 		"Latitude": 1.37507,
 		"Longitude": 103.9213
 	},
 	{
 		"BusStopCode": "75401",
 		"RoadName": "Tampines Ave 10",
-		"Description": "AFT TAMPINES AVE 1",
+		"Description": "Aft Tampines Ave 1",
 		"Latitude": 1.3517582770335,
 		"Longitude": 103.92671414169045
 	},
 	{
 		"BusStopCode": "75409",
 		"RoadName": "Tampines Ave 10",
-		"Description": "THE SANTORINI",
+		"Description": "The Santorini",
 		"Latitude": 1.35220181029011,
 		"Longitude": 103.92724068972525
 	},
 	{
 		"BusStopCode": "75411",
 		"RoadName": "Tampines Ave 10",
-		"Description": "BEF TAMPINES FIRE STN",
+		"Description": "Bef Tampines Fire Stn",
 		"Latitude": 1.35607656836954,
 		"Longitude": 103.92905500001906
 	},
@@ -29857,84 +29857,84 @@
 	{
 		"BusStopCode": "75541",
 		"RoadName": "Tampines St 62",
-		"Description": "OPP BLK 648A",
+		"Description": "Opp Blk 648A",
 		"Latitude": 1.368309,
 		"Longitude": 103.941523
 	},
 	{
 		"BusStopCode": "75549",
 		"RoadName": "Tampines St 62",
-		"Description": "BLK 648A",
+		"Description": "Blk 648A",
 		"Latitude": 1.368246,
 		"Longitude": 103.941407
 	},
 	{
 		"BusStopCode": "75551",
 		"RoadName": "Tampines St 62",
-		"Description": "BLK 641A",
+		"Description": "Blk 641A",
 		"Latitude": 1.366268,
 		"Longitude": 103.943413
 	},
 	{
 		"BusStopCode": "75559",
 		"RoadName": "Tampines St 62",
-		"Description": "BLK 646B",
+		"Description": "Blk 646B",
 		"Latitude": 1.36642,
 		"Longitude": 103.943193
 	},
 	{
 		"BusStopCode": "75561",
 		"RoadName": "Tampines Nth Dr 2",
-		"Description": "BLK 648C",
+		"Description": "Blk 648C",
 		"Latitude": 1.366506,
 		"Longitude": 103.941333
 	},
 	{
 		"BusStopCode": "75569",
 		"RoadName": "Tampines Nth Dr 2",
-		"Description": "BLK 636C",
+		"Description": "Blk 636C",
 		"Latitude": 1.365866,
 		"Longitude": 103.941721
 	},
 	{
 		"BusStopCode": "75571",
 		"RoadName": "Tampines Nth Dr 2",
-		"Description": "BLK 637B",
+		"Description": "Blk 637B",
 		"Latitude": 1.36378,
 		"Longitude": 103.943296
 	},
 	{
 		"BusStopCode": "75579",
 		"RoadName": "Tampines Nth Dr 2",
-		"Description": "BLK 630B",
+		"Description": "Blk 630B",
 		"Latitude": 1.363603,
 		"Longitude": 103.94323
 	},
 	{
 		"BusStopCode": "75581",
 		"RoadName": "Tampines Ave 12",
-		"Description": "BLK 637 CP",
+		"Description": "Blk 637 CP",
 		"Latitude": 1.363484,
 		"Longitude": 103.944546
 	},
 	{
 		"BusStopCode": "75589",
 		"RoadName": "Tampines Ave 12",
-		"Description": "OPP BLK 638A",
+		"Description": "Opp Blk 638A",
 		"Latitude": 1.364117,
 		"Longitude": 103.945427
 	},
 	{
 		"BusStopCode": "75591",
 		"RoadName": "Tampines Ave 12",
-		"Description": "BEF BLK 631B",
+		"Description": "Bef Blk 631B",
 		"Latitude": 1.362079,
 		"Longitude": 103.942426
 	},
 	{
 		"BusStopCode": "75599",
 		"RoadName": "Tampines Ave 12",
-		"Description": "OPP BLK 631B",
+		"Description": "Opp Blk 631B",
 		"Latitude": 1.362446,
 		"Longitude": 103.943349
 	},
@@ -29969,28 +29969,28 @@
 	{
 		"BusStopCode": "76031",
 		"RoadName": "Tampines Ave 2",
-		"Description": "TAMPINES EAST STN EXIT B",
+		"Description": "Tampines East Stn Exit B",
 		"Latitude": 1.35507956918888,
 		"Longitude": 103.95529781026745
 	},
 	{
 		"BusStopCode": "76039",
 		"RoadName": "Tampines Ave 2",
-		"Description": "TAMPINES EAST STN EXIT C",
+		"Description": "Tampines East Stn Exit C",
 		"Latitude": 1.35506418976437,
 		"Longitude": 103.9555498102644
 	},
 	{
 		"BusStopCode": "76041",
 		"RoadName": "Tampines St 82",
-		"Description": "BLK 842C",
+		"Description": "Blk 842C",
 		"Latitude": 1.35122178461773,
 		"Longitude": 103.9365069000221
 	},
 	{
 		"BusStopCode": "76049",
 		"RoadName": "Tampines St 82",
-		"Description": "OPP BLK 842C",
+		"Description": "Opp Blk 842C",
 		"Latitude": 1.35118252345739,
 		"Longitude": 103.93633200959248
 	},
@@ -30193,14 +30193,14 @@
 	{
 		"BusStopCode": "76191",
 		"RoadName": "Tampines Ave 7",
-		"Description": "BLK 401",
+		"Description": "Blk 401",
 		"Latitude": 1.3569438864901,
 		"Longitude": 103.94477445426702
 	},
 	{
 		"BusStopCode": "76199",
 		"RoadName": "Tampines Ave 7",
-		"Description": "BLK 503",
+		"Description": "Blk 503",
 		"Latitude": 1.35660016333768,
 		"Longitude": 103.94535428432116
 	},
@@ -30235,14 +30235,14 @@
 	{
 		"BusStopCode": "76221",
 		"RoadName": "Tampines Ave 7",
-		"Description": "TAMPINES EAST STN EXIT A",
+		"Description": "Tampines East Stn Exit A",
 		"Latitude": 1.3563896244901,
 		"Longitude": 103.95390226733993
 	},
 	{
 		"BusStopCode": "76229",
 		"RoadName": "Tampines Ave 7",
-		"Description": "OPP TAMPINES EAST STN",
+		"Description": "Opp Tampines East Stn",
 		"Latitude": 1.35614001051089,
 		"Longitude": 103.95353851635838
 	},
@@ -30375,7 +30375,7 @@
 	{
 		"BusStopCode": "76339",
 		"RoadName": "Tampines St 11",
-		"Description": "Opp Tampines Changkat Cc",
+		"Description": "Opp Tampines Changkat CC",
 		"Latitude": 1.34547166699324,
 		"Longitude": 103.94698416699394
 	},
@@ -30487,7 +30487,7 @@
 	{
 		"BusStopCode": "76431",
 		"RoadName": "Tampines St 33",
-		"Description": "BLK 333",
+		"Description": "Blk 333",
 		"Latitude": 1.353726389,
 		"Longitude": 103.9612131
 	},
@@ -30501,7 +30501,7 @@
 	{
 		"BusStopCode": "76441",
 		"RoadName": "Tampines St 33",
-		"Description": "OPP BLK 345",
+		"Description": "Opp Blk 345",
 		"Latitude": 1.35219503409437,
 		"Longitude": 103.96105194447786
 	},
@@ -30515,7 +30515,7 @@
 	{
 		"BusStopCode": "76451",
 		"RoadName": "Tampines St 33",
-		"Description": "BLK 324",
+		"Description": "Blk 324",
 		"Latitude": 1.35220340979899,
 		"Longitude": 103.95928609997816
 	},
@@ -30543,7 +30543,7 @@
 	{
 		"BusStopCode": "76471",
 		"RoadName": "Tampines St 42",
-		"Description": "BLK 444",
+		"Description": "Blk 444",
 		"Latitude": 1.35855302099722,
 		"Longitude": 103.95134500001934
 	},
@@ -30564,49 +30564,49 @@
 	{
 		"BusStopCode": "76519",
 		"RoadName": "Tampines Concourse",
-		"Description": "BET BLKS 524B/523D",
+		"Description": "Bet Blks 524B/523D",
 		"Latitude": 1.35920624506603,
 		"Longitude": 103.93921870101352
 	},
 	{
 		"BusStopCode": "76521",
 		"RoadName": "Tampines Concourse",
-		"Description": "OPP BLK 519A",
+		"Description": "Opp Blk 519A",
 		"Latitude": 1.357468889,
 		"Longitude": 103.940775
 	},
 	{
 		"BusStopCode": "76529",
 		"RoadName": "Tampines Concourse",
-		"Description": "BLK 519A",
+		"Description": "Blk 519A",
 		"Latitude": 1.35741,
 		"Longitude": 103.940604
 	},
 	{
 		"BusStopCode": "76541",
 		"RoadName": "Tampines Ave 9",
-		"Description": "Citylife@ Tampines",
+		"Description": "Citylife @ Tampines",
 		"Latitude": 1.360247,
 		"Longitude": 103.940633
 	},
 	{
 		"BusStopCode": "76549",
 		"RoadName": "Tampines Ave 9",
-		"Description": "Opp Citylife@ Tampines",
+		"Description": "Opp Citylife @ Tampines",
 		"Latitude": 1.360559,
 		"Longitude": 103.940515
 	},
 	{
 		"BusStopCode": "76551",
 		"RoadName": "Tampines Ctrl 1",
-		"Description": "TAMPINES STN EXIT D",
+		"Description": "Tampines Stn Exit D",
 		"Latitude": 1.355401,
 		"Longitude": 103.943599
 	},
 	{
 		"BusStopCode": "76559",
 		"RoadName": "Tampines Ctrl 1",
-		"Description": "AFT TAMPINES STN EXIT E",
+		"Description": "Aft Tampines Stn Exit E",
 		"Latitude": 1.355625,
 		"Longitude": 103.943569
 	},
@@ -30732,7 +30732,7 @@
 	{
 		"BusStopCode": "77091",
 		"RoadName": "Elias Rd",
-		"Description": "AFT PASIR RIS AVE",
+		"Description": "Aft Pasir Ris Ave",
 		"Latitude": 1.38042637835149,
 		"Longitude": 103.94547139015036
 	},
@@ -30893,7 +30893,7 @@
 	{
 		"BusStopCode": "77231",
 		"RoadName": "Pasir Ris Dr 1",
-		"Description": "Tampines Meridian Jc",
+		"Description": "Tampines Meridian JC",
 		"Latitude": 1.37670503142246,
 		"Longitude": 103.93844026085439
 	},
@@ -31110,21 +31110,21 @@
 	{
 		"BusStopCode": "77409",
 		"RoadName": "Pasir Ris Ind Dr 1",
-		"Description": "Opposite UMC",
+		"Description": "Opp UMC",
 		"Latitude": 1.381426,
 		"Longitude": 103.932338
 	},
 	{
 		"BusStopCode": "78031",
 		"RoadName": "Pasir Ris St 12",
-		"Description": "BLK 191",
+		"Description": "Blk 191",
 		"Latitude": 1.366365,
 		"Longitude": 103.958641
 	},
 	{
 		"BusStopCode": "78039",
 		"RoadName": "Pasir Ris St 12",
-		"Description": "BLK 104",
+		"Description": "Blk 104",
 		"Latitude": 1.367181,
 		"Longitude": 103.959
 	},
@@ -31334,7 +31334,7 @@
 	{
 		"BusStopCode": "78199",
 		"RoadName": "Pasir Ris St 11",
-		"Description": "Opp White Sands Pri Sch",
+		"Description": "Opp White Sands Pr Sch",
 		"Latitude": 1.36477,
 		"Longitude": 103.96189
 	},
@@ -31446,7 +31446,7 @@
 	{
 		"BusStopCode": "80011",
 		"RoadName": "Kallang Rd",
-		"Description": "AFT PADANG JERINGAU",
+		"Description": "Aft Padang Jeringau",
 		"Latitude": 1.30972720802554,
 		"Longitude": 103.86737828692955
 	},
@@ -31824,14 +31824,14 @@
 	{
 		"BusStopCode": "81101",
 		"RoadName": "Paya Lebar Rd",
-		"Description": "CISCO Ctr",
+		"Description": "Paya Lebar Green",
 		"Latitude": 1.32111522416649,
 		"Longitude": 103.89152220076973
 	},
 	{
 		"BusStopCode": "81109",
 		"RoadName": "Paya Lebar Rd",
-		"Description": "Opp CISCO Ctr",
+		"Description": "Opp Paya Lebar Green",
 		"Latitude": 1.3209137166719,
 		"Longitude": 103.89117183414866
 	},
@@ -31901,7 +31901,7 @@
 	{
 		"BusStopCode": "81161",
 		"RoadName": "Guillemard Rd",
-		"Description": "blk 56",
+		"Description": "Blk 56",
 		"Latitude": 1.31054638768125,
 		"Longitude": 103.88318148792811
 	},
@@ -31943,14 +31943,14 @@
 	{
 		"BusStopCode": "81191",
 		"RoadName": "Dunman Rd",
-		"Description": "AFT OLD AIRPORT RD",
+		"Description": "Aft Old Airport Rd",
 		"Latitude": 1.30913166702397,
 		"Longitude": 103.89180000002517
 	},
 	{
 		"BusStopCode": "81199",
 		"RoadName": "Dunman Rd",
-		"Description": "BEF OLD AIRPORT RD",
+		"Description": "Bef Old Airport Rd",
 		"Latitude": 1.30862937328019,
 		"Longitude": 103.8906311270188
 	},
@@ -31999,7 +31999,7 @@
 	{
 		"BusStopCode": "81231",
 		"RoadName": "Aljunied Rd",
-		"Description": "Opp Kh Plaza",
+		"Description": "Opp KH Plaza",
 		"Latitude": 1.31389305598354,
 		"Longitude": 103.88189611100506
 	},
@@ -32062,7 +32062,7 @@
 	{
 		"BusStopCode": "82061",
 		"RoadName": "Sims Ave",
-		"Description": "Eunos Stn/ Int",
+		"Description": "Eunos Stn/Int",
 		"Latitude": 1.31876162629115,
 		"Longitude": 103.9022689641617
 	},
@@ -32104,7 +32104,7 @@
 	{
 		"BusStopCode": "82091",
 		"RoadName": "Tg Katong Rd",
-		"Description": "Aft Queen Of Peace Ch",
+		"Description": "Aft Queen of Peace Ch",
 		"Latitude": 1.31264667096781,
 		"Longitude": 103.89411050584133
 	},
@@ -32832,14 +32832,14 @@
 	{
 		"BusStopCode": "84141",
 		"RoadName": "Bedok Sth Rd",
-		"Description": "OPP LION HME FOR ELDERS",
+		"Description": "Opp Lion Hme for Elders",
 		"Latitude": 1.32021707852141,
 		"Longitude": 103.93816948878941
 	},
 	{
 		"BusStopCode": "84149",
 		"RoadName": "Bedok Sth Rd",
-		"Description": "LION HME FOR ELDERS",
+		"Description": "Lion Hme For Elders",
 		"Latitude": 1.32047933475714,
 		"Longitude": 103.93839375752798
 	},
@@ -32860,14 +32860,14 @@
 	{
 		"BusStopCode": "84161",
 		"RoadName": "Bedok Sth Ave 1",
-		"Description": "BLK 3",
+		"Description": "Blk 3",
 		"Latitude": 1.321651111,
 		"Longitude": 103.9324025
 	},
 	{
 		"BusStopCode": "84169",
 		"RoadName": "Bedok Sth Ave 1",
-		"Description": "OPP BLK 3",
+		"Description": "Opp Blk 3",
 		"Latitude": 1.322133056,
 		"Longitude": 103.9321144
 	},
@@ -32888,7 +32888,7 @@
 	{
 		"BusStopCode": "84201",
 		"RoadName": "Bedok Nth Ave 3",
-		"Description": "BEDOK RESVR STN EXIT A",
+		"Description": "Bedok Resvr Stn Exit A",
 		"Latitude": 1.33660054449421,
 		"Longitude": 103.93309401156243
 	},
@@ -32902,7 +32902,7 @@
 	{
 		"BusStopCode": "84211",
 		"RoadName": "Bedok Nth Ave 3",
-		"Description": "BLK 403",
+		"Description": "Blk 403",
 		"Latitude": 1.33012,
 		"Longitude": 103.93447
 	},
@@ -32972,7 +32972,7 @@
 	{
 		"BusStopCode": "84261",
 		"RoadName": "Bedok Nth Ave 4",
-		"Description": "Saint Anthony's Canossian School",
+		"Description": "St. Anthony's Cano Sch",
 		"Latitude": 1.334189,
 		"Longitude": 103.941658
 	},
@@ -33210,7 +33210,7 @@
 	{
 		"BusStopCode": "84451",
 		"RoadName": "Bedok Nth Rd",
-		"Description": "BEDOK NTH STN EXIT A",
+		"Description": "Bedok Nth Stn Exit A",
 		"Latitude": 1.335644,
 		"Longitude": 103.918055
 	},
@@ -33308,7 +33308,7 @@
 	{
 		"BusStopCode": "84539",
 		"RoadName": "Bedok Nth Rd",
-		"Description": "BEDOK NTH STN EXIT B",
+		"Description": "Bedok Nth Stn Exit B",
 		"Latitude": 1.3350342184363,
 		"Longitude": 103.91851751540032
 	},
@@ -33329,7 +33329,7 @@
 	{
 		"BusStopCode": "84551",
 		"RoadName": "Chai Chee St",
-		"Description": "BLK 51",
+		"Description": "Blk 51",
 		"Latitude": 1.32853887137542,
 		"Longitude": 103.9225201285922
 	},
@@ -33343,7 +33343,7 @@
 	{
 		"BusStopCode": "84561",
 		"RoadName": "Chai Chee St",
-		"Description": "BLK 53",
+		"Description": "Blk 53",
 		"Latitude": 1.32804725721627,
 		"Longitude": 103.91973825722668
 	},
@@ -33357,7 +33357,7 @@
 	{
 		"BusStopCode": "84571",
 		"RoadName": "Chai Chee Dr",
-		"Description": "OPP BLK 55",
+		"Description": "Opp Blk 55",
 		"Latitude": 1.32653228537615,
 		"Longitude": 103.9187401751097
 	},
@@ -33385,14 +33385,14 @@
 	{
 		"BusStopCode": "84591",
 		"RoadName": "Bedok Nth Ave 4",
-		"Description": "Sbst Bedok Nth Depot",
+		"Description": "SBST Bedok Nth Depot",
 		"Latitude": 1.33774805557922,
 		"Longitude": 103.94699472223161
 	},
 	{
 		"BusStopCode": "84599",
 		"RoadName": "Bedok Nth Ave 4",
-		"Description": "Opp Sbst Bedok Nth Depot",
+		"Description": "Opp SBST Bedok Nth Depot",
 		"Latitude": 1.33772607555094,
 		"Longitude": 103.94646797815965
 	},
@@ -33917,7 +33917,7 @@
 	{
 		"BusStopCode": "92081",
 		"RoadName": "Marine Parade Rd",
-		"Description": "St. Patrick's Sec Sch",
+		"Description": "St. Patrick's Sch",
 		"Latitude": 1.30751338586806,
 		"Longitude": 103.91754269765207
 	},
@@ -34022,7 +34022,7 @@
 	{
 		"BusStopCode": "92159",
 		"RoadName": "East Coast Rd",
-		"Description": "ST. PATRICK'S SCH",
+		"Description": "St. Patrick's Sch",
 		"Latitude": 1.309748,
 		"Longitude": 103.9166295
 	},
@@ -34057,14 +34057,14 @@
 	{
 		"BusStopCode": "92181",
 		"RoadName": "Joo Chiat Rd",
-		"Description": "112 Katong",
+		"Description": "i12 Katong",
 		"Latitude": 1.30528972611328,
 		"Longitude": 103.90534997934479
 	},
 	{
 		"BusStopCode": "92189",
 		"RoadName": "Joo Chiat Rd",
-		"Description": "Opp 112 Katong",
+		"Description": "Opp i12 Katong",
 		"Latitude": 1.3047647219741,
 		"Longitude": 103.90592361097
 	},
@@ -34491,7 +34491,7 @@
 	{
 		"BusStopCode": "94029",
 		"RoadName": "Upp East Coast Rd",
-		"Description": "Aft Sennet Rd",
+		"Description": "Aft Sennett Rd",
 		"Latitude": 1.31453305602342,
 		"Longitude": 103.93750499997167
 	},
@@ -34568,7 +34568,7 @@
 	{
 		"BusStopCode": "94089",
 		"RoadName": "Upp East Coast Rd",
-		"Description": "Calvary Ably Of God Ch",
+		"Description": "Calvary Ably of God Ch",
 		"Latitude": 1.31536333302999,
 		"Longitude": 103.94294138900047
 	},
@@ -34603,7 +34603,7 @@
 	{
 		"BusStopCode": "95039",
 		"RoadName": "Airport Cargo Rd",
-		"Description": "Airfreight Ter Bldg",
+		"Description": "AirFreight Ter Bldg",
 		"Latitude": 1.37218943783154,
 		"Longitude": 103.99457879033221
 	},
@@ -34623,7 +34623,7 @@
 	},
 	{
 		"BusStopCode": "95051",
-		"RoadName": "Airline Rd",
+		"RoadName": "Airport Cargo Rd",
 		"Description": "3rd Cargo Agents",
 		"Latitude": 1.37528324353604,
 		"Longitude": 103.99619579312593
@@ -34799,14 +34799,14 @@
 	{
 		"BusStopCode": "95901",
 		"RoadName": "Upp Changi Rd East",
-		"Description": "BEF SIMEI RD",
+		"Description": "Bef Simei Rd",
 		"Latitude": 1.33857587129254,
 		"Longitude": 103.96020709087523
 	},
 	{
 		"BusStopCode": "95909",
 		"RoadName": "Upp Changi Rd East",
-		"Description": "AFT SOMAPAH RD",
+		"Description": "Aft Somapah Rd",
 		"Latitude": 1.33849391556302,
 		"Longitude": 103.96049907137146
 	},
@@ -35128,7 +35128,7 @@
 	{
 		"BusStopCode": "96241",
 		"RoadName": "Xilin Ave",
-		"Description": "LAGUNA NATL COUNTRY CLUB",
+		"Description": "Laguna Natl Country Club",
 		"Latitude": 1.32746975992942,
 		"Longitude": 103.96702744644506
 	},
@@ -35205,21 +35205,21 @@
 	{
 		"BusStopCode": "96301",
 		"RoadName": "Changi Sth Ave 1",
-		"Description": "EXPO STN EXIT B",
+		"Description": "Expo Stn Exit B",
 		"Latitude": 1.33450022538919,
 		"Longitude": 103.9617438259165
 	},
 	{
 		"BusStopCode": "96309",
 		"RoadName": "Changi Sth Ave 1",
-		"Description": "EXPO STN EXIT E",
+		"Description": "Expo Stn Exit E",
 		"Latitude": 1.33427655612286,
 		"Longitude": 103.96175810276951
 	},
 	{
 		"BusStopCode": "96311",
 		"RoadName": "Changi Sth Ave 1",
-		"Description": "BEF CHANGI STH ST 2",
+		"Description": "Bef Changi Sth St 2",
 		"Latitude": 1.3329118846906,
 		"Longitude": 103.9607070021467
 	},
@@ -35275,7 +35275,7 @@
 	{
 		"BusStopCode": "96371",
 		"RoadName": "Changi Business Pk Ctrl 2",
-		"Description": "STANDARD CHARTERED BANK",
+		"Description": "Standard Chartered Bank",
 		"Latitude": 1.33433369984263,
 		"Longitude": 103.9664670131305
 	},
@@ -35324,35 +35324,35 @@
 	{
 		"BusStopCode": "96421",
 		"RoadName": "Tanah Merah Coast Rd",
-		"Description": "OPP CHANGI LODGE 2",
+		"Description": "Opp Changi Lodge 2",
 		"Latitude": 1.313621111,
 		"Longitude": 103.99655
 	},
 	{
 		"BusStopCode": "96429",
 		"RoadName": "Tanah Merah Coast Rd",
-		"Description": "CHANGI LODGE 2",
+		"Description": "Changi Lodge 2",
 		"Latitude": 1.313721111,
 		"Longitude": 103.9953811
 	},
 	{
 		"BusStopCode": "96431",
 		"RoadName": "Tanah Merah Coast Rd",
-		"Description": "OPP CHANGI NAVAL BASE",
+		"Description": "Opp Changi Naval Base",
 		"Latitude": 1.318286944,
 		"Longitude": 104.0152631
 	},
 	{
 		"BusStopCode": "96439",
 		"RoadName": "Tanah Merah Coast Rd",
-		"Description": "CHANGI NAVAL BASE",
+		"Description": "Changi Naval Base",
 		"Latitude": 1.317708,
 		"Longitude": 104.015614
 	},
 	{
 		"BusStopCode": "96441",
 		"RoadName": "Somapah Rd",
-		"Description": "OPP SUTD",
+		"Description": "Opp SUTD",
 		"Latitude": 1.33954269927544,
 		"Longitude": 103.96290652054516
 	},
@@ -35366,21 +35366,21 @@
 	{
 		"BusStopCode": "96461",
 		"RoadName": "Tanah Merah Coast Rd",
-		"Description": "Before Aviation Park Road",
+		"Description": "Bef Aviation Pk Rd",
 		"Latitude": 1.352485,
 		"Longitude": 104.030008
 	},
 	{
 		"BusStopCode": "96471",
 		"RoadName": "Aviation Pk Rd",
-		"Description": "Bef Changi Coast Road",
+		"Description": "Bef Changi Coast Rd",
 		"Latitude": 1.367866,
 		"Longitude": 104.009977
 	},
 	{
 		"BusStopCode": "96479",
 		"RoadName": "Aviation Pk Rd",
-		"Description": "After Changi Coast Road",
+		"Description": "Aft Changi Coast Rd",
 		"Latitude": 1.367858,
 		"Longitude": 104.010442
 	},
@@ -35569,7 +35569,7 @@
 	{
 		"BusStopCode": "97159",
 		"RoadName": "Changi Nth Cres",
-		"Description": "Bef Vicom",
+		"Description": "Bef VICOM",
 		"Latitude": 1.35028972565622,
 		"Longitude": 103.96769101118204
 	},
@@ -35772,7 +35772,7 @@
 	{
 		"BusStopCode": "98111",
 		"RoadName": "Pasir Ris Dr 2",
-		"Description": "BLK 256/OPP LOYANG PT",
+		"Description": "Blk 256/Opp Loyang Pt",
 		"Latitude": 1.36733773244319,
 		"Longitude": 103.96424470880473
 	},
@@ -35898,14 +35898,14 @@
 	{
 		"BusStopCode": "98291",
 		"RoadName": "Flora Dr",
-		"Description": "OPP PALM ISLES",
+		"Description": "Opp Palm Isles",
 		"Latitude": 1.356979,
 		"Longitude": 103.9651894
 	},
 	{
 		"BusStopCode": "98299",
 		"RoadName": "Flora Dr",
-		"Description": "PARC OLYMPIA",
+		"Description": "Parc Olympia",
 		"Latitude": 1.355878,
 		"Longitude": 103.9655714
 	},
@@ -35947,14 +35947,14 @@
 	{
 		"BusStopCode": "99011",
 		"RoadName": "Loyang Ave",
-		"Description": "Bef Sch Of Commando",
+		"Description": "Bef Sch of Commando",
 		"Latitude": 1.38328110134472,
 		"Longitude": 103.97812168830427
 	},
 	{
 		"BusStopCode": "99019",
 		"RoadName": "Loyang Ave",
-		"Description": "Aft Sch Of Commando",
+		"Description": "Aft Sch of Commando",
 		"Latitude": 1.3837089764569,
 		"Longitude": 103.97844860768319
 	},

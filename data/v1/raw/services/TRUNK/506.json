@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Jurong East Int to S'Goon Int",
+		"name": "From Jurong East Int to Serangoon Int",
 		"stops": [
 			"28009",
 			"28441",
@@ -35,7 +35,7 @@
 		]
 	},
 	{
-		"name": "From S'Goon Int to Jurong East Int",
+		"name": "From Serangoon Int to Jurong East Int",
 		"stops": [
 			"66009",
 			"62129",

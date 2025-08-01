@@ -361,7 +361,7 @@
 		{
 			"BUS_SEQUENCE": 3,
 			"START_BUS_STOP": "BLK 365",
-			"END_BUS_STOP": "YALE-NUS COLLEGE",
+			"END_BUS_STOP": "UTown - Cendana",
 			"START_BUS_STOP_NUM": "17159",
 			"START_BUS_STOP_LATLNG": "1.3119747991226098, 103.7698155512791",
 			"END_BUS_STOP_NUM": "17099",
@@ -557,7 +557,7 @@
 		},
 		{
 			"BUS_SEQUENCE": 4,
-			"START_BUS_STOP": "YALE-NUS COLLEGE",
+			"START_BUS_STOP": "UTown - Cendana",
 			"END_BUS_STOP": "COLL OF DESIGN & ENGRG",
 			"START_BUS_STOP_NUM": "17099",
 			"START_BUS_STOP_LATLNG": "1.3078304704809023, 103.7716527444556",
@@ -706,7 +706,7 @@
 					1.30067
 				]
 			],
-			"roadName": "YALE-NUS COLLEGE"
+			"roadName": "UTown - Cendana"
 		},
 		{
 			"BUS_SEQUENCE": 5,
@@ -1595,7 +1595,7 @@
 		{
 			"BUS_SEQUENCE": 13,
 			"START_BUS_STOP": "BLK 455",
-			"END_BUS_STOP": "CLEMENTI STN EXIT A",
+			"END_BUS_STOP": "Clementi Stn Exit A/Mall",
 			"START_BUS_STOP_NUM": "17161",
 			"START_BUS_STOP_LATLNG": "1.3124099360360528, 103.76685476875126",
 			"END_BUS_STOP_NUM": "17171",
@@ -1679,7 +1679,7 @@
 		},
 		{
 			"BUS_SEQUENCE": 14,
-			"START_BUS_STOP": "CLEMENTI STN EXIT A",
+			"START_BUS_STOP": "Clementi Stn Exit A/Mall",
 			"END_BUS_STOP": "CLEMENTI INT",
 			"START_BUS_STOP_NUM": "17171",
 			"START_BUS_STOP_LATLNG": "1.3149739926861135, 103.76502698264449",
@@ -1716,7 +1716,7 @@
 					1.31525
 				]
 			],
-			"roadName": "CLEMENTI STN EXIT A"
+			"roadName": "Clementi Stn Exit A/Mall"
 		}
 	],
 	"BUS_DIRECTION_TWO": null
