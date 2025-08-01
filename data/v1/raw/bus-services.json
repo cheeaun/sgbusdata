@@ -303,7 +303,8 @@
 		"description": "TM3 - Tampines Avenue 2 to Jalan Bukit Merah",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"-P15-1.kml"
+			"-P15-1.kml",
+			"-P15-2.kml"
 		],
 		"routeFile": [
 			"-P15.xml"
@@ -593,17 +594,6 @@
 		]
 	},
 	{
-		"number": "TM3",
-		"description": "Tampines Avenue 2 to Jalan Bukit Merah",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"TM3-1.kml"
-		],
-		"routeFile": [
-			"TM3.xml"
-		]
-	},
-	{
 		"number": "-S11",
 		"description": "FunVee City Sightseeing - Raffles Boulevard to Orchard Road Tourist Bus Service",
 		"type": "SHUTTLEATTRACTIONS",
@@ -711,6 +701,105 @@
 		],
 		"routeFile": [
 			"-S60.xml"
+		]
+	},
+	{
+		"number": "-S61",
+		"description": "Shuttle Bus Service from Tanah Merah Ferry Terminal to Changi Airport (loop)",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S61-1.kml"
+		],
+		"routeFile": [
+			"-S61.xml"
+		]
+	},
+	{
+		"number": "-S62",
+		"description": "Hello Singapore+ - Orange Grove to Mandai Wildlife Reserve Tourist Bus Service",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S62-1.kml"
+		],
+		"routeFile": [
+			"-S62.xml"
+		]
+	},
+	{
+		"number": "-S63",
+		"description": "Hello Singapore+ - Mandai Wildlife Reserve to Orange Grove Tourist Bus Service",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S63-1.kml"
+		],
+		"routeFile": [
+			"-S63.xml"
+		]
+	},
+	{
+		"number": "-S64",
+		"description": "Hello Singapore+ - Orange Grove Road to Gardens by the Bay and Sentosa Tourist Bus Service",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S64-1.kml"
+		],
+		"routeFile": [
+			"-S64.xml"
+		]
+	},
+	{
+		"number": "-S65",
+		"description": "Hello Singapore+ - Sentosa and Gardens by the Bay to Orange Grove Road Tourist Bus Service",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S65-1.kml"
+		],
+		"routeFile": [
+			"-S65.xml"
+		]
+	},
+	{
+		"number": "-S66",
+		"description": "Hello Singapore+ - New Bridge Road to Gardens by the Bay and Sentosa Tourist Bus Service",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S66-1.kml"
+		],
+		"routeFile": [
+			"-S66.xml"
+		]
+	},
+	{
+		"number": "-S67",
+		"description": "Hello Singapore+ - Gardens by the Bay and Sentosa to New Bridge Road Tourist Bus Service",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S67-1.kml"
+		],
+		"routeFile": [
+			"-S67.xml"
+		]
+	},
+	{
+		"number": "-S68",
+		"description": "Hello Singapore+ - Coleman Street to Mandai Wildlife Reserves Tourist Bus Service",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S68-1.kml"
+		],
+		"routeFile": [
+			"-S68.xml"
+		]
+	},
+	{
+		"number": "-S69",
+		"description": "Hello Singapore+ - Mandai Wildlife Reserves to Coleman Street Tourist Bus Service",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S69-1.kml"
+		],
+		"routeFile": [
+			"-S69.xml"
 		]
 	},
 	{
@@ -5147,6 +5236,16 @@
 		],
 		"routeFile": [
 			"856B.xml"
+		]
+	},
+	{
+		"number": "856C",
+		"type": "TRUNK",
+		"kmlFile": [
+			"856C-1.kml"
+		],
+		"routeFile": [
+			"856C.xml"
 		]
 	},
 	{

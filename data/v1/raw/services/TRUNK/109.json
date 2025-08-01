@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From S'Goon Int to Changi Village Ter",
+		"name": "From Serangoon Int to Changi Village Ter",
 		"stops": [
 			"66009",
 			"66361",
@@ -56,7 +56,7 @@
 		]
 	},
 	{
-		"name": "From Changi Village Ter to S'Goon Int",
+		"name": "From Changi Village Ter to Serangoon Int",
 		"stops": [
 			"99009",
 			"99131",

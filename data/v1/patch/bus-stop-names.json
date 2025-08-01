@@ -10,16 +10,6 @@
 		"newName": "YMCA"
 	},
 	{
-		"number": "10431",
-		"name": "ENABLING VILLAGE",
-		"newName": "Enabling Village"
-	},
-	{
-		"number": "10439",
-		"name": "OPP ENABLING VILLAGE",
-		"newName": "Opp Enabling Village"
-	},
-	{
 		"number": "15109",
 		"name": "LP 30",
 		"newName": "LP 30"
@@ -45,49 +35,14 @@
 		"newName": "SP SMA"
 	},
 	{
-		"number": "21241",
-		"name": "216 CP",
-		"newName": "Blk 216 CP"
-	},
-	{
-		"number": "21321",
-		"name": "UTOC ENGRG",
-		"newName": "UTOC Engrg"
-	},
-	{
-		"number": "21329",
-		"name": "OPP UTOC ENGRG",
-		"newName": "Opp UTOC Engrg"
-	},
-	{
 		"number": "21349",
 		"name": "GSK",
 		"newName": "GSK"
 	},
 	{
-		"number": "21691",
-		"name": "OPP SUMMERDALE",
-		"newName": "Opp Summerdale"
-	},
-	{
-		"number": "21699",
-		"name": "SUMMERDALE",
-		"newName": "Summerdale"
-	},
-	{
 		"number": "24441",
 		"name": "GSK",
 		"newName": "GSK"
-	},
-	{
-		"number": "25421",
-		"name": "OPP TUAS LINK STN",
-		"newName": "Opp Tuas Lk Stn"
-	},
-	{
-		"number": "25429",
-		"name": "TUAS LINK STN",
-		"newName": "Tuas Lk Stn"
 	},
 	{
 		"number": "25541",
@@ -98,11 +53,6 @@
 		"number": "25551",
 		"name": "GARMCO",
 		"newName": "GARMCO"
-	},
-	{
-		"number": "26061",
-		"name": "B S DEVELOPMENT",
-		"newName": "BS Development"
 	},
 	{
 		"number": "26209",
@@ -120,41 +70,6 @@
 		"newName": "SPMS"
 	},
 	{
-		"number": "28021",
-		"name": "OPP 8 @TRADEHUB 21",
-		"newName": "Opp 8 @ Tradehub 21"
-	},
-	{
-		"number": "28029",
-		"name": "8 @ TRADEHUB 21",
-		"newName": "8 @ Tradehub 21"
-	},
-	{
-		"number": "30119",
-		"name": "AFT CHOA CHU KANG AVE 6",
-		"newName": "Aft Choa Chu Kang Ave 6"
-	},
-	{
-		"number": "30129",
-		"name": "OPP BLK 805D",
-		"newName": "Opp Blk 805D"
-	},
-	{
-		"number": "40081",
-		"name": "STEVENS STN EXIT 1",
-		"newName": "Stevens Stn Exit 1"
-	},
-	{
-		"number": "40089",
-		"name": "AFT STEVENS STN EXIT 5",
-		"newName": "Aft Stevens Stn Exit 5"
-	},
-	{
-		"number": "40239",
-		"name": "BEF STEVENS STN EXIT 4",
-		"newName": "Bef Stevens Stn Exit 4"
-	},
-	{
 		"number": "40261",
 		"name": "LP 52",
 		"newName": "LP 52"
@@ -165,29 +80,9 @@
 		"newName": "LP 57"
 	},
 	{
-		"number": "40371",
-		"name": "OPP BLK 465A",
-		"newName": "Opp Blk 465A"
-	},
-	{
-		"number": "41161",
-		"name": "AFT KHEAM HOCK RD",
-		"newName": "Aft Kheam Hock Rd"
-	},
-	{
 		"number": "43719",
 		"name": "MINDEF CP",
 		"newName": "MINDEF CP"
-	},
-	{
-		"number": "44831",
-		"name": "BLK 519",
-		"newName": "Blk 519"
-	},
-	{
-		"number": "44881",
-		"name": "BLK 816B",
-		"newName": "Blk 816B"
 	},
 	{
 		"number": "44891",
@@ -195,64 +90,9 @@
 		"newName": "APSN"
 	},
 	{
-		"number": "44911",
-		"name": "BLK 450",
-		"newName": "Blk 450"
-	},
-	{
-		"number": "44941",
-		"name": "OPP BLK 502",
-		"newName": "Opp Blk 502"
-	},
-	{
-		"number": "44949",
-		"name": "AFT BLK 503",
-		"newName": "Aft Blk 503"
-	},
-	{
-		"number": "45489",
-		"name": "BEF CHOA CHU KANG LK",
-		"newName": "Bef Choa Chu Kang Lk"
-	},
-	{
-		"number": "45491",
-		"name": "BEF CHOA CHU KANG NTH 5",
-		"newName": "Bef Choa Chu Kang Nth 5"
-	},
-	{
-		"number": "45581",
-		"name": "BLK 325",
-		"newName": "Blk 325"
-	},
-	{
 		"number": "46049",
 		"name": "GLOBALFOUNDRIES",
 		"newName": "GLOBALFOUNDRIES"
-	},
-	{
-		"number": "46759",
-		"name": "BLK 676A",
-		"newName": "Blk 676A"
-	},
-	{
-		"number": "47491",
-		"name": "TWIN FOUNTAINS",
-		"newName": "Twin Fountains"
-	},
-	{
-		"number": "47499",
-		"name": "OPP TWIN FOUNTAINS",
-		"newName": "Opp Twin Fountains"
-	},
-	{
-		"number": "47509",
-		"name": "BLK 583",
-		"newName": "Blk 583"
-	},
-	{
-		"number": "47529",
-		"name": "BLK 573A",
-		"newName": "Blk 573A"
 	},
 	{
 		"number": "48031",
@@ -265,79 +105,9 @@
 		"newName": "LP 159"
 	},
 	{
-		"number": "52421",
-		"name": "BLK 12",
-		"newName": "Blk 12"
-	},
-	{
-		"number": "52431",
-		"name": "BLK 5",
-		"newName": "Blk 5"
-	},
-	{
-		"number": "52531",
-		"name": "OPP BLK 210 MKT/FC",
-		"newName": "Opp Blk 210 Mkt/FC"
-	},
-	{
-		"number": "52561",
-		"name": "BLK 269A",
-		"newName": "Blk 269A"
-	},
-	{
-		"number": "52571",
-		"name": "BLK 268A",
-		"newName": "Blk 268A"
-	},
-	{
-		"number": "52581",
-		"name": "BEF CALDECOTT STN EXIT 4",
-		"newName": "Bef Caldecott Stn Exit 4"
-	},
-	{
-		"number": "53439",
-		"name": "BLK 228",
-		"newName": "Blk 228"
-	},
-	{
 		"number": "55289",
 		"name": "LP 94",
 		"newName": "LP 94"
-	},
-	{
-		"number": "57039",
-		"name": "SPIRITUAL GRACE PRESBY CH",
-		"newName": "Spiritual Grace Presby Ch"
-	},
-	{
-		"number": "58199",
-		"name": "OPP AUCKLAND ROAD WEST",
-		"newName": "Opp Auckland Rd West"
-	},
-	{
-		"number": "58261",
-		"name": "VISIONAIRE",
-		"newName": "Visionaire"
-	},
-	{
-		"number": "58269",
-		"name": "OPP VISIONAIRE",
-		"newName": "Opp Visionaire"
-	},
-	{
-		"number": "58991",
-		"name": "BLK 767",
-		"newName": "Blk 767"
-	},
-	{
-		"number": "62231",
-		"name": "BEF S'PORE GIRLS' HME",
-		"newName": "Bef S'pore Girls' Hme"
-	},
-	{
-		"number": "62239",
-		"name": "OPP S'PORE GIRLS' HME",
-		"newName": "Opp S'pore Girls' Hme"
 	},
 	{
 		"number": "64149",
@@ -345,29 +115,9 @@
 		"newName": "LP 137"
 	},
 	{
-		"number": "65571",
-		"name": "BLK 218",
-		"newName": "Blk 218"
-	},
-	{
-		"number": "65579",
-		"name": "BLK 258A",
-		"newName": "Blk 258A"
-	},
-	{
 		"number": "70089",
 		"name": "HDB CP",
 		"newName": "HDB CP"
-	},
-	{
-		"number": "71331",
-		"name": "KAKI BT AUTOHUB",
-		"newName": " Kaki Bt Autohub"
-	},
-	{
-		"number": "71339",
-		"name": "OPP KAKI BT AUTOHUB",
-		"newName": " Opp Kaki Bt Autohub"
 	},
 	{
 		"number": "75171",
@@ -375,109 +125,14 @@
 		"newName": "UWCSEA"
 	},
 	{
-		"number": "75541",
-		"name": "OPP BLK 648A",
-		"newName": "Opp Blk 648A"
-	},
-	{
-		"number": "75549",
-		"name": "BLK 648A",
-		"newName": "Blk 648A"
-	},
-	{
-		"number": "75551",
-		"name": "BLK 641A",
-		"newName": "Blk 641A"
-	},
-	{
-		"number": "75559",
-		"name": "BLK 646B",
-		"newName": "Blk 646B"
-	},
-	{
-		"number": "75561",
-		"name": "BLK 648C",
-		"newName": "Blk 648C"
-	},
-	{
-		"number": "75569",
-		"name": "BLK 636C",
-		"newName": "Blk 636C"
-	},
-	{
-		"number": "75571",
-		"name": "BLK 637B",
-		"newName": "Blk 637B"
-	},
-	{
-		"number": "75579",
-		"name": "BLK 630B",
-		"newName": "Blk 630B"
-	},
-	{
-		"number": "75581",
-		"name": "BLK 637 CP",
-		"newName": "Blk 637 CP"
-	},
-	{
-		"number": "75589",
-		"name": "OPP BLK 638A",
-		"newName": "Opp Blk 638A"
-	},
-	{
-		"number": "75591",
-		"name": "BEF BLK 631B",
-		"newName": "Bef Blk 631B"
-	},
-	{
-		"number": "75599",
-		"name": "OPP BLK 631B",
-		"newName": "Opp Blk 631B"
-	},
-	{
-		"number": "76431",
-		"name": "BLK 333",
-		"newName": " Blk 333"
-	},
-	{
-		"number": "77091",
-		"name": "AFT PASIR RIS AVE",
-		"newName": "Aft Pasir Ris Ave"
-	},
-	{
 		"number": "77401",
 		"name": "UMC",
 		"newName": "UMC"
 	},
 	{
-		"number": "78031",
-		"name": "BLK 191",
-		"newName": "Blk 191"
-	},
-	{
-		"number": "78039",
-		"name": "BLK 104",
-		"newName": "Blk 104"
-	},
-	{
 		"number": "80171",
 		"name": "CP F",
 		"newName": "CP F"
-	},
-	{
-		"number": "84161",
-		"name": "BLK 3",
-		"newName": "Blk 3"
-	},
-	{
-		"number": "84169",
-		"name": "OPP BLK 3",
-		"newName": "Opp Blk 3"
-	},
-	{
-		"number": "84211",
-		"name": "BLK 403",
-		"newName": "Blk 403"
 	},
 	{
 		"number": "91111",
@@ -495,16 +150,6 @@
 		"newName": "DHL"
 	},
 	{
-		"number": "95901",
-		"name": "BEF SIMEI RD",
-		"newName": "Bef Simei Rd"
-	},
-	{
-		"number": "95909",
-		"name": "AFT SOMAPAH RD",
-		"newName": "Aft Somapah Rd"
-	},
-	{
 		"number": "96329",
 		"name": "DHL",
 		"newName": "DHL"
@@ -513,15 +158,5 @@
 		"number": "96449",
 		"name": "SUTD",
 		"newName": "SUTD"
-	},
-	{
-		"number": "98291",
-		"name": "OPP PALM ISLES",
-		"newName": "Opp Palm Isles"
-	},
-	{
-		"number": "98299",
-		"name": "PARC OLYMPIA",
-		"newName": "Parc Olympia"
 	}
 ]

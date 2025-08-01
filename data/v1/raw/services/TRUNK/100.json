@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From S'Goon Int to Ghim Moh Ter",
+		"name": "From Serangoon Int to Ghim Moh Ter",
 		"stops": [
 			"66009",
 			"62129",
@@ -62,7 +62,7 @@
 		]
 	},
 	{
-		"name": "From Ghim Moh Ter to S'Goon Int",
+		"name": "From Ghim Moh Ter to Serangoon Int",
 		"stops": [
 			"11009",
 			"11359",

@@ -1354,7 +1354,7 @@
 			"id": "10287",
 			"properties": {
 				"number": "10287",
-				"name": "Opposite Cycle & Carriage",
+				"name": "Opp Cycle & Carriage",
 				"road": "Alexandra Rd",
 				"services": [
 					"120",
@@ -2334,7 +2334,7 @@
 			"id": "11001",
 			"properties": {
 				"number": "11001",
-				"name": "Opposite Ghim Moh Terminal",
+				"name": "Opp Ghim Moh Ter",
 				"road": "Ghim Moh Rd",
 				"services": [
 					"100",
@@ -4140,7 +4140,7 @@
 			"id": "11401",
 			"properties": {
 				"number": "11401",
-				"name": "Holland V Stn/Blk12",
+				"name": "Holland V Stn/Blk 12",
 				"road": "Holland Ave",
 				"services": [
 					"106",
@@ -7474,7 +7474,7 @@
 			"id": "14281",
 			"properties": {
 				"number": "14281",
-				"name": "Safra Mt Faber",
+				"name": "SAFRA Mt Faber",
 				"road": "Telok Blangah Way",
 				"services": [
 					"124",
@@ -8029,7 +8029,7 @@
 			"id": "14539",
 			"properties": {
 				"number": "14539",
-				"name": "Beach Station Bus Terminal",
+				"name": "Beach Stn Ter",
 				"road": "Beach View",
 				"services": [
 					"123"
@@ -9239,7 +9239,7 @@
 			"id": "16091",
 			"properties": {
 				"number": "16091",
-				"name": "Opp SIT Dover",
+				"name": "NUS Sports Ctr",
 				"road": "AYE",
 				"services": [
 					"197",
@@ -9262,7 +9262,7 @@
 			"id": "16099",
 			"properties": {
 				"number": "16099",
-				"name": "SIT Dover",
+				"name": "Opp NUS Sports Ctr",
 				"road": "AYE",
 				"services": [
 					"197",
@@ -9664,7 +9664,7 @@
 			"id": "16199",
 			"properties": {
 				"number": "16199",
-				"name": "Aft Architecture Dr",
+				"name": "Bef Architecture Dr",
 				"road": "Kent Ridge Cres",
 				"services": [
 					"151",
@@ -10320,7 +10320,7 @@
 			"id": "17089",
 			"properties": {
 				"number": "17089",
-				"name": "Before West Coast Crescent",
+				"name": "Bef West Coast Cres",
 				"road": "West Coast Link",
 				"services": [
 					"175"
@@ -10361,7 +10361,7 @@
 			"id": "17099",
 			"properties": {
 				"number": "17099",
-				"name": "Yale-NUS College",
+				"name": "UTown - Cendana",
 				"road": "Clementi Rd",
 				"services": [
 					"151",
@@ -10753,7 +10753,7 @@
 			"id": "17171",
 			"properties": {
 				"number": "17171",
-				"name": "Clementi Stn Exit A",
+				"name": "Clementi Stn Exit A/Mall",
 				"road": "C'wealth Ave West",
 				"services": [
 					"105",
@@ -11539,7 +11539,7 @@
 			"id": "18011",
 			"properties": {
 				"number": "18011",
-				"name": "Aft Hortpark",
+				"name": "Aft HortPark",
 				"road": "Alexandra Rd",
 				"services": [
 					"100",
@@ -11683,7 +11683,7 @@
 			"id": "18051",
 			"properties": {
 				"number": "18051",
-				"name": "One-North Stn",
+				"name": "one-north Stn",
 				"road": "Ayer Rajah Ave",
 				"services": [
 					"91"
@@ -11702,7 +11702,7 @@
 			"id": "18059",
 			"properties": {
 				"number": "18059",
-				"name": "Opp One-North Stn",
+				"name": "Opp one-north Stn",
 				"road": "Ayer Rajah Ave",
 				"services": [
 					"91"
@@ -12096,7 +12096,7 @@
 			"id": "18151",
 			"properties": {
 				"number": "18151",
-				"name": "Opp One-North Stn/Galaxis",
+				"name": "Opp one-north Stn/Galaxis",
 				"road": "Portsdown Rd",
 				"services": [
 					"191"
@@ -12115,7 +12115,7 @@
 			"id": "18159",
 			"properties": {
 				"number": "18159",
-				"name": "One-North Stn/Galaxis",
+				"name": "one-north Stn/Galaxis",
 				"road": "Portsdown Rd",
 				"services": [
 					"191"
@@ -12883,7 +12883,7 @@
 			"id": "19059",
 			"properties": {
 				"number": "19059",
-				"name": "University Town",
+				"name": "UTown - RC4",
 				"road": "Dover Rd",
 				"services": [
 					"196",
@@ -13453,7 +13453,7 @@
 			"id": "20131",
 			"properties": {
 				"number": "20131",
-				"name": "S'pore Food Industries Bldg",
+				"name": "S'pore Food Ind Bldg",
 				"road": "West Coast Rd",
 				"services": [
 					"143",
@@ -14710,7 +14710,7 @@
 			"id": "21151",
 			"properties": {
 				"number": "21151",
-				"name": "CWT Distripark",
+				"name": "CWT Distripk",
 				"road": "Jurong Port Rd",
 				"services": [
 					"79",
@@ -16146,7 +16146,7 @@
 			"id": "21511",
 			"properties": {
 				"number": "21511",
-				"name": "Opp Amoy Canning",
+				"name": "Bef Chin Bee Rd",
 				"road": "Chin Bee Ave",
 				"services": [
 					"79"
@@ -16165,7 +16165,7 @@
 			"id": "21519",
 			"properties": {
 				"number": "21519",
-				"name": "Amoy Canning",
+				"name": "Aft Chin Bee Rd",
 				"road": "Chin Bee Ave",
 				"services": [
 					"79",
@@ -17049,7 +17049,7 @@
 			"id": "21729",
 			"properties": {
 				"number": "21729",
-				"name": "Opposite Blk 239A",
+				"name": "Opp Blk 239A",
 				"road": "Boon Lay Dr",
 				"services": [
 					"240",
@@ -17736,7 +17736,7 @@
 			"id": "22179",
 			"properties": {
 				"number": "22179",
-				"name": "Secura S'Pore",
+				"name": "Secura S'pore",
 				"road": "Pioneer Rd Nth",
 				"services": [
 					"193",
@@ -19056,7 +19056,7 @@
 			"id": "22561",
 			"properties": {
 				"number": "22561",
-				"name": "Blk 660 Cp",
+				"name": "Blk 660 CP",
 				"road": "Boon Lay Way",
 				"services": [
 					"251"
@@ -22858,7 +22858,7 @@
 			"id": "25199",
 			"properties": {
 				"number": "25199",
-				"name": "Rockwool Building Materials",
+				"name": "Rockwool Bldg Materials",
 				"road": "Tuas Ave 1",
 				"services": [
 					"192"
@@ -27464,7 +27464,7 @@
 			"id": "28021",
 			"properties": {
 				"number": "28021",
-				"name": "Opp 8 @ Tradehub 21",
+				"name": "Opp 8 @Tradehub 21",
 				"road": "Boon Lay Way",
 				"services": [
 					"105",
@@ -27933,7 +27933,7 @@
 			"id": "28199",
 			"properties": {
 				"number": "28199",
-				"name": "Opposite JEM",
+				"name": "Opp Jem",
 				"road": "Jurong Gateway Rd",
 				"services": [
 					"333"
@@ -31242,7 +31242,7 @@
 			"id": "31131",
 			"properties": {
 				"number": "31131",
-				"name": "Aft Track 33",
+				"name": "CCK Cemy Office",
 				"road": "Old Choa Chu Kang Rd",
 				"services": [
 					"405",
@@ -31262,7 +31262,7 @@
 			"id": "31139",
 			"properties": {
 				"number": "31139",
-				"name": "Bef Track 33",
+				"name": "Opp CCK Cemy Office",
 				"road": "Old Choa Chu Kang Rd",
 				"services": [
 					"405",
@@ -31284,7 +31284,7 @@
 			"id": "31141",
 			"properties": {
 				"number": "31141",
-				"name": "CCK Cemy Office",
+				"name": "Aft Gdn of Remembrance",
 				"road": "Old Choa Chu Kang Rd",
 				"services": [
 					"405",
@@ -31304,7 +31304,7 @@
 			"id": "31149",
 			"properties": {
 				"number": "31149",
-				"name": "Opp CCK Cemy Office",
+				"name": "Bef Gdn of Remembrance",
 				"road": "Old Choa Chu Kang Rd",
 				"services": [
 					"405",
@@ -32549,7 +32549,7 @@
 			"id": "40101",
 			"properties": {
 				"number": "40101",
-				"name": "Kk Women & Children Hosp",
+				"name": "KK Women & Children Hosp",
 				"road": "Kg Java Rd",
 				"services": [
 					"166",
@@ -33037,7 +33037,7 @@
 			"id": "40249",
 			"properties": {
 				"number": "40249",
-				"name": "St. Joseph'S Instn",
+				"name": "St. Joseph's Instn",
 				"road": "Whitley Rd",
 				"services": [
 					"105",
@@ -33165,7 +33165,7 @@
 			"id": "40279",
 			"properties": {
 				"number": "40279",
-				"name": "Kk Women & Children Hosp",
+				"name": "KK Women & Children Hosp",
 				"road": "Bt Timah Rd",
 				"services": [
 					"170",
@@ -33471,7 +33471,7 @@
 			"id": "40379",
 			"properties": {
 				"number": "40379",
-				"name": "Blk 467 Cp",
+				"name": "Blk 467 CP",
 				"road": "Bt Batok West Ave 5",
 				"services": [
 					"991"
@@ -33512,7 +33512,7 @@
 			"id": "40389",
 			"properties": {
 				"number": "40389",
-				"name": "Blk 119",
+				"name": "Tengah CC",
 				"road": "Plantation Cres",
 				"services": [
 					"674",
@@ -33724,7 +33724,7 @@
 			"id": "40439",
 			"properties": {
 				"number": "40439",
-				"name": "Opposite Blk 236A",
+				"name": "Opp Blk 236A",
 				"road": "Tengah Garden Walk",
 				"services": [
 					"674",
@@ -35138,7 +35138,7 @@
 			"id": "42139",
 			"properties": {
 				"number": "42139",
-				"name": "Ave Villa",
+				"name": "Avenue Villa",
 				"road": "Sixth Ave",
 				"services": [
 					"156",
@@ -36801,7 +36801,7 @@
 			"id": "43211",
 			"properties": {
 				"number": "43211",
-				"name": "Sbst Bt Batok Depot",
+				"name": "SBST Bt Batok Depot",
 				"road": "Bt Batok St 23",
 				"services": [
 					"189"
@@ -36820,7 +36820,7 @@
 			"id": "43219",
 			"properties": {
 				"number": "43219",
-				"name": "Opp Sbst Bt Batok Depot",
+				"name": "Opp SBST Bt Batok Depot",
 				"road": "Bt Batok St 23",
 				"services": [
 					"189",
@@ -38631,7 +38631,7 @@
 			"id": "43631",
 			"properties": {
 				"number": "43631",
-				"name": "Ppis Bt Batok",
+				"name": "PPIS Bt Batok",
 				"road": "Old Jurong Rd",
 				"services": [
 					"178",
@@ -38651,7 +38651,7 @@
 			"id": "43639",
 			"properties": {
 				"number": "43639",
-				"name": "Opp Ppis Bt Batok",
+				"name": "Opp PPIS Bt Batok",
 				"road": "Old Jurong Rd",
 				"services": [
 					"178",
@@ -41666,7 +41666,7 @@
 			"id": "44499",
 			"properties": {
 				"number": "44499",
-				"name": "Blk 429A Cp",
+				"name": "Blk 429A CP",
 				"road": "Choa Chu Kang Ave 4",
 				"services": [
 					"300",
@@ -42876,7 +42876,7 @@
 			"id": "44839",
 			"properties": {
 				"number": "44839",
-				"name": "West Spring Pri Sch",
+				"name": "West Spring Pr Sch",
 				"road": "Bt Panjang Ring Rd",
 				"services": [
 					"976"
@@ -42937,7 +42937,7 @@
 			"id": "44869",
 			"properties": {
 				"number": "44869",
-				"name": "Bef Blk 629A Cp",
+				"name": "Bef Blk 629A CP",
 				"road": "Senja Rd",
 				"services": [
 					"920",
@@ -45617,7 +45617,7 @@
 			"id": "46109",
 			"properties": {
 				"number": "46109",
-				"name": "W'Lands Checkpt",
+				"name": "W'lands Checkpt",
 				"road": "Woodlands Crossing",
 				"services": [
 					"160",
@@ -45645,6 +45645,7 @@
 					"178",
 					"856",
 					"856B",
+					"856C",
 					"903"
 				]
 			},
@@ -45687,7 +45688,8 @@
 				"road": "Admiralty Rd",
 				"services": [
 					"856",
-					"856B"
+					"856B",
+					"856C"
 				]
 			},
 			"geometry": {
@@ -45726,7 +45728,8 @@
 				"road": "Admiralty Rd",
 				"services": [
 					"856",
-					"856B"
+					"856B",
+					"856C"
 				]
 			},
 			"geometry": {
@@ -46556,7 +46559,7 @@
 			"id": "46339",
 			"properties": {
 				"number": "46339",
-				"name": "Bef W'Lands Stn Exit 7",
+				"name": "Bef W'lands Stn Exit 7",
 				"road": "Woodlands Ave 2",
 				"services": [
 					"161",
@@ -46772,7 +46775,7 @@
 			"id": "46389",
 			"properties": {
 				"number": "46389",
-				"name": "Aft W'Lands Ind Pk D St 1",
+				"name": "Aft W'lands Ind Pk D St 1",
 				"road": "Woodlands Ave 3",
 				"services": [
 					"160",
@@ -47180,7 +47183,7 @@
 			"id": "46481",
 			"properties": {
 				"number": "46481",
-				"name": "Aft Woodlands Ind Pk E6",
+				"name": "Aft W'lands Ind Pk E6",
 				"road": "Woodlands Ave 9",
 				"services": [
 					"169",
@@ -47871,7 +47874,7 @@
 			"id": "46631",
 			"properties": {
 				"number": "46631",
-				"name": "W'Lands Stn Exit 5",
+				"name": "W'lands Stn Exit 5",
 				"road": "Woodlands Ave 2",
 				"services": [
 					"161",
@@ -47897,7 +47900,7 @@
 			"id": "46639",
 			"properties": {
 				"number": "46639",
-				"name": "W'Lands Stn Exit 4",
+				"name": "W'lands Stn Exit 4",
 				"road": "Woodlands Ave 2",
 				"services": [
 					"161",
@@ -49127,7 +49130,8 @@
 				"road": "Admiralty Rd",
 				"services": [
 					"856",
-					"856B"
+					"856B",
+					"856C"
 				]
 			},
 			"geometry": {
@@ -49162,11 +49166,12 @@
 			"id": "47021",
 			"properties": {
 				"number": "47021",
-				"name": "Khalsa Crescent Drug Rehab Ctr",
+				"name": "Khalsa Cres Drug Rehab Ctr",
 				"road": "Admiralty Rd West",
 				"services": [
 					"856",
-					"856B"
+					"856B",
+					"856C"
 				]
 			},
 			"geometry": {
@@ -49182,7 +49187,7 @@
 			"id": "47029",
 			"properties": {
 				"number": "47029",
-				"name": "Opp Khalsa Crescent Drug Rehab Ctr",
+				"name": "Opp Khalsa Cres Drug Rehab Ctr",
 				"road": "Admiralty Rd West",
 				"services": [
 					"856"
@@ -49205,7 +49210,8 @@
 				"road": "Admiralty Rd West",
 				"services": [
 					"856",
-					"856B"
+					"856B",
+					"856C"
 				]
 			},
 			"geometry": {
@@ -49244,7 +49250,8 @@
 				"road": "Admiralty Rd West",
 				"services": [
 					"856",
-					"856B"
+					"856B",
+					"856C"
 				]
 			},
 			"geometry": {
@@ -49283,7 +49290,8 @@
 				"road": "Admiralty Rd West",
 				"services": [
 					"856",
-					"856B"
+					"856B",
+					"856C"
 				]
 			},
 			"geometry": {
@@ -49322,7 +49330,8 @@
 				"road": "Admiralty Rd West",
 				"services": [
 					"856",
-					"856B"
+					"856B",
+					"856C"
 				]
 			},
 			"geometry": {
@@ -49363,7 +49372,8 @@
 					"169",
 					"169A",
 					"856",
-					"856B"
+					"856B",
+					"856C"
 				]
 			},
 			"geometry": {
@@ -49479,7 +49489,7 @@
 			"id": "47101",
 			"properties": {
 				"number": "47101",
-				"name": "Aft Senoko Ave",
+				"name": "Bef Senoko Ave",
 				"road": "Senoko Dr",
 				"services": [
 					"856",
@@ -49500,7 +49510,7 @@
 			"id": "47109",
 			"properties": {
 				"number": "47109",
-				"name": "Maxsteel Enterprise",
+				"name": "MaxSteel Enterprise",
 				"road": "Senoko Dr",
 				"services": [
 					"856",
@@ -49736,7 +49746,8 @@
 				"road": "Nth Woodlands Dr",
 				"services": [
 					"856",
-					"856B"
+					"856B",
+					"856C"
 				]
 			},
 			"geometry": {
@@ -50477,7 +50488,7 @@
 			"id": "47749",
 			"properties": {
 				"number": "47749",
-				"name": "Woodlands Health Campus",
+				"name": "W'lands Health Campus",
 				"road": "Woodlands Dr 17",
 				"services": [
 					"900",
@@ -51837,7 +51848,7 @@
 			"id": "49199",
 			"properties": {
 				"number": "49199",
-				"name": "Kranji Reservoir Pk B",
+				"name": "Kranji Resvr Pk B",
 				"road": "Kranji Way",
 				"services": [
 					"925",
@@ -54732,7 +54743,7 @@
 			"id": "52241",
 			"properties": {
 				"number": "52241",
-				"name": "Bef Caldecott Stn/Savh",
+				"name": "Bef Caldecott Stn/SAVH",
 				"road": "Toa Payoh Rise",
 				"services": [
 					"141"
@@ -55739,7 +55750,7 @@
 			"id": "52501",
 			"properties": {
 				"number": "52501",
-				"name": "Toa Payoh Swim Cplx",
+				"name": "Bef Toa Payoh Pk",
 				"road": "Lor 6 Toa Payoh",
 				"services": [
 					"142",
@@ -56098,7 +56109,7 @@
 			"id": "53021",
 			"properties": {
 				"number": "53021",
-				"name": "Lakeview Estate",
+				"name": "Lakeview Est",
 				"road": "Upp Thomson Rd",
 				"services": [
 					"130",
@@ -59624,7 +59635,7 @@
 			"id": "54409",
 			"properties": {
 				"number": "54409",
-				"name": "Opp Blk 522",
+				"name": "Jing Shan Pr Sch",
 				"road": "Ang Mo Kio St 52",
 				"services": [
 					"265",
@@ -60770,7 +60781,7 @@
 			"id": "55071",
 			"properties": {
 				"number": "55071",
-				"name": "Bef Econ Medicare Ctr",
+				"name": "Bef ECON Medicare Ctr",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
@@ -60798,7 +60809,7 @@
 			"id": "55079",
 			"properties": {
 				"number": "55079",
-				"name": "Aft Econ Medicare Ctr",
+				"name": "Aft ECON Medicare Ctr",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"163",
@@ -61113,7 +61124,7 @@
 			"id": "55151",
 			"properties": {
 				"number": "55151",
-				"name": "Ang Mo Kio Comm Hosp",
+				"name": "Ang Mo Kio Community Hosp",
 				"road": "Ang Mo Kio Ave 9",
 				"services": [
 					"265",
@@ -61135,7 +61146,7 @@
 			"id": "55159",
 			"properties": {
 				"number": "55159",
-				"name": "Opp Ang Mo Kio Comm Hosp",
+				"name": "Opp Ang Mo Kio Cmty Hosp",
 				"road": "Ang Mo Kio Ave 9",
 				"services": [
 					"265",
@@ -62023,7 +62034,7 @@
 			"id": "56011",
 			"properties": {
 				"number": "56011",
-				"name": "Bef adana at thomson",
+				"name": "Bef Adana @ Thomson",
 				"road": "Upp Thomson Rd",
 				"services": [
 					"163",
@@ -62093,7 +62104,7 @@
 			"id": "56029",
 			"properties": {
 				"number": "56029",
-				"name": "Bef Sembawang Hills Fc",
+				"name": "Bef Sembawang Hills FC",
 				"road": "Upp Thomson Rd",
 				"services": [
 					"163",
@@ -62642,7 +62653,7 @@
 			"id": "56269",
 			"properties": {
 				"number": "56269",
-				"name": "BEF Ang mo kio avenue 2",
+				"name": "Bef Ang Mo Kio Ave 2",
 				"road": "Ang Mo Kio Ave 1",
 				"services": [
 					"132",
@@ -64294,7 +64305,7 @@
 			"id": "58251",
 			"properties": {
 				"number": "58251",
-				"name": "Sun Plaza/Sembawang Stn",
+				"name": "Sun Plaza/ Sembawang Stn",
 				"road": "Sembawang Dr",
 				"services": [
 					"117",
@@ -64794,7 +64805,7 @@
 			"id": "58361",
 			"properties": {
 				"number": "58361",
-				"name": "Nth Link Bldg",
+				"name": "Nth Lk Bldg",
 				"road": "Admiralty St",
 				"services": [
 					"962",
@@ -65528,7 +65539,7 @@
 			"id": "58571",
 			"properties": {
 				"number": "58571",
-				"name": "Gambas Ave",
+				"name": "Bef Sembawang Ave",
 				"road": "Sembawang Ave",
 				"services": [
 					"965",
@@ -65550,7 +65561,7 @@
 			"id": "58579",
 			"properties": {
 				"number": "58579",
-				"name": "Gambas Ave",
+				"name": "Aft Sembawang Ave",
 				"road": "Sembawang Ave",
 				"services": [
 					"965",
@@ -65692,7 +65703,7 @@
 			"id": "58621",
 			"properties": {
 				"number": "58621",
-				"name": "Blk 126 Cp",
+				"name": "Blk 126 CP",
 				"road": "Canberra st",
 				"services": [
 					"861",
@@ -65737,25 +65748,6 @@
 				"coordinates": [
 					103.8350086,
 					1.424583611
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "59008",
-			"properties": {
-				"number": "59008",
-				"name": "Yishun Int",
-				"road": "Yishun Ave 2",
-				"services": [
-					"812"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8361105319593,
-					1.4285384902718
 				]
 			}
 		},
@@ -68742,7 +68734,7 @@
 			"id": "59671",
 			"properties": {
 				"number": "59671",
-				"name": "Before Yishun Station",
+				"name": "Bef Yishun Stn",
 				"road": "Yishun Ave 2",
 				"services": [
 					"804"
@@ -69292,7 +69284,7 @@
 			"id": "59829",
 			"properties": {
 				"number": "59829",
-				"name": "Opposite Blk 334B",
+				"name": "Opp Blk 334B",
 				"road": "Yishun Ave 6",
 				"services": [
 					"801",
@@ -71255,7 +71247,7 @@
 			"id": "62101",
 			"properties": {
 				"number": "62101",
-				"name": "Bef Upp Serangoon Rd",
+				"name": "Bef Upp S'goon Rd",
 				"road": "Bartley Rd",
 				"services": [
 					"146",
@@ -71276,7 +71268,7 @@
 			"id": "62109",
 			"properties": {
 				"number": "62109",
-				"name": "Aft Upp Serangoon Rd",
+				"name": "Aft Upp S'goon Rd",
 				"road": "Bartley Rd",
 				"services": [
 					"146",
@@ -71580,7 +71572,7 @@
 			"id": "62161",
 			"properties": {
 				"number": "62161",
-				"name": "St.Gabriel's Sec Sch",
+				"name": "St. Gabriel's Sec Sch",
 				"road": "S'goon Ave 1",
 				"services": [
 					"158"
@@ -72544,7 +72536,7 @@
 			"id": "63149",
 			"properties": {
 				"number": "63149",
-				"name": "Serangoon Stadium",
+				"name": "S'goon Stadium",
 				"road": "Boundary Rd",
 				"services": [
 					"103",
@@ -72607,7 +72599,7 @@
 			"id": "63161",
 			"properties": {
 				"number": "63161",
-				"name": "Serangoon Swim Cplx",
+				"name": "S'goon Swim Cplx",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"136"
@@ -72626,7 +72618,7 @@
 			"id": "63169",
 			"properties": {
 				"number": "63169",
-				"name": "Opp Serangoon Swim Cplx",
+				"name": "Opp S'goon Swim Cplx",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"136"
@@ -72710,7 +72702,7 @@
 			"id": "63189",
 			"properties": {
 				"number": "63189",
-				"name": "Aft Serangoon Gdn Way",
+				"name": "Aft S'goon Gdn Way",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"103",
@@ -72744,7 +72736,7 @@
 			"id": "63191",
 			"properties": {
 				"number": "63191",
-				"name": "Aft Serangoon Nth Ave 1",
+				"name": "Aft S'goon Nth Ave 1",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"103",
@@ -73273,7 +73265,7 @@
 			"id": "63301",
 			"properties": {
 				"number": "63301",
-				"name": "Paya Lebar Meth Girls' Sc",
+				"name": "Paya Lebar Meth Girls' Sch",
 				"road": "Lor Ah Soo",
 				"services": [
 					"113",
@@ -73612,7 +73604,7 @@
 			"id": "63369",
 			"properties": {
 				"number": "63369",
-				"name": "Serangoon Sports Cplx",
+				"name": "S'goon Sports Cplx",
 				"road": "Yio Chu Kang Link",
 				"services": [
 					"103",
@@ -74109,7 +74101,7 @@
 			"id": "64061",
 			"properties": {
 				"number": "64061",
-				"name": "Opp Serangoon Sec Sch",
+				"name": "Opp S'goon Sec Sch",
 				"road": "Upp S'goon Rd",
 				"services": [
 					"102",
@@ -74131,7 +74123,7 @@
 			"id": "64069",
 			"properties": {
 				"number": "64069",
-				"name": "Serangoon Sec Sch",
+				"name": "S'goon Sec Sch",
 				"road": "Upp S'goon Rd",
 				"services": [
 					"102",
@@ -75437,7 +75429,7 @@
 			"id": "64397",
 			"properties": {
 				"number": "64397",
-				"name": "Block 513",
+				"name": "Blk 513",
 				"road": "Hougang Ave 10",
 				"services": [
 					"161",
@@ -77002,7 +76994,7 @@
 			"id": "65181",
 			"properties": {
 				"number": "65181",
-				"name": "Atf Punggol Ctrl",
+				"name": "Aft Punggol Ctrl",
 				"road": "Punggol East",
 				"services": [
 					"381",
@@ -78493,7 +78485,7 @@
 			"id": "65559",
 			"properties": {
 				"number": "65559",
-				"name": "Opposite Blk 227A",
+				"name": "Opp Blk 227A",
 				"road": "Punggol Field",
 				"services": [
 					"382",
@@ -78898,7 +78890,7 @@
 			"id": "65671",
 			"properties": {
 				"number": "65671",
-				"name": "Punggol cove pr sch",
+				"name": "Punggol Cove Pr Sch",
 				"road": "Sumang Link",
 				"services": [
 					"34",
@@ -78919,7 +78911,7 @@
 			"id": "65679",
 			"properties": {
 				"number": "65679",
-				"name": "Opp punggol cove pr sch",
+				"name": "Opp Punggol Cove Pr Sch",
 				"road": "Sumang Link",
 				"services": [
 					"34",
@@ -78979,7 +78971,7 @@
 			"id": "65691",
 			"properties": {
 				"number": "65691",
-				"name": "Opposite Blk 437B",
+				"name": "Opp Blk 437B",
 				"road": "New Punggol Road",
 				"services": [
 					"84G",
@@ -79019,7 +79011,7 @@
 			"id": "65701",
 			"properties": {
 				"number": "65701",
-				"name": "Opposite SIT Punggol",
+				"name": "Opp SIT Punggol",
 				"road": "New Punggol Road",
 				"services": [
 					"84G"
@@ -79038,7 +79030,7 @@
 			"id": "65709",
 			"properties": {
 				"number": "65709",
-				"name": "Before SIT Punggol",
+				"name": "Bef SIT Punggol",
 				"road": "New Punggol Road",
 				"services": [
 					"84W"
@@ -79095,7 +79087,7 @@
 			"id": "65721",
 			"properties": {
 				"number": "65721",
-				"name": "Opposite Punggol Coast Station",
+				"name": "Opp Punggol Coast Stn",
 				"road": "New Punggol Road",
 				"services": [
 					"84G"
@@ -79114,7 +79106,7 @@
 			"id": "65729",
 			"properties": {
 				"number": "65729",
-				"name": "Punggol Coast Station",
+				"name": "Punggol Coast Stn",
 				"road": "New Punggol Road",
 				"services": [
 					"84W"
@@ -79206,8 +79198,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.88630888889303,
-					1.39121000003879
+					103.886047,
+					1.390669
 				]
 			}
 		},
@@ -79216,7 +79208,7 @@
 			"id": "66009",
 			"properties": {
 				"number": "66009",
-				"name": "S'Goon Int",
+				"name": "Serangoon Int",
 				"road": "S'goon Ave 2",
 				"services": [
 					"100",
@@ -80148,7 +80140,7 @@
 			"id": "66271",
 			"properties": {
 				"number": "66271",
-				"name": "Serangoon Gdn Circus",
+				"name": "S'goon Gdn Circus",
 				"road": "S'goon Gdn Way",
 				"services": [
 					"136",
@@ -81262,7 +81254,7 @@
 			"id": "66561",
 			"properties": {
 				"number": "66561",
-				"name": "Outside Blk 991B",
+				"name": "Blk 991B",
 				"road": "Buangkok Link",
 				"services": [
 					"101"
@@ -81781,7 +81773,7 @@
 			"id": "67079",
 			"properties": {
 				"number": "67079",
-				"name": "Ch Of St. Vincent De Paul",
+				"name": "Ch of St. Vincent de Paul",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"103",
@@ -85369,7 +85361,7 @@
 			"id": "68181",
 			"properties": {
 				"number": "68181",
-				"name": "Bef Jtc Aerospace",
+				"name": "Bef JTC Aerospace",
 				"road": "Seletar Aerospace Link",
 				"services": [
 					"117M"
@@ -85388,7 +85380,7 @@
 			"id": "68189",
 			"properties": {
 				"number": "68189",
-				"name": "Bef Seletar A'Space Cres",
+				"name": "Aft JTC Aerospace",
 				"road": "Seletar Aerospace Link",
 				"services": [
 					"117M"
@@ -85407,7 +85399,7 @@
 			"id": "68191",
 			"properties": {
 				"number": "68191",
-				"name": "Bef Seletar A'Space Lk",
+				"name": "Bef Seletar A'space Lk",
 				"road": "Seletar Aerospace Crescent",
 				"services": [
 					"117M"
@@ -85426,7 +85418,7 @@
 			"id": "68199",
 			"properties": {
 				"number": "68199",
-				"name": "Aft Seletar A'Space Lk",
+				"name": "Aft Seletar A'space Lk",
 				"road": "Seletar Aerospace Crescent",
 				"services": [
 					"117M"
@@ -85516,6 +85508,25 @@
 				"coordinates": [
 					103.908557,
 					1.414795
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "69099",
+			"properties": {
+				"number": "69099",
+				"name": "Blk 227",
+				"road": "Sang Nila Utama",
+				"services": [
+					"148"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8765295,
+					1.339846
 				]
 			}
 		},
@@ -87805,7 +87816,7 @@
 			"id": "71171",
 			"properties": {
 				"number": "71171",
-				"name": "Opp Scdf Hq",
+				"name": "Opp SCDF HQ",
 				"road": "Airport Rd",
 				"services": [
 					"151",
@@ -87828,7 +87839,7 @@
 			"id": "71179",
 			"properties": {
 				"number": "71179",
-				"name": "Aft Scdf Hq",
+				"name": "Aft SCDF HQ",
 				"road": "Airport Rd",
 				"services": [
 					"151",
@@ -88084,7 +88095,7 @@
 			"id": "71331",
 			"properties": {
 				"number": "71331",
-				"name": " Kaki Bt Autohub",
+				"name": "Kaki Bt Autohub",
 				"road": "Kaki Bt Ave 2",
 				"services": [
 					"137"
@@ -88103,7 +88114,7 @@
 			"id": "71339",
 			"properties": {
 				"number": "71339",
-				"name": " Opp Kaki Bt Autohub",
+				"name": "Opp Kaki Bt Autohub",
 				"road": "Kaki Bt Ave 2",
 				"services": [
 					"137"
@@ -88923,7 +88934,7 @@
 			"id": "74031",
 			"properties": {
 				"number": "74031",
-				"name": "Bef Tampines Ik",
+				"name": "Bef Tampines Lk",
 				"road": "Tampines Rd",
 				"services": [
 					"127",
@@ -93176,7 +93187,7 @@
 			"id": "76431",
 			"properties": {
 				"number": "76431",
-				"name": " Blk 333",
+				"name": "Blk 333",
 				"road": "Tampines St 33",
 				"services": [
 					"18"
@@ -93471,7 +93482,7 @@
 			"id": "76541",
 			"properties": {
 				"number": "76541",
-				"name": "Citylife@ Tampines",
+				"name": "Citylife @ Tampines",
 				"road": "Tampines Ave 9",
 				"services": [
 					"129",
@@ -93495,7 +93506,7 @@
 			"id": "76549",
 			"properties": {
 				"number": "76549",
-				"name": "Opp Citylife@ Tampines",
+				"name": "Opp Citylife @ Tampines",
 				"road": "Tampines Ave 9",
 				"services": [
 					"129",
@@ -94475,7 +94486,7 @@
 			"id": "77231",
 			"properties": {
 				"number": "77231",
-				"name": "Tampines Meridian Jc",
+				"name": "Tampines Meridian JC",
 				"road": "Pasir Ris Dr 1",
 				"services": [
 					"109",
@@ -95175,7 +95186,7 @@
 			"id": "77409",
 			"properties": {
 				"number": "77409",
-				"name": "Opposite UMC",
+				"name": "Opp UMC",
 				"road": "Pasir Ris Ind Dr 1",
 				"services": [
 					"39",
@@ -95927,7 +95938,7 @@
 			"id": "78199",
 			"properties": {
 				"number": "78199",
-				"name": "Opp White Sands Pri Sch",
+				"name": "Opp White Sands Pr Sch",
 				"road": "Pasir Ris St 11",
 				"services": [
 					"109",
@@ -97654,7 +97665,7 @@
 			"id": "81101",
 			"properties": {
 				"number": "81101",
-				"name": "CISCO Ctr",
+				"name": "Paya Lebar Green",
 				"road": "Paya Lebar Rd",
 				"services": [
 					"135",
@@ -97683,7 +97694,7 @@
 			"id": "81109",
 			"properties": {
 				"number": "81109",
-				"name": "Opp CISCO Ctr",
+				"name": "Opp Paya Lebar Green",
 				"road": "Paya Lebar Rd",
 				"services": [
 					"135",
@@ -98515,7 +98526,7 @@
 			"id": "82061",
 			"properties": {
 				"number": "82061",
-				"name": "Eunos Stn/ Int",
+				"name": "Eunos Stn/Int",
 				"road": "Sims Ave",
 				"services": [
 					"13",
@@ -101673,7 +101684,7 @@
 			"id": "84261",
 			"properties": {
 				"number": "84261",
-				"name": "Saint Anthony's Canossian School",
+				"name": "St. Anthony's Cano Sch",
 				"road": "Bedok Nth Ave 4",
 				"services": [
 					"17",
@@ -102953,7 +102964,7 @@
 			"id": "84591",
 			"properties": {
 				"number": "84591",
-				"name": "Sbst Bedok Nth Depot",
+				"name": "SBST Bedok Nth Depot",
 				"road": "Bedok Nth Ave 4",
 				"services": [
 					"17",
@@ -102974,7 +102985,7 @@
 			"id": "84599",
 			"properties": {
 				"number": "84599",
-				"name": "Opp Sbst Bedok Nth Depot",
+				"name": "Opp SBST Bedok Nth Depot",
 				"road": "Bedok Nth Ave 4",
 				"services": [
 					"17",
@@ -104752,7 +104763,7 @@
 			"id": "92081",
 			"properties": {
 				"number": "92081",
-				"name": "St. Patrick's Sec Sch",
+				"name": "St. Patrick's Sch",
 				"road": "Marine Parade Rd",
 				"services": [
 					"13",
@@ -105287,7 +105298,7 @@
 			"id": "92181",
 			"properties": {
 				"number": "92181",
-				"name": "112 Katong",
+				"name": "i12 Katong",
 				"road": "Joo Chiat Rd",
 				"services": [
 					"16",
@@ -105307,7 +105318,7 @@
 			"id": "92189",
 			"properties": {
 				"number": "92189",
-				"name": "Opp 112 Katong",
+				"name": "Opp i12 Katong",
 				"road": "Joo Chiat Rd",
 				"services": [
 					"16",
@@ -106790,7 +106801,7 @@
 			"id": "94029",
 			"properties": {
 				"number": "94029",
-				"name": "Aft Sennet Rd",
+				"name": "Aft Sennett Rd",
 				"road": "Upp East Coast Rd",
 				"services": [
 					"10",
@@ -107295,7 +107306,7 @@
 			"properties": {
 				"number": "95051",
 				"name": "3rd Cargo Agents",
-				"road": "Airline Rd",
+				"road": "Airport Cargo Rd",
 				"services": [
 					"19",
 					"89",
@@ -109570,7 +109581,7 @@
 			"id": "96461",
 			"properties": {
 				"number": "96461",
-				"name": "Before Aviation Park Road",
+				"name": "Bef Aviation Pk Rd",
 				"road": "Tanah Merah Coast Rd",
 				"services": [
 					"35"
@@ -109589,7 +109600,7 @@
 			"id": "96471",
 			"properties": {
 				"number": "96471",
-				"name": "Bef Changi Coast Road",
+				"name": "Bef Changi Coast Rd",
 				"road": "Aviation Pk Rd",
 				"services": [
 					"35"
@@ -109608,7 +109619,7 @@
 			"id": "96479",
 			"properties": {
 				"number": "96479",
-				"name": "After Changi Coast Road",
+				"name": "Aft Changi Coast Rd",
 				"road": "Aviation Pk Rd",
 				"services": [
 					"35"
@@ -115650,7 +115661,7 @@
 			"id": "05239",
 			"properties": {
 				"number": "05239",
-				"name": "Bef The Pinnacle@Duxton",
+				"name": "Bef The Pinnacle @Duxton",
 				"road": "Neil Rd",
 				"services": [
 					"166",

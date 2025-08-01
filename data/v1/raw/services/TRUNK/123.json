@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Bt Merah Int to Beach Station Bus Terminal",
+		"name": "From Bt Merah Int to Beach Stn Ter",
 		"stops": [
 			"10009",
 			"10659",
@@ -48,7 +48,7 @@
 		]
 	},
 	{
-		"name": "From Beach Station Bus Terminal to Bt Merah Int",
+		"name": "From Beach Stn Ter to Bt Merah Int",
 		"stops": [
 			"14539",
 			"14529",
