@@ -1,3 +1,20 @@
+# 8 August 2025
+
+## Services count change: 576 ⮕ 577
+
+### Services added: 1
+
+- `179B` Hall 1 → Pioneer Stn Exit B
+
+## Routes changed: 2
+
+- `856C` Blk 23 → Bef British American Tobacco
+- `179B` Hall 1 → Pioneer Stn Exit B
+
+## First/last timings changed
+
+Affected services: `179B`
+
 # 1 August 2025
 
 ### Stops added: 1
