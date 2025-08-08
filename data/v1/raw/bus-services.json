@@ -2343,6 +2343,16 @@
 		]
 	},
 	{
+		"number": "179B",
+		"type": "TRUNK",
+		"kmlFile": [
+			"179B-1.kml"
+		],
+		"routeFile": [
+			"179B.xml"
+		]
+	},
+	{
 		"number": "17A",
 		"type": "TRUNK",
 		"kmlFile": [

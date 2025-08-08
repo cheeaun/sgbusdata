@@ -18914,6 +18914,7 @@
 				"road": "Jurong West St 63",
 				"services": [
 					"179",
+					"179B",
 					"192",
 					"241",
 					"241A",
@@ -25835,7 +25836,8 @@
 				"road": "Nanyang Dr",
 				"services": [
 					"179",
-					"179A"
+					"179A",
+					"179B"
 				]
 			},
 			"geometry": {
@@ -26258,7 +26260,8 @@
 				"road": "Nanyang Dr",
 				"services": [
 					"179",
-					"179A"
+					"179A",
+					"179B"
 				]
 			},
 			"geometry": {
@@ -26297,7 +26300,8 @@
 				"road": "Nanyang Dr",
 				"services": [
 					"179",
-					"179A"
+					"179A",
+					"179B"
 				]
 			},
 			"geometry": {
@@ -26317,7 +26321,8 @@
 				"road": "Nanyang Dr",
 				"services": [
 					"179",
-					"179A"
+					"179A",
+					"179B"
 				]
 			},
 			"geometry": {
@@ -26337,7 +26342,8 @@
 				"road": "Nanyang Dr",
 				"services": [
 					"179",
-					"179A"
+					"179A",
+					"179B"
 				]
 			},
 			"geometry": {
@@ -26357,7 +26363,8 @@
 				"road": "Nanyang Dr",
 				"services": [
 					"179",
-					"179A"
+					"179A",
+					"179B"
 				]
 			},
 			"geometry": {
@@ -26377,7 +26384,8 @@
 				"road": "Nanyang Dr",
 				"services": [
 					"179",
-					"179A"
+					"179A",
+					"179B"
 				]
 			},
 			"geometry": {
@@ -26439,7 +26447,8 @@
 				"road": "Lien Ying Chow Dr",
 				"services": [
 					"179",
-					"179A"
+					"179A",
+					"179B"
 				]
 			},
 			"geometry": {
@@ -26459,7 +26468,8 @@
 				"road": "Lien Ying Chow Dr",
 				"services": [
 					"179",
-					"179A"
+					"179A",
+					"179B"
 				]
 			},
 			"geometry": {
@@ -26527,7 +26537,8 @@
 				"road": "Lien Ying Chow Dr",
 				"services": [
 					"179",
-					"179A"
+					"179A",
+					"179B"
 				]
 			},
 			"geometry": {
