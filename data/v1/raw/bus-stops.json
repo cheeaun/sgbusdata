@@ -6282,15 +6282,6 @@
 		}
 	},
 	{
-		"name": "02051",
-		"wab": "true",
-		"details": "The Float @ Marina Bay",
-		"coordinates": {
-			"lat": 1.289503056,
-			"long": 103.8590339
-		}
-	},
-	{
 		"name": "02061",
 		"wab": "true",
 		"details": "The Esplanade",
@@ -9841,8 +9832,8 @@
 		"wab": "true",
 		"details": "Clementi N'hood Pk",
 		"coordinates": {
-			"lat": 1.32646954948891,
-			"long": 103.77543118165781
+			"lat": 1.325271111,
+			"long": 103.774235
 		}
 	},
 	{
@@ -13288,8 +13279,8 @@
 		"wab": "true",
 		"details": "Bef Blk 39",
 		"coordinates": {
-			"lat": 1.32127611097845,
-			"long": 103.74340527799251
+			"lat": 1.321334,
+			"long": 103.74386
 		}
 	},
 	{
@@ -13297,8 +13288,8 @@
 		"wab": "true",
 		"details": "Bef Jurong Town Hall Rd",
 		"coordinates": {
-			"lat": 1.32043333301332,
-			"long": 103.7440744439939
+			"lat": 1.321453,
+			"long": 103.744211
 		}
 	},
 	{
@@ -21879,6 +21870,33 @@
 		}
 	},
 	{
+		"name": "40481",
+		"wab": "true",
+		"details": "Bef Blk 113",
+		"coordinates": {
+			"lat": 1.352848,
+			"long": 103.735005
+		}
+	},
+	{
+		"name": "40489",
+		"wab": "true",
+		"details": "Opp Blk 113",
+		"coordinates": {
+			"lat": 1.353375,
+			"long": 103.735489
+		}
+	},
+	{
+		"name": "40501",
+		"wab": "true",
+		"details": "Blk 131D",
+		"coordinates": {
+			"lat": 1.354773,
+			"long": 103.731884
+		}
+	},
+	{
 		"name": "41009",
 		"wab": "true",
 		"details": "Tengah Int",
@@ -27040,8 +27058,8 @@
 		"wab": "true",
 		"details": "Evergreen Pr Sch",
 		"coordinates": {
-			"lat": 1.44379,
-			"long": 103.79386
+			"lat": 1.443561111,
+			"long": 103.7940981
 		}
 	},
 	{
@@ -27283,8 +27301,8 @@
 		"wab": "true",
 		"details": "Blk 101",
 		"coordinates": {
-			"lat": 1.435184,
-			"long": 103.781737
+			"lat": 1.435183889,
+			"long": 103.7817369
 		}
 	},
 	{
@@ -27301,8 +27319,8 @@
 		"wab": "true",
 		"details": "Blk 183C",
 		"coordinates": {
-			"lat": 1.434717,
-			"long": 103.777244
+			"lat": 1.434716944,
+			"long": 103.7772439
 		}
 	},
 	{
@@ -41251,8 +41269,8 @@
 		"wab": "true",
 		"details": "Cheng Lim Stn Exit B",
 		"coordinates": {
-			"lat": 1.39616692483827,
-			"long": 103.89376724340975
+			"lat": 1.396636,
+			"long": 103.892236
 		}
 	},
 	{
@@ -41260,8 +41278,8 @@
 		"wab": "true",
 		"details": "Cheng Lim Stn Exit A",
 		"coordinates": {
-			"lat": 1.39637340662334,
-			"long": 103.89381749259768
+			"lat": 1.397015278,
+			"long": 103.8919331
 		}
 	},
 	{

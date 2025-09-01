@@ -1236,8 +1236,8 @@
 		"Clementi Rd"
 	],
 	"12081": [
-		103.77543,
-		1.32647,
+		103.77424,
+		1.32527,
 		"Clementi N'hood Pk",
 		"Clementi Rd"
 	],
@@ -3534,14 +3534,14 @@
 		"Pandan Gdns"
 	],
 	"20201": [
-		103.74341,
-		1.32128,
+		103.74386,
+		1.32133,
 		"Bef Blk 39",
 		"Teban Gdns Rd"
 	],
 	"20209": [
-		103.74407,
-		1.32043,
+		103.74421,
+		1.32145,
 		"Bef Jurong Town Hall Rd",
 		"Teban Gdns Rd"
 	],
@@ -9263,6 +9263,24 @@
 		"Blk 321",
 		"Tengah Boulevard"
 	],
+	"40481": [
+		103.73501,
+		1.35285,
+		"Bef Blk 113",
+		"Plantation Cres"
+	],
+	"40489": [
+		103.73549,
+		1.35338,
+		"Opp Blk 113",
+		"Plantation Cres"
+	],
+	"40501": [
+		103.73188,
+		1.35477,
+		"Blk 131D",
+		"Tengah Garden Ave"
+	],
 	"41009": [
 		103.73597,
 		1.3627,
@@ -12702,8 +12720,8 @@
 		"Woodlands Ave 4"
 	],
 	"46419": [
-		103.79386,
-		1.44379,
+		103.7941,
+		1.44356,
 		"Evergreen Pr Sch",
 		"Woodlands Ave 4"
 	],
@@ -22176,14 +22194,14 @@
 		"Sengkang East Rd"
 	],
 	"67421": [
-		103.89377,
-		1.39617,
+		103.89224,
+		1.39664,
 		"Cheng Lim Stn Exit B",
 		"Anchorvale St"
 	],
 	"67429": [
-		103.89382,
-		1.39637,
+		103.89193,
+		1.39702,
 		"Cheng Lim Stn Exit A",
 		"Anchorvale St"
 	],
@@ -29824,12 +29842,6 @@
 		1.29452,
 		"Raffles Hotel",
 		"Bras Basah Rd"
-	],
-	"02051": [
-		103.85903,
-		1.2895,
-		"The Float @ Marina Bay",
-		"Raffles Ave"
 	],
 	"02061": [
 		103.8564,

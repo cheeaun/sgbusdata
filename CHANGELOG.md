@@ -1,3 +1,81 @@
+# 1 September 2025
+
+## Stops count change: 5160 ⮕ 5162
+
+### Stops added: 3
+
+- `40481` Bef Blk 113
+- `40489` Opp Blk 113
+- `40501` Blk 131D
+
+### Stops removed: 1
+
+- `02051` The Float @ Marina Bay
+
+### Stop locations changed: 6
+
+- `12081` 103.77543,1.32647 ⮕ 103.77424,1.32527
+- `20201` 103.74341,1.32128 ⮕ 103.74386,1.32133
+- `20209` 103.74407,1.32043 ⮕ 103.74421,1.32145
+- `46419` 103.79386,1.44379 ⮕ 103.7941,1.44356
+- `67421` 103.89377,1.39617 ⮕ 103.89224,1.39664
+- `67429` 103.89382,1.39637 ⮕ 103.89193,1.39702
+
+## Services count change: 577 ⮕ 578
+
+### Services added: 1
+
+- `872` Tengah Int ⟲ Blk 306
+
+### Bus Stop Changes To Routes: 17
+
+- `961M` Woodlands Temp Int ⇄ Lor 1 Geylang Ter: -2
+- `36A` Changi Airport Ter 2 → Aft Cuscaden Rd: -1
+- `960` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `857` Yishun Int ⟲ Opp The Ritz-Carlton: -1
+- `111` Ghim Moh Ter ⟲ The Esplanade: -1
+- `106` Bt Batok Int ⇄ Shenton Way Ter: -1
+- `56` Bishan Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `36` Changi Airport Ter 2 ⟲ Orchard Stn Exit 13: -1
+- `77` Bt Batok Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -2
+- `97` Jurong East Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `133` Ang Mo Kio Int ⇄ Shenton Way Ter: -1
+- `195` Aft S'pore Flyer → Promenade Stn/Pan Pacific: -1
+- `195A` Aft S'pore Flyer → Tiong Bahru Stn/Plaza: -7
+- `36B` Lagoon View → Bef Seaside Residences: -1
+- `70M` Yio Chu Kang Int ⟲ Opp The Ritz-Carlton: -1
+- `960e` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `97e` Jurong East Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+
+## Routes changed: 22
+
+- `5` Pasir Ris Int ⇄ Bt Merah Int
+- `6` Pasir Ris Int ⟲ Opp Loyang Way 6
+- `12` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `15` Pasir Ris Int ⟲ Marine Pde Stn Exit 2
+- `17` Pasir Ris Int ⇄ Bedok Int
+- `21` Pasir Ris Int ⇄ St. Michael's Ter
+- `46` Upp East Coast Ter ⇄ Pasir Ris Int
+- `58` Bishan Int ⇄ Pasir Ris Int
+- `68` Pasir Ris Int ⟲ Tampines Int
+- `88` Pasir Ris Int ⇄ Toa Payoh Int
+- `354` Pasir Ris Int ⟲ Casa Pasir Ris
+- `358` Pasir Ris Int ⟲ Pasir Ris Int
+- `359` Pasir Ris Int ⟲ Blk 569
+- `403` Pasir Ris Int ⟲ Aft Pasir Ris Way
+- `518` Pasir Ris Int ⟲ Bef Cairnhill Rd
+- `12e` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `15A` Pasir Ris Int → Opp Eunos Stn
+- `179B` Hall 1 → Pioneer Stn Exit B
+- `518A` Pasir Ris Int → Bayfront Stn Exit A
+- `58B` Pasir Ris Int → Aft Tai Seng Stn
+- `856C` Blk 23 → Bef British American Tobacco
+- `872` Tengah Int ⟲ Blk 306
+
+## First/last timings changed
+
+Affected services: `10`, `14`, `32`, `36`, `40`, `48`, `56`, `77`, `97`, `106`, `111`, `133`, `195`, `196`, `857`, `960`, `961M`, `195A`, `97e`, `960e`, `70M`, `85A`, `3A`, `14A`, `196A`, `10e`, `36B`, `36A`, `872`
+
 # 8 August 2025
 
 ## Services count change: 576 ⮕ 577
