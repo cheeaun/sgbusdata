@@ -301,13 +301,6 @@
 		"Longitude": 103.85402155505173
 	},
 	{
-		"BusStopCode": "02051",
-		"RoadName": "Raffles Ave",
-		"Description": "The Float @ Marina Bay",
-		"Latitude": 1.289503056,
-		"Longitude": 103.8590339
-	},
-	{
 		"BusStopCode": "02061",
 		"RoadName": "Raffles Ave",
 		"Description": "The Esplanade",
@@ -3069,8 +3062,8 @@
 		"BusStopCode": "12081",
 		"RoadName": "Clementi Rd",
 		"Description": "Clementi N'hood Pk",
-		"Latitude": 1.326468056,
-		"Longitude": 103.77543
+		"Latitude": 1.325271111,
+		"Longitude": 103.774235
 	},
 	{
 		"BusStopCode": "12089",
@@ -5750,15 +5743,15 @@
 		"BusStopCode": "20201",
 		"RoadName": "Teban Gdns Rd",
 		"Description": "Bef Blk 39",
-		"Latitude": 1.32127611097845,
-		"Longitude": 103.74340527799251
+		"Latitude": 1.321334,
+		"Longitude": 103.74386
 	},
 	{
 		"BusStopCode": "20209",
 		"RoadName": "Teban Gdns Rd",
 		"Description": "Bef Jurong Town Hall Rd",
-		"Latitude": 1.32043333301332,
-		"Longitude": 103.7440744439939
+		"Latitude": 1.321453,
+		"Longitude": 103.744211
 	},
 	{
 		"BusStopCode": "20211",
@@ -12432,6 +12425,27 @@
 		"Longitude": 103.7356
 	},
 	{
+		"BusStopCode": "40481",
+		"RoadName": "Plantation Cres",
+		"Description": "Bef Blk 113",
+		"Latitude": 1.352848,
+		"Longitude": 103.735005
+	},
+	{
+		"BusStopCode": "40489",
+		"RoadName": "Plantation Cres",
+		"Description": "Opp Blk 113",
+		"Latitude": 1.353375,
+		"Longitude": 103.735489
+	},
+	{
+		"BusStopCode": "40501",
+		"RoadName": "Tengah Garden Ave",
+		"Description": "Blk 131D",
+		"Latitude": 1.354773,
+		"Longitude": 103.731884
+	},
+	{
 		"BusStopCode": "41009",
 		"RoadName": "Tengah Boulevard",
 		"Description": "Tengah Int",
@@ -16446,8 +16460,8 @@
 		"BusStopCode": "46419",
 		"RoadName": "Woodlands Ave 4",
 		"Description": "Evergreen Pr Sch",
-		"Latitude": 1.44379,
-		"Longitude": 103.79386
+		"Latitude": 1.443561111,
+		"Longitude": 103.7940981
 	},
 	{
 		"BusStopCode": "46421",
@@ -16635,8 +16649,8 @@
 		"BusStopCode": "46551",
 		"RoadName": "Woodlands St 13",
 		"Description": "Blk 101",
-		"Latitude": 1.435184,
-		"Longitude": 103.781737
+		"Latitude": 1.435183889,
+		"Longitude": 103.7817369
 	},
 	{
 		"BusStopCode": "46559",
@@ -16649,8 +16663,8 @@
 		"BusStopCode": "46561",
 		"RoadName": "Woodlands St 13",
 		"Description": "Blk 183C",
-		"Latitude": 1.434717,
-		"Longitude": 103.777244
+		"Latitude": 1.434716944,
+		"Longitude": 103.7772439
 	},
 	{
 		"BusStopCode": "46569",
@@ -27499,15 +27513,15 @@
 		"BusStopCode": "67421",
 		"RoadName": "Anchorvale St",
 		"Description": "Cheng Lim Stn Exit B",
-		"Latitude": 1.39616692483827,
-		"Longitude": 103.89376724340975
+		"Latitude": 1.396636,
+		"Longitude": 103.892236
 	},
 	{
 		"BusStopCode": "67429",
 		"RoadName": "Anchorvale St",
 		"Description": "Cheng Lim Stn Exit A",
-		"Latitude": 1.39637340662334,
-		"Longitude": 103.89381749259768
+		"Latitude": 1.397015278,
+		"Longitude": 103.8919331
 	},
 	{
 		"BusStopCode": "67431",

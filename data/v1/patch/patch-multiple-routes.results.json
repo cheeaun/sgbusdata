@@ -1,9 +1,21 @@
 [
 	{
+		"number": 12,
+		"numberPattern": "12-1",
+		"e": "Not LineString but is GeometryCollection",
+		"count": 2
+	},
+	{
 		"number": 125,
 		"numberPattern": "125-1",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 11
+	},
+	{
+		"number": "12e",
+		"numberPattern": "12e-1",
+		"e": "Not LineString but is GeometryCollection",
+		"count": 2
 	},
 	{
 		"number": 136,
@@ -124,6 +136,12 @@
 		"numberPattern": "371-1",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 45
+	},
+	{
+		"number": "518A",
+		"numberPattern": "518A-1",
+		"e": "Not LineString but is GeometryCollection",
+		"count": 6
 	},
 	{
 		"number": 82,

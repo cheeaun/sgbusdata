@@ -5512,6 +5512,16 @@
 		]
 	},
 	{
+		"number": 872,
+		"type": "TRUNK",
+		"kmlFile": [
+			"872-1.kml"
+		],
+		"routeFile": [
+			"872.xml"
+		]
+	},
+	{
 		"number": 88,
 		"type": "TRUNK",
 		"kmlFile": [
