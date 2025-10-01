@@ -1,3 +1,53 @@
+# 1 October 2025
+
+## Stops count change: 5162 ⮕ 5165
+
+### Stops added: 3
+
+- `50339` Opp Blk 122
+- `50341` Opp Blk 108C
+- `50361` Opp Hong Wen Sch
+
+### Stop locations changed: 7
+
+- `27341` 103.69779,1.34664 ⮕ 103.69781,1.34673
+- `27431` 103.69735,1.34947 ⮕ 103.69745,1.34987
+- `27439` 103.69712,1.34941 ⮕ 103.6972,1.34955
+- `40451` 103.736,1.3617 ⮕ 103.73591,1.36166
+- `44181` 103.74273,1.37451 ⮕ 103.74287,1.37445
+- `44189` 103.74272,1.37436 ⮕ 103.74287,1.37432
+- `75069` 103.9367,1.34066 ⮕ 103.93732,1.34167
+
+## Services count change: 578 ⮕ 579
+
+### Services added: 1
+
+- `18A` Tampines Nth Int → Tampines East Stn Exit D
+
+### Bus Stop Changes To Routes: 11
+
+- `137` Sims Pl Ter ⇄ Upp East Coast Ter: -1
+- `55` Bishan Int ⇄ Upp East Coast Ter: -1
+- `46` Upp East Coast Ter ⇄ Pasir Ris Int: -1
+- `25` Ang Mo Kio Int ⇄ Upp East Coast Ter: -1
+- `13` Yio Chu Kang Int ⇄ Upp East Coast Ter: -1
+- `43` Punggol Int ⇄ Upp East Coast Ter: -1
+- `853M` Yishun Int ⇄ Upp East Coast Ter: -1
+- `140` Lor 1 Geylang Ter ⟲ Opp S'pore Khalsa Assn: +5
+- `176` Bt Panjang Int ⇄ Bt Merah Int: +1, -1
+- `674` Blk 306B / Blk 321 ⇄ Marina Bay Financial Ctr / Marina Bay Stn: +2
+- `801` Yishun Int ⟲ Aft Yishun Ave 6: +1
+
+## Routes changed: 3
+
+- `140` Lor 1 Geylang Ter ⟲ Opp S'pore Khalsa Assn
+- `801` Yishun Int ⟲ Aft Yishun Ave 6
+- `18A` Tampines Nth Int → Tampines East Stn Exit D
+
+## First/last timings changed
+
+Affected services: `13`, `25`, `43`, `46`, `55`, `137`, `140`, `160`, `170`, `176`, `181`, `192`, `246`, `674`, `801`, `902`, `911`, `950`, `181M`, `170X`, `853M`, `18A`
+
 # 1 September 2025
 
 ## Stops count change: 5160 ⮕ 5162

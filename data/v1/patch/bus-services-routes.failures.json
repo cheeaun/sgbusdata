@@ -4,6 +4,10 @@
 		{
 			"fileName": "114A-1.kml",
 			"e": "HTTPError: Response code 404 (Not Found)"
+		},
+		{
+			"fileName": "18A-1.kml",
+			"e": "HTTPError: Response code 404 (Not Found)"
 		}
 	]
 }

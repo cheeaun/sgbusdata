@@ -729,6 +729,24 @@
 		}
 	},
 	{
+		"name": "-P325",
+		"wab": "true",
+		"details": "Blk 464",
+		"coordinates": {
+			"lat": 1.376777261,
+			"long": 103.7362222
+		}
+	},
+	{
+		"name": "-P335",
+		"wab": "true",
+		"details": "Opp Bangkit Stn",
+		"coordinates": {
+			"lat": 1.379888033,
+			"long": 103.7723308
+		}
+	},
+	{
 		"name": "-P336",
 		"wab": "true",
 		"details": "Bangkit Stn",
@@ -738,12 +756,39 @@
 		}
 	},
 	{
+		"name": "-P337",
+		"wab": "true",
+		"details": "Blk 239",
+		"coordinates": {
+			"lat": 1.380221074,
+			"long": 103.7708487
+		}
+	},
+	{
+		"name": "-P338",
+		"wab": "true",
+		"details": "Blk 401A CP",
+		"coordinates": {
+			"lat": 1.381170297,
+			"long": 103.7691773
+		}
+	},
+	{
 		"name": "-P345",
 		"wab": "true",
 		"details": "Blk 516",
 		"coordinates": {
 			"lat": 1.387124827,
 			"long": 103.7675781
+		}
+	},
+	{
+		"name": "-P346",
+		"wab": "true",
+		"details": "Blk 506",
+		"coordinates": {
+			"lat": 1.386950724,
+			"long": 103.7676357
 		}
 	},
 	{
@@ -765,6 +810,15 @@
 		}
 	},
 	{
+		"name": "-P350",
+		"wab": "true",
+		"details": "Blk 457",
+		"coordinates": {
+			"lat": 1.388053005,
+			"long": 103.7715434
+		}
+	},
+	{
 		"name": "-P351",
 		"wab": "true",
 		"details": "Fajar Stn",
@@ -774,12 +828,12 @@
 		}
 	},
 	{
-		"name": "-P354",
+		"name": "-P352",
 		"wab": "true",
-		"details": "Opp Blk 628",
+		"details": "Opp Fajar Stn",
 		"coordinates": {
-			"lat": 1.385035109,
-			"long": 103.7590834
+			"lat": 1.38422184,
+			"long": 103.7702068
 		}
 	},
 	{
@@ -789,6 +843,15 @@
 		"coordinates": {
 			"lat": 1.387154726,
 			"long": 103.7602083
+		}
+	},
+	{
+		"name": "-P359",
+		"wab": "true",
+		"details": "Opp Blk 650",
+		"coordinates": {
+			"lat": 1.386714167,
+			"long": 103.7630575
 		}
 	},
 	{
@@ -2628,6 +2691,15 @@
 		}
 	},
 	{
+		"name": "-P985",
+		"wab": "true",
+		"details": "Along the road outside Twenty Anson",
+		"coordinates": {
+			"lat": 1.2753,
+			"long": 103.84593
+		}
+	},
+	{
 		"name": "-PA00",
 		"wab": "true",
 		"details": "Kadaloor Stn Exit B",
@@ -2796,6 +2868,15 @@
 		"coordinates": {
 			"lat": 1.31728446989719,
 			"long": 103.77193266319905
+		}
+	},
+	{
+		"name": "-PC63",
+		"wab": "true",
+		"details": "Opp Blk 532",
+		"coordinates": {
+			"lat": 1.38428576640159,
+			"long": 103.76489752763662
 		}
 	},
 	{
@@ -3120,6 +3201,24 @@
 		"coordinates": {
 			"lat": 1.40462388269986,
 			"long": 103.78935694475769
+		}
+	},
+	{
+		"name": "-PJ01",
+		"wab": "true",
+		"details": "Blk 185",
+		"coordinates": {
+			"lat": 1.34716553724092,
+			"long": 103.74518662694207
+		}
+	},
+	{
+		"name": "-PJ02",
+		"wab": "true",
+		"details": "Blk 146",
+		"coordinates": {
+			"lat": 1.34976204246765,
+			"long": 103.74483998148368
 		}
 	},
 	{
@@ -4131,6 +4230,15 @@
 		}
 	},
 	{
+		"name": "-Z346",
+		"wab": "true",
+		"details": "Blk 402",
+		"coordinates": {
+			"lat": 1.36506686600259,
+			"long": 103.74421935477038
+		}
+	},
+	{
 		"name": "-Z357",
 		"wab": "true",
 		"details": "PUDO point at Yio Chu Kang MRT Station",
@@ -4275,21 +4383,21 @@
 		}
 	},
 	{
-		"name": "-Z411",
-		"wab": "true",
-		"details": "Blk 636A",
-		"coordinates": {
-			"lat": 1.3866920101757,
-			"long": 103.75877312173
-		}
-	},
-	{
 		"name": "-Z412",
 		"wab": "true",
 		"details": "Blk 548B",
 		"coordinates": {
 			"lat": 1.38927144639115,
 			"long": 103.76879686807
+		}
+	},
+	{
+		"name": "-Z439",
+		"wab": "true",
+		"details": "Blk 547C",
+		"coordinates": {
+			"lat": 1.3885418939603,
+			"long": 103.76842967593706
 		}
 	},
 	{
@@ -4497,6 +4605,60 @@
 		"coordinates": {
 			"lat": 1.40502618974463,
 			"long": 103.90299618971393
+		}
+	},
+	{
+		"name": "-Z547",
+		"wab": "true",
+		"details": "Opp Hai Inn See Tp",
+		"coordinates": {
+			"lat": 1.37727684686882,
+			"long": 103.73431312110678
+		}
+	},
+	{
+		"name": "-Z548",
+		"wab": "true",
+		"details": "Blk 485B",
+		"coordinates": {
+			"lat": 1.373713,
+			"long": 103.738897
+		}
+	},
+	{
+		"name": "-Z549",
+		"wab": "true",
+		"details": "Blk 804B",
+		"coordinates": {
+			"lat": 1.37245788679333,
+			"long": 103.74282538457524
+		}
+	},
+	{
+		"name": "-Z550",
+		"wab": "true",
+		"details": "Blk 805D",
+		"coordinates": {
+			"lat": 1.37211783027051,
+			"long": 103.74443713836388
+		}
+	},
+	{
+		"name": "-Z559",
+		"wab": "true",
+		"details": "Blk 451A",
+		"coordinates": {
+			"lat": 1.35332581027753,
+			"long": 103.74287381027882
+		}
+	},
+	{
+		"name": "-Z560",
+		"wab": "true",
+		"details": "Blk 461C",
+		"coordinates": {
+			"lat": 1.35499656917814,
+			"long": 103.7410021897397
 		}
 	},
 	{
@@ -4965,15 +5127,6 @@
 		"coordinates": {
 			"lat": 1.27519166,
 			"long": 103.8430919
-		}
-	},
-	{
-		"name": "-Z676",
-		"wab": "true",
-		"details": "Along the road outside Twenty Anson",
-		"coordinates": {
-			"lat": 1.275124,
-			"long": 103.845408
 		}
 	},
 	{
@@ -5892,6 +6045,267 @@
 		"coordinates": {
 			"lat": 1.292016,
 			"long": 103.84981999
+		}
+	},
+	{
+		"name": "-Z832",
+		"wab": "true",
+		"details": "Opp Blk 291E",
+		"coordinates": {
+			"lat": 1.34376366037202,
+			"long": 103.75423776871699
+		}
+	},
+	{
+		"name": "-Z833",
+		"wab": "true",
+		"details": "Bt Batok Swim Cplx",
+		"coordinates": {
+			"lat": 1.34497394208663,
+			"long": 103.74849870531534
+		}
+	},
+	{
+		"name": "-Z834",
+		"wab": "true",
+		"details": "Blk 438A",
+		"coordinates": {
+			"lat": 1.35715418971956,
+			"long": 103.74085618975258
+		}
+	},
+	{
+		"name": "-Z835",
+		"wab": "true",
+		"details": "Outside Singapore Land Tower",
+		"coordinates": {
+			"lat": 1.285056,
+			"long": 103.8518
+		}
+	},
+	{
+		"name": "-Z836",
+		"wab": "true",
+		"details": "Dairy Farm Mall",
+		"coordinates": {
+			"lat": 1.3658625,
+			"long": 103.775339
+		}
+	},
+	{
+		"name": "-Z837",
+		"wab": "true",
+		"details": "Bef Chestnut Ave",
+		"coordinates": {
+			"lat": 1.36772582083696,
+			"long": 103.77530877476855
+		}
+	},
+	{
+		"name": "-Z838",
+		"wab": "true",
+		"details": "Opp Blk 201",
+		"coordinates": {
+			"lat": 1.37154303506556,
+			"long": 103.77461859337586
+		}
+	},
+	{
+		"name": "-Z839",
+		"wab": "true",
+		"details": "Opp Blk 219",
+		"coordinates": {
+			"lat": 1.37355053515267,
+			"long": 103.77293526626733
+		}
+	},
+	{
+		"name": "-Z840",
+		"wab": "true",
+		"details": "Blk 321",
+		"coordinates": {
+			"lat": 1.3617,
+			"long": 103.7356
+		}
+	},
+	{
+		"name": "-Z841",
+		"wab": "true",
+		"details": "Blk 306B",
+		"coordinates": {
+			"lat": 1.3617,
+			"long": 103.736
+		}
+	},
+	{
+		"name": "-Z842",
+		"wab": "true",
+		"details": "Blk 238",
+		"coordinates": {
+			"lat": 1.36187,
+			"long": 103.73349
+		}
+	},
+	{
+		"name": "-Z843",
+		"wab": "true",
+		"details": "Blk 237A",
+		"coordinates": {
+			"lat": 1.36142,
+			"long": 103.73163
+		}
+	},
+	{
+		"name": "-Z844",
+		"wab": "true",
+		"details": "Blk 220A",
+		"coordinates": {
+			"lat": 1.35938,
+			"long": 103.729694
+		}
+	},
+	{
+		"name": "-Z845",
+		"wab": "true",
+		"details": "Blk 221B",
+		"coordinates": {
+			"lat": 1.35755,
+			"long": 103.7293
+		}
+	},
+	{
+		"name": "-Z846",
+		"wab": "true",
+		"details": "Blk 224A",
+		"coordinates": {
+			"lat": 1.35726,
+			"long": 103.73121
+		}
+	},
+	{
+		"name": "-Z847",
+		"wab": "true",
+		"details": "Tengah CC",
+		"coordinates": {
+			"lat": 1.356473,
+			"long": 103.734424
+		}
+	},
+	{
+		"name": "-Z848",
+		"wab": "true",
+		"details": "Opp Blk 443D",
+		"coordinates": {
+			"lat": 1.356298,
+			"long": 103.736664
+		}
+	},
+	{
+		"name": "-Z849",
+		"wab": "true",
+		"details": "Blk 123B",
+		"coordinates": {
+			"lat": 1.35984,
+			"long": 103.734244
+		}
+	},
+	{
+		"name": "-Z850",
+		"wab": "true",
+		"details": "Blk 132B",
+		"coordinates": {
+			"lat": 1.357394,
+			"long": 103.731808
+		}
+	},
+	{
+		"name": "-Z851",
+		"wab": "true",
+		"details": "5 Sci Pk Dr",
+		"coordinates": {
+			"lat": 1.292825,
+			"long": 103.786354
+		}
+	},
+	{
+		"name": "-Z852",
+		"wab": "true",
+		"details": "one-north Stn/Galaxis",
+		"coordinates": {
+			"lat": 1.3003468994065,
+			"long": 103.78858368998314
+		}
+	},
+	{
+		"name": "-Z853",
+		"wab": "true",
+		"details": "PUDO point outside MOE Building",
+		"coordinates": {
+			"lat": 1.3057993,
+			"long": 103.7904631
+		}
+	},
+	{
+		"name": "-Z862",
+		"wab": "true",
+		"details": "Blk 231B",
+		"coordinates": {
+			"lat": 1.359258,
+			"long": 103.733186
+		}
+	},
+	{
+		"name": "-Z867",
+		"wab": "true",
+		"details": "Opp Blk 437A",
+		"coordinates": {
+			"lat": 1.35886131299107,
+			"long": 103.73860159776643
+		}
+	},
+	{
+		"name": "-Z868",
+		"wab": "true",
+		"details": "Opp Blk 433B",
+		"coordinates": {
+			"lat": 1.36200917978122,
+			"long": 103.74136328540868
+		}
+	},
+	{
+		"name": "-Z869",
+		"wab": "true",
+		"details": "Opp Dunearn Sec Sch",
+		"coordinates": {
+			"lat": 1.36459985984635,
+			"long": 103.743456828696
+		}
+	},
+	{
+		"name": "-Z870",
+		"wab": "true",
+		"details": "Opp Blk 805D",
+		"coordinates": {
+			"lat": 1.37203889001441,
+			"long": 103.74381033081468
+		}
+	},
+	{
+		"name": "-Z871",
+		"wab": "true",
+		"details": "Aft Choa Chu Kang Ave 6",
+		"coordinates": {
+			"lat": 1.37288750001555,
+			"long": 103.7404039307868
+		}
+	},
+	{
+		"name": "-Z872",
+		"wab": "true",
+		"details": "Opp Blk 485A",
+		"coordinates": {
+			"lat": 1.373745,
+			"long": 103.738354
 		}
 	},
 	{
@@ -7196,7 +7610,7 @@
 		"details": "Opp Police Cantonment Cplx",
 		"coordinates": {
 			"lat": 1.278515,
-			"long": 103.840322
+			"long": 103.8403219
 		}
 	},
 	{
@@ -18958,8 +19372,8 @@
 		"wab": "true",
 		"details": "Blk 729",
 		"coordinates": {
-			"lat": 1.34663703411498,
-			"long": 103.69778819793345
+			"lat": 1.346726,
+			"long": 103.697809
 		}
 	},
 	{
@@ -19120,8 +19534,8 @@
 		"wab": "true",
 		"details": "Blk 762",
 		"coordinates": {
-			"lat": 1.34946527300866,
-			"long": 103.69734630614052
+			"lat": 1.349874,
+			"long": 103.697454
 		}
 	},
 	{
@@ -19129,8 +19543,8 @@
 		"wab": "true",
 		"details": "Blk 861",
 		"coordinates": {
-			"lat": 1.34941077845235,
-			"long": 103.6971171383191
+			"lat": 1.349546,
+			"long": 103.697197
 		}
 	},
 	{
@@ -21856,8 +22270,8 @@
 		"wab": "true",
 		"details": "Blk 306B",
 		"coordinates": {
-			"lat": 1.3617,
-			"long": 103.736
+			"lat": 1.361662,
+			"long": 103.735908
 		}
 	},
 	{
@@ -24376,8 +24790,8 @@
 		"wab": "true",
 		"details": "Blk 802B",
 		"coordinates": {
-			"lat": 1.37451449960262,
-			"long": 103.74273111430522
+			"lat": 1.374452,
+			"long": 103.74287
 		}
 	},
 	{
@@ -24385,8 +24799,8 @@
 		"wab": "true",
 		"details": "Blk 803",
 		"coordinates": {
-			"lat": 1.37436129742622,
-			"long": 103.74272235228217
+			"lat": 1.374321,
+			"long": 103.742872
 		}
 	},
 	{
@@ -29673,6 +30087,24 @@
 		}
 	},
 	{
+		"name": "50339",
+		"wab": "true",
+		"details": "Opp Blk 122",
+		"coordinates": {
+			"lat": 1.318565,
+			"long": 103.857405
+		}
+	},
+	{
+		"name": "50341",
+		"wab": "true",
+		"details": "Opp Blk 108C",
+		"coordinates": {
+			"lat": 1.319418,
+			"long": 103.859282
+		}
+	},
+	{
 		"name": "50349",
 		"wab": "true",
 		"details": "Blk 107",
@@ -29688,6 +30120,15 @@
 		"coordinates": {
 			"lat": 1.31216015438698,
 			"long": 103.84857773804022
+		}
+	},
+	{
+		"name": "50361",
+		"wab": "true",
+		"details": "Opp Hong Wen Sch",
+		"coordinates": {
+			"lat": 1.321161,
+			"long": 103.857129
 		}
 	},
 	{
@@ -43636,8 +44077,8 @@
 		"wab": "true",
 		"details": "Blk 960A",
 		"coordinates": {
-			"lat": 1.34066333296943,
-			"long": 103.93669999999881
+			"lat": 1.341667,
+			"long": 103.937323
 		}
 	},
 	{

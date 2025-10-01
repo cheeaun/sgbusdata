@@ -1012,7 +1012,7 @@
 		"RoadName": "Cantonment Rd",
 		"Description": "Opp Police Cantonment Cplx",
 		"Latitude": 1.278515,
-		"Longitude": 103.840322
+		"Longitude": 103.8403219
 	},
 	{
 		"BusStopCode": "05629",
@@ -10160,8 +10160,8 @@
 		"BusStopCode": "27341",
 		"RoadName": "Jurong West St 72",
 		"Description": "Blk 729",
-		"Latitude": 1.34663703411498,
-		"Longitude": 103.69778819793345
+		"Latitude": 1.346726,
+		"Longitude": 103.697809
 	},
 	{
 		"BusStopCode": "27349",
@@ -10286,15 +10286,15 @@
 		"BusStopCode": "27431",
 		"RoadName": "Jurong West Ave 5",
 		"Description": "Blk 762",
-		"Latitude": 1.34946527300866,
-		"Longitude": 103.69734630614052
+		"Latitude": 1.349874,
+		"Longitude": 103.697454
 	},
 	{
 		"BusStopCode": "27439",
 		"RoadName": "Jurong West Ave 5",
 		"Description": "Blk 861",
-		"Latitude": 1.34941077845235,
-		"Longitude": 103.6971171383191
+		"Latitude": 1.349546,
+		"Longitude": 103.697197
 	},
 	{
 		"BusStopCode": "27441",
@@ -12414,8 +12414,8 @@
 		"BusStopCode": "40451",
 		"RoadName": "Tengah Boulevard",
 		"Description": "Blk 306B",
-		"Latitude": 1.3617,
-		"Longitude": 103.736
+		"Latitude": 1.361662,
+		"Longitude": 103.735908
 	},
 	{
 		"BusStopCode": "40459",
@@ -14374,15 +14374,15 @@
 		"BusStopCode": "44181",
 		"RoadName": "Keat Hong Cl",
 		"Description": "Blk 802B",
-		"Latitude": 1.37451449960262,
-		"Longitude": 103.74273111430522
+		"Latitude": 1.374452,
+		"Longitude": 103.74287
 	},
 	{
 		"BusStopCode": "44189",
 		"RoadName": "Keat Hong Cl",
 		"Description": "Blk 803",
-		"Latitude": 1.37436129742622,
-		"Longitude": 103.74272235228217
+		"Latitude": 1.374321,
+		"Longitude": 103.742872
 	},
 	{
 		"BusStopCode": "44191",
@@ -18494,6 +18494,20 @@
 		"Longitude": 103.85727882383885
 	},
 	{
+		"BusStopCode": "50339",
+		"RoadName": "Mcnair Rd",
+		"Description": "Opp Blk 122",
+		"Latitude": 1.318565,
+		"Longitude": 103.857405
+	},
+	{
+		"BusStopCode": "50341",
+		"RoadName": "Towner Rd",
+		"Description": "Opp Blk 108C",
+		"Latitude": 1.319418,
+		"Longitude": 103.859282
+	},
+	{
 		"BusStopCode": "50349",
 		"RoadName": "Towner Rd",
 		"Description": "Blk 107",
@@ -18506,6 +18520,13 @@
 		"Description": "Farrer Pk Tennis Ctr",
 		"Latitude": 1.31216015438698,
 		"Longitude": 103.84857773804022
+	},
+	{
+		"BusStopCode": "50361",
+		"RoadName": "Towner Rd",
+		"Description": "Opp Hong Wen Sch",
+		"Latitude": 1.321161,
+		"Longitude": 103.857129
 	},
 	{
 		"BusStopCode": "50991",
@@ -29354,8 +29375,8 @@
 		"BusStopCode": "75069",
 		"RoadName": "Bedok Reservoir Rd",
 		"Description": "Blk 960A",
-		"Latitude": 1.34066333296943,
-		"Longitude": 103.93669999999881
+		"Latitude": 1.341667,
+		"Longitude": 103.937323
 	},
 	{
 		"BusStopCode": "75071",
