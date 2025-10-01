@@ -359,7 +359,8 @@
 		"description": "Bukit Batok West Avenue 5 to Beach Road",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"555-1.kml"
+			"555-1.kml",
+			"555-2.kml"
 		],
 		"routeFile": [
 			"555.xml"
@@ -468,11 +469,24 @@
 		]
 	},
 	{
+		"number": 721,
+		"description": "Brickland Road/Choa Chu Kang Ave 3 - North Buona Vista Road",
+		"type": "PREMIUM",
+		"kmlFile": [
+			"721-1.kml",
+			"721-2.kml"
+		],
+		"routeFile": [
+			"721.xml"
+		]
+	},
+	{
 		"number": 722,
 		"description": "Senja Road to Gopeng Street",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"722-1.kml"
+			"722-1.kml",
+			"722-2.kml"
 		],
 		"routeFile": [
 			"722.xml"
@@ -2545,6 +2559,16 @@
 		],
 		"routeFile": [
 			"189A.xml"
+		]
+	},
+	{
+		"number": "18A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"18A-1.kml"
+		],
+		"routeFile": [
+			"18A.xml"
 		]
 	},
 	{
