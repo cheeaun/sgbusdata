@@ -2971,6 +2971,7 @@
 					"145",
 					"186",
 					"195",
+					"195A",
 					"51",
 					"970"
 				]
@@ -3043,6 +3044,7 @@
 					"145",
 					"186",
 					"195",
+					"195A",
 					"51",
 					"970"
 				]
@@ -3067,6 +3069,7 @@
 					"145",
 					"186",
 					"195",
+					"195A",
 					"51",
 					"970"
 				]
@@ -3147,6 +3150,7 @@
 					"145",
 					"147",
 					"195",
+					"195A",
 					"196",
 					"198",
 					"32",
@@ -4227,7 +4231,8 @@
 				"road": "C'wealth Dr",
 				"services": [
 					"122",
-					"195"
+					"195",
+					"195A"
 				]
 			},
 			"geometry": {
@@ -4501,6 +4506,7 @@
 				"services": [
 					"120",
 					"195",
+					"195A",
 					"33",
 					"33A",
 					"64"
@@ -9658,7 +9664,7 @@
 			"id": "16199",
 			"properties": {
 				"number": "16199",
-				"name": "Bef Architecture Dr",
+				"name": "Aft Architecture Dr",
 				"road": "Kent Ridge Cres",
 				"services": [
 					"151",
@@ -36173,7 +36179,7 @@
 			"id": "43061",
 			"properties": {
 				"number": "43061",
-				"name": "Hillview Stn",
+				"name": "Hillview Stn Exit B",
 				"road": "Upp Bt Timah Rd",
 				"services": [
 					"170",
@@ -36255,7 +36261,7 @@
 			"id": "43081",
 			"properties": {
 				"number": "43081",
-				"name": "Opp Assumption Eng Sch",
+				"name": "Opp St. Joseph's Ch (Bt Timah)",
 				"road": "Upp Bt Timah Rd",
 				"services": [
 					"170",
@@ -36283,7 +36289,7 @@
 			"id": "43089",
 			"properties": {
 				"number": "43089",
-				"name": "Aft Assumption Eng Sch",
+				"name": "St. Joseph's Ch (Bt Timah)",
 				"road": "Upp Bt Timah Rd",
 				"services": [
 					"170",
@@ -36311,7 +36317,7 @@
 			"id": "43091",
 			"properties": {
 				"number": "43091",
-				"name": "Bef Cashew Stn",
+				"name": "Opp Cashew Stn",
 				"road": "Upp Bt Timah Rd",
 				"services": [
 					"170",
@@ -36337,7 +36343,7 @@
 			"id": "43099",
 			"properties": {
 				"number": "43099",
-				"name": "Assumption Pathway Sch",
+				"name": "Assumption Eng Sch",
 				"road": "Upp Bt Timah Rd",
 				"services": [
 					"170",
@@ -36574,8 +36580,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.76489101192684,
-					1.36363608446232
+					103.7647081,
+					1.363206111
 				]
 			}
 		},
@@ -41827,8 +41833,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.741069,
-					1.379843
+					103.74055530616924,
+					1.37948069483064
 				]
 			}
 		},
@@ -62976,7 +62982,7 @@
 			"id": "57041",
 			"properties": {
 				"number": "57041",
-				"name": "Nee Soon HQ 22 SIB",
+				"name": "Nee Soon Camp",
 				"road": "Sembawang Rd",
 				"services": [
 					"167",
@@ -62999,7 +63005,7 @@
 			"id": "57049",
 			"properties": {
 				"number": "57049",
-				"name": "Opp Nee Soon HQ 22 SIB",
+				"name": "Opp Nee Soon Camp",
 				"road": "Sembawang Rd",
 				"services": [
 					"167",
@@ -71550,7 +71556,7 @@
 			"id": "62131",
 			"properties": {
 				"number": "62131",
-				"name": "S'goon Stn Exit H",
+				"name": "S'Goon Stn Exit B",
 				"road": "Upp S'goon Rd",
 				"services": [
 					"101",
@@ -76493,7 +76499,7 @@
 			"id": "65011",
 			"properties": {
 				"number": "65011",
-				"name": "Opp The Rivervale",
+				"name": "Blk 266/Opp The Rivervale",
 				"road": "Punggol Rd",
 				"services": [
 					"119",
@@ -76520,7 +76526,7 @@
 			"id": "65019",
 			"properties": {
 				"number": "65019",
-				"name": "The Rivervale",
+				"name": "Opp Blk 266/The Rivervale",
 				"road": "Punggol Rd",
 				"services": [
 					"119",
@@ -84113,7 +84119,7 @@
 			"id": "67569",
 			"properties": {
 				"number": "67569",
-				"name": "Blk 432A",
+				"name": "Bet Blks 430D/433A",
 				"road": "Sengkang West Way",
 				"services": [
 					"102",
@@ -89469,8 +89475,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.93646836281481,
-					1.34071391760745
+					103.937243,
+					1.342039
 				]
 			}
 		},
@@ -89479,7 +89485,7 @@
 			"id": "75069",
 			"properties": {
 				"number": "75069",
-				"name": "Blk 960A",
+				"name": "Blk 970A",
 				"road": "Bedok Reservoir Rd",
 				"services": [
 					"168",
@@ -89949,7 +89955,7 @@
 			"id": "75201",
 			"properties": {
 				"number": "75201",
-				"name": "Blk 835",
+				"name": "Blk 833",
 				"road": "Tampines St 83",
 				"services": [
 					"291",
@@ -95047,7 +95053,7 @@
 			"id": "77321",
 			"properties": {
 				"number": "77321",
-				"name": "Aft Pasir Ris St 53",
+				"name": "Pasir Ris Int/Mall",
 				"road": "Pasir Ris Ctrl",
 				"services": [
 					"3",
@@ -95069,7 +95075,7 @@
 			"id": "77329",
 			"properties": {
 				"number": "77329",
-				"name": "Bef Pasir Ris St 53",
+				"name": "Opp Pasir Ris Mall",
 				"road": "Pasir Ris Ctrl",
 				"services": [
 					"3",
@@ -96710,8 +96716,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.880111,
-					1.312658
+					103.88079905478979,
+					1.31275356421909
 				]
 			}
 		},
@@ -113137,6 +113143,41 @@
 		},
 		{
 			"type": "Feature",
+			"id": "02051",
+			"properties": {
+				"number": "02051",
+				"name": "The Float @ Marina Bay",
+				"road": "Raffles Ave",
+				"services": [
+					"106",
+					"111",
+					"133",
+					"195",
+					"195A",
+					"36",
+					"36A",
+					"36B",
+					"56",
+					"70M",
+					"77",
+					"857",
+					"960",
+					"960e",
+					"961M",
+					"97",
+					"97e"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8590339,
+					1.289503056
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "02061",
 			"properties": {
 				"number": "02061",
@@ -114813,6 +114854,7 @@
 					"663",
 					"665",
 					"7",
+					"77",
 					"7A",
 					"850E",
 					"857",
@@ -116128,7 +116170,7 @@
 			"id": "05649",
 			"properties": {
 				"number": "05649",
-				"name": "Opp Customs Port Br HQ",
+				"name": "Aft Cantonment Rd",
 				"road": "Keppel Rd",
 				"services": [
 					"10",

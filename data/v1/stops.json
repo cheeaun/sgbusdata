@@ -2438,7 +2438,7 @@
 	"16199": [
 		103.77073,
 		1.29639,
-		"Bef Architecture Dr",
+		"Aft Architecture Dr",
 		"Kent Ridge Cres"
 	],
 	"16201": [
@@ -9818,7 +9818,7 @@
 	"43061": [
 		103.76739,
 		1.36301,
-		"Hillview Stn",
+		"Hillview Stn Exit B",
 		"Upp Bt Timah Rd"
 	],
 	"43069": [
@@ -9836,25 +9836,25 @@
 	"43081": [
 		103.76573,
 		1.36704,
-		"Opp Assumption Eng Sch",
+		"Opp St. Joseph's Ch (Bt Timah)",
 		"Upp Bt Timah Rd"
 	],
 	"43089": [
 		103.76609,
 		1.36706,
-		"Aft Assumption Eng Sch",
+		"St. Joseph's Ch (Bt Timah)",
 		"Upp Bt Timah Rd"
 	],
 	"43091": [
 		103.76474,
 		1.36863,
-		"Bef Cashew Stn",
+		"Opp Cashew Stn",
 		"Upp Bt Timah Rd"
 	],
 	"43099": [
 		103.76499,
 		1.36872,
-		"Assumption Pathway Sch",
+		"Assumption Eng Sch",
 		"Upp Bt Timah Rd"
 	],
 	"43109": [
@@ -9912,8 +9912,8 @@
 		"Bt Batok East Ave 6"
 	],
 	"43151": [
-		103.76489,
-		1.36364,
+		103.76471,
+		1.36321,
 		"Opp Glendale Pk Condo",
 		"Hillview Ave"
 	],
@@ -11286,8 +11286,8 @@
 		"Choa Chu Kang Ave 4"
 	],
 	"44511": [
-		103.74107,
-		1.37984,
+		103.74056,
+		1.37948,
 		"Blk 289",
 		"Choa Chu Kang Ave 3"
 	],
@@ -16970,13 +16970,13 @@
 	"57041": [
 		103.82192,
 		1.41069,
-		"Nee Soon HQ 22 SIB",
+		"Nee Soon Camp",
 		"Sembawang Rd"
 	],
 	"57049": [
 		103.82234,
 		1.41082,
-		"Opp Nee Soon HQ 22 SIB",
+		"Opp Nee Soon Camp",
 		"Sembawang Rd"
 	],
 	"57051": [
@@ -19160,7 +19160,7 @@
 	"62131": [
 		103.87277,
 		1.34898,
-		"S'goon Stn Exit H",
+		"S'Goon Stn Exit B",
 		"Upp S'goon Rd"
 	],
 	"62139": [
@@ -20366,13 +20366,13 @@
 	"65011": [
 		103.89721,
 		1.3816,
-		"Opp The Rivervale",
+		"Blk 266/Opp The Rivervale",
 		"Punggol Rd"
 	],
 	"65019": [
 		103.89749,
 		1.38151,
-		"The Rivervale",
+		"Opp Blk 266/The Rivervale",
 		"Punggol Rd"
 	],
 	"65021": [
@@ -22388,7 +22388,7 @@
 	"67569": [
 		103.877,
 		1.39505,
-		"Blk 432A",
+		"Bet Blks 430D/433A",
 		"Sengkang West Way"
 	],
 	"67571": [
@@ -23784,15 +23784,15 @@
 		"Tampines Ave 1"
 	],
 	"75061": [
-		103.93647,
-		1.34071,
+		103.93724,
+		1.34204,
 		"Blk 954D",
 		"Bedok Reservoir Rd"
 	],
 	"75069": [
 		103.93732,
 		1.34167,
-		"Blk 960A",
+		"Blk 970A",
 		"Bedok Reservoir Rd"
 	],
 	"75071": [
@@ -23918,7 +23918,7 @@
 	"75201": [
 		103.93353,
 		1.35079,
-		"Blk 835",
+		"Blk 833",
 		"Tampines St 83"
 	],
 	"75209": [
@@ -25226,13 +25226,13 @@
 	"77321": [
 		103.94803,
 		1.37313,
-		"Aft Pasir Ris St 53",
+		"Pasir Ris Int/Mall",
 		"Pasir Ris Ctrl"
 	],
 	"77329": [
 		103.94766,
 		1.37283,
-		"Bef Pasir Ris St 53",
+		"Opp Pasir Ris Mall",
 		"Pasir Ris Ctrl"
 	],
 	"77331": [
@@ -25644,8 +25644,8 @@
 		"Sims Ave"
 	],
 	"80089": [
-		103.88011,
-		1.31266,
+		103.8808,
+		1.31275,
 		"Bef Lor 18 Geylang",
 		"Geylang Rd"
 	],
@@ -29861,6 +29861,12 @@
 		"Raffles Hotel",
 		"Bras Basah Rd"
 	],
+	"02051": [
+		103.85903,
+		1.2895,
+		"The Float @ Marina Bay",
+		"Raffles Ave"
+	],
 	"02061": [
 		103.8564,
 		1.28996,
@@ -30494,7 +30500,7 @@
 	"05649": [
 		103.84094,
 		1.27238,
-		"Opp Customs Port Br HQ",
+		"Aft Cantonment Rd",
 		"Keppel Rd"
 	],
 	"05651": [

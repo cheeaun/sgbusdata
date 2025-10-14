@@ -6696,6 +6696,15 @@
 		}
 	},
 	{
+		"name": "02051",
+		"wab": "true",
+		"details": "The Float @ Marina Bay",
+		"coordinates": {
+			"lat": 1.289503056,
+			"long": 103.8590339
+		}
+	},
+	{
 		"name": "02061",
 		"wab": "true",
 		"details": "The Esplanade",
@@ -7643,7 +7652,7 @@
 	{
 		"name": "05649",
 		"wab": "true",
-		"details": "Opp Customs Port Br HQ",
+		"details": "Aft Cantonment Rd",
 		"coordinates": {
 			"lat": 1.2723842122117,
 			"long": 103.84093912218094
@@ -12044,7 +12053,7 @@
 	{
 		"name": "16199",
 		"wab": "true",
-		"details": "Bef Architecture Dr",
+		"details": "Aft Architecture Dr",
 		"coordinates": {
 			"lat": 1.29639303583424,
 			"long": 103.77072917887465
@@ -23114,7 +23123,7 @@
 	{
 		"name": "43061",
 		"wab": "true",
-		"details": "Hillview Stn",
+		"details": "Hillview Stn Exit B",
 		"coordinates": {
 			"lat": 1.36301133873589,
 			"long": 103.76739148459211
@@ -23141,7 +23150,7 @@
 	{
 		"name": "43081",
 		"wab": "true",
-		"details": "Opp Assumption Eng Sch",
+		"details": "Opp St. Joseph's Ch (Bt Timah)",
 		"coordinates": {
 			"lat": 1.36704277799302,
 			"long": 103.76572777796798
@@ -23150,7 +23159,7 @@
 	{
 		"name": "43089",
 		"wab": "true",
-		"details": "Aft Assumption Eng Sch",
+		"details": "St. Joseph's Ch (Bt Timah)",
 		"coordinates": {
 			"lat": 1.36705664197789,
 			"long": 103.76608527288596
@@ -23159,7 +23168,7 @@
 	{
 		"name": "43091",
 		"wab": "true",
-		"details": "Bef Cashew Stn",
+		"details": "Opp Cashew Stn",
 		"coordinates": {
 			"lat": 1.36863253283887,
 			"long": 103.76474109358477
@@ -23168,7 +23177,7 @@
 	{
 		"name": "43099",
 		"wab": "true",
-		"details": "Assumption Pathway Sch",
+		"details": "Assumption Eng Sch",
 		"coordinates": {
 			"lat": 1.36872205121157,
 			"long": 103.76498636840047
@@ -23260,8 +23269,8 @@
 		"wab": "true",
 		"details": "Opp Glendale Pk Condo",
 		"coordinates": {
-			"lat": 1.36363608446232,
-			"long": 103.76489101192684
+			"lat": 1.363206111,
+			"long": 103.7647081
 		}
 	},
 	{
@@ -25321,8 +25330,8 @@
 		"wab": "true",
 		"details": "Blk 289",
 		"coordinates": {
-			"lat": 1.379843,
-			"long": 103.741069
+			"lat": 1.37948069483064,
+			"long": 103.74055530616924
 		}
 	},
 	{
@@ -33616,7 +33625,7 @@
 	},
 	{
 		"name": "56061",
-		"wab": "false",
+		"wab": "true",
 		"details": "Aft Tagore Dr",
 		"coordinates": {
 			"lat": 1.385154,
@@ -33652,7 +33661,7 @@
 	},
 	{
 		"name": "56081",
-		"wab": "false",
+		"wab": "true",
 		"details": "Bef SLE",
 		"coordinates": {
 			"lat": 1.391569,
@@ -33842,7 +33851,7 @@
 	{
 		"name": "57041",
 		"wab": "true",
-		"details": "Nee Soon HQ 22 SIB",
+		"details": "Nee Soon Camp",
 		"coordinates": {
 			"lat": 1.41069268256433,
 			"long": 103.82192312004506
@@ -33851,7 +33860,7 @@
 	{
 		"name": "57049",
 		"wab": "true",
-		"details": "Opp Nee Soon HQ 22 SIB",
+		"details": "Opp Nee Soon Camp",
 		"coordinates": {
 			"lat": 1.41082027802703,
 			"long": 103.82233527798766
@@ -34021,7 +34030,7 @@
 	},
 	{
 		"name": "58019",
-		"wab": "false",
+		"wab": "true",
 		"details": "Aft Sembawang Shop Ctr",
 		"coordinates": {
 			"lat": 1.44085,
@@ -37127,7 +37136,7 @@
 	{
 		"name": "62131",
 		"wab": "true",
-		"details": "S'goon Stn Exit H",
+		"details": "S'Goon Stn Exit B",
 		"coordinates": {
 			"lat": 1.3489790064228,
 			"long": 103.87277432797597
@@ -38936,7 +38945,7 @@
 	{
 		"name": "65011",
 		"wab": "true",
-		"details": "Opp The Rivervale",
+		"details": "Blk 266/Opp The Rivervale",
 		"coordinates": {
 			"lat": 1.38159696830765,
 			"long": 103.89720951783346
@@ -38945,7 +38954,7 @@
 	{
 		"name": "65019",
 		"wab": "true",
-		"details": "The Rivervale",
+		"details": "Opp Blk 266/The Rivervale",
 		"coordinates": {
 			"lat": 1.38151407829697,
 			"long": 103.89749237919405
@@ -41969,7 +41978,7 @@
 	{
 		"name": "67569",
 		"wab": "true",
-		"details": "Blk 432A",
+		"details": "Bet Blks 430D/433A",
 		"coordinates": {
 			"lat": 1.39504999232889,
 			"long": 103.87700000087196
@@ -44068,14 +44077,14 @@
 		"wab": "true",
 		"details": "Blk 954D",
 		"coordinates": {
-			"lat": 1.34071391760745,
-			"long": 103.93646836281481
+			"lat": 1.342039,
+			"long": 103.937243
 		}
 	},
 	{
 		"name": "75069",
 		"wab": "true",
-		"details": "Blk 960A",
+		"details": "Blk 970A",
 		"coordinates": {
 			"lat": 1.341667,
 			"long": 103.937323
@@ -44264,7 +44273,7 @@
 	{
 		"name": "75201",
 		"wab": "true",
-		"details": "Blk 835",
+		"details": "Blk 833",
 		"coordinates": {
 			"lat": 1.35078500992301,
 			"long": 103.93353377368994
@@ -46226,7 +46235,7 @@
 	{
 		"name": "77321",
 		"wab": "true",
-		"details": "Aft Pasir Ris St 53",
+		"details": "Pasir Ris Int/Mall",
 		"coordinates": {
 			"lat": 1.37313477197799,
 			"long": 103.94802646457005
@@ -46235,7 +46244,7 @@
 	{
 		"name": "77329",
 		"wab": "true",
-		"details": "Bef Pasir Ris St 53",
+		"details": "Opp Pasir Ris Mall",
 		"coordinates": {
 			"lat": 1.37283117687855,
 			"long": 103.94765867700548
@@ -46858,8 +46867,8 @@
 		"wab": "true",
 		"details": "Bef Lor 18 Geylang",
 		"coordinates": {
-			"lat": 1.312658,
-			"long": 103.880111
+			"lat": 1.31275356421909,
+			"long": 103.88079905478979
 		}
 	},
 	{

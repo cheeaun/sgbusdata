@@ -301,6 +301,13 @@
 		"Longitude": 103.85402155505173
 	},
 	{
+		"BusStopCode": "02051",
+		"RoadName": "Raffles Ave",
+		"Description": "The Float @ Marina Bay",
+		"Latitude": 1.289503056,
+		"Longitude": 103.8590339
+	},
+	{
 		"BusStopCode": "02061",
 		"RoadName": "Raffles Ave",
 		"Description": "The Esplanade",
@@ -1038,7 +1045,7 @@
 	{
 		"BusStopCode": "05649",
 		"RoadName": "Keppel Rd",
-		"Description": "Opp Customs Port Br HQ",
+		"Description": "Aft Cantonment Rd",
 		"Latitude": 1.2723842122117,
 		"Longitude": 103.84093912218094
 	},
@@ -4461,7 +4468,7 @@
 	{
 		"BusStopCode": "16199",
 		"RoadName": "Kent Ridge Cres",
-		"Description": "Bef Architecture Dr",
+		"Description": "Aft Architecture Dr",
 		"Latitude": 1.29639303583424,
 		"Longitude": 103.77072917887465
 	},
@@ -13071,7 +13078,7 @@
 	{
 		"BusStopCode": "43061",
 		"RoadName": "Upp Bt Timah Rd",
-		"Description": "Hillview Stn",
+		"Description": "Hillview Stn Exit B",
 		"Latitude": 1.36301133873589,
 		"Longitude": 103.76739148459211
 	},
@@ -13092,28 +13099,28 @@
 	{
 		"BusStopCode": "43081",
 		"RoadName": "Upp Bt Timah Rd",
-		"Description": "Opp Assumption Eng Sch",
+		"Description": "Opp St. Joseph's Ch (Bt Timah)",
 		"Latitude": 1.36704277799302,
 		"Longitude": 103.76572777796798
 	},
 	{
 		"BusStopCode": "43089",
 		"RoadName": "Upp Bt Timah Rd",
-		"Description": "Aft Assumption Eng Sch",
+		"Description": "St. Joseph's Ch (Bt Timah)",
 		"Latitude": 1.36705664197789,
 		"Longitude": 103.76608527288596
 	},
 	{
 		"BusStopCode": "43091",
 		"RoadName": "Upp Bt Timah Rd",
-		"Description": "Bef Cashew Stn",
+		"Description": "Opp Cashew Stn",
 		"Latitude": 1.36863253283887,
 		"Longitude": 103.76474109358477
 	},
 	{
 		"BusStopCode": "43099",
 		"RoadName": "Upp Bt Timah Rd",
-		"Description": "Assumption Pathway Sch",
+		"Description": "Assumption Eng Sch",
 		"Latitude": 1.36872205121157,
 		"Longitude": 103.76498636840047
 	},
@@ -13184,8 +13191,8 @@
 		"BusStopCode": "43151",
 		"RoadName": "Hillview Ave",
 		"Description": "Opp Glendale Pk Condo",
-		"Latitude": 1.36363608446232,
-		"Longitude": 103.76489101192684
+		"Latitude": 1.363206111,
+		"Longitude": 103.7647081
 	},
 	{
 		"BusStopCode": "43159",
@@ -14787,8 +14794,8 @@
 		"BusStopCode": "44511",
 		"RoadName": "Choa Chu Kang Ave 3",
 		"Description": "Blk 289",
-		"Latitude": 1.379843,
-		"Longitude": 103.741069
+		"Latitude": 1.37948069483064,
+		"Longitude": 103.74055530616924
 	},
 	{
 		"BusStopCode": "44519",
@@ -21415,14 +21422,14 @@
 	{
 		"BusStopCode": "57041",
 		"RoadName": "Sembawang Rd",
-		"Description": "Nee Soon HQ 22 SIB",
+		"Description": "Nee Soon Camp",
 		"Latitude": 1.41069268256433,
 		"Longitude": 103.82192312004506
 	},
 	{
 		"BusStopCode": "57049",
 		"RoadName": "Sembawang Rd",
-		"Description": "Opp Nee Soon HQ 22 SIB",
+		"Description": "Opp Nee Soon Camp",
 		"Latitude": 1.41082027802703,
 		"Longitude": 103.82233527798766
 	},
@@ -23970,7 +23977,7 @@
 	{
 		"BusStopCode": "62131",
 		"RoadName": "Upp S'goon Rd",
-		"Description": "S'goon Stn Exit H",
+		"Description": "S'Goon Stn Exit B",
 		"Latitude": 1.3489790064228,
 		"Longitude": 103.87277432797597
 	},
@@ -25377,14 +25384,14 @@
 	{
 		"BusStopCode": "65011",
 		"RoadName": "Punggol Rd",
-		"Description": "Opp The Rivervale",
+		"Description": "Blk 266/Opp The Rivervale",
 		"Latitude": 1.38159696830765,
 		"Longitude": 103.89720951783346
 	},
 	{
 		"BusStopCode": "65019",
 		"RoadName": "Punggol Rd",
-		"Description": "The Rivervale",
+		"Description": "Opp Blk 266/The Rivervale",
 		"Latitude": 1.38151407829697,
 		"Longitude": 103.89749237919405
 	},
@@ -27736,7 +27743,7 @@
 	{
 		"BusStopCode": "67569",
 		"RoadName": "Sengkang West Way",
-		"Description": "Blk 432A",
+		"Description": "Bet Blks 430D/433A",
 		"Latitude": 1.39504999232889,
 		"Longitude": 103.87700000087196
 	},
@@ -29368,13 +29375,13 @@
 		"BusStopCode": "75061",
 		"RoadName": "Bedok Reservoir Rd",
 		"Description": "Blk 954D",
-		"Latitude": 1.34071391760745,
-		"Longitude": 103.93646836281481
+		"Latitude": 1.342039,
+		"Longitude": 103.937243
 	},
 	{
 		"BusStopCode": "75069",
 		"RoadName": "Bedok Reservoir Rd",
-		"Description": "Blk 960A",
+		"Description": "Blk 970A",
 		"Latitude": 1.341667,
 		"Longitude": 103.937323
 	},
@@ -29521,7 +29528,7 @@
 	{
 		"BusStopCode": "75201",
 		"RoadName": "Tampines St 83",
-		"Description": "Blk 835",
+		"Description": "Blk 833",
 		"Latitude": 1.35078500992301,
 		"Longitude": 103.93353377368994
 	},
@@ -31047,14 +31054,14 @@
 	{
 		"BusStopCode": "77321",
 		"RoadName": "Pasir Ris Ctrl",
-		"Description": "Aft Pasir Ris St 53",
+		"Description": "Pasir Ris Int/Mall",
 		"Latitude": 1.37313477197799,
 		"Longitude": 103.94802646457005
 	},
 	{
 		"BusStopCode": "77329",
 		"RoadName": "Pasir Ris Ctrl",
-		"Description": "Bef Pasir Ris St 53",
+		"Description": "Opp Pasir Ris Mall",
 		"Latitude": 1.37283117687855,
 		"Longitude": 103.94765867700548
 	},
@@ -31538,8 +31545,8 @@
 		"BusStopCode": "80089",
 		"RoadName": "Geylang Rd",
 		"Description": "Bef Lor 18 Geylang",
-		"Latitude": 1.312658,
-		"Longitude": 103.880111
+		"Latitude": 1.31275356421909,
+		"Longitude": 103.88079905478979
 	},
 	{
 		"BusStopCode": "80091",

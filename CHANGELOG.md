@@ -1,3 +1,62 @@
+# 14 October 2025
+
+## Stops count change: 5165 ⮕ 5166
+
+### Stops added: 1
+
+- `02051` The Float @ Marina Bay
+
+### Stop names changed: 17
+
+- `16199` Bef Architecture Dr ⮕ Aft Architecture Dr
+- `43061` Hillview Stn ⮕ Hillview Stn Exit B
+- `43081` Opp Assumption Eng Sch ⮕ Opp St. Joseph's Ch (Bt Timah)
+- `43089` Aft Assumption Eng Sch ⮕ St. Joseph's Ch (Bt Timah)
+- `43091` Bef Cashew Stn ⮕ Opp Cashew Stn
+- `43099` Assumption Pathway Sch ⮕ Assumption Eng Sch
+- `57041` Nee Soon HQ 22 SIB ⮕ Nee Soon Camp
+- `57049` Opp Nee Soon HQ 22 SIB ⮕ Opp Nee Soon Camp
+- `62131` S'goon Stn Exit H ⮕ S'Goon Stn Exit B
+- `65011` Opp The Rivervale ⮕ Blk 266/Opp The Rivervale
+- `65019` The Rivervale ⮕ Opp Blk 266/The Rivervale
+- `67569` Blk 432A ⮕ Bet Blks 430D/433A
+- `75069` Blk 960A ⮕ Blk 970A
+- `75201` Blk 835 ⮕ Blk 833
+- `77321` Aft Pasir Ris St 53 ⮕ Pasir Ris Int/Mall
+- `77329` Bef Pasir Ris St 53 ⮕ Opp Pasir Ris Mall
+- `05649` Opp Customs Port Br HQ ⮕ Aft Cantonment Rd
+
+### Stop locations changed: 4
+
+- `43151` 103.76489,1.36364 ⮕ 103.76471,1.36321
+- `44511` 103.74107,1.37984 ⮕ 103.74056,1.37948
+- `75061` 103.93647,1.34071 ⮕ 103.93724,1.34204
+- `80089` 103.88011,1.31266 ⮕ 103.8808,1.31275
+
+### Bus Stop Changes To Routes: 17
+
+- `36` Changi Airport Ter 2 ⟲ Orchard Stn Exit 13: +1
+- `56` Bishan Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `77` Bt Batok Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +2
+- `97` Jurong East Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `106` Bt Batok Int ⇄ Shenton Way Ter: +1
+- `111` Ghim Moh Ter ⟲ The Float @ Marina Bay: +1
+- `133` Ang Mo Kio Int ⇄ Shenton Way Ter: +1
+- `195` Aft S'pore Flyer → Promenade Stn/Pan Pacific: +3
+- `857` Yishun Int ⟲ Opp The Ritz-Carlton: +1
+- `960` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `195A` Aft S'pore Flyer → Tiong Bahru Stn/Plaza: +7
+- `36A` Changi Airport Ter 2 → Aft Cuscaden Rd: +1
+- `36B` Lagoon View → Bef Seaside Residences: +1
+- `70M` Yio Chu Kang Int ⟲ The Float @ Marina Bay: +1
+- `960e` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `961M` Woodlands Temp Int ⇄ Lor 1 Geylang Ter: +2
+- `97e` Jurong East Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+
+## First/last timings changed
+
+Affected services: `21`, `27`, `36`, `56`, `77`, `97`, `106`, `111`, `129`, `133`, `195`, `298`, `857`, `960`, `961M`, `195A`, `97e`, `960e`, `70M`, `36B`, `36A`
+
 # 1 October 2025
 
 ## Stops count change: 5162 ⮕ 5165
