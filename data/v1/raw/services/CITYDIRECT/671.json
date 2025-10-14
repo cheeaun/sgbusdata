@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Opp The Rivervale to Promenade Stn/Pan Pacific",
+		"name": "From Blk 266/Opp The Rivervale to Promenade Stn/Pan Pacific",
 		"stops": [
 			"65011",
 			"67219",
@@ -27,7 +27,7 @@
 		]
 	},
 	{
-		"name": "From Suntec Convention Ctr to The Rivervale",
+		"name": "From Suntec Convention Ctr to Opp Blk 266/The Rivervale",
 		"stops": [
 			"02151",
 			"02161",
