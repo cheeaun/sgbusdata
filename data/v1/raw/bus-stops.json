@@ -20929,8 +20929,8 @@
 		"wab": "true",
 		"details": "Senkee Logistics Hub",
 		"coordinates": {
-			"lat": 1.30169278947484,
-			"long": 103.7484455108314
+			"lat": 1.301837,
+			"long": 103.7486385
 		}
 	},
 	{
@@ -22317,6 +22317,15 @@
 		"coordinates": {
 			"lat": 1.354773,
 			"long": 103.731884
+		}
+	},
+	{
+		"name": "40509",
+		"wab": "true",
+		"details": "Opp Blk 131D",
+		"coordinates": {
+			"lat": 1.35439,
+			"long": 103.7322
 		}
 	},
 	{
@@ -23737,8 +23746,8 @@
 		"wab": "true",
 		"details": "Aft Bt Batok Stn/Blk 628",
 		"coordinates": {
-			"lat": 1.35155523613685,
-			"long": 103.74998784769572
+			"lat": 1.351623356,
+			"long": 103.749933755
 		}
 	},
 	{
@@ -24286,8 +24295,8 @@
 		"wab": "true",
 		"details": "Opp Blk 443D",
 		"coordinates": {
-			"lat": 1.356298,
-			"long": 103.736664
+			"lat": 1.3561115,
+			"long": 103.736562
 		}
 	},
 	{
@@ -24313,8 +24322,8 @@
 		"wab": "true",
 		"details": "Dulwich Coll/Blk 445",
 		"coordinates": {
-			"lat": 1.35151426989451,
-			"long": 103.73781565466237
+			"lat": 1.3517415,
+			"long": 103.737677
 		}
 	},
 	{
@@ -26482,8 +26491,8 @@
 		"wab": "true",
 		"details": "Opp Blk 704",
 		"coordinates": {
-			"lat": 1.39086231015739,
-			"long": 103.7449781608435
+			"lat": 1.3909225,
+			"long": 103.745081
 		}
 	},
 	{
@@ -26491,8 +26500,8 @@
 		"wab": "true",
 		"details": "Blk 702",
 		"coordinates": {
-			"lat": 1.391622,
-			"long": 103.745119
+			"lat": 1.3914375,
+			"long": 103.7451665
 		}
 	},
 	{
@@ -26536,8 +26545,8 @@
 		"wab": "true",
 		"details": "Yew Tee Stn",
 		"coordinates": {
-			"lat": 1.39740269682477,
-			"long": 103.74755489070483
+			"lat": 1.397347,
+			"long": 103.747665
 		}
 	},
 	{
@@ -26545,8 +26554,8 @@
 		"wab": "true",
 		"details": "Opp Yew Tee Stn",
 		"coordinates": {
-			"lat": 1.39743803967229,
-			"long": 103.7478650735721
+			"lat": 1.3974585,
+			"long": 103.7478685
 		}
 	},
 	{
@@ -39334,8 +39343,8 @@
 		"wab": "true",
 		"details": "Blk 649",
 		"coordinates": {
-			"lat": 1.39695155432601,
-			"long": 103.91478844205221
+			"lat": 1.396706,
+			"long": 103.914813
 		}
 	},
 	{
@@ -39343,8 +39352,8 @@
 		"wab": "true",
 		"details": "Blk 162B",
 		"coordinates": {
-			"lat": 1.39671015437474,
-			"long": 103.91467219472072
+			"lat": 1.397184,
+			"long": 103.914155
 		}
 	},
 	{
@@ -39883,8 +39892,8 @@
 		"wab": "true",
 		"details": "Samudera Stn Exit B",
 		"coordinates": {
-			"lat": 1.416279,
-			"long": 103.902739
+			"lat": 1.416165,
+			"long": 103.902557
 		}
 	},
 	{
@@ -39939,6 +39948,15 @@
 		"coordinates": {
 			"lat": 1.418851944,
 			"long": 103.9057239
+		}
+	},
+	{
+		"name": "65669",
+		"wab": "true",
+		"details": "Northshore Pr Sch",
+		"coordinates": {
+			"lat": 1.41874,
+			"long": 103.905114
 		}
 	},
 	{
@@ -42255,6 +42273,60 @@
 		}
 	},
 	{
+		"name": "67771",
+		"wab": "true",
+		"details": "Blk 995B",
+		"coordinates": {
+			"lat": 1.386549,
+			"long": 103.8833
+		}
+	},
+	{
+		"name": "67779",
+		"wab": "true",
+		"details": "Opp Blk 995C",
+		"coordinates": {
+			"lat": 1.386616,
+			"long": 103.8835
+		}
+	},
+	{
+		"name": "67781",
+		"wab": "true",
+		"details": "Opp Blk 408A",
+		"coordinates": {
+			"lat": 1.388311,
+			"long": 103.87674
+		}
+	},
+	{
+		"name": "67789",
+		"wab": "true",
+		"details": "Blk 409",
+		"coordinates": {
+			"lat": 1.388633,
+			"long": 103.877235
+		}
+	},
+	{
+		"name": "67791",
+		"wab": "true",
+		"details": "Opp Blk 415A",
+		"coordinates": {
+			"lat": 1.388434,
+			"long": 103.8798
+		}
+	},
+	{
+		"name": "67799",
+		"wab": "true",
+		"details": "Blk 415A",
+		"coordinates": {
+			"lat": 1.388615,
+			"long": 103.8798
+		}
+	},
+	{
 		"name": "67991",
 		"wab": "true",
 		"details": "Opp Blk 461B",
@@ -43989,6 +44061,24 @@
 		"coordinates": {
 			"lat": 1.34218,
 			"long": 103.935758
+		}
+	},
+	{
+		"name": "74941",
+		"wab": "true",
+		"details": "Opp Blk 961A",
+		"coordinates": {
+			"lat": 1.3402645,
+			"long": 103.9361875
+		}
+	},
+	{
+		"name": "74949",
+		"wab": "true",
+		"details": "Blk 961A",
+		"coordinates": {
+			"lat": 1.340276,
+			"long": 103.936345
 		}
 	},
 	{
@@ -46392,15 +46482,6 @@
 		"coordinates": {
 			"lat": 1.3744627816256,
 			"long": 103.94180578126523
-		}
-	},
-	{
-		"name": "78059",
-		"wab": "true",
-		"details": "Blk 210",
-		"coordinates": {
-			"lat": 1.36677606799955,
-			"long": 103.96113744871693
 		}
 	},
 	{
@@ -50854,8 +50935,8 @@
 		"wab": "true",
 		"details": "AirFreight Ter Bldg",
 		"coordinates": {
-			"lat": 1.37218943783154,
-			"long": 103.99457879033221
+			"lat": 1.372277,
+			"long": 103.99465
 		}
 	},
 	{
@@ -50863,8 +50944,8 @@
 		"wab": "true",
 		"details": "CIAS Cargo Ters",
 		"coordinates": {
-			"lat": 1.37265452174649,
-			"long": 103.99570041596903
+			"lat": 1.372739,
+			"long": 103.995714
 		}
 	},
 	{
@@ -50872,8 +50953,8 @@
 		"wab": "true",
 		"details": "SATS Cargo Ter",
 		"coordinates": {
-			"lat": 1.37359444402021,
-			"long": 103.99443416702756
+			"lat": 1.373575,
+			"long": 103.994414
 		}
 	},
 	{
@@ -50881,8 +50962,8 @@
 		"wab": "true",
 		"details": "3rd Cargo Agents",
 		"coordinates": {
-			"lat": 1.37528324353604,
-			"long": 103.99619579312593
+			"lat": 1.375293,
+			"long": 103.996226
 		}
 	},
 	{
@@ -50890,8 +50971,8 @@
 		"wab": "true",
 		"details": "Airline Hse",
 		"coordinates": {
-			"lat": 1.37755167138896,
-			"long": 103.99653899373014
+			"lat": 1.378238,
+			"long": 103.996862
 		}
 	},
 	{
@@ -50899,8 +50980,8 @@
 		"wab": "true",
 		"details": "Opp Airline Hse",
 		"coordinates": {
-			"lat": 1.37789848118317,
-			"long": 103.99643160040588
+			"lat": 1.378218,
+			"long": 103.996517
 		}
 	},
 	{
@@ -50908,8 +50989,8 @@
 		"wab": "true",
 		"details": "Changi Beach CP 4",
 		"coordinates": {
-			"lat": 1.38994660051217,
-			"long": 103.99512197669611
+			"lat": 1.389939,
+			"long": 103.995119
 		}
 	},
 	{
@@ -50926,8 +51007,8 @@
 		"wab": "true",
 		"details": "Changi Beach CP 5",
 		"coordinates": {
-			"lat": 1.38959028129733,
-			"long": 103.99761693950214
+			"lat": 1.389422,
+			"long": 103.997946
 		}
 	},
 	{
@@ -50935,8 +51016,8 @@
 		"wab": "true",
 		"details": "Opp Changi Beach CP 5",
 		"coordinates": {
-			"lat": 1.38962166669625,
-			"long": 103.99593111108919
+			"lat": 1.389665,
+			"long": 103.995899
 		}
 	},
 	{
@@ -50944,8 +51025,8 @@
 		"wab": "true",
 		"details": "SAF Ferry Ter",
 		"coordinates": {
-			"lat": 1.38721361114033,
-			"long": 103.99971361110026
+			"lat": 1.387294,
+			"long": 103.999644
 		}
 	},
 	{
@@ -50953,8 +51034,8 @@
 		"wab": "true",
 		"details": "Opp SAF Ferry Ter",
 		"coordinates": {
-			"lat": 1.38815449129359,
-			"long": 103.99878608257899
+			"lat": 1.388248,
+			"long": 103.998803
 		}
 	},
 	{
@@ -50980,8 +51061,8 @@
 		"wab": "true",
 		"details": "Police Pass Off",
 		"coordinates": {
-			"lat": 1.38525245892982,
-			"long": 103.99983438993594
+			"lat": 1.385586,
+			"long": 103.999695
 		}
 	},
 	{
@@ -50989,8 +51070,8 @@
 		"wab": "true",
 		"details": "Police Pass Off",
 		"coordinates": {
-			"lat": 1.386355278,
-			"long": 103.9995783
+			"lat": 1.385469,
+			"long": 103.999182
 		}
 	},
 	{
@@ -50998,8 +51079,8 @@
 		"wab": "true",
 		"details": "Aft Cargo Bldg D",
 		"coordinates": {
-			"lat": 1.38138618483813,
-			"long": 103.99819135664978
+			"lat": 1.381475,
+			"long": 103.998213
 		}
 	},
 	{
@@ -51007,8 +51088,8 @@
 		"wab": "true",
 		"details": "Bef Cargo Bldg D",
 		"coordinates": {
-			"lat": 1.38128155042147,
-			"long": 103.99785682775334
+			"lat": 1.381045,
+			"long": 103.997657
 		}
 	},
 	{
@@ -51025,8 +51106,8 @@
 		"wab": "true",
 		"details": "Near SATS Flight Kitchen",
 		"coordinates": {
-			"lat": 1.34191465289349,
-			"long": 103.98225051798305
+			"lat": 1.341239,
+			"long": 103.981954
 		}
 	},
 	{
@@ -52618,8 +52699,8 @@
 		"wab": "true",
 		"details": "Opp Maranatha B-P Ch",
 		"coordinates": {
-			"lat": 1.38790615442763,
-			"long": 103.98177807887794
+			"lat": 1.387925,
+			"long": 103.981799
 		}
 	},
 	{
@@ -52636,8 +52717,8 @@
 		"wab": "true",
 		"details": "Aft Changi Golf Course",
 		"coordinates": {
-			"lat": 1.38779999993686,
-			"long": 103.98547333334741
+			"lat": 1.387809,
+			"long": 103.985447
 		}
 	},
 	{
@@ -52771,8 +52852,8 @@
 		"wab": "true",
 		"details": "Aft Changi Beach CP 3",
 		"coordinates": {
-			"lat": 1.39026180023806,
-			"long": 103.99295664134459
+			"lat": 1.390303,
+			"long": 103.992975
 		}
 	},
 	{
@@ -52780,8 +52861,8 @@
 		"wab": "true",
 		"details": "Changi Beach CP 2",
 		"coordinates": {
-			"lat": 1.39112750002185,
-			"long": 103.9910213889211
+			"lat": 1.391161,
+			"long": 103.990992
 		}
 	},
 	{
@@ -52789,8 +52870,8 @@
 		"wab": "true",
 		"details": "Bef S'pore Aviation Ac",
 		"coordinates": {
-			"lat": 1.38775412603923,
-			"long": 103.98850309975099
+			"lat": 1.387793,
+			"long": 103.988393
 		}
 	},
 	{
