@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Bt Batok Int to Bt Batok Int",
+		"name": "From Bt Batok Int to Clementi Int",
 		"stops": [
 			"43009",
 			"43419",
@@ -33,6 +33,12 @@
 			"28019",
 			"20109",
 			"17189",
+			"17009"
+		]
+	},
+	{
+		"name": "From Clementi Int to Bt Batok Int",
+		"stops": [
 			"17009",
 			"17181",
 			"20101",

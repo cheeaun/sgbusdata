@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Eunos Int to Eunos Int",
+		"name": "From Eunos Int to Opp Blk 36",
 		"stops": [
 			"82009",
 			"82061",
@@ -54,6 +54,12 @@
 			"10429",
 			"10419",
 			"10409",
+			"10599"
+		]
+	},
+	{
+		"name": "From Opp Blk 36 to Eunos Int",
+		"stops": [
 			"10599",
 			"10401",
 			"10411",

@@ -403,7 +403,7 @@
 	"status": 0,
 	"stops": {
 		"SingaporeStop_Blk557_NW": {
-			"bearing": "W",
+			"bearing": "NW",
 			"brands": [
 				"GASBuses",
 				"SBSTBuses"
@@ -415,10 +415,10 @@
 			"live_code": "SingaporeStop_Blk557_NW",
 			"name": "Blk 557",
 			"routes": [
+				"GASBuses104",
 				"SBSTBuses114",
 				"SBSTBuses114A",
-				"GASBuses43",
-				"GASBuses43M"
+				"GASBuses43"
 			],
 			"stop_code": "67629"
 		},
@@ -494,11 +494,11 @@
 			"name": "Buangkok Stn Exit B",
 			"routes": [
 				"SBSTBuses102",
+				"GASBuses104",
 				"SBSTBuses114",
 				"SBSTBuses114A",
 				"SBSTBuses27",
 				"GASBuses43",
-				"GASBuses43M",
 				"GASBuses43E"
 			],
 			"stop_code": "67601"
