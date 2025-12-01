@@ -1,3 +1,65 @@
+# 1 December 2025
+
+## Stops count change: 5175 ⮕ 5179
+
+### Stops added: 4
+
+- `29161` Bef Pandan Rd
+- `40491` Bef Plantation Cres
+- `40499` Aft Plantation Cres
+- `47721` Blk 568B
+
+### Stop names changed: 1
+
+- `67789` Blk 409 ⮕ Blk 409A
+
+### Stop locations changed: 2
+
+- `65229` 103.90492,1.40362 ⮕ 103.90544,1.4032
+- `65259` 103.90187,1.40535 ⮕ 103.90145,1.40534
+
+## Services count change: 580 ⮕ 583
+
+### Services added: 7
+
+- `44` Punggol Coast Int ⇄ Near SATS Flight Kitchen / Airport Police Stn
+- `451` Opp Blk 816A / Blk 816B ⇄ Bt Gombak Stn / Opp Bt Gombak Stn
+- `452` Tengah Int ⇄ Beauty World Stn Exit C
+- `453` Tengah Int ⇄ Bt Batok Int
+- `454` Tampines Nth Int ⟲ Blk 875B
+- `455` Bt Panjang Int ⟲ Blk 689A
+- `456` St. Michael's Ter ⟲ Bef Kim Keat Lane
+
+### Services removed: 4
+
+- `21X` St. Michael's Ter ⟲ Bef Kim Keat Lane
+- `298X` Tampines Nth Int ⟲ Blk 875B
+- `979X` Bt Panjang Int ⟲ Blk 689A
+- `991C` Opp Blk 464 → Bt Gombak Stn
+
+### Bus Stop Changes To Routes: 4
+
+- `78` Jurong Town Hall Int ⟲ Clementi Stn Exit A/Mall: +1
+- `872` Tengah Int ⟲ Blk 306: +2
+- `967` Woodlands Temp Int ⟲ Blk 589: +1
+- `163B` Sengkang Int → Aft Lentor Stn Exit 4: +2
+
+## Routes changed: 9
+
+- `967` Woodlands Temp Int ⟲ Blk 589
+- `163B` Sengkang Int → Aft Lentor Stn Exit 4
+- `44` Punggol Coast Int ⇄ Near SATS Flight Kitchen / Airport Police Stn
+- `451` Opp Blk 816A / Blk 816B ⇄ Bt Gombak Stn / Opp Bt Gombak Stn
+- `452` Tengah Int ⇄ Beauty World Stn Exit C
+- `453` Tengah Int ⇄ Bt Batok Int
+- `454` Tampines Nth Int ⟲ Blk 875B
+- `455` Bt Panjang Int ⟲ Blk 689A
+- `456` St. Michael's Ter ⟲ Bef Kim Keat Lane
+
+## First/last timings changed
+
+Affected services: `298X`, `21X`, `979X`, `991C`, `34`, `50`, `78`, `872`, `967`, `179A`, `163B`, `44`, `451`, `452`, `453`, `454`, `455`, `456`
+
 # 1 November 2025
 
 ## Stops count change: 5166 ⮕ 5175

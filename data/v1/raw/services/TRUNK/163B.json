@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Sengkang Int to NCS Hub",
+		"name": "From Sengkang Int to Aft Lentor Stn Exit 4",
 		"stops": [
 			"67009",
 			"67189",
@@ -27,7 +27,9 @@
 			"55079",
 			"55059",
 			"55049",
-			"55039"
+			"55039",
+			"55029",
+			"55019"
 		]
 	}
 ]

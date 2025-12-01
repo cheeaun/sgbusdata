@@ -8363,6 +8363,12 @@
 		"Aft Teban Gdns Cres",
 		"Penjuru Rd"
 	],
+	"29161": [
+		103.7501,
+		1.30505,
+		"Bef Pandan Rd",
+		"Jln Buroh"
+	],
 	"30011": [
 		103.71423,
 		1.37368,
@@ -9274,6 +9280,18 @@
 		1.35338,
 		"Opp Blk 113",
 		"Plantation Cres"
+	],
+	"40491": [
+		103.73365,
+		1.35298,
+		"Bef Plantation Cres",
+		"Tengah Garden Ave"
+	],
+	"40499": [
+		103.7334,
+		1.35312,
+		"Aft Plantation Cres",
+		"Tengah Garden Ave"
 	],
 	"40501": [
 		103.73188,
@@ -13726,6 +13744,12 @@
 		1.46346,
 		"JB Sentral Bus Ter",
 		"Jln Jim Quee"
+	],
+	"47721": [
+		103.79006,
+		1.42791,
+		"Blk 568B",
+		"Woodlands Dr 17"
 	],
 	"47731": [
 		103.79188,
@@ -20586,8 +20610,8 @@
 		"Punggol Ctrl"
 	],
 	"65229": [
-		103.90492,
-		1.40362,
+		103.90544,
+		1.4032,
 		"Blk 298",
 		"Punggol Ctrl"
 	],
@@ -20622,8 +20646,8 @@
 		"Punggol Ctrl"
 	],
 	"65259": [
-		103.90187,
-		1.40535,
+		103.90145,
+		1.40534,
 		"Punggol Stn/Int",
 		"Punggol Ctrl"
 	],
@@ -22604,7 +22628,7 @@
 	"67789": [
 		103.87724,
 		1.38863,
-		"Blk 409",
+		"Blk 409A",
 		"Buangkok Dr"
 	],
 	"67791": [
