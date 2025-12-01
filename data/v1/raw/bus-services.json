@@ -686,7 +686,7 @@
 	},
 	{
 		"number": "-S59",
-		"description": "Safari Big Bus Tours – Orchard Road to Singapore Zoo & Night Safari",
+		"description": "Safari Big Bus Tours - Orchard Road to Singapore Zoo and Night Safari",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S59-1.kml"
@@ -2833,16 +2833,6 @@
 		]
 	},
 	{
-		"number": "21X",
-		"type": "TRUNK",
-		"kmlFile": [
-			"21X-1.kml"
-		],
-		"routeFile": [
-			"21X.xml"
-		]
-	},
-	{
 		"number": 22,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -3474,16 +3464,6 @@
 		],
 		"routeFile": [
 			"298.xml"
-		]
-	},
-	{
-		"number": "298X",
-		"type": "TRUNK",
-		"kmlFile": [
-			"298X-1.kml"
-		],
-		"routeFile": [
-			"298X.xml"
 		]
 	},
 	{
@@ -4168,6 +4148,17 @@
 		]
 	},
 	{
+		"number": 44,
+		"type": "TRUNK",
+		"kmlFile": [
+			"44-1.kml",
+			"44-2.kml"
+		],
+		"routeFile": [
+			"44.xml"
+		]
+	},
+	{
 		"number": 45,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -4176,6 +4167,69 @@
 		],
 		"routeFile": [
 			"45.xml"
+		]
+	},
+	{
+		"number": 451,
+		"type": "TRUNK",
+		"kmlFile": [
+			"451-1.kml",
+			"451-2.kml"
+		],
+		"routeFile": [
+			"451.xml"
+		]
+	},
+	{
+		"number": 452,
+		"type": "TRUNK",
+		"kmlFile": [
+			"452-1.kml",
+			"452-2.kml"
+		],
+		"routeFile": [
+			"452.xml"
+		]
+	},
+	{
+		"number": 453,
+		"type": "TRUNK",
+		"kmlFile": [
+			"453-1.kml",
+			"453-2.kml"
+		],
+		"routeFile": [
+			"453.xml"
+		]
+	},
+	{
+		"number": 454,
+		"type": "TRUNK",
+		"kmlFile": [
+			"454-1.kml"
+		],
+		"routeFile": [
+			"454.xml"
+		]
+	},
+	{
+		"number": 455,
+		"type": "TRUNK",
+		"kmlFile": [
+			"455-1.kml"
+		],
+		"routeFile": [
+			"455.xml"
+		]
+	},
+	{
+		"number": 456,
+		"type": "TRUNK",
+		"kmlFile": [
+			"456-1.kml"
+		],
+		"routeFile": [
+			"456.xml"
 		]
 	},
 	{
@@ -6414,16 +6468,6 @@
 		]
 	},
 	{
-		"number": "979X",
-		"type": "TRUNK",
-		"kmlFile": [
-			"979X-1.kml"
-		],
-		"routeFile": [
-			"979X.xml"
-		]
-	},
-	{
 		"number": "97e",
 		"type": "TRUNK",
 		"kmlFile": [
@@ -6619,16 +6663,6 @@
 		],
 		"routeFile": [
 			"991B.xml"
-		]
-	},
-	{
-		"number": "991C",
-		"type": "TRUNK",
-		"kmlFile": [
-			"991C-1.kml"
-		],
-		"routeFile": [
-			"991C.xml"
 		]
 	},
 	{

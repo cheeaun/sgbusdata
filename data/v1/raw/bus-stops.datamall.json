@@ -11382,6 +11382,13 @@
 		"Longitude": 103.73750501985307
 	},
 	{
+		"BusStopCode": "29161",
+		"RoadName": "Jln Buroh",
+		"Description": "Bef Pandan Rd",
+		"Latitude": 1.305051,
+		"Longitude": 103.7501045
+	},
+	{
 		"BusStopCode": "30011",
 		"RoadName": "Old Choa Chu Kang Rd",
 		"Description": "Tengah Air Base",
@@ -12444,6 +12451,20 @@
 		"Description": "Opp Blk 113",
 		"Latitude": 1.353375,
 		"Longitude": 103.735489
+	},
+	{
+		"BusStopCode": "40491",
+		"RoadName": "Tengah Garden Ave",
+		"Description": "Bef Plantation Cres",
+		"Latitude": 1.3529839,
+		"Longitude": 103.733645
+	},
+	{
+		"BusStopCode": "40499",
+		"RoadName": "Tengah Garden Ave",
+		"Description": "Aft Plantation Cres",
+		"Latitude": 1.35312,
+		"Longitude": 103.733401
 	},
 	{
 		"BusStopCode": "40501",
@@ -17638,6 +17659,13 @@
 		"Description": "JB Sentral Bus Ter",
 		"Latitude": 1.46345834112565,
 		"Longitude": 103.76442341207213
+	},
+	{
+		"BusStopCode": "47721",
+		"RoadName": "Woodlands Dr 17",
+		"Description": "Blk 568B",
+		"Latitude": 1.427909,
+		"Longitude": 103.790055
 	},
 	{
 		"BusStopCode": "47731",
@@ -25644,8 +25672,8 @@
 		"BusStopCode": "65229",
 		"RoadName": "Punggol Ctrl",
 		"Description": "Blk 298",
-		"Latitude": 1.403622,
-		"Longitude": 103.904916
+		"Latitude": 1.403199,
+		"Longitude": 103.9054445
 	},
 	{
 		"BusStopCode": "65231",
@@ -25686,8 +25714,8 @@
 		"BusStopCode": "65259",
 		"RoadName": "Punggol Ctrl",
 		"Description": "Punggol Stn/Int",
-		"Latitude": 1.405351944,
-		"Longitude": 103.9018719
+		"Latitude": 1.4053405,
+		"Longitude": 103.9014515
 	},
 	{
 		"BusStopCode": "65261",
@@ -27995,7 +28023,7 @@
 	{
 		"BusStopCode": "67789",
 		"RoadName": "Buangkok Dr",
-		"Description": "Blk 409",
+		"Description": "Blk 409A",
 		"Latitude": 1.388633,
 		"Longitude": 103.877235
 	},

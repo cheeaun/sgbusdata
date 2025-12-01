@@ -20943,6 +20943,15 @@
 		}
 	},
 	{
+		"name": "29161",
+		"wab": "true",
+		"details": "Bef Pandan Rd",
+		"coordinates": {
+			"lat": 1.305051,
+			"long": 103.7501045
+		}
+	},
+	{
 		"name": "30011",
 		"wab": "true",
 		"details": "Tengah Air Base",
@@ -22308,6 +22317,24 @@
 		"coordinates": {
 			"lat": 1.353375,
 			"long": 103.735489
+		}
+	},
+	{
+		"name": "40491",
+		"wab": "true",
+		"details": "Bef Plantation Cres",
+		"coordinates": {
+			"lat": 1.3529839,
+			"long": 103.733645
+		}
+	},
+	{
+		"name": "40499",
+		"wab": "true",
+		"details": "Aft Plantation Cres",
+		"coordinates": {
+			"lat": 1.35312,
+			"long": 103.733401
 		}
 	},
 	{
@@ -28986,6 +29013,15 @@
 		"coordinates": {
 			"lat": 1.46345834112565,
 			"long": 103.76442341207213
+		}
+	},
+	{
+		"name": "47721",
+		"wab": "true",
+		"details": "Blk 568B",
+		"coordinates": {
+			"lat": 1.427909,
+			"long": 103.790055
 		}
 	},
 	{
@@ -39280,8 +39316,8 @@
 		"wab": "true",
 		"details": "Blk 298",
 		"coordinates": {
-			"lat": 1.403622,
-			"long": 103.904916
+			"lat": 1.403199,
+			"long": 103.9054445
 		}
 	},
 	{
@@ -39334,8 +39370,8 @@
 		"wab": "true",
 		"details": "Punggol Stn/Int",
 		"coordinates": {
-			"lat": 1.405351944,
-			"long": 103.9018719
+			"lat": 1.4053405,
+			"long": 103.9014515
 		}
 	},
 	{
@@ -42302,7 +42338,7 @@
 	{
 		"name": "67789",
 		"wab": "true",
-		"details": "Blk 409",
+		"details": "Blk 409A",
 		"coordinates": {
 			"lat": 1.388633,
 			"long": 103.877235
