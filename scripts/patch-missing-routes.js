@@ -32,21 +32,6 @@ const missingServices = failedKMLs.map((d) => {
 });
 
 (async () => {
-  // OLD:
-  // const { access_token } = await fetch(
-  //   'https://developers.onemap.sg/publicapi/publicsessionid',
-  //   {
-  //     json: true,
-  //   },
-  // );
-
-  // NEW:
-  const res = await fetch('https://www.onemap.gov.sg/', {
-    returnResponse: true,
-  });
-  const cookie = res.headers['set-cookie'][0]; // string
-  const token = cookie.match(/OMITN=(.*?);/)[1];
-
   const srslyMissingServices = [];
 
   for (let i = 0; i < missingServices.length; i++) {
@@ -54,26 +39,11 @@ const missingServices = failedKMLs.map((d) => {
     if (!missingService) continue;
     const [number, _pat, data] = missingService;
     try {
-      // OLD:
-      // `https://developers.onemap.sg/publicapi/busexp/getBusRoutes?busNo=${number}&token=${access_token}`,
-      // NEW: https://www.onemap.gov.sg/omapp/getBusRoutes?busSvcNo=13&startBusStopNo=10
-      const direction1 = await fetch(
-        `https://www.onemap.gov.sg/omapp/getBusRoutes?busSvcNo=${number}&startBusStopNo=${data[0].stops[0]}`,
-        { json: true, headers: { Cookie: `OMITN=${token}` } },
+      // NEW API: https://www.onemap.gov.sg/omapi/om/api/private/busexp/getBusRoutes?busNo=140
+      const directions = await fetch(
+        `https://www.onemap.gov.sg/omapi/om/api/private/busexp/getBusRoutes?busNo=${number}`,
+        { json: true, headers: { Referer: 'https://www.onemap.gov.sg/bus' } },
       );
-      const direction2 = data[1]
-        ? await fetch(
-            `https://www.onemap.gov.sg/omapp/getBusRoutes?busSvcNo=${number}&startBusStopNo=${data[1].stops[0]}`,
-            { json: true, headers: { Cookie: `OMITN=${token}` } },
-          )
-        : null;
-      const diff =
-        direction2?.[0]?.START_BUS_STOP_NUM !==
-        direction1?.[0]?.START_BUS_STOP_NUM;
-      const directions = {
-        BUS_DIRECTION_ONE: direction1 || direction2,
-        BUS_DIRECTION_TWO: diff ? direction2 : null,
-      };
       if (directions.BUS_DIRECTION_ONE) {
         const firstBusStop = directions.BUS_DIRECTION_ONE[0].START_BUS_STOP_NUM;
         const dataFirstBusStop = data[0].stops[0];
