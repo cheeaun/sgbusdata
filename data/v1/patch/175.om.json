@@ -2,6 +2,613 @@
 	"BUS_DIRECTION_ONE": [
 		{
 			"BUS_SEQUENCE": 1,
+			"START_BUS_STOP": "CLEMENTI INT",
+			"END_BUS_STOP": "NTUC FAIRPRICE",
+			"START_BUS_STOP_NUM": "17009",
+			"START_BUS_STOP_LATLNG": "1.3149157287062903, 103.76412225438477",
+			"END_BUS_STOP_NUM": "17239",
+			"END_BUS_STOP_LATLNG": "1.3124375948772897, 103.76584889459802",
+			"DISTANCE": "0",
+			"GEOMETRIES": "iu_GijixRGv@hBAdA@DAD?N?ZGTKJEDCDAPSDE@A??LM??@?RSHKXW@CBA`@a@n@q@rAsA@C@C@I?EAECKo@o@WU_A_A??OO"
+		},
+		{
+			"BUS_SEQUENCE": 2,
+			"START_BUS_STOP": "NTUC FAIRPRICE",
+			"END_BUS_STOP": "OPP BLK 460",
+			"START_BUS_STOP_NUM": "17239",
+			"START_BUS_STOP_LATLNG": "1.3124375948772897, 103.76584889459802",
+			"END_BUS_STOP_NUM": "17259",
+			"END_BUS_STOP_LATLNG": "1.3109279821765505, 103.7674607401076",
+			"DISTANCE": "0.6",
+			"GEOMETRIES": "ei_GcxixRMOi@g@SUQQQO`@i@??@?\\e@BE@A????@A??????@A??????????v@_BHWJ[@A@C@G@C???A@???BIFBB@F@j@PTH`Cz@B@"
+		},
+		{
+			"BUS_SEQUENCE": 3,
+			"START_BUS_STOP": "OPP BLK 460",
+			"END_BUS_STOP": "BLK 601",
+			"START_BUS_STOP_NUM": "17259",
+			"START_BUS_STOP_LATLNG": "1.3109279821765505, 103.7674607401076",
+			"END_BUS_STOP_NUM": "17049",
+			"END_BUS_STOP_LATLNG": "1.3047063820094242, 103.76459821893782",
+			"DISTANCE": "1",
+			"GEOMETRIES": "q`_G_ajxR??@?@@????LD`EfBd@Vj@X`D`B\\P\\NDBhAv@~@hAl@dANTL`@N`@x@~B`AVz@B^SVO~@_@`Bq@j@S`A_@"
+		},
+		{
+			"BUS_SEQUENCE": 4,
+			"START_BUS_STOP": "BLK 601",
+			"END_BUS_STOP": "OPP KENT RIDGE SEC SCH",
+			"START_BUS_STOP_NUM": "17049",
+			"START_BUS_STOP_LATLNG": "1.3047063820094242, 103.76459821893782",
+			"END_BUS_STOP_NUM": "17039",
+			"END_BUS_STOP_LATLNG": "1.3015316464856042, 103.76606427132045",
+			"DISTANCE": "1.9",
+			"GEOMETRIES": "ay}FaoixR?A`A_@RG??DC^MnAa@zB{@hAa@NG|CaA??z@W"
+		},
+		{
+			"BUS_SEQUENCE": 5,
+			"START_BUS_STOP": "OPP KENT RIDGE SEC SCH",
+			"END_BUS_STOP": "BEFORE WEST COAST CRESCENT",
+			"START_BUS_STOP_NUM": "17039",
+			"START_BUS_STOP_LATLNG": "1.3015316464856042, 103.76606427132045",
+			"END_BUS_STOP_NUM": "17089",
+			"END_BUS_STOP_LATLNG": "1.299683888866327, 103.76542500045556",
+			"DISTANCE": "2.3",
+			"GEOMETRIES": "ee}F_xixRDCHA`GkBPGz@|E"
+		},
+		{
+			"BUS_SEQUENCE": 6,
+			"START_BUS_STOP": "BEFORE WEST COAST CRESCENT",
+			"END_BUS_STOP": "AFT WEST COAST LK",
+			"START_BUS_STOP_NUM": "17089",
+			"START_BUS_STOP_LATLNG": "1.299683888866327, 103.76542500045556",
+			"END_BUS_STOP_NUM": "17369",
+			"END_BUS_STOP_LATLNG": "1.298405832968555, 103.76386861099265",
+			"DISTANCE": "2.6",
+			"GEOMETRIES": "ez|F{tixRX`BDVx@vEf@Zl@Rd@Qz@["
+		},
+		{
+			"BUS_SEQUENCE": 7,
+			"START_BUS_STOP": "AFT WEST COAST LK",
+			"END_BUS_STOP": "WEST COAST VIEW",
+			"START_BUS_STOP_NUM": "17369",
+			"START_BUS_STOP_LATLNG": "1.298405832968555, 103.76386861099265",
+			"END_BUS_STOP_NUM": "17309",
+			"END_BUS_STOP_LATLNG": "1.295370833020227, 103.7652455560114",
+			"DISTANCE": "2.9",
+			"GEOMETRIES": "sq|FgjixR|@]~OyF"
+		},
+		{
+			"BUS_SEQUENCE": 8,
+			"START_BUS_STOP": "WEST COAST VIEW",
+			"END_BUS_STOP": "BEF CLEMENTI RD",
+			"START_BUS_STOP_NUM": "17309",
+			"START_BUS_STOP_LATLNG": "1.295370833020227, 103.7652455560114",
+			"END_BUS_STOP_NUM": "17359",
+			"END_BUS_STOP_LATLNG": "1.2933372220035542, 103.7662175000262",
+			"DISTANCE": "3.3",
+			"GEOMETRIES": "u~{F_sixR|@[hDmAdBo@jAa@"
+		},
+		{
+			"BUS_SEQUENCE": 9,
+			"START_BUS_STOP": "BEF CLEMENTI RD",
+			"END_BUS_STOP": "OPP WEST COAST PK",
+			"START_BUS_STOP_NUM": "17359",
+			"START_BUS_STOP_LATLNG": "1.2933372220035542, 103.7662175000262",
+			"END_BUS_STOP_NUM": "17299",
+			"END_BUS_STOP_LATLNG": "1.2906055560307412, 103.77005055601747",
+			"DISTANCE": "3.5",
+			"GEOMETRIES": "{q{F{xixRRG|Au@v@i@`Am@XWn@s@RSP_@r@{Aj@uAp@cC@?j@eCTaA"
+		},
+		{
+			"BUS_SEQUENCE": 10,
+			"START_BUS_STOP": "OPP WEST COAST PK",
+			"END_BUS_STOP": "BEF WHOLESALE CTR",
+			"START_BUS_STOP_NUM": "17299",
+			"START_BUS_STOP_LATLNG": "1.2906055560307412, 103.77005055601747",
+			"END_BUS_STOP_NUM": "16249",
+			"END_BUS_STOP_LATLNG": "1.2892827709921515, 103.77400682988979",
+			"DISTANCE": "3.9",
+			"GEOMETRIES": "i`{FoqjxRbCaKFWdBoHXiA?A"
+		},
+		{
+			"BUS_SEQUENCE": 11,
+			"START_BUS_STOP": "BEF WHOLESALE CTR",
+			"END_BUS_STOP": "OPP WHOLESALE CTR",
+			"START_BUS_STOP_NUM": "16249",
+			"START_BUS_STOP_LATLNG": "1.2892827709921515, 103.77400682988979",
+			"END_BUS_STOP_NUM": "16239",
+			"END_BUS_STOP_LATLNG": "1.2864352780039283, 103.77893444397212",
+			"DISTANCE": "4.5",
+			"GEOMETRIES": "}wzFejkxRXkAlAcE|AgEPc@HSj@oA|@gBvAuB~AeBFG`@_@"
+		},
+		{
+			"BUS_SEQUENCE": 12,
+			"START_BUS_STOP": "OPP WHOLESALE CTR",
+			"END_BUS_STOP": "HAW PAR VILLA STN",
+			"START_BUS_STOP_NUM": "16239",
+			"START_BUS_STOP_LATLNG": "1.2864352780039283, 103.77893444397212",
+			"END_BUS_STOP_NUM": "16229",
+			"END_BUS_STOP_LATLNG": "1.283009073187703, 103.78159959377588",
+			"DISTANCE": "5.1",
+			"GEOMETRIES": "ofzFqhlxRl@k@LKbAs@vEgDnCmBLK\\Ub@[@AlBsA"
+		},
+		{
+			"BUS_SEQUENCE": 13,
+			"START_BUS_STOP": "HAW PAR VILLA STN",
+			"END_BUS_STOP": "OPP WHARVES BLDG",
+			"START_BUS_STOP_NUM": "16229",
+			"START_BUS_STOP_LATLNG": "1.283009073187703, 103.78159959377588",
+			"END_BUS_STOP_NUM": "16219",
+			"END_BUS_STOP_LATLNG": "1.280158333012452, 103.78362361100768",
+			"DISTANCE": "5.6",
+			"GEOMETRIES": "gqyFgylxR|AgAh@]`C{AfH}E"
+		},
+		{
+			"BUS_SEQUENCE": 14,
+			"START_BUS_STOP": "OPP WHARVES BLDG",
+			"END_BUS_STOP": "PASIR VIEW PK",
+			"START_BUS_STOP_NUM": "16219",
+			"START_BUS_STOP_LATLNG": "1.280158333012452, 103.78362361100768",
+			"END_BUS_STOP_NUM": "15219",
+			"END_BUS_STOP_LATLNG": "1.2781811408889514, 103.78701031206879",
+			"DISTANCE": "6",
+			"GEOMETRIES": "u_yFgfmxRvA_Ap@o@n@q@f@y@`@_A`@}@R{@Po@????@ANs@XwAXyA"
+		},
+		{
+			"BUS_SEQUENCE": 15,
+			"START_BUS_STOP": "PASIR VIEW PK",
+			"END_BUS_STOP": "BEF PASIR PANJANG STN",
+			"START_BUS_STOP_NUM": "15219",
+			"START_BUS_STOP_LATLNG": "1.2781811408889514, 103.78701031206879",
+			"END_BUS_STOP_NUM": "15209",
+			"END_BUS_STOP_LATLNG": "1.2770656192868397, 103.79023432729964",
+			"DISTANCE": "6.4",
+			"GEOMETRIES": "csxFu{mxRVkAZqAp@oCzAgGXmA??"
+		},
+		{
+			"BUS_SEQUENCE": 16,
+			"START_BUS_STOP": "BEF PASIR PANJANG STN",
+			"END_BUS_STOP": "OPP CURRENCY HSE",
+			"START_BUS_STOP_NUM": "15209",
+			"START_BUS_STOP_LATLNG": "1.2770656192868397, 103.79023432729964",
+			"END_BUS_STOP_NUM": "15199",
+			"END_BUS_STOP_LATLNG": "1.276042408536861, 103.7931839963981",
+			"DISTANCE": "6.8",
+			"GEOMETRIES": "glxFyonxR@A?CNo@????v@_Dx@eDZwAh@{B"
+		},
+		{
+			"BUS_SEQUENCE": 17,
+			"START_BUS_STOP": "OPP CURRENCY HSE",
+			"END_BUS_STOP": "HARBOURSIDE IND BLDG 2",
+			"START_BUS_STOP_NUM": "15199",
+			"START_BUS_STOP_LATLNG": "1.276042408536861, 103.7931839963981",
+			"END_BUS_STOP_NUM": "15169",
+			"END_BUS_STOP_LATLNG": "1.2748149926916534, 103.79673994290197",
+			"DISTANCE": "7.1",
+			"GEOMETRIES": "}exFiboxR??FWLc@zBqJXcAn@cCVoA@?"
+		},
+		{
+			"BUS_SEQUENCE": 18,
+			"START_BUS_STOP": "HARBOURSIDE IND BLDG 2",
+			"END_BUS_STOP": "MAPLETREE BUSINESS CITY",
+			"START_BUS_STOP_NUM": "15169",
+			"START_BUS_STOP_LATLNG": "1.2748149926916534, 103.79673994290197",
+			"END_BUS_STOP_NUM": "15159",
+			"END_BUS_STOP_LATLNG": "1.274263037737842, 103.79839350407596",
+			"DISTANCE": "7.6",
+			"GEOMETRIES": "g~wFoxoxR?A??No@^_Bf@mBXiA"
+		},
+		{
+			"BUS_SEQUENCE": 19,
+			"START_BUS_STOP": "MAPLETREE BUSINESS CITY",
+			"END_BUS_STOP": "OPP LABRADOR PK STN",
+			"START_BUS_STOP_NUM": "15159",
+			"START_BUS_STOP_LATLNG": "1.274263037737842, 103.79839350407596",
+			"END_BUS_STOP_NUM": "15149",
+			"END_BUS_STOP_LATLNG": "1.2734187185474528, 103.80055546758588",
+			"DISTANCE": "7.8",
+			"GEOMETRIES": "uzwFybpxR@E????tBiIj@_B??"
+		},
+		{
+			"BUS_SEQUENCE": 20,
+			"START_BUS_STOP": "OPP LABRADOR PK STN",
+			"END_BUS_STOP": "ALEXANDRA RETAIL CTR",
+			"START_BUS_STOP_NUM": "15149",
+			"START_BUS_STOP_LATLNG": "1.2734187185474528, 103.80055546758588",
+			"END_BUS_STOP_NUM": "15041",
+			"END_BUS_STOP_LATLNG": "1.274633223304384, 103.80189284206972",
+			"DISTANCE": "8.1",
+			"GEOMETRIES": "quwFippxR?A@?Vs@z@eCNa@C]MWUQ]IkAMiAFA?c@DO?E@o@BG???A?A?C@??K?"
+		},
+		{
+			"BUS_SEQUENCE": 21,
+			"START_BUS_STOP": "ALEXANDRA RETAIL CTR",
+			"END_BUS_STOP": "ALEXANDRA PT",
+			"START_BUS_STOP_NUM": "15041",
+			"START_BUS_STOP_LATLNG": "1.274633223304384, 103.80189284206972",
+			"END_BUS_STOP_NUM": "15051",
+			"END_BUS_STOP_LATLNG": "1.2769773415690417, 103.8023821812638",
+			"DISTANCE": "8.5",
+			"GEOMETRIES": "o}wFqypxRw@DiAEmAEMCUGUGkA[g@MeAYA?CA??"
+		},
+		{
+			"BUS_SEQUENCE": 22,
+			"START_BUS_STOP": "ALEXANDRA PT",
+			"END_BUS_STOP": "THE INTERLACE",
+			"START_BUS_STOP_NUM": "15051",
+			"START_BUS_STOP_LATLNG": "1.2769773415690417, 103.8023821812638",
+			"END_BUS_STOP_NUM": "14369",
+			"END_BUS_STOP_LATLNG": "1.2815363575833454, 103.80365927155158",
+			"DISTANCE": "8.8",
+			"GEOMETRIES": "ykxFq|pxRCAA?e@OA?a@MMEq@SeCg@KAaASy@@}@NiFhBIDMFc@PA@MDOHaAb@GBIBQw@@{@VoE?A"
+		},
+		{
+			"BUS_SEQUENCE": 24,
+			"START_BUS_STOP": "THE INTERLACE",
+			"END_BUS_STOP": "OPP BLK 114",
+			"START_BUS_STOP_NUM": "14369",
+			"START_BUS_STOP_LATLNG": "1.2815363575833454, 103.80365927155158",
+			"END_BUS_STOP_NUM": "14219",
+			"END_BUS_STOP_LATLNG": "1.2821864793657822, 103.80684961252828",
+			"DISTANCE": "9.5",
+			"GEOMETRIES": "ggyFucqxR@E?IA_AGYQs@q@yCGYEOG[YkAS{@COEOEiAAA?Q"
+		},
+		{
+			"BUS_SEQUENCE": 25,
+			"START_BUS_STOP": "OPP BLK 114",
+			"END_BUS_STOP": "AFT HEWLETT PACKARD",
+			"START_BUS_STOP_NUM": "14219",
+			"START_BUS_STOP_LATLNG": "1.2821864793657822, 103.80684961252828",
+			"END_BUS_STOP_NUM": "14209",
+			"END_BUS_STOP_LATLNG": "1.281763977063694, 103.80958869712057",
+			"DISTANCE": "9.9",
+			"GEOMETRIES": "ilyFywqxRAY?ADkA?KbA}IDWDe@BM?A"
+		},
+		{
+			"BUS_SEQUENCE": 26,
+			"START_BUS_STOP": "AFT HEWLETT PACKARD",
+			"END_BUS_STOP": "BLK 118",
+			"START_BUS_STOP_NUM": "14209",
+			"START_BUS_STOP_LATLNG": "1.281763977063694, 103.80958869712057",
+			"END_BUS_STOP_NUM": "14199",
+			"END_BUS_STOP_LATLNG": "1.2813167673540633, 103.81275056370775",
+			"DISTANCE": "10.2",
+			"GEOMETRIES": "qiyFyhrxRHu@`@gD?G@EBe@VaEBi@@QDs@Dq@@A?A"
+		},
+		{
+			"BUS_SEQUENCE": 27,
+			"START_BUS_STOP": "BLK 118",
+			"END_BUS_STOP": "BEF BT MERAH CTRL",
+			"START_BUS_STOP_NUM": "14199",
+			"START_BUS_STOP_LATLNG": "1.2813167673540633, 103.81275056370775",
+			"END_BUS_STOP_NUM": "10331",
+			"END_BUS_STOP_LATLNG": "1.2813630662883913, 103.81834423228646",
+			"DISTANCE": "10.6",
+			"GEOMETRIES": "sfyFs|rxRBe@\\qFJsBDu@HoC@k@Hs@Jc@Tg@vAyBFMR]JQYM]OCCYUi@c@gBuAMM"
+		},
+		{
+			"BUS_SEQUENCE": 28,
+			"START_BUS_STOP": "BEF BT MERAH CTRL",
+			"END_BUS_STOP": "BLK 119",
+			"START_BUS_STOP_NUM": "10331",
+			"START_BUS_STOP_LATLNG": "1.2813630662883913, 103.81834423228646",
+			"END_BUS_STOP_NUM": "10089",
+			"END_BUS_STOP_LATLNG": "1.2829233224568917, 103.82165660905858",
+			"DISTANCE": "11.3",
+			"GEOMETRIES": "}fyFi`txR??AAECAAyAqA][SQg@a@iAaAi@k@e@Wc@WA?AAKGEC??CCIEFW@A?A\\uAPq@n@sB??"
+		},
+		{
+			"BUS_SEQUENCE": 29,
+			"START_BUS_STOP": "BLK 119",
+			"END_BUS_STOP": "BLK 201",
+			"START_BUS_STOP_NUM": "10089",
+			"START_BUS_STOP_LATLNG": "1.2829233224568917, 103.82165660905858",
+			"END_BUS_STOP_NUM": "10079",
+			"END_BUS_STOP_LATLNG": "1.2803950142785945, 103.82708906887608",
+			"DISTANCE": "11.8",
+			"GEOMETRIES": "spyFattxR@??C@CTu@n@kB@C@A??Xy@d@uA\\aAFS@A????@AFSBIFMFS@C?A@A??p@oBf@uAHS@C@C@CBGBE@C@CBGn@}A@E??BEr@aB@EBEBGf@mA@C@AL]@A"
+		},
+		{
+			"BUS_SEQUENCE": 30,
+			"START_BUS_STOP": "BLK 201",
+			"END_BUS_STOP": "BLK 55",
+			"START_BUS_STOP_NUM": "10079",
+			"START_BUS_STOP_LATLNG": "1.2803950142785945, 103.82708906887608",
+			"END_BUS_STOP_NUM": "06051",
+			"END_BUS_STOP_LATLNG": "1.2847598095997153, 103.83405671725488",
+			"DISTANCE": "12.5",
+			"GEOMETRIES": "q`yF{uuxRn@}AXw@j@eAd@{@ImAMa@_@e@gBcCq@oAeCcDyAkCqAcD_B_Fy@wBqA_FYYk@I_@RYNe@pAOh@Op@MDcBnAA?"
+		},
+		{
+			"BUS_SEQUENCE": 32,
+			"START_BUS_STOP": "BLK 55",
+			"END_BUS_STOP": "HAVELOCK STN EXIT 2",
+			"START_BUS_STOP_NUM": "06051",
+			"START_BUS_STOP_LATLNG": "1.2847598095997153, 103.83405671725488",
+			"END_BUS_STOP_NUM": "06071",
+			"END_BUS_STOP_LATLNG": "1.286672996844686, 103.83360504157812",
+			"DISTANCE": "13.9",
+			"GEOMETRIES": "_}yFebwxRA@CBw@j@e@X_@Jm@?yA?iBC"
+		},
+		{
+			"BUS_SEQUENCE": 33,
+			"START_BUS_STOP": "HAVELOCK STN EXIT 2",
+			"END_BUS_STOP": "HAVELOCK STN EXIT 3",
+			"START_BUS_STOP_NUM": "06071",
+			"START_BUS_STOP_LATLNG": "1.286672996844686, 103.83360504157812",
+			"END_BUS_STOP_NUM": "06081",
+			"END_BUS_STOP_LATLNG": "1.2882518910865663, 103.83358685788522",
+			"DISTANCE": "14.1",
+			"GEOMETRIES": "uhzFq_wxRY?E?E?]AS@Y@{@?mCJ"
+		},
+		{
+			"BUS_SEQUENCE": 34,
+			"START_BUS_STOP": "HAVELOCK STN EXIT 3",
+			"END_BUS_STOP": "AFT BLK 87",
+			"START_BUS_STOP_NUM": "06081",
+			"START_BUS_STOP_LATLNG": "1.2882518910865663, 103.83358685788522",
+			"END_BUS_STOP_NUM": "06131",
+			"END_BUS_STOP_LATLNG": "1.2915247220083341, 103.8322275000151",
+			"DISTANCE": "14.3",
+			"GEOMETRIES": "qrzFc_wxRK?Q@C?A?mCNmAN]Dq@Ro@TwBx@u@f@qA|@UPA@C@"
+		},
+		{
+			"BUS_SEQUENCE": 35,
+			"START_BUS_STOP": "AFT BLK 87",
+			"END_BUS_STOP": "OPP GREAT WORLD CITY",
+			"START_BUS_STOP_NUM": "06131",
+			"START_BUS_STOP_LATLNG": "1.2915247220083341, 103.8322275000151",
+			"END_BUS_STOP_NUM": "13121",
+			"END_BUS_STOP_LATLNG": "1.2940922167927358, 103.83083776407953",
+			"DISTANCE": "14.7",
+			"GEOMETRIES": "mg{F{vvxRsC~BaBz@cAVyBf@_@Je@N"
+		},
+		{
+			"BUS_SEQUENCE": 36,
+			"START_BUS_STOP": "OPP GREAT WORLD CITY",
+			"END_BUS_STOP": "AFT ZION FULL GOSPEL CH",
+			"START_BUS_STOP_NUM": "13121",
+			"START_BUS_STOP_LATLNG": "1.2940922167927358, 103.83083776407953",
+			"END_BUS_STOP_NUM": "13141",
+			"END_BUS_STOP_LATLNG": "1.2976368283454525, 103.82997986347918",
+			"DISTANCE": "15",
+			"GEOMETRIES": "gw{FcnvxRMBy@X_F|AuJh@A???C@S???G?"
+		},
+		{
+			"BUS_SEQUENCE": 37,
+			"START_BUS_STOP": "AFT ZION FULL GOSPEL CH",
+			"END_BUS_STOP": "OPP ORCHARD STN EXIT 12",
+			"START_BUS_STOP_NUM": "13141",
+			"START_BUS_STOP_LATLNG": "1.2976368283454525, 103.82997986347918",
+			"END_BUS_STOP_NUM": "13191",
+			"END_BUS_STOP_LATLNG": "1.3024639930272206, 103.8297824529634",
+			"DISTANCE": "15.4",
+			"GEOMETRIES": "gm|F{hvxRwDJuA@q@COFC@E@WHcA^iEpA{AGaBg@{As@QICAEC"
+		},
+		{
+			"BUS_SEQUENCE": 38,
+			"START_BUS_STOP": "OPP ORCHARD STN EXIT 12",
+			"END_BUS_STOP": "ORCHARD STN/LUCKY PLAZA",
+			"START_BUS_STOP_NUM": "13191",
+			"START_BUS_STOP_LATLNG": "1.3024639930272206, 103.8297824529634",
+			"END_BUS_STOP_NUM": "09048",
+			"END_BUS_STOP_LATLNG": "1.3038386091597853, 103.83417110933767",
+			"DISTANCE": "16",
+			"GEOMETRIES": "}j}F}gvxRe@SA?CAAAw@_@m@Wq@[gAg@C?AA]OMIgAm@]WUUuAwAMKP_@b@}@n@sA?????????AJQ@A???A???????????A????@????A?????A@A??z@gBv@eB?A??@C??@A???A????????????@A?????A@????ALY???????????????ADG"
+		},
+		{
+			"BUS_SEQUENCE": 39,
+			"START_BUS_STOP": "ORCHARD STN/LUCKY PLAZA",
+			"END_BUS_STOP": "OPP SOMERSET STN",
+			"START_BUS_STOP_NUM": "09048",
+			"START_BUS_STOP_LATLNG": "1.3038386091597853, 103.83417110933767",
+			"END_BUS_STOP_NUM": "09038",
+			"END_BUS_STOP_LATLNG": "1.3015426245056314, 103.83852481842338",
+			"DISTANCE": "16.7",
+			"GEOMETRIES": "us}FabwxRN_@J[~CeHHMBEBEHMn@sA`@_A??@A?A????@??A?????A??@??C@??A?A??@A?ABE@C?????A????@AHQ?A??f@mAFQvA}D"
+		},
+		{
+			"BUS_SEQUENCE": 40,
+			"START_BUS_STOP": "OPP SOMERSET STN",
+			"END_BUS_STOP": "CONCORDE HOTEL S'PORE",
+			"START_BUS_STOP_NUM": "09038",
+			"START_BUS_STOP_LATLNG": "1.3015426245056314, 103.83852481842338",
+			"END_BUS_STOP_NUM": "08138",
+			"END_BUS_STOP_LATLNG": "1.3004785730821022, 103.84184700607595",
+			"DISTANCE": "17.3",
+			"GEOMETRIES": "ge}Fs}wxR?C@AN_@FU`@eBn@mCh@gCPw@?A?A@C@CHa@\\cBDQ@C"
+		},
+		{
+			"BUS_SEQUENCE": 41,
+			"START_BUS_STOP": "CONCORDE HOTEL S'PORE",
+			"END_BUS_STOP": "DHOBY GHAUT STN",
+			"START_BUS_STOP_NUM": "08138",
+			"START_BUS_STOP_LATLNG": "1.3004785730821022, 103.84184700607595",
+			"END_BUS_STOP_NUM": "08057",
+			"END_BUS_STOP_LATLNG": "1.2993099727973372, 103.84529021429746",
+			"DISTANCE": "17.7",
+			"GEOMETRIES": "k~|FkrxxR?A@E@E@EbAwEFUZwAH_@@C@Cl@qCBOJa@@CBC\\{A?C@A?A"
+		},
+		{
+			"BUS_SEQUENCE": 42,
+			"START_BUS_STOP": "DHOBY GHAUT STN",
+			"END_BUS_STOP": "BENCOOLEN STN EXIT B",
+			"START_BUS_STOP_NUM": "08057",
+			"START_BUS_STOP_LATLNG": "1.2993099727973372, 103.84529021429746",
+			"END_BUS_STOP_NUM": "08069",
+			"END_BUS_STOP_LATLNG": "1.2982138225089312, 103.84936128375956",
+			"DISTANCE": "18.1",
+			"GEOMETRIES": "kw|F}gyxR@A^cBj@aCBO@E^aBE_BGeCJu@Pq@pAiBJM"
+		},
+		{
+			"BUS_SEQUENCE": 43,
+			"START_BUS_STOP": "BENCOOLEN STN EXIT B",
+			"END_BUS_STOP": "AFT BRAS BASAH STN EXIT A",
+			"START_BUS_STOP_NUM": "08069",
+			"START_BUS_STOP_LATLNG": "1.2982138225089312, 103.84936128375956",
+			"END_BUS_STOP_NUM": "04179",
+			"END_BUS_STOP_LATLNG": "1.2964791630674146, 103.85147164487203",
+			"DISTANCE": "18.6",
+			"GEOMETRIES": "ip|FcazxR@CDGZc@^g@`BuBxBwCv@_A"
+		},
+		{
+			"BUS_SEQUENCE": 44,
+			"START_BUS_STOP": "AFT BRAS BASAH STN EXIT A",
+			"END_BUS_STOP": "HOTEL GRAND PACIFIC",
+			"START_BUS_STOP_NUM": "04179",
+			"START_BUS_STOP_LATLNG": "1.2964791630674146, 103.85147164487203",
+			"END_BUS_STOP_NUM": "01012",
+			"END_BUS_STOP_LATLNG": "1.2968482548764673, 103.85253591654009",
+			"DISTANCE": "18.9",
+			"GEOMETRIES": "qe|FinzxRDIBA@CjAwA}CmC"
+		},
+		{
+			"BUS_SEQUENCE": 45,
+			"START_BUS_STOP": "HOTEL GRAND PACIFIC",
+			"END_BUS_STOP": "OPP BUGIS STN EXIT C",
+			"START_BUS_STOP_NUM": "01012",
+			"START_BUS_STOP_LATLNG": "1.2968482548764673, 103.85253591654009",
+			"END_BUS_STOP_NUM": "01112",
+			"END_BUS_STOP_LATLNG": "1.3000921283908096, 103.85520027125816",
+			"DISTANCE": "19.1",
+			"GEOMETRIES": "wg|F_vzxRCCMKEEa@YSQoA_AIGIG??{C{BKIIG{@o@uCaCIGIGg@a@EC??EEAAA??AA?CC"
+		},
+		{
+			"BUS_SEQUENCE": 46,
+			"START_BUS_STOP": "OPP BUGIS STN EXIT C",
+			"END_BUS_STOP": "AFT VICTORIA LN",
+			"START_BUS_STOP_NUM": "01112",
+			"START_BUS_STOP_LATLNG": "1.3000921283908096, 103.85520027125816",
+			"END_BUS_STOP_NUM": "01121",
+			"END_BUS_STOP_LATLNG": "1.3039380969104806, 103.85867999243209",
+			"DISTANCE": "19.6",
+			"GEOMETRIES": "_||Fuf{xR??_CkBKI_Aw@A?IIECSQqAeAs@m@KI}CiCIIMM}@}@]_@c@c@UW??[[IKEE"
+		},
+		{
+			"BUS_SEQUENCE": 47,
+			"START_BUS_STOP": "AFT VICTORIA LN",
+			"END_BUS_STOP": "OPP BLK 461",
+			"START_BUS_STOP_NUM": "01121",
+			"START_BUS_STOP_LATLNG": "1.3039380969104806, 103.85867999243209",
+			"END_BUS_STOP_NUM": "01211",
+			"END_BUS_STOP_LATLNG": "1.3055180352326767, 103.86054495160322",
+			"DISTANCE": "20.2",
+			"GEOMETRIES": "{s}Fk|{xR?AMMw@_AmA_BsA_BGIII{@aAII?A"
+		},
+		{
+			"BUS_SEQUENCE": 48,
+			"START_BUS_STOP": "OPP BLK 461",
+			"END_BUS_STOP": "LAVENDER STN EXIT B",
+			"START_BUS_STOP_NUM": "01211",
+			"START_BUS_STOP_LATLNG": "1.3055180352326767, 103.86054495160322",
+			"END_BUS_STOP_NUM": "01311",
+			"END_BUS_STOP_LATLNG": "1.3070916463394036, 103.86219695240975",
+			"DISTANCE": "20.5",
+			"GEOMETRIES": "{}}F}g|xRCCGGoC}CyCeD??"
+		},
+		{
+			"BUS_SEQUENCE": 49,
+			"START_BUS_STOP": "LAVENDER STN EXIT B",
+			"END_BUS_STOP": "AFT KALLANG RD",
+			"START_BUS_STOP_NUM": "01311",
+			"START_BUS_STOP_LATLNG": "1.3070916463394036, 103.86219695240975",
+			"END_BUS_STOP_NUM": "07371",
+			"END_BUS_STOP_LATLNG": "1.309319522603759, 103.86354659879268",
+			"DISTANCE": "20.8",
+			"GEOMETRIES": "qg~Fmr|xR??MOg@k@s@o@o@m@CCq@w@[Y}@}@UUKKOBSDG@e@HC?MDq@XGD"
+		},
+		{
+			"BUS_SEQUENCE": 50,
+			"START_BUS_STOP": "AFT KALLANG RD",
+			"END_BUS_STOP": "BENDEMEER STN EXIT A",
+			"START_BUS_STOP_NUM": "07371",
+			"START_BUS_STOP_LATLNG": "1.309319522603759, 103.86354659879268",
+			"END_BUS_STOP_NUM": "60011",
+			"END_BUS_STOP_LATLNG": "1.3138089962104431, 103.86304935771972",
+			"DISTANCE": "21.1",
+			"GEOMETRIES": "{v~Fa{|xR]T??A@CBw@d@iD|BSNeBhA??MHq@d@EBKFEB[TC@MHKGo@g@cAu@qBsAgBsA"
+		},
+		{
+			"BUS_SEQUENCE": 51,
+			"START_BUS_STOP": "BENDEMEER STN EXIT A",
+			"END_BUS_STOP": "CHUBB S'PORE",
+			"START_BUS_STOP_NUM": "60011",
+			"START_BUS_STOP_LATLNG": "1.3138089962104431, 103.86304935771972",
+			"END_BUS_STOP_NUM": "60021",
+			"END_BUS_STOP_LATLNG": "1.3182859608722692, 103.86669874193288",
+			"DISTANCE": "21.7",
+			"GEOMETRIES": "{q_Gsw|xR}BeBcAw@sAaA]QSMKIgCoBcBmAeAw@YS[UOK}@o@KIII[Us@{@AACG"
+		},
+		{
+			"BUS_SEQUENCE": 52,
+			"START_BUS_STOP": "CHUBB S'PORE",
+			"END_BUS_STOP": "BEF GEYLANG BAHRU STN",
+			"START_BUS_STOP_NUM": "60021",
+			"START_BUS_STOP_LATLNG": "1.3182859608722692, 103.86669874193288",
+			"END_BUS_STOP_NUM": "60031",
+			"END_BUS_STOP_LATLNG": "1.3204097072077001, 103.87007832529532",
+			"DISTANCE": "22.3",
+			"GEOMETRIES": "qm`Gin}xR}G}LaAiBGKKQCEAACGKQc@y@"
+		},
+		{
+			"BUS_SEQUENCE": 53,
+			"START_BUS_STOP": "BEF GEYLANG BAHRU STN",
+			"END_BUS_STOP": "BLK 82",
+			"START_BUS_STOP_NUM": "60031",
+			"START_BUS_STOP_LATLNG": "1.3204097072077001, 103.87007832529532",
+			"END_BUS_STOP_NUM": "80291",
+			"END_BUS_STOP_LATLNG": "1.3195596877041043, 103.87229334189442",
+			"DISTANCE": "22.8",
+			"GEOMETRIES": "_{`Gkc~xRi@aAc@w@y@_BGK??~CaBh@SDC??DALGv@YXM"
+		},
+		{
+			"BUS_SEQUENCE": 54,
+			"START_BUS_STOP": "BLK 82",
+			"END_BUS_STOP": "BEF BLK 19",
+			"START_BUS_STOP_NUM": "80291",
+			"START_BUS_STOP_LATLNG": "1.3195596877041043, 103.87229334189442",
+			"END_BUS_STOP_NUM": "80301",
+			"END_BUS_STOP_LATLNG": "1.3164332902068112, 103.87348616263844",
+			"DISTANCE": "23.1",
+			"GEOMETRIES": "yu`G}o~xRBA@?@AfAc@PGbA_@zBu@XKv@WpA]@AB?TIdAUTAf@G"
+		},
+		{
+			"BUS_SEQUENCE": 55,
+			"START_BUS_STOP": "BEF BLK 19",
+			"END_BUS_STOP": "BLK 3B",
+			"START_BUS_STOP_NUM": "80301",
+			"START_BUS_STOP_LATLNG": "1.3164332902068112, 103.87348616263844",
+			"END_BUS_STOP_NUM": "80311",
+			"END_BUS_STOP_LATLNG": "1.3144333329852536, 103.87260027800176",
+			"DISTANCE": "23.5",
+			"GEOMETRIES": "sb`Gqw~xRN@r@B`BTNBJB@@@?B?|@^f@\\b@`@????@@B@HH?@@@?@JN@@"
+		},
+		{
+			"BUS_SEQUENCE": 56,
+			"START_BUS_STOP": "BLK 3B",
+			"END_BUS_STOP": "OPP KALLANG STN/BLK 2C",
+			"START_BUS_STOP_NUM": "80311",
+			"START_BUS_STOP_LATLNG": "1.3144333329852536, 103.87260027800176",
+			"END_BUS_STOP_NUM": "80109",
+			"END_BUS_STOP_LATLNG": "1.3132447374810665, 103.87143015859802",
+			"DISTANCE": "23.7",
+			"GEOMETRIES": "_w_Ger~xRPV@B@@Tf@Nb@DLl@pB`@Zp@PBA????DC~@g@@A@???"
+		},
+		{
+			"BUS_SEQUENCE": 57,
+			"START_BUS_STOP": "OPP KALLANG STN/BLK 2C",
+			"END_BUS_STOP": "LOR 1 GEYLANG TER",
+			"START_BUS_STOP_NUM": "80109",
+			"START_BUS_STOP_LATLNG": "1.3132447374810665, 103.87143015859802",
+			"END_BUS_STOP_NUM": "80009",
+			"END_BUS_STOP_LATLNG": "1.3103920365403112, 103.87179802280302",
+			"DISTANCE": "23.9",
+			"GEOMETRIES": "mn_G}j~xR??\\SDADCXQn@[fAk@^Qt@]@?TKfBe@r@SvAa@Tv@Vp@FVJf@Nh@B^A|@[DWICKIm@QDaAaD"
+		}
+	],
+	"BUS_DIRECTION_TWO": [
+		{
+			"BUS_SEQUENCE": 1,
 			"START_BUS_STOP": "LOR 1 GEYLANG TER",
 			"END_BUS_STOP": "KALLANG STN/OPP BLK 2C",
 			"START_BUS_STOP_NUM": "80009",
@@ -9,53 +616,7 @@
 			"END_BUS_STOP_NUM": "80101",
 			"END_BUS_STOP_LATLNG": "1.312519335007421, 103.87153830811839",
 			"DISTANCE": "0",
-			"GEOMETRIES": [
-				[
-					103.87181,
-					1.31034
-				],
-				[
-					103.872,
-					1.31038
-				],
-				[
-					103.8723,
-					1.31049
-				],
-				[
-					103.87235,
-					1.31059
-				],
-				[
-					103.87231,
-					1.31068
-				],
-				[
-					103.87225,
-					1.31081
-				],
-				[
-					103.8724,
-					1.31087
-				],
-				[
-					103.87219,
-					1.31151
-				],
-				[
-					103.8721,
-					1.31171
-				],
-				[
-					103.872,
-					1.31199
-				],
-				[
-					103.87165,
-					1.31259
-				]
-			],
-			"roadName": "LOR 1 GEYLANG TER"
+			"GEOMETRIES": "s|~Fym~xRGe@U{@SIQFYJK]_Ch@g@Pw@RwBdA"
 		},
 		{
 			"BUS_SEQUENCE": 2,
@@ -66,53 +627,7 @@
 			"END_BUS_STOP_NUM": "80319",
 			"END_BUS_STOP_LATLNG": "1.314842970012724, 103.87262229395158",
 			"DISTANCE": "0.3",
-			"GEOMETRIES": [
-				[
-					103.87165,
-					1.31259
-				],
-				[
-					103.87134,
-					1.31313
-				],
-				[
-					103.87108,
-					1.31356
-				],
-				[
-					103.87092,
-					1.31388
-				],
-				[
-					103.87101,
-					1.31391
-				],
-				[
-					103.87187,
-					1.3143
-				],
-				[
-					103.87217,
-					1.31439
-				],
-				[
-					103.87238,
-					1.31451
-				],
-				[
-					103.87255,
-					1.31463
-				],
-				[
-					103.87264,
-					1.31475
-				],
-				[
-					103.87268,
-					1.31479
-				]
-			],
-			"roadName": "KALLANG STN/OPP BLK 2C"
+			"GEOMETRIES": "uj_Gyl~xRkB|@uAr@_A^EQmAkDQ{@Wi@Wa@WQGG"
 		},
 		{
 			"BUS_SEQUENCE": 3,
@@ -123,57 +638,7 @@
 			"END_BUS_STOP_NUM": "80309",
 			"END_BUS_STOP_LATLNG": "1.3172313472862103, 103.87298911852837",
 			"DISTANCE": "0.6",
-			"GEOMETRIES": [
-				[
-					103.87268,
-					1.31479
-				],
-				[
-					103.87268,
-					1.31479
-				],
-				[
-					103.87284,
-					1.31497
-				],
-				[
-					103.87301,
-					1.31519
-				],
-				[
-					103.87314,
-					1.31545
-				],
-				[
-					103.87324,
-					1.31575
-				],
-				[
-					103.87328,
-					1.31604
-				],
-				[
-					103.87331,
-					1.31636
-				],
-				[
-					103.87329,
-					1.31663
-				],
-				[
-					103.87318,
-					1.31697
-				],
-				[
-					103.87306,
-					1.31725
-				],
-				[
-					103.87306,
-					1.31725
-				]
-			],
-			"roadName": "GEYLANG WEST CC"
+			"GEOMETRIES": "mx_Ggs~xR??c@_@k@a@s@Y{@Sy@G_AEu@BcATw@V??"
 		},
 		{
 			"BUS_SEQUENCE": 4,
@@ -184,41 +649,7 @@
 			"END_BUS_STOP_NUM": "80299",
 			"END_BUS_STOP_LATLNG": "1.3195483515800301, 103.87197222899434",
 			"DISTANCE": "0.9",
-			"GEOMETRIES": [
-				[
-					103.87306,
-					1.31725
-				],
-				[
-					103.87296,
-					1.31757
-				],
-				[
-					103.87279,
-					1.31794
-				],
-				[
-					103.87243,
-					1.31879
-				],
-				[
-					103.87233,
-					1.31896
-				],
-				[
-					103.87228,
-					1.31911
-				],
-				[
-					103.8722,
-					1.31928
-				],
-				[
-					103.87205,
-					1.31959
-				]
-			],
-			"roadName": "AFT GEYLANG WEST CC"
+			"GEOMETRIES": "yg`Gsu~xR_ARiA`@iDfAa@R]Ha@N}@\\"
 		},
 		{
 			"BUS_SEQUENCE": 5,
@@ -229,37 +660,7 @@
 			"END_BUS_STOP_NUM": "60039",
 			"END_BUS_STOP_LATLNG": "1.3199647384276307, 103.86983042567826",
 			"DISTANCE": "1.2",
-			"GEOMETRIES": [
-				[
-					103.87205,
-					1.31959
-				],
-				[
-					103.87188,
-					1.31994
-				],
-				[
-					103.87161,
-					1.32043
-				],
-				[
-					103.87126,
-					1.32098
-				],
-				[
-					103.87118,
-					1.32093
-				],
-				[
-					103.87078,
-					1.32064
-				],
-				[
-					103.86979,
-					1.32003
-				]
-			],
-			"roadName": "OPP BLK 82"
+			"GEOMETRIES": "mv`Gio~xReA`@aBt@mBdAHNx@nAxBdE"
 		},
 		{
 			"BUS_SEQUENCE": 6,
@@ -270,37 +671,7 @@
 			"END_BUS_STOP_NUM": "60029",
 			"END_BUS_STOP_LATLNG": "1.3171704569801317, 103.86600136758761",
 			"DISTANCE": "1.5",
-			"GEOMETRIES": [
-				[
-					103.86979,
-					1.32003
-				],
-				[
-					103.86961,
-					1.31991
-				],
-				[
-					103.86747,
-					1.31857
-				],
-				[
-					103.86673,
-					1.31808
-				],
-				[
-					103.86648,
-					1.31786
-				],
-				[
-					103.86631,
-					1.31764
-				],
-				[
-					103.86596,
-					1.31721
-				]
-			],
-			"roadName": "OPP BLK 66"
+			"GEOMETRIES": "ey`Gea~xRVb@jGjL`BrCj@p@j@`@tAdA"
 		},
 		{
 			"BUS_SEQUENCE": 7,
@@ -311,41 +682,7 @@
 			"END_BUS_STOP_NUM": "60019",
 			"END_BUS_STOP_LATLNG": "1.3136179062406794, 103.86319417694443",
 			"DISTANCE": "2",
-			"GEOMETRIES": [
-				[
-					103.86596,
-					1.31721
-				],
-				[
-					103.86463,
-					1.31556
-				],
-				[
-					103.86452,
-					1.31537
-				],
-				[
-					103.86434,
-					1.31516
-				],
-				[
-					103.86417,
-					1.31504
-				],
-				[
-					103.86393,
-					1.31471
-				],
-				[
-					103.86365,
-					1.31437
-				],
-				[
-					103.8631,
-					1.31369
-				]
-			],
-			"roadName": "BLK 16"
+			"GEOMETRIES": "qg`Ggi}xRhIhGd@Th@b@V`@`An@bAv@fClB"
 		},
 		{
 			"BUS_SEQUENCE": 8,
@@ -356,41 +693,7 @@
 			"END_BUS_STOP_NUM": "07369",
 			"END_BUS_STOP_LATLNG": "1.3112962213391635, 103.86249548257501",
 			"DISTANCE": "2.5",
-			"GEOMETRIES": [
-				[
-					103.8631,
-					1.31369
-				],
-				[
-					103.86272,
-					1.31322
-				],
-				[
-					103.8623,
-					1.31265
-				],
-				[
-					103.86203,
-					1.31231
-				],
-				[
-					103.86196,
-					1.31209
-				],
-				[
-					103.86196,
-					1.31178
-				],
-				[
-					103.86223,
-					1.31141
-				],
-				[
-					103.86238,
-					1.31121
-				]
-			],
-			"roadName": "BENDEMEER STN EXIT B"
+			"GEOMETRIES": "qq_Gkw|xR|AjApBrAbAt@j@L|@?hAu@f@]"
 		},
 		{
 			"BUS_SEQUENCE": 9,
@@ -401,33 +704,7 @@
 			"END_BUS_STOP_NUM": "07379",
 			"END_BUS_STOP_LATLNG": "1.310173367408494, 103.86338225534828",
 			"DISTANCE": "2.8",
-			"GEOMETRIES": [
-				[
-					103.86238,
-					1.31121
-				],
-				[
-					103.86238,
-					1.3112
-				],
-				[
-					103.86265,
-					1.31083
-				],
-				[
-					103.86273,
-					1.31073
-				],
-				[
-					103.86323,
-					1.31006
-				],
-				[
-					103.86323,
-					1.31006
-				]
-			],
-			"roadName": "AFT KALLANG BAHRU"
+			"GEOMETRIES": "ab_G{r|xR@?hAu@ROdCcB??"
 		},
 		{
 			"BUS_SEQUENCE": 10,
@@ -438,57 +715,7 @@
 			"END_BUS_STOP_NUM": "01339",
 			"END_BUS_STOP_LATLNG": "1.3077436378990677, 103.86425798761256",
 			"DISTANCE": "3",
-			"GEOMETRIES": [
-				[
-					103.86323,
-					1.31006
-				],
-				[
-					103.86323,
-					1.31006
-				],
-				[
-					103.86336,
-					1.30988
-				],
-				[
-					103.86368,
-					1.30943
-				],
-				[
-					103.86372,
-					1.30938
-				],
-				[
-					103.86385,
-					1.30913
-				],
-				[
-					103.86388,
-					1.30904
-				],
-				[
-					103.86397,
-					1.30871
-				],
-				[
-					103.86399,
-					1.30863
-				],
-				[
-					103.86408,
-					1.30797
-				],
-				[
-					103.86411,
-					1.30774
-				],
-				[
-					103.86412,
-					1.30772
-				]
-			],
-			"roadName": "APERIA/BEF KALLANG RD"
+			"GEOMETRIES": "{z~Fex|xR??b@YxA_AHGp@YPE`AQNCbCQl@EBA"
 		},
 		{
 			"BUS_SEQUENCE": 11,
@@ -499,69 +726,7 @@
 			"END_BUS_STOP_NUM": "01329",
 			"END_BUS_STOP_LATLNG": "1.3049567023917177, 103.86363028484125",
 			"DISTANCE": "3.3",
-			"GEOMETRIES": [
-				[
-					103.86412,
-					1.30772
-				],
-				[
-					103.86412,
-					1.30772
-				],
-				[
-					103.86414,
-					1.30759
-				],
-				[
-					103.86416,
-					1.30749
-				],
-				[
-					103.86435,
-					1.30721
-				],
-				[
-					103.86442,
-					1.30704
-				],
-				[
-					103.86451,
-					1.30686
-				],
-				[
-					103.86462,
-					1.30667
-				],
-				[
-					103.8649,
-					1.30627
-				],
-				[
-					103.86488,
-					1.30615
-				],
-				[
-					103.86472,
-					1.306
-				],
-				[
-					103.86437,
-					1.30572
-				],
-				[
-					103.86404,
-					1.30544
-				],
-				[
-					103.86369,
-					1.30513
-				],
-				[
-					103.86357,
-					1.30502
-				]
-			],
-			"roadName": "BEF CRAWFORD BRIDGE"
+			"GEOMETRIES": "gl~Fw}|xR??XCRCv@e@`@Mb@Qd@UnAw@VB\\^v@dAv@`A|@dATV"
 		},
 		{
 			"BUS_SEQUENCE": 12,
@@ -572,57 +737,7 @@
 			"END_BUS_STOP_NUM": "01229",
 			"END_BUS_STOP_LATLNG": "1.3033755263881321, 103.85963089198266",
 			"DISTANCE": "3.7",
-			"GEOMETRIES": [
-				[
-					103.86357,
-					1.30502
-				],
-				[
-					103.86342,
-					1.30489
-				],
-				[
-					103.8632,
-					1.30477
-				],
-				[
-					103.86316,
-					1.30475
-				],
-				[
-					103.86298,
-					1.30468
-				],
-				[
-					103.86258,
-					1.30462
-				],
-				[
-					103.86163,
-					1.30441
-				],
-				[
-					103.86089,
-					1.30425
-				],
-				[
-					103.8607,
-					1.30417
-				],
-				[
-					103.86011,
-					1.30382
-				],
-				[
-					103.85962,
-					1.30347
-				],
-				[
-					103.85958,
-					1.30343
-				]
-			],
-			"roadName": "BLK 8"
+			"GEOMETRIES": "k{}Fiz|xRX\\Vj@BFLb@JnAh@|D^rCNd@dAtBdA`BFF"
 		},
 		{
 			"BUS_SEQUENCE": 13,
@@ -633,65 +748,7 @@
 			"END_BUS_STOP_NUM": "01139",
 			"END_BUS_STOP_LATLNG": "1.3003305785554153, 103.85716080665902",
 			"DISTANCE": "4.2",
-			"GEOMETRIES": [
-				[
-					103.85958,
-					1.30343
-				],
-				[
-					103.85923,
-					1.30314
-				],
-				[
-					103.85917,
-					1.30308
-				],
-				[
-					103.85893,
-					1.30284
-				],
-				[
-					103.85873,
-					1.30243
-				],
-				[
-					103.85859,
-					1.30216
-				],
-				[
-					103.85849,
-					1.30196
-				],
-				[
-					103.85841,
-					1.30184
-				],
-				[
-					103.85832,
-					1.30173
-				],
-				[
-					103.8581,
-					1.30148
-				],
-				[
-					103.8579,
-					1.30126
-				],
-				[
-					103.85753,
-					1.30087
-				],
-				[
-					103.85719,
-					1.30048
-				],
-				[
-					103.8571,
-					1.30038
-				]
-			],
-			"roadName": "BEF SULTAN MQUE"
+			"GEOMETRIES": "mq}Fka|xRx@dAJJn@n@pAf@t@Zf@RVNTPp@j@j@f@lAhAlAbARP"
 		},
 		{
 			"BUS_SEQUENCE": 14,
@@ -702,41 +759,7 @@
 			"END_BUS_STOP_NUM": "01039",
 			"END_BUS_STOP_LATLNG": "1.2982078413968292, 103.85549139837408",
 			"DISTANCE": "4.6",
-			"GEOMETRIES": [
-				[
-					103.8571,
-					1.30038
-				],
-				[
-					103.857,
-					1.30026
-				],
-				[
-					103.85664,
-					1.29984
-				],
-				[
-					103.85611,
-					1.29914
-				],
-				[
-					103.85605,
-					1.29906
-				],
-				[
-					103.85577,
-					1.29868
-				],
-				[
-					103.85555,
-					1.29839
-				],
-				[
-					103.85545,
-					1.29824
-				]
-			],
-			"roadName": "BUGIS STN/PARKVIEW SQ"
+			"GEOMETRIES": "k~|F{q{xRVRrAfAjChBNJjAv@x@j@\\R"
 		},
 		{
 			"BUS_SEQUENCE": 15,
@@ -747,33 +770,7 @@
 			"END_BUS_STOP_NUM": "01029",
 			"END_BUS_STOP_LATLNG": "1.2966729849642, 103.85441422464268",
 			"DISTANCE": "4.9",
-			"GEOMETRIES": [
-				[
-					103.85545,
-					1.29824
-				],
-				[
-					103.85507,
-					1.29773
-				],
-				[
-					103.855,
-					1.29764
-				],
-				[
-					103.85453,
-					1.29701
-				],
-				[
-					103.85436,
-					1.29677
-				],
-				[
-					103.85433,
-					1.29674
-				]
-			],
-			"roadName": "NTH BRIDGE COMMERCIAL CPLX"
+			"GEOMETRIES": "_q|Fqg{xRdBjAPL|B|An@`@DD"
 		},
 		{
 			"BUS_SEQUENCE": 16,
@@ -784,41 +781,7 @@
 			"END_BUS_STOP_NUM": "04111",
 			"END_BUS_STOP_LATLNG": "1.2939544417008113, 103.85139096636624",
 			"DISTANCE": "5.1",
-			"GEOMETRIES": [
-				[
-					103.85433,
-					1.29674
-				],
-				[
-					103.85414,
-					1.29649
-				],
-				[
-					103.85386,
-					1.29611
-				],
-				[
-					103.85352,
-					1.29565
-				],
-				[
-					103.85312,
-					1.29512
-				],
-				[
-					103.85221,
-					1.29385
-				],
-				[
-					103.85203,
-					1.29357
-				],
-				[
-					103.8514,
-					1.29398
-				]
-			],
-			"roadName": "OPP NATL LIB"
+			"GEOMETRIES": "sg|Fq`{xRp@d@jAv@zAbAhBnA|FtDv@b@qA|B"
 		},
 		{
 			"BUS_SEQUENCE": 17,
@@ -829,61 +792,7 @@
 			"END_BUS_STOP_NUM": "04121",
 			"END_BUS_STOP_LATLNG": "1.2961854409233446, 103.84958029974612",
 			"DISTANCE": "5.6",
-			"GEOMETRIES": [
-				[
-					103.8514,
-					1.29398
-				],
-				[
-					103.85131,
-					1.29404
-				],
-				[
-					103.85059,
-					1.2945
-				],
-				[
-					103.85009,
-					1.2948
-				],
-				[
-					103.84977,
-					1.29495
-				],
-				[
-					103.85016,
-					1.29559
-				],
-				[
-					103.85016,
-					1.29568
-				],
-				[
-					103.85015,
-					1.29577
-				],
-				[
-					103.85011,
-					1.29582
-				],
-				[
-					103.85001,
-					1.29593
-				],
-				[
-					103.84983,
-					1.29608
-				],
-				[
-					103.84965,
-					1.29624
-				],
-				[
-					103.84965,
-					1.29624
-				]
-			],
-			"roadName": "CAPITOL BLDG"
+			"GEOMETRIES": "kv{FgnzxRKP{AnC{@bB]~@_CmAQ?Q@IFUR]b@_@b@??"
 		},
 		{
 			"BUS_SEQUENCE": 18,
@@ -894,41 +803,7 @@
 			"END_BUS_STOP_NUM": "08041",
 			"END_BUS_STOP_LATLNG": "1.298110142438666, 103.84780636909547",
 			"DISTANCE": "6",
-			"GEOMETRIES": [
-				[
-					103.84965,
-					1.29624
-				],
-				[
-					103.84955,
-					1.29636
-				],
-				[
-					103.84944,
-					1.2965
-				],
-				[
-					103.84935,
-					1.29665
-				],
-				[
-					103.84916,
-					1.29695
-				],
-				[
-					103.84893,
-					1.29725
-				],
-				[
-					103.84827,
-					1.29781
-				],
-				[
-					103.84785,
-					1.29816
-				]
-			],
-			"roadName": "SMU"
+			"GEOMETRIES": "od|FiczxRWR[T]P{@d@{@l@oBbCeArA"
 		},
 		{
 			"BUS_SEQUENCE": 19,
@@ -939,65 +814,7 @@
 			"END_BUS_STOP_NUM": "08031",
 			"END_BUS_STOP_LATLNG": "1.2983115378359216, 103.84525695955321",
 			"DISTANCE": "6.3",
-			"GEOMETRIES": [
-				[
-					103.84785,
-					1.29816
-				],
-				[
-					103.84783,
-					1.29818
-				],
-				[
-					103.84768,
-					1.29827
-				],
-				[
-					103.84756,
-					1.29831
-				],
-				[
-					103.84742,
-					1.29829
-				],
-				[
-					103.84729,
-					1.29828
-				],
-				[
-					103.84723,
-					1.29824
-				],
-				[
-					103.84705,
-					1.29807
-				],
-				[
-					103.84686,
-					1.29792
-				],
-				[
-					103.84677,
-					1.29789
-				],
-				[
-					103.84669,
-					1.29787
-				],
-				[
-					103.84649,
-					1.29787
-				],
-				[
-					103.84616,
-					1.29794
-				],
-				[
-					103.84523,
-					1.29823
-				]
-			],
-			"roadName": "YMCA"
+			"GEOMETRIES": "op|FaxyxRCBQ\\GVBZ@XFJ`@b@\\d@DPBN?f@M`Ay@xD"
 		},
 		{
 			"BUS_SEQUENCE": 20,
@@ -1008,53 +825,7 @@
 			"END_BUS_STOP_NUM": "08111",
 			"END_BUS_STOP_LATLNG": "1.299869287158342, 103.84093746088926",
 			"DISTANCE": "6.6",
-			"GEOMETRIES": [
-				[
-					103.84523,
-					1.29823
-				],
-				[
-					103.84448,
-					1.29846
-				],
-				[
-					103.84396,
-					1.29864
-				],
-				[
-					103.84369,
-					1.29882
-				],
-				[
-					103.84305,
-					1.29925
-				],
-				[
-					103.84284,
-					1.29938
-				],
-				[
-					103.84259,
-					1.2995
-				],
-				[
-					103.84234,
-					1.29962
-				],
-				[
-					103.84182,
-					1.29973
-				],
-				[
-					103.84163,
-					1.29977
-				],
-				[
-					103.84095,
-					1.29992
-				]
-			],
-			"roadName": "DHOBY GHAUT STN EXIT B"
+			"GEOMETRIES": "}p|FugyxRm@tCc@fBc@t@uA~BYh@Wp@Wp@UfBGd@]fC"
 		},
 		{
 			"BUS_SEQUENCE": 21,
@@ -1065,29 +836,7 @@
 			"END_BUS_STOP_NUM": "08121",
 			"END_BUS_STOP_LATLNG": "1.300275693265864, 103.83877618459663",
 			"DISTANCE": "7.1",
-			"GEOMETRIES": [
-				[
-					103.84095,
-					1.29992
-				],
-				[
-					103.84054,
-					1.3
-				],
-				[
-					103.84025,
-					1.30005
-				],
-				[
-					103.83964,
-					1.30018
-				],
-				[
-					103.83879,
-					1.30036
-				]
-			],
-			"roadName": "WINSLAND HSE"
+			"GEOMETRIES": "o{|F}lxxROpAIx@YxBc@hD"
 		},
 		{
 			"BUS_SEQUENCE": 22,
@@ -1098,37 +847,7 @@
 			"END_BUS_STOP_NUM": "09059",
 			"END_BUS_STOP_LATLNG": "1.3004425175583416, 103.8362380421602",
 			"DISTANCE": "7.4",
-			"GEOMETRIES": [
-				[
-					103.83879,
-					1.30036
-				],
-				[
-					103.83748,
-					1.30065
-				],
-				[
-					103.83729,
-					1.3007
-				],
-				[
-					103.83699,
-					1.30078
-				],
-				[
-					103.83677,
-					1.30084
-				],
-				[
-					103.83653,
-					1.3009
-				],
-				[
-					103.83616,
-					1.30051
-				]
-			],
-			"roadName": "SOMERSET STN"
+			"GEOMETRIES": "g~|Fm_xxRy@dGId@Oz@Kj@Kn@lAhA"
 		},
 		{
 			"BUS_SEQUENCE": 23,
@@ -1139,45 +858,7 @@
 			"END_BUS_STOP_NUM": "09022",
 			"END_BUS_STOP_LATLNG": "1.3025283477364273, 103.83239784275959",
 			"DISTANCE": "7.7",
-			"GEOMETRIES": [
-				[
-					103.83616,
-					1.30051
-				],
-				[
-					103.83608,
-					1.30042
-				],
-				[
-					103.83591,
-					1.30027
-				],
-				[
-					103.83574,
-					1.30022
-				],
-				[
-					103.83547,
-					1.30018
-				],
-				[
-					103.83486,
-					1.30043
-				],
-				[
-					103.83428,
-					1.30082
-				],
-				[
-					103.83287,
-					1.30223
-				],
-				[
-					103.83248,
-					1.30261
-				]
-			],
-			"roadName": "SOMERSET YOUTH PK"
+			"GEOMETRIES": "e_}F_owxRPN\\`@H`@Ft@q@xBmArByGxGkAlA"
 		},
 		{
 			"BUS_SEQUENCE": 24,
@@ -1188,49 +869,7 @@
 			"END_BUS_STOP_NUM": "13199",
 			"END_BUS_STOP_LATLNG": "1.3021327063713575, 103.82987335200798",
 			"DISTANCE": "8.2",
-			"GEOMETRIES": [
-				[
-					103.83248,
-					1.30261
-				],
-				[
-					103.83239,
-					1.3027
-				],
-				[
-					103.83212,
-					1.30293
-				],
-				[
-					103.83159,
-					1.30338
-				],
-				[
-					103.83133,
-					1.30357
-				],
-				[
-					103.83105,
-					1.30363
-				],
-				[
-					103.8309,
-					1.3036
-				],
-				[
-					103.83075,
-					1.30349
-				],
-				[
-					103.83019,
-					1.3029
-				],
-				[
-					103.82979,
-					1.30218
-				]
-			],
-			"roadName": "ORCHARD STN EXIT 13"
+			"GEOMETRIES": "il}F_xvxRQPm@t@yAhBe@r@Kv@D\\T\\tBnBnCnA"
 		},
 		{
 			"BUS_SEQUENCE": 25,
@@ -1241,53 +880,7 @@
 			"END_BUS_STOP_NUM": "13159",
 			"END_BUS_STOP_LATLNG": "1.2979601152852211, 103.83053183555205",
 			"DISTANCE": "8.6",
-			"GEOMETRIES": [
-				[
-					103.82979,
-					1.30218
-				],
-				[
-					103.82957,
-					1.30179
-				],
-				[
-					103.82937,
-					1.3013
-				],
-				[
-					103.82933,
-					1.30084
-				],
-				[
-					103.82974,
-					1.29983
-				],
-				[
-					103.8299,
-					1.29949
-				],
-				[
-					103.82997,
-					1.29932
-				],
-				[
-					103.83001,
-					1.29924
-				],
-				[
-					103.83017,
-					1.299
-				],
-				[
-					103.83029,
-					1.2987
-				],
-				[
-					103.83044,
-					1.29794
-				]
-			],
-			"roadName": "AFT ORCHARD STN EXIT 12"
+			"GEOMETRIES": "si}FegvxRlAj@`Bf@zAFhEqAbA_@`@MNGn@_@z@WvC]"
 		},
 		{
 			"BUS_SEQUENCE": 26,
@@ -1298,53 +891,7 @@
 			"END_BUS_STOP_NUM": "13119",
 			"END_BUS_STOP_LATLNG": "1.2942500034109892, 103.83250110850872",
 			"DISTANCE": "9.1",
-			"GEOMETRIES": [
-				[
-					103.83044,
-					1.29794
-				],
-				[
-					103.83054,
-					1.29748
-				],
-				[
-					103.83065,
-					1.29704
-				],
-				[
-					103.83084,
-					1.29668
-				],
-				[
-					103.83094,
-					1.29652
-				],
-				[
-					103.83117,
-					1.29627
-				],
-				[
-					103.83141,
-					1.29601
-				],
-				[
-					103.83164,
-					1.2956
-				],
-				[
-					103.83192,
-					1.29508
-				],
-				[
-					103.83197,
-					1.295
-				],
-				[
-					103.83241,
-					1.2942
-				]
-			],
-			"roadName": "BEF ZION FULL GOSPEL CH"
+			"GEOMETRIES": "co|FgkvxRzASvAUfAe@^Sp@m@r@o@pAm@fBw@NI~CwA"
 		},
 		{
 			"BUS_SEQUENCE": 27,
@@ -1355,33 +902,7 @@
 			"END_BUS_STOP_NUM": "06129",
 			"END_BUS_STOP_LATLNG": "1.2907816205235147, 103.83440916705557",
 			"DISTANCE": "9.7",
-			"GEOMETRIES": [
-				[
-					103.83241,
-					1.2942
-				],
-				[
-					103.83276,
-					1.29358
-				],
-				[
-					103.83297,
-					1.29321
-				],
-				[
-					103.83306,
-					1.29304
-				],
-				[
-					103.83365,
-					1.29194
-				],
-				[
-					103.83429,
-					1.29072
-				]
-			],
-			"roadName": "GREAT WORLD STN EXIT 3"
+			"GEOMETRIES": "ww{FqwvxRzBeAhAi@`@QzEuBrF_C"
 		},
 		{
 			"BUS_SEQUENCE": 28,
@@ -1392,45 +913,7 @@
 			"END_BUS_STOP_NUM": "06069",
 			"END_BUS_STOP_LATLNG": "1.2862315772048698, 103.83496162445665",
 			"DISTANCE": "10.1",
-			"GEOMETRIES": [
-				[
-					103.83429,
-					1.29072
-				],
-				[
-					103.83432,
-					1.29065
-				],
-				[
-					103.83451,
-					1.29029
-				],
-				[
-					103.83497,
-					1.2894
-				],
-				[
-					103.83503,
-					1.28907
-				],
-				[
-					103.83506,
-					1.28846
-				],
-				[
-					103.83504,
-					1.28809
-				],
-				[
-					103.83509,
-					1.28733
-				],
-				[
-					103.83488,
-					1.28625
-				]
-			],
-			"roadName": "GRAND COPTHORNE HOTEL"
+			"GEOMETRIES": "_b{FicwxRLEfAe@pD{A`AKxBEhABvCIvEh@"
 		},
 		{
 			"BUS_SEQUENCE": 29,
@@ -1441,161 +924,7 @@
 			"END_BUS_STOP_NUM": "10071",
 			"END_BUS_STOP_LATLNG": "1.2804530942366337, 103.82638920754816",
 			"DISTANCE": "10.6",
-			"GEOMETRIES": [
-				[
-					103.83488,
-					1.28625
-				],
-				[
-					103.83485,
-					1.2861
-				],
-				[
-					103.83484,
-					1.28586
-				],
-				[
-					103.83488,
-					1.28543
-				],
-				[
-					103.8349,
-					1.28525
-				],
-				[
-					103.83492,
-					1.28515
-				],
-				[
-					103.83509,
-					1.28471
-				],
-				[
-					103.83513,
-					1.28461
-				],
-				[
-					103.83516,
-					1.28453
-				],
-				[
-					103.83525,
-					1.28432
-				],
-				[
-					103.83541,
-					1.28387
-				],
-				[
-					103.83559,
-					1.28358
-				],
-				[
-					103.83572,
-					1.28338
-				],
-				[
-					103.83581,
-					1.2832
-				],
-				[
-					103.83582,
-					1.28312
-				],
-				[
-					103.83578,
-					1.283
-				],
-				[
-					103.83567,
-					1.28287
-				],
-				[
-					103.83552,
-					1.28279
-				],
-				[
-					103.83522,
-					1.28272
-				],
-				[
-					103.83442,
-					1.28247
-				],
-				[
-					103.8338,
-					1.28236
-				],
-				[
-					103.83294,
-					1.28202
-				],
-				[
-					103.83224,
-					1.28172
-				],
-				[
-					103.83181,
-					1.2815
-				],
-				[
-					103.83085,
-					1.28084
-				],
-				[
-					103.83031,
-					1.28038
-				],
-				[
-					103.82958,
-					1.27933
-				],
-				[
-					103.82943,
-					1.27918
-				],
-				[
-					103.82925,
-					1.27906
-				],
-				[
-					103.82904,
-					1.27907
-				],
-				[
-					103.82842,
-					1.27947
-				],
-				[
-					103.82812,
-					1.27966
-				],
-				[
-					103.82777,
-					1.27988
-				],
-				[
-					103.82749,
-					1.28001
-				],
-				[
-					103.82702,
-					1.28025
-				],
-				[
-					103.82686,
-					1.28033
-				],
-				[
-					103.82644,
-					1.28055
-				],
-				[
-					103.82644,
-					1.28055
-				]
-			],
-			"roadName": "AFT FURAMA RIVERFRONT"
+			"GEOMETRIES": "afzF_gwxR\\Dn@@tAGb@CRCvAa@RGNEh@QxA_@x@c@f@Yb@QNAVFXTN\\Lz@p@~CTzBbAjDz@jCj@tAbC~DzAjBpEpC\\\\Vb@Ah@oAzBe@z@k@dAYv@o@|AO^k@rA??"
 		},
 		{
 			"BUS_SEQUENCE": 32,
@@ -1606,29 +935,7 @@
 			"END_BUS_STOP_NUM": "10501",
 			"END_BUS_STOP_LATLNG": "1.2810584535542886, 103.82528065411316",
 			"DISTANCE": "12.3",
-			"GEOMETRIES": [
-				[
-					103.82644,
-					1.28055
-				],
-				[
-					103.82644,
-					1.28055
-				],
-				[
-					103.82585,
-					1.28086
-				],
-				[
-					103.82579,
-					1.28089
-				],
-				[
-					103.82532,
-					1.28113
-				]
-			],
-			"roadName": "BLK 111"
+			"GEOMETRIES": "mbyFgruxR??}@tBEJo@|A"
 		},
 		{
 			"BUS_SEQUENCE": 33,
@@ -1639,33 +946,7 @@
 			"END_BUS_STOP_NUM": "10081",
 			"END_BUS_STOP_LATLNG": "1.2822783541702, 103.82241744338575",
 			"DISTANCE": "12.5",
-			"GEOMETRIES": [
-				[
-					103.82532,
-					1.28113
-				],
-				[
-					103.82501,
-					1.28129
-				],
-				[
-					103.82393,
-					1.28185
-				],
-				[
-					103.82375,
-					1.28191
-				],
-				[
-					103.82278,
-					1.2823
-				],
-				[
-					103.82249,
-					1.28243
-				]
-			],
-			"roadName": "BLK 104"
+			"GEOMETRIES": "afyFgkuxR_@|@oBvEKb@mA`EYx@"
 		},
 		{
 			"BUS_SEQUENCE": 34,
@@ -1676,69 +957,7 @@
 			"END_BUS_STOP_NUM": "10339",
 			"END_BUS_STOP_LATLNG": "1.2811583506329172, 103.81857250844853",
 			"DISTANCE": "12.8",
-			"GEOMETRIES": [
-				[
-					103.82249,
-					1.28243
-				],
-				[
-					103.82248,
-					1.28244
-				],
-				[
-					103.82192,
-					1.28269
-				],
-				[
-					103.82161,
-					1.28282
-				],
-				[
-					103.82103,
-					1.28306
-				],
-				[
-					103.82075,
-					1.28312
-				],
-				[
-					103.82049,
-					1.28312
-				],
-				[
-					103.82037,
-					1.28308
-				],
-				[
-					103.82008,
-					1.28295
-				],
-				[
-					103.81985,
-					1.2828
-				],
-				[
-					103.81963,
-					1.28259
-				],
-				[
-					103.81913,
-					1.28202
-				],
-				[
-					103.81904,
-					1.28192
-				],
-				[
-					103.8189,
-					1.28177
-				],
-				[
-					103.81845,
-					1.28127
-				]
-			],
-			"roadName": "OPP BLK 120"
+			"GEOMETRIES": "enyFqytxRA@q@nBY|@o@rBKv@?r@FVXx@\\l@h@j@pBbBRP\\ZbBxA"
 		},
 		{
 			"BUS_SEQUENCE": 35,
@@ -1749,41 +968,7 @@
 			"END_BUS_STOP_NUM": "14241",
 			"END_BUS_STOP_LATLNG": "1.279143531033013, 103.81687250875352",
 			"DISTANCE": "13.3",
-			"GEOMETRIES": [
-				[
-					103.81845,
-					1.28127
-				],
-				[
-					103.81838,
-					1.2812
-				],
-				[
-					103.81795,
-					1.28068
-				],
-				[
-					103.81764,
-					1.28032
-				],
-				[
-					103.81756,
-					1.28017
-				],
-				[
-					103.81749,
-					1.28004
-				],
-				[
-					103.81734,
-					1.27975
-				],
-				[
-					103.81703,
-					1.27907
-				]
-			],
-			"roadName": "AFT BT MERAH CTRL"
+			"GEOMETRIES": "}fyFi`txRLLfBtAfA|@\\NXLx@\\fC|@"
 		},
 		{
 			"BUS_SEQUENCE": 36,
@@ -1794,17 +979,7 @@
 			"END_BUS_STOP_NUM": "14191",
 			"END_BUS_STOP_LATLNG": "1.281218333009427, 103.81211444400745",
 			"DISTANCE": "13.5",
-			"GEOMETRIES": [
-				[
-					103.81703,
-					1.27907
-				],
-				[
-					103.81676,
-					1.27848
-				]
-			],
-			"roadName": "OPP BLK 1"
+			"GEOMETRIES": "eyxFmwsxRtBt@"
 		},
 		{
 			"BUS_SEQUENCE": 37,
@@ -1815,41 +990,7 @@
 			"END_BUS_STOP_NUM": "14201",
 			"END_BUS_STOP_LATLNG": "1.2816730726724241, 103.80914683892263",
 			"DISTANCE": "14.2",
-			"GEOMETRIES": [
-				[
-					103.81212,
-					1.2813
-				],
-				[
-					103.81191,
-					1.28132
-				],
-				[
-					103.81094,
-					1.28144
-				],
-				[
-					103.81075,
-					1.28146
-				],
-				[
-					103.81072,
-					1.28147
-				],
-				[
-					103.81068,
-					1.28147
-				],
-				[
-					103.80984,
-					1.28164
-				],
-				[
-					103.80917,
-					1.28177
-				]
-			],
-			"roadName": "BLK 105 CP"
+			"GEOMETRIES": "cgyFwxrxRCh@W`ECd@AD?Fa@fDYdC"
 		},
 		{
 			"BUS_SEQUENCE": 38,
@@ -1860,45 +1001,7 @@
 			"END_BUS_STOP_NUM": "14471",
 			"END_BUS_STOP_LATLNG": "1.2820116910242245, 103.80664978771298",
 			"DISTANCE": "14.5",
-			"GEOMETRIES": [
-				[
-					103.80917,
-					1.28177
-				],
-				[
-					103.80878,
-					1.28185
-				],
-				[
-					103.8079,
-					1.28202
-				],
-				[
-					103.80743,
-					1.28211
-				],
-				[
-					103.80737,
-					1.28211
-				],
-				[
-					103.80699,
-					1.28214
-				],
-				[
-					103.80685,
-					1.28213
-				],
-				[
-					103.80676,
-					1.28213
-				],
-				[
-					103.80664,
-					1.28211
-				]
-			],
-			"roadName": "BLK 110"
+			"GEOMETRIES": "ajyFifrxROlAa@nDQ|A?JEjA@Z?PBV"
 		},
 		{
 			"BUS_SEQUENCE": 39,
@@ -1909,41 +1012,7 @@
 			"END_BUS_STOP_NUM": "14211",
 			"END_BUS_STOP_LATLNG": "1.281611684093157, 103.80521877469815",
 			"DISTANCE": "14.8",
-			"GEOMETRIES": [
-				[
-					103.80664,
-					1.28211
-				],
-				[
-					103.80664,
-					1.28211
-				],
-				[
-					103.80638,
-					1.28209
-				],
-				[
-					103.8063,
-					1.28206
-				],
-				[
-					103.80622,
-					1.28204
-				],
-				[
-					103.80592,
-					1.28194
-				],
-				[
-					103.80519,
-					1.2817
-				],
-				[
-					103.80519,
-					1.2817
-				]
-			],
-			"roadName": "BLK 114"
+			"GEOMETRIES": "elyFovqxR??Br@DNBNRz@n@pC??"
 		},
 		{
 			"BUS_SEQUENCE": 40,
@@ -1954,65 +1023,7 @@
 			"END_BUS_STOP_NUM": "18019",
 			"END_BUS_STOP_LATLNG": "1.2809105555627514, 103.80252305556166",
 			"DISTANCE": "15",
-			"GEOMETRIES": [
-				[
-					103.80519,
-					1.2817
-				],
-				[
-					103.80519,
-					1.2817
-				],
-				[
-					103.80442,
-					1.28145
-				],
-				[
-					103.80416,
-					1.28136
-				],
-				[
-					103.80403,
-					1.28132
-				],
-				[
-					103.80371,
-					1.28131
-				],
-				[
-					103.80365,
-					1.28132
-				],
-				[
-					103.80258,
-					1.28144
-				],
-				[
-					103.80228,
-					1.28145
-				],
-				[
-					103.802,
-					1.28136
-				],
-				[
-					103.80204,
-					1.28127
-				],
-				[
-					103.80222,
-					1.28094
-				],
-				[
-					103.8023,
-					1.28079
-				],
-				[
-					103.8023,
-					1.28079
-				]
-			],
-			"roadName": "ISS INTL SCH"
+			"GEOMETRIES": "siyFmmqxR??p@xCPr@FX@~@AJWtEAz@Pv@PG`Ac@\\O??"
 		},
 		{
 			"BUS_SEQUENCE": 41,
@@ -2023,69 +1034,7 @@
 			"END_BUS_STOP_NUM": "15059",
 			"END_BUS_STOP_LATLNG": "1.27686194443878, 103.80270111113057",
 			"DISTANCE": "15.4",
-			"GEOMETRIES": [
-				[
-					103.8023,
-					1.28079
-				],
-				[
-					103.8023,
-					1.28079
-				],
-				[
-					103.8024,
-					1.2806
-				],
-				[
-					103.80244,
-					1.28053
-				],
-				[
-					103.80247,
-					1.28048
-				],
-				[
-					103.803,
-					1.27931
-				],
-				[
-					103.80308,
-					1.279
-				],
-				[
-					103.80309,
-					1.27871
-				],
-				[
-					103.80299,
-					1.27838
-				],
-				[
-					103.80298,
-					1.27832
-				],
-				[
-					103.80278,
-					1.27765
-				],
-				[
-					103.80268,
-					1.2774
-				],
-				[
-					103.80265,
-					1.27733
-				],
-				[
-					103.80257,
-					1.27714
-				],
-				[
-					103.8025,
-					1.27695
-				]
-			],
-			"roadName": "BEF TELOK BLANGAH HILL PK"
+			"GEOMETRIES": "}cyFk{pxR??d@SLGHEhFiB|@Ox@A`ARJ@dCf@p@RLDd@Nd@L"
 		},
 		{
 			"BUS_SEQUENCE": 42,
@@ -2096,53 +1045,7 @@
 			"END_BUS_STOP_NUM": "15049",
 			"END_BUS_STOP_LATLNG": "1.2745905410319986, 103.80216344738956",
 			"DISTANCE": "15.9",
-			"GEOMETRIES": [
-				[
-					103.8025,
-					1.27695
-				],
-				[
-					103.80249,
-					1.27694
-				],
-				[
-					103.80235,
-					1.27655
-				],
-				[
-					103.80228,
-					1.27635
-				],
-				[
-					103.80214,
-					1.27597
-				],
-				[
-					103.80207,
-					1.27576
-				],
-				[
-					103.80204,
-					1.27567
-				],
-				[
-					103.80201,
-					1.27529
-				],
-				[
-					103.80198,
-					1.27492
-				],
-				[
-					103.80201,
-					1.27458
-				],
-				[
-					103.80201,
-					1.27458
-				]
-			],
-			"roadName": "OPP ALEXANDRA PT"
+			"GEOMETRIES": "}kxFs|pxR@@lAZf@LjAZh@LPDjADhADbAE??"
 		},
 		{
 			"BUS_SEQUENCE": 43,
@@ -2153,61 +1056,7 @@
 			"END_BUS_STOP_NUM": "15141",
 			"END_BUS_STOP_LATLNG": "1.2727586046357922, 103.80095947823813",
 			"DISTANCE": "16.2",
-			"GEOMETRIES": [
-				[
-					103.80201,
-					1.27458
-				],
-				[
-					103.80204,
-					1.27426
-				],
-				[
-					103.80205,
-					1.27423
-				],
-				[
-					103.80205,
-					1.27415
-				],
-				[
-					103.80212,
-					1.27359
-				],
-				[
-					103.80218,
-					1.27291
-				],
-				[
-					103.80219,
-					1.27282
-				],
-				[
-					103.80221,
-					1.27253
-				],
-				[
-					103.80192,
-					1.27258
-				],
-				[
-					103.80169,
-					1.2726
-				],
-				[
-					103.80147,
-					1.27267
-				],
-				[
-					103.80131,
-					1.27272
-				],
-				[
-					103.80099,
-					1.27284
-				]
-			],
-			"roadName": "OPP ALEXANDRA RETAIL CTR"
+			"GEOMETRIES": "c}wFqypxR~@EDAN?nBMfCKPAx@CIx@Cl@Mj@I^W~@"
 		},
 		{
 			"BUS_SEQUENCE": 44,
@@ -2218,33 +1067,7 @@
 			"END_BUS_STOP_NUM": "15151",
 			"END_BUS_STOP_LATLNG": "1.27389192906939, 103.79822208982424",
 			"DISTANCE": "16.6",
-			"GEOMETRIES": [
-				[
-					103.80099,
-					1.27284
-				],
-				[
-					103.80061,
-					1.27299
-				],
-				[
-					103.7999,
-					1.27333
-				],
-				[
-					103.79951,
-					1.27352
-				],
-				[
-					103.79887,
-					1.27374
-				],
-				[
-					103.79825,
-					1.27396
-				]
-			],
-			"roadName": "LABRADOR PK STN"
+			"GEOMETRIES": "grwFespxR]jAcAlCe@lAk@~Bk@zB"
 		},
 		{
 			"BUS_SEQUENCE": 45,
@@ -2255,41 +1078,7 @@
 			"END_BUS_STOP_NUM": "15191",
 			"END_BUS_STOP_LATLNG": "1.275812270297343, 103.79263571257981",
 			"DISTANCE": "17.1",
-			"GEOMETRIES": [
-				[
-					103.79669,
-					1.27452
-				],
-				[
-					103.79637,
-					1.27463
-				],
-				[
-					103.7957,
-					1.27486
-				],
-				[
-					103.79504,
-					1.27509
-				],
-				[
-					103.79439,
-					1.2753
-				],
-				[
-					103.79357,
-					1.27557
-				],
-				[
-					103.79311,
-					1.27572
-				],
-				[
-					103.79266,
-					1.27588
-				]
-			],
-			"roadName": "PASIR PANJANG CTR"
+			"GEOMETRIES": "w|wFixoxRU~@m@dCm@bCi@`Cu@bD]zA_@xA"
 		},
 		{
 			"BUS_SEQUENCE": 45,
@@ -2300,25 +1089,7 @@
 			"END_BUS_STOP_NUM": "15161",
 			"END_BUS_STOP_LATLNG": "1.2744380619813171, 103.79666055940478",
 			"DISTANCE": "16.9",
-			"GEOMETRIES": [
-				[
-					103.79825,
-					1.27396
-				],
-				[
-					103.79794,
-					1.27407
-				],
-				[
-					103.79682,
-					1.27448
-				],
-				[
-					103.79669,
-					1.27452
-				]
-			],
-			"roadName": "OPP MAPLETREE BIZ CITY"
+			"GEOMETRIES": "gywFabpxRU|@qA~EGX"
 		},
 		{
 			"BUS_SEQUENCE": 47,
@@ -2329,25 +1100,7 @@
 			"END_BUS_STOP_NUM": "15201",
 			"END_BUS_STOP_LATLNG": "1.276808191201047, 103.78970861437153",
 			"DISTANCE": "17.6",
-			"GEOMETRIES": [
-				[
-					103.79266,
-					1.27588
-				],
-				[
-					103.79098,
-					1.27647
-				],
-				[
-					103.79039,
-					1.27668
-				],
-				[
-					103.78974,
-					1.27689
-				]
-			],
-			"roadName": "PASIR PANJANG STN/FC"
+			"GEOMETRIES": "gexFc_oxRuBnIi@tBi@`C"
 		},
 		{
 			"BUS_SEQUENCE": 48,
@@ -2358,29 +1111,7 @@
 			"END_BUS_STOP_NUM": "15211",
 			"END_BUS_STOP_LATLNG": "1.277924420965071, 103.78642808592168",
 			"DISTANCE": "17.9",
-			"GEOMETRIES": [
-				[
-					103.78974,
-					1.27689
-				],
-				[
-					103.78771,
-					1.27756
-				],
-				[
-					103.78706,
-					1.27778
-				],
-				[
-					103.7865,
-					1.27794
-				],
-				[
-					103.78644,
-					1.27796
-				]
-			],
-			"roadName": "AFT PASIR PANJANG STN"
+			"GEOMETRIES": "qkxF{lnxReCtKk@`C_@nBCJ"
 		},
 		{
 			"BUS_SEQUENCE": 49,
@@ -2391,41 +1122,7 @@
 			"END_BUS_STOP_NUM": "16211",
 			"END_BUS_STOP_LATLNG": "1.2794186109885446, 103.78357583299086",
 			"DISTANCE": "18.3",
-			"GEOMETRIES": [
-				[
-					103.78644,
-					1.27796
-				],
-				[
-					103.78604,
-					1.27807
-				],
-				[
-					103.78566,
-					1.27818
-				],
-				[
-					103.78538,
-					1.27827
-				],
-				[
-					103.78496,
-					1.2784
-				],
-				[
-					103.78436,
-					1.27874
-				],
-				[
-					103.78389,
-					1.27912
-				],
-				[
-					103.78361,
-					1.27945
-				]
-			],
-			"roadName": "OPP PASIR VIEW PK"
+			"GEOMETRIES": "grxFgxmxRUnAUjAQv@YrAcAvBkA|AaAv@"
 		},
 		{
 			"BUS_SEQUENCE": 50,
@@ -2436,49 +1133,7 @@
 			"END_BUS_STOP_NUM": "16221",
 			"END_BUS_STOP_LATLNG": "1.2829758545354417, 103.7811842486865",
 			"DISTANCE": "18.6",
-			"GEOMETRIES": [
-				[
-					103.78361,
-					1.27945
-				],
-				[
-					103.7835,
-					1.27958
-				],
-				[
-					103.78319,
-					1.27999
-				],
-				[
-					103.78301,
-					1.2803
-				],
-				[
-					103.78292,
-					1.28055
-				],
-				[
-					103.78279,
-					1.28078
-				],
-				[
-					103.78245,
-					1.28159
-				],
-				[
-					103.78199,
-					1.28224
-				],
-				[
-					103.78184,
-					1.28245
-				],
-				[
-					103.78134,
-					1.2831
-				]
-			],
-			"roadName": "WHARVES BLDG"
+			"GEOMETRIES": "q{xFqfmxRYTqA|@}@b@q@Pm@XaDbAaCzAi@\\aCbB"
 		},
 		{
 			"BUS_SEQUENCE": 51,
@@ -2489,45 +1144,7 @@
 			"END_BUS_STOP_NUM": "16231",
 			"END_BUS_STOP_LATLNG": "1.2863594728471397, 103.77852933168339",
 			"DISTANCE": "19.1",
-			"GEOMETRIES": [
-				[
-					103.78134,
-					1.2831
-				],
-				[
-					103.78091,
-					1.28366
-				],
-				[
-					103.7808,
-					1.28381
-				],
-				[
-					103.78074,
-					1.28388
-				],
-				[
-					103.78019,
-					1.2846
-				],
-				[
-					103.77935,
-					1.28568
-				],
-				[
-					103.77909,
-					1.28602
-				],
-				[
-					103.77903,
-					1.28609
-				],
-				[
-					103.77865,
-					1.28648
-				]
-			],
-			"roadName": "OPP HAW PAR VILLA STN"
+			"GEOMETRIES": "kryFkxlxRoBtA]TMJoClBwEfDcAr@MJmAjA"
 		},
 		{
 			"BUS_SEQUENCE": 52,
@@ -2538,57 +1155,7 @@
 			"END_BUS_STOP_NUM": "16241",
 			"END_BUS_STOP_LATLNG": "1.2891030560330787, 103.77352611096799",
 			"DISTANCE": "19.6",
-			"GEOMETRIES": [
-				[
-					103.77865,
-					1.28648
-				],
-				[
-					103.77865,
-					1.28649
-				],
-				[
-					103.7781,
-					1.28701
-				],
-				[
-					103.77751,
-					1.28745
-				],
-				[
-					103.77727,
-					1.28759
-				],
-				[
-					103.77699,
-					1.28776
-				],
-				[
-					103.77659,
-					1.28798
-				],
-				[
-					103.77649,
-					1.28803
-				],
-				[
-					103.77631,
-					1.28812
-				],
-				[
-					103.77531,
-					1.28859
-				],
-				[
-					103.77433,
-					1.28898
-				],
-				[
-					103.77357,
-					1.28924
-				]
-			],
-			"roadName": "WHOLESALE CTR"
+			"GEOMETRIES": "ogzFqglxRA?gBlBwAtB[n@a@v@k@nAIRQb@}AfEmAbEs@vC"
 		},
 		{
 			"BUS_SEQUENCE": 53,
@@ -2599,37 +1166,7 @@
 			"END_BUS_STOP_NUM": "17291",
 			"END_BUS_STOP_LATLNG": "1.2903514050606082, 103.76969826072421",
 			"DISTANCE": "20.2",
-			"GEOMETRIES": [
-				[
-					103.77357,
-					1.28924
-				],
-				[
-					103.77256,
-					1.28958
-				],
-				[
-					103.77205,
-					1.28975
-				],
-				[
-					103.77193,
-					1.28979
-				],
-				[
-					103.77062,
-					1.29024
-				],
-				[
-					103.77009,
-					1.29042
-				],
-				[
-					103.76971,
-					1.29046
-				]
-			],
-			"roadName": "BEF WEST COAST PK"
+			"GEOMETRIES": "wxzFygkxRcAhEa@dBGVyAdGc@hBGjA"
 		},
 		{
 			"BUS_SEQUENCE": 54,
@@ -2640,49 +1177,7 @@
 			"END_BUS_STOP_NUM": "17351",
 			"END_BUS_STOP_LATLNG": "1.2935800000317865, 103.76576444402886",
 			"DISTANCE": "20.8",
-			"GEOMETRIES": [
-				[
-					103.76971,
-					1.29046
-				],
-				[
-					103.76955,
-					1.29048
-				],
-				[
-					103.7686,
-					1.29081
-				],
-				[
-					103.76812,
-					1.29098
-				],
-				[
-					103.76723,
-					1.2915
-				],
-				[
-					103.76685,
-					1.29189
-				],
-				[
-					103.76649,
-					1.2923
-				],
-				[
-					103.76617,
-					1.29283
-				],
-				[
-					103.76583,
-					1.29349
-				],
-				[
-					103.7658,
-					1.29359
-				]
-			],
-			"roadName": "WEST COAST PK"
+			"GEOMETRIES": "k`{FuojxRC^aA|Da@~AgBpDmAjAqAfAiB~@cCbASD"
 		},
 		{
 			"BUS_SEQUENCE": 55,
@@ -2693,21 +1188,7 @@
 			"END_BUS_STOP_NUM": "17301",
 			"END_BUS_STOP_LATLNG": "1.2949536109760815, 103.76516694401266",
 			"DISTANCE": "21.1",
-			"GEOMETRIES": [
-				[
-					103.7658,
-					1.29359
-				],
-				[
-					103.76565,
-					1.29415
-				],
-				[
-					103.76526,
-					1.295
-				]
-			],
-			"roadName": "AFT CLEMENTI RD"
+			"GEOMETRIES": "}s{FgwixRoB\\iDlA"
 		},
 		{
 			"BUS_SEQUENCE": 56,
@@ -2718,45 +1199,7 @@
 			"END_BUS_STOP_NUM": "17081",
 			"END_BUS_STOP_LATLNG": "1.2995030555339953, 103.76457888891024",
 			"DISTANCE": "21.5",
-			"GEOMETRIES": [
-				[
-					103.76526,
-					1.295
-				],
-				[
-					103.76405,
-					1.29762
-				],
-				[
-					103.76387,
-					1.29803
-				],
-				[
-					103.76358,
-					1.29865
-				],
-				[
-					103.76349,
-					1.29883
-				],
-				[
-					103.76338,
-					1.29909
-				],
-				[
-					103.76334,
-					1.29916
-				],
-				[
-					103.76373,
-					1.29926
-				],
-				[
-					103.76458,
-					1.29949
-				]
-			],
-			"roadName": "OPP WEST COAST VIEW"
+			"GEOMETRIES": "w|{F{sixRkOpFqAb@{Bx@c@Ps@TMFSmAm@iD"
 		},
 		{
 			"BUS_SEQUENCE": 58,
@@ -2767,37 +1210,7 @@
 			"END_BUS_STOP_NUM": "17031",
 			"END_BUS_STOP_LATLNG": "1.301723058276988, 103.76567633935802",
 			"DISTANCE": "22.1",
-			"GEOMETRIES": [
-				[
-					103.76458,
-					1.29949
-				],
-				[
-					103.76481,
-					1.29955
-				],
-				[
-					103.76493,
-					1.29958
-				],
-				[
-					103.76653,
-					1.30001
-				],
-				[
-					103.76649,
-					1.3001
-				],
-				[
-					103.76595,
-					1.30139
-				],
-				[
-					103.7658,
-					1.30177
-				]
-			],
-			"roadName": "AFT WEST COAST HIGHWAY"
+			"GEOMETRIES": "yx|FsoixRKm@EWuA_IQFaGjBkA\\"
 		},
 		{
 			"BUS_SEQUENCE": 59,
@@ -2808,37 +1221,7 @@
 			"END_BUS_STOP_NUM": "17041",
 			"END_BUS_STOP_LATLNG": "1.304210157061399, 103.76455953939508",
 			"DISTANCE": "22.5",
-			"GEOMETRIES": [
-				[
-					103.7658,
-					1.30177
-				],
-				[
-					103.76547,
-					1.30256
-				],
-				[
-					103.76543,
-					1.30264
-				],
-				[
-					103.76526,
-					1.30301
-				],
-				[
-					103.76496,
-					1.30363
-				],
-				[
-					103.76479,
-					1.30403
-				],
-				[
-					103.76468,
-					1.30426
-				]
-			],
-			"roadName": "KENT RIDGE SEC SCH"
+			"GEOMETRIES": "ag}FgwixR}C`AOFiA`@{Bz@oA`@m@T"
 		},
 		{
 			"BUS_SEQUENCE": 60,
@@ -2849,93 +1232,7 @@
 			"END_BUS_STOP_NUM": "17251",
 			"END_BUS_STOP_LATLNG": "1.3114786963609966, 103.76744350624885",
 			"DISTANCE": "22.8",
-			"GEOMETRIES": [
-				[
-					103.76468,
-					1.30426
-				],
-				[
-					103.76466,
-					1.30432
-				],
-				[
-					103.76433,
-					1.30498
-				],
-				[
-					103.76423,
-					1.3052
-				],
-				[
-					103.76398,
-					1.30569
-				],
-				[
-					103.76382,
-					1.30601
-				],
-				[
-					103.76364,
-					1.30629
-				],
-				[
-					103.76342,
-					1.30653
-				],
-				[
-					103.76348,
-					1.30661
-				],
-				[
-					103.76358,
-					1.30676
-				],
-				[
-					103.76378,
-					1.30692
-				],
-				[
-					103.76442,
-					1.30721
-				],
-				[
-					103.76476,
-					1.30736
-				],
-				[
-					103.76487,
-					1.30744
-				],
-				[
-					103.76522,
-					1.30767
-				],
-				[
-					103.76559,
-					1.30799
-				],
-				[
-					103.76587,
-					1.30836
-				],
-				[
-					103.76655,
-					1.3095
-				],
-				[
-					103.7668,
-					1.30991
-				],
-				[
-					103.76732,
-					1.31088
-				],
-				[
-					103.76757,
-					1.31142
-				]
-			],
-			"roadName": "BLK 726 CLEMENTI WEST MKT"
+			"GEOMETRIES": "sv}FgpixRKBcC`Ak@RaBp@_A^w@b@o@j@OK]S_@g@y@_C]cAOUm@eA_AiAiAw@cFgCqAq@aEgBkBq@"
 		},
 		{
 			"BUS_SEQUENCE": 61,
@@ -2946,45 +1243,7 @@
 			"END_BUS_STOP_NUM": "17161",
 			"END_BUS_STOP_LATLNG": "1.3124099360360528, 103.76685476875126",
 			"DISTANCE": "23.8",
-			"GEOMETRIES": [
-				[
-					103.76757,
-					1.31142
-				],
-				[
-					103.76757,
-					1.31143
-				],
-				[
-					103.76767,
-					1.31164
-				],
-				[
-					103.76767,
-					1.31182
-				],
-				[
-					103.76763,
-					1.31196
-				],
-				[
-					103.76757,
-					1.31208
-				],
-				[
-					103.76744,
-					1.31225
-				],
-				[
-					103.76696,
-					1.31253
-				],
-				[
-					103.76696,
-					1.31254
-				]
-			],
-			"roadName": "BLK 460"
+			"GEOMETRIES": "kc_GibjxRA?i@Sc@?[FWJa@Xw@~AA?"
 		},
 		{
 			"BUS_SEQUENCE": 62,
@@ -2993,109 +1252,20 @@
 			"START_BUS_STOP_NUM": "17161",
 			"START_BUS_STOP_LATLNG": "1.3124099360360528, 103.76685476875126",
 			"END_BUS_STOP_NUM": "17171",
-			"END_BUS_STOP_LATLNG": "1.3149739926861135, 103.76502698264449",
+			"END_BUS_STOP_LATLNG": "1.3153338869524653, 103.76486111466619",
 			"DISTANCE": "24",
-			"GEOMETRIES": [
-				[
-					103.76696,
-					1.31254
-				],
-				[
-					103.76695,
-					1.31254
-				],
-				[
-					103.7665,
-					1.31291
-				],
-				[
-					103.76636,
-					1.31305
-				],
-				[
-					103.76623,
-					1.31319
-				],
-				[
-					103.76601,
-					1.31348
-				],
-				[
-					103.76577,
-					1.31387
-				],
-				[
-					103.76561,
-					1.3142
-				],
-				[
-					103.76542,
-					1.31463
-				],
-				[
-					103.76524,
-					1.31506
-				],
-				[
-					103.76523,
-					1.31506
-				]
-			],
-			"roadName": "BLK 455"
+			"GEOMETRIES": "kj_Go~ixR?@iAxA[Z[Xy@j@mAn@aA^uAd@uAb@?@"
 		},
 		{
 			"BUS_SEQUENCE": 63,
 			"START_BUS_STOP": "Clementi Stn Exit A/Mall",
 			"END_BUS_STOP": "CLEMENTI INT",
 			"START_BUS_STOP_NUM": "17171",
-			"START_BUS_STOP_LATLNG": "1.3149739926861135, 103.76502698264449",
+			"START_BUS_STOP_LATLNG": "1.3153338869524653, 103.76486111466619",
 			"END_BUS_STOP_NUM": "17009",
 			"END_BUS_STOP_LATLNG": "1.3149157287062903, 103.76412225438477",
 			"DISTANCE": "24.4",
-			"GEOMETRIES": [
-				[
-					103.76523,
-					1.31506
-				],
-				[
-					103.76517,
-					1.3152
-				],
-				[
-					103.76502,
-					1.31557
-				],
-				[
-					103.76495,
-					1.31575
-				],
-				[
-					103.76479,
-					1.31606
-				],
-				[
-					103.76425,
-					1.31565
-				],
-				[
-					103.76439,
-					1.31543
-				],
-				[
-					103.76452,
-					1.31525
-				],
-				[
-					103.76448,
-					1.31512
-				],
-				[
-					103.76412,
-					1.31492
-				]
-			],
-			"roadName": "Clementi Stn Exit A/Mall"
+			"GEOMETRIES": "cz_GusixR[JiA\\c@L}@^pAjBj@[b@YXFf@fA"
 		}
-	],
-	"BUS_DIRECTION_TWO": null
+	]
 }
