@@ -1,3 +1,205 @@
+# 2 January 2026
+
+## Stops count change: 5179 ⮕ 5194
+
+### Stops added: 17
+
+- `40281` Blk 467B
+- `40289` Opp Blk 467B
+- `43551` Opp Blk 435A
+- `43559` Bef Blk 435A
+- `58469` Opp Innova Pr Sch
+- `62301` Blk 181
+- `62309` Blk 178A
+- `63119` Aft Hougang Ave 1
+- `65799` Blk 654D
+- `66701` Goldenhill Pk Condo
+- `66709` Lor Chuan Stn Exit B
+- `67709` Opp Blk 465A
+- `67749` Thanggam Stn Exit A
+- `69091` Opp Blk 227
+- `74961` Blk 966
+- `74969` Opp Blk 966
+- `74979` Blk 967A
+
+### Stops removed: 2
+
+- `27381` Blk 749
+- `27389` Gek Poh Shop Ctr
+
+### Stop names changed: 1
+
+- `65569` Blk 654D ⮕ Blk 656A
+
+### Stop locations changed: 76
+
+- `17171` 103.76503,1.31497 ⮕ 103.76486,1.31533
+- `21691` 103.71139,1.34108 ⮕ 103.71222,1.34138
+- `21699` 103.71203,1.34155 ⮕ 103.71232,1.34162
+- `22491` 103.70515,1.3367 ⮕ 103.7052,1.33674
+- `22499` 103.70481,1.33719 ⮕ 103.70463,1.33771
+- `27371` 103.70099,1.34751 ⮕ 103.70116,1.34754
+- `27379` 103.70087,1.34805 ⮕ 103.70097,1.34802
+- `27391` 103.69631,1.34843 ⮕ 103.69615,1.3485
+- `27399` 103.6964,1.34866 ⮕ 103.6964,1.34868
+- `28289` 103.73599,1.34239 ⮕ 103.73576,1.34206
+- `28299` 103.73667,1.34438 ⮕ 103.7368,1.34466
+- `28379` 103.72426,1.34514 ⮕ 103.724,1.34508
+- `40181` 103.8383,1.31264 ⮕ 103.83808,1.31247
+- `40359` 103.74091,1.3554 ⮕ 103.7408,1.35559
+- `43601` 103.74951,1.35664 ⮕ 103.74961,1.3566
+- `43609` 103.74992,1.35654 ⮕ 103.75002,1.35666
+- `43779` 103.74177,1.36196 ⮕ 103.7414,1.36151
+- `43781` 103.7386,1.35886 ⮕ 103.73895,1.35911
+- `52189` 103.84678,1.33318 ⮕ 103.84671,1.33321
+- `52199` 103.84664,1.33547 ⮕ 103.84664,1.3355
+- `52209` 103.84678,1.33926 ⮕ 103.84677,1.33932
+- `52579` 103.85803,1.33295 ⮕ 103.85802,1.33337
+- `54391` 103.84829,1.37162 ⮕ 103.8483,1.37155
+- `58461` 103.79045,1.42966 ⮕ 103.79048,1.42966
+- `62061` 103.88178,1.34174 ⮕ 103.88177,1.34175
+- `62069` 103.88161,1.3421 ⮕ 103.88165,1.3419
+- `62241` 103.89114,1.34503 ⮕ 103.89118,1.34507
+- `63039` 103.88538,1.36026 ⮕ 103.8852,1.36004
+- `63269` 103.88906,1.35875 ⮕ 103.88911,1.35868
+- `63281` 103.88988,1.35413 ⮕ 103.88979,1.35415
+- `63289` 103.88966,1.35401 ⮕ 103.88966,1.35394
+- `64541` 103.89261,1.37123 ⮕ 103.89281,1.37124
+- `64549` 103.89171,1.3714 ⮕ 103.89229,1.37148
+- `64551` 103.89074,1.37042 ⮕ 103.89092,1.37035
+- `64559` 103.89081,1.3706 ⮕ 103.89091,1.37055
+- `65101` 103.90874,1.40789 ⮕ 103.90874,1.40789
+- `65109` 103.90882,1.4077 ⮕ 103.90882,1.4077
+- `65301` 103.90963,1.40438 ⮕ 103.90939,1.40452
+- `65321` 103.91659,1.39943 ⮕ 103.91672,1.39927
+- `65569` 103.9192,1.39863 ⮕ 103.92035,1.4002
+- `65691` 103.91196,1.42015 ⮕ 103.91196,1.42015
+- `65699` 103.91203,1.41996 ⮕ 103.91203,1.41996
+- `65701` 103.91108,1.41169 ⮕ 103.91108,1.41169
+- `65709` 103.9105,1.41132 ⮕ 103.9105,1.41132
+- `65711` 103.91168,1.4171 ⮕ 103.91168,1.4171
+- `65719` 103.91203,1.417 ⮕ 103.91158,1.417
+- `65721` 103.91169,1.41494 ⮕ 103.91169,1.41494
+- `65729` 103.91128,1.41468 ⮕ 103.91128,1.41468
+- `66021` 103.86183,1.35097 ⮕ 103.86117,1.35029
+- `66029` 103.86144,1.35017 ⮕ 103.86141,1.35016
+- `66109` 103.87461,1.36998 ⮕ 103.87527,1.36966
+- `66331` 103.87015,1.37173 ⮕ 103.87036,1.37164
+- `66391` 103.86484,1.35097 ⮕ 103.86481,1.35102
+- `66399` 103.86325,1.35149 ⮕ 103.86313,1.35154
+- `66561` 103.88261,1.38349 ⮕ 103.88246,1.38343
+- `66569` 103.88262,1.38327 ⮕ 103.88253,1.3832
+- `67191` 103.89711,1.38909 ⮕ 103.8971,1.38913
+- `67199` 103.89689,1.38895 ⮕ 103.89681,1.38874
+- `67279` 103.89168,1.38809 ⮕ 103.89179,1.38822
+- `67379` 103.88701,1.39273 ⮕ 103.88713,1.39297
+- `67409` 103.89607,1.39234 ⮕ 103.89612,1.39242
+- `67441` 103.89347,1.39231 ⮕ 103.89348,1.39238
+- `67481` 103.87765,1.3915 ⮕ 103.87768,1.39148
+- `67541` 103.88633,1.39478 ⮕ 103.88653,1.39478
+- `67571` 103.87392,1.39516 ⮕ 103.87444,1.39504
+- `67579` 103.87347,1.39484 ⮕ 103.87485,1.39476
+- `67741` 103.87562,1.39713 ⮕ 103.8757,1.39679
+- `70061` 103.87444,1.3375 ⮕ 103.8743,1.33759
+- `76289` 103.93815,1.34739 ⮕ 103.93821,1.34715
+- `78241` 103.95765,1.37211 ⮕ 103.95764,1.37212
+- `81189` 103.88851,1.30821 ⮕ 103.88851,1.30834
+- `81199` 103.89063,1.30863 ⮕ 103.89023,1.30868
+- `82071` 103.89541,1.30725 ⮕ 103.89545,1.30726
+- `82089` 103.8943,1.31086 ⮕ 103.89425,1.31095
+- `82129` 103.89661,1.30943 ⮕ 103.89659,1.3095
+- `09048` 103.83413,1.30387 ⮕ 103.83417,1.30384
+
+## Services count change: 583 ⮕ 587
+
+### Services added: 5
+
+- `679` Opp Blk 471A / Blk 471A ⇄ Suntec Twr Two / Suntec Twr Three
+- `680` Blk 991A / Opp Blk 991A ⇄ Aft Dhoby Ghaut Stn / YMCA
+- `681` Blk 477A / Opp Blk 477A ⇄ Revival Ctr Ch / St. Joseph Instn Jnr
+- `682` Blk 204 CP / Opp Blk 204 CP ⇄ Aft Dhoby Ghaut Stn / YMCA
+- `683` Blk 162B / Blk 649 ⇄ Revival Ctr Ch / St. Joseph Instn Jnr
+
+### Services removed: 1
+
+- `18A` Tampines Nth Int → Tampines East Stn Exit D
+
+### Bus Stop Changes To Routes: 30
+
+- `195` Aft S'pore Flyer → Promenade Stn/Pan Pacific: -2
+- `146` Woodleigh Int ⟲ Kovan Stn Exit C: +14
+- `58` Bishan Int ⇄ Pasir Ris Int: +2
+- `73` Ang Mo Kio Int ⟲ Toa Payoh Int: +2
+- `104` Punggol Coast Int ⇄ Woodleigh Int: +1
+- `114` Buangkok Int → Yio Chu Kang Int: +25, -8
+- `148` Woodleigh Int ⟲ Blk 121: +1
+- `159` Sengkang Int ⇄ Toa Payoh Int: +2
+- `181` Boon Lay Int ⟲ Blk 276B: +2, -2
+- `258` Joo Koon Int ⟲ Opp Blk 662C: +2, -2
+- `299` Tampines Nth Int ⟲ Blk 969C: +3
+- `381` Punggol Int ⟲ Blk 656A: +1
+- `502` Soon Lee Bus Pk ⟲ Raffles Hotel: +2, -2
+- `651` Opp Blk 276B / Blk 276B ⇄ Marina Bay Financial Ctr / Marina Bay Stn: +2, -2
+- `678` Blk 162B / Blk 649 ⇄ Suntec Twr Two / Suntec Twr Three: +1
+- `871` Tengah Int ⟲ Opp Beauty World Stn: +2
+- `900` Woodlands Int ⟲ Blk 589: +1
+- `967` Woodlands Temp Int ⟲ W'lands Health Campus: +1
+- `983` Choa Chu Kang Int ⟲ Aft Bt Panjang Stn: +4
+- `992` Bt Batok Int ⇄ Tengah Int: +2
+- `114A` Buangkok Int → Blk 991B: +5, -4
+- `181M` Boon Lay Int ⟲ Blk 276B: +2, -2
+- `243G` Boon Lay Int ⟲ Blk 827: +1, -1
+- `243W` Boon Lay Int ⟲ Blk 844A CP: +1, -1
+- `258M` Joo Koon Int ⟲ Boon Lay CC: +2, -2
+- `502A` Soon Lee Bus Pk → Downtown Stn Exit E: +1, -1
+- `73T` Ang Mo Kio Int → Toa Payoh Int: +1
+- `871A` Tengah Int → Blk 240: +1
+- `983A` Choa Chu Kang Int → Blk 26: +2
+- `983M` Opp Blk 486 → Aft Teck Whye Walk: +2
+
+## Routes changed: 36
+
+- `146` Woodleigh Int ⟲ Kovan Stn Exit C
+- `12` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `25` Ang Mo Kio Int ⇄ Upp East Coast Ter
+- `37` Tampines Int ⟲ Seamap
+- `82` Punggol Int ⟲ S'goon Stn Exit E
+- `83` Punggol Int ⟲ Sengkang Int
+- `86` Sengkang Int ⇄ Ang Mo Kio Int
+- `90` Toa Payoh Int ⟲ Opp Air Force Museum
+- `92` Ghim Moh Ter ⟲ Opp Ayer Rajah Ind Est
+- `96` Clementi Int ⟲ Information Technology
+- `125` St. Michael's Ter ⟲ Bef Lor 23 Geylang
+- `136` Ang Mo Kio Int ⇄ Punggol Int
+- `139` Toa Payoh Int ⇄ Bt Merah Int
+- `151` Hougang Ctrl Int ⇄ Kent Ridge Ter
+- `165` Hougang Ctrl Int ⇄ Clementi Int
+- `175` Clementi Int ⇄ Lor 1 Geylang Ter
+- `177` Bt Batok Int ⟲ Blk 180
+- `261` Ang Mo Kio Int ⟲ Opp Townsville Pr Sch
+- `262` Ang Mo Kio Int ⟲ Blk 255
+- `269` Ang Mo Kio Int ⟲ Blk 645
+- `282` Clementi Int ⟲ Blk 723
+- `284` Clementi Int ⟲ Blk 308
+- `299` Tampines Nth Int ⟲ Blk 969C
+- `307` Choa Chu Kang Int ⟲ Blk 702
+- `371` Sengkang Int ⟲ Rumbia Stn Exit B/Blk 153
+- `927` Choa Chu Kang Int ⟲ Opp Bird Paradise
+- `114A` Buangkok Int → Blk 991B
+- `12e` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `190A` Choa Chu Kang Int → Dhoby Ghaut Stn
+- `307A` Choa Chu Kang Int → Opp Choa Chu Kang Stn
+- `518A` Pasir Ris Int → Bayfront Stn Exit A
+- `679` Opp Blk 471A / Blk 471A ⇄ Suntec Twr Two / Suntec Twr Three
+- `680` Blk 991A / Opp Blk 991A ⇄ Aft Dhoby Ghaut Stn / YMCA
+- `681` Blk 477A / Opp Blk 477A ⇄ Revival Ctr Ch / St. Joseph Instn Jnr
+- `682` Blk 204 CP / Opp Blk 204 CP ⇄ Aft Dhoby Ghaut Stn / YMCA
+- `683` Blk 162B / Blk 649 ⇄ Revival Ctr Ch / St. Joseph Instn Jnr
+
+## First/last timings changed
+
+Affected services: `58`, `73`, `79`, `88`, `98`, `104`, `114`, `146`, `148`, `159`, `173`, `181`, `189`, `195`, `258`, `299`, `381`, `502`, `651`, `653`, `678`, `857`, `858`, `859`, `861`, `871`, `883`, `900`, `950`, `965`, `966`, `967`, `983`, `992`, `98M`, `502A`, `258M`, `181M`, `243G`, `243W`, `871A`, `189A`, `983A`, `983M`, `966A`, `858A`, `965A`, `965T`, `73T`, `857A`, `857B`, `859A`, `859B`, `861A`, `861B`, `114A`, `858B`, `58B`, `679`, `680`, `681`, `682`, `683`, `872A`
+
 # 1 December 2025
 
 ## Stops count change: 5175 ⮕ 5179

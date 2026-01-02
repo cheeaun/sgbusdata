@@ -264,6 +264,61 @@
 		]
 	},
 	{
+		"number": 679,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"679-1.kml",
+			"679-2.kml"
+		],
+		"routeFile": [
+			"679.xml"
+		]
+	},
+	{
+		"number": 680,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"680-1.kml",
+			"680-2.kml"
+		],
+		"routeFile": [
+			"680.xml"
+		]
+	},
+	{
+		"number": 681,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"681-1.kml",
+			"681-2.kml"
+		],
+		"routeFile": [
+			"681.xml"
+		]
+	},
+	{
+		"number": 682,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"682-1.kml",
+			"682-2.kml"
+		],
+		"routeFile": [
+			"682.xml"
+		]
+	},
+	{
+		"number": 683,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"683-1.kml",
+			"683-2.kml"
+		],
+		"routeFile": [
+			"683.xml"
+		]
+	},
+	{
 		"number": "-P11",
 		"description": "PBS from Grande Vista to Yio Chu Kang/Ang Mo Kio MRT Stations (loop)",
 		"type": "PREMIUM",
@@ -389,17 +444,6 @@
 		]
 	},
 	{
-		"number": 570,
-		"description": "Pasir Ris Drive 1 - Changi Business Park",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"570-1.kml"
-		],
-		"routeFile": [
-			"570.xml"
-		]
-	},
-	{
 		"number": 573,
 		"description": "Ang Mo Kio Avenue 6 to Alexandra Road",
 		"type": "PREMIUM",
@@ -470,7 +514,7 @@
 	},
 	{
 		"number": 721,
-		"description": "Brickland Road/Choa Chu Kang Ave 3 - North Buona Vista Road",
+		"description": "Tengah Dr/Plantation Cres- North Buona Vista Road",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"721-1.kml",
@@ -560,6 +604,17 @@
 		],
 		"routeFile": [
 			"742.xml"
+		]
+	},
+	{
+		"number": 747,
+		"description": "Canberra Road to Telok Blangah Road",
+		"type": "PREMIUM",
+		"kmlFile": [
+			"747-1.kml"
+		],
+		"routeFile": [
+			"747.xml"
 		]
 	},
 	{
@@ -1232,7 +1287,8 @@
 		"number": 114,
 		"type": "TRUNK",
 		"kmlFile": [
-			"114-1.kml"
+			"114-1.kml",
+			"114-2.kml"
 		],
 		"routeFile": [
 			"114.xml"
@@ -1793,8 +1849,7 @@
 		"number": 146,
 		"type": "TRUNK",
 		"kmlFile": [
-			"146-1.kml",
-			"146-2.kml"
+			"146-1.kml"
 		],
 		"routeFile": [
 			"146.xml"
@@ -5590,6 +5645,16 @@
 		],
 		"routeFile": [
 			"872.xml"
+		]
+	},
+	{
+		"number": "872A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"872A-1.kml"
+		],
+		"routeFile": [
+			"872A.xml"
 		]
 	},
 	{
