@@ -1,8 +1,8 @@
 [
 	{
-		"name": "From Sengkang Int to Ang Mo Kio Int",
+		"name": "From Compassvale Int to Ang Mo Kio Int",
 		"stops": [
-			"67009",
+			"67759",
 			"67191",
 			"67171",
 			"67139",
@@ -36,7 +36,7 @@
 		]
 	},
 	{
-		"name": "From Ang Mo Kio Int to Sengkang Int",
+		"name": "From Ang Mo Kio Int to Compassvale Int",
 		"stops": [
 			"54009",
 			"54247",
@@ -67,7 +67,7 @@
 			"67141",
 			"67179",
 			"67199",
-			"67009"
+			"67759"
 		]
 	}
 ]

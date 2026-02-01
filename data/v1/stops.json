@@ -1824,8 +1824,8 @@
 		"Henderson Rd"
 	],
 	"14249": [
-		103.8173,
-		1.27927,
+		103.8174,
+		1.27947,
 		"Blk 1",
 		"Henderson Rd"
 	],
@@ -1998,8 +1998,8 @@
 		"Telok Blangah St 31"
 	],
 	"14519": [
-		103.8257,
-		1.25352,
+		103.82084,
+		1.25671,
 		"Resorts World Sentosa",
 		"Sentosa Gateway"
 	],
@@ -2318,13 +2318,13 @@
 	"16091": [
 		103.77923,
 		1.29948,
-		"NUS Sports Ctr",
+		"NUS Sports Centre",
 		"AYE"
 	],
 	"16099": [
 		103.77815,
 		1.30061,
-		"Opp NUS Sports Ctr",
+		"Opp NUS Sports Centre",
 		"AYE"
 	],
 	"16101": [
@@ -7254,8 +7254,8 @@
 		"Nanyang Dr"
 	],
 	"27261": [
-		103.68632,
-		1.34332,
+		103.68692,
+		1.34378,
 		"Hall 4",
 		"Nanyang Dr"
 	],
@@ -10592,13 +10592,13 @@
 	"43719": [
 		103.76123,
 		1.36904,
-		"MINDEF CP",
+		"MINDEF Pick-Up/Drop-Off",
 		"Gombak Dr"
 	],
 	"43721": [
 		103.76265,
 		1.37076,
-		"Blk 319",
+		"MINDEF Pass Office",
 		"Gombak Dr"
 	],
 	"43731": [
@@ -11328,8 +11328,8 @@
 		"Choa Chu Kang Ave 3"
 	],
 	"44519": [
-		103.73971,
-		1.37915,
+		103.741,
+		1.38002,
 		"Blk 408",
 		"Choa Chu Kang Ave 3"
 	],
@@ -11340,8 +11340,8 @@
 		"Choa Chu Kang Ave 3"
 	],
 	"44529": [
-		103.74177,
-		1.38057,
+		103.74205,
+		1.38073,
 		"Blk 410",
 		"Choa Chu Kang Ave 3"
 	],
@@ -11978,37 +11978,37 @@
 	"45181": [
 		103.76127,
 		1.41163,
-		"Opp Mandai CD Trg Village",
+		"Bef Mandai Quarry Rd",
 		"Mandai Rd"
 	],
 	"45189": [
 		103.76099,
 		1.41134,
-		"Mandai CD Trg Village",
+		"Aft Mandai Quarry Rd",
 		"Mandai Rd"
 	],
 	"45191": [
 		103.76348,
 		1.41065,
-		"Opp Mandai Police Trg Camp",
+		"Opp Home Team Tactical Ctr",
 		"Mandai Rd"
 	],
 	"45199": [
 		103.76322,
 		1.41035,
-		"Mandai Police Trg Camp",
+		"Home Team Tactical Ctr",
 		"Mandai Rd"
 	],
 	"45201": [
 		103.76582,
 		1.41047,
-		"Opp Police Tactical Trg Camp",
+		"Opp Mandai Hill Camp",
 		"Mandai Rd"
 	],
 	"45209": [
 		103.76653,
 		1.41,
-		"Police Tactical Trg Camp",
+		"Aft Mandai Hill Camp",
 		"Mandai Rd"
 	],
 	"45211": [
@@ -13928,13 +13928,13 @@
 	"48091": [
 		103.81238,
 		1.40275,
-		"SCDF Nee Soon Camp",
+		"Aft Bath Rd",
 		"Mandai Rd"
 	],
 	"48099": [
 		103.812,
 		1.40293,
-		"Opp SCDF Nee Soon Camp",
+		"Aft Mandai Rd Track 7",
 		"Mandai Rd"
 	],
 	"48101": [
@@ -14090,7 +14090,7 @@
 	"49101": [
 		103.75585,
 		1.43019,
-		"Opp Ordinance Supply Base",
+		"Aft Kranji Cl",
 		"Kranji Rd"
 	],
 	"49109": [
@@ -14886,14 +14886,14 @@
 		"Lor 2 Toa Payoh"
 	],
 	"52201": [
-		103.84651,
-		1.33918,
+		103.84675,
+		1.33972,
 		"Blk 121",
 		"Lor 2 Toa Payoh"
 	],
 	"52209": [
-		103.84677,
-		1.33932,
+		103.84669,
+		1.33915,
 		"Blk 101C CP",
 		"Lor 2 Toa Payoh"
 	],
@@ -15768,14 +15768,14 @@
 		"Bishan St 23"
 	],
 	"53509": [
-		103.8365,
-		1.35683,
+		103.83669,
+		1.35718,
 		"LTA Sin Ming Office",
 		"Sin Ming Dr"
 	],
 	"53519": [
-		103.83784,
-		1.35962,
+		103.83802,
+		1.35997,
 		"Sin Ming Autocity",
 		"Sin Ming Dr"
 	],
@@ -17192,7 +17192,7 @@
 	"58069": [
 		103.83043,
 		1.45219,
-		"Opp Durban Rd",
+		"Blk 101A",
 		"Sembawang Rd"
 	],
 	"58071": [
@@ -18474,8 +18474,8 @@
 		"Yishun Ave 6"
 	],
 	"59599": [
-		103.84968,
-		1.42641,
+		103.84969,
+		1.42696,
 		"Opp Blk 406",
 		"Yishun Ave 6"
 	],
@@ -18654,8 +18654,8 @@
 		"Yishun Ave 1"
 	],
 	"59781": [
-		103.85126,
-		1.42322,
+		103.85111,
+		1.42306,
 		"Aft Yishun Ave 6",
 		"Yishun Ave 1"
 	],
@@ -20688,14 +20688,14 @@
 		"Punggol Ctrl"
 	],
 	"65261": [
-		103.91481,
-		1.39671,
+		103.915,
+		1.39685,
 		"Blk 649",
 		"Punggol Ctrl"
 	],
 	"65269": [
-		103.91416,
-		1.39718,
+		103.91542,
+		1.39636,
 		"Blk 162B",
 		"Punggol Ctrl"
 	],
@@ -22589,6 +22589,12 @@
 		"Blk 156A CP",
 		"Rivervale Cres"
 	],
+	"67689": [
+		103.89514,
+		1.39071,
+		"Sengkang Stn Exit C",
+		"Sengkang Sq"
+	],
 	"67691": [
 		103.88878,
 		1.39899,
@@ -22652,7 +22658,7 @@
 	"67741": [
 		103.8757,
 		1.39679,
-		"Thanggam Stn",
+		"Thanggam Stn Exit B",
 		"Fernvale Rd"
 	],
 	"67749": [
@@ -22660,6 +22666,12 @@
 		1.39694,
 		"Thanggam Stn Exit A",
 		"Fernvale Rd"
+	],
+	"67759": [
+		103.8972,
+		1.3913,
+		"Compassvale Int",
+		"Compassvale Rd"
 	],
 	"67761": [
 		103.8876,
@@ -22784,13 +22796,13 @@
 	"68061": [
 		103.87206,
 		1.40719,
-		"Sing-China Bldg",
+		"Aft Mornington Cres",
 		"Piccadilly"
 	],
 	"68069": [
 		103.87228,
 		1.40757,
-		"Opp Sing-China Bldg",
+		"Aft Battersea Rd",
 		"Piccadilly"
 	],
 	"68081": [
@@ -22832,13 +22844,13 @@
 	"68111": [
 		103.87139,
 		1.40222,
-		"Bef Seletar Camp G",
+		"Bef Piccadilly Circus/TPE",
 		"Jln Kayu"
 	],
 	"68119": [
 		103.87217,
 		1.40219,
-		"Aft Seletar Camp G",
+		"Aft Piccadilly Circus/TPE",
 		"Jln Kayu"
 	],
 	"68121": [
@@ -23238,14 +23250,14 @@
 		"Paya Lebar Rd"
 	],
 	"70281": [
-		103.888,
-		1.33531,
+		103.88797,
+		1.33545,
 		"Aft Tai Seng Stn",
 		"Upp Paya Lebar Rd"
 	],
 	"70289": [
-		103.88869,
-		1.33506,
+		103.88858,
+		1.33505,
 		"Aft Tai Seng Stn Exit C",
 		"Upp Paya Lebar Rd"
 	],
@@ -23798,7 +23810,7 @@
 	"73049": [
 		103.89912,
 		1.35076,
-		"Air Force Sch",
+		"Air Force Trg Cmd",
 		"Airport Rd"
 	],
 	"74009": [
@@ -24300,8 +24312,8 @@
 		"Tampines Ave 10"
 	],
 	"75411": [
-		103.92906,
-		1.35608,
+		103.92937,
+		1.35661,
 		"Bef Tampines Fire Stn",
 		"Tampines Ave 10"
 	],
@@ -26856,8 +26868,8 @@
 		"New Upp Changi Rd"
 	],
 	"84051": [
-		103.9389,
-		1.3252,
+		103.93876,
+		1.32521,
 		"Bedok Sports Cplx",
 		"New Upp Changi Rd"
 	],
@@ -27811,7 +27823,7 @@
 	],
 	"91091": [
 		103.88437,
-		1.30315,
+		1.30316,
 		"Bef Kg Kayu Rd",
 		"Mountbatten Rd"
 	],
@@ -28152,8 +28164,8 @@
 		"Marine Parade Rd"
 	],
 	"93031": [
-		103.92938,
-		1.30984,
+		103.92868,
+		1.30963,
 		"Siglap Stn/Opp Victoria Sch",
 		"Marine Parade Rd"
 	],
@@ -28452,20 +28464,20 @@
 		"ECP"
 	],
 	"95011": [
-		103.98406,
-		1.34719,
+		103.98361,
+		1.34612,
 		"Aft Aircraft Flyover",
 		"Airport Blvd"
 	],
 	"95019": [
-		103.98488,
-		1.34794,
+		103.98485,
+		1.34798,
 		"Aft Changi Airport Ter 2",
 		"Airport Blvd"
 	],
 	"95029": [
-		103.9907,
-		1.36127,
+		103.99076,
+		1.36111,
 		"Changi Airport Ter 1",
 		"PTB1 Basement"
 	],
@@ -28542,14 +28554,14 @@
 		"Nicoll Dr"
 	],
 	"95109": [
-		103.98635,
-		1.3565,
+		103.98716,
+		1.35738,
 		"Changi Airport Ter 3",
 		"PTB3 Basement"
 	],
 	"95129": [
-		103.98922,
-		1.35509,
+		103.98864,
+		1.35533,
 		"Changi Airport Ter 2",
 		"PTB2 Basement"
 	],
@@ -28662,8 +28674,8 @@
 		"Upp Changi Rd East"
 	],
 	"96021": [
-		103.95664,
-		1.33398,
+		103.95657,
+		1.33394,
 		"Opp Expo Halls 1/2/3",
 		"Upp Changi Rd East"
 	],
@@ -29624,13 +29636,13 @@
 	"99011": [
 		103.97812,
 		1.38328,
-		"Bef Sch of Commando",
+		"Bef Hendon Camp",
 		"Loyang Ave"
 	],
 	"99019": [
 		103.97845,
 		1.38371,
-		"Aft Sch of Commando",
+		"Aft Hendon Camp",
 		"Loyang Ave"
 	],
 	"99021": [
@@ -30548,7 +30560,7 @@
 	"05131": [
 		103.84534,
 		1.28407,
-		"Opp Hong Lim Cplx",
+		"Opp Chinatown Stn",
 		"Upp Cross St"
 	],
 	"05189": [

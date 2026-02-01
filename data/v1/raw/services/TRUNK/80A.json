@@ -1,8 +1,8 @@
 [
 	{
-		"name": "From Sengkang Int to Aljunied Stn",
+		"name": "From Compassvale Int to Aljunied Stn",
 		"stops": [
-			"67009",
+			"67759",
 			"67191",
 			"67171",
 			"65029",
@@ -10,6 +10,7 @@
 			"64029",
 			"64429",
 			"64381",
+			"64391",
 			"64549",
 			"64019",
 			"63069",

@@ -1,8 +1,8 @@
 [
 	{
-		"name": "From Sengkang Int to Bedok Int",
+		"name": "From Compassvale Int to Bedok Int",
 		"stops": [
-			"67009",
+			"67759",
 			"67191",
 			"67201",
 			"67211",
@@ -38,7 +38,7 @@
 		]
 	},
 	{
-		"name": "From Bedok Int to Sengkang Int",
+		"name": "From Bedok Int to Compassvale Int",
 		"stops": [
 			"84009",
 			"84301",
@@ -71,7 +71,7 @@
 			"67219",
 			"67209",
 			"67199",
-			"67009"
+			"67759"
 		]
 	}
 ]

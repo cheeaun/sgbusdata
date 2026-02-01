@@ -905,7 +905,7 @@
 	{
 		"BusStopCode": "05131",
 		"RoadName": "Upp Cross St",
-		"Description": "Opp Hong Lim Cplx",
+		"Description": "Opp Chinatown Stn",
 		"Latitude": 1.284073056,
 		"Longitude": 103.8453381
 	},
@@ -3755,8 +3755,8 @@
 		"BusStopCode": "14249",
 		"RoadName": "Henderson Rd",
 		"Description": "Blk 1",
-		"Latitude": 1.279267,
-		"Longitude": 103.8173
+		"Latitude": 1.279469339,
+		"Longitude": 103.8173996
 	},
 	{
 		"BusStopCode": "14259",
@@ -3958,8 +3958,8 @@
 		"BusStopCode": "14519",
 		"RoadName": "Sentosa Gateway",
 		"Description": "Resorts World Sentosa",
-		"Latitude": 1.25352193438281,
-		"Longitude": 103.82570322127442
+		"Latitude": 1.256714167,
+		"Longitude": 103.8208411
 	},
 	{
 		"BusStopCode": "14521",
@@ -4328,14 +4328,14 @@
 	{
 		"BusStopCode": "16091",
 		"RoadName": "AYE",
-		"Description": "NUS Sports Ctr",
+		"Description": "NUS Sports Centre",
 		"Latitude": 1.299478,
 		"Longitude": 103.779229
 	},
 	{
 		"BusStopCode": "16099",
 		"RoadName": "AYE",
-		"Description": "Opp NUS Sports Ctr",
+		"Description": "Opp NUS Sports Centre",
 		"Latitude": 1.30061249997689,
 		"Longitude": 103.77815138886747
 	},
@@ -10090,8 +10090,8 @@
 		"BusStopCode": "27261",
 		"RoadName": "Nanyang Dr",
 		"Description": "Hall 4",
-		"Latitude": 1.34332011366726,
-		"Longitude": 103.68632093846232
+		"Latitude": 1.343777,
+		"Longitude": 103.686919
 	},
 	{
 		"BusStopCode": "27271",
@@ -13981,14 +13981,14 @@
 	{
 		"BusStopCode": "43719",
 		"RoadName": "Gombak Dr",
-		"Description": "MINDEF CP",
+		"Description": "MINDEF Pick-Up/Drop-Off",
 		"Latitude": 1.36903972225026,
 		"Longitude": 103.76123388888554
 	},
 	{
 		"BusStopCode": "43721",
 		"RoadName": "Gombak Dr",
-		"Description": "Blk 319",
+		"Description": "MINDEF Pass Office",
 		"Latitude": 1.37076302526768,
 		"Longitude": 103.7626491371365
 	},
@@ -14843,8 +14843,8 @@
 		"BusStopCode": "44519",
 		"RoadName": "Choa Chu Kang Ave 3",
 		"Description": "Blk 408",
-		"Latitude": 1.3791475870641,
-		"Longitude": 103.73970664823418
+		"Latitude": 1.380017,
+		"Longitude": 103.740996
 	},
 	{
 		"BusStopCode": "44521",
@@ -14857,8 +14857,8 @@
 		"BusStopCode": "44529",
 		"RoadName": "Choa Chu Kang Ave 3",
 		"Description": "Blk 410",
-		"Latitude": 1.38057038161005,
-		"Longitude": 103.7417695571546
+		"Latitude": 1.380733,
+		"Longitude": 103.742052
 	},
 	{
 		"BusStopCode": "44531",
@@ -15598,42 +15598,42 @@
 	{
 		"BusStopCode": "45181",
 		"RoadName": "Mandai Rd",
-		"Description": "Opp Mandai CD Trg Village",
+		"Description": "Bef Mandai Quarry Rd",
 		"Latitude": 1.41163371804971,
 		"Longitude": 103.76126994848113
 	},
 	{
 		"BusStopCode": "45189",
 		"RoadName": "Mandai Rd",
-		"Description": "Mandai CD Trg Village",
+		"Description": "Aft Mandai Quarry Rd",
 		"Latitude": 1.41134149901997,
 		"Longitude": 103.76099444217142
 	},
 	{
 		"BusStopCode": "45191",
 		"RoadName": "Mandai Rd",
-		"Description": "Opp Mandai Police Trg Camp",
+		"Description": "Opp Home Team Tactical Ctr",
 		"Latitude": 1.41064903489935,
 		"Longitude": 103.7634845917912
 	},
 	{
 		"BusStopCode": "45199",
 		"RoadName": "Mandai Rd",
-		"Description": "Mandai Police Trg Camp",
+		"Description": "Home Team Tactical Ctr",
 		"Latitude": 1.41035479540467,
 		"Longitude": 103.76322407621203
 	},
 	{
 		"BusStopCode": "45201",
 		"RoadName": "Mandai Rd",
-		"Description": "Opp Police Tactical Trg Camp",
+		"Description": "Opp Mandai Hill Camp",
 		"Latitude": 1.41047253271791,
 		"Longitude": 103.76582403754685
 	},
 	{
 		"BusStopCode": "45209",
 		"RoadName": "Mandai Rd",
-		"Description": "Police Tactical Trg Camp",
+		"Description": "Aft Mandai Hill Camp",
 		"Latitude": 1.4099988110322,
 		"Longitude": 103.76653377102565
 	},
@@ -17873,14 +17873,14 @@
 	{
 		"BusStopCode": "48091",
 		"RoadName": "Mandai Rd",
-		"Description": "SCDF Nee Soon Camp",
+		"Description": "Aft Bath Rd",
 		"Latitude": 1.40274777797647,
 		"Longitude": 103.81238027797018
 	},
 	{
 		"BusStopCode": "48099",
 		"RoadName": "Mandai Rd",
-		"Description": "Opp SCDF Nee Soon Camp",
+		"Description": "Aft Mandai Rd Track 7",
 		"Latitude": 1.4029276207034,
 		"Longitude": 103.81200115976088
 	},
@@ -18062,7 +18062,7 @@
 	{
 		"BusStopCode": "49101",
 		"RoadName": "Kranji Rd",
-		"Description": "Opp Ordinance Supply Base",
+		"Description": "Aft Kranji Cl",
 		"Latitude": 1.43019265139167,
 		"Longitude": 103.75584633886155
 	},
@@ -18994,15 +18994,15 @@
 		"BusStopCode": "52201",
 		"RoadName": "Lor 2 Toa Payoh",
 		"Description": "Blk 121",
-		"Latitude": 1.33918030742933,
-		"Longitude": 103.84650759525915
+		"Latitude": 1.339722,
+		"Longitude": 103.846753
 	},
 	{
 		"BusStopCode": "52209",
 		"RoadName": "Lor 2 Toa Payoh",
 		"Description": "Blk 101C CP",
-		"Latitude": 1.339316,
-		"Longitude": 103.84677
+		"Latitude": 1.339153,
+		"Longitude": 103.846689
 	},
 	{
 		"BusStopCode": "52211",
@@ -20023,15 +20023,15 @@
 		"BusStopCode": "53509",
 		"RoadName": "Sin Ming Dr",
 		"Description": "LTA Sin Ming Office",
-		"Latitude": 1.356831,
-		"Longitude": 103.8365
+		"Latitude": 1.35718241,
+		"Longitude": 103.8366892
 	},
 	{
 		"BusStopCode": "53519",
 		"RoadName": "Sin Ming Dr",
 		"Description": "Sin Ming Autocity",
-		"Latitude": 1.359619,
-		"Longitude": 103.837843
+		"Latitude": 1.35996591,
+		"Longitude": 103.8380155
 	},
 	{
 		"BusStopCode": "54009",
@@ -21681,7 +21681,7 @@
 	{
 		"BusStopCode": "58069",
 		"RoadName": "Sembawang Rd",
-		"Description": "Opp Durban Rd",
+		"Description": "Blk 101A",
 		"Latitude": 1.452187,
 		"Longitude": 103.830428
 	},
@@ -23180,8 +23180,8 @@
 		"BusStopCode": "59599",
 		"RoadName": "Yishun Ave 6",
 		"Description": "Opp Blk 406",
-		"Latitude": 1.42640861109823,
-		"Longitude": 103.84968027780072
+		"Latitude": 1.4269635,
+		"Longitude": 103.8496915
 	},
 	{
 		"BusStopCode": "59601",
@@ -23390,8 +23390,8 @@
 		"BusStopCode": "59781",
 		"RoadName": "Yishun Ave 1",
 		"Description": "Aft Yishun Ave 6",
-		"Latitude": 1.4232168633454,
-		"Longitude": 103.85125812567784
+		"Latitude": 1.4230555,
+		"Longitude": 103.8511111
 	},
 	{
 		"BusStopCode": "59789",
@@ -25763,15 +25763,15 @@
 		"BusStopCode": "65261",
 		"RoadName": "Punggol Ctrl",
 		"Description": "Blk 649",
-		"Latitude": 1.396706,
-		"Longitude": 103.914813
+		"Latitude": 1.3968515,
+		"Longitude": 103.914998
 	},
 	{
 		"BusStopCode": "65269",
 		"RoadName": "Punggol Ctrl",
 		"Description": "Blk 162B",
-		"Latitude": 1.397184,
-		"Longitude": 103.914155
+		"Latitude": 1.396356,
+		"Longitude": 103.915423
 	},
 	{
 		"BusStopCode": "65271",
@@ -27979,6 +27979,13 @@
 		"Longitude": 103.90712750531712
 	},
 	{
+		"BusStopCode": "67689",
+		"RoadName": "Sengkang Sq",
+		"Description": "Sengkang Stn Exit C",
+		"Latitude": 1.39071,
+		"Longitude": 103.895137
+	},
+	{
 		"BusStopCode": "67691",
 		"RoadName": "Anchorvale Cres",
 		"Description": "Blk 338A",
@@ -28051,7 +28058,7 @@
 	{
 		"BusStopCode": "67741",
 		"RoadName": "Fernvale Rd",
-		"Description": "Thanggam Stn",
+		"Description": "Thanggam Stn Exit B",
 		"Latitude": 1.3967915,
 		"Longitude": 103.875701
 	},
@@ -28061,6 +28068,13 @@
 		"Description": "Thanggam Stn Exit A",
 		"Latitude": 1.396944,
 		"Longitude": 103.8755543
+	},
+	{
+		"BusStopCode": "67759",
+		"RoadName": "Compassvale Rd",
+		"Description": "COMPASSVALE INT",
+		"Latitude": 1.39129522332876,
+		"Longitude": 103.89720218513328
 	},
 	{
 		"BusStopCode": "67761",
@@ -28205,14 +28219,14 @@
 	{
 		"BusStopCode": "68061",
 		"RoadName": "Piccadilly",
-		"Description": "Sing-China Bldg",
+		"Description": "Aft Mornington Cres",
 		"Latitude": 1.40719212135322,
 		"Longitude": 103.87206315994297
 	},
 	{
 		"BusStopCode": "68069",
 		"RoadName": "Piccadilly",
-		"Description": "Opp Sing-China Bldg",
+		"Description": "Aft Battersea Rd",
 		"Latitude": 1.40757217631739,
 		"Longitude": 103.87228032413654
 	},
@@ -28261,14 +28275,14 @@
 	{
 		"BusStopCode": "68111",
 		"RoadName": "Jln Kayu",
-		"Description": "Bef Seletar Camp G",
+		"Description": "Bef Piccadilly Circus/TPE",
 		"Latitude": 1.40222194447692,
 		"Longitude": 103.87138805557646
 	},
 	{
 		"BusStopCode": "68119",
 		"RoadName": "Jln Kayu",
-		"Description": "Aft Seletar Camp G",
+		"Description": "Aft Piccadilly Circus/TPE",
 		"Latitude": 1.402186,
 		"Longitude": 103.872168
 	},
@@ -28738,15 +28752,15 @@
 		"BusStopCode": "70281",
 		"RoadName": "Upp Paya Lebar Rd",
 		"Description": "Aft Tai Seng Stn",
-		"Latitude": 1.33530627797371,
-		"Longitude": 103.8879999999696
+		"Latitude": 1.335453,
+		"Longitude": 103.887968
 	},
 	{
 		"BusStopCode": "70289",
 		"RoadName": "Upp Paya Lebar Rd",
 		"Description": "Aft Tai Seng Stn Exit C",
-		"Latitude": 1.3350640000249,
-		"Longitude": 103.8886929999761
+		"Latitude": 1.335054333,
+		"Longitude": 103.8885833
 	},
 	{
 		"BusStopCode": "70291",
@@ -29388,7 +29402,7 @@
 	{
 		"BusStopCode": "73049",
 		"RoadName": "Airport Rd",
-		"Description": "Air Force Sch",
+		"Description": "Air Force Trg Cmd",
 		"Latitude": 1.35075966304764,
 		"Longitude": 103.89911545547028
 	},
@@ -29977,8 +29991,8 @@
 		"BusStopCode": "75411",
 		"RoadName": "Tampines Ave 10",
 		"Description": "Bef Tampines Fire Stn",
-		"Latitude": 1.35607656836954,
-		"Longitude": 103.92905500001906
+		"Latitude": 1.35660663,
+		"Longitude": 103.9293749
 	},
 	{
 		"BusStopCode": "75419",
@@ -32959,8 +32973,8 @@
 		"BusStopCode": "84051",
 		"RoadName": "New Upp Changi Rd",
 		"Description": "Bedok Sports Cplx",
-		"Latitude": 1.32520077474542,
-		"Longitude": 103.93890484697742
+		"Latitude": 1.325207,
+		"Longitude": 103.938755
 	},
 	{
 		"BusStopCode": "84059",
@@ -34072,8 +34086,8 @@
 		"BusStopCode": "91091",
 		"RoadName": "Mountbatten Rd",
 		"Description": "Bef Kg Kayu Rd",
-		"Latitude": 1.30314976548218,
-		"Longitude": 103.88436845345339
+		"Latitude": 1.303159444,
+		"Longitude": 103.8843669
 	},
 	{
 		"BusStopCode": "91099",
@@ -34471,8 +34485,8 @@
 		"BusStopCode": "93031",
 		"RoadName": "Marine Parade Rd",
 		"Description": "Siglap Stn/Opp Victoria Sch",
-		"Latitude": 1.30983637164414,
-		"Longitude": 103.92937539318251
+		"Latitude": 1.309633889,
+		"Longitude": 103.9286839
 	},
 	{
 		"BusStopCode": "93039",
@@ -34821,22 +34835,22 @@
 		"BusStopCode": "95011",
 		"RoadName": "Airport Blvd",
 		"Description": "Aft Aircraft Flyover",
-		"Latitude": 1.34719486317101,
-		"Longitude": 103.98406055558529
+		"Latitude": 1.3461185,
+		"Longitude": 103.9836085
 	},
 	{
 		"BusStopCode": "95019",
 		"RoadName": "Airport Blvd",
 		"Description": "Aft Changi Airport Ter 2",
-		"Latitude": 1.34794299896363,
-		"Longitude": 103.98488339642644
+		"Latitude": 1.3479795,
+		"Longitude": 103.984849
 	},
 	{
 		"BusStopCode": "95029",
 		"RoadName": "PTB1 Basement",
 		"Description": "Changi Airport Ter 1",
-		"Latitude": 1.36126748727797,
-		"Longitude": 103.99069984684058
+		"Latitude": 1.361112,
+		"Longitude": 103.990755
 	},
 	{
 		"BusStopCode": "95039",
@@ -34926,15 +34940,15 @@
 		"BusStopCode": "95109",
 		"RoadName": "PTB3 Basement",
 		"Description": "Changi Airport Ter 3",
-		"Latitude": 1.35650049529119,
-		"Longitude": 103.98635233782801
+		"Latitude": 1.3573765,
+		"Longitude": 103.987161
 	},
 	{
 		"BusStopCode": "95129",
 		"RoadName": "PTB2 Basement",
 		"Description": "Changi Airport Ter 2",
-		"Latitude": 1.35509298857124,
-		"Longitude": 103.9892195407387
+		"Latitude": 1.355328,
+		"Longitude": 103.9886445
 	},
 	{
 		"BusStopCode": "95131",
@@ -35066,8 +35080,8 @@
 		"BusStopCode": "96021",
 		"RoadName": "Upp Changi Rd East",
 		"Description": "Opp Expo Halls 1/2/3",
-		"Latitude": 1.33397805603359,
-		"Longitude": 103.95663722202137
+		"Latitude": 1.333937,
+		"Longitude": 103.956569
 	},
 	{
 		"BusStopCode": "96029",
@@ -36185,14 +36199,14 @@
 	{
 		"BusStopCode": "99011",
 		"RoadName": "Loyang Ave",
-		"Description": "Bef Sch of Commando",
+		"Description": "Bef Hendon Camp",
 		"Latitude": 1.38328110134472,
 		"Longitude": 103.97812168830427
 	},
 	{
 		"BusStopCode": "99019",
 		"RoadName": "Loyang Ave",
-		"Description": "Aft Sch of Commando",
+		"Description": "Aft Hendon Camp",
 		"Latitude": 1.3837089764569,
 		"Longitude": 103.97844860768319
 	},

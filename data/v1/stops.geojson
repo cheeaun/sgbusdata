@@ -7366,8 +7366,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.8173,
-					1.279267
+					103.8173996,
+					1.279469339
 				]
 			}
 		},
@@ -7969,8 +7969,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.82570322127442,
-					1.25352193438281
+					103.8208411,
+					1.256714167
 				]
 			}
 		},
@@ -9227,7 +9227,7 @@
 			"id": "16091",
 			"properties": {
 				"number": "16091",
-				"name": "NUS Sports Ctr",
+				"name": "NUS Sports Centre",
 				"road": "AYE",
 				"services": [
 					"197",
@@ -9250,7 +9250,7 @@
 			"id": "16099",
 			"properties": {
 				"number": "16099",
-				"name": "Opp NUS Sports Ctr",
+				"name": "Opp NUS Sports Centre",
 				"road": "AYE",
 				"services": [
 					"197",
@@ -26379,8 +26379,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.68632093846232,
-					1.34332011366726
+					103.686919,
+					1.343777
 				]
 			}
 		},
@@ -28322,6 +28322,7 @@
 					"506",
 					"66",
 					"872",
+					"872A",
 					"984",
 					"99",
 					"993"
@@ -28381,6 +28382,7 @@
 					"506",
 					"66",
 					"872",
+					"872A",
 					"984",
 					"993"
 				]
@@ -28602,7 +28604,8 @@
 				"services": [
 					"180",
 					"335",
-					"872"
+					"872",
+					"872A"
 				]
 			},
 			"geometry": {
@@ -33625,7 +33628,8 @@
 				"road": "Tengah Boulevard",
 				"services": [
 					"870",
-					"872"
+					"872",
+					"872A"
 				]
 			},
 			"geometry": {
@@ -33674,6 +33678,7 @@
 					"674",
 					"871",
 					"872",
+					"872A",
 					"992"
 				]
 			},
@@ -33888,6 +33893,7 @@
 					"871",
 					"871A",
 					"872",
+					"872A",
 					"992"
 				]
 			},
@@ -33932,7 +33938,8 @@
 				"name": "Bef Blk 113",
 				"road": "Plantation Cres",
 				"services": [
-					"872"
+					"872",
+					"872A"
 				]
 			},
 			"geometry": {
@@ -33970,7 +33977,8 @@
 				"name": "Bef Plantation Cres",
 				"road": "Tengah Garden Ave",
 				"services": [
-					"872"
+					"872",
+					"872A"
 				]
 			},
 			"geometry": {
@@ -34008,7 +34016,8 @@
 				"name": "Blk 131D",
 				"road": "Tengah Garden Ave",
 				"services": [
-					"872"
+					"872",
+					"872A"
 				]
 			},
 			"geometry": {
@@ -34052,6 +34061,7 @@
 					"871",
 					"871A",
 					"872",
+					"872A",
 					"992"
 				]
 			},
@@ -38099,6 +38109,7 @@
 					"506",
 					"66",
 					"872",
+					"872A",
 					"984",
 					"993"
 				]
@@ -39165,7 +39176,7 @@
 			"id": "43719",
 			"properties": {
 				"number": "43719",
-				"name": "MINDEF CP",
+				"name": "MINDEF Pick-Up/Drop-Off",
 				"road": "Gombak Dr",
 				"services": [
 					"177"
@@ -39184,7 +39195,7 @@
 			"id": "43721",
 			"properties": {
 				"number": "43721",
-				"name": "Blk 319",
+				"name": "MINDEF Pass Office",
 				"road": "Gombak Dr",
 				"services": [
 					"177"
@@ -39362,6 +39373,7 @@
 					"452",
 					"870",
 					"872",
+					"872A",
 					"984"
 				]
 			},
@@ -42075,8 +42087,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.73970664823418,
-					1.3791475870641
+					103.740996,
+					1.380017
 				]
 			}
 		},
@@ -42117,8 +42129,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.7417695571546,
-					1.38057038161005
+					103.742052,
+					1.380733
 				]
 			}
 		},
@@ -44474,7 +44486,7 @@
 			"id": "45181",
 			"properties": {
 				"number": "45181",
-				"name": "Opp Mandai CD Trg Village",
+				"name": "Bef Mandai Quarry Rd",
 				"road": "Mandai Rd",
 				"services": [
 					"927"
@@ -44493,7 +44505,7 @@
 			"id": "45189",
 			"properties": {
 				"number": "45189",
-				"name": "Mandai CD Trg Village",
+				"name": "Aft Mandai Quarry Rd",
 				"road": "Mandai Rd",
 				"services": [
 					"927"
@@ -44512,7 +44524,7 @@
 			"id": "45191",
 			"properties": {
 				"number": "45191",
-				"name": "Opp Mandai Police Trg Camp",
+				"name": "Opp Home Team Tactical Ctr",
 				"road": "Mandai Rd",
 				"services": [
 					"927"
@@ -44531,7 +44543,7 @@
 			"id": "45199",
 			"properties": {
 				"number": "45199",
-				"name": "Mandai Police Trg Camp",
+				"name": "Home Team Tactical Ctr",
 				"road": "Mandai Rd",
 				"services": [
 					"927"
@@ -44550,7 +44562,7 @@
 			"id": "45201",
 			"properties": {
 				"number": "45201",
-				"name": "Opp Police Tactical Trg Camp",
+				"name": "Opp Mandai Hill Camp",
 				"road": "Mandai Rd",
 				"services": [
 					"927"
@@ -44569,7 +44581,7 @@
 			"id": "45209",
 			"properties": {
 				"number": "45209",
-				"name": "Police Tactical Trg Camp",
+				"name": "Aft Mandai Hill Camp",
 				"road": "Mandai Rd",
 				"services": [
 					"927"
@@ -51352,7 +51364,7 @@
 			"id": "48091",
 			"properties": {
 				"number": "48091",
-				"name": "SCDF Nee Soon Camp",
+				"name": "Aft Bath Rd",
 				"road": "Mandai Rd",
 				"services": [
 					"138",
@@ -51372,7 +51384,7 @@
 			"id": "48099",
 			"properties": {
 				"number": "48099",
-				"name": "Opp SCDF Nee Soon Camp",
+				"name": "Aft Mandai Rd Track 7",
 				"road": "Mandai Rd",
 				"services": [
 					"138",
@@ -51879,7 +51891,7 @@
 			"id": "49101",
 			"properties": {
 				"number": "49101",
-				"name": "Opp Ordinance Supply Base",
+				"name": "Aft Kranji Cl",
 				"road": "Kranji Rd",
 				"services": [
 					"925",
@@ -55018,8 +55030,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.84650759525915,
-					1.33918030742933
+					103.846753,
+					1.339722
 				]
 			}
 		},
@@ -55039,8 +55051,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.84677,
-					1.339316
+					103.846689,
+					1.339153
 				]
 			}
 		},
@@ -58325,8 +58337,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.8365,
-					1.356831
+					103.8366892,
+					1.35718241
 				]
 			}
 		},
@@ -58344,8 +58356,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.837843,
-					1.359619
+					103.8380155,
+					1.35996591
 				]
 			}
 		},
@@ -64004,7 +64016,7 @@
 			"id": "58069",
 			"properties": {
 				"number": "58069",
-				"name": "Opp Durban Rd",
+				"name": "Blk 101A",
 				"road": "Sembawang Rd",
 				"services": [
 					"169",
@@ -68916,8 +68928,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.84968027780072,
-					1.42640861109823
+					103.8496915,
+					1.4269635
 				]
 			}
 		},
@@ -69569,8 +69581,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.85125812567784,
-					1.4232168633454
+					103.8511111,
+					1.4230555
 				]
 			}
 		},
@@ -75978,6 +75990,7 @@
 					"62",
 					"62A",
 					"80",
+					"80A",
 					"82",
 					"87",
 					"89",
@@ -77995,8 +78008,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.914813,
-					1.396706
+					103.914998,
+					1.3968515
 				]
 			}
 		},
@@ -78022,8 +78035,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.914155,
-					1.397184
+					103.915423,
+					1.396356
 				]
 			}
 		},
@@ -82182,14 +82195,8 @@
 					"163A",
 					"163B",
 					"371",
-					"372",
-					"374",
-					"80",
-					"80A",
 					"83",
 					"83T",
-					"86",
-					"87",
 					"965",
 					"965T"
 				]
@@ -85154,6 +85161,26 @@
 		},
 		{
 			"type": "Feature",
+			"id": "67689",
+			"properties": {
+				"number": "67689",
+				"name": "Sengkang Stn Exit C",
+				"road": "Sengkang Sq",
+				"services": [
+					"372",
+					"374"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895137,
+					1.39071
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "67691",
 			"properties": {
 				"number": "67691",
@@ -85360,7 +85387,7 @@
 			"id": "67741",
 			"properties": {
 				"number": "67741",
-				"name": "Thanggam Stn",
+				"name": "Thanggam Stn Exit B",
 				"road": "Fernvale Rd",
 				"services": [
 					"374",
@@ -85391,6 +85418,30 @@
 				"coordinates": [
 					103.8755543,
 					1.396944
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "67759",
+			"properties": {
+				"number": "67759",
+				"name": "Compassvale Int",
+				"road": "Compassvale Rd",
+				"services": [
+					"372",
+					"374",
+					"80",
+					"80A",
+					"86",
+					"87"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89720218513328,
+					1.39129522332876
 				]
 			}
 		},
@@ -85837,7 +85888,7 @@
 			"id": "68061",
 			"properties": {
 				"number": "68061",
-				"name": "Sing-China Bldg",
+				"name": "Aft Mornington Cres",
 				"road": "Piccadilly",
 				"services": [
 					"103",
@@ -85858,7 +85909,7 @@
 			"id": "68069",
 			"properties": {
 				"number": "68069",
-				"name": "Opp Sing-China Bldg",
+				"name": "Aft Battersea Rd",
 				"road": "Piccadilly",
 				"services": [
 					"103",
@@ -86007,7 +86058,7 @@
 			"id": "68111",
 			"properties": {
 				"number": "68111",
-				"name": "Bef Seletar Camp G",
+				"name": "Bef Piccadilly Circus/TPE",
 				"road": "Jln Kayu",
 				"services": [
 					"102",
@@ -86036,7 +86087,7 @@
 			"id": "68119",
 			"properties": {
 				"number": "68119",
-				"name": "Aft Seletar Camp G",
+				"name": "Aft Piccadilly Circus/TPE",
 				"road": "Jln Kayu",
 				"services": [
 					"102",
@@ -87630,8 +87681,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.8879999999696,
-					1.33530627797371
+					103.887968,
+					1.335453
 				]
 			}
 		},
@@ -87664,8 +87715,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.8886929999761,
-					1.3350640000249
+					103.8885833,
+					1.335054333
 				]
 			}
 		},
@@ -89771,7 +89822,7 @@
 			"id": "73049",
 			"properties": {
 				"number": "73049",
-				"name": "Air Force Sch",
+				"name": "Air Force Trg Cmd",
 				"road": "Airport Rd",
 				"services": [
 					"90",
@@ -91758,8 +91809,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.929055,
-					1.356078
+					103.9293749,
+					1.35660663
 				]
 			}
 		},
@@ -101871,8 +101922,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.93890484697742,
-					1.32520077474542
+					103.938755,
+					1.325207
 				]
 			}
 		},
@@ -105095,7 +105146,8 @@
 				"road": "Tg Rhu Rd",
 				"services": [
 					"11",
-					"158"
+					"158",
+					"158A"
 				]
 			},
 			"geometry": {
@@ -105115,7 +105167,8 @@
 				"road": "Tg Rhu Rd",
 				"services": [
 					"11",
-					"158"
+					"158",
+					"158A"
 				]
 			},
 			"geometry": {
@@ -105470,8 +105523,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.88436845345339,
-					1.30314976548218
+					103.8843669,
+					1.303159444
 				]
 			}
 		},
@@ -106968,8 +107021,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.92937539318251,
-					1.30983637164414
+					103.9286839,
+					1.309633889
 				]
 			}
 		},
@@ -108221,8 +108274,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.98406055558529,
-					1.34719486317101
+					103.9836085,
+					1.3461185
 				]
 			}
 		},
@@ -108250,8 +108303,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.98488339642644,
-					1.34794299896363
+					103.984849,
+					1.3479795
 				]
 			}
 		},
@@ -108279,8 +108332,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.99069984684058,
-					1.36126748727797
+					103.990755,
+					1.361112
 				]
 			}
 		},
@@ -108579,8 +108632,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.98635233782801,
-					1.35650049529119
+					103.987161,
+					1.3573765
 				]
 			}
 		},
@@ -108609,8 +108662,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.9892195407387,
-					1.35509298857124
+					103.9886445,
+					1.355328
 				]
 			}
 		},
@@ -109027,8 +109080,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.95663722202137,
-					1.33397805603359
+					103.956569,
+					1.333937
 				]
 			}
 		},
@@ -112401,7 +112454,7 @@
 			"id": "99011",
 			"properties": {
 				"number": "99011",
-				"name": "Bef Sch of Commando",
+				"name": "Bef Hendon Camp",
 				"road": "Loyang Ave",
 				"services": [
 					"109",
@@ -112428,7 +112481,7 @@
 			"id": "99019",
 			"properties": {
 				"number": "99019",
-				"name": "Aft Sch of Commando",
+				"name": "Aft Hendon Camp",
 				"road": "Loyang Ave",
 				"services": [
 					"109",
@@ -116659,7 +116712,7 @@
 			"id": "05131",
 			"properties": {
 				"number": "05131",
-				"name": "Opp Hong Lim Cplx",
+				"name": "Opp Chinatown Stn",
 				"road": "Upp Cross St",
 				"services": [
 					"124",
