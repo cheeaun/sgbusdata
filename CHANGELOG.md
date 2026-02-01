@@ -1,3 +1,107 @@
+# 1 February 2026
+
+## Stops count change: 5194 ⮕ 5196
+
+### Stops added: 2
+
+- `67689` Sengkang Stn Exit C
+- `67759` Compassvale Int
+
+### Stop names changed: 23
+
+- `16091` NUS Sports Ctr ⮕ NUS Sports Centre
+- `16099` Opp NUS Sports Ctr ⮕ Opp NUS Sports Centre
+- `43719` MINDEF CP ⮕ MINDEF Pick-Up/Drop-Off
+- `43721` Blk 319 ⮕ MINDEF Pass Office
+- `45181` Opp Mandai CD Trg Village ⮕ Bef Mandai Quarry Rd
+- `45189` Mandai CD Trg Village ⮕ Aft Mandai Quarry Rd
+- `45191` Opp Mandai Police Trg Camp ⮕ Opp Home Team Tactical Ctr
+- `45199` Mandai Police Trg Camp ⮕ Home Team Tactical Ctr
+- `45201` Opp Police Tactical Trg Camp ⮕ Opp Mandai Hill Camp
+- `45209` Police Tactical Trg Camp ⮕ Aft Mandai Hill Camp
+- `48091` SCDF Nee Soon Camp ⮕ Aft Bath Rd
+- `48099` Opp SCDF Nee Soon Camp ⮕ Aft Mandai Rd Track 7
+- `49101` Opp Ordinance Supply Base ⮕ Aft Kranji Cl
+- `58069` Opp Durban Rd ⮕ Blk 101A
+- `67741` Thanggam Stn ⮕ Thanggam Stn Exit B
+- `68061` Sing-China Bldg ⮕ Aft Mornington Cres
+- `68069` Opp Sing-China Bldg ⮕ Aft Battersea Rd
+- `68111` Bef Seletar Camp G ⮕ Bef Piccadilly Circus/TPE
+- `68119` Aft Seletar Camp G ⮕ Aft Piccadilly Circus/TPE
+- `73049` Air Force Sch ⮕ Air Force Trg Cmd
+- `99011` Bef Sch of Commando ⮕ Bef Hendon Camp
+- `99019` Aft Sch of Commando ⮕ Aft Hendon Camp
+- `05131` Opp Hong Lim Cplx ⮕ Opp Chinatown Stn
+
+### Stop locations changed: 25
+
+- `14249` 103.8173,1.27927 ⮕ 103.8174,1.27947
+- `14519` 103.8257,1.25352 ⮕ 103.82084,1.25671
+- `27261` 103.68632,1.34332 ⮕ 103.68692,1.34378
+- `44519` 103.73971,1.37915 ⮕ 103.741,1.38002
+- `44529` 103.74177,1.38057 ⮕ 103.74205,1.38073
+- `52201` 103.84651,1.33918 ⮕ 103.84675,1.33972
+- `52209` 103.84677,1.33932 ⮕ 103.84669,1.33915
+- `53509` 103.8365,1.35683 ⮕ 103.83669,1.35718
+- `53519` 103.83784,1.35962 ⮕ 103.83802,1.35997
+- `59599` 103.84968,1.42641 ⮕ 103.84969,1.42696
+- `59781` 103.85126,1.42322 ⮕ 103.85111,1.42306
+- `65261` 103.91481,1.39671 ⮕ 103.915,1.39685
+- `65269` 103.91416,1.39718 ⮕ 103.91542,1.39636
+- `70281` 103.888,1.33531 ⮕ 103.88797,1.33545
+- `70289` 103.88869,1.33506 ⮕ 103.88858,1.33505
+- `75411` 103.92906,1.35608 ⮕ 103.92937,1.35661
+- `84051` 103.9389,1.3252 ⮕ 103.93876,1.32521
+- `91091` 103.88437,1.30315 ⮕ 103.88437,1.30316
+- `93031` 103.92938,1.30984 ⮕ 103.92868,1.30963
+- `95011` 103.98406,1.34719 ⮕ 103.98361,1.34612
+- `95019` 103.98488,1.34794 ⮕ 103.98485,1.34798
+- `95029` 103.9907,1.36127 ⮕ 103.99076,1.36111
+- `95109` 103.98635,1.3565 ⮕ 103.98716,1.35738
+- `95129` 103.98922,1.35509 ⮕ 103.98864,1.35533
+- `96021` 103.95664,1.33398 ⮕ 103.95657,1.33394
+
+## Services count change: 587 ⮕ 588
+
+### Services added: 1
+
+- `872A` Tengah Int → Chinese Gdn Stn
+
+### Bus Stop Changes To Routes: 8
+
+- `80` Compassvale Int ⇄ HarbourFront Int: +2, -2
+- `86` Compassvale Int ⇄ Ang Mo Kio Int: +2, -2
+- `87` Compassvale Int ⇄ Bedok Int: +2, -2
+- `372` Compassvale Int ⟲ Blk 235: +3, -2
+- `374` Compassvale Int ⟲ Thanggam Stn Exit B: +3, -2
+- `158A` Aljunied Stn → Opp Aljunied Stn: +2
+- `80A` Compassvale Int → Aljunied Stn: +2, -1
+- `114` Buangkok Int ⇄ Yio Chu Kang Int: +26
+
+## Routes changed: 17
+
+- `73` Ang Mo Kio Int ⟲ Toa Payoh Int
+- `80` Compassvale Int ⇄ HarbourFront Int
+- `86` Compassvale Int ⇄ Ang Mo Kio Int
+- `87` Compassvale Int ⇄ Bedok Int
+- `104` Punggol Coast Int ⇄ Woodleigh Int
+- `114` Buangkok Int ⇄ Yio Chu Kang Int
+- `148` Woodleigh Int ⟲ Blk 121
+- `159` Sengkang Int ⇄ Toa Payoh Int
+- `372` Compassvale Int ⟲ Blk 235
+- `374` Compassvale Int ⟲ Thanggam Stn Exit B
+- `381` Punggol Int ⟲ Blk 656A
+- `983` Choa Chu Kang Int ⟲ Aft Bt Panjang Stn
+- `114A` Buangkok Int → Blk 991B
+- `80A` Compassvale Int → Aljunied Stn
+- `983A` Choa Chu Kang Int → Blk 26
+- `983M` Opp Blk 486 → Aft Teck Whye Walk
+- `872A` Tengah Int → Chinese Gdn Stn
+
+## First/last timings changed
+
+Affected services: `10`, `21`, `30`, `31`, `32`, `33`, `39`, `80`, `86`, `87`, `129`, `151`, `158`, `230`, `232`, `268`, `372`, `374`, `401`, `652`, `805`, `807`, `268C`, `268A`, `268B`, `807A`, `807B`, `21A`, `80A`, `39A`, `39B`, `158A`
+
 # 2 January 2026
 
 ## Stops count change: 5179 ⮕ 5194

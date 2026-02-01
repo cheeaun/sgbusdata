@@ -7337,7 +7337,7 @@
 	{
 		"name": "05131",
 		"wab": "true",
-		"details": "Opp Hong Lim Cplx",
+		"details": "Opp Chinatown Stn",
 		"coordinates": {
 			"lat": 1.284073056,
 			"long": 103.8453381
@@ -11002,8 +11002,8 @@
 		"wab": "true",
 		"details": "Blk 1",
 		"coordinates": {
-			"lat": 1.279267,
-			"long": 103.8173
+			"lat": 1.279469339,
+			"long": 103.8173996
 		}
 	},
 	{
@@ -11263,8 +11263,8 @@
 		"wab": "true",
 		"details": "Resorts World Sentosa",
 		"coordinates": {
-			"lat": 1.25352193438281,
-			"long": 103.82570322127442
+			"lat": 1.256714167,
+			"long": 103.8208411
 		}
 	},
 	{
@@ -11738,7 +11738,7 @@
 	{
 		"name": "16091",
 		"wab": "true",
-		"details": "NUS Sports Ctr",
+		"details": "NUS Sports Centre",
 		"coordinates": {
 			"lat": 1.299478,
 			"long": 103.779229
@@ -11747,7 +11747,7 @@
 	{
 		"name": "16099",
 		"wab": "true",
-		"details": "Opp NUS Sports Ctr",
+		"details": "Opp NUS Sports Centre",
 		"coordinates": {
 			"lat": 1.30061249997689,
 			"long": 103.77815138886747
@@ -13870,7 +13870,7 @@
 	},
 	{
 		"name": "21099",
-		"wab": "false",
+		"wab": "true",
 		"details": "Jurong Island Checkpt",
 		"coordinates": {
 			"lat": 1.31014377264327,
@@ -19147,8 +19147,8 @@
 		"wab": "true",
 		"details": "Hall 4",
 		"coordinates": {
-			"lat": 1.34332011366726,
-			"long": 103.68632093846232
+			"lat": 1.343777,
+			"long": 103.686919
 		}
 	},
 	{
@@ -24149,7 +24149,7 @@
 	{
 		"name": "43719",
 		"wab": "true",
-		"details": "MINDEF CP",
+		"details": "MINDEF Pick-Up/Drop-Off",
 		"coordinates": {
 			"lat": 1.36903972225026,
 			"long": 103.76123388888554
@@ -24158,7 +24158,7 @@
 	{
 		"name": "43721",
 		"wab": "false",
-		"details": "Blk 319",
+		"details": "MINDEF Pass Office",
 		"coordinates": {
 			"lat": 1.37076302526768,
 			"long": 103.7626491371365
@@ -25258,8 +25258,8 @@
 		"wab": "true",
 		"details": "Blk 408",
 		"coordinates": {
-			"lat": 1.3791475870641,
-			"long": 103.73970664823418
+			"lat": 1.380017,
+			"long": 103.740996
 		}
 	},
 	{
@@ -25276,8 +25276,8 @@
 		"wab": "true",
 		"details": "Blk 410",
 		"coordinates": {
-			"lat": 1.38057038161005,
-			"long": 103.7417695571546
+			"lat": 1.380733,
+			"long": 103.742052
 		}
 	},
 	{
@@ -26228,7 +26228,7 @@
 	{
 		"name": "45181",
 		"wab": "true",
-		"details": "Opp Mandai CD Trg Village",
+		"details": "Bef Mandai Quarry Rd",
 		"coordinates": {
 			"lat": 1.41163371804971,
 			"long": 103.76126994848113
@@ -26237,7 +26237,7 @@
 	{
 		"name": "45189",
 		"wab": "true",
-		"details": "Mandai CD Trg Village",
+		"details": "Aft Mandai Quarry Rd",
 		"coordinates": {
 			"lat": 1.41134149901997,
 			"long": 103.76099444217142
@@ -26246,7 +26246,7 @@
 	{
 		"name": "45191",
 		"wab": "true",
-		"details": "Opp Mandai Police Trg Camp",
+		"details": "Opp Home Team Tactical Ctr",
 		"coordinates": {
 			"lat": 1.41064903489935,
 			"long": 103.7634845917912
@@ -26255,7 +26255,7 @@
 	{
 		"name": "45199",
 		"wab": "true",
-		"details": "Mandai Police Trg Camp",
+		"details": "Home Team Tactical Ctr",
 		"coordinates": {
 			"lat": 1.41035479540467,
 			"long": 103.76322407621203
@@ -26264,7 +26264,7 @@
 	{
 		"name": "45201",
 		"wab": "true",
-		"details": "Opp Police Tactical Trg Camp",
+		"details": "Opp Mandai Hill Camp",
 		"coordinates": {
 			"lat": 1.41047253271791,
 			"long": 103.76582403754685
@@ -26273,7 +26273,7 @@
 	{
 		"name": "45209",
 		"wab": "true",
-		"details": "Police Tactical Trg Camp",
+		"details": "Aft Mandai Hill Camp",
 		"coordinates": {
 			"lat": 1.4099988110322,
 			"long": 103.76653377102565
@@ -29153,7 +29153,7 @@
 	{
 		"name": "48091",
 		"wab": "true",
-		"details": "SCDF Nee Soon Camp",
+		"details": "Aft Bath Rd",
 		"coordinates": {
 			"lat": 1.40274777797647,
 			"long": 103.81238027797018
@@ -29162,7 +29162,7 @@
 	{
 		"name": "48099",
 		"wab": "true",
-		"details": "Opp SCDF Nee Soon Camp",
+		"details": "Aft Mandai Rd Track 7",
 		"coordinates": {
 			"lat": 1.4029276207034,
 			"long": 103.81200115976088
@@ -29396,7 +29396,7 @@
 	{
 		"name": "49101",
 		"wab": "true",
-		"details": "Opp Ordinance Supply Base",
+		"details": "Aft Kranji Cl",
 		"coordinates": {
 			"lat": 1.43019265139167,
 			"long": 103.75584633886155
@@ -30595,8 +30595,8 @@
 		"wab": "true",
 		"details": "Blk 121",
 		"coordinates": {
-			"lat": 1.33918030742933,
-			"long": 103.84650759525915
+			"lat": 1.339722,
+			"long": 103.846753
 		}
 	},
 	{
@@ -30604,8 +30604,8 @@
 		"wab": "true",
 		"details": "Blk 101C CP",
 		"coordinates": {
-			"lat": 1.339316,
-			"long": 103.84677
+			"lat": 1.339153,
+			"long": 103.846689
 		}
 	},
 	{
@@ -31918,8 +31918,8 @@
 		"wab": "true",
 		"details": "LTA Sin Ming Office",
 		"coordinates": {
-			"lat": 1.356831,
-			"long": 103.8365
+			"lat": 1.35718241,
+			"long": 103.8366892
 		}
 	},
 	{
@@ -31927,8 +31927,8 @@
 		"wab": "true",
 		"details": "Sin Ming Autocity",
 		"coordinates": {
-			"lat": 1.359619,
-			"long": 103.837843
+			"lat": 1.35996591,
+			"long": 103.8380155
 		}
 	},
 	{
@@ -34049,7 +34049,7 @@
 	{
 		"name": "58069",
 		"wab": "true",
-		"details": "Opp Durban Rd",
+		"details": "Blk 101A",
 		"coordinates": {
 			"lat": 1.452187,
 			"long": 103.830428
@@ -35977,8 +35977,8 @@
 		"wab": "true",
 		"details": "Opp Blk 406",
 		"coordinates": {
-			"lat": 1.42640861109823,
-			"long": 103.84968027780072
+			"lat": 1.4269635,
+			"long": 103.8496915
 		}
 	},
 	{
@@ -36247,8 +36247,8 @@
 		"wab": "true",
 		"details": "Aft Yishun Ave 6",
 		"coordinates": {
-			"lat": 1.4232168633454,
-			"long": 103.85125812567784
+			"lat": 1.4230555,
+			"long": 103.8511111
 		}
 	},
 	{
@@ -39298,8 +39298,8 @@
 		"wab": "true",
 		"details": "Blk 649",
 		"coordinates": {
-			"lat": 1.396706,
-			"long": 103.914813
+			"lat": 1.3968515,
+			"long": 103.914998
 		}
 	},
 	{
@@ -39307,8 +39307,8 @@
 		"wab": "true",
 		"details": "Blk 162B",
 		"coordinates": {
-			"lat": 1.397184,
-			"long": 103.914155
+			"lat": 1.396356,
+			"long": 103.915423
 		}
 	},
 	{
@@ -42147,6 +42147,15 @@
 		}
 	},
 	{
+		"name": "67689",
+		"wab": "true",
+		"details": "Sengkang Stn Exit C",
+		"coordinates": {
+			"lat": 1.39071,
+			"long": 103.895137
+		}
+	},
+	{
 		"name": "67691",
 		"wab": "true",
 		"details": "Blk 338A",
@@ -42239,7 +42248,7 @@
 	{
 		"name": "67741",
 		"wab": "true",
-		"details": "Thanggam Stn",
+		"details": "Thanggam Stn Exit B",
 		"coordinates": {
 			"lat": 1.3967915,
 			"long": 103.875701
@@ -42252,6 +42261,15 @@
 		"coordinates": {
 			"lat": 1.396944,
 			"long": 103.8755543
+		}
+	},
+	{
+		"name": "67759",
+		"wab": "true",
+		"details": "Compassvale Int",
+		"coordinates": {
+			"lat": 1.39129522332876,
+			"long": 103.89720218513328
 		}
 	},
 	{
@@ -42437,7 +42455,7 @@
 	{
 		"name": "68061",
 		"wab": "true",
-		"details": "Sing-China Bldg",
+		"details": "Aft Mornington Cres",
 		"coordinates": {
 			"lat": 1.40719212135322,
 			"long": 103.87206315994297
@@ -42446,7 +42464,7 @@
 	{
 		"name": "68069",
 		"wab": "true",
-		"details": "Opp Sing-China Bldg",
+		"details": "Aft Battersea Rd",
 		"coordinates": {
 			"lat": 1.40757217631739,
 			"long": 103.87228032413654
@@ -42509,7 +42527,7 @@
 	{
 		"name": "68111",
 		"wab": "true",
-		"details": "Bef Seletar Camp G",
+		"details": "Bef Piccadilly Circus/TPE",
 		"coordinates": {
 			"lat": 1.40222194447692,
 			"long": 103.87138805557646
@@ -42518,7 +42536,7 @@
 	{
 		"name": "68119",
 		"wab": "true",
-		"details": "Aft Seletar Camp G",
+		"details": "Aft Piccadilly Circus/TPE",
 		"coordinates": {
 			"lat": 1.402186,
 			"long": 103.872168
@@ -43123,8 +43141,8 @@
 		"wab": "true",
 		"details": "Aft Tai Seng Stn",
 		"coordinates": {
-			"lat": 1.33530627797371,
-			"long": 103.8879999999696
+			"lat": 1.335453,
+			"long": 103.887968
 		}
 	},
 	{
@@ -43132,8 +43150,8 @@
 		"wab": "true",
 		"details": "Aft Tai Seng Stn Exit C",
 		"coordinates": {
-			"lat": 1.3350640000249,
-			"long": 103.8886929999761
+			"lat": 1.335054333,
+			"long": 103.8885833
 		}
 	},
 	{
@@ -43958,7 +43976,7 @@
 	{
 		"name": "73049",
 		"wab": "true",
-		"details": "Air Force Sch",
+		"details": "Air Force Trg Cmd",
 		"coordinates": {
 			"lat": 1.35075966304764,
 			"long": 103.89911545547028
@@ -44716,8 +44734,8 @@
 		"wab": "true",
 		"details": "Bef Tampines Fire Stn",
 		"coordinates": {
-			"lat": 1.356078,
-			"long": 103.929055
+			"lat": 1.35660663,
+			"long": 103.9293749
 		}
 	},
 	{
@@ -48550,8 +48568,8 @@
 		"wab": "true",
 		"details": "Bedok Sports Cplx",
 		"coordinates": {
-			"lat": 1.32520077474542,
-			"long": 103.93890484697742
+			"lat": 1.325207,
+			"long": 103.938755
 		}
 	},
 	{
@@ -49981,8 +49999,8 @@
 		"wab": "true",
 		"details": "Bef Kg Kayu Rd",
 		"coordinates": {
-			"lat": 1.30314976548218,
-			"long": 103.88436845345339
+			"lat": 1.303159444,
+			"long": 103.8843669
 		}
 	},
 	{
@@ -50494,8 +50512,8 @@
 		"wab": "true",
 		"details": "Siglap Stn/Opp Victoria Sch",
 		"coordinates": {
-			"lat": 1.30983637164414,
-			"long": 103.92937539318251
+			"lat": 1.309633889,
+			"long": 103.9286839
 		}
 	},
 	{
@@ -50944,8 +50962,8 @@
 		"wab": "true",
 		"details": "Aft Aircraft Flyover",
 		"coordinates": {
-			"lat": 1.34719486317101,
-			"long": 103.98406055558529
+			"lat": 1.3461185,
+			"long": 103.9836085
 		}
 	},
 	{
@@ -50953,8 +50971,8 @@
 		"wab": "true",
 		"details": "Aft Changi Airport Ter 2",
 		"coordinates": {
-			"lat": 1.34794299896363,
-			"long": 103.98488339642644
+			"lat": 1.3479795,
+			"long": 103.984849
 		}
 	},
 	{
@@ -50962,8 +50980,8 @@
 		"wab": "true",
 		"details": "Changi Airport Ter 1",
 		"coordinates": {
-			"lat": 1.36126748727797,
-			"long": 103.99069984684058
+			"lat": 1.361112,
+			"long": 103.990755
 		}
 	},
 	{
@@ -51079,8 +51097,8 @@
 		"wab": "true",
 		"details": "Changi Airport Ter 3",
 		"coordinates": {
-			"lat": 1.35650049529119,
-			"long": 103.98635233782801
+			"lat": 1.3573765,
+			"long": 103.987161
 		}
 	},
 	{
@@ -51088,8 +51106,8 @@
 		"wab": "true",
 		"details": "Changi Airport Ter 2",
 		"coordinates": {
-			"lat": 1.35509298857124,
-			"long": 103.9892195407387
+			"lat": 1.355328,
+			"long": 103.9886445
 		}
 	},
 	{
@@ -51259,8 +51277,8 @@
 		"wab": "true",
 		"details": "Opp Expo Halls 1/2/3",
 		"coordinates": {
-			"lat": 1.33397805603359,
-			"long": 103.95663722202137
+			"lat": 1.333937,
+			"long": 103.956569
 		}
 	},
 	{
@@ -52697,7 +52715,7 @@
 	{
 		"name": "99011",
 		"wab": "true",
-		"details": "Bef Sch of Commando",
+		"details": "Bef Hendon Camp",
 		"coordinates": {
 			"lat": 1.38328110134472,
 			"long": 103.97812168830427
@@ -52706,7 +52724,7 @@
 	{
 		"name": "99019",
 		"wab": "true",
-		"details": "Aft Sch of Commando",
+		"details": "Aft Hendon Camp",
 		"coordinates": {
 			"lat": 1.3837089764569,
 			"long": 103.97844860768319

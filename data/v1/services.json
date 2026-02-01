@@ -7201,10 +7201,10 @@
 		]
 	},
 	"80": {
-		"name": "Sengkang Int ⇄ HarbourFront Int",
+		"name": "Compassvale Int ⇄ HarbourFront Int",
 		"routes": [
 			[
-				"67009",
+				"67759",
 				"67191",
 				"67171",
 				"65029",
@@ -7323,7 +7323,7 @@
 				"65021",
 				"67179",
 				"67199",
-				"67009"
+				"67759"
 			]
 		]
 	},
@@ -7560,10 +7560,10 @@
 		]
 	},
 	"86": {
-		"name": "Sengkang Int ⇄ Ang Mo Kio Int",
+		"name": "Compassvale Int ⇄ Ang Mo Kio Int",
 		"routes": [
 			[
-				"67009",
+				"67759",
 				"67191",
 				"67171",
 				"67139",
@@ -7625,15 +7625,15 @@
 				"67141",
 				"67179",
 				"67199",
-				"67009"
+				"67759"
 			]
 		]
 	},
 	"87": {
-		"name": "Sengkang Int ⇄ Bedok Int",
+		"name": "Compassvale Int ⇄ Bedok Int",
 		"routes": [
 			[
-				"67009",
+				"67759",
 				"67191",
 				"67201",
 				"67211",
@@ -7699,7 +7699,7 @@
 				"67219",
 				"67209",
 				"67199",
-				"67009"
+				"67759"
 			]
 		]
 	},
@@ -9563,7 +9563,7 @@
 		]
 	},
 	"114": {
-		"name": "Buangkok Int → Yio Chu Kang Int",
+		"name": "Buangkok Int ⇄ Yio Chu Kang Int",
 		"routes": [
 			[
 				"63009",
@@ -9594,6 +9594,34 @@
 				"55179",
 				"55189",
 				"55509"
+			],
+			[
+				"55509",
+				"55171",
+				"55031",
+				"55041",
+				"55051",
+				"55071",
+				"55081",
+				"55101",
+				"67011",
+				"67021",
+				"67081",
+				"67091",
+				"67991",
+				"67571",
+				"67639",
+				"67481",
+				"67799",
+				"67779",
+				"66569",
+				"66559",
+				"66589",
+				"66579",
+				"66609",
+				"67621",
+				"67609",
+				"63009"
 			]
 		]
 	},
@@ -18081,10 +18109,10 @@
 		]
 	},
 	"372": {
-		"name": "Sengkang Int ⟲ Blk 231",
+		"name": "Compassvale Int ⟲ Blk 235",
 		"routes": [
 			[
-				"67009",
+				"67759",
 				"67409",
 				"67399",
 				"67389",
@@ -18105,15 +18133,16 @@
 				"67381",
 				"67391",
 				"67441",
-				"67009"
+				"67689",
+				"67759"
 			]
 		]
 	},
 	"374": {
-		"name": "Sengkang Int ⟲ Thanggam Stn",
+		"name": "Compassvale Int ⟲ Thanggam Stn Exit B",
 		"routes": [
 			[
-				"67009",
+				"67759",
 				"67409",
 				"67419",
 				"67649",
@@ -18131,7 +18160,8 @@
 				"67641",
 				"67411",
 				"67441",
-				"67009"
+				"67689",
+				"67759"
 			]
 		]
 	},
@@ -25115,11 +25145,13 @@
 				"90069",
 				"90059",
 				"90039",
+				"90049",
 				"90029",
 				"90019",
 				"90079",
 				"90011",
 				"90021",
+				"90041",
 				"90031",
 				"90051",
 				"90061",
@@ -27061,7 +27093,7 @@
 		]
 	},
 	"39A": {
-		"name": "Opp Pasir Ris Stn Exit B → Aft Seletar Camp G",
+		"name": "Opp Pasir Ris Stn Exit B → Aft Piccadilly Circus/TPE",
 		"routes": [
 			[
 				"77031",
@@ -28279,10 +28311,10 @@
 		]
 	},
 	"80A": {
-		"name": "Sengkang Int → Aljunied Stn",
+		"name": "Compassvale Int → Aljunied Stn",
 		"routes": [
 			[
-				"67009",
+				"67759",
 				"67191",
 				"67171",
 				"65029",
@@ -28290,6 +28322,7 @@
 				"64029",
 				"64429",
 				"64381",
+				"64391",
 				"64549",
 				"64019",
 				"63069",
@@ -28854,7 +28887,7 @@
 		]
 	},
 	"858B": {
-		"name": "Bef Seletar Camp G → Aft Seletar Camp G",
+		"name": "Bef Piccadilly Circus/TPE → Aft Piccadilly Circus/TPE",
 		"routes": [
 			[
 				"68111",
@@ -29121,7 +29154,7 @@
 		]
 	},
 	"86A": {
-		"name": "Aft Seletar Camp G → Yio Chu Kang Stn",
+		"name": "Aft Piccadilly Circus/TPE → Yio Chu Kang Stn",
 		"routes": [
 			[
 				"68119",
@@ -29146,7 +29179,7 @@
 		]
 	},
 	"86B": {
-		"name": "Opp Yio Chu Kang Stn → Bef Seletar Camp G",
+		"name": "Opp Yio Chu Kang Stn → Bef Piccadilly Circus/TPE",
 		"routes": [
 			[
 				"55181",
@@ -29189,6 +29222,25 @@
 				"43809",
 				"43549",
 				"43429"
+			]
+		]
+	},
+	"872A": {
+		"name": "Tengah Int → Chinese Gdn Stn",
+		"routes": [
+			[
+				"41009",
+				"40451",
+				"40399",
+				"40409",
+				"40501",
+				"40491",
+				"40481",
+				"43769",
+				"43453",
+				"28299",
+				"28289",
+				"28341"
 			]
 		]
 	},
