@@ -3965,8 +3965,8 @@
 		"BusStopCode": "14521",
 		"RoadName": "Artillery Ave",
 		"Description": "Village Hotel",
-		"Latitude": 1.256432,
-		"Longitude": 103.820911
+		"Latitude": 1.253596111,
+		"Longitude": 103.820425
 	},
 	{
 		"BusStopCode": "14529",
@@ -10587,8 +10587,8 @@
 		"BusStopCode": "28221",
 		"RoadName": "Jurong Town Hall Rd",
 		"Description": "Opp Intl Business Pk",
-		"Latitude": 1.32761805004,
-		"Longitude": 103.74494173101616
+		"Latitude": 1.327192,
+		"Longitude": 103.745149
 	},
 	{
 		"BusStopCode": "28229",
@@ -10608,8 +10608,8 @@
 		"BusStopCode": "28239",
 		"RoadName": "Jurong Town Hall Rd",
 		"Description": "Jurong Town Hall Int",
-		"Latitude": 1.330029,
-		"Longitude": 103.742845
+		"Latitude": 1.329722,
+		"Longitude": 103.7431495
 	},
 	{
 		"BusStopCode": "28241",
@@ -10699,8 +10699,8 @@
 		"BusStopCode": "28301",
 		"RoadName": "Jurong Gateway Rd",
 		"Description": "Blk 131",
-		"Latitude": 1.33473899929823,
-		"Longitude": 103.74030301599491
+		"Latitude": 1.3348645,
+		"Longitude": 103.740441
 	},
 	{
 		"BusStopCode": "28309",
@@ -13128,8 +13128,8 @@
 		"BusStopCode": "43081",
 		"RoadName": "Upp Bt Timah Rd",
 		"Description": "Opp St. Joseph's Ch (Bt Timah)",
-		"Latitude": 1.36704277799302,
-		"Longitude": 103.76572777796798
+		"Latitude": 1.366245,
+		"Longitude": 103.766345
 	},
 	{
 		"BusStopCode": "43089",
@@ -17698,7 +17698,7 @@
 	{
 		"BusStopCode": "47749",
 		"RoadName": "Woodlands Dr 17",
-		"Description": "W'lands Health Campus",
+		"Description": "W'lands Hosp",
 		"Latitude": 1.425821,
 		"Longitude": 103.793911
 	},
@@ -19049,7 +19049,7 @@
 	{
 		"BusStopCode": "52241",
 		"RoadName": "Toa Payoh Rise",
-		"Description": "Blk 105",
+		"Description": "Bef Caldecott Stn/SAVH",
 		"Latitude": 1.33804611111505,
 		"Longitude": 103.8389949999753
 	},
@@ -22487,8 +22487,8 @@
 		"BusStopCode": "59069",
 		"RoadName": "Yishun Ave 2",
 		"Description": "Opp Blk 757",
-		"Latitude": 1.42657294826877,
-		"Longitude": 103.83536957259517
+		"Latitude": 1.4259095,
+		"Longitude": 103.835307
 	},
 	{
 		"BusStopCode": "59072",
@@ -25566,7 +25566,7 @@
 	{
 		"BusStopCode": "65091",
 		"RoadName": "Punggol Rd",
-		"Description": "BLK 301A",
+		"Description": "Blk 301A",
 		"Latitude": 1.4039796271467,
 		"Longitude": 103.90655641325277
 	},
@@ -28072,9 +28072,9 @@
 	{
 		"BusStopCode": "67759",
 		"RoadName": "Compassvale Rd",
-		"Description": "COMPASSVALE INT",
-		"Latitude": 1.39129522332876,
-		"Longitude": 103.89720218513328
+		"Description": "Compassvale Int",
+		"Latitude": 1.3912175,
+		"Longitude": 103.8971153
 	},
 	{
 		"BusStopCode": "67761",
@@ -29503,6 +29503,13 @@
 		"Description": "Blk 961A",
 		"Latitude": 1.340276,
 		"Longitude": 103.936345
+	},
+	{
+		"BusStopCode": "74951",
+		"RoadName": "Tampines St 96",
+		"Description": "Blk 962A",
+		"Latitude": 1.3396495,
+		"Longitude": 103.9380655
 	},
 	{
 		"BusStopCode": "74959",
