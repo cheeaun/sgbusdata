@@ -1,3 +1,38 @@
+# 1 March 2026
+
+## Stops count change: 5196 ⮕ 5197
+
+### Stops added: 1
+
+- `74951` Blk 962A
+
+### Stop names changed: 1
+
+- `47749` W'lands Health Campus ⮕ W'lands Hosp
+
+### Stop locations changed: 6
+
+- `28221` 103.74494,1.32762 ⮕ 103.74515,1.32719
+- `28239` 103.74285,1.33003 ⮕ 103.74315,1.32972
+- `28301` 103.7403,1.33474 ⮕ 103.74044,1.33486
+- `43081` 103.76573,1.36704 ⮕ 103.76635,1.36625
+- `59069` 103.83537,1.42657 ⮕ 103.83531,1.42591
+- `67759` 103.8972,1.3913 ⮕ 103.89712,1.39122
+
+## Services count change: 588 ⮕ 589
+
+### Services added: 1
+
+- `18M` Opp SBST Bedok Nth Depot → SBST Bedok Nth Depot
+
+## Routes changed: 1
+
+- `18M` Opp SBST Bedok Nth Depot → SBST Bedok Nth Depot
+
+## First/last timings changed
+
+Affected services: `185`, `18M`
+
 # 1 February 2026
 
 ## Stops count change: 5194 ⮕ 5196

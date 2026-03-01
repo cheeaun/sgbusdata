@@ -444,17 +444,6 @@
 		]
 	},
 	{
-		"number": 573,
-		"description": "Ang Mo Kio Avenue 6 to Alexandra Road",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"573-1.kml"
-		],
-		"routeFile": [
-			"573.xml"
-		]
-	},
-	{
 		"number": 574,
 		"description": "Upper Serangoon Road - Anson Road",
 		"type": "PREMIUM",
@@ -583,6 +572,17 @@
 		]
 	},
 	{
+		"number": 738,
+		"description": "Bedok Reservoir Road to Punggol Digital District",
+		"type": "PREMIUM",
+		"kmlFile": [
+			"738-1.kml"
+		],
+		"routeFile": [
+			"738.xml"
+		]
+	},
+	{
 		"number": 740,
 		"description": "Sembawang Drive - Changi Business Park",
 		"type": "PREMIUM",
@@ -622,8 +622,7 @@
 		"description": "Mariam Way - Anson Road",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"753-1.kml",
-			"753-2.kml"
+			"753-1.kml"
 		],
 		"routeFile": [
 			"753.xml"
@@ -784,17 +783,6 @@
 		]
 	},
 	{
-		"number": "-S62",
-		"description": "Hello Singapore+ - Orange Grove to Mandai Wildlife Reserve Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S62-1.kml"
-		],
-		"routeFile": [
-			"-S62.xml"
-		]
-	},
-	{
 		"number": "-S63",
 		"description": "Hello Singapore+ - Mandai Wildlife Reserve to Orange Grove Tourist Bus Service",
 		"type": "SHUTTLEATTRACTIONS",
@@ -803,17 +791,6 @@
 		],
 		"routeFile": [
 			"-S63.xml"
-		]
-	},
-	{
-		"number": "-S64",
-		"description": "Hello Singapore+ - Orange Grove Road to Gardens by the Bay and Sentosa Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S64-1.kml"
-		],
-		"routeFile": [
-			"-S64.xml"
 		]
 	},
 	{
@@ -828,17 +805,6 @@
 		]
 	},
 	{
-		"number": "-S66",
-		"description": "Hello Singapore+ - New Bridge Road to Gardens by the Bay and Sentosa Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S66-1.kml"
-		],
-		"routeFile": [
-			"-S66.xml"
-		]
-	},
-	{
 		"number": "-S67",
 		"description": "Hello Singapore+ - Gardens by the Bay and Sentosa to New Bridge Road Tourist Bus Service",
 		"type": "SHUTTLEATTRACTIONS",
@@ -847,17 +813,6 @@
 		],
 		"routeFile": [
 			"-S67.xml"
-		]
-	},
-	{
-		"number": "-S68",
-		"description": "Hello Singapore+ - Coleman Street to Mandai Wildlife Reserves Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S68-1.kml"
-		],
-		"routeFile": [
-			"-S68.xml"
 		]
 	},
 	{
@@ -2636,6 +2591,16 @@
 		],
 		"routeFile": [
 			"18A.xml"
+		]
+	},
+	{
+		"number": "18M",
+		"type": "TRUNK",
+		"kmlFile": [
+			"18M-1.kml"
+		],
+		"routeFile": [
+			"18M.xml"
 		]
 	},
 	{

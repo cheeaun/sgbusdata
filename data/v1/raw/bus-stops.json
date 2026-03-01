@@ -72,15 +72,6 @@
 		}
 	},
 	{
-		"name": "-P120",
-		"wab": "true",
-		"details": "Opp Suntec Convention Ctr",
-		"coordinates": {
-			"lat": 1.29360811227161,
-			"long": 103.85840672828635
-		}
-	},
-	{
 		"name": "-P121",
 		"wab": "true",
 		"details": "Aft Promenade Stn Exit C",
@@ -900,78 +891,6 @@
 		}
 	},
 	{
-		"name": "-P429",
-		"wab": "true",
-		"details": "Bef Al-Muttaqin Mque",
-		"coordinates": {
-			"lat": 1.370917861,
-			"long": 103.8456365
-		}
-	},
-	{
-		"name": "-P431",
-		"wab": "true",
-		"details": "Courts Ang Mo Kio",
-		"coordinates": {
-			"lat": 1.373504722,
-			"long": 103.8453257
-		}
-	},
-	{
-		"name": "-P433",
-		"wab": "true",
-		"details": "Bef Ang Mo Kio Lib",
-		"coordinates": {
-			"lat": 1.376284989,
-			"long": 103.844983
-		}
-	},
-	{
-		"name": "-P443",
-		"wab": "true",
-		"details": "Blk 700B",
-		"coordinates": {
-			"lat": 1.36913518643274,
-			"long": 103.84618005827467
-		}
-	},
-	{
-		"name": "-P446",
-		"wab": "true",
-		"details": "Aft Ang Mo Kio Stn Exit A",
-		"coordinates": {
-			"lat": 1.369469419,
-			"long": 103.8507545
-		}
-	},
-	{
-		"name": "-P448",
-		"wab": "true",
-		"details": "Blk 586",
-		"coordinates": {
-			"lat": 1.369963268,
-			"long": 103.8535666
-		}
-	},
-	{
-		"name": "-P450",
-		"wab": "true",
-		"details": "Blk 570",
-		"coordinates": {
-			"lat": 1.369490257,
-			"long": 103.8560128
-		}
-	},
-	{
-		"name": "-P452",
-		"wab": "true",
-		"details": "Blk 564",
-		"coordinates": {
-			"lat": 1.369188614,
-			"long": 103.8588615
-		}
-	},
-	{
 		"name": "-P454",
 		"wab": "true",
 		"details": "Blk 5022",
@@ -987,33 +906,6 @@
 		"coordinates": {
 			"lat": 1.369888353,
 			"long": 103.863066
-		}
-	},
-	{
-		"name": "-P487",
-		"wab": "true",
-		"details": "Opp Castle Green",
-		"coordinates": {
-			"lat": 1.385991667,
-			"long": 103.8431694
-		}
-	},
-	{
-		"name": "-P489",
-		"wab": "true",
-		"details": "Yio Chu Kang Stn",
-		"coordinates": {
-			"lat": 1.382955556,
-			"long": 103.844225
-		}
-	},
-	{
-		"name": "-P492",
-		"wab": "true",
-		"details": "Opp Blk 646",
-		"coordinates": {
-			"lat": 1.378631667,
-			"long": 103.8446844
 		}
 	},
 	{
@@ -2115,15 +2007,6 @@
 		}
 	},
 	{
-		"name": "-P783",
-		"wab": "true",
-		"details": "Blk 497D",
-		"coordinates": {
-			"lat": 1.358458027,
-			"long": 103.9591706
-		}
-	},
-	{
 		"name": "-P784",
 		"wab": "true",
 		"details": "Blk 370",
@@ -2133,30 +2016,12 @@
 		}
 	},
 	{
-		"name": "-P790",
-		"wab": "true",
-		"details": "Ngee Ann Sec Sch",
-		"coordinates": {
-			"lat": 1.353850014,
-			"long": 103.9574275
-		}
-	},
-	{
 		"name": "-P791",
 		"wab": "true",
 		"details": "Blk 307A",
 		"coordinates": {
 			"lat": 1.353662435,
 			"long": 103.9564853
-		}
-	},
-	{
-		"name": "-P792",
-		"wab": "true",
-		"details": "Opp Blk 331",
-		"coordinates": {
-			"lat": 1.353841243,
-			"long": 103.9598719
 		}
 	},
 	{
@@ -2184,15 +2049,6 @@
 		"coordinates": {
 			"lat": 1.352080031,
 			"long": 103.9587319
-		}
-	},
-	{
-		"name": "-P797",
-		"wab": "true",
-		"details": "Eden Condo",
-		"coordinates": {
-			"lat": 1.356109722,
-			"long": 103.9598183
 		}
 	},
 	{
@@ -2367,6 +2223,15 @@
 		}
 	},
 	{
+		"name": "-P852",
+		"wab": "true",
+		"details": "Fengshan Pr Sch",
+		"coordinates": {
+			"lat": 1.330917486,
+			"long": 103.9323322
+		}
+	},
+	{
 		"name": "-P865",
 		"wab": "true",
 		"details": "Eastwood Ctr",
@@ -2520,30 +2385,12 @@
 		}
 	},
 	{
-		"name": "-P927",
-		"wab": "true",
-		"details": "Opp Expo Halls 1/2/3",
-		"coordinates": {
-			"lat": 1.333978056,
-			"long": 103.9566372
-		}
-	},
-	{
 		"name": "-P928",
 		"wab": "true",
 		"details": "Expo Halls 1/2/3",
 		"coordinates": {
 			"lat": 1.33371794723789,
 			"long": 103.95679798964366
-		}
-	},
-	{
-		"name": "-P929",
-		"wab": "true",
-		"details": "Opp Expo Halls 4/5/6",
-		"coordinates": {
-			"lat": 1.335905,
-			"long": 103.95837
 		}
 	},
 	{
@@ -2574,15 +2421,6 @@
 		}
 	},
 	{
-		"name": "-P935",
-		"wab": "true",
-		"details": "Metta Welfare Assn",
-		"coordinates": {
-			"lat": 1.347193606,
-			"long": 103.9577602
-		}
-	},
-	{
 		"name": "-P936",
 		"wab": "true",
 		"details": "Melville Pk",
@@ -2601,30 +2439,12 @@
 		}
 	},
 	{
-		"name": "-P939",
-		"wab": "true",
-		"details": "Blk 151",
-		"coordinates": {
-			"lat": 1.345630537,
-			"long": 103.9577053
-		}
-	},
-	{
 		"name": "-P940",
 		"wab": "true",
 		"details": "Blk 166",
 		"coordinates": {
 			"lat": 1.345297803,
 			"long": 103.9579362
-		}
-	},
-	{
-		"name": "-P941",
-		"wab": "true",
-		"details": "Blk 224",
-		"coordinates": {
-			"lat": 1.342856667,
-			"long": 103.9577464
 		}
 	},
 	{
@@ -3258,6 +3078,24 @@
 		}
 	},
 	{
+		"name": "-PN02",
+		"wab": "true",
+		"details": "Blk 45",
+		"coordinates": {
+			"lat": 1.329162,
+			"long": 103.924608
+		}
+	},
+	{
+		"name": "-PN09",
+		"wab": "true",
+		"details": "Blk 139",
+		"coordinates": {
+			"lat": 1.32940888887166,
+			"long": 103.9348130555732
+		}
+	},
+	{
 		"name": "-PP10",
 		"wab": "true",
 		"details": "Aft Akzonobel",
@@ -3345,15 +3183,6 @@
 		"coordinates": {
 			"lat": 1.36001388887382,
 			"long": 103.964876111109
-		}
-	},
-	{
-		"name": "-PW01",
-		"wab": "true",
-		"details": "Bef Mariam Wk",
-		"coordinates": {
-			"lat": 1.35930611110109,
-			"long": 103.96849111110153
 		}
 	},
 	{
@@ -3960,6 +3789,15 @@
 		}
 	},
 	{
+		"name": "-Z004",
+		"wab": "true",
+		"details": "The Clearwater Condo",
+		"coordinates": {
+			"lat": 1.33811824869625,
+			"long": 103.9339578151498
+		}
+	},
+	{
 		"name": "-Z057",
 		"wab": "true",
 		"details": "Bet Blks 443A/443B",
@@ -4488,6 +4326,33 @@
 		"coordinates": {
 			"lat": 1.40502618974463,
 			"long": 103.90299618971393
+		}
+	},
+	{
+		"name": "-Z537",
+		"wab": "true",
+		"details": "Blk 221A",
+		"coordinates": {
+			"lat": 1.3246905167586,
+			"long": 103.93468799273933
+		}
+	},
+	{
+		"name": "-Z538",
+		"wab": "true",
+		"details": "Blk 220 CP",
+		"coordinates": {
+			"lat": 1.32566318975139,
+			"long": 103.93533757051014
+		}
+	},
+	{
+		"name": "-Z539",
+		"wab": "true",
+		"details": "Blk 403",
+		"coordinates": {
+			"lat": 1.33004744658174,
+			"long": 103.93443969781201
 		}
 	},
 	{
@@ -6171,6 +6036,87 @@
 		"coordinates": {
 			"lat": 1.443344,
 			"long": 103.829781
+		}
+	},
+	{
+		"name": "-Z890",
+		"wab": "true",
+		"details": "Blk 970A",
+		"coordinates": {
+			"lat": 1.341667,
+			"long": 103.937323
+		}
+	},
+	{
+		"name": "-Z891",
+		"wab": "true",
+		"details": "Bedok Reservoir Station Exit B",
+		"coordinates": {
+			"lat": 1.33652,
+			"long": 103.933365
+		}
+	},
+	{
+		"name": "-Z892",
+		"wab": "true",
+		"details": "Bedok Stn Exit A Passenger pick up",
+		"coordinates": {
+			"lat": 1.323,
+			"long": 103.9295
+		}
+	},
+	{
+		"name": "-Z893",
+		"wab": "true",
+		"details": "Block 414",
+		"coordinates": {
+			"lat": 1.33029323198176,
+			"long": 103.92970061275057
+		}
+	},
+	{
+		"name": "-Z894",
+		"wab": "true",
+		"details": "Block 428",
+		"coordinates": {
+			"lat": 1.32980564460578,
+			"long": 103.92771515822335
+		}
+	},
+	{
+		"name": "-Z895",
+		"wab": "true",
+		"details": "Bef SIT Punggol",
+		"coordinates": {
+			"lat": 1.411316,
+			"long": 103.910496
+		}
+	},
+	{
+		"name": "-Z896",
+		"wab": "true",
+		"details": "Punggol Coast Stn",
+		"coordinates": {
+			"lat": 1.414675,
+			"long": 103.911277
+		}
+	},
+	{
+		"name": "-Z897",
+		"wab": "true",
+		"details": "Tower 98 Punggol Digital District",
+		"coordinates": {
+			"lat": 1.4159633,
+			"long": 103.9137112
+		}
+	},
+	{
+		"name": "-Z898",
+		"wab": "true",
+		"details": "Tower 88/90/92 Punggol Digital District",
+		"coordinates": {
+			"lat": 1.4156258,
+			"long": 103.910999
 		}
 	},
 	{
@@ -19786,8 +19732,8 @@
 		"wab": "true",
 		"details": "Opp Intl Business Pk",
 		"coordinates": {
-			"lat": 1.32761805004,
-			"long": 103.74494173101616
+			"lat": 1.327192,
+			"long": 103.745149
 		}
 	},
 	{
@@ -19813,8 +19759,8 @@
 		"wab": "true",
 		"details": "Jurong Town Hall Int",
 		"coordinates": {
-			"lat": 1.330029,
-			"long": 103.742845
+			"lat": 1.329722,
+			"long": 103.7431495
 		}
 	},
 	{
@@ -19930,8 +19876,8 @@
 		"wab": "true",
 		"details": "Blk 131",
 		"coordinates": {
-			"lat": 1.33473899929823,
-			"long": 103.74030301599491
+			"lat": 1.3348645,
+			"long": 103.740441
 		}
 	},
 	{
@@ -23053,8 +22999,8 @@
 		"wab": "true",
 		"details": "Opp St. Joseph's Ch (Bt Timah)",
 		"coordinates": {
-			"lat": 1.36704277799302,
-			"long": 103.76572777796798
+			"lat": 1.366245,
+			"long": 103.766345
 		}
 	},
 	{
@@ -28928,7 +28874,7 @@
 	{
 		"name": "47749",
 		"wab": "true",
-		"details": "W'lands Health Campus",
+		"details": "W'lands Hosp",
 		"coordinates": {
 			"lat": 1.425821,
 			"long": 103.793911
@@ -35086,8 +35032,8 @@
 		"wab": "true",
 		"details": "Opp Blk 757",
 		"coordinates": {
-			"lat": 1.42657294826877,
-			"long": 103.83536957259517
+			"lat": 1.4259095,
+			"long": 103.835307
 		}
 	},
 	{
@@ -42268,8 +42214,8 @@
 		"wab": "true",
 		"details": "Compassvale Int",
 		"coordinates": {
-			"lat": 1.39129522332876,
-			"long": 103.89720218513328
+			"lat": 1.3912175,
+			"long": 103.8971153
 		}
 	},
 	{
@@ -44106,6 +44052,15 @@
 		"coordinates": {
 			"lat": 1.340276,
 			"long": 103.936345
+		}
+	},
+	{
+		"name": "74951",
+		"wab": "true",
+		"details": "Blk 962A",
+		"coordinates": {
+			"lat": 1.3396495,
+			"long": 103.9380655
 		}
 	},
 	{

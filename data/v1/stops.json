@@ -7680,8 +7680,8 @@
 		"Jurong Gateway Rd"
 	],
 	"28221": [
-		103.74494,
-		1.32762,
+		103.74515,
+		1.32719,
 		"Opp Intl Business Pk",
 		"Jurong Town Hall Rd"
 	],
@@ -7698,8 +7698,8 @@
 		"Jurong Town Hall Rd"
 	],
 	"28239": [
-		103.74285,
-		1.33003,
+		103.74315,
+		1.32972,
 		"Jurong Town Hall Int",
 		"Jurong Town Hall Rd"
 	],
@@ -7776,8 +7776,8 @@
 		"Jurong Town Hall Rd"
 	],
 	"28301": [
-		103.7403,
-		1.33474,
+		103.74044,
+		1.33486,
 		"Blk 131",
 		"Jurong Gateway Rd"
 	],
@@ -9858,8 +9858,8 @@
 		"Upp Bt Timah Rd"
 	],
 	"43081": [
-		103.76573,
-		1.36704,
+		103.76635,
+		1.36625,
 		"Opp St. Joseph's Ch (Bt Timah)",
 		"Upp Bt Timah Rd"
 	],
@@ -13778,7 +13778,7 @@
 	"47749": [
 		103.79391,
 		1.42582,
-		"W'lands Health Campus",
+		"W'lands Hosp",
 		"Woodlands Dr 17"
 	],
 	"47751": [
@@ -17880,8 +17880,8 @@
 		"Yishun Ave 2"
 	],
 	"59069": [
-		103.83537,
-		1.42657,
+		103.83531,
+		1.42591,
 		"Opp Blk 757",
 		"Yishun Ave 2"
 	],
@@ -22668,8 +22668,8 @@
 		"Fernvale Rd"
 	],
 	"67759": [
-		103.8972,
-		1.3913,
+		103.89712,
+		1.39122,
 		"Compassvale Int",
 		"Compassvale Rd"
 	],
@@ -23896,6 +23896,12 @@
 		1.34028,
 		"Blk 961A",
 		"Bedok Reservoir Rd"
+	],
+	"74951": [
+		103.93807,
+		1.33965,
+		"Blk 962A",
+		"Tampines St 96"
 	],
 	"74959": [
 		103.93791,
