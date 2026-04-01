@@ -226,10 +226,10 @@ services
             (s) => s.BUS_SEQUENCE === 1,
           ).START_BUS_STOP_NUM;
           const coordinates = BUS_DIRECTION_ONE.reduce((acc, v) => {
-            // const line = polyline
-            //   .decode(v.GEOMETRIES)
-            //   .map((coords) => coords.reverse());
-            const line = v.GEOMETRIES;
+            const line = polyline
+              .decode(v.GEOMETRIES)
+              .map((coords) => coords.reverse());
+            // const line = v.GEOMETRIES;
             if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
               line.shift(); // Remove first coord
             }
@@ -246,10 +246,10 @@ services
             (s) => s.BUS_SEQUENCE === 1,
           ).START_BUS_STOP_NUM;
           const coordinates = BUS_DIRECTION_TWO.reduce((acc, v) => {
-            // const line = polyline
-            //   .decode(v.GEOMETRIES)
-            //   .map((coords) => coords.reverse());
-            const line = v.GEOMETRIES;
+            const line = polyline
+              .decode(v.GEOMETRIES)
+              .map((coords) => coords.reverse());
+            // const line = v.GEOMETRIES;
             if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
               line.shift(); // Remove first coord
             }
