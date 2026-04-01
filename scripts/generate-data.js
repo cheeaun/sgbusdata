@@ -1,5 +1,6 @@
 const polyline = require('@mapbox/polyline');
 const simplify = require('simplify-js');
+const combineLineStrings = require('./lib/combine-line-strings');
 function coords2polyline(coords) {
   // convert lng lat to X Y
   const xyCoords = coords.map((coord) => ({ x: coord[0], y: coord[1] }));
@@ -170,14 +171,15 @@ services
           );
           const feature = geojson.features[0];
           if (feature.geometry.type === 'GeometryCollection') {
-            const coordinates = feature.geometry.geometries.reduce((acc, g) => {
-              const line = g.coordinates;
-              if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
-                line.shift(); // Remove first coord
-              }
-              acc.push(...line);
-              return acc;
-            }, []);
+            const combined = combineLineStrings(
+              feature.geometry.geometries
+                .filter((geometry) => geometry.type === 'LineString')
+                .map((geometry) => geometry.coordinates),
+            );
+            if (!combined?.coordinates?.length) {
+              throw new Error('Unable to combine GeometryCollection into a route LineString.');
+            }
+            const coordinates = combined.coordinates;
             routesPolylines[num][i] = coords2polyline(coordinates);
             routesFeatures.push({
               type: 'Feature',
