@@ -1,0 +1,11 @@
+[
+	{
+		"name": "From S'Goon Stn Exit B to Paya Lebar Stn Exit B",
+		"stops": [
+			"62131",
+			"70289",
+			"70259",
+			"81111"
+		]
+	}
+]

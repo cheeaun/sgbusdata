@@ -572,17 +572,6 @@
 		]
 	},
 	{
-		"number": 738,
-		"description": "Bedok Reservoir Road to Punggol Digital District",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"738-1.kml"
-		],
-		"routeFile": [
-			"738.xml"
-		]
-	},
-	{
 		"number": 740,
 		"description": "Sembawang Drive - Changi Business Park",
 		"type": "PREMIUM",
@@ -780,50 +769,6 @@
 		],
 		"routeFile": [
 			"-S61.xml"
-		]
-	},
-	{
-		"number": "-S63",
-		"description": "Hello Singapore+ - Mandai Wildlife Reserve to Orange Grove Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S63-1.kml"
-		],
-		"routeFile": [
-			"-S63.xml"
-		]
-	},
-	{
-		"number": "-S65",
-		"description": "Hello Singapore+ - Sentosa and Gardens by the Bay to Orange Grove Road Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S65-1.kml"
-		],
-		"routeFile": [
-			"-S65.xml"
-		]
-	},
-	{
-		"number": "-S67",
-		"description": "Hello Singapore+ - Gardens by the Bay and Sentosa to New Bridge Road Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S67-1.kml"
-		],
-		"routeFile": [
-			"-S67.xml"
-		]
-	},
-	{
-		"number": "-S69",
-		"description": "Hello Singapore+ - Mandai Wildlife Reserves to Coleman Street Tourist Bus Service",
-		"type": "SHUTTLEATTRACTIONS",
-		"kmlFile": [
-			"-S69-1.kml"
-		],
-		"routeFile": [
-			"-S69.xml"
 		]
 	},
 	{
@@ -4157,6 +4102,16 @@
 		]
 	},
 	{
+		"number": "43A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"43A-1.kml"
+		],
+		"routeFile": [
+			"43A.xml"
+		]
+	},
+	{
 		"number": "43e",
 		"type": "TRUNK",
 		"kmlFile": [
@@ -4250,6 +4205,28 @@
 		],
 		"routeFile": [
 			"456.xml"
+		]
+	},
+	{
+		"number": 457,
+		"type": "TRUNK",
+		"kmlFile": [
+			"457-1.kml",
+			"457-2.kml"
+		],
+		"routeFile": [
+			"457.xml"
+		]
+	},
+	{
+		"number": 458,
+		"type": "TRUNK",
+		"kmlFile": [
+			"458-1.kml",
+			"458-2.kml"
+		],
+		"routeFile": [
+			"458.xml"
 		]
 	},
 	{
@@ -5167,6 +5144,26 @@
 		],
 		"routeFile": [
 			"83.xml"
+		]
+	},
+	{
+		"number": "831G",
+		"type": "TRUNK",
+		"kmlFile": [
+			"831G-1.kml"
+		],
+		"routeFile": [
+			"831G.xml"
+		]
+	},
+	{
+		"number": "831W",
+		"type": "TRUNK",
+		"kmlFile": [
+			"831W-1.kml"
+		],
+		"routeFile": [
+			"831W.xml"
 		]
 	},
 	{
@@ -6734,6 +6731,47 @@
 		],
 		"routeFile": [
 			"9B.xml"
+		]
+	},
+	{
+		"number": "S37A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"S37A-1.kml"
+		],
+		"routeFile": [
+			"S37A.xml"
+		]
+	},
+	{
+		"number": "S37B",
+		"type": "TRUNK",
+		"kmlFile": [
+			"S37B-1.kml"
+		],
+		"routeFile": [
+			"S37B.xml"
+		]
+	},
+	{
+		"number": "S37C",
+		"type": "TRUNK",
+		"kmlFile": [
+			"S37C-1.kml"
+		],
+		"routeFile": [
+			"S37C.xml"
+		]
+	},
+	{
+		"number": "S38",
+		"type": "TRUNK",
+		"kmlFile": [
+			"S38-1.kml",
+			"S38-2.kml"
+		],
+		"routeFile": [
+			"S38.xml"
 		]
 	}
 ]

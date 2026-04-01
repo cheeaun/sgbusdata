@@ -1,0 +1,27 @@
+[
+	{
+		"name": "From Opp Sengkang Stn/Blk 260A to Aft Tai Seng Stn",
+		"stops": [
+			"67401",
+			"67101",
+			"67111",
+			"67121",
+			"67131",
+			"67141",
+			"67151",
+			"70281"
+		]
+	},
+	{
+		"name": "From Aft Tai Seng Stn Exit C to Sengkang Stn",
+		"stops": [
+			"70289",
+			"67159",
+			"67139",
+			"67129",
+			"67119",
+			"67109",
+			"67409"
+		]
+	}
+]

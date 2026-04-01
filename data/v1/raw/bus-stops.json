@@ -2223,15 +2223,6 @@
 		}
 	},
 	{
-		"name": "-P852",
-		"wab": "true",
-		"details": "Fengshan Pr Sch",
-		"coordinates": {
-			"lat": 1.330917486,
-			"long": 103.9323322
-		}
-	},
-	{
 		"name": "-P865",
 		"wab": "true",
 		"details": "Eastwood Ctr",
@@ -3078,24 +3069,6 @@
 		}
 	},
 	{
-		"name": "-PN02",
-		"wab": "true",
-		"details": "Blk 45",
-		"coordinates": {
-			"lat": 1.329162,
-			"long": 103.924608
-		}
-	},
-	{
-		"name": "-PN09",
-		"wab": "true",
-		"details": "Blk 139",
-		"coordinates": {
-			"lat": 1.32940888887166,
-			"long": 103.9348130555732
-		}
-	},
-	{
 		"name": "-PP10",
 		"wab": "true",
 		"details": "Aft Akzonobel",
@@ -3789,15 +3762,6 @@
 		}
 	},
 	{
-		"name": "-Z004",
-		"wab": "true",
-		"details": "The Clearwater Condo",
-		"coordinates": {
-			"lat": 1.33811824869625,
-			"long": 103.9339578151498
-		}
-	},
-	{
 		"name": "-Z057",
 		"wab": "true",
 		"details": "Bet Blks 443A/443B",
@@ -4326,33 +4290,6 @@
 		"coordinates": {
 			"lat": 1.40502618974463,
 			"long": 103.90299618971393
-		}
-	},
-	{
-		"name": "-Z537",
-		"wab": "true",
-		"details": "Blk 221A",
-		"coordinates": {
-			"lat": 1.3246905167586,
-			"long": 103.93468799273933
-		}
-	},
-	{
-		"name": "-Z538",
-		"wab": "true",
-		"details": "Blk 220 CP",
-		"coordinates": {
-			"lat": 1.32566318975139,
-			"long": 103.93533757051014
-		}
-	},
-	{
-		"name": "-Z539",
-		"wab": "true",
-		"details": "Blk 403",
-		"coordinates": {
-			"lat": 1.33004744658174,
-			"long": 103.93443969781201
 		}
 	},
 	{
@@ -5616,141 +5553,6 @@
 		}
 	},
 	{
-		"name": "-Z817",
-		"wab": "true",
-		"details": "Driveway of Orchard Hotel Singapore",
-		"coordinates": {
-			"lat": 1.30707,
-			"long": 103.82829
-		}
-	},
-	{
-		"name": "-Z818",
-		"wab": "true",
-		"details": "Driveway of Hotel Chancellor @ Orchard",
-		"coordinates": {
-			"lat": 1.312032,
-			"long": 103.845149
-		}
-	},
-	{
-		"name": "-Z819",
-		"wab": "true",
-		"details": "Driveway of Iyf Farrer Park",
-		"coordinates": {
-			"lat": 1.313001,
-			"long": 103.855346
-		}
-	},
-	{
-		"name": "-Z820",
-		"wab": "true",
-		"details": "Coach Bay at Bird Paradise",
-		"coordinates": {
-			"lat": 1.3192,
-			"long": 103.7062
-		}
-	},
-	{
-		"name": "-Z821",
-		"wab": "true",
-		"details": "Coach Bay at Singapore Zoo/Night Safari",
-		"coordinates": {
-			"lat": 1.405264,
-			"long": 103.791101
-		}
-	},
-	{
-		"name": "-Z822",
-		"wab": "true",
-		"details": "PUDO point outside Orchard Hotel Singapore",
-		"coordinates": {
-			"lat": 1.30707,
-			"long": 103.82829
-		}
-	},
-	{
-		"name": "-Z823",
-		"wab": "true",
-		"details": "PUDO point outside Hotel Chancellor Orchard",
-		"coordinates": {
-			"lat": 1.312032,
-			"long": 103.845149
-		}
-	},
-	{
-		"name": "-Z824",
-		"wab": "true",
-		"details": "PUDO point outside lyf Farrer Park",
-		"coordinates": {
-			"lat": 1.313001,
-			"long": 103.855346
-		}
-	},
-	{
-		"name": "-Z825",
-		"wab": "true",
-		"details": "Coach Bay at Gardens by the Bay",
-		"coordinates": {
-			"lat": 1.2815681,
-			"long": 103.8631632
-		}
-	},
-	{
-		"name": "-Z826",
-		"wab": "true",
-		"details": "Coach Bay at Universal Studios Sentosa",
-		"coordinates": {
-			"lat": 1.264251,
-			"long": 103.823929
-		}
-	},
-	{
-		"name": "-Z827",
-		"wab": "true",
-		"details": "Coach Bay at Sentosa Beach Station",
-		"coordinates": {
-			"lat": 1.251949,
-			"long": 103.818778
-		}
-	},
-	{
-		"name": "-Z828",
-		"wab": "true",
-		"details": "PUDO point outside Dorsett Hotel Singapore",
-		"coordinates": {
-			"lat": 1.287549,
-			"long": 103.846347
-		}
-	},
-	{
-		"name": "-Z829",
-		"wab": "true",
-		"details": "PUDO point outside Grand Copthorne Waterfront",
-		"coordinates": {
-			"lat": 1.28826,
-			"long": 103.836642
-		}
-	},
-	{
-		"name": "-Z830",
-		"wab": "true",
-		"details": "PUDO point outside Citadines Connect City Centre",
-		"coordinates": {
-			"lat": 1.298941,
-			"long": 103.844626
-		}
-	},
-	{
-		"name": "-Z831",
-		"wab": "true",
-		"details": "PUDO point outside Peninsula Excelsior Hotel",
-		"coordinates": {
-			"lat": 1.292016,
-			"long": 103.84981999
-		}
-	},
-	{
 		"name": "-Z832",
 		"wab": "true",
 		"details": "Opp Blk 291E",
@@ -6036,87 +5838,6 @@
 		"coordinates": {
 			"lat": 1.443344,
 			"long": 103.829781
-		}
-	},
-	{
-		"name": "-Z890",
-		"wab": "true",
-		"details": "Blk 970A",
-		"coordinates": {
-			"lat": 1.341667,
-			"long": 103.937323
-		}
-	},
-	{
-		"name": "-Z891",
-		"wab": "true",
-		"details": "Bedok Reservoir Station Exit B",
-		"coordinates": {
-			"lat": 1.33652,
-			"long": 103.933365
-		}
-	},
-	{
-		"name": "-Z892",
-		"wab": "true",
-		"details": "Bedok Stn Exit A Passenger pick up",
-		"coordinates": {
-			"lat": 1.323,
-			"long": 103.9295
-		}
-	},
-	{
-		"name": "-Z893",
-		"wab": "true",
-		"details": "Block 414",
-		"coordinates": {
-			"lat": 1.33029323198176,
-			"long": 103.92970061275057
-		}
-	},
-	{
-		"name": "-Z894",
-		"wab": "true",
-		"details": "Block 428",
-		"coordinates": {
-			"lat": 1.32980564460578,
-			"long": 103.92771515822335
-		}
-	},
-	{
-		"name": "-Z895",
-		"wab": "true",
-		"details": "Bef SIT Punggol",
-		"coordinates": {
-			"lat": 1.411316,
-			"long": 103.910496
-		}
-	},
-	{
-		"name": "-Z896",
-		"wab": "true",
-		"details": "Punggol Coast Stn",
-		"coordinates": {
-			"lat": 1.414675,
-			"long": 103.911277
-		}
-	},
-	{
-		"name": "-Z897",
-		"wab": "true",
-		"details": "Tower 98 Punggol Digital District",
-		"coordinates": {
-			"lat": 1.4159633,
-			"long": 103.9137112
-		}
-	},
-	{
-		"name": "-Z898",
-		"wab": "true",
-		"details": "Tower 88/90/92 Punggol Digital District",
-		"coordinates": {
-			"lat": 1.4156258,
-			"long": 103.910999
 		}
 	},
 	{
@@ -19390,8 +19111,8 @@
 		"wab": "true",
 		"details": "Opp Blk 276B",
 		"coordinates": {
-			"lat": 1.35293305775698,
-			"long": 103.70512862147237
+			"lat": 1.353225,
+			"long": 103.705048
 		}
 	},
 	{
@@ -19399,8 +19120,8 @@
 		"wab": "true",
 		"details": "Blk 276B",
 		"coordinates": {
-			"lat": 1.35307192192765,
-			"long": 103.70486709831036
+			"lat": 1.352945333,
+			"long": 103.7048917
 		}
 	},
 	{
@@ -22009,8 +21730,8 @@
 		"wab": "true",
 		"details": "Blk 224A",
 		"coordinates": {
-			"lat": 1.35726,
-			"long": 103.73121
+			"lat": 1.357112,
+			"long": 103.731092
 		}
 	},
 	{
@@ -22110,6 +21831,42 @@
 		"coordinates": {
 			"lat": 1.3617,
 			"long": 103.7356
+		}
+	},
+	{
+		"name": "40461",
+		"wab": "true",
+		"details": "Blk 308A",
+		"coordinates": {
+			"lat": 1.3618365,
+			"long": 103.7382645
+		}
+	},
+	{
+		"name": "40469",
+		"wab": "true",
+		"details": "Blk 319A",
+		"coordinates": {
+			"lat": 1.361852,
+			"long": 103.738391
+		}
+	},
+	{
+		"name": "40471",
+		"wab": "true",
+		"details": "Blk 126A",
+		"coordinates": {
+			"lat": 1.35932597,
+			"long": 103.7363365
+		}
+	},
+	{
+		"name": "40479",
+		"wab": "true",
+		"details": "Blk 307B",
+		"coordinates": {
+			"lat": 1.3595915,
+			"long": 103.736422
 		}
 	},
 	{
@@ -34398,24 +34155,6 @@
 		}
 	},
 	{
-		"name": "58301",
-		"wab": "true",
-		"details": "3M Bldg",
-		"coordinates": {
-			"lat": 1.44485650594175,
-			"long": 103.81055057568135
-		}
-	},
-	{
-		"name": "58309",
-		"wab": "true",
-		"details": "Opp 3M Bldg",
-		"coordinates": {
-			"lat": 1.44466063592056,
-			"long": 103.81036650514453
-		}
-	},
-	{
 		"name": "58311",
 		"wab": "true",
 		"details": "Blk 354 CP",
@@ -43092,6 +42831,15 @@
 		}
 	},
 	{
+		"name": "70282",
+		"wab": "true",
+		"details": "Tai Seng S37B Boarding",
+		"coordinates": {
+			"lat": 1.33476173,
+			"long": 103.88824505
+		}
+	},
+	{
 		"name": "70289",
 		"wab": "true",
 		"details": "Aft Tai Seng Stn Exit C",
@@ -49729,8 +49477,8 @@
 		"wab": "true",
 		"details": "Aft Bedok Rd",
 		"coordinates": {
-			"lat": 1.32931499760121,
-			"long": 103.95071705887575
+			"lat": 1.329286,
+			"long": 103.950691
 		}
 	},
 	{
@@ -52591,8 +52339,8 @@
 		"wab": "true",
 		"details": "Estella Gdns",
 		"coordinates": {
-			"lat": 1.359681,
-			"long": 103.9661555
+			"lat": 1.3595735,
+			"long": 103.966599
 		}
 	},
 	{
@@ -52600,8 +52348,8 @@
 		"wab": "true",
 		"details": "Opp Estella Gdns",
 		"coordinates": {
-			"lat": 1.3595295,
-			"long": 103.966643
+			"lat": 1.3596995,
+			"long": 103.9661595
 		}
 	},
 	{
@@ -52609,8 +52357,8 @@
 		"wab": "true",
 		"details": "Opp Palm Isles",
 		"coordinates": {
-			"lat": 1.356979,
-			"long": 103.9651894
+			"lat": 1.3569495,
+			"long": 103.9652145
 		}
 	},
 	{
@@ -52618,8 +52366,8 @@
 		"wab": "true",
 		"details": "Parc Olympia",
 		"coordinates": {
-			"lat": 1.355878,
-			"long": 103.9655714
+			"lat": 1.356011,
+			"long": 103.965559
 		}
 	},
 	{
@@ -52627,8 +52375,8 @@
 		"wab": "true",
 		"details": "Avila Gdns",
 		"coordinates": {
-			"lat": 1.36001388887382,
-			"long": 103.96487611110979
+			"lat": 1.3601325,
+			"long": 103.9643955
 		}
 	},
 	{
@@ -52636,8 +52384,8 @@
 		"wab": "true",
 		"details": "Carissa Pk",
 		"coordinates": {
-			"lat": 1.35996000001358,
-			"long": 103.96473694441013
+			"lat": 1.360105,
+			"long": 103.9644155
 		}
 	},
 	{
@@ -52645,8 +52393,8 @@
 		"wab": "true",
 		"details": "Bef Mariam Wk",
 		"coordinates": {
-			"lat": 1.35930611110109,
-			"long": 103.96849111110153
+			"lat": 1.359254,
+			"long": 103.9685985
 		}
 	},
 	{
@@ -52654,8 +52402,8 @@
 		"wab": "true",
 		"details": "Aft Ballota Pk",
 		"coordinates": {
-			"lat": 1.3592369444173,
-			"long": 103.96845690524152
+			"lat": 1.359266,
+			"long": 103.9684085
 		}
 	},
 	{

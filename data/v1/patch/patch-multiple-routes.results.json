@@ -48,18 +48,6 @@
 		"count": 22
 	},
 	{
-		"number": 159,
-		"numberPattern": "159-1",
-		"e": "More than 1 feature",
-		"count": 2
-	},
-	{
-		"number": 159,
-		"numberPattern": "159-2",
-		"e": "More than 1 feature",
-		"count": 2
-	},
-	{
 		"number": 165,
 		"numberPattern": "165-1",
 		"e": "Not LineString but is GeometryCollection",
@@ -148,12 +136,6 @@
 		"numberPattern": "518A-1",
 		"e": "Not LineString but is GeometryCollection",
 		"count": 6
-	},
-	{
-		"number": 73,
-		"numberPattern": "73-1",
-		"e": "More than 1 feature",
-		"count": 2
 	},
 	{
 		"number": 82,

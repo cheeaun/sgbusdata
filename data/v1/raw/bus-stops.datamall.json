@@ -10321,15 +10321,15 @@
 		"BusStopCode": "27461",
 		"RoadName": "Jurong West Ave 3",
 		"Description": "Opp Blk 276B",
-		"Latitude": 1.35293305775698,
-		"Longitude": 103.70512862147237
+		"Latitude": 1.353225,
+		"Longitude": 103.705048
 	},
 	{
 		"BusStopCode": "27469",
 		"RoadName": "Jurong West Ave 3",
 		"Description": "Blk 276B",
-		"Latitude": 1.35307192192765,
-		"Longitude": 103.70486709831036
+		"Latitude": 1.352945333,
+		"Longitude": 103.7048917
 	},
 	{
 		"BusStopCode": "27471",
@@ -12342,42 +12342,42 @@
 	},
 	{
 		"BusStopCode": "40391",
-		"RoadName": "Tengah Boulevard",
+		"RoadName": "Tengah Blvd",
 		"Description": "Blk 231B",
 		"Latitude": 1.359258,
 		"Longitude": 103.733186
 	},
 	{
 		"BusStopCode": "40399",
-		"RoadName": "Tengah Boulevard",
+		"RoadName": "Tengah Blvd",
 		"Description": "Blk 123B",
 		"Latitude": 1.35984,
 		"Longitude": 103.734244
 	},
 	{
 		"BusStopCode": "40401",
-		"RoadName": "Tengah Boulevard",
+		"RoadName": "Tengah Blvd",
 		"Description": "Blk 224A",
-		"Latitude": 1.35726,
-		"Longitude": 103.73121
+		"Latitude": 1.357112,
+		"Longitude": 103.731092
 	},
 	{
 		"BusStopCode": "40409",
-		"RoadName": "Tengah Boulevard",
+		"RoadName": "Tengah Blvd",
 		"Description": "Blk 132B",
 		"Latitude": 1.357394,
 		"Longitude": 103.731808
 	},
 	{
 		"BusStopCode": "40411",
-		"RoadName": "Tengah Garden Ave",
+		"RoadName": "Tengah Gdn Ave",
 		"Description": "Blk 221B",
 		"Latitude": 1.35755,
 		"Longitude": 103.7293
 	},
 	{
 		"BusStopCode": "40419",
-		"RoadName": "Tengah Garden Ave",
+		"RoadName": "Tengah Gdn Ave",
 		"Description": "Blk 215",
 		"Latitude": 1.3572,
 		"Longitude": 103.7294
@@ -12412,31 +12412,59 @@
 	},
 	{
 		"BusStopCode": "40441",
-		"RoadName": "Tengah Drive",
+		"RoadName": "Tengah Dr",
 		"Description": "Blk 238",
 		"Latitude": 1.36187,
 		"Longitude": 103.73349
 	},
 	{
 		"BusStopCode": "40449",
-		"RoadName": "Tengah Drive",
+		"RoadName": "Tengah Dr",
 		"Description": "Blk 324B",
 		"Latitude": 1.3622,
 		"Longitude": 103.7335
 	},
 	{
 		"BusStopCode": "40451",
-		"RoadName": "Tengah Boulevard",
+		"RoadName": "Tengah Blvd",
 		"Description": "Blk 306B",
 		"Latitude": 1.361662,
 		"Longitude": 103.735908
 	},
 	{
 		"BusStopCode": "40459",
-		"RoadName": "Tengah Boulevard",
+		"RoadName": "Tengah Blvd",
 		"Description": "Blk 321",
 		"Latitude": 1.3617,
 		"Longitude": 103.7356
+	},
+	{
+		"BusStopCode": "40461",
+		"RoadName": "Tengah Pk Ave",
+		"Description": "Blk 308A",
+		"Latitude": 1.3618365,
+		"Longitude": 103.7382645
+	},
+	{
+		"BusStopCode": "40469",
+		"RoadName": "Tengah Pk Ave",
+		"Description": "Blk 319A",
+		"Latitude": 1.361852,
+		"Longitude": 103.738391
+	},
+	{
+		"BusStopCode": "40471",
+		"RoadName": "Tengah Dr",
+		"Description": "Blk 126A",
+		"Latitude": 1.35932597,
+		"Longitude": 103.7363365
+	},
+	{
+		"BusStopCode": "40479",
+		"RoadName": "Tengah Dr",
+		"Description": "Blk 307B",
+		"Latitude": 1.3595915,
+		"Longitude": 103.736422
 	},
 	{
 		"BusStopCode": "40481",
@@ -12454,35 +12482,35 @@
 	},
 	{
 		"BusStopCode": "40491",
-		"RoadName": "Tengah Garden Ave",
+		"RoadName": "Tengah Gdn Ave",
 		"Description": "Bef Plantation Cres",
 		"Latitude": 1.3529839,
 		"Longitude": 103.733645
 	},
 	{
 		"BusStopCode": "40499",
-		"RoadName": "Tengah Garden Ave",
+		"RoadName": "Tengah Gdn Ave",
 		"Description": "Aft Plantation Cres",
 		"Latitude": 1.35312,
 		"Longitude": 103.733401
 	},
 	{
 		"BusStopCode": "40501",
-		"RoadName": "Tengah Garden Ave",
+		"RoadName": "Tengah Gdn Ave",
 		"Description": "Blk 131D",
 		"Latitude": 1.354773,
 		"Longitude": 103.731884
 	},
 	{
 		"BusStopCode": "40509",
-		"RoadName": "Tengah Garden Ave",
+		"RoadName": "Tengah Gdn Ave",
 		"Description": "Opp Blk 131D",
 		"Latitude": 1.35439,
 		"Longitude": 103.7322
 	},
 	{
 		"BusStopCode": "41009",
-		"RoadName": "Tengah Boulevard",
+		"RoadName": "Tengah Blvd",
 		"Description": "Tengah Int",
 		"Latitude": 1.3627,
 		"Longitude": 103.735967
@@ -21994,20 +22022,6 @@
 		"Longitude": 103.81968463382916
 	},
 	{
-		"BusStopCode": "58301",
-		"RoadName": "Gambas Ave",
-		"Description": "3M Bldg",
-		"Latitude": 1.44485650594175,
-		"Longitude": 103.81055057568135
-	},
-	{
-		"BusStopCode": "58309",
-		"RoadName": "Gambas Ave",
-		"Description": "Opp 3M Bldg",
-		"Latitude": 1.44466063592056,
-		"Longitude": 103.81036650514453
-	},
-	{
 		"BusStopCode": "58311",
 		"RoadName": "Sembawang Dr",
 		"Description": "Blk 354 CP",
@@ -28756,6 +28770,13 @@
 		"Longitude": 103.887968
 	},
 	{
+		"BusStopCode": "70282",
+		"RoadName": "Upp Paya Lebar Rd",
+		"Description": "Tai Seng S37B Boarding",
+		"Latitude": 1.33476173,
+		"Longitude": 103.88824505
+	},
+	{
 		"BusStopCode": "70289",
 		"RoadName": "Upp Paya Lebar Rd",
 		"Description": "Aft Tai Seng Stn Exit C",
@@ -33918,8 +33939,8 @@
 		"BusStopCode": "85101",
 		"RoadName": "Upp Changi Rd East",
 		"Description": "Aft Bedok Rd",
-		"Latitude": 1.32931499760121,
-		"Longitude": 103.95071705887575
+		"Latitude": 1.329286,
+		"Longitude": 103.950691
 	},
 	{
 		"BusStopCode": "85109",
@@ -36144,57 +36165,57 @@
 		"BusStopCode": "98281",
 		"RoadName": "Flora Rd",
 		"Description": "Estella Gdns",
-		"Latitude": 1.359681,
-		"Longitude": 103.9661555
+		"Latitude": 1.3595735,
+		"Longitude": 103.966599
 	},
 	{
 		"BusStopCode": "98289",
 		"RoadName": "Flora Rd",
 		"Description": "Opp Estella Gdns",
-		"Latitude": 1.3595295,
-		"Longitude": 103.966643
+		"Latitude": 1.3596995,
+		"Longitude": 103.9661595
 	},
 	{
 		"BusStopCode": "98291",
 		"RoadName": "Flora Dr",
 		"Description": "Opp Palm Isles",
-		"Latitude": 1.356979,
-		"Longitude": 103.9651894
+		"Latitude": 1.3569495,
+		"Longitude": 103.9652145
 	},
 	{
 		"BusStopCode": "98299",
 		"RoadName": "Flora Dr",
 		"Description": "Parc Olympia",
-		"Latitude": 1.355878,
-		"Longitude": 103.9655714
+		"Latitude": 1.356011,
+		"Longitude": 103.965559
 	},
 	{
 		"BusStopCode": "98301",
 		"RoadName": "Flora Rd",
 		"Description": "Avila Gdns",
-		"Latitude": 1.36001388887382,
-		"Longitude": 103.96487611110979
+		"Latitude": 1.3601325,
+		"Longitude": 103.9643955
 	},
 	{
 		"BusStopCode": "98309",
 		"RoadName": "Flora Rd",
 		"Description": "Carissa Pk",
-		"Latitude": 1.35996000001358,
-		"Longitude": 103.96473694441013
+		"Latitude": 1.360105,
+		"Longitude": 103.9644155
 	},
 	{
 		"BusStopCode": "98311",
 		"RoadName": "Mariam Way",
 		"Description": "Bef Mariam Wk",
-		"Latitude": 1.35930611110109,
-		"Longitude": 103.96849111110153
+		"Latitude": 1.359254,
+		"Longitude": 103.9685985
 	},
 	{
 		"BusStopCode": "98319",
 		"RoadName": "Flora Rd",
 		"Description": "Aft Ballota Pk",
-		"Latitude": 1.3592369444173,
-		"Longitude": 103.96845690524152
+		"Latitude": 1.359266,
+		"Longitude": 103.9684085
 	},
 	{
 		"BusStopCode": "99009",

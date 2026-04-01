@@ -1,8 +1,14 @@
 [
 	{
-		"name": "From Jurong East Int to Promenade Stn/Pan Pacific",
+		"name": "From Tengah Int to Promenade Stn/Pan Pacific",
 		"stops": [
-			"28009",
+			"41009",
+			"40451",
+			"40479",
+			"43759",
+			"43769",
+			"28439",
+			"28211",
 			"28239",
 			"28229",
 			"20019",
@@ -30,7 +36,7 @@
 		]
 	},
 	{
-		"name": "From Aft S'pore Flyer to Jurong East Int",
+		"name": "From Aft S'pore Flyer to Tengah Int",
 		"stops": [
 			"02101",
 			"02051",
@@ -58,7 +64,13 @@
 			"17141",
 			"20011",
 			"20271",
-			"28009"
+			"28301",
+			"28431",
+			"43761",
+			"43751",
+			"40471",
+			"40459",
+			"41009"
 		]
 	}
 ]

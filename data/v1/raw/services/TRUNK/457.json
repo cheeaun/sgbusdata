@@ -1,0 +1,20 @@
+[
+	{
+		"name": "From Opp Hougang Ctrl Int to Aft Tai Seng Stn",
+		"stops": [
+			"64549",
+			"64249",
+			"64239",
+			"70281"
+		]
+	},
+	{
+		"name": "From Aft Tai Seng Stn Exit C to Hougang Ctrl Int",
+		"stops": [
+			"70289",
+			"64231",
+			"64241",
+			"64541"
+		]
+	}
+]

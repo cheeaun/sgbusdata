@@ -1,0 +1,20 @@
+[
+	{
+		"name": "From Paya Lebar Stn Exit B to Stadium Stn",
+		"stops": [
+			"81111",
+			"81189",
+			"81179",
+			"80199"
+		]
+	},
+	{
+		"name": "From Stadium Stn to Paya Lebar Stn Exit D",
+		"stops": [
+			"80199",
+			"81171",
+			"81181",
+			"81129"
+		]
+	}
+]
