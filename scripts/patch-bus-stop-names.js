@@ -16,7 +16,7 @@ const legitStops = stops.filter((s) => !/^-/.test(s.name));
       form.append('bscode', number);
       console.log(`🚏 ${number}`);
       const html = await fetch(
-        `https://www.transitlink.com.sg/eservice/eguide/bscode_idx.php`,
+        `https://svc.simplygo.com.sg/eservice/eguide/bscode_idx.php`,
         {
           method: 'POST',
           body: form,

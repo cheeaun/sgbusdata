@@ -45,7 +45,7 @@ Delete files in `data/v1/raw/services/*`, `data/v1/patch/*.cm.json` and `data/v1
 
 - `patch-missing-routes` - Patch missing routes (failed requests from `fetch-bus-services-route`) by getting fresh route data from [OneMap](https://www.onemap.gov.sg/)/[Citymapper](https://citymapper.com/).
 - `patch-multiline-routes` - Patch multi-line routes (routes that has more than one line, we only need one line here, per pattern) by getting fresh route data from OneMap (again).
-- `patch-bus-stop-names` - Patch bus stop names (some of them are all-uppercase instead of titlecase) by double-checking them on https://www.transitlink.com.sg/eservice/eguide/bscode_idx.php
+- `patch-bus-stop-names` - Patch bus stop names (some of them are all-uppercase instead of titlecase) by double-checking them on https://svc.simplygo.com.sg/eservice/eguide/bscode_idx.php
 
 ### `npm run generate`
 
