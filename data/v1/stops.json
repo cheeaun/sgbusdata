@@ -7452,14 +7452,14 @@
 		"Jurong West Ave 3"
 	],
 	"27461": [
-		103.70513,
-		1.35293,
+		103.70505,
+		1.35323,
 		"Opp Blk 276B",
 		"Jurong West Ave 3"
 	],
 	"27469": [
-		103.70487,
-		1.35307,
+		103.70489,
+		1.35295,
 		"Blk 276B",
 		"Jurong West Ave 3"
 	],
@@ -9189,37 +9189,37 @@
 		103.73319,
 		1.35926,
 		"Blk 231B",
-		"Tengah Boulevard"
+		"Tengah Blvd"
 	],
 	"40399": [
 		103.73424,
 		1.35984,
 		"Blk 123B",
-		"Tengah Boulevard"
+		"Tengah Blvd"
 	],
 	"40401": [
-		103.73121,
-		1.35726,
+		103.73109,
+		1.35711,
 		"Blk 224A",
-		"Tengah Boulevard"
+		"Tengah Blvd"
 	],
 	"40409": [
 		103.73181,
 		1.35739,
 		"Blk 132B",
-		"Tengah Boulevard"
+		"Tengah Blvd"
 	],
 	"40411": [
 		103.7293,
 		1.35755,
 		"Blk 221B",
-		"Tengah Garden Ave"
+		"Tengah Gdn Ave"
 	],
 	"40419": [
 		103.7294,
 		1.3572,
 		"Blk 215",
-		"Tengah Garden Ave"
+		"Tengah Gdn Ave"
 	],
 	"40421": [
 		103.72969,
@@ -9249,25 +9249,49 @@
 		103.73349,
 		1.36187,
 		"Blk 238",
-		"Tengah Drive"
+		"Tengah Dr"
 	],
 	"40449": [
 		103.7335,
 		1.3622,
 		"Blk 324B",
-		"Tengah Drive"
+		"Tengah Dr"
 	],
 	"40451": [
 		103.73591,
 		1.36166,
 		"Blk 306B",
-		"Tengah Boulevard"
+		"Tengah Blvd"
 	],
 	"40459": [
 		103.7356,
 		1.3617,
 		"Blk 321",
-		"Tengah Boulevard"
+		"Tengah Blvd"
+	],
+	"40461": [
+		103.73826,
+		1.36184,
+		"Blk 308A",
+		"Tengah Pk Ave"
+	],
+	"40469": [
+		103.73839,
+		1.36185,
+		"Blk 319A",
+		"Tengah Pk Ave"
+	],
+	"40471": [
+		103.73634,
+		1.35933,
+		"Blk 126A",
+		"Tengah Dr"
+	],
+	"40479": [
+		103.73642,
+		1.35959,
+		"Blk 307B",
+		"Tengah Dr"
 	],
 	"40481": [
 		103.73501,
@@ -9285,31 +9309,31 @@
 		103.73365,
 		1.35298,
 		"Bef Plantation Cres",
-		"Tengah Garden Ave"
+		"Tengah Gdn Ave"
 	],
 	"40499": [
 		103.7334,
 		1.35312,
 		"Aft Plantation Cres",
-		"Tengah Garden Ave"
+		"Tengah Gdn Ave"
 	],
 	"40501": [
 		103.73188,
 		1.35477,
 		"Blk 131D",
-		"Tengah Garden Ave"
+		"Tengah Gdn Ave"
 	],
 	"40509": [
 		103.7322,
 		1.35439,
 		"Opp Blk 131D",
-		"Tengah Garden Ave"
+		"Tengah Gdn Ave"
 	],
 	"41009": [
 		103.73597,
 		1.3627,
 		"Tengah Int",
-		"Tengah Boulevard"
+		"Tengah Blvd"
 	],
 	"41011": [
 		103.81892,
@@ -17459,18 +17483,6 @@
 		"Blk 328",
 		"Sembawang Dr"
 	],
-	"58301": [
-		103.81055,
-		1.44486,
-		"3M Bldg",
-		"Gambas Ave"
-	],
-	"58309": [
-		103.81037,
-		1.44466,
-		"Opp 3M Bldg",
-		"Gambas Ave"
-	],
 	"58311": [
 		103.8181,
 		1.4502,
@@ -23255,6 +23267,12 @@
 		"Aft Tai Seng Stn",
 		"Upp Paya Lebar Rd"
 	],
+	"70282": [
+		103.88825,
+		1.33476,
+		"Tai Seng S37B Boarding",
+		"Upp Paya Lebar Rd"
+	],
 	"70289": [
 		103.88858,
 		1.33505,
@@ -27678,8 +27696,8 @@
 		"New Upp Changi Rd"
 	],
 	"85101": [
-		103.95072,
-		1.32931,
+		103.95069,
+		1.32929,
 		"Aft Bedok Rd",
 		"Upp Changi Rd East"
 	],
@@ -29586,50 +29604,50 @@
 		"Loyang Cres"
 	],
 	"98281": [
-		103.96616,
-		1.35968,
+		103.9666,
+		1.35957,
 		"Estella Gdns",
 		"Flora Rd"
 	],
 	"98289": [
-		103.96664,
-		1.35953,
+		103.96616,
+		1.3597,
 		"Opp Estella Gdns",
 		"Flora Rd"
 	],
 	"98291": [
-		103.96519,
-		1.35698,
+		103.96521,
+		1.35695,
 		"Opp Palm Isles",
 		"Flora Dr"
 	],
 	"98299": [
-		103.96557,
-		1.35588,
+		103.96556,
+		1.35601,
 		"Parc Olympia",
 		"Flora Dr"
 	],
 	"98301": [
-		103.96488,
-		1.36001,
+		103.9644,
+		1.36013,
 		"Avila Gdns",
 		"Flora Rd"
 	],
 	"98309": [
-		103.96474,
-		1.35996,
+		103.96442,
+		1.36011,
 		"Carissa Pk",
 		"Flora Rd"
 	],
 	"98311": [
-		103.96849,
-		1.35931,
+		103.9686,
+		1.35925,
 		"Bef Mariam Wk",
 		"Mariam Way"
 	],
 	"98319": [
-		103.96846,
-		1.35924,
+		103.96841,
+		1.35927,
 		"Aft Ballota Pk",
 		"Flora Rd"
 	],
