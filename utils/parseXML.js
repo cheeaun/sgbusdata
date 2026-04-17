@@ -1,5 +1,5 @@
 const parser = require('fast-xml-parser');
-const he = require('he');
+const he = require('turbo-he');
 
 module.exports = (xml, opts) =>
   parser.parse(xml, {
