@@ -2909,7 +2909,8 @@
 					"855",
 					"93",
 					"961",
-					"961M"
+					"961M",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -2936,7 +2937,8 @@
 					"855",
 					"93",
 					"961",
-					"961M"
+					"961M",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -4004,7 +4006,8 @@
 					"91",
 					"92",
 					"95",
-					"95B"
+					"95B",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -4033,7 +4036,8 @@
 					"91",
 					"92",
 					"92A",
-					"95"
+					"95",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -4135,7 +4139,8 @@
 					"48",
 					"61",
 					"95",
-					"970"
+					"970",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -4178,7 +4183,8 @@
 					"106",
 					"48",
 					"61",
-					"970"
+					"970",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -6249,7 +6255,8 @@
 					"855",
 					"93",
 					"963",
-					"963e"
+					"963e",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -6964,7 +6971,8 @@
 					"93",
 					"963",
 					"97",
-					"97e"
+					"97e",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -6996,7 +7004,8 @@
 					"93",
 					"963",
 					"97",
-					"97e"
+					"97e",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -8405,7 +8414,8 @@
 					"188",
 					"30",
 					"30e",
-					"51"
+					"51",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -8432,7 +8442,8 @@
 					"188e",
 					"30",
 					"30e",
-					"51"
+					"51",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -8604,7 +8615,8 @@
 					"176",
 					"188",
 					"30",
-					"51"
+					"51",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -8630,7 +8642,8 @@
 					"188",
 					"188e",
 					"30",
-					"51"
+					"51",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -8829,7 +8842,8 @@
 					"200A",
 					"30",
 					"30e",
-					"51"
+					"51",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -8854,7 +8868,8 @@
 					"200",
 					"30",
 					"30e",
-					"51"
+					"51",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -11674,7 +11689,8 @@
 				"name": "one-north Stn",
 				"road": "Ayer Rajah Ave",
 				"services": [
-					"91"
+					"91",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -11693,7 +11709,8 @@
 				"name": "Opp one-north Stn",
 				"road": "Ayer Rajah Ave",
 				"services": [
-					"91"
+					"91",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -12618,7 +12635,8 @@
 				"name": "Kent Ridge Stn Exit A/NUH",
 				"road": "Lower Kent Ridge Rd",
 				"services": [
-					"95"
+					"95",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -12638,7 +12656,8 @@
 				"road": "Lower Kent Ridge Rd",
 				"services": [
 					"95",
-					"95B"
+					"95B",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -13464,7 +13483,7 @@
 			"id": "20139",
 			"properties": {
 				"number": "20139",
-				"name": "Opp Angliss Bldg",
+				"name": "Bef West Coast Rise",
 				"road": "West Coast Rd",
 				"services": [
 					"143",
@@ -34254,7 +34273,8 @@
 					"170",
 					"186",
 					"48",
-					"67"
+					"67",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -34280,7 +34300,8 @@
 					"170",
 					"186",
 					"48",
-					"67"
+					"67",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -53772,7 +53793,9 @@
 				"road": "Thomson Rd",
 				"services": [
 					"130",
+					"132",
 					"141",
+					"156",
 					"166",
 					"167",
 					"54",
@@ -56456,7 +56479,8 @@
 				"name": "Caldecott Stn Exit 4",
 				"road": "Toa Payoh Lk",
 				"services": [
-					"235"
+					"235",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -56476,7 +56500,8 @@
 				"road": "Toa Payoh Lk",
 				"services": [
 					"230",
-					"235"
+					"235",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -56603,7 +56628,9 @@
 					"56",
 					"57",
 					"58",
-					"59"
+					"59",
+					"S36",
+					"S37"
 				]
 			},
 			"geometry": {
@@ -57621,8 +57648,7 @@
 					"58",
 					"71",
 					"71A",
-					"88",
-					"S37B"
+					"88"
 				]
 			},
 			"geometry": {
@@ -57630,6 +57656,25 @@
 				"coordinates": [
 					103.84797987894204,
 					1.35089997844732
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "53232",
+			"properties": {
+				"number": "53232",
+				"name": "Bishan S36 Boarding",
+				"road": "Bishan Pl",
+				"services": [
+					"S36"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.850007,
+					1.351153
 				]
 			}
 		},
@@ -57966,7 +58011,8 @@
 				"name": "Opp Bosch",
 				"road": "Bishan St 21",
 				"services": [
-					"410G"
+					"410G",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -57985,7 +58031,8 @@
 				"name": "Bosch",
 				"road": "Bishan St 21",
 				"services": [
-					"410W"
+					"410W",
+					"S36"
 				]
 			},
 			"geometry": {
@@ -61302,7 +61349,7 @@
 			"id": "55051",
 			"properties": {
 				"number": "55051",
-				"name": "Opp ST Electronics",
+				"name": "Opp ST Engineering",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"114",
@@ -61331,7 +61378,7 @@
 			"id": "55059",
 			"properties": {
 				"number": "55059",
-				"name": "ST Electronics",
+				"name": "ST Engineering",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"114",
@@ -69766,7 +69813,7 @@
 			"id": "59809",
 			"properties": {
 				"number": "59809",
-				"name": "Opp Blk 382C",
+				"name": "Blk 483B",
 				"road": "Yishun Ave 6",
 				"services": [
 					"663",
@@ -70973,8 +71020,6 @@
 				"road": "Upp S'goon Rd",
 				"services": [
 					"100",
-					"107",
-					"107M",
 					"13",
 					"133",
 					"135",
@@ -71004,8 +71049,6 @@
 				"services": [
 					"100",
 					"100A",
-					"107",
-					"107M",
 					"13",
 					"133",
 					"135",
@@ -71035,8 +71078,6 @@
 				"road": "Upp S'goon Rd",
 				"services": [
 					"100",
-					"107",
-					"107M",
 					"13",
 					"133",
 					"135",
@@ -71066,8 +71107,6 @@
 				"services": [
 					"100",
 					"100A",
-					"107",
-					"107M",
 					"13",
 					"133",
 					"135",
@@ -71265,6 +71304,8 @@
 				"road": "Bidadari Pk Dr",
 				"services": [
 					"104",
+					"107",
+					"107M",
 					"148"
 				]
 			},
@@ -71285,6 +71326,8 @@
 				"road": "Bidadari Pk Dr",
 				"services": [
 					"104",
+					"107",
+					"107M",
 					"148"
 				]
 			},
@@ -71304,6 +71347,8 @@
 				"name": "Opp Woodleigh Mall",
 				"road": "Bidadari Pk Dr",
 				"services": [
+					"107",
+					"107M",
 					"146"
 				]
 			},
@@ -71323,6 +71368,8 @@
 				"name": "Woodleigh Mall",
 				"road": "Bidadari Pk Dr",
 				"services": [
+					"107",
+					"107M",
 					"146"
 				]
 			},
@@ -71687,7 +71734,8 @@
 					"146",
 					"158",
 					"28",
-					"93"
+					"93",
+					"S37"
 				]
 			},
 			"geometry": {
@@ -71711,7 +71759,8 @@
 					"146",
 					"158",
 					"28",
-					"93"
+					"93",
+					"S37"
 				]
 			},
 			"geometry": {
@@ -71776,6 +71825,8 @@
 				"name": "Opp Gambir Ridge",
 				"road": "Bartley Rd",
 				"services": [
+					"107",
+					"107M",
 					"129",
 					"146",
 					"28",
@@ -71821,6 +71872,8 @@
 				"name": "Bef Upp S'goon Rd",
 				"road": "Bartley Rd",
 				"services": [
+					"107",
+					"107M",
 					"146",
 					"28",
 					"93"
@@ -71842,6 +71895,8 @@
 				"name": "Aft Upp S'goon Rd",
 				"road": "Bartley Rd",
 				"services": [
+					"107",
+					"107M",
 					"146",
 					"28",
 					"93"
@@ -71990,8 +72045,7 @@
 					"58",
 					"58A",
 					"853",
-					"853M",
-					"S37A"
+					"853M"
 				]
 			},
 			"geometry": {
@@ -72020,8 +72074,7 @@
 					"45A",
 					"58",
 					"853",
-					"853M",
-					"S37C"
+					"853M"
 				]
 			},
 			"geometry": {
@@ -77901,6 +77954,7 @@
 					"39",
 					"39B",
 					"44",
+					"459",
 					"83",
 					"83T",
 					"84G",
@@ -77932,6 +77986,7 @@
 					"39",
 					"39A",
 					"44",
+					"459",
 					"83",
 					"84G",
 					"84W",
@@ -78053,7 +78108,8 @@
 					"381",
 					"39",
 					"39B",
-					"44"
+					"44",
+					"459"
 				]
 			},
 			"geometry": {
@@ -78082,7 +78138,8 @@
 					"43",
 					"43A",
 					"43e",
-					"44"
+					"44",
+					"459"
 				]
 			},
 			"geometry": {
@@ -78105,6 +78162,7 @@
 					"39",
 					"39B",
 					"44",
+					"459",
 					"678",
 					"683",
 					"83",
@@ -78133,6 +78191,7 @@
 					"39",
 					"39A",
 					"44",
+					"459",
 					"678",
 					"683",
 					"83",
@@ -78159,6 +78218,7 @@
 					"39",
 					"39B",
 					"44",
+					"459",
 					"678",
 					"683",
 					"83",
@@ -78186,6 +78246,7 @@
 					"39",
 					"39A",
 					"44",
+					"459",
 					"678",
 					"683",
 					"83",
@@ -78216,6 +78277,7 @@
 					"39",
 					"39B",
 					"44",
+					"459",
 					"683",
 					"83",
 					"83T",
@@ -78245,6 +78307,7 @@
 					"39",
 					"39A",
 					"44",
+					"459",
 					"683",
 					"83",
 					"85"
@@ -81379,7 +81442,8 @@
 					"133",
 					"135",
 					"45",
-					"58"
+					"58",
+					"S37"
 				]
 			},
 			"geometry": {
@@ -81403,7 +81467,8 @@
 					"133",
 					"135",
 					"45",
-					"58"
+					"58",
+					"S37"
 				]
 			},
 			"geometry": {
@@ -81423,7 +81488,8 @@
 				"road": "S'goon Ave 3",
 				"services": [
 					"105",
-					"58"
+					"58",
+					"S37"
 				]
 			},
 			"geometry": {
@@ -81443,7 +81509,8 @@
 				"road": "S'goon Ave 3",
 				"services": [
 					"105",
-					"58"
+					"58",
+					"S37"
 				]
 			},
 			"geometry": {
@@ -82311,7 +82378,9 @@
 					"83",
 					"83T",
 					"965",
-					"965T"
+					"965T",
+					"SWA",
+					"SWB"
 				]
 			},
 			"geometry": {
@@ -83624,7 +83693,8 @@
 				"road": "Sengkang East Ave",
 				"services": [
 					"163",
-					"677"
+					"677",
+					"SWA"
 				]
 			},
 			"geometry": {
@@ -83666,7 +83736,8 @@
 				"road": "Sengkang East Ave",
 				"services": [
 					"163",
-					"677"
+					"677",
+					"SWA"
 				]
 			},
 			"geometry": {
@@ -83708,7 +83779,8 @@
 				"road": "Anchorvale St",
 				"services": [
 					"110",
-					"654"
+					"654",
+					"SWB"
 				]
 			},
 			"geometry": {
@@ -84228,7 +84300,8 @@
 				"road": "Anchorvale St",
 				"services": [
 					"110",
-					"654"
+					"654",
+					"SWB"
 				]
 			},
 			"geometry": {
@@ -84458,7 +84531,8 @@
 				"services": [
 					"163",
 					"50",
-					"671"
+					"671",
+					"SWA"
 				]
 			},
 			"geometry": {
@@ -84504,7 +84578,8 @@
 					"114",
 					"163",
 					"50",
-					"671"
+					"671",
+					"SWA"
 				]
 			},
 			"geometry": {
@@ -85373,6 +85448,25 @@
 		},
 		{
 			"type": "Feature",
+			"id": "67708",
+			"properties": {
+				"number": "67708",
+				"name": "Opp Fernvale Plains",
+				"road": "Fernvale St",
+				"services": [
+					"SWB"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8804,
+					1.398254
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "67709",
 			"properties": {
 				"number": "67709",
@@ -85523,7 +85617,8 @@
 				"road": "Fernvale Rd",
 				"services": [
 					"374",
-					"679"
+					"679",
+					"SWB"
 				]
 			},
 			"geometry": {
@@ -87621,7 +87716,8 @@
 					"70",
 					"70M",
 					"76",
-					"80"
+					"80",
+					"S37"
 				]
 			},
 			"geometry": {
@@ -87653,7 +87749,7 @@
 					"76",
 					"80",
 					"80A",
-					"S37A"
+					"S37"
 				]
 			},
 			"geometry": {
@@ -87803,6 +87899,7 @@
 					"43",
 					"457",
 					"458",
+					"459",
 					"58",
 					"58B",
 					"62",
@@ -87811,7 +87908,7 @@
 					"76",
 					"80",
 					"93",
-					"S37C"
+					"S37"
 				]
 			},
 			"geometry": {
@@ -87819,25 +87916,6 @@
 				"coordinates": [
 					103.887968,
 					1.335453
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "70282",
-			"properties": {
-				"number": "70282",
-				"name": "Tai Seng S37B Boarding",
-				"road": "Upp Paya Lebar Rd",
-				"services": [
-					"S37B"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.88824505,
-					1.33476173
 				]
 			}
 		},
@@ -87856,6 +87934,7 @@
 					"43",
 					"457",
 					"458",
+					"459",
 					"58",
 					"58A",
 					"62",
@@ -87867,7 +87946,7 @@
 					"80",
 					"80A",
 					"93",
-					"S37A"
+					"S37"
 				]
 			},
 			"geometry": {
@@ -90415,6 +90494,7 @@
 					"38",
 					"3A",
 					"4",
+					"460",
 					"65",
 					"67",
 					"68",
@@ -92285,7 +92365,8 @@
 				"name": "Blk 660 CP",
 				"road": "Tampines Nth Dr 1",
 				"services": [
-					"296"
+					"296",
+					"460"
 				]
 			},
 			"geometry": {
@@ -92304,7 +92385,8 @@
 				"name": "Opp Blk 660 CP",
 				"road": "Tampines Nth Dr 1",
 				"services": [
-					"296"
+					"296",
+					"460"
 				]
 			},
 			"geometry": {
@@ -92323,7 +92405,8 @@
 				"name": "Opp Blk 662B",
 				"road": "Tampines St 64",
 				"services": [
-					"296"
+					"296",
+					"460"
 				]
 			},
 			"geometry": {
@@ -92342,7 +92425,8 @@
 				"name": "Blk 662B",
 				"road": "Tampines St 64",
 				"services": [
-					"296"
+					"296",
+					"460"
 				]
 			},
 			"geometry": {
@@ -92617,7 +92701,8 @@
 				"name": "IKEA Tampines",
 				"road": "Tampines Nth Dr 2",
 				"services": [
-					"296"
+					"296",
+					"460"
 				]
 			},
 			"geometry": {
@@ -92636,7 +92721,8 @@
 				"name": "Giant Hypermarket",
 				"road": "Tampines Nth Dr 2",
 				"services": [
-					"296"
+					"296",
+					"460"
 				]
 			},
 			"geometry": {
@@ -92655,7 +92741,8 @@
 				"name": "BHCC Space",
 				"road": "Tampines Nth Dr 2",
 				"services": [
-					"296"
+					"296",
+					"460"
 				]
 			},
 			"geometry": {
@@ -92674,7 +92761,8 @@
 				"name": "T-Space",
 				"road": "Tampines Nth Dr 2",
 				"services": [
-					"296"
+					"296",
+					"460"
 				]
 			},
 			"geometry": {
@@ -95051,7 +95139,7 @@
 			"id": "77031",
 			"properties": {
 				"number": "77031",
-				"name": "Opp Pasir Ris Stn Exit B",
+				"name": "Opp Pasir Ris Int/Mall",
 				"road": "Pasir Ris Ctrl",
 				"services": [
 					"109",
@@ -95076,7 +95164,7 @@
 			"id": "77039",
 			"properties": {
 				"number": "77039",
-				"name": "Pasir Ris Stn Exit B",
+				"name": "Pasir Ris Int/Mall",
 				"road": "Pasir Ris Ctrl",
 				"services": [
 					"109",
@@ -96209,7 +96297,7 @@
 			"id": "77321",
 			"properties": {
 				"number": "77321",
-				"name": "Pasir Ris Int/Mall",
+				"name": "Pasir Ris Int/Polyclinic",
 				"road": "Pasir Ris Dr 8",
 				"services": [
 					"3",
@@ -96231,7 +96319,7 @@
 			"id": "77329",
 			"properties": {
 				"number": "77329",
-				"name": "Opp Pasir Ris Mall",
+				"name": "Opp Pasir Ris Int/Polyclinic",
 				"road": "Pasir Ris Dr 8",
 				"services": [
 					"3",
@@ -96851,7 +96939,7 @@
 			"id": "78111",
 			"properties": {
 				"number": "78111",
-				"name": "Blk 479",
+				"name": "Blk 476",
 				"road": "Pasir Ris Dr 3",
 				"services": [
 					"17",
@@ -96876,7 +96964,7 @@
 			"id": "78119",
 			"properties": {
 				"number": "78119",
-				"name": "Opp Blk 479",
+				"name": "Opp Blk 476",
 				"road": "Pasir Ris Dr 3",
 				"services": [
 					"17",
@@ -98134,7 +98222,8 @@
 					"16M",
 					"196",
 					"70",
-					"70M"
+					"70M",
+					"S37"
 				]
 			},
 			"geometry": {
@@ -98162,7 +98251,8 @@
 					"196A",
 					"70",
 					"70A",
-					"70M"
+					"70M",
+					"S37"
 				]
 			},
 			"geometry": {
@@ -98257,7 +98347,8 @@
 				"name": "Opp S'pore Indoor Stadium",
 				"road": "Stadium Walk",
 				"services": [
-					"11"
+					"11",
+					"S37"
 				]
 			},
 			"geometry": {
@@ -98277,7 +98368,7 @@
 				"road": "Stadium Cres",
 				"services": [
 					"11",
-					"S38"
+					"S37"
 				]
 			},
 			"geometry": {
@@ -99034,8 +99125,7 @@
 					"70A",
 					"70M",
 					"76",
-					"S37A",
-					"S38"
+					"S37"
 				]
 			},
 			"geometry": {
@@ -99095,7 +99185,7 @@
 					"70",
 					"70M",
 					"76",
-					"S38"
+					"S37"
 				]
 			},
 			"geometry": {
@@ -99305,7 +99395,7 @@
 					"31",
 					"32",
 					"33",
-					"S38"
+					"S37"
 				]
 			},
 			"geometry": {
@@ -99334,7 +99424,7 @@
 					"33",
 					"33B",
 					"401",
-					"S38"
+					"S37"
 				]
 			},
 			"geometry": {
@@ -99361,7 +99451,7 @@
 					"31",
 					"32",
 					"33",
-					"S38"
+					"S37"
 				]
 			},
 			"geometry": {
@@ -99390,7 +99480,7 @@
 					"33",
 					"33B",
 					"401",
-					"S38"
+					"S37"
 				]
 			},
 			"geometry": {
@@ -104593,7 +104683,7 @@
 			"id": "84661",
 			"properties": {
 				"number": "84661",
-				"name": "Blk 172",
+				"name": "Blk 168",
 				"road": "Bedok Sth Ave 3",
 				"services": [
 					"229",
@@ -114594,6 +114684,7 @@
 				"name": "Opp Suntec Convention Ctr",
 				"road": "Temasek Blvd",
 				"services": [
+					"107M",
 					"36",
 					"36A",
 					"36B",
@@ -114644,7 +114735,8 @@
 					"857B",
 					"868E",
 					"97",
-					"97e"
+					"97e",
+					"S37"
 				]
 			},
 			"geometry": {
@@ -117372,7 +117464,7 @@
 			"id": "05651",
 			"properties": {
 				"number": "05651",
-				"name": "Opp Fuji Xerox Twrs",
+				"name": "Aft Keppel Rd",
 				"road": "Tg Pagar Rd",
 				"services": [
 					"145",
@@ -117927,7 +118019,7 @@
 			"id": "07111",
 			"properties": {
 				"number": "07111",
-				"name": "Broadway Hotel",
+				"name": "Aft Blk 672B",
 				"road": "S'goon Rd",
 				"services": [
 					"131",

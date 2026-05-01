@@ -1,0 +1,12 @@
+[
+	{
+		"name": "From Sengkang Int to Thanggam Stn Exit B",
+		"stops": [
+			"67009",
+			"67421",
+			"67311",
+			"67708",
+			"67741"
+		]
+	}
+]
