@@ -3458,7 +3458,7 @@
 	"20139": [
 		103.75204,
 		1.31584,
-		"Opp Angliss Bldg",
+		"Bef West Coast Rise",
 		"West Coast Rd"
 	],
 	"20141": [
@@ -15563,6 +15563,12 @@
 		"Bishan Stn",
 		"Bishan Rd"
 	],
+	"53232": [
+		103.85001,
+		1.35115,
+		"Bishan S36 Boarding",
+		"Bishan Pl"
+	],
 	"53239": [
 		103.84764,
 		1.351,
@@ -16496,13 +16502,13 @@
 	"55051": [
 		103.84896,
 		1.3924,
-		"Opp ST Electronics",
+		"Opp ST Engineering",
 		"Yio Chu Kang Rd"
 	],
 	"55059": [
 		103.8491,
 		1.39208,
-		"ST Electronics",
+		"ST Engineering",
 		"Yio Chu Kang Rd"
 	],
 	"55071": [
@@ -18698,7 +18704,7 @@
 	"59809": [
 		103.84799,
 		1.43176,
-		"Opp Blk 382C",
+		"Blk 483B",
 		"Yishun Ave 6"
 	],
 	"59811": [
@@ -22625,6 +22631,12 @@
 		"Aft Blk 467B",
 		"Fernvale St"
 	],
+	"67708": [
+		103.8804,
+		1.39825,
+		"Opp Fernvale Plains",
+		"Fernvale St"
+	],
 	"67709": [
 		103.87682,
 		1.39873,
@@ -23265,12 +23277,6 @@
 		103.88797,
 		1.33545,
 		"Aft Tai Seng Stn",
-		"Upp Paya Lebar Rd"
-	],
-	"70282": [
-		103.88825,
-		1.33476,
-		"Tai Seng S37B Boarding",
 		"Upp Paya Lebar Rd"
 	],
 	"70289": [
@@ -25124,13 +25130,13 @@
 	"77031": [
 		103.94847,
 		1.37226,
-		"Opp Pasir Ris Stn Exit B",
+		"Opp Pasir Ris Int/Mall",
 		"Pasir Ris Ctrl"
 	],
 	"77039": [
 		103.94866,
 		1.37241,
-		"Pasir Ris Stn Exit B",
+		"Pasir Ris Int/Mall",
 		"Pasir Ris Ctrl"
 	],
 	"77041": [
@@ -25436,13 +25442,13 @@
 	"77321": [
 		103.94803,
 		1.37313,
-		"Pasir Ris Int/Mall",
+		"Pasir Ris Int/Polyclinic",
 		"Pasir Ris Dr 8"
 	],
 	"77329": [
 		103.94766,
 		1.37283,
-		"Opp Pasir Ris Mall",
+		"Opp Pasir Ris Int/Polyclinic",
 		"Pasir Ris Dr 8"
 	],
 	"77331": [
@@ -25604,13 +25610,13 @@
 	"78111": [
 		103.95799,
 		1.37546,
-		"Blk 479",
+		"Blk 476",
 		"Pasir Ris Dr 3"
 	],
 	"78119": [
 		103.95797,
 		1.37568,
-		"Opp Blk 479",
+		"Opp Blk 476",
 		"Pasir Ris Dr 3"
 	],
 	"78121": [
@@ -27548,7 +27554,7 @@
 	"84661": [
 		103.94439,
 		1.31993,
-		"Blk 172",
+		"Blk 168",
 		"Bedok Sth Ave 3"
 	],
 	"84669": [
@@ -30710,7 +30716,7 @@
 	"05651": [
 		103.84307,
 		1.27322,
-		"Opp Fuji Xerox Twrs",
+		"Aft Keppel Rd",
 		"Tg Pagar Rd"
 	],
 	"06011": [
@@ -30848,7 +30854,7 @@
 	"07111": [
 		103.85318,
 		1.30879,
-		"Broadway Hotel",
+		"Aft Blk 672B",
 		"S'goon Rd"
 	],
 	"07211": [

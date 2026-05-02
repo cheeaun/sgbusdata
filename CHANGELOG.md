@@ -1,3 +1,74 @@
+# 1 May 2026
+
+## Stops count change: 5200 ⮕ 5201
+
+### Stops added: 2
+
+- `53232` Bishan S36 Boarding
+- `67708` Opp Fernvale Plains
+
+### Stops removed: 1
+
+- `70282` Tai Seng S37B Boarding
+
+### Stop names changed: 13
+
+- `20139` Opp Angliss Bldg ⮕ Bef West Coast Rise
+- `55051` Opp ST Electronics ⮕ Opp ST Engineering
+- `55059` ST Electronics ⮕ ST Engineering
+- `59809` Opp Blk 382C ⮕ Blk 483B
+- `77031` Opp Pasir Ris Stn Exit B ⮕ Opp Pasir Ris Int/Mall
+- `77039` Pasir Ris Stn Exit B ⮕ Pasir Ris Int/Mall
+- `77321` Pasir Ris Int/Mall ⮕ Pasir Ris Int/Polyclinic
+- `77329` Opp Pasir Ris Mall ⮕ Opp Pasir Ris Int/Polyclinic
+- `78111` Blk 479 ⮕ Blk 476
+- `78119` Opp Blk 479 ⮕ Opp Blk 476
+- `84661` Blk 172 ⮕ Blk 168
+- `05651` Opp Fuji Xerox Twrs ⮕ Aft Keppel Rd
+- `07111` Broadway Hotel ⮕ Aft Blk 672B
+
+## Services count change: 599 ⮕ 601
+
+### Services added: 6
+
+- `459` Punggol Stn/Waterway Pt / Punggol Stn/Int ⇄ Aft Tai Seng Stn / Aft Tai Seng Stn Exit C
+- `460` Tampines Int ⟲ Giant Hypermarket
+- `S36` HarbourFront Int ⇄ Bishan Int / Bishan S36 Boarding
+- `S37` Bishan Int ⇄ Aft Promenade Stn Exit C
+- `SWA` Fernvale Stn/Blk 439A → Sengkang Int
+- `SWB` Sengkang Int → Thanggam Stn Exit B
+
+### Services removed: 4
+
+- `S37A` S'Goon Stn Exit B → Paya Lebar Stn Exit B
+- `S37B` Tai Seng S37B Boarding → Bishan Stn
+- `S37C` Aft Tai Seng Stn → S'goon Stn Exit A/Blk 413
+- `S38` Paya Lebar Stn Exit B / Paya Lebar Stn Exit D ⇄ Stadium Stn
+
+### Bus Stop Changes To Routes: 5
+
+- `107M` Hougang Ctrl Int ⇄ Opp Suntec Convention Ctr / Promenade Stn/Pan Pacific: +10, -4
+- `133` Ang Mo Kio Int ⇄ Opp MAS Bldg / Shenton Way Ter: -1
+- `107` Hougang Ctrl Int ⇄ Shenton Way Ter: +7, -4
+- `132` Hougang Ctrl Int ⇄ Bt Merah Int: +1
+- `156` Buangkok Int ⇄ Clementi Int: +1
+
+## Routes changed: 9
+
+- `107` Hougang Ctrl Int ⇄ Shenton Way Ter
+- `965` Woodlands Temp Int ⟲ Sengkang Int
+- `107M` Hougang Ctrl Int ⇄ Opp Suntec Convention Ctr / Promenade Stn/Pan Pacific
+- `459` Punggol Stn/Waterway Pt / Punggol Stn/Int ⇄ Aft Tai Seng Stn / Aft Tai Seng Stn Exit C
+- `460` Tampines Int ⟲ Giant Hypermarket
+- `S36` HarbourFront Int ⇄ Bishan Int / Bishan S36 Boarding
+- `S37` Bishan Int ⇄ Aft Promenade Stn Exit C
+- `SWA` Fernvale Stn/Blk 439A → Sengkang Int
+- `SWB` Sengkang Int → Thanggam Stn Exit B
+
+## First/last timings changed
+
+Affected services: `S38`, `S37C`, `S37A`, `S37B`, `18`, `28`, `32`, `36`, `45`, `48`, `70`, `76`, `92`, `97`, `107`, `125`, `130`, `132`, `133`, `139`, `156`, `160`, `174`, `177`, `195`, `197`, `333`, `811`, `812`, `851`, `871`, `984`, `97e`, `984A`, `70M`, `107M`, `36B`, `36A`, `459`, `460`, `S36`, `S37`, `SWA`, `SWB`
+
 # 1 April 2026
 
 ## Stops count change: 5197 ⮕ 5200

@@ -7193,7 +7193,7 @@
 	{
 		"name": "05651",
 		"wab": "true",
-		"details": "Opp Fuji Xerox Twrs",
+		"details": "Aft Keppel Rd",
 		"coordinates": {
 			"lat": 1.273218611,
 			"long": 103.8430731
@@ -7400,7 +7400,7 @@
 	{
 		"name": "07111",
 		"wab": "true",
-		"details": "Broadway Hotel",
+		"details": "Aft Blk 672B",
 		"coordinates": {
 			"lat": 1.30879366465919,
 			"long": 103.8531751994068
@@ -13115,7 +13115,7 @@
 	{
 		"name": "20139",
 		"wab": "true",
-		"details": "Opp Angliss Bldg",
+		"details": "Bef West Coast Rise",
 		"coordinates": {
 			"lat": 1.31584166892255,
 			"long": 103.75204376675156
@@ -31275,6 +31275,15 @@
 		}
 	},
 	{
+		"name": "53232",
+		"wab": "true",
+		"details": "Bishan S36 Boarding",
+		"coordinates": {
+			"lat": 1.351153,
+			"long": 103.850007
+		}
+	},
+	{
 		"name": "53239",
 		"wab": "true",
 		"details": "Opp Bishan Stn",
@@ -32672,7 +32681,7 @@
 	{
 		"name": "55051",
 		"wab": "true",
-		"details": "Opp ST Electronics",
+		"details": "Opp ST Engineering",
 		"coordinates": {
 			"lat": 1.3924,
 			"long": 103.848962
@@ -32681,7 +32690,7 @@
 	{
 		"name": "55059",
 		"wab": "true",
-		"details": "ST Electronics",
+		"details": "ST Engineering",
 		"coordinates": {
 			"lat": 1.3920822654425,
 			"long": 103.84909518015897
@@ -35975,7 +35984,7 @@
 	{
 		"name": "59809",
 		"wab": "true",
-		"details": "Opp Blk 382C",
+		"details": "Blk 483B",
 		"coordinates": {
 			"lat": 1.431761,
 			"long": 103.847993
@@ -41868,6 +41877,15 @@
 		}
 	},
 	{
+		"name": "67708",
+		"wab": "true",
+		"details": "Opp Fernvale Plains",
+		"coordinates": {
+			"lat": 1.398254,
+			"long": 103.8804
+		}
+	},
+	{
 		"name": "67709",
 		"wab": "true",
 		"details": "Opp Blk 465A",
@@ -42828,15 +42846,6 @@
 		"coordinates": {
 			"lat": 1.335453,
 			"long": 103.887968
-		}
-	},
-	{
-		"name": "70282",
-		"wab": "true",
-		"details": "Tai Seng S37B Boarding",
-		"coordinates": {
-			"lat": 1.33476173,
-			"long": 103.88824505
 		}
 	},
 	{
@@ -45614,7 +45623,7 @@
 	{
 		"name": "77031",
 		"wab": "true",
-		"details": "Opp Pasir Ris Stn Exit B",
+		"details": "Opp Pasir Ris Int/Mall",
 		"coordinates": {
 			"lat": 1.372262,
 			"long": 103.948468
@@ -45623,7 +45632,7 @@
 	{
 		"name": "77039",
 		"wab": "true",
-		"details": "Pasir Ris Stn Exit B",
+		"details": "Pasir Ris Int/Mall",
 		"coordinates": {
 			"lat": 1.37241,
 			"long": 103.948657
@@ -46082,7 +46091,7 @@
 	{
 		"name": "77321",
 		"wab": "true",
-		"details": "Pasir Ris Int/Mall",
+		"details": "Pasir Ris Int/Polyclinic",
 		"coordinates": {
 			"lat": 1.37313477197799,
 			"long": 103.94802646457005
@@ -46091,7 +46100,7 @@
 	{
 		"name": "77329",
 		"wab": "true",
-		"details": "Opp Pasir Ris Mall",
+		"details": "Opp Pasir Ris Int/Polyclinic",
 		"coordinates": {
 			"lat": 1.37283117687855,
 			"long": 103.94765867700548
@@ -46334,7 +46343,7 @@
 	{
 		"name": "78111",
 		"wab": "true",
-		"details": "Blk 479",
+		"details": "Blk 476",
 		"coordinates": {
 			"lat": 1.37545781179514,
 			"long": 103.95798631897796
@@ -46343,7 +46352,7 @@
 	{
 		"name": "78119",
 		"wab": "true",
-		"details": "Opp Blk 479",
+		"details": "Opp Blk 476",
 		"coordinates": {
 			"lat": 1.37568,
 			"long": 103.957966
@@ -49250,7 +49259,7 @@
 	{
 		"name": "84661",
 		"wab": "true",
-		"details": "Blk 172",
+		"details": "Blk 168",
 		"coordinates": {
 			"lat": 1.31992811557233,
 			"long": 103.94438908816849

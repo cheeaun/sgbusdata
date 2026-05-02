@@ -1,0 +1,24 @@
+[
+	{
+		"name": "From Punggol Stn/Waterway Pt to Aft Tai Seng Stn",
+		"stops": [
+			"65251",
+			"65221",
+			"65281",
+			"65271",
+			"65261",
+			"70281"
+		]
+	},
+	{
+		"name": "From Aft Tai Seng Stn Exit C to Punggol Stn/Int",
+		"stops": [
+			"70289",
+			"65269",
+			"65279",
+			"65289",
+			"65229",
+			"65259"
+		]
+	}
+]

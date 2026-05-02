@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Ang Mo Kio Int to Shenton Way Ter",
+		"name": "From Ang Mo Kio Int to Opp MAS Bldg",
 		"stops": [
 			"54009",
 			"54248",
@@ -44,8 +44,7 @@
 			"03539",
 			"03529",
 			"03129",
-			"03218",
-			"03239"
+			"03218"
 		]
 	},
 	{

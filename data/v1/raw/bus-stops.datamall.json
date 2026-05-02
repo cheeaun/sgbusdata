@@ -1052,7 +1052,7 @@
 	{
 		"BusStopCode": "05651",
 		"RoadName": "Tg Pagar Rd",
-		"Description": "Opp Fuji Xerox Twrs",
+		"Description": "Aft Keppel Rd",
 		"Latitude": 1.273218611,
 		"Longitude": 103.8430731
 	},
@@ -1213,7 +1213,7 @@
 	{
 		"BusStopCode": "07111",
 		"RoadName": "S'goon Rd",
-		"Description": "Broadway Hotel",
+		"Description": "Aft Blk 672B",
 		"Latitude": 1.30879366465919,
 		"Longitude": 103.8531751994068
 	},
@@ -5658,7 +5658,7 @@
 	{
 		"BusStopCode": "20139",
 		"RoadName": "West Coast Rd",
-		"Description": "Opp Angliss Bldg",
+		"Description": "Bef West Coast Rise",
 		"Latitude": 1.31584166892255,
 		"Longitude": 103.75204376675156
 	},
@@ -19782,6 +19782,13 @@
 		"Longitude": 103.84797987894204
 	},
 	{
+		"BusStopCode": "53232",
+		"RoadName": "Bishan Pl",
+		"Description": "Bishan S36 Boarding",
+		"Latitude": 1.351153,
+		"Longitude": 103.850007
+	},
+	{
 		"BusStopCode": "53239",
 		"RoadName": "Bishan Rd",
 		"Description": "Opp Bishan Stn",
@@ -20869,14 +20876,14 @@
 	{
 		"BusStopCode": "55051",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "Opp ST Electronics",
+		"Description": "Opp ST Engineering",
 		"Latitude": 1.3924,
 		"Longitude": 103.848962
 	},
 	{
 		"BusStopCode": "55059",
 		"RoadName": "Yio Chu Kang Rd",
-		"Description": "ST Electronics",
+		"Description": "ST Engineering",
 		"Latitude": 1.3920822654425,
 		"Longitude": 103.84909518015897
 	},
@@ -23438,7 +23445,7 @@
 	{
 		"BusStopCode": "59809",
 		"RoadName": "Yishun Ave 6",
-		"Description": "Opp Blk 382C",
+		"Description": "Blk 483B",
 		"Latitude": 1.431761,
 		"Longitude": 103.847993
 	},
@@ -28021,6 +28028,13 @@
 		"Longitude": 103.877445
 	},
 	{
+		"BusStopCode": "67708",
+		"RoadName": "Fernvale St",
+		"Description": "Opp Fernvale Plains",
+		"Latitude": 1.398254,
+		"Longitude": 103.8804
+	},
+	{
 		"BusStopCode": "67709",
 		"RoadName": "Fernvale St",
 		"Description": "Opp Blk 465A",
@@ -28768,13 +28782,6 @@
 		"Description": "Aft Tai Seng Stn",
 		"Latitude": 1.335453,
 		"Longitude": 103.887968
-	},
-	{
-		"BusStopCode": "70282",
-		"RoadName": "Upp Paya Lebar Rd",
-		"Description": "Tai Seng S37B Boarding",
-		"Latitude": 1.33476173,
-		"Longitude": 103.88824505
 	},
 	{
 		"BusStopCode": "70289",
@@ -30935,14 +30942,14 @@
 	{
 		"BusStopCode": "77031",
 		"RoadName": "Pasir Ris Ctrl",
-		"Description": "Opp Pasir Ris Stn Exit B",
+		"Description": "Opp Pasir Ris Int/Mall",
 		"Latitude": 1.372262,
 		"Longitude": 103.948468
 	},
 	{
 		"BusStopCode": "77039",
 		"RoadName": "Pasir Ris Ctrl",
-		"Description": "Pasir Ris Stn Exit B",
+		"Description": "Pasir Ris Int/Mall",
 		"Latitude": 1.37241,
 		"Longitude": 103.948657
 	},
@@ -31299,14 +31306,14 @@
 	{
 		"BusStopCode": "77321",
 		"RoadName": "Pasir Ris Dr 8",
-		"Description": "Pasir Ris Int/Mall",
+		"Description": "Pasir Ris Int/Polyclinic",
 		"Latitude": 1.37313477197799,
 		"Longitude": 103.94802646457005
 	},
 	{
 		"BusStopCode": "77329",
 		"RoadName": "Pasir Ris Dr 8",
-		"Description": "Opp Pasir Ris Mall",
+		"Description": "Opp Pasir Ris Int/Polyclinic",
 		"Latitude": 1.37283117687855,
 		"Longitude": 103.94765867700548
 	},
@@ -31495,14 +31502,14 @@
 	{
 		"BusStopCode": "78111",
 		"RoadName": "Pasir Ris Dr 3",
-		"Description": "Blk 479",
+		"Description": "Blk 476",
 		"Latitude": 1.37545781179514,
 		"Longitude": 103.95798631897796
 	},
 	{
 		"BusStopCode": "78119",
 		"RoadName": "Pasir Ris Dr 3",
-		"Description": "Opp Blk 479",
+		"Description": "Opp Blk 476",
 		"Latitude": 1.37568,
 		"Longitude": 103.957966
 	},
@@ -33763,7 +33770,7 @@
 	{
 		"BusStopCode": "84661",
 		"RoadName": "Bedok Sth Ave 3",
-		"Description": "Blk 172",
+		"Description": "Blk 168",
 		"Latitude": 1.31992811557233,
 		"Longitude": 103.94438908816849
 	},
