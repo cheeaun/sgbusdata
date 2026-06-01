@@ -1,7 +1,8 @@
 [
 	{
-		"name": "From Simei Stn to Bef Mariam Wk",
+		"name": "From Aft Changi General Hosp to Bef Mariam Wk",
 		"stops": [
+			"96259",
 			"96169",
 			"96269",
 			"96199",

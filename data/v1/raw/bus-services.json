@@ -414,8 +414,7 @@
 		"description": "Bukit Batok West Avenue 5 to Beach Road",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"555-1.kml",
-			"555-2.kml"
+			"555-1.kml"
 		],
 		"routeFile": [
 			"555.xml"
@@ -6266,7 +6265,8 @@
 		"number": 965,
 		"type": "TRUNK",
 		"kmlFile": [
-			"965-1.kml"
+			"965-1.kml",
+			"965-2.kml"
 		],
 		"routeFile": [
 			"965.xml"
@@ -6280,16 +6280,6 @@
 		],
 		"routeFile": [
 			"965A.xml"
-		]
-	},
-	{
-		"number": "965T",
-		"type": "TRUNK",
-		"kmlFile": [
-			"965T-1.kml"
-		],
-		"routeFile": [
-			"965T.xml"
 		]
 	},
 	{
@@ -6756,25 +6746,36 @@
 		]
 	},
 	{
-		"number": "S36",
+		"number": "S51",
 		"type": "TRUNK",
 		"kmlFile": [
-			"S36-1.kml",
-			"S36-2.kml"
+			"S51-1.kml",
+			"S51-2.kml"
 		],
 		"routeFile": [
-			"S36.xml"
+			"S51.xml"
 		]
 	},
 	{
-		"number": "S37",
+		"number": "S52",
 		"type": "TRUNK",
 		"kmlFile": [
-			"S37-1.kml",
-			"S37-2.kml"
+			"S52-1.kml",
+			"S52-2.kml"
 		],
 		"routeFile": [
-			"S37.xml"
+			"S52.xml"
+		]
+	},
+	{
+		"number": "S53",
+		"type": "TRUNK",
+		"kmlFile": [
+			"S53-1.kml",
+			"S53-2.kml"
+		],
+		"routeFile": [
+			"S53.xml"
 		]
 	},
 	{

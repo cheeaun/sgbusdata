@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Aft Ballota Pk to Upp Changi Stn/SUTD",
+		"name": "From Aft Ballota Pk to Bef Changi General Hosp",
 		"stops": [
 			"98319",
 			"98289",
@@ -8,7 +8,12 @@
 			"97019",
 			"96069",
 			"96059",
-			"96049"
+			"96049",
+			"96201",
+			"96191",
+			"96261",
+			"96161",
+			"96251"
 		]
 	}
 ]
