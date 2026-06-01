@@ -1,3 +1,79 @@
+# 1 June 2026
+
+### Stops added: 1
+
+- `65791` Waterway Pr Sch
+
+### Stops removed: 1
+
+- `53232` Bishan S36 Boarding
+
+### Stop locations changed: 26
+
+- `12069` 103.77105,1.32143 ⮕ 103.77104,1.32143
+- `12099` 103.77671,1.32784 ⮕ 103.7767,1.32784
+- `16079` 103.77129,1.29138 ⮕ 103.7713,1.29141
+- `17159` 103.76982,1.31197 ⮕ 103.76981,1.31198
+- `31019` 103.69399,1.36071 ⮕ 103.69395,1.36
+- `42109` 103.77691,1.34325 ⮕ 103.77684,1.34339
+- `44361` 103.77555,1.36635 ⮕ 103.77555,1.36638
+- `44369` 103.77534,1.36586 ⮕ 103.77538,1.36578
+- `45051` 103.75601,1.40338 ⮕ 103.75601,1.40339
+- `46008` 103.78673,1.43773 ⮕ 103.78574,1.43685
+- `59072` 103.8355,1.42938 ⮕ 103.83547,1.4294
+- `66129` 103.86805,1.36149 ⮕ 103.86802,1.36149
+- `66549` 103.88167,1.3803 ⮕ 103.88153,1.38028
+- `75401` 103.92671,1.35176 ⮕ 103.92664,1.3517
+- `75409` 103.92724,1.3522 ⮕ 103.92732,1.35221
+- `75419` 103.92919,1.35576 ⮕ 103.92911,1.35557
+- `90021` 103.87106,1.29724 ⮕ 103.87129,1.29718
+- `90029` 103.87253,1.29701 ⮕ 103.8708,1.29709
+- `90051` 103.87917,1.29771 ⮕ 103.87917,1.29766
+- `90059` 103.87911,1.29756 ⮕ 103.87911,1.29758
+- `92041` 103.90496,1.30266 ⮕ 103.90451,1.30235
+- `92129` 103.90643,1.30695 ⮕ 103.90651,1.30687
+- `96041` 103.9608,1.33995 ⮕ 103.96122,1.34153
+- `98289` 103.96616,1.3597 ⮕ 103.96613,1.35959
+- `98309` 103.96442,1.36011 ⮕ 103.96444,1.36004
+- `98319` 103.96841,1.35927 ⮕ 103.9684,1.35921
+
+### Services added: 3
+
+- `S51` W'lands Nth Stn ⇄ Lighthouse Sch / Bef Caldecott Stn Exit 3
+- `S52` Lighthouse Sch / Bef Caldecott Stn Exit 3 ⇄ Marina Bay Financial Ctr / Marina Bay Stn
+- `S53` Marina Bay Financial Ctr / Marina Bay Stn ⇄ Opp Bayshore Stn Exit 3 / Bef Bayshore Stn Exit 3
+
+### Services removed: 3
+
+- `S37` Bishan Int ⇄ Aft Promenade Stn Exit C
+- `S36` HarbourFront Int ⇄ Bishan Int / Bishan S36 Boarding
+- `965T` Woodlands Temp Int → Sengkang Int
+
+### Bus Stop Changes To Routes: 7
+
+- `965` Woodlands Temp Int ⇄ Buangkok Int: +22, -7
+- `381` Punggol Int ⟲ Blk 659A: +1
+- `678` Blk 162B / Blk 649 ⇄ Suntec Twr Two / Suntec Twr Three: +1
+- `683` Blk 162B / Blk 649 ⇄ Revival Ctr Ch / St. Joseph Instn Jnr: +2
+- `5B` Aft Changi General Hosp → Bef Mariam Wk: +1
+- `965A` Woodlands Temp Int → Opp Yishun Stn: +6, -2
+- `5A` Aft Ballota Pk → Bef Changi General Hosp: +5
+
+## Routes changed: 8
+
+- `653` Bef Summerhill / Hillington Green Condo ⇄ Marina Bay Financial Ctr / Marina Bay Stn
+- `965` Woodlands Temp Int ⇄ Buangkok Int
+- `5A` Aft Ballota Pk → Bef Changi General Hosp
+- `5B` Aft Changi General Hosp → Bef Mariam Wk
+- `965A` Woodlands Temp Int → Opp Yishun Stn
+- `S51` W'lands Nth Stn ⇄ Lighthouse Sch / Bef Caldecott Stn Exit 3
+- `S52` Lighthouse Sch / Bef Caldecott Stn Exit 3 ⇄ Marina Bay Financial Ctr / Marina Bay Stn
+- `S53` Marina Bay Financial Ctr / Marina Bay Stn ⇄ Opp Bayshore Stn Exit 3 / Bef Bayshore Stn Exit 3
+
+## First/last timings changed
+
+Affected services: `S37`, `965T`, `S36`, `49`, `51`, `57`, `58`, `66`, `79`, `94`, `96`, `98`, `101`, `106`, `121`, `132`, `162`, `167`, `169`, `171`, `180`, `183`, `186`, `189`, `232`, `240`, `251`, `252`, `265`, `284`, `285`, `291`, `381`, `453`, `653`, `678`, `683`, `801`, `825`, `854`, `855`, `856`, `857`, `858`, `859`, `861`, `870`, `883`, `941`, `963`, `965`, `966`, `981`, `983`, `984`, `990`, `174e`, `963e`, `97e`, `96A`, `96B`, `106A`, `98M`, `98B`, `98A`, `240M`, `240A`, `180A`, `183B`, `872A`, `984A`, `831G`, `189A`, `169A`, `169B`, `856A`, `856B`, `858A`, `856C`, `965A`, `50A`, `857A`, `857B`, `969A`, `859T`, `883M`, `861A`, `882A`, `861B`, `854e`, `858B`, `94A`, `5B`, `5A`, `S52`, `S51`, `S53`
+
 # 1 May 2026
 
 ## Stops count change: 5200 ⮕ 5201

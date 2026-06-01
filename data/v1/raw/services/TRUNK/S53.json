@@ -1,0 +1,30 @@
+[
+	{
+		"name": "From Marina Bay Financial Ctr to Opp Bayshore Stn Exit 3",
+		"stops": [
+			"03391",
+			"03369",
+			"90041",
+			"91089",
+			"82051",
+			"92051",
+			"92071",
+			"93031",
+			"94031"
+		]
+	},
+	{
+		"name": "From Bef Bayshore Stn Exit 3 to Marina Bay Stn",
+		"stops": [
+			"94039",
+			"93201",
+			"92079",
+			"92059",
+			"82059",
+			"91081",
+			"90049",
+			"03361",
+			"03539"
+		]
+	}
+]
