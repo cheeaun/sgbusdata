@@ -1,8 +1,13 @@
 [
 	{
-		"name": "From Darul Ghufran Mque to Opp MAS Bldg",
+		"name": "From Opp Blk 662B to Opp MAS Bldg",
 		"stops": [
-			"75129",
+			"75531",
+			"75521",
+			"75499",
+			"75489",
+			"75479",
+			"75269",
 			"75139",
 			"75161",
 			"75201",
@@ -19,7 +24,7 @@
 		]
 	},
 	{
-		"name": "From Hub Synergy Pt to Opp Darul Ghufran Mque",
+		"name": "From Hub Synergy Pt to Blk 662B",
 		"stops": [
 			"03222",
 			"03111",
@@ -35,7 +40,12 @@
 			"75209",
 			"75169",
 			"75131",
-			"75121"
+			"75261",
+			"75471",
+			"75481",
+			"75491",
+			"75529",
+			"75539"
 		]
 	}
 ]
