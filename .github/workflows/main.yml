@@ -27,13 +27,15 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           timestamp=$(date -u)
           # Set title and body for PR
-          echo ::set-output name=pr_title::"Latest data: ${timestamp}"
+          echo "pr_title=Latest data: ${timestamp}" >> "$GITHUB_OUTPUT"
           # https://trstringer.com/github-actions-multiline-strings/
           CHANGES=$(node scripts/changes)
-          CHANGES="${CHANGES//'%'/'%25'}"
-          CHANGES="${CHANGES//$'\n'/'%0A'}"
-          CHANGES="${CHANGES//$'\r'/'%0D'}"
-          echo "::set-output name=pr_body::$CHANGES"
+          DELIMITER="EOF_$(date +%s)"
+          {
+            echo "pr_body<<$DELIMITER"
+            echo "$CHANGES"
+            echo "$DELIMITER"
+          } >> "$GITHUB_OUTPUT"
           git diff --name-status
           git add -A
           git commit -m "Latest data: ${timestamp}" || exit 0
