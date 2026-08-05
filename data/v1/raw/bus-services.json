@@ -521,7 +521,7 @@
 	},
 	{
 		"number": 575,
-		"description": "Sengkang East Road to Upper Cross Street",
+		"description": "Buangkok Green to Cecil Street",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"575-1.kml"
@@ -646,18 +646,6 @@
 		],
 		"routeFile": [
 			"740.xml"
-		]
-	},
-	{
-		"number": 742,
-		"description": "Ang Mo Kio Avenue 3 - Changi Business Park",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"742-1.kml",
-			"742-2.kml"
-		],
-		"routeFile": [
-			"742.xml"
 		]
 	},
 	{
@@ -3462,7 +3450,8 @@
 		"number": 291,
 		"type": "TRUNK",
 		"kmlFile": [
-			"291-1.kml"
+			"291-1.kml",
+			"291-2.kml"
 		],
 		"routeFile": [
 			"291.xml"
@@ -3482,7 +3471,8 @@
 		"number": 293,
 		"type": "TRUNK",
 		"kmlFile": [
-			"293-1.kml"
+			"293-1.kml",
+			"293-2.kml"
 		],
 		"routeFile": [
 			"293.xml"
@@ -3604,7 +3594,8 @@
 		"number": 307,
 		"type": "TRUNK",
 		"kmlFile": [
-			"307-1.kml"
+			"307-1.kml",
+			"307-2.kml"
 		],
 		"routeFile": [
 			"307.xml"
@@ -4346,6 +4337,17 @@
 		],
 		"routeFile": [
 			"460.xml"
+		]
+	},
+	{
+		"number": 461,
+		"type": "TRUNK",
+		"kmlFile": [
+			"461-1.kml",
+			"461-2.kml"
+		],
+		"routeFile": [
+			"461.xml"
 		]
 	},
 	{
@@ -6779,36 +6781,36 @@
 		]
 	},
 	{
-		"number": "S51",
+		"number": "S41",
 		"type": "TRUNK",
 		"kmlFile": [
-			"S51-1.kml",
-			"S51-2.kml"
+			"S41-1.kml",
+			"S41-2.kml"
 		],
 		"routeFile": [
-			"S51.xml"
+			"S41.xml"
 		]
 	},
 	{
-		"number": "S52",
+		"number": "S42",
 		"type": "TRUNK",
 		"kmlFile": [
-			"S52-1.kml",
-			"S52-2.kml"
+			"S42-1.kml",
+			"S42-2.kml"
 		],
 		"routeFile": [
-			"S52.xml"
+			"S42.xml"
 		]
 	},
 	{
-		"number": "S53",
+		"number": "S43",
 		"type": "TRUNK",
 		"kmlFile": [
-			"S53-1.kml",
-			"S53-2.kml"
+			"S43-1.kml",
+			"S43-2.kml"
 		],
 		"routeFile": [
-			"S53.xml"
+			"S43.xml"
 		]
 	},
 	{

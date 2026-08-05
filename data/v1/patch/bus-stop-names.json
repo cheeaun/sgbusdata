@@ -1,5 +1,10 @@
 [
 	{
+		"number": "01511",
+		"name": "DUO",
+		"newName": "Opp The Gateway"
+	},
+	{
 		"number": "04121",
 		"name": "SMU",
 		"newName": "SMU"
@@ -83,11 +88,6 @@
 		"number": "44891",
 		"name": "APSN",
 		"newName": "APSN"
-	},
-	{
-		"number": "46049",
-		"name": "GLOBALFOUNDRIES",
-		"newName": "GLOBALFOUNDRIES"
 	},
 	{
 		"number": "48031",

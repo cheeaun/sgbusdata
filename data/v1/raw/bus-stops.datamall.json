@@ -198,7 +198,7 @@
 	{
 		"BusStopCode": "01511",
 		"RoadName": "Beach Rd",
-		"Description": "Opp The Gateway",
+		"Description": "DUO",
 		"Latitude": 1.29919826103807,
 		"Longitude": 103.85864518302436
 	},
@@ -299,13 +299,6 @@
 		"Description": "Raffles Hotel",
 		"Latitude": 1.29452091230981,
 		"Longitude": 103.85402155505173
-	},
-	{
-		"BusStopCode": "02051",
-		"RoadName": "Raffles Ave",
-		"Description": "The Float @ Marina Bay",
-		"Latitude": 1.289503056,
-		"Longitude": 103.8590339
 	},
 	{
 		"BusStopCode": "02061",
@@ -478,7 +471,7 @@
 	{
 		"BusStopCode": "03218",
 		"RoadName": "Shenton Way",
-		"Description": "Opp MAS Bldg",
+		"Description": "Prince Edward Rd Stn Exit 2",
 		"Latitude": 1.2740788888387,
 		"Longitude": 103.84687388890413
 	},
@@ -688,7 +681,7 @@
 	{
 		"BusStopCode": "04143",
 		"RoadName": "Hill St",
-		"Description": "Stamford Ct",
+		"Description": "Bef Stamford Rd",
 		"Latitude": 1.29411640848293,
 		"Longitude": 103.85020606905503
 	},
@@ -1185,7 +1178,7 @@
 	{
 		"BusStopCode": "06189",
 		"RoadName": "Havelock Rd",
-		"Description": "Ctrl Sq",
+		"Description": "Aft Solomon St",
 		"Latitude": 1.28779136477868,
 		"Longitude": 103.84329428089559
 	},
@@ -1335,6 +1328,13 @@
 		"Description": "Opp NAFA Campus 3",
 		"Latitude": 1.30095828368506,
 		"Longitude": 103.85211175034802
+	},
+	{
+		"BusStopCode": "07522",
+		"RoadName": "Weld Rd",
+		"Description": "Jalan Besar S42 Boarding",
+		"Latitude": 1.30475,
+		"Longitude": 103.855619
 	},
 	{
 		"BusStopCode": "07529",
@@ -3201,14 +3201,14 @@
 	{
 		"BusStopCode": "12201",
 		"RoadName": "Clementi Ave 6",
-		"Description": "LogisHub @ Clementi",
+		"Description": "Bet Clementi Loop",
 		"Latitude": 1.32670826856501,
 		"Longitude": 103.76399509585458
 	},
 	{
 		"BusStopCode": "12209",
 		"RoadName": "Clementi Ave 6",
-		"Description": "Opp LogisHub @ Clementi",
+		"Description": "Opp Clementi Loop",
 		"Latitude": 1.32653202760922,
 		"Longitude": 103.76429968220569
 	},
@@ -3537,14 +3537,14 @@
 	{
 		"BusStopCode": "14061",
 		"RoadName": "Keppel Rd",
-		"Description": "Opp Former Railway Stn",
+		"Description": "Opp Cantonment Stn Exit 4",
 		"Latitude": 1.27231269789239,
 		"Longitude": 103.83862035734883
 	},
 	{
 		"BusStopCode": "14069",
 		"RoadName": "Keppel Rd",
-		"Description": "Former Railway Stn",
+		"Description": "Cantonment Stn Exit 4",
 		"Latitude": 1.272538056,
 		"Longitude": 103.8364069
 	},
@@ -3558,14 +3558,14 @@
 	{
 		"BusStopCode": "14081",
 		"RoadName": "Keppel Rd",
-		"Description": "Tg Pagar DP Blk F5",
+		"Description": "Keppel Stn Exit 3",
 		"Latitude": 1.270896111,
 		"Longitude": 103.8308919
 	},
 	{
 		"BusStopCode": "14089",
 		"RoadName": "Keppel Rd",
-		"Description": "Opp Tg Pagar DP Blk F5",
+		"Description": "Keppel Stn Exit 2",
 		"Latitude": 1.27046005041763,
 		"Longitude": 103.829792773326
 	},
@@ -4328,14 +4328,14 @@
 	{
 		"BusStopCode": "16091",
 		"RoadName": "AYE",
-		"Description": "NUS Sports Centre",
+		"Description": "NUS Sports Ctr",
 		"Latitude": 1.299478,
 		"Longitude": 103.779229
 	},
 	{
 		"BusStopCode": "16099",
 		"RoadName": "AYE",
-		"Description": "Opp NUS Sports Centre",
+		"Description": "Opp NUS Sports Ctr",
 		"Latitude": 1.30061249997689,
 		"Longitude": 103.77815138886747
 	},
@@ -10220,6 +10220,20 @@
 		"Longitude": 103.7009747
 	},
 	{
+		"BusStopCode": "27381",
+		"RoadName": "Jurong West St 75",
+		"Description": "Blk 749",
+		"Latitude": 1.348143,
+		"Longitude": 103.698209
+	},
+	{
+		"BusStopCode": "27389",
+		"RoadName": "Jurong West St 75",
+		"Description": "Gek Poh Shop Ctr",
+		"Latitude": 1.34845180903204,
+		"Longitude": 103.69810437813979
+	},
+	{
 		"BusStopCode": "27391",
 		"RoadName": "Jurong West St 82",
 		"Description": "Blk 857",
@@ -13624,7 +13638,7 @@
 	{
 		"BusStopCode": "43409",
 		"RoadName": "Bt Batok West Ave 3",
-		"Description": "Opp Blk 127",
+		"Description": "Opp Blk 122",
 		"Latitude": 1.35235542005389,
 		"Longitude": 103.74623591627208
 	},
@@ -14317,7 +14331,7 @@
 	{
 		"BusStopCode": "44069",
 		"RoadName": "Woodlands Rd",
-		"Description": "Aft KJE Slip Rd",
+		"Description": "Blk 634 CP",
 		"Latitude": 1.38592018696626,
 		"Longitude": 103.75717769160771
 	},
@@ -15239,13 +15253,6 @@
 		"Longitude": 103.759842
 	},
 	{
-		"BusStopCode": "44821",
-		"RoadName": "Senja Link",
-		"Description": "Blk 651",
-		"Latitude": 1.38637611056002,
-		"Longitude": 103.76338435587678
-	},
-	{
 		"BusStopCode": "44829",
 		"RoadName": "Senja Link",
 		"Description": "Opp Blk 650",
@@ -16074,14 +16081,14 @@
 	{
 		"BusStopCode": "46041",
 		"RoadName": "Woodlands Rd",
-		"Description": "Opp GLOBALFOUNDRIES",
+		"Description": "Opp GlobalFoundries",
 		"Latitude": 1.43664137008987,
 		"Longitude": 103.76405579624996
 	},
 	{
 		"BusStopCode": "46049",
 		"RoadName": "Woodlands Rd",
-		"Description": "GLOBALFOUNDRIES",
+		"Description": "GlobalFoundries",
 		"Latitude": 1.43709,
 		"Longitude": 103.76476
 	},
@@ -16095,7 +16102,7 @@
 	{
 		"BusStopCode": "46059",
 		"RoadName": "Woodlands Rd",
-		"Description": "GLOBALFOUNDRIES/Aft BKE",
+		"Description": "GlobalFoundries/Aft BKE",
 		"Latitude": 1.4387537800127,
 		"Longitude": 103.76656472079625
 	},
@@ -17558,7 +17565,7 @@
 	{
 		"BusStopCode": "47549",
 		"RoadName": "Woodlands Ave 6",
-		"Description": "Opp Blk 639",
+		"Description": "Blk 693 CP",
 		"Latitude": 1.4379048516895,
 		"Longitude": 103.80352352573782
 	},
@@ -18769,7 +18776,7 @@
 	{
 		"BusStopCode": "51109",
 		"RoadName": "Whitley Rd",
-		"Description": "Opp Old Police Acad",
+		"Description": "Bef Dyson Rd",
 		"Latitude": 1.32709277800856,
 		"Longitude": 103.8397080559738
 	},
@@ -18888,7 +18895,7 @@
 	{
 		"BusStopCode": "52069",
 		"RoadName": "Braddell Rd",
-		"Description": "ComfortDelGro Corp Ltd",
+		"Description": "Opp BCA Acad",
 		"Latitude": 1.34314389988912,
 		"Longitude": 103.85856611406128
 	},
@@ -25818,7 +25825,7 @@
 	{
 		"BusStopCode": "65271",
 		"RoadName": "Punggol Ctrl",
-		"Description": "Opp Blk 188",
+		"Description": "Bet Blks 622A/622B",
 		"Latitude": 1.400166,
 		"Longitude": 103.910274
 	},
@@ -28703,8 +28710,8 @@
 		"BusStopCode": "70161",
 		"RoadName": "Merpati Rd",
 		"Description": "Opp Mattar Stn Exit A",
-		"Latitude": 1.32758635490072,
-		"Longitude": 103.88324806418214
+		"Latitude": 1.327297,
+		"Longitude": 103.882484
 	},
 	{
 		"BusStopCode": "70171",
@@ -28908,6 +28915,13 @@
 		"Description": "MacPherson Stn Exit A",
 		"Latitude": 1.32623288866609,
 		"Longitude": 103.88932330108935
+	},
+	{
+		"BusStopCode": "70372",
+		"RoadName": "Circuit Rd",
+		"Description": "MacPherson S41 Boarding",
+		"Latitude": 1.326222,
+		"Longitude": 103.888436
 	},
 	{
 		"BusStopCode": "70379",
@@ -33826,7 +33840,7 @@
 	{
 		"BusStopCode": "84681",
 		"RoadName": "Bedok Sth Rd",
-		"Description": "Blk 163",
+		"Description": "Blk 164",
 		"Latitude": 1.32021834435842,
 		"Longitude": 103.94705927934717
 	},
@@ -33959,14 +33973,14 @@
 	{
 		"BusStopCode": "85091",
 		"RoadName": "New Upp Changi Rd",
-		"Description": "Tanah Merah Stn Exit B",
+		"Description": "Tanah Merah Stn Exit 2",
 		"Latitude": 1.32754912682416,
 		"Longitude": 103.94636119805759
 	},
 	{
 		"BusStopCode": "85099",
 		"RoadName": "New Upp Changi Rd",
-		"Description": "Tanah Merah Stn Exit A",
+		"Description": "Tanah Merah Stn Exit 1",
 		"Latitude": 1.32684437763421,
 		"Longitude": 103.94645987386455
 	},

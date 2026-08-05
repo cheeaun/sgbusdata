@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Tampines Nth Int to Bedok Nth Depot",
+		"name": "From Tampines Nth Int to SBST Bedok Nth Depot",
 		"stops": [
 			"74009",
 			"75491",
@@ -32,14 +32,12 @@
 			"84251",
 			"84261",
 			"84271",
-			"84591",
-			"84299"
+			"84591"
 		]
 	},
 	{
-		"name": "From Bedok Nth Depot to Tampines Nth Int",
+		"name": "From Opp SBST Bedok Nth Depot to Tampines Nth Int",
 		"stops": [
-			"84299",
 			"84599",
 			"84279",
 			"84269",
