@@ -12,6 +12,7 @@ busRoutes.forEach((r) => {
   const {
     ServiceNo,
     BusStopCode,
+    StopSequence,
     WD_FirstBus,
     WD_LastBus,
     SAT_FirstBus,
@@ -38,9 +39,19 @@ busRoutes.forEach((r) => {
   // If '=', means it's the same as weekday's timing
 
   if (!firstLastJSON[BusStopCode]) firstLastJSON[BusStopCode] = [];
-  firstLastJSON[BusStopCode].push(
-    `${ServiceNo} ${WD_FirstBus} ${WD_LastBus} ${satFirst} ${satLast} ${sunFirst} ${sunLast}`,
-  );
+  firstLastJSON[BusStopCode].push({
+    stopSequence: Number(StopSequence) || 0,
+    service: ServiceNo,
+    line: `${ServiceNo} ${WD_FirstBus} ${WD_LastBus} ${satFirst} ${satLast} ${sunFirst} ${sunLast}`,
+  });
+});
+
+Object.keys(firstLastJSON).forEach((stopCode) => {
+  firstLastJSON[stopCode].sort((a, b) => {
+    if (a.service !== b.service) return 0;
+    return a.stopSequence - b.stopSequence;
+  });
+  firstLastJSON[stopCode] = firstLastJSON[stopCode].map((entry) => entry.line);
 });
 
 let e = validator.validate(Object.entries(firstLastJSON), {
