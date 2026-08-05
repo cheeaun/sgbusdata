@@ -510,8 +510,8 @@
 		"Kay Siang Rd"
 	],
 	"10471": [
-		103.81468,
-		1.2968,
+		103.81475,
+		1.29677,
 		"Bef Tanglin Rd",
 		"Kay Siang Rd"
 	],
@@ -996,8 +996,8 @@
 		"Holland Dr"
 	],
 	"11401": [
-		103.79507,
-		1.30907,
+		103.795,
+		1.30898,
 		"Holland V Stn/Blk 12",
 		"Holland Ave"
 	],
@@ -1087,7 +1087,7 @@
 	],
 	"11511": [
 		103.80252,
-		1.28595,
+		1.2861,
 		"Alexandra Hosp",
 		"Alexandra Rd"
 	],
@@ -1352,13 +1352,13 @@
 	"12201": [
 		103.764,
 		1.32671,
-		"LogisHub @ Clementi",
+		"Bet Clementi Loop",
 		"Clementi Ave 6"
 	],
 	"12209": [
 		103.7643,
 		1.32653,
-		"Opp LogisHub @ Clementi",
+		"Opp Clementi Loop",
 		"Clementi Ave 6"
 	],
 	"12211": [
@@ -1640,13 +1640,13 @@
 	"14061": [
 		103.83862,
 		1.27231,
-		"Opp Former Railway Stn",
+		"Opp Cantonment Stn Exit 4",
 		"Keppel Rd"
 	],
 	"14069": [
-		103.83641,
-		1.27254,
-		"Former Railway Stn",
+		103.83708,
+		1.2725,
+		"Cantonment Stn Exit 4",
 		"Keppel Rd"
 	],
 	"14071": [
@@ -1658,13 +1658,13 @@
 	"14081": [
 		103.83089,
 		1.2709,
-		"Tg Pagar DP Blk F5",
+		"Keppel Stn Exit 3",
 		"Keppel Rd"
 	],
 	"14089": [
 		103.82979,
 		1.27046,
-		"Opp Tg Pagar DP Blk F5",
+		"Keppel Stn Exit 2",
 		"Keppel Rd"
 	],
 	"14101": [
@@ -2318,13 +2318,13 @@
 	"16091": [
 		103.77923,
 		1.29948,
-		"NUS Sports Centre",
+		"NUS Sports Ctr",
 		"AYE"
 	],
 	"16099": [
 		103.77815,
 		1.30061,
-		"Opp NUS Sports Centre",
+		"Opp NUS Sports Ctr",
 		"AYE"
 	],
 	"16101": [
@@ -2970,8 +2970,8 @@
 		"Ayer Rajah Ave"
 	],
 	"18059": [
-		103.78721,
-		1.29849,
+		103.78728,
+		1.29851,
 		"Opp one-north Stn",
 		"Ayer Rajah Ave"
 	],
@@ -3006,8 +3006,8 @@
 		"Ayer Rajah Cres"
 	],
 	"18089": [
-		103.78757,
-		1.29481,
+		103.78758,
+		1.29474,
 		"S'pore Post",
 		"Ayer Rajah Cres"
 	],
@@ -3240,8 +3240,8 @@
 		"Lower Kent Ridge Rd"
 	],
 	"18339": [
-		103.78456,
-		1.29506,
+		103.78458,
+		1.29498,
 		"Opp Kent Ridge Stn Exit A",
 		"Lower Kent Ridge Rd"
 	],
@@ -3558,8 +3558,8 @@
 		"Teban Gdns Rd"
 	],
 	"20231": [
-		103.73944,
-		1.32234,
+		103.73968,
+		1.32233,
 		"Bef Hasanah Mque",
 		"Teban Gdns Rd"
 	],
@@ -4002,8 +4002,8 @@
 		"Jln Boon Lay"
 	],
 	"21339": [
-		103.70831,
-		1.32991,
+		103.70838,
+		1.32987,
 		"Premier Milk Pte Ltd",
 		"Jln Boon Lay"
 	],
@@ -4014,8 +4014,8 @@
 		"Jln Boon Lay"
 	],
 	"21349": [
-		103.7093,
-		1.33554,
+		103.70939,
+		1.33573,
 		"GSK",
 		"Jln Boon Lay"
 	],
@@ -4122,8 +4122,8 @@
 		"Boon Lay Pl"
 	],
 	"21441": [
-		103.71326,
-		1.34638,
+		103.71317,
+		1.34649,
 		"Blk 207",
 		"Boon Lay Pl"
 	],
@@ -4146,8 +4146,8 @@
 		"Boon Lay Dr"
 	],
 	"21461": [
-		103.71799,
-		1.32732,
+		103.71828,
+		1.32739,
 		"Bef Tukang Innovation Dr",
 		"Jln Tukang"
 	],
@@ -4878,20 +4878,20 @@
 		"Enterprise Rd"
 	],
 	"22441": [
-		103.70358,
-		1.34282,
+		103.7036,
+		1.34285,
 		"Blk 669 CP",
 		"Jurong West St 64"
 	],
 	"22449": [
-		103.70381,
-		1.34306,
+		103.70377,
+		1.34304,
 		"Blk 685B",
 		"Jurong West St 64"
 	],
 	"22451": [
 		103.69561,
-		1.33817,
+		1.33836,
 		"Opp Blk 643",
 		"Pioneer Rd Nth"
 	],
@@ -4944,8 +4944,8 @@
 		"Jurong West St 64"
 	],
 	"22499": [
-		103.70463,
-		1.33771,
+		103.7048,
+		1.33769,
 		"Opp Blk 662C",
 		"Jurong West St 64"
 	],
@@ -4974,8 +4974,8 @@
 		"Jurong West St 63"
 	],
 	"22521": [
-		103.69777,
-		1.33742,
+		103.69784,
+		1.33749,
 		"Pioneer Stn Exit A",
 		"Jurong West St 63"
 	],
@@ -4986,14 +4986,14 @@
 		"Jurong West St 63"
 	],
 	"22531": [
-		103.69814,
-		1.33923,
+		103.69821,
+		1.33921,
 		"Opp Jurong West Pr Sch",
 		"Jurong West St 61"
 	],
 	"22539": [
-		103.69839,
-		1.3392,
+		103.69833,
+		1.33922,
 		"Jurong West Pr Sch",
 		"Jurong West St 61"
 	],
@@ -5040,7 +5040,7 @@
 		"Jurong West St 64"
 	],
 	"22599": [
-		103.70345,
+		103.70343,
 		1.34436,
 		"Blk 678D",
 		"Jurong West St 64"
@@ -7134,8 +7134,8 @@
 		"Jln Bahar"
 	],
 	"27121": [
-		103.69521,
-		1.35682,
+		103.69574,
+		1.35635,
 		"Bef Nanyang Ave",
 		"Jln Bahar"
 	],
@@ -7182,8 +7182,8 @@
 		"Nanyang Ave"
 	],
 	"27171": [
-		103.69168,
-		1.35605,
+		103.69146,
+		1.35613,
 		"Bef Lor Danau",
 		"Nanyang Ave"
 	],
@@ -7206,8 +7206,8 @@
 		"Nanyang Ave"
 	],
 	"27199": [
-		103.68686,
-		1.35434,
+		103.6864,
+		1.35352,
 		"Hall 11",
 		"Nanyang Ave"
 	],
@@ -7365,6 +7365,18 @@
 		103.70097,
 		1.34802,
 		"Blk 755",
+		"Jurong West St 75"
+	],
+	"27381": [
+		103.69821,
+		1.34814,
+		"Blk 749",
+		"Jurong West St 75"
+	],
+	"27389": [
+		103.6981,
+		1.34845,
+		"Gek Poh Shop Ctr",
 		"Jurong West St 75"
 	],
 	"27391": [
@@ -8022,8 +8034,8 @@
 		"Jurong West Ave 1"
 	],
 	"28509": [
-		103.72654,
-		1.35003,
+		103.72653,
+		1.35,
 		"Blk 422",
 		"Jurong West Ave 1"
 	],
@@ -8082,8 +8094,8 @@
 		"Jurong West St 42"
 	],
 	"28571": [
-		103.72542,
-		1.35242,
+		103.72544,
+		1.35239,
 		"Blk 416",
 		"Jurong West St 42"
 	],
@@ -9042,8 +9054,8 @@
 		"Stevens Rd"
 	],
 	"40231": [
-		103.82577,
-		1.32231,
+		103.8257,
+		1.32211,
 		"Raffles Town Club",
 		"Whitley Rd"
 	],
@@ -10284,9 +10296,9 @@
 		"Bt Batok West Ave 3"
 	],
 	"43409": [
-		103.74624,
-		1.35236,
-		"Opp Blk 127",
+		103.74702,
+		1.35244,
+		"Opp Blk 122",
 		"Bt Batok West Ave 3"
 	],
 	"43411": [
@@ -10494,8 +10506,8 @@
 		"Bt Batok West Ave 5"
 	],
 	"43579": [
-		103.75167,
-		1.35912,
+		103.75168,
+		1.35884,
 		"Bt Gombak Stn",
 		"Bt Batok West Ave 5"
 	],
@@ -10880,7 +10892,7 @@
 	"44069": [
 		103.75718,
 		1.38592,
-		"Aft KJE Slip Rd",
+		"Blk 634 CP",
 		"Woodlands Rd"
 	],
 	"44071": [
@@ -11413,7 +11425,7 @@
 	],
 	"44549": [
 		103.74619,
-		1.38749,
+		1.38721,
 		"Opp Northvale Condo",
 		"Choa Chu Kang Dr"
 	],
@@ -11634,8 +11646,8 @@
 		"Fajar Rd"
 	],
 	"44791": [
-		103.76069,
-		1.38372,
+		103.76075,
+		1.38369,
 		"West View Pr Sch",
 		"Senja Rd"
 	],
@@ -11668,12 +11680,6 @@
 		1.38719,
 		"Opp West Spring Sec Sch",
 		"Senja Rd"
-	],
-	"44821": [
-		103.76338,
-		1.38638,
-		"Blk 651",
-		"Senja Link"
 	],
 	"44829": [
 		103.76306,
@@ -12386,30 +12392,30 @@
 	"46041": [
 		103.76406,
 		1.43664,
-		"Opp GLOBALFOUNDRIES",
+		"Opp GlobalFoundries",
 		"Woodlands Rd"
 	],
 	"46049": [
 		103.76476,
 		1.43709,
-		"GLOBALFOUNDRIES",
+		"GlobalFoundries",
 		"Woodlands Rd"
 	],
 	"46051": [
-		103.76641,
-		1.43897,
+		103.76639,
+		1.43884,
 		"Bef BKE",
 		"Woodlands Rd"
 	],
 	"46059": [
-		103.76656,
-		1.43875,
-		"GLOBALFOUNDRIES/Aft BKE",
+		103.76664,
+		1.43891,
+		"GlobalFoundries/Aft BKE",
 		"Woodlands Rd"
 	],
 	"46069": [
-		103.76934,
-		1.44289,
+		103.76936,
+		1.44278,
 		"W'lands Train Checkpt",
 		"Woodlands Ctr Rd"
 	],
@@ -12438,14 +12444,14 @@
 		"Woodlands Ctr Rd"
 	],
 	"46101": [
-		103.76775,
-		1.44461,
+		103.76854,
+		1.44616,
 		"W'lands Checkpt",
 		"Woodlands Crossing"
 	],
 	"46109": [
-		103.76925,
-		1.44694,
+		103.76868,
+		1.44571,
 		"W'lands Checkpt",
 		"Woodlands Crossing"
 	],
@@ -12570,14 +12576,14 @@
 		"Marsiling Dr"
 	],
 	"46211": [
-		103.76548,
-		1.46492,
+		103.76751,
+		1.4657,
 		"Johor Bahru Checkpt",
 		"Johor Bahru"
 	],
 	"46219": [
-		103.76827,
-		1.46543,
+		103.76662,
+		1.46491,
 		"Johor Bahru Checkpt",
 		"Johor Bahru"
 	],
@@ -12594,8 +12600,8 @@
 		"Woodlands Ave 2"
 	],
 	"46239": [
-		103.74403,
-		1.4939,
+		103.74307,
+		1.49552,
 		"Larkin Ter",
 		"Jln Datin Halimah"
 	],
@@ -12912,8 +12918,8 @@
 		"Woodlands Ctr Rd"
 	],
 	"46509": [
-		103.77096,
-		1.43804,
+		103.77105,
+		1.43885,
 		"Marsiling Pk",
 		"Woodlands Ctr Rd"
 	],
@@ -12924,8 +12930,8 @@
 		"Woodlands Ctr Rd"
 	],
 	"46519": [
-		103.77214,
-		1.43555,
+		103.77222,
+		1.4355,
 		"Opp Blk 144",
 		"Woodlands Ctr Rd"
 	],
@@ -13644,8 +13650,8 @@
 		"Woodlands Dr 16"
 	],
 	"47539": [
-		103.79797,
-		1.42938,
+		103.79799,
+		1.42936,
 		"Opp Woodgrove Sec Sch",
 		"Woodlands Ave 6"
 	],
@@ -13658,7 +13664,7 @@
 	"47549": [
 		103.80352,
 		1.4379,
-		"Opp Blk 639",
+		"Blk 693 CP",
 		"Woodlands Ave 6"
 	],
 	"47551": [
@@ -13674,8 +13680,8 @@
 		"Woodlands Ave 6"
 	],
 	"47561": [
-		103.79842,
-		1.43321,
+		103.79838,
+		1.43316,
 		"Blk 620",
 		"Woodlands Ave 5"
 	],
@@ -13800,8 +13806,8 @@
 		"Woodlands Cres"
 	],
 	"47711": [
-		103.76442,
-		1.46346,
+		103.76498,
+		1.46349,
 		"JB Sentral Bus Ter",
 		"Jln Jim Quee"
 	],
@@ -14646,8 +14652,8 @@
 		"Thomson Rd"
 	],
 	"51069": [
-		103.8366,
-		1.34126,
+		103.83665,
+		1.34108,
 		"Mt Alvernia Hosp",
 		"Thomson Rd"
 	],
@@ -14670,8 +14676,8 @@
 		"Marymount Rd"
 	],
 	"51089": [
-		103.83963,
-		1.34155,
+		103.83933,
+		1.34163,
 		"Marymount Convent Sch",
 		"Marymount Rd"
 	],
@@ -14696,7 +14702,7 @@
 	"51109": [
 		103.83971,
 		1.32709,
-		"Opp Old Police Acad",
+		"Bef Dyson Rd",
 		"Whitley Rd"
 	],
 	"51111": [
@@ -14718,8 +14724,8 @@
 		"Braddell Rd"
 	],
 	"51139": [
-		103.84032,
-		1.34437,
+		103.83967,
+		1.34399,
 		"Braddell View",
 		"Braddell Rd"
 	],
@@ -14798,7 +14804,7 @@
 	"52069": [
 		103.85857,
 		1.34314,
-		"ComfortDelGro Corp Ltd",
+		"Opp BCA Acad",
 		"Braddell Rd"
 	],
 	"52071": [
@@ -15444,8 +15450,8 @@
 		"Marymount Rd"
 	],
 	"53119": [
-		103.83945,
-		1.34706,
+		103.83926,
+		1.34668,
 		"Aft Bishan St 21",
 		"Marymount Rd"
 	],
@@ -15876,8 +15882,8 @@
 		"Ang Mo Kio Ave 6"
 	],
 	"54059": [
-		103.84498,
-		1.37628,
+		103.8451,
+		1.37468,
 		"Bef Ang Mo Kio Lib",
 		"Ang Mo Kio Ave 6"
 	],
@@ -16842,8 +16848,8 @@
 		"Lentor Loop"
 	],
 	"55509": [
-		103.84556,
-		1.38113,
+		103.84471,
+		1.38262,
 		"Yio Chu Kang Int",
 		"Ang Mo Kio Ave 8"
 	],
@@ -17100,8 +17106,8 @@
 		"Sembawang Rd"
 	],
 	"57079": [
-		103.82567,
-		1.42444,
+		103.82559,
+		1.42401,
 		"Khatib Camp",
 		"Sembawang Rd"
 	],
@@ -17322,8 +17328,8 @@
 		"Canberra Rd"
 	],
 	"58139": [
-		103.82075,
-		1.45638,
+		103.82076,
+		1.45645,
 		"Bef Assyafaah Mque",
 		"Canberra Rd"
 	],
@@ -17352,8 +17358,8 @@
 		"Canberra Rd"
 	],
 	"58161": [
-		103.82037,
-		1.46053,
+		103.82034,
+		1.4605,
 		"Bef Sembawang Shipyard G 3",
 		"Admiralty Rd West"
 	],
@@ -17952,8 +17958,8 @@
 		"Yishun Ring Rd"
 	],
 	"59091": [
-		103.83511,
-		1.43165,
+		103.83518,
+		1.43193,
 		"Blk 154",
 		"Yishun Ave 2"
 	],
@@ -18030,8 +18036,8 @@
 		"Yishun Ave 5"
 	],
 	"59161": [
-		103.83793,
-		1.43015,
+		103.83783,
+		1.43023,
 		"Opp Blk 201",
 		"Yishun Ctrl"
 	],
@@ -19140,14 +19146,14 @@
 		"Upp Paya Lebar Rd"
 	],
 	"62049": [
-		103.88023,
-		1.34904,
+		103.88038,
+		1.34867,
 		"Aft Paya Lebar Cres",
 		"Upp Paya Lebar Rd"
 	],
 	"62051": [
-		103.87775,
-		1.3517,
+		103.87778,
+		1.35178,
 		"Aft Jln Chermat",
 		"Upp Paya Lebar Rd"
 	],
@@ -19872,8 +19878,8 @@
 		"Upp S'goon Rd"
 	],
 	"64051": [
-		103.89777,
-		1.3724,
+		103.89778,
+		1.37238,
 		"Blk 465A",
 		"Upp S'goon Rd"
 	],
@@ -20106,8 +20112,8 @@
 		"Hougang Ave 5"
 	],
 	"64249": [
-		103.89589,
-		1.36809,
+		103.89581,
+		1.36808,
 		"Blk 327",
 		"Hougang Ave 5"
 	],
@@ -20232,8 +20238,8 @@
 		"Hougang Ave 10"
 	],
 	"64391": [
-		103.88977,
-		1.37145,
+		103.88983,
+		1.37161,
 		"Blk 831",
 		"Hougang Ave 10"
 	],
@@ -20478,8 +20484,8 @@
 		"Punggol Rd"
 	],
 	"65021": [
-		103.89961,
-		1.38403,
+		103.89962,
+		1.38396,
 		"Opp Blk 110",
 		"Punggol Rd"
 	],
@@ -20490,20 +20496,20 @@
 		"Punggol Rd"
 	],
 	"65031": [
-		103.90162,
+		103.90168,
 		1.38714,
 		"Blk 227D",
 		"Punggol Rd"
 	],
 	"65039": [
-		103.90186,
-		1.38732,
+		103.90183,
+		1.38705,
 		"Blk 124",
 		"Punggol Rd"
 	],
 	"65041": [
-		103.90162,
-		1.38984,
+		103.90166,
+		1.38987,
 		"Blk 231",
 		"Punggol Rd"
 	],
@@ -20598,8 +20604,8 @@
 		"Punggol Field"
 	],
 	"65159": [
-		103.90665,
-		1.39857,
+		103.90608,
+		1.3991,
 		"Cove Stn Exit A",
 		"Punggol Field"
 	],
@@ -20652,8 +20658,8 @@
 		"TPE"
 	],
 	"65201": [
-		103.90358,
-		1.40083,
+		103.90295,
+		1.40108,
 		"Opp Blk 201A",
 		"Punggol Field"
 	],
@@ -20738,7 +20744,7 @@
 	"65271": [
 		103.91027,
 		1.40017,
-		"Opp Blk 188",
+		"Bet Blks 622A/622B",
 		"Punggol Ctrl"
 	],
 	"65279": [
@@ -20778,8 +20784,8 @@
 		"Punggol Dr"
 	],
 	"65319": [
-		103.91245,
-		1.40258,
+		103.91218,
+		1.40281,
 		"Oasis Stn Exit A",
 		"Punggol Dr"
 	],
@@ -20832,14 +20838,14 @@
 		"Punggol Pl"
 	],
 	"65371": [
-		103.91627,
-		1.40289,
+		103.91632,
+		1.40301,
 		"Blk 682A",
 		"Edgedale Plains"
 	],
 	"65379": [
-		103.91634,
-		1.40281,
+		103.91643,
+		1.40289,
 		"Blk 661A",
 		"Edgedale Plains"
 	],
@@ -20862,8 +20868,8 @@
 		"Edgefield Plains"
 	],
 	"65399": [
-		103.9126,
-		1.4058,
+		103.91252,
+		1.40569,
 		"Blk 670A",
 		"Edgefield Plains"
 	],
@@ -21000,8 +21006,8 @@
 		"Sumang Crescent"
 	],
 	"65549": [
-		103.8912,
-		1.40352,
+		103.89105,
+		1.4035,
 		"Opp Blk 228B",
 		"Sumang Crescent"
 	],
@@ -21012,8 +21018,8 @@
 		"Punggol Field"
 	],
 	"65559": [
-		103.8925,
-		1.40405,
+		103.89252,
+		1.40412,
 		"Opp Blk 227A",
 		"Punggol Field"
 	],
@@ -21163,7 +21169,7 @@
 	],
 	"65691": [
 		103.91196,
-		1.42015,
+		1.42018,
 		"Opp Blk 437B",
 		"New Punggol Rd"
 	],
@@ -21252,14 +21258,14 @@
 		"S'goon Ave 2"
 	],
 	"66011": [
-		103.85998,
-		1.34717,
+		103.86,
+		1.34723,
 		"Aft Braddell Rd",
 		"Lor Chuan"
 	],
 	"66019": [
-		103.8604,
-		1.34603,
+		103.86035,
+		1.34602,
 		"Bef Braddell Rd",
 		"Lor Chuan"
 	],
@@ -21534,8 +21540,8 @@
 		"S'goon Nth Ave 1"
 	],
 	"66329": [
-		103.87229,
-		1.36602,
+		103.87241,
+		1.36614,
 		"Blk 126",
 		"S'goon Nth Ave 1"
 	],
@@ -21618,8 +21624,8 @@
 		"S'goon Ave 3"
 	],
 	"66399": [
-		103.86313,
-		1.35154,
+		103.86324,
+		1.35152,
 		"Opp Lor Chuan Stn Exit B",
 		"S'goon Ave 3"
 	],
@@ -21648,8 +21654,8 @@
 		"S'goon Ave 3"
 	],
 	"66421": [
-		103.87341,
-		1.37366,
+		103.87357,
+		1.37356,
 		"Blk 537",
 		"S'goon Nth Ave 4"
 	],
@@ -21762,8 +21768,8 @@
 		"S'goon Nth Ave 5"
 	],
 	"66539": [
-		103.87502,
-		1.375,
+		103.87491,
+		1.3751,
 		"Blk 531",
 		"S'goon Nth Ave 5"
 	],
@@ -23202,14 +23208,14 @@
 		"MacPherson Rd"
 	],
 	"70151": [
-		103.88096,
-		1.32768,
+		103.88125,
+		1.32767,
 		"Aft Jln Anggerek",
 		"Merpati Rd"
 	],
 	"70161": [
-		103.88325,
-		1.32759,
+		103.88248,
+		1.3273,
 		"Opp Mattar Stn Exit A",
 		"Merpati Rd"
 	],
@@ -23386,6 +23392,12 @@
 		1.32623,
 		"MacPherson Stn Exit A",
 		"Circuit Link"
+	],
+	"70372": [
+		103.88844,
+		1.32622,
+		"MacPherson S41 Boarding",
+		"Circuit Rd"
 	],
 	"70379": [
 		103.88934,
@@ -24228,8 +24240,8 @@
 		"Tampines Ave 6"
 	],
 	"75269": [
-		103.93814,
-		1.35917,
+		103.93815,
+		1.3586,
 		"Blk 522 CP",
 		"Tampines Ave 6"
 	],
@@ -24588,8 +24600,8 @@
 		"Tampines St 82"
 	],
 	"76049": [
-		103.93633,
-		1.35118,
+		103.93644,
+		1.35145,
 		"Opp Blk 842C",
 		"Tampines St 82"
 	],
@@ -25920,8 +25932,8 @@
 		"Mountbatten Rd"
 	],
 	"80149": [
-		103.87981,
-		1.3075,
+		103.87966,
+		1.30755,
 		"S.A. Deaf",
 		"Mountbatten Rd"
 	],
@@ -26934,8 +26946,8 @@
 		"New Upp Changi Rd"
 	],
 	"84061": [
-		103.94223,
-		1.32585,
+		103.94194,
+		1.32577,
 		"The Tanamera Condo",
 		"New Upp Changi Rd"
 	],
@@ -27602,7 +27614,7 @@
 	"84681": [
 		103.94706,
 		1.32022,
-		"Blk 163",
+		"Blk 164",
 		"Bedok Sth Rd"
 	],
 	"84691": [
@@ -27716,13 +27728,13 @@
 	"85091": [
 		103.94636,
 		1.32755,
-		"Tanah Merah Stn Exit B",
+		"Tanah Merah Stn Exit 2",
 		"New Upp Changi Rd"
 	],
 	"85099": [
 		103.94646,
 		1.32684,
-		"Tanah Merah Stn Exit A",
+		"Tanah Merah Stn Exit 1",
 		"New Upp Changi Rd"
 	],
 	"85101": [
@@ -28464,8 +28476,8 @@
 		"Upp East Coast Rd"
 	],
 	"94049": [
-		103.94482,
-		1.31616,
+		103.94483,
+		1.31623,
 		"Aft Bedok Sth Ave 3",
 		"Upp East Coast Rd"
 	],
@@ -28992,8 +29004,8 @@
 		"Xilin Ave"
 	],
 	"96249": [
-		103.96653,
-		1.32824,
+		103.96683,
+		1.32796,
 		"Builders Ctr",
 		"Xilin Ave"
 	],
@@ -29478,8 +29490,8 @@
 		"Loyang Ave"
 	],
 	"98061": [
-		103.97717,
-		1.37653,
+		103.97679,
+		1.37641,
 		"Opp Engine Test Facility",
 		"Loyang Ave"
 	],
@@ -30036,14 +30048,14 @@
 		"Rochor Rd"
 	],
 	"01549": [
-		103.85873,
-		1.3007,
+		103.85856,
+		1.30069,
 		"Opp Duo Residences",
 		"Ophir Rd"
 	],
 	"01559": [
-		103.85753,
-		1.30169,
+		103.85746,
+		1.30162,
 		"Village Hotel Bugis",
 		"Ophir Rd"
 	],
@@ -30094,12 +30106,6 @@
 		1.29452,
 		"Raffles Hotel",
 		"Bras Basah Rd"
-	],
-	"02051": [
-		103.85903,
-		1.2895,
-		"The Float @ Marina Bay",
-		"Raffles Ave"
 	],
 	"02061": [
 		103.85652,
@@ -30248,7 +30254,7 @@
 	"03218": [
 		103.84687,
 		1.27408,
-		"Opp MAS Bldg",
+		"Prince Edward Rd Stn Exit 2",
 		"Shenton Way"
 	],
 	"03222": [
@@ -30428,7 +30434,7 @@
 	"04143": [
 		103.85021,
 		1.29412,
-		"Stamford Ct",
+		"Bef Stamford Rd",
 		"Hill St"
 	],
 	"04149": [
@@ -30534,8 +30540,8 @@
 		"Clemenceau Ave"
 	],
 	"04331": [
-		103.84504,
-		1.29184,
+		103.84496,
+		1.29198,
 		"Bef Fort Canning Stn",
 		"River Valley Rd"
 	],
@@ -30690,8 +30696,8 @@
 		"Tg Pagar Rd"
 	],
 	"05431": [
-		103.84205,
-		1.27408,
+		103.84185,
+		1.27404,
 		"Aft Tanjong Pagar Rd",
 		"Hoe Chiang Rd"
 	],
@@ -30726,8 +30732,8 @@
 		"Cantonment Link"
 	],
 	"05641": [
-		103.84141,
-		1.27272,
+		103.84135,
+		1.27261,
 		"Bef Cantonment Rd",
 		"Keppel Rd"
 	],
@@ -30854,7 +30860,7 @@
 	"06189": [
 		103.84329,
 		1.28779,
-		"Ctrl Sq",
+		"Aft Solomon St",
 		"Havelock Rd"
 	],
 	"07011": [
@@ -30983,9 +30989,15 @@
 		"Opp NAFA Campus 3",
 		"Bencoolen St"
 	],
+	"07522": [
+		103.85562,
+		1.30475,
+		"Jalan Besar S42 Boarding",
+		"Weld Rd"
+	],
 	"07529": [
-		103.85502,
-		1.30432,
+		103.85479,
+		1.30453,
 		"Jln Besar Stn Exit A",
 		"Jln Besar"
 	],
@@ -31008,8 +31020,8 @@
 		"Rochor Rd"
 	],
 	"07561": [
-		103.85268,
-		1.29945,
+		103.85272,
+		1.2995,
 		"Bef Waterloo St",
 		"Middle Rd"
 	],
@@ -31020,8 +31032,8 @@
 		"Middle Rd"
 	],
 	"07571": [
-		103.85114,
-		1.30063,
+		103.85117,
+		1.30069,
 		"Sunshine Plaza",
 		"Middle Rd"
 	],

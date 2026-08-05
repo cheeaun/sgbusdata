@@ -1,0 +1,20 @@
+[
+	{
+		"name": "From Bet Blks 405/406 to Bef Khatib Stn",
+		"stops": [
+			"59591",
+			"59811",
+			"59779",
+			"59041"
+		]
+	},
+	{
+		"name": "From Opp Khatib Stn to Opp Blk 406",
+		"stops": [
+			"59049",
+			"59771",
+			"59819",
+			"59599"
+		]
+	}
+]
