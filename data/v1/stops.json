@@ -156,8 +156,8 @@
 		"Tiong Bahru Rd"
 	],
 	"10149": [
-		103.83283,
-		1.28607,
+		103.83299,
+		1.28601,
 		"Blk 1",
 		"Tiong Bahru Rd"
 	],
@@ -174,8 +174,8 @@
 		"Tiong Bahru Rd"
 	],
 	"10169": [
-		103.82748,
-		1.286,
+		103.82756,
+		1.28597,
 		"Tiong Bahru Stn/Plaza",
 		"Tiong Bahru Rd"
 	],
@@ -1446,8 +1446,8 @@
 		"River Valley Rd"
 	],
 	"13071": [
-		103.83294,
-		1.29634,
+		103.83306,
+		1.29637,
 		"Great World Stn Exit 5",
 		"River Valley Rd"
 	],
@@ -1458,8 +1458,8 @@
 		"River Valley Rd"
 	],
 	"13081": [
-		103.83624,
-		1.29591,
+		103.83625,
+		1.29588,
 		"St. Thomas Wk",
 		"River Valley Rd"
 	],
@@ -1470,8 +1470,8 @@
 		"River Valley Rd"
 	],
 	"13091": [
-		103.83938,
-		1.29593,
+		103.83935,
+		1.29587,
 		"Aft Kim Yam Rd",
 		"River Valley Rd"
 	],
@@ -12738,8 +12738,8 @@
 		"Woodlands Ave 1"
 	],
 	"46359": [
-		103.78299,
-		1.43083,
+		103.78335,
+		1.43095,
 		"Aft Blk 336",
 		"Woodlands Ave 1"
 	],
@@ -16098,8 +16098,8 @@
 		"Ang Mo Kio Ave 3"
 	],
 	"54291": [
-		103.85886,
-		1.36919,
+		103.85855,
+		1.36931,
 		"Blk 564",
 		"Ang Mo Kio Ave 3"
 	],
@@ -17849,6 +17849,12 @@
 		"Blk 767",
 		"Yishun Ave 2"
 	],
+	"58999": [
+		103.83516,
+		1.42383,
+		"Blk 936 CP",
+		"Yishun Ave 2"
+	],
 	"59009": [
 		103.8361,
 		1.4284,
@@ -19122,8 +19128,8 @@
 		"Upp Paya Lebar Rd"
 	],
 	"62029": [
-		103.88273,
-		1.34411,
+		103.88272,
+		1.3441,
 		"Paya Lebar Gdns",
 		"Upp Paya Lebar Rd"
 	],
@@ -19147,7 +19153,7 @@
 	],
 	"62049": [
 		103.88038,
-		1.34867,
+		1.34871,
 		"Aft Paya Lebar Cres",
 		"Upp Paya Lebar Rd"
 	],
@@ -20508,8 +20514,8 @@
 		"Punggol Rd"
 	],
 	"65041": [
-		103.90166,
-		1.38987,
+		103.90163,
+		1.38988,
 		"Blk 231",
 		"Punggol Rd"
 	],
@@ -23280,8 +23286,8 @@
 		"Paya Lebar Rd"
 	],
 	"70261": [
-		103.88963,
-		1.32884,
+		103.88969,
+		1.329,
 		"Opp Orion @ Paya Lebar",
 		"Paya Lebar Rd"
 	],
@@ -23304,8 +23310,8 @@
 		"Paya Lebar Rd"
 	],
 	"70281": [
-		103.88797,
-		1.33545,
+		103.888,
+		1.33549,
 		"Aft Tai Seng Stn",
 		"Upp Paya Lebar Rd"
 	],
@@ -23448,8 +23454,8 @@
 		"Airport Rd"
 	],
 	"71049": [
-		103.89882,
-		1.34609,
+		103.89885,
+		1.34611,
 		"Air Force Museum",
 		"Airport Rd"
 	],
@@ -23604,8 +23610,8 @@
 		"Airport Rd"
 	],
 	"71179": [
-		103.89238,
-		1.33468,
+		103.89117,
+		1.33418,
 		"Aft SCDF HQ",
 		"Airport Rd"
 	],
@@ -23616,8 +23622,8 @@
 		"Airport Rd"
 	],
 	"71189": [
-		103.89909,
-		1.34494,
+		103.89915,
+		1.34491,
 		"Paya Lebar Air Base",
 		"Airport Rd"
 	],
@@ -24024,8 +24030,8 @@
 		"Tampines Street 86"
 	],
 	"75051": [
-		103.94008,
-		1.34503,
+		103.94019,
+		1.34502,
 		"Tampines West Stn Exit B",
 		"Tampines Ave 1"
 	],
@@ -25944,8 +25950,8 @@
 		"Nicoll Highway"
 	],
 	"80159": [
-		103.85795,
-		1.29596,
+		103.85716,
+		1.29492,
 		"Suntec City",
 		"Nicoll Highway"
 	],
@@ -26358,14 +26364,14 @@
 		"Changi Rd"
 	],
 	"82051": [
-		103.8974,
-		1.3008,
+		103.89736,
+		1.30022,
 		"Aft Tg Katong Stn Exit 2",
 		"Tg Katong Rd Sth"
 	],
 	"82059": [
-		103.8974,
-		1.30138,
+		103.89746,
+		1.30124,
 		"Bef Tg Katong Stn Exit 3",
 		"Tg Katong Rd Sth"
 	],
@@ -28152,7 +28158,7 @@
 		"Marine Cres"
 	],
 	"92241": [
-		103.90095,
+		103.90102,
 		1.30178,
 		"Amber Gdns",
 		"Amber Rd"
@@ -28542,8 +28548,8 @@
 		"Airport Blvd"
 	],
 	"95029": [
-		103.99076,
-		1.36111,
+		103.99081,
+		1.36106,
 		"Changi Airport Ter 1",
 		"PTB1 Basement"
 	],
@@ -28620,14 +28626,14 @@
 		"Nicoll Dr"
 	],
 	"95109": [
-		103.98716,
-		1.35738,
+		103.98708,
+		1.35743,
 		"Changi Airport Ter 3",
 		"PTB3 Basement"
 	],
 	"95129": [
-		103.98864,
-		1.35533,
+		103.98861,
+		1.35535,
 		"Changi Airport Ter 2",
 		"PTB2 Basement"
 	],
@@ -29106,8 +29112,8 @@
 		"Changi Sth Ave 2"
 	],
 	"96341": [
-		103.97038,
-		1.33277,
+		103.97039,
+		1.33294,
 		"Aft Sunny Metal & Engrg",
 		"Changi Sth Ave 2"
 	],
@@ -30132,8 +30138,8 @@
 		"Esplanade Dr"
 	],
 	"02119": [
-		103.85534,
-		1.29184,
+		103.85531,
+		1.29192,
 		"Opp War Memorial Pk",
 		"Nicoll Highway"
 	],
@@ -30144,8 +30150,8 @@
 		"Temasek Blvd"
 	],
 	"02149": [
-		103.85956,
-		1.2956,
+		103.85951,
+		1.29562,
 		"Suntec Twr Three",
 		"Temasek Blvd"
 	],
@@ -30162,8 +30168,8 @@
 		"Temasek Blvd"
 	],
 	"02161": [
-		103.86093,
-		1.29269,
+		103.86088,
+		1.29278,
 		"Aft Promenade Stn Exit C",
 		"Temasek Ave"
 	],
@@ -30672,8 +30678,8 @@
 		"Church St"
 	],
 	"05411": [
-		103.84309,
-		1.27519,
+		103.84314,
+		1.27535,
 		"Tg Pagar Plaza",
 		"Tg Pagar Rd"
 	],
