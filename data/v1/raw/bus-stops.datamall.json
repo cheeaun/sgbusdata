@@ -332,8 +332,8 @@
 		"BusStopCode": "02119",
 		"RoadName": "Nicoll Highway",
 		"Description": "Opp War Memorial Pk",
-		"Latitude": 1.29184407356581,
-		"Longitude": 103.85534334305085
+		"Latitude": 1.29192,
+		"Longitude": 103.855306
 	},
 	{
 		"BusStopCode": "02141",
@@ -346,8 +346,8 @@
 		"BusStopCode": "02149",
 		"RoadName": "Temasek Blvd",
 		"Description": "Suntec Twr Three",
-		"Latitude": 1.29560459817725,
-		"Longitude": 103.85955533029184
+		"Latitude": 1.2956235,
+		"Longitude": 103.8595065
 	},
 	{
 		"BusStopCode": "02151",
@@ -367,8 +367,8 @@
 		"BusStopCode": "02161",
 		"RoadName": "Temasek Ave",
 		"Description": "Aft Promenade Stn Exit C",
-		"Latitude": 1.29268553508737,
-		"Longitude": 103.86093156188176
+		"Latitude": 1.2927795,
+		"Longitude": 103.860879
 	},
 	{
 		"BusStopCode": "02169",
@@ -962,8 +962,8 @@
 		"BusStopCode": "05411",
 		"RoadName": "Tg Pagar Rd",
 		"Description": "Tg Pagar Plaza",
-		"Latitude": 1.27519165673078,
-		"Longitude": 103.84309190393883
+		"Latitude": 1.2753515,
+		"Longitude": 103.843144
 	},
 	{
 		"BusStopCode": "05419",
@@ -1809,8 +1809,8 @@
 		"BusStopCode": "10149",
 		"RoadName": "Tiong Bahru Rd",
 		"Description": "Blk 1",
-		"Latitude": 1.28606797463712,
-		"Longitude": 103.83283384311112
+		"Latitude": 1.286015,
+		"Longitude": 103.832988
 	},
 	{
 		"BusStopCode": "10151",
@@ -1830,8 +1830,8 @@
 		"BusStopCode": "10169",
 		"RoadName": "Tiong Bahru Rd",
 		"Description": "Tiong Bahru Stn/Plaza",
-		"Latitude": 1.28599961406266,
-		"Longitude": 103.82748123930962
+		"Latitude": 1.285965,
+		"Longitude": 103.82756
 	},
 	{
 		"BusStopCode": "10171",
@@ -3314,8 +3314,8 @@
 		"BusStopCode": "13071",
 		"RoadName": "River Valley Rd",
 		"Description": "Great World Stn Exit 5",
-		"Latitude": 1.296335,
-		"Longitude": 103.832936
+		"Latitude": 1.296373,
+		"Longitude": 103.833056
 	},
 	{
 		"BusStopCode": "13079",
@@ -3328,8 +3328,8 @@
 		"BusStopCode": "13081",
 		"RoadName": "River Valley Rd",
 		"Description": "St. Thomas Wk",
-		"Latitude": 1.2959113890106,
-		"Longitude": 103.83624277798825
+		"Latitude": 1.295875,
+		"Longitude": 103.836253
 	},
 	{
 		"BusStopCode": "13089",
@@ -3342,8 +3342,8 @@
 		"BusStopCode": "13091",
 		"RoadName": "River Valley Rd",
 		"Description": "Aft Kim Yam Rd",
-		"Latitude": 1.29593138900491,
-		"Longitude": 103.83937805601917
+		"Latitude": 1.295871,
+		"Longitude": 103.839349
 	},
 	{
 		"BusStopCode": "13099",
@@ -16488,8 +16488,8 @@
 		"BusStopCode": "46359",
 		"RoadName": "Woodlands Ave 1",
 		"Description": "Aft Blk 336",
-		"Latitude": 1.43082500006702,
-		"Longitude": 103.7829908333452
+		"Latitude": 1.430947,
+		"Longitude": 103.783354
 	},
 	{
 		"BusStopCode": "46361",
@@ -20408,8 +20408,8 @@
 		"BusStopCode": "54291",
 		"RoadName": "Ang Mo Kio Ave 3",
 		"Description": "Blk 564",
-		"Latitude": 1.36918861426324,
-		"Longitude": 103.85886147831553
+		"Latitude": 1.3693065,
+		"Longitude": 103.858548
 	},
 	{
 		"BusStopCode": "54299",
@@ -22449,6 +22449,13 @@
 		"Longitude": 103.8350086
 	},
 	{
+		"BusStopCode": "58999",
+		"RoadName": "Yishun Ave 2",
+		"Description": "Blk 936 CP",
+		"Latitude": 1.423825,
+		"Longitude": 103.8351593
+	},
+	{
 		"BusStopCode": "59009",
 		"RoadName": "Yishun Ave 2",
 		"Description": "Yishun Int",
@@ -23936,8 +23943,8 @@
 		"BusStopCode": "62029",
 		"RoadName": "Upp Paya Lebar Rd",
 		"Description": "Paya Lebar Gdns",
-		"Latitude": 1.34411328094155,
-		"Longitude": 103.88273473175272
+		"Latitude": 1.3441045,
+		"Longitude": 103.8827165
 	},
 	{
 		"BusStopCode": "62031",
@@ -23964,8 +23971,8 @@
 		"BusStopCode": "62049",
 		"RoadName": "Upp Paya Lebar Rd",
 		"Description": "Aft Paya Lebar Cres",
-		"Latitude": 1.34904000002665,
-		"Longitude": 103.88022749996824
+		"Latitude": 1.348714,
+		"Longitude": 103.8803845
 	},
 	{
 		"BusStopCode": "62051",
@@ -25553,8 +25560,8 @@
 		"BusStopCode": "65041",
 		"RoadName": "Punggol Rd",
 		"Description": "Blk 231",
-		"Latitude": 1.38984412426173,
-		"Longitude": 103.90162265734195
+		"Latitude": 1.389877,
+		"Longitude": 103.901631
 	},
 	{
 		"BusStopCode": "65049",
@@ -28787,8 +28794,8 @@
 		"BusStopCode": "70261",
 		"RoadName": "Paya Lebar Rd",
 		"Description": "Opp Orion @ Paya Lebar",
-		"Latitude": 1.32884296980066,
-		"Longitude": 103.88962746952593
+		"Latitude": 1.328998,
+		"Longitude": 103.889692
 	},
 	{
 		"BusStopCode": "70269",
@@ -28815,8 +28822,8 @@
 		"BusStopCode": "70281",
 		"RoadName": "Upp Paya Lebar Rd",
 		"Description": "Aft Tai Seng Stn",
-		"Latitude": 1.335453,
-		"Longitude": 103.887968
+		"Latitude": 1.3354935,
+		"Longitude": 103.8879965
 	},
 	{
 		"BusStopCode": "70289",
@@ -28983,8 +28990,8 @@
 		"BusStopCode": "71049",
 		"RoadName": "Airport Rd",
 		"Description": "Air Force Museum",
-		"Latitude": 1.34609209274348,
-		"Longitude": 103.89881549663342
+		"Latitude": 1.3461065,
+		"Longitude": 103.898851
 	},
 	{
 		"BusStopCode": "71051",
@@ -29165,8 +29172,8 @@
 		"BusStopCode": "71179",
 		"RoadName": "Airport Rd",
 		"Description": "Aft SCDF HQ",
-		"Latitude": 1.3346773011372,
-		"Longitude": 103.89238294056769
+		"Latitude": 1.334175,
+		"Longitude": 103.891169
 	},
 	{
 		"BusStopCode": "71181",
@@ -29179,8 +29186,8 @@
 		"BusStopCode": "71189",
 		"RoadName": "Airport Rd",
 		"Description": "Paya Lebar Air Base",
-		"Latitude": 1.34494057674135,
-		"Longitude": 103.89909457528678
+		"Latitude": 1.344908,
+		"Longitude": 103.8991505
 	},
 	{
 		"BusStopCode": "71191",
@@ -29655,8 +29662,8 @@
 		"BusStopCode": "75051",
 		"RoadName": "Tampines Ave 1",
 		"Description": "Tampines West Stn Exit B",
-		"Latitude": 1.34503394154132,
-		"Longitude": 103.94008153173421
+		"Latitude": 1.3450165,
+		"Longitude": 103.940188
 	},
 	{
 		"BusStopCode": "75059",
@@ -31895,8 +31902,8 @@
 		"BusStopCode": "80159",
 		"RoadName": "Nicoll Highway",
 		"Description": "Suntec City",
-		"Latitude": 1.295962316986,
-		"Longitude": 103.85795174896221
+		"Latitude": 1.294924,
+		"Longitude": 103.857158
 	},
 	{
 		"BusStopCode": "80161",
@@ -32378,15 +32385,15 @@
 		"BusStopCode": "82051",
 		"RoadName": "Tg Katong Rd Sth",
 		"Description": "Aft Tg Katong Stn Exit 2",
-		"Latitude": 1.30079999936599,
-		"Longitude": 103.89740107761654
+		"Latitude": 1.300222,
+		"Longitude": 103.897362
 	},
 	{
 		"BusStopCode": "82059",
 		"RoadName": "Tg Katong Rd Sth",
 		"Description": "Bef Tg Katong Stn Exit 3",
-		"Latitude": 1.301379,
-		"Longitude": 103.897403
+		"Latitude": 1.301242,
+		"Longitude": 103.8974605
 	},
 	{
 		"BusStopCode": "82061",
@@ -34471,8 +34478,8 @@
 		"BusStopCode": "92241",
 		"RoadName": "Amber Rd",
 		"Description": "Amber Gdns",
-		"Latitude": 1.30178441800843,
-		"Longitude": 103.9009525469614
+		"Latitude": 1.301778,
+		"Longitude": 103.901024
 	},
 	{
 		"BusStopCode": "92249",
@@ -34926,8 +34933,8 @@
 		"BusStopCode": "95029",
 		"RoadName": "PTB1 Basement",
 		"Description": "Changi Airport Ter 1",
-		"Latitude": 1.361112,
-		"Longitude": 103.990755
+		"Latitude": 1.361057,
+		"Longitude": 103.990812
 	},
 	{
 		"BusStopCode": "95039",
@@ -35017,15 +35024,15 @@
 		"BusStopCode": "95109",
 		"RoadName": "PTB3 Basement",
 		"Description": "Changi Airport Ter 3",
-		"Latitude": 1.3573765,
-		"Longitude": 103.987161
+		"Latitude": 1.357429,
+		"Longitude": 103.987082
 	},
 	{
 		"BusStopCode": "95129",
 		"RoadName": "PTB2 Basement",
 		"Description": "Changi Airport Ter 2",
-		"Latitude": 1.355328,
-		"Longitude": 103.9886445
+		"Latitude": 1.355348,
+		"Longitude": 103.9886095
 	},
 	{
 		"BusStopCode": "95131",
@@ -35584,8 +35591,8 @@
 		"BusStopCode": "96341",
 		"RoadName": "Changi Sth Ave 2",
 		"Description": "Aft Sunny Metal & Engrg",
-		"Latitude": 1.33276553471842,
-		"Longitude": 103.97037694441909
+		"Latitude": 1.332935,
+		"Longitude": 103.970388
 	},
 	{
 		"BusStopCode": "96351",

@@ -6160,8 +6160,8 @@
 		"wab": "true",
 		"details": "Opp War Memorial Pk",
 		"coordinates": {
-			"lat": 1.29184407356581,
-			"long": 103.85534334305085
+			"lat": 1.29192,
+			"long": 103.855306
 		}
 	},
 	{
@@ -6178,8 +6178,8 @@
 		"wab": "true",
 		"details": "Suntec Twr Three",
 		"coordinates": {
-			"lat": 1.29560459817725,
-			"long": 103.85955533029184
+			"lat": 1.2956235,
+			"long": 103.8595065
 		}
 	},
 	{
@@ -6205,8 +6205,8 @@
 		"wab": "true",
 		"details": "Aft Promenade Stn Exit C",
 		"coordinates": {
-			"lat": 1.29268553508737,
-			"long": 103.86093156188176
+			"lat": 1.2927795,
+			"long": 103.860879
 		}
 	},
 	{
@@ -6970,8 +6970,8 @@
 		"wab": "true",
 		"details": "Tg Pagar Plaza",
 		"coordinates": {
-			"lat": 1.27519165673078,
-			"long": 103.84309190393883
+			"lat": 1.2753515,
+			"long": 103.843144
 		}
 	},
 	{
@@ -8059,8 +8059,8 @@
 		"wab": "true",
 		"details": "Blk 1",
 		"coordinates": {
-			"lat": 1.28606797463712,
-			"long": 103.83283384311112
+			"lat": 1.286015,
+			"long": 103.832988
 		}
 	},
 	{
@@ -8086,8 +8086,8 @@
 		"wab": "true",
 		"details": "Tiong Bahru Stn/Plaza",
 		"coordinates": {
-			"lat": 1.28599961406266,
-			"long": 103.82748123930962
+			"lat": 1.285965,
+			"long": 103.82756
 		}
 	},
 	{
@@ -9994,8 +9994,8 @@
 		"wab": "true",
 		"details": "Great World Stn Exit 5",
 		"coordinates": {
-			"lat": 1.296335,
-			"long": 103.832936
+			"lat": 1.296373,
+			"long": 103.833056
 		}
 	},
 	{
@@ -10012,8 +10012,8 @@
 		"wab": "true",
 		"details": "St. Thomas Wk",
 		"coordinates": {
-			"lat": 1.2959113890106,
-			"long": 103.83624277798825
+			"lat": 1.295875,
+			"long": 103.836253
 		}
 	},
 	{
@@ -10030,8 +10030,8 @@
 		"wab": "true",
 		"details": "Aft Kim Yam Rd",
 		"coordinates": {
-			"lat": 1.29593138900491,
-			"long": 103.83937805601917
+			"lat": 1.295871,
+			"long": 103.839349
 		}
 	},
 	{
@@ -26932,8 +26932,8 @@
 		"wab": "true",
 		"details": "Aft Blk 336",
 		"coordinates": {
-			"lat": 1.43082500006702,
-			"long": 103.7829908333452
+			"lat": 1.430947,
+			"long": 103.783354
 		}
 	},
 	{
@@ -31972,8 +31972,8 @@
 		"wab": "true",
 		"details": "Blk 564",
 		"coordinates": {
-			"lat": 1.36918861426324,
-			"long": 103.85886147831553
+			"lat": 1.3693065,
+			"long": 103.858548
 		}
 	},
 	{
@@ -34596,6 +34596,15 @@
 		}
 	},
 	{
+		"name": "58999",
+		"wab": "true",
+		"details": "Blk 936 CP",
+		"coordinates": {
+			"lat": 1.423825,
+			"long": 103.8351593
+		}
+	},
+	{
 		"name": "59009",
 		"wab": "true",
 		"details": "Yishun Int",
@@ -36508,8 +36517,8 @@
 		"wab": "true",
 		"details": "Paya Lebar Gdns",
 		"coordinates": {
-			"lat": 1.34411328094155,
-			"long": 103.88273473175272
+			"lat": 1.3441045,
+			"long": 103.8827165
 		}
 	},
 	{
@@ -36544,8 +36553,8 @@
 		"wab": "true",
 		"details": "Aft Paya Lebar Cres",
 		"coordinates": {
-			"lat": 1.348671,
-			"long": 103.8803835
+			"lat": 1.348714,
+			"long": 103.8803845
 		}
 	},
 	{
@@ -38587,8 +38596,8 @@
 		"wab": "true",
 		"details": "Blk 231",
 		"coordinates": {
-			"lat": 1.3898715,
-			"long": 103.9016635
+			"lat": 1.389877,
+			"long": 103.901631
 		}
 	},
 	{
@@ -42745,8 +42754,8 @@
 		"wab": "true",
 		"details": "Opp Orion @ Paya Lebar",
 		"coordinates": {
-			"lat": 1.32884296980066,
-			"long": 103.88962746952593
+			"lat": 1.328998,
+			"long": 103.889692
 		}
 	},
 	{
@@ -42781,8 +42790,8 @@
 		"wab": "true",
 		"details": "Aft Tai Seng Stn",
 		"coordinates": {
-			"lat": 1.335453,
-			"long": 103.887968
+			"lat": 1.3354935,
+			"long": 103.8879965
 		}
 	},
 	{
@@ -42997,8 +43006,8 @@
 		"wab": "true",
 		"details": "Air Force Museum",
 		"coordinates": {
-			"lat": 1.34609209274348,
-			"long": 103.89881549663342
+			"lat": 1.3461065,
+			"long": 103.898851
 		}
 	},
 	{
@@ -43231,8 +43240,8 @@
 		"wab": "true",
 		"details": "Aft SCDF HQ",
 		"coordinates": {
-			"lat": 1.3346773011372,
-			"long": 103.89238294056769
+			"lat": 1.334175,
+			"long": 103.891169
 		}
 	},
 	{
@@ -43249,8 +43258,8 @@
 		"wab": "true",
 		"details": "Paya Lebar Air Base",
 		"coordinates": {
-			"lat": 1.34494057674135,
-			"long": 103.89909457528678
+			"lat": 1.344908,
+			"long": 103.8991505
 		}
 	},
 	{
@@ -43861,8 +43870,8 @@
 		"wab": "true",
 		"details": "Tampines West Stn Exit B",
 		"coordinates": {
-			"lat": 1.34503394154132,
-			"long": 103.94008153173421
+			"lat": 1.3450165,
+			"long": 103.940188
 		}
 	},
 	{
@@ -46741,8 +46750,8 @@
 		"wab": "true",
 		"details": "Suntec City",
 		"coordinates": {
-			"lat": 1.295962316986,
-			"long": 103.85795174896221
+			"lat": 1.294924,
+			"long": 103.857158
 		}
 	},
 	{
@@ -47362,8 +47371,8 @@
 		"wab": "true",
 		"details": "Aft Tg Katong Stn Exit 2",
 		"coordinates": {
-			"lat": 1.30079999936599,
-			"long": 103.89740107761654
+			"lat": 1.300222,
+			"long": 103.897362
 		}
 	},
 	{
@@ -47371,8 +47380,8 @@
 		"wab": "true",
 		"details": "Bef Tg Katong Stn Exit 3",
 		"coordinates": {
-			"lat": 1.301379,
-			"long": 103.897403
+			"lat": 1.301242,
+			"long": 103.8974605
 		}
 	},
 	{
@@ -50053,8 +50062,8 @@
 		"wab": "true",
 		"details": "Amber Gdns",
 		"coordinates": {
-			"lat": 1.30178441800843,
-			"long": 103.9009525469614
+			"lat": 1.301778,
+			"long": 103.901024
 		}
 	},
 	{
@@ -50638,8 +50647,8 @@
 		"wab": "true",
 		"details": "Changi Airport Ter 1",
 		"coordinates": {
-			"lat": 1.361112,
-			"long": 103.990755
+			"lat": 1.361057,
+			"long": 103.990812
 		}
 	},
 	{
@@ -50755,8 +50764,8 @@
 		"wab": "true",
 		"details": "Changi Airport Ter 3",
 		"coordinates": {
-			"lat": 1.3573765,
-			"long": 103.987161
+			"lat": 1.357429,
+			"long": 103.987082
 		}
 	},
 	{
@@ -50764,8 +50773,8 @@
 		"wab": "true",
 		"details": "Changi Airport Ter 2",
 		"coordinates": {
-			"lat": 1.355328,
-			"long": 103.9886445
+			"lat": 1.355348,
+			"long": 103.9886095
 		}
 	},
 	{
@@ -51484,8 +51493,8 @@
 		"wab": "true",
 		"details": "Aft Sunny Metal & Engrg",
 		"coordinates": {
-			"lat": 1.33276553471842,
-			"long": 103.97037694441909
+			"lat": 1.332935,
+			"long": 103.970388
 		}
 	},
 	{
