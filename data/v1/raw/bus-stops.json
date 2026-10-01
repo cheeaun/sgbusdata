@@ -36,15 +36,6 @@
 		}
 	},
 	{
-		"name": "-P116",
-		"wab": "true",
-		"details": "Esplanade Bridge",
-		"coordinates": {
-			"lat": 1.29095592348389,
-			"long": 103.85453419435228
-		}
-	},
-	{
 		"name": "-P117",
 		"wab": "true",
 		"details": "Opp War Memorial Pk",
@@ -834,60 +825,6 @@
 		"coordinates": {
 			"lat": 1.386714167,
 			"long": 103.7630575
-		}
-	},
-	{
-		"name": "-P389",
-		"wab": "true",
-		"details": "Bef Kim Keat Lane",
-		"coordinates": {
-			"lat": 1.324560661,
-			"long": 103.8532662
-		}
-	},
-	{
-		"name": "-P390",
-		"wab": "true",
-		"details": "Opp Balestier Pt",
-		"coordinates": {
-			"lat": 1.323069687,
-			"long": 103.8525671
-		}
-	},
-	{
-		"name": "-P391",
-		"wab": "true",
-		"details": "Bef Blk 104",
-		"coordinates": {
-			"lat": 1.321438059,
-			"long": 103.8530378
-		}
-	},
-	{
-		"name": "-P393",
-		"wab": "true",
-		"details": "Opp NKF",
-		"coordinates": {
-			"lat": 1.326523285,
-			"long": 103.8548891
-		}
-	},
-	{
-		"name": "-P402",
-		"wab": "true",
-		"details": "Blk 102",
-		"coordinates": {
-			"lat": 1.32830186081857,
-			"long": 103.850828688685
-		}
-	},
-	{
-		"name": "-P403",
-		"wab": "true",
-		"details": "Blk 105",
-		"coordinates": {
-			"lat": 1.328186667,
-			"long": 103.8539267
 		}
 	},
 	{
@@ -1779,24 +1716,6 @@
 		"coordinates": {
 			"lat": 1.39071731059511,
 			"long": 103.888534588998
-		}
-	},
-	{
-		"name": "-P733",
-		"wab": "true",
-		"details": "Blk 317B",
-		"coordinates": {
-			"lat": 1.394243778,
-			"long": 103.888691
-		}
-	},
-	{
-		"name": "-P735",
-		"wab": "true",
-		"details": "Blk 325 CP",
-		"coordinates": {
-			"lat": 1.39385006,
-			"long": 103.8916701
 		}
 	},
 	{
@@ -2963,7 +2882,7 @@
 	{
 		"name": "-PJ17",
 		"wab": "true",
-		"details": "Opp The Gateway",
+		"details": "DUO",
 		"coordinates": {
 			"lat": 1.29919826,
 			"long": 103.85864518
@@ -3066,24 +2985,6 @@
 		"coordinates": {
 			"lat": 1.34986941891093,
 			"long": 103.93426738811776
-		}
-	},
-	{
-		"name": "-PS13",
-		"wab": "true",
-		"details": "Outram Pk Stn Exit 1",
-		"coordinates": {
-			"lat": 1.28177041153491,
-			"long": 103.8383828488293
-		}
-	},
-	{
-		"name": "-PS14",
-		"wab": "true",
-		"details": "Blk 1G",
-		"coordinates": {
-			"lat": 1.27553472200739,
-			"long": 103.841126944004
 		}
 	},
 	{
@@ -4122,24 +4023,6 @@
 		}
 	},
 	{
-		"name": "-Z454",
-		"wab": "true",
-		"details": "Opposite Lamp Post 13",
-		"coordinates": {
-			"lat": 1.3281431,
-			"long": 103.8475491
-		}
-	},
-	{
-		"name": "-Z458",
-		"wab": "true",
-		"details": "Opp Hockey Stadium",
-		"coordinates": {
-			"lat": 1.39453173263855,
-			"long": 103.88638158806592
-		}
-	},
-	{
 		"name": "-Z460",
 		"wab": "true",
 		"details": "Blk 436A",
@@ -4200,6 +4083,15 @@
 		"coordinates": {
 			"lat": 1.39031592590382,
 			"long": 103.91294236527155
+		}
+	},
+	{
+		"name": "-Z500",
+		"wab": "true",
+		"details": "Aft Enggor St",
+		"coordinates": {
+			"lat": 1.27456,
+			"long": 103.84537
 		}
 	},
 	{
@@ -4509,78 +4401,6 @@
 		}
 	},
 	{
-		"name": "-Z651",
-		"wab": "true",
-		"details": "Along the road outside EASB",
-		"coordinates": {
-			"lat": 1.3276217,
-			"long": 103.8457585
-		}
-	},
-	{
-		"name": "-Z652",
-		"wab": "true",
-		"details": "Blk 114",
-		"coordinates": {
-			"lat": 1.32531992,
-			"long": 103.85731929
-		}
-	},
-	{
-		"name": "-Z653",
-		"wab": "true",
-		"details": "Blk 29",
-		"coordinates": {
-			"lat": 1.32544667,
-			"long": 103.85938111
-		}
-	},
-	{
-		"name": "-Z654",
-		"wab": "true",
-		"details": "Blk 19",
-		"coordinates": {
-			"lat": 1.32721152,
-			"long": 103.85978762
-		}
-	},
-	{
-		"name": "-Z655",
-		"wab": "true",
-		"details": "Opp Blk 65",
-		"coordinates": {
-			"lat": 1.32782676,
-			"long": 103.85810762
-		}
-	},
-	{
-		"name": "-Z656",
-		"wab": "true",
-		"details": "Along the road opposite Genting Centre",
-		"coordinates": {
-			"lat": 1.273522,
-			"long": 103.842359
-		}
-	},
-	{
-		"name": "-Z657",
-		"wab": "true",
-		"details": "Along the road outside Singapore Land Tower",
-		"coordinates": {
-			"lat": 1.285056,
-			"long": 103.851819
-		}
-	},
-	{
-		"name": "-Z658",
-		"wab": "true",
-		"details": "Along the road outside Tan Ean Kiam Building",
-		"coordinates": {
-			"lat": 1.284572,
-			"long": 103.849775
-		}
-	},
-	{
 		"name": "-Z663",
 		"wab": "true",
 		"details": "Opp Palm Isles",
@@ -4680,57 +4500,12 @@
 		}
 	},
 	{
-		"name": "-Z680",
-		"wab": "true",
-		"details": "Opp Blk 322 CP",
-		"coordinates": {
-			"lat": 1.41060953,
-			"long": 103.8977217
-		}
-	},
-	{
 		"name": "-Z681",
 		"wab": "true",
 		"details": "Blk 315B",
 		"coordinates": {
 			"lat": 1.40804081,
 			"long": 103.8959312
-		}
-	},
-	{
-		"name": "-Z682",
-		"wab": "true",
-		"details": "Blk 227A",
-		"coordinates": {
-			"lat": 1.40374,
-			"long": 103.8933695
-		}
-	},
-	{
-		"name": "-Z683",
-		"wab": "true",
-		"details": "Blk 228B",
-		"coordinates": {
-			"lat": 1.403562,
-			"long": 103.8912
-		}
-	},
-	{
-		"name": "-Z684",
-		"wab": "true",
-		"details": "Blk 226A",
-		"coordinates": {
-			"lat": 1.4024,
-			"long": 103.8936
-		}
-	},
-	{
-		"name": "-Z685",
-		"wab": "true",
-		"details": "Aft Jln Kayu",
-		"coordinates": {
-			"lat": 1.39106694,
-			"long": 103.8706061
 		}
 	},
 	{
@@ -5364,24 +5139,6 @@
 		}
 	},
 	{
-		"name": "-Z805",
-		"wab": "true",
-		"details": "Blk 432A",
-		"coordinates": {
-			"lat": 1.360292,
-			"long": 103.743215
-		}
-	},
-	{
-		"name": "-Z806",
-		"wab": "true",
-		"details": "Blk 433C",
-		"coordinates": {
-			"lat": 1.36195561634293,
-			"long": 103.74177024979922
-		}
-	},
-	{
 		"name": "-Z811",
 		"wab": "true",
 		"details": "PUDO point outside Harbourfront Station Exit D",
@@ -5730,6 +5487,15 @@
 		"coordinates": {
 			"lat": 1.4047554,
 			"long": 103.7870151
+		}
+	},
+	{
+		"name": "-Z903",
+		"wab": "true",
+		"details": "Bef Blk 435A",
+		"coordinates": {
+			"lat": 1.359264,
+			"long": 103.741387
 		}
 	},
 	{
@@ -6117,6 +5883,15 @@
 		"coordinates": {
 			"lat": 1.29452091230981,
 			"long": 103.85402155505173
+		}
+	},
+	{
+		"name": "02051",
+		"wab": "true",
+		"details": "The Float @ Marina Bay",
+		"coordinates": {
+			"lat": 1.289503056,
+			"long": 103.8590339
 		}
 	},
 	{
@@ -6934,8 +6709,8 @@
 		"wab": "true",
 		"details": "Opp Maxwell Stn Exit 3",
 		"coordinates": {
-			"lat": 1.27979447837032,
-			"long": 103.84262707605177
+			"lat": 1.279736,
+			"long": 103.8427
 		}
 	},
 	{
@@ -7440,15 +7215,6 @@
 		"coordinates": {
 			"lat": 1.30095828368506,
 			"long": 103.85211175034802
-		}
-	},
-	{
-		"name": "07522",
-		"wab": "true",
-		"details": "Jalan Besar S42 Boarding",
-		"coordinates": {
-			"lat": 1.30475,
-			"long": 103.855619
 		}
 	},
 	{
@@ -13045,8 +12811,8 @@
 		"wab": "true",
 		"details": "Blk 411",
 		"coordinates": {
-			"lat": 1.31851137522994,
-			"long": 103.74640166581365
+			"lat": 1.3184165,
+			"long": 103.746512
 		}
 	},
 	{
@@ -13063,8 +12829,8 @@
 		"wab": "true",
 		"details": "Blk 35",
 		"coordinates": {
-			"lat": 1.31928347830225,
-			"long": 103.74251246450982
+			"lat": 1.319148,
+			"long": 103.742719
 		}
 	},
 	{
@@ -13162,8 +12928,8 @@
 		"wab": "true",
 		"details": "Bef Hasanah Mque",
 		"coordinates": {
-			"lat": 1.322329,
-			"long": 103.7396755
+			"lat": 1.322339,
+			"long": 103.739647
 		}
 	},
 	{
@@ -15538,8 +15304,8 @@
 		"wab": "true",
 		"details": "S'pore Discovery Ctr",
 		"coordinates": {
-			"lat": 1.330433728881,
-			"long": 103.67843466317231
+			"lat": 1.3303875,
+			"long": 103.678594
 		}
 	},
 	{
@@ -15799,8 +15565,8 @@
 		"wab": "true",
 		"details": "Keppel Logistics",
 		"coordinates": {
-			"lat": 1.30926499998419,
-			"long": 103.67491833296833
+			"lat": 1.3093,
+			"long": 103.6750325
 		}
 	},
 	{
@@ -15808,8 +15574,8 @@
 		"wab": "true",
 		"details": "Opp Keppel Logistics",
 		"coordinates": {
-			"lat": 1.309154,
-			"long": 103.675189
+			"lat": 1.3091795,
+			"long": 103.6749895
 		}
 	},
 	{
@@ -16141,8 +15907,8 @@
 		"wab": "true",
 		"details": "Joo Koon Stn Exit B",
 		"coordinates": {
-			"lat": 1.32792408366339,
-			"long": 103.67780864699097
+			"lat": 1.327885,
+			"long": 103.677849
 		}
 	},
 	{
@@ -16240,8 +16006,8 @@
 		"wab": "true",
 		"details": "Pasir Laba Camp",
 		"coordinates": {
-			"lat": 1.33094144977498,
-			"long": 103.67379074701834
+			"lat": 1.3309125,
+			"long": 103.6737755
 		}
 	},
 	{
@@ -16924,8 +16690,8 @@
 		"wab": "true",
 		"details": "Aft Tuas Sth Blvd",
 		"coordinates": {
-			"lat": 1.270007,
-			"long": 103.61725
+			"lat": 1.2700005,
+			"long": 103.617479
 		}
 	},
 	{
@@ -19246,8 +19012,8 @@
 		"wab": "true",
 		"details": "Opp Ng Teng Fong Gen Hosp",
 		"coordinates": {
-			"lat": 1.33228999677029,
-			"long": 103.74574002371804
+			"lat": 1.332415,
+			"long": 103.745637
 		}
 	},
 	{
@@ -20209,8 +19975,8 @@
 		"wab": "true",
 		"details": "Bef Penjuru Cl",
 		"coordinates": {
-			"lat": 1.3136694444723,
-			"long": 103.73497081366901
+			"lat": 1.313867,
+			"long": 103.734975
 		}
 	},
 	{
@@ -21528,6 +21294,15 @@
 		}
 	},
 	{
+		"name": "40319",
+		"wab": "true",
+		"details": "Blk 441A",
+		"coordinates": {
+			"lat": 1.3565835,
+			"long": 103.7393325
+		}
+	},
+	{
 		"name": "40321",
 		"wab": "true",
 		"details": "Dulwich College",
@@ -21694,8 +21469,8 @@
 		"wab": "true",
 		"details": "Blk 221B",
 		"coordinates": {
-			"lat": 1.35755,
-			"long": 103.7293
+			"lat": 1.3576545,
+			"long": 103.7292115
 		}
 	},
 	{
@@ -21748,8 +21523,8 @@
 		"wab": "true",
 		"details": "Blk 238",
 		"coordinates": {
-			"lat": 1.36187,
-			"long": 103.73349
+			"lat": 1.361914,
+			"long": 103.733399
 		}
 	},
 	{
@@ -21757,8 +21532,8 @@
 		"wab": "true",
 		"details": "Blk 324B",
 		"coordinates": {
-			"lat": 1.3622,
-			"long": 103.7335
+			"lat": 1.36213,
+			"long": 103.733535
 		}
 	},
 	{
@@ -23323,8 +23098,8 @@
 		"wab": "true",
 		"details": "Blk 242",
 		"coordinates": {
-			"lat": 1.35118101224765,
-			"long": 103.75622664327469
+			"lat": 1.3512355,
+			"long": 103.756353
 		}
 	},
 	{
@@ -23521,8 +23296,8 @@
 		"wab": "true",
 		"details": "Blk 510",
 		"coordinates": {
-			"lat": 1.35288,
-			"long": 103.755002
+			"lat": 1.352905,
+			"long": 103.7550445
 		}
 	},
 	{
@@ -23530,8 +23305,8 @@
 		"wab": "true",
 		"details": "Regent Hts",
 		"coordinates": {
-			"lat": 1.352775,
-			"long": 103.755295
+			"lat": 1.352709,
+			"long": 103.7552615
 		}
 	},
 	{
@@ -23566,8 +23341,8 @@
 		"wab": "true",
 		"details": "Bt Gombak Stadium",
 		"coordinates": {
-			"lat": 1.35741203899294,
-			"long": 103.75311063706323
+			"lat": 1.3573,
+			"long": 103.7531345
 		}
 	},
 	{
@@ -24259,8 +24034,8 @@
 		"wab": "true",
 		"details": "Blk 113",
 		"coordinates": {
-			"lat": 1.37769846227758,
-			"long": 103.75093552549583
+			"lat": 1.377619,
+			"long": 103.750861
 		}
 	},
 	{
@@ -24934,8 +24709,8 @@
 		"wab": "true",
 		"details": "Opp Choa Chu Kang Stn",
 		"coordinates": {
-			"lat": 1.38425405298158,
-			"long": 103.74453624872069
+			"lat": 1.3843775,
+			"long": 103.7446955
 		}
 	},
 	{
@@ -25429,8 +25204,8 @@
 		"wab": "true",
 		"details": "Opp Blk 816A",
 		"coordinates": {
-			"lat": 1.3755999743303,
-			"long": 103.74839851286828
+			"lat": 1.375525,
+			"long": 103.748328
 		}
 	},
 	{
@@ -35887,8 +35662,8 @@
 		"wab": "true",
 		"details": "Bef Yishun Ave 6",
 		"coordinates": {
-			"lat": 1.42301388896819,
-			"long": 103.85136389998303
+			"lat": 1.42284,
+			"long": 103.851137
 		}
 	},
 	{
@@ -38155,8 +37930,8 @@
 		"wab": "true",
 		"details": "Opp Punggol CC",
 		"coordinates": {
-			"lat": 1.37447444021165,
-			"long": 103.89289427356103
+			"lat": 1.37453017,
+			"long": 103.8928777
 		}
 	},
 	{
@@ -38164,8 +37939,8 @@
 		"wab": "true",
 		"details": "Punggol CC",
 		"coordinates": {
-			"lat": 1.37468500843171,
-			"long": 103.89266306129461
+			"lat": 1.374683,
+			"long": 103.892704
 		}
 	},
 	{
@@ -38173,8 +37948,8 @@
 		"wab": "true",
 		"details": "Hougang Stn Exit C",
 		"coordinates": {
-			"lat": 1.37288245131287,
-			"long": 103.89170384962591
+			"lat": 1.37299,
+			"long": 103.891721
 		}
 	},
 	{
@@ -40972,8 +40747,8 @@
 		"wab": "true",
 		"details": "Blk 203",
 		"coordinates": {
-			"lat": 1.38690839585967,
-			"long": 103.89618101813248
+			"lat": 1.386926667,
+			"long": 103.8962474
 		}
 	},
 	{
@@ -41071,8 +40846,8 @@
 		"wab": "true",
 		"details": "Blk 203B",
 		"coordinates": {
-			"lat": 1.3865874133088,
-			"long": 103.89464206866457
+			"lat": 1.38657611,
+			"long": 103.8946458
 		}
 	},
 	{
@@ -41080,8 +40855,8 @@
 		"wab": "true",
 		"details": "Opp Blk 203A",
 		"coordinates": {
-			"lat": 1.38605407647483,
-			"long": 103.89513364231524
+			"lat": 1.386147,
+			"long": 103.8951088
 		}
 	},
 	{
@@ -42921,15 +42696,6 @@
 		}
 	},
 	{
-		"name": "70372",
-		"wab": "true",
-		"details": "MacPherson S41 Boarding",
-		"coordinates": {
-			"lat": 1.326222,
-			"long": 103.888436
-		}
-	},
-	{
 		"name": "70379",
 		"wab": "true",
 		"details": "Opp MacPherson Stn Exit A",
@@ -43447,8 +43213,8 @@
 		"wab": "true",
 		"details": "Opp Kaki Bt Ind Est",
 		"coordinates": {
-			"lat": 1.33375833299433,
-			"long": 103.90428000002385
+			"lat": 1.333808,
+			"long": 103.904357
 		}
 	},
 	{
@@ -43564,8 +43330,8 @@
 		"wab": "true",
 		"details": "Opp HomeTeamNS",
 		"coordinates": {
-			"lat": 1.342473,
-			"long": 103.918486
+			"lat": 1.342458,
+			"long": 103.918549
 		}
 	},
 	{
@@ -44311,8 +44077,8 @@
 		"wab": "true",
 		"details": "Tampines Wafer Fab Pk",
 		"coordinates": {
-			"lat": 1.37364163782281,
-			"long": 103.93077504301999
+			"lat": 1.37333,
+			"long": 103.9305775
 		}
 	},
 	{
@@ -44320,8 +44086,8 @@
 		"wab": "true",
 		"details": "IKEA Tampines/Aft TPE",
 		"coordinates": {
-			"lat": 1.37438650022455,
-			"long": 103.93147946559002
+			"lat": 1.374303,
+			"long": 103.931336
 		}
 	},
 	{
@@ -44329,8 +44095,8 @@
 		"wab": "true",
 		"details": "Bef Tampines Ind Ave 5",
 		"coordinates": {
-			"lat": 1.3706441545828,
-			"long": 103.93030234430374
+			"lat": 1.370387,
+			"long": 103.930339
 		}
 	},
 	{
@@ -44338,8 +44104,8 @@
 		"wab": "true",
 		"details": "Bef Tampines Lk",
 		"coordinates": {
-			"lat": 1.37079630405212,
-			"long": 103.93056528604264
+			"lat": 1.370271,
+			"long": 103.930686
 		}
 	},
 	{
@@ -44770,8 +44536,8 @@
 		"wab": "true",
 		"details": "Blk 147",
 		"coordinates": {
-			"lat": 1.34875342114003,
-			"long": 103.94208629087403
+			"lat": 1.348675,
+			"long": 103.942076
 		}
 	},
 	{
@@ -50593,8 +50359,8 @@
 		"wab": "true",
 		"details": "Opp Bedok Camp 2",
 		"coordinates": {
-			"lat": 1.319719,
-			"long": 103.954968
+			"lat": 1.319835,
+			"long": 103.955091
 		}
 	},
 	{
@@ -50602,8 +50368,8 @@
 		"wab": "true",
 		"details": "Bedok Camp 2",
 		"coordinates": {
-			"lat": 1.319557,
-			"long": 103.955325
+			"lat": 1.319473,
+			"long": 103.955231
 		}
 	},
 	{

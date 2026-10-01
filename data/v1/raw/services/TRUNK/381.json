@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Punggol Int to Punggol Int",
+		"name": "From Punggol Int to Punggol Coast Int",
 		"stops": [
 			"65009",
 			"65341",
@@ -17,6 +17,25 @@
 			"65181",
 			"65791",
 			"65561",
+			"65599",
+			"65379",
+			"65311",
+			"65391",
+			"65709",
+			"65729",
+			"69009"
+		]
+	},
+	{
+		"name": "From Punggol Coast Int to Punggol Int",
+		"stops": [
+			"69009",
+			"65721",
+			"65701",
+			"65399",
+			"65319",
+			"65371",
+			"65591",
 			"65569",
 			"65799",
 			"65189",

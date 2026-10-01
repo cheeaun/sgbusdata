@@ -498,17 +498,6 @@
 		]
 	},
 	{
-		"number": 565,
-		"description": "Ah Hood Road to Phillip Street",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"565-1.kml"
-		],
-		"routeFile": [
-			"565.xml"
-		]
-	},
-	{
 		"number": 574,
 		"description": "Upper Serangoon Road - Anson Road",
 		"type": "PREMIUM",
@@ -3940,7 +3929,8 @@
 		"number": 381,
 		"type": "TRUNK",
 		"kmlFile": [
-			"381-1.kml"
+			"381-1.kml",
+			"381-2.kml"
 		],
 		"routeFile": [
 			"381.xml"
@@ -6778,39 +6768,6 @@
 		],
 		"routeFile": [
 			"9B.xml"
-		]
-	},
-	{
-		"number": "S41",
-		"type": "TRUNK",
-		"kmlFile": [
-			"S41-1.kml",
-			"S41-2.kml"
-		],
-		"routeFile": [
-			"S41.xml"
-		]
-	},
-	{
-		"number": "S42",
-		"type": "TRUNK",
-		"kmlFile": [
-			"S42-1.kml",
-			"S42-2.kml"
-		],
-		"routeFile": [
-			"S42.xml"
-		]
-	},
-	{
-		"number": "S43",
-		"type": "TRUNK",
-		"kmlFile": [
-			"S43-1.kml",
-			"S43-2.kml"
-		],
-		"routeFile": [
-			"S43.xml"
 		]
 	},
 	{
