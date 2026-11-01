@@ -1,8 +1,8 @@
 [
 	{
-		"name": "From Compassvale Int to HarbourFront Int",
+		"name": "From Sengkang Int to HarbourFront Int",
 		"stops": [
-			"67759",
+			"67009",
 			"67191",
 			"67171",
 			"65029",
@@ -63,7 +63,7 @@
 		]
 	},
 	{
-		"name": "From HarbourFront Int to Compassvale Int",
+		"name": "From HarbourFront Int to Sengkang Int",
 		"stops": [
 			"14009",
 			"14129",
@@ -124,7 +124,7 @@
 			"65021",
 			"67179",
 			"67199",
-			"67759"
+			"67009"
 		]
 	}
 ]

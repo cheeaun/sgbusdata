@@ -1374,8 +1374,8 @@
 		"Napier Rd"
 	],
 	"13019": [
-		103.82013,
-		1.30674,
+		103.81947,
+		1.30692,
 		"Napier Stn Exit 1",
 		"Napier Rd"
 	],
@@ -1818,8 +1818,8 @@
 		"Kg Bahru Rd"
 	],
 	"14241": [
-		103.81687,
-		1.27914,
+		103.81696,
+		1.27923,
 		"Opp Blk 1",
 		"Henderson Rd"
 	],
@@ -2526,8 +2526,8 @@
 		"West Coast Rd"
 	],
 	"17019": [
-		103.76705,
-		1.2938,
+		103.7671,
+		1.29396,
 		"Varsity Pk",
 		"West Coast Rd"
 	],
@@ -2820,20 +2820,20 @@
 		"Clementi West St 2"
 	],
 	"17291": [
-		103.7697,
-		1.29035,
+		103.76858,
+		1.29074,
 		"West Coast Pk",
 		"West Coast Highway"
 	],
 	"17299": [
-		103.77005,
-		1.29061,
+		103.76869,
+		1.29119,
 		"Opp West Coast Pk",
 		"West Coast Highway"
 	],
 	"17301": [
-		103.76517,
-		1.29495,
+		103.76493,
+		1.29547,
 		"Opp West Coast View",
 		"West Coast Highway"
 	],
@@ -2880,8 +2880,8 @@
 		"West Coast Highway"
 	],
 	"17351": [
-		103.76576,
-		1.29358,
+		103.76637,
+		1.29225,
 		"Aft Clementi Rd",
 		"West Coast Highway"
 	],
@@ -3558,8 +3558,8 @@
 		"Teban Gdns Rd"
 	],
 	"20231": [
-		103.73965,
-		1.32234,
+		103.73968,
+		1.32233,
 		"Bef Hasanah Mque",
 		"Teban Gdns Rd"
 	],
@@ -4904,7 +4904,7 @@
 	"22461": [
 		103.6962,
 		1.33596,
-		"Opp Blk 653B",
+		"Blk 988C",
 		"Pioneer Rd Nth"
 	],
 	"22469": [
@@ -6302,13 +6302,13 @@
 	"25351": [
 		103.65303,
 		1.32397,
-		"Hart Engrg Pte Ltd",
+		"Bef Tuas Ave 3",
 		"Tuas Ave 2"
 	],
 	"25359": [
 		103.65292,
 		1.32365,
-		"Opp Hart Engrg Pte Ltd",
+		"Aft Tuas Ave 3",
 		"Tuas Ave 2"
 	],
 	"25361": [
@@ -7800,8 +7800,8 @@
 		"Jurong Town Hall Rd"
 	],
 	"28291": [
-		103.73638,
-		1.34446,
+		103.73625,
+		1.34419,
 		"Blk 303",
 		"Jurong Town Hall Rd"
 	],
@@ -8138,7 +8138,7 @@
 	"28631": [
 		103.74419,
 		1.34053,
-		"Opp Blk 288D",
+		"Blk 266",
 		"Toh Guan Rd"
 	],
 	"28639": [
@@ -9371,6 +9371,18 @@
 		"Opp Blk 131D",
 		"Tengah Gdn Ave"
 	],
+	"40561": [
+		103.72754,
+		1.35919,
+		"Bef Tengah Gdn Ave",
+		"Tengah Ctrl"
+	],
+	"40569": [
+		103.72743,
+		1.35928,
+		"Aft Tengah Gdn Ave",
+		"Tengah Ctrl"
+	],
 	"41009": [
 		103.73597,
 		1.3627,
@@ -9690,8 +9702,8 @@
 		"Jln Jurong Kechil"
 	],
 	"42159": [
-		103.77531,
-		1.34037,
+		103.77495,
+		1.34038,
 		"Opp Beauty World Stn",
 		"Jln Jurong Kechil"
 	],
@@ -10004,7 +10016,7 @@
 	"43151": [
 		103.76471,
 		1.36321,
-		"Opp Glendale Pk Condo",
+		"HillV2",
 		"Hillview Ave"
 	],
 	"43159": [
@@ -10607,6 +10619,12 @@
 		"St. Anthony's Pr Sch",
 		"Bt Batok St 34"
 	],
+	"43661": [
+		103.74641,
+		1.36532,
+		"Opp Blk 407",
+		"Bt Batok West Ave 7"
+	],
 	"43669": [
 		103.74615,
 		1.36549,
@@ -10810,6 +10828,12 @@
 		1.36354,
 		"Bef Dairy Farm Cres",
 		"Dairy Farm Rd"
+	],
+	"43909": [
+		103.75431,
+		1.35485,
+		"Little Guilin",
+		"Bt Batok East Ave 5"
 	],
 	"43961": [
 		103.77299,
@@ -11574,8 +11598,8 @@
 		"Jelapang Rd"
 	],
 	"44669": [
-		103.7649,
-		1.38429,
+		103.76492,
+		1.38427,
 		"Opp Blk 532",
 		"Jelapang Rd"
 	],
@@ -12576,8 +12600,8 @@
 		"Marsiling Dr"
 	],
 	"46209": [
-		103.77728,
-		1.44025,
+		103.77746,
+		1.4402,
 		"Blk 2",
 		"Marsiling Dr"
 	],
@@ -12942,8 +12966,8 @@
 		"Woodlands Ctr Rd"
 	],
 	"46521": [
-		103.77429,
-		1.43238,
+		103.77442,
+		1.43241,
 		"Marsiling Stn",
 		"Woodlands Ave 3"
 	],
@@ -13140,8 +13164,8 @@
 		"Woodlands Ave 4"
 	],
 	"46709": [
-		103.77555,
-		1.44145,
+		103.77564,
+		1.44132,
 		"Aft Blk 1",
 		"Marsiling Dr"
 	],
@@ -15890,7 +15914,7 @@
 	"54059": [
 		103.8451,
 		1.37468,
-		"Bef Ang Mo Kio Lib",
+		"Bef Ang Mo Kio Polyclinic",
 		"Ang Mo Kio Ave 6"
 	],
 	"54061": [
@@ -16340,7 +16364,7 @@
 	"54501": [
 		103.86266,
 		1.37787,
-		"Opp AMK Ind Pk 2",
+		"Opp Ang Mo Kio Ind Pk 2",
 		"Ang Mo Kio Ave 5"
 	],
 	"54509": [
@@ -16520,13 +16544,13 @@
 	"55041": [
 		103.84603,
 		1.39122,
-		"Aft AMK St 64/Apple SG",
+		"Aft Ang Mo Kio St 64/Apple SG",
 		"Yio Chu Kang Rd"
 	],
 	"55049": [
 		103.84659,
 		1.39111,
-		"Bef AMK St 64/Apple SG",
+		"Bef Ang Mo Kio St 64/Apple SG",
 		"Yio Chu Kang Rd"
 	],
 	"55051": [
@@ -16718,7 +16742,7 @@
 	"55239": [
 		103.84804,
 		1.387,
-		"Bef AMK St 64",
+		"Bef Ang Mo Kio St 64",
 		"Ang Mo Kio St 63"
 	],
 	"55241": [
@@ -16772,13 +16796,13 @@
 	"55301": [
 		103.84446,
 		1.38425,
-		"AMK Police Div HQ",
+		"Ang Mo Kio Police Div HQ",
 		"Ang Mo Kio Ave 9"
 	],
 	"55309": [
 		103.8446,
 		1.38408,
-		"Opp AMK Police Div HQ",
+		"Opp Ang Mo Kio Police Div HQ",
 		"Ang Mo Kio Ave 9"
 	],
 	"55311": [
@@ -17412,14 +17436,14 @@
 		"Admiralty Rd East"
 	],
 	"58201": [
-		103.83099,
-		1.45531,
+		103.83098,
+		1.45533,
 		"Aft Queen's Ave",
 		"Admiralty Rd East"
 	],
 	"58209": [
-		103.83063,
-		1.45524,
+		103.83065,
+		1.45521,
 		"Aft Pakistan Rd",
 		"Admiralty Rd East"
 	],
@@ -17906,13 +17930,13 @@
 	"59041": [
 		103.83259,
 		1.41625,
-		"Bef Khatib Stn",
+		"Khatib Stn Exit A",
 		"Yishun Ave 2"
 	],
 	"59049": [
 		103.8334,
 		1.41701,
-		"Opp Khatib Stn",
+		"Opp Khatib Stn Exit A",
 		"Yishun Ave 2"
 	],
 	"59051": [
@@ -19159,7 +19183,7 @@
 	],
 	"62049": [
 		103.88038,
-		1.34871,
+		1.34867,
 		"Aft Paya Lebar Cres",
 		"Upp Paya Lebar Rd"
 	],
@@ -19274,7 +19298,7 @@
 	"62141": [
 		103.87515,
 		1.35149,
-		"Opp Blk 1",
+		"Aft Serangoon Polyclinic",
 		"Upp S'goon Rd"
 	],
 	"62149": [
@@ -20244,8 +20268,8 @@
 		"Hougang Ave 10"
 	],
 	"64389": [
-		103.89157,
-		1.37314,
+		103.89172,
+		1.3731,
 		"Blk 522",
 		"Hougang Ave 10"
 	],
@@ -20256,8 +20280,8 @@
 		"Hougang Ave 10"
 	],
 	"64397": [
-		103.89,
-		1.37195,
+		103.89006,
+		1.37204,
 		"Blk 513",
 		"Hougang Ave 10"
 	],
@@ -20430,8 +20454,8 @@
 		"Hougang St 51"
 	],
 	"64571": [
-		103.89296,
-		1.37811,
+		103.89292,
+		1.3782,
 		"Blk 438",
 		"Hougang Ave 6"
 	],
@@ -20520,8 +20544,8 @@
 		"Punggol Rd"
 	],
 	"65041": [
-		103.90163,
-		1.38988,
+		103.90166,
+		1.38987,
 		"Blk 231",
 		"Punggol Rd"
 	],
@@ -20658,14 +20682,14 @@
 		"Punggol East"
 	],
 	"65191": [
-		103.9054,
-		1.39527,
+		103.90541,
+		1.39523,
 		"Bef Punggol Rd",
 		"TPE"
 	],
 	"65199": [
-		103.90543,
-		1.39592,
+		103.90539,
+		1.39598,
 		"Aft Punggol Rd",
 		"TPE"
 	],
@@ -21692,7 +21716,7 @@
 	"66451": [
 		103.86854,
 		1.37872,
-		"Aft AMK Ind Pk 2",
+		"Aft Ang Mo Kio Ind Pk 2",
 		"Ang Mo Kio Ave 5"
 	],
 	"66459": [
@@ -21722,7 +21746,7 @@
 	"66481": [
 		103.87831,
 		1.37919,
-		"Opp Blk 968",
+		"Blk 987B",
 		"Buangkok Green"
 	],
 	"66489": [
@@ -22158,14 +22182,14 @@
 		"Compassvale Rd"
 	],
 	"67251": [
-		103.90031,
-		1.39443,
+		103.89999,
+		1.39463,
 		"Compassvale Stn Exit A",
 		"Compassvale St"
 	],
 	"67259": [
-		103.90046,
-		1.39465,
+		103.90004,
+		1.39474,
 		"Compassvale Stn Exit B",
 		"Compassvale St"
 	],
@@ -22572,8 +22596,8 @@
 		"Sengkang Ctrl"
 	],
 	"67609": [
-		103.89304,
-		1.38393,
+		103.89298,
+		1.38282,
 		"Buangkok Stn Exit A",
 		"Sengkang Ctrl"
 	],
@@ -22649,12 +22673,6 @@
 		"Blk 156A CP",
 		"Rivervale Cres"
 	],
-	"67689": [
-		103.89514,
-		1.39071,
-		"Sengkang Stn Exit C",
-		"Sengkang Sq"
-	],
 	"67691": [
 		103.88878,
 		1.39899,
@@ -22671,12 +22689,6 @@
 		103.87745,
 		1.39849,
 		"Aft Blk 467B",
-		"Fernvale St"
-	],
-	"67708": [
-		103.8804,
-		1.39825,
-		"Opp Fernvale Plains",
 		"Fernvale St"
 	],
 	"67709": [
@@ -22732,12 +22744,6 @@
 		1.39694,
 		"Thanggam Stn Exit A",
 		"Fernvale Rd"
-	],
-	"67759": [
-		103.89712,
-		1.39122,
-		"Compassvale Int",
-		"Compassvale Rd"
 	],
 	"67761": [
 		103.8876,
@@ -22914,8 +22920,8 @@
 		"Jln Kayu"
 	],
 	"68119": [
-		103.87217,
-		1.40219,
+		103.87219,
+		1.40214,
 		"Aft Piccadilly Circus/TPE",
 		"Jln Kayu"
 	],
@@ -23138,13 +23144,13 @@
 	"70081": [
 		103.89497,
 		1.33228,
-		"Opp HDB CP",
+		"Aft Ubi Link",
 		"Ubi Ave 3"
 	],
 	"70089": [
 		103.89444,
 		1.33188,
-		"HDB CP",
+		"Bef Ubi Link",
 		"Ubi Ave 3"
 	],
 	"70091": [
@@ -23222,13 +23228,13 @@
 	"70151": [
 		103.88125,
 		1.32767,
-		"Aft Jln Anggerek",
+		"Bef Jln Anggerek",
 		"Merpati Rd"
 	],
 	"70161": [
 		103.88248,
 		1.3273,
-		"Opp Mattar Stn Exit A",
+		"Mattar Stn Exit A",
 		"Merpati Rd"
 	],
 	"70171": [
@@ -23318,7 +23324,7 @@
 	"70281": [
 		103.888,
 		1.33549,
-		"Aft Tai Seng Stn",
+		"Tai Seng Stn Exit A/B",
 		"Upp Paya Lebar Rd"
 	],
 	"70289": [
@@ -23736,8 +23742,8 @@
 		"Kaki Bt Ave 1"
 	],
 	"72049": [
-		103.90747,
-		1.3349,
+		103.90759,
+		1.33492,
 		"Opp Blk 660A CP",
 		"Kaki Bt Ave 1"
 	],
@@ -24398,13 +24404,13 @@
 	"75461": [
 		103.93341,
 		1.36594,
-		"Reebonz Bldg",
+		"Aft Tampines Nth Dr 1",
 		"Tampines Avenue 11"
 	],
 	"75469": [
 		103.93316,
 		1.36627,
-		"Opp Reebonz Bldg",
+		"Bef Tampines Nth Dr 1",
 		"Tampines Avenue 11"
 	],
 	"75471": [
@@ -25796,7 +25802,7 @@
 	"78231": [
 		103.95986,
 		1.37344,
-		"Opp Blk 482",
+		"Pasir Ris Crest Sec Sch",
 		"Pasir Ris St 41"
 	],
 	"78241": [
@@ -26358,8 +26364,8 @@
 		"Sims Ave"
 	],
 	"82049": [
-		103.89892,
-		1.31634,
+		103.89905,
+		1.31641,
 		"Joo Chiat Cplx",
 		"Changi Rd"
 	],
@@ -27632,7 +27638,7 @@
 	"84701": [
 		103.91214,
 		1.33601,
-		"Blk 151",
+		"Bet Blks 150/151",
 		"Kaki Bt Ave 1"
 	],
 	"84709": [
@@ -28946,7 +28952,7 @@
 	"96189": [
 		103.95794,
 		1.3453,
-		"Blk 166",
+		"Blk 166 CP",
 		"Simei Rd"
 	],
 	"96191": [
@@ -29846,7 +29852,7 @@
 	"99181": [
 		103.98839,
 		1.38779,
-		"Bef S'pore Aviation Ac",
+		"Aft Changi Village Rd",
 		"Telok Paku Rd"
 	],
 	"99189": [
@@ -29918,7 +29924,7 @@
 	"01121": [
 		103.85868,
 		1.30394,
-		"Aft Victoria Ln",
+		"Aft Victoria Lane",
 		"Victoria St"
 	],
 	"01129": [
@@ -30014,13 +30020,13 @@
 	"01421": [
 		103.86484,
 		1.30338,
-		"Opp Golden Mile Cplx",
+		"Blk 1",
 		"Beach Rd"
 	],
 	"01429": [
 		103.86502,
 		1.30321,
-		"Golden Mile Cplx",
+		"Aft Crawford St",
 		"Beach Rd"
 	],
 	"01511": [
@@ -30038,13 +30044,13 @@
 	"01521": [
 		103.86066,
 		1.30088,
-		"Opp Plaza Parkroyal",
+		"Aft Bussorah St",
 		"Beach Rd"
 	],
 	"01529": [
 		103.86044,
 		1.30042,
-		"Plaza Parkroyal",
+		"Opp Bussorah St",
 		"Beach Rd"
 	],
 	"01541": [
@@ -30264,8 +30270,8 @@
 		"Shenton Way"
 	],
 	"03218": [
-		103.84687,
-		1.27408,
+		103.8469,
+		1.27423,
 		"Prince Edward Rd Stn Exit 2",
 		"Shenton Way"
 	],
@@ -30842,13 +30848,13 @@
 	"06151": [
 		103.83737,
 		1.28871,
-		"Hotel Miramar",
+		"Aft Saiboo St",
 		"Havelock Rd"
 	],
 	"06159": [
 		103.83688,
 		1.28909,
-		"Opp Hotel Miramar",
+		"Bef Saiboo St",
 		"Havelock Rd"
 	],
 	"06161": [
@@ -30908,7 +30914,7 @@
 	"07221": [
 		103.85782,
 		1.31497,
-		"Sri Vadapathira K Tp",
+		"Sri Vadapathira Kaliamman Tp",
 		"S'goon Rd"
 	],
 	"07231": [

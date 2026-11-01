@@ -5518,8 +5518,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.82013079894885,
-					1.3067380217198
+					103.819466,
+					1.306923
 				]
 			}
 		},
@@ -7341,8 +7341,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.8168725087535,
-					1.27914353103301
+					103.816958,
+					1.2792315
 				]
 			}
 		},
@@ -9993,8 +9993,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.76705176995323,
-					1.2937974792702
+					103.767097,
+					1.2939645
 				]
 			}
 		},
@@ -11178,8 +11178,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.7696982607242,
-					1.29035140506061
+					103.768575,
+					1.290736
 				]
 			}
 		},
@@ -11198,8 +11198,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.77005055601747,
-					1.29060555603074
+					103.7686865,
+					1.291188
 				]
 			}
 		},
@@ -11218,8 +11218,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.76516694401265,
-					1.29495361097608
+					103.7649275,
+					1.295473
 				]
 			}
 		},
@@ -11372,8 +11372,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.76576444402885,
-					1.29358000003179
+					103.766374,
+					1.29225
 				]
 			}
 		},
@@ -13859,8 +13859,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.739647,
-					1.322339
+					103.7396755,
+					1.322329
 				]
 			}
 		},
@@ -18590,7 +18590,7 @@
 			"id": "22461",
 			"properties": {
 				"number": "22461",
-				"name": "Opp Blk 653B",
+				"name": "Blk 988C",
 				"road": "Pioneer Rd Nth",
 				"services": [
 					"185",
@@ -23202,7 +23202,7 @@
 			"id": "25351",
 			"properties": {
 				"number": "25351",
-				"name": "Hart Engrg Pte Ltd",
+				"name": "Bef Tuas Ave 3",
 				"road": "Tuas Ave 2",
 				"services": [
 					"193"
@@ -23221,7 +23221,7 @@
 			"id": "25359",
 			"properties": {
 				"number": "25359",
-				"name": "Opp Hart Engrg Pte Ltd",
+				"name": "Aft Tuas Ave 3",
 				"road": "Tuas Ave 2",
 				"services": [
 					"193"
@@ -28492,8 +28492,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.73638303040048,
-					1.34446090409168
+					103.7362515,
+					1.3441905
 				]
 			}
 		},
@@ -29854,7 +29854,7 @@
 			"id": "28631",
 			"properties": {
 				"number": "28631",
-				"name": "Opp Blk 288D",
+				"name": "Blk 266",
 				"road": "Toh Guan Rd",
 				"services": [
 					"105",
@@ -31100,6 +31100,7 @@
 				"services": [
 					"451",
 					"684",
+					"874",
 					"984",
 					"984A",
 					"991"
@@ -31143,6 +31144,7 @@
 				"services": [
 					"451",
 					"684",
+					"874",
 					"984",
 					"984A",
 					"991"
@@ -31166,6 +31168,7 @@
 				"services": [
 					"451",
 					"684",
+					"874",
 					"984",
 					"991"
 				]
@@ -34123,7 +34126,10 @@
 				"name": "Blk 308A",
 				"road": "Tengah Pk Ave",
 				"services": [
-					"831W"
+					"831W",
+					"873",
+					"873M",
+					"874"
 				]
 			},
 			"geometry": {
@@ -34142,7 +34148,10 @@
 				"name": "Blk 319A",
 				"road": "Tengah Pk Ave",
 				"services": [
-					"831G"
+					"831G",
+					"873",
+					"873M",
+					"874"
 				]
 			},
 			"geometry": {
@@ -34318,6 +34327,44 @@
 		},
 		{
 			"type": "Feature",
+			"id": "40561",
+			"properties": {
+				"number": "40561",
+				"name": "Bef Tengah Gdn Ave",
+				"road": "Tengah Ctrl",
+				"services": [
+					"831W"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7275375,
+					1.3591945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "40569",
+			"properties": {
+				"number": "40569",
+				"name": "Aft Tengah Gdn Ave",
+				"road": "Tengah Ctrl",
+				"services": [
+					"831G"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72743,
+					1.3592755
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "41009",
 			"properties": {
 				"number": "41009",
@@ -34334,6 +34381,9 @@
 					"871A",
 					"872",
 					"872A",
+					"873",
+					"873M",
+					"874",
 					"97",
 					"97e",
 					"992"
@@ -35757,8 +35807,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.77530898996658,
-					1.34036805329812
+					103.774954,
+					1.340383
 				]
 			}
 		},
@@ -36335,6 +36385,7 @@
 				"name": "Bef Hillview Stn Exit B",
 				"road": "Upp Bt Timah Rd",
 				"services": [
+					"873",
 					"973"
 				]
 			},
@@ -36499,6 +36550,7 @@
 					"184",
 					"67",
 					"75",
+					"873",
 					"961",
 					"961M",
 					"973"
@@ -36550,6 +36602,7 @@
 					"184",
 					"67",
 					"75",
+					"873",
 					"961",
 					"961M",
 					"973"
@@ -36985,10 +37038,11 @@
 			"id": "43151",
 			"properties": {
 				"number": "43151",
-				"name": "Opp Glendale Pk Condo",
+				"name": "HillV2",
 				"road": "Hillview Ave",
 				"services": [
-					"177"
+					"177",
+					"873"
 				]
 			},
 			"geometry": {
@@ -37388,6 +37442,7 @@
 					"176",
 					"177",
 					"653",
+					"873",
 					"963",
 					"970"
 				]
@@ -37412,6 +37467,7 @@
 					"176",
 					"177",
 					"653",
+					"873",
 					"963",
 					"970"
 				]
@@ -37436,6 +37492,7 @@
 					"176",
 					"177",
 					"653",
+					"873",
 					"963",
 					"970"
 				]
@@ -37460,6 +37517,7 @@
 					"176",
 					"177",
 					"653",
+					"873",
 					"963",
 					"970"
 				]
@@ -37483,6 +37541,7 @@
 					"176",
 					"177",
 					"653",
+					"873",
 					"963",
 					"970"
 				]
@@ -37506,6 +37565,7 @@
 					"176",
 					"177",
 					"653",
+					"873",
 					"963",
 					"970"
 				]
@@ -37572,6 +37632,7 @@
 					"176",
 					"177",
 					"653",
+					"873",
 					"963",
 					"963e",
 					"970",
@@ -37617,6 +37678,7 @@
 				"services": [
 					"176",
 					"653",
+					"873",
 					"963",
 					"970",
 					"973"
@@ -38278,6 +38340,7 @@
 				"services": [
 					"176",
 					"653",
+					"873",
 					"985"
 				]
 			},
@@ -38299,6 +38362,7 @@
 				"services": [
 					"176",
 					"653",
+					"873",
 					"985"
 				]
 			},
@@ -38320,6 +38384,7 @@
 				"services": [
 					"176",
 					"653",
+					"873",
 					"985"
 				]
 			},
@@ -38341,6 +38406,7 @@
 				"services": [
 					"176",
 					"653",
+					"873",
 					"985"
 				]
 			},
@@ -38803,6 +38869,7 @@
 				"road": "Bt Batok East Ave 5",
 				"services": [
 					"871",
+					"873",
 					"945"
 				]
 			},
@@ -38824,6 +38891,7 @@
 				"services": [
 					"871",
 					"871A",
+					"873",
 					"945"
 				]
 			},
@@ -38883,6 +38951,8 @@
 				"road": "Bt Batok East Ave 5",
 				"services": [
 					"871",
+					"873",
+					"873M",
 					"945"
 				]
 			},
@@ -38904,6 +38974,8 @@
 				"services": [
 					"871",
 					"871A",
+					"873",
+					"873M",
 					"945"
 				]
 			},
@@ -38924,6 +38996,8 @@
 				"road": "Bt Batok West Ave 5",
 				"services": [
 					"451",
+					"873",
+					"873M",
 					"945",
 					"991"
 				]
@@ -38945,6 +39019,8 @@
 				"road": "Bt Batok West Ave 5",
 				"services": [
 					"451",
+					"873",
+					"873M",
 					"945",
 					"991"
 				]
@@ -38966,6 +39042,8 @@
 				"road": "Bt Batok West Ave 5",
 				"services": [
 					"647",
+					"873",
+					"873M",
 					"945",
 					"991"
 				]
@@ -38987,6 +39065,8 @@
 				"road": "Bt Batok West Ave 5",
 				"services": [
 					"647",
+					"873",
+					"873M",
 					"945",
 					"991"
 				]
@@ -39231,6 +39311,8 @@
 					"188",
 					"188e",
 					"647",
+					"873",
+					"873M",
 					"945",
 					"985"
 				]
@@ -39254,6 +39336,8 @@
 					"187",
 					"188",
 					"647",
+					"873",
+					"873M",
 					"985"
 				]
 			},
@@ -39286,12 +39370,34 @@
 		},
 		{
 			"type": "Feature",
+			"id": "43661",
+			"properties": {
+				"number": "43661",
+				"name": "Opp Blk 407",
+				"road": "Bt Batok West Ave 7",
+				"services": [
+					"873",
+					"873M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7464085,
+					1.365316
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "43669",
 			"properties": {
 				"number": "43669",
 				"name": "Blk 406",
 				"road": "Bt Batok West Ave 7",
 				"services": [
+					"873",
+					"873M",
 					"947"
 				]
 			},
@@ -39316,6 +39422,9 @@
 					"180",
 					"180A",
 					"684",
+					"873",
+					"873M",
+					"874",
 					"984"
 				]
 			},
@@ -39338,6 +39447,9 @@
 					"160",
 					"180",
 					"684",
+					"873",
+					"873M",
+					"874",
 					"947",
 					"984"
 				]
@@ -39698,6 +39810,9 @@
 					"160A",
 					"180",
 					"180A",
+					"873",
+					"873M",
+					"874",
 					"984"
 				]
 			},
@@ -39720,6 +39835,9 @@
 					"160",
 					"180",
 					"684",
+					"873",
+					"873M",
+					"874",
 					"984",
 					"993"
 				]
@@ -39812,6 +39930,8 @@
 				"road": "Bt Batok St 52",
 				"services": [
 					"871",
+					"873",
+					"873M",
 					"945"
 				]
 			},
@@ -39833,6 +39953,7 @@
 				"services": [
 					"871",
 					"871A",
+					"873",
 					"945"
 				]
 			},
@@ -39854,6 +39975,7 @@
 				"services": [
 					"173",
 					"653",
+					"873",
 					"973"
 				]
 			},
@@ -39894,6 +40016,7 @@
 				"services": [
 					"173",
 					"653",
+					"873",
 					"973"
 				]
 			},
@@ -39936,6 +40059,8 @@
 					"188",
 					"188e",
 					"647",
+					"873",
+					"873M",
 					"945",
 					"985"
 				]
@@ -39959,6 +40084,8 @@
 					"187",
 					"188",
 					"647",
+					"873",
+					"873M",
 					"985"
 				]
 			},
@@ -40024,6 +40151,25 @@
 				"coordinates": [
 					103.769,
 					1.363535
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "43909",
+			"properties": {
+				"number": "43909",
+				"name": "Little Guilin",
+				"road": "Bt Batok East Ave 5",
+				"services": [
+					"873M"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754309,
+					1.3548505
 				]
 			}
 		},
@@ -40488,6 +40634,7 @@
 				"services": [
 					"172",
 					"451",
+					"874",
 					"991"
 				]
 			},
@@ -40510,6 +40657,7 @@
 					"172",
 					"301",
 					"451",
+					"874",
 					"991"
 				]
 			},
@@ -40945,6 +41093,7 @@
 					"160",
 					"180",
 					"180A",
+					"874",
 					"984"
 				]
 			},
@@ -40966,6 +41115,7 @@
 				"services": [
 					"160",
 					"180",
+					"874",
 					"984"
 				]
 			},
@@ -42290,6 +42440,7 @@
 				"services": [
 					"300",
 					"649",
+					"874",
 					"983",
 					"983A"
 				]
@@ -42312,6 +42463,7 @@
 				"services": [
 					"300",
 					"649",
+					"874",
 					"983"
 				]
 			},
@@ -42333,6 +42485,7 @@
 				"services": [
 					"300",
 					"649",
+					"874",
 					"983",
 					"983A"
 				]
@@ -42355,6 +42508,7 @@
 				"services": [
 					"300",
 					"649",
+					"874",
 					"983"
 				]
 			},
@@ -42461,6 +42615,7 @@
 					"307",
 					"307A",
 					"307T",
+					"874",
 					"974",
 					"974A",
 					"975",
@@ -42725,6 +42880,7 @@
 				"services": [
 					"301",
 					"684",
+					"874",
 					"983",
 					"983A",
 					"983M",
@@ -42748,6 +42904,7 @@
 				"road": "Choa Chu Kang Ave 6",
 				"services": [
 					"684",
+					"874",
 					"983",
 					"984",
 					"984A"
@@ -42852,6 +43009,7 @@
 				"services": [
 					"300",
 					"649",
+					"874",
 					"983",
 					"983A"
 				]
@@ -42874,6 +43032,7 @@
 				"services": [
 					"300",
 					"649",
+					"874",
 					"983"
 				]
 			},
@@ -43056,8 +43215,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.76489752763662,
-					1.38428576640159
+					103.764918,
+					1.384273
 				]
 			}
 		},
@@ -43111,6 +43270,7 @@
 					"300",
 					"301",
 					"451",
+					"874",
 					"975",
 					"975A",
 					"975B",
@@ -45660,6 +45820,7 @@
 					"172",
 					"300",
 					"451",
+					"874",
 					"991"
 				]
 			},
@@ -46700,8 +46861,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.77727510649777,
-					1.44025242879024
+					103.7774555,
+					1.440204
 				]
 			}
 		},
@@ -48075,8 +48236,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.77429333367095,
-					1.43237833345523
+					103.7744175,
+					1.432412
 				]
 			}
 		},
@@ -48839,8 +49000,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.77554719559573,
-					1.44144739085946
+					103.775644,
+					1.4413235
 				]
 			}
 		},
@@ -58908,7 +59069,7 @@
 			"id": "54059",
 			"properties": {
 				"number": "54059",
-				"name": "Bef Ang Mo Kio Lib",
+				"name": "Bef Ang Mo Kio Polyclinic",
 				"road": "Ang Mo Kio Ave 6",
 				"services": [
 					"13",
@@ -60766,7 +60927,7 @@
 			"id": "54501",
 			"properties": {
 				"number": "54501",
-				"name": "Opp AMK Ind Pk 2",
+				"name": "Opp Ang Mo Kio Ind Pk 2",
 				"road": "Ang Mo Kio Ave 5",
 				"services": [
 					"159",
@@ -61431,7 +61592,7 @@
 			"id": "55041",
 			"properties": {
 				"number": "55041",
-				"name": "Aft AMK St 64/Apple SG",
+				"name": "Aft Ang Mo Kio St 64/Apple SG",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"114",
@@ -61460,7 +61621,7 @@
 			"id": "55049",
 			"properties": {
 				"number": "55049",
-				"name": "Bef AMK St 64/Apple SG",
+				"name": "Bef Ang Mo Kio St 64/Apple SG",
 				"road": "Yio Chu Kang Rd",
 				"services": [
 					"114",
@@ -62262,7 +62423,7 @@
 			"id": "55239",
 			"properties": {
 				"number": "55239",
-				"name": "Bef AMK St 64",
+				"name": "Bef Ang Mo Kio St 64",
 				"road": "Ang Mo Kio St 63",
 				"services": [
 					"268",
@@ -62488,7 +62649,7 @@
 			"id": "55301",
 			"properties": {
 				"number": "55301",
-				"name": "AMK Police Div HQ",
+				"name": "Ang Mo Kio Police Div HQ",
 				"road": "Ang Mo Kio Ave 9",
 				"services": [
 					"265",
@@ -62513,7 +62674,7 @@
 			"id": "55309",
 			"properties": {
 				"number": "55309",
-				"name": "Opp AMK Police Div HQ",
+				"name": "Opp Ang Mo Kio Police Div HQ",
 				"road": "Ang Mo Kio Ave 9",
 				"services": [
 					"265",
@@ -64044,6 +64205,7 @@
 					"859T",
 					"861",
 					"861A",
+					"861C",
 					"861M",
 					"882",
 					"882A",
@@ -64211,6 +64373,7 @@
 					"169",
 					"861",
 					"861A",
+					"861C",
 					"883",
 					"883M"
 				]
@@ -64262,6 +64425,7 @@
 					"169",
 					"861",
 					"861A",
+					"861C",
 					"882",
 					"883",
 					"883M"
@@ -64699,6 +64863,7 @@
 					"859T",
 					"861",
 					"861A",
+					"861C",
 					"980"
 				]
 			},
@@ -64913,8 +65078,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.83098996673239,
-					1.45531234912714
+					103.830975,
+					1.455327
 				]
 			}
 		},
@@ -64932,8 +65097,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.83062638903208,
-					1.45524083298775
+					103.83065,
+					1.455205
 				]
 			}
 		},
@@ -65407,6 +65572,7 @@
 					"859T",
 					"861",
 					"861A",
+					"861C",
 					"883",
 					"883M"
 				]
@@ -66106,6 +66272,7 @@
 					"117M",
 					"861",
 					"861A",
+					"861C",
 					"883",
 					"883M"
 				]
@@ -66153,6 +66320,7 @@
 				"services": [
 					"861",
 					"861A",
+					"861C",
 					"883",
 					"883M"
 				]
@@ -66198,6 +66366,7 @@
 				"services": [
 					"861",
 					"861A",
+					"861C",
 					"883",
 					"883M"
 				]
@@ -66247,6 +66416,7 @@
 					"169A",
 					"861",
 					"861A",
+					"861C",
 					"883",
 					"883M"
 				]
@@ -66457,6 +66627,7 @@
 				"services": [
 					"861",
 					"861A",
+					"861C",
 					"861M",
 					"883",
 					"883B",
@@ -66796,7 +66967,7 @@
 			"id": "59041",
 			"properties": {
 				"number": "59041",
-				"name": "Bef Khatib Stn",
+				"name": "Khatib Stn Exit A",
 				"road": "Yishun Ave 2",
 				"services": [
 					"117",
@@ -66832,7 +67003,7 @@
 			"id": "59049",
 			"properties": {
 				"number": "59049",
-				"name": "Opp Khatib Stn",
+				"name": "Opp Khatib Stn Exit A",
 				"road": "Yishun Ave 2",
 				"services": [
 					"117",
@@ -67645,7 +67816,8 @@
 					"670",
 					"811",
 					"861",
-					"861A"
+					"861A",
+					"861C"
 				]
 			},
 			"geometry": {
@@ -67713,7 +67885,8 @@
 					"670",
 					"811",
 					"861",
-					"861A"
+					"861A",
+					"861C"
 				]
 			},
 			"geometry": {
@@ -67756,7 +67929,8 @@
 				"services": [
 					"811",
 					"861",
-					"861A"
+					"861A",
+					"861C"
 				]
 			},
 			"geometry": {
@@ -68963,6 +69137,7 @@
 					"169A",
 					"861",
 					"861A",
+					"861C",
 					"883",
 					"883M"
 				]
@@ -71782,8 +71957,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.8803845,
-					1.348714
+					103.8803835,
+					1.348671
 				]
 			}
 		},
@@ -72262,7 +72437,7 @@
 			"id": "62141",
 			"properties": {
 				"number": "62141",
-				"name": "Opp Blk 1",
+				"name": "Aft Serangoon Polyclinic",
 				"road": "Upp S'goon Rd",
 				"services": [
 					"101",
@@ -76296,8 +76471,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.89156818388481,
-					1.37313809346006
+					103.891719,
+					1.373103
 				]
 			}
 		},
@@ -76350,8 +76525,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.890003,
-					1.371948
+					103.890056,
+					1.372039
 				]
 			}
 		},
@@ -77047,8 +77222,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.89296494237695,
-					1.37811157042732
+					103.8929188,
+					1.37819917
 				]
 			}
 		},
@@ -77436,8 +77611,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.901631,
-					1.389877
+					103.9016635,
+					1.3898715
 				]
 			}
 		},
@@ -77984,8 +78159,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.90539999997036,
-					1.39527356921611
+					103.9054113,
+					1.395225
 				]
 			}
 		},
@@ -78020,8 +78195,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.90542736761212,
-					1.39591721161169
+					103.905387,
+					1.395984
 				]
 			}
 		},
@@ -81893,7 +82068,7 @@
 			"id": "66451",
 			"properties": {
 				"number": "66451",
-				"name": "Aft AMK Ind Pk 2",
+				"name": "Aft Ang Mo Kio Ind Pk 2",
 				"road": "Ang Mo Kio Ave 5",
 				"services": [
 					"159",
@@ -82011,7 +82186,7 @@
 			"id": "66481",
 			"properties": {
 				"number": "66481",
-				"name": "Opp Blk 968",
+				"name": "Blk 987B",
 				"road": "Buangkok Green",
 				"services": [
 					"156",
@@ -82576,10 +82751,14 @@
 					"163A",
 					"163B",
 					"371",
+					"372",
+					"374",
+					"80",
+					"80A",
 					"83",
 					"83T",
-					"SWA",
-					"SWB"
+					"86",
+					"87"
 				]
 			},
 			"geometry": {
@@ -83717,8 +83896,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.9003121852631,
-					1.39442862205324
+					103.8999871,
+					1.394628165
 				]
 			}
 		},
@@ -83743,8 +83922,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.90046238900585,
-					1.39465386086721
+					103.900043,
+					1.394742
 				]
 			}
 		},
@@ -83889,8 +84068,7 @@
 				"road": "Sengkang East Ave",
 				"services": [
 					"163",
-					"677",
-					"SWA"
+					"677"
 				]
 			},
 			"geometry": {
@@ -83932,8 +84110,7 @@
 				"road": "Sengkang East Ave",
 				"services": [
 					"163",
-					"677",
-					"SWA"
+					"677"
 				]
 			},
 			"geometry": {
@@ -83975,8 +84152,7 @@
 				"road": "Anchorvale St",
 				"services": [
 					"110",
-					"654",
-					"SWB"
+					"654"
 				]
 			},
 			"geometry": {
@@ -84500,8 +84676,7 @@
 				"road": "Anchorvale St",
 				"services": [
 					"110",
-					"654",
-					"SWB"
+					"654"
 				]
 			},
 			"geometry": {
@@ -84733,8 +84908,7 @@
 				"services": [
 					"163",
 					"50",
-					"671",
-					"SWA"
+					"671"
 				]
 			},
 			"geometry": {
@@ -84780,8 +84954,7 @@
 					"114",
 					"163",
 					"50",
-					"671",
-					"SWA"
+					"671"
 				]
 			},
 			"geometry": {
@@ -85314,8 +85487,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.89303978530081,
-					1.38393305306468
+					103.892976,
+					1.382819
 				]
 			}
 		},
@@ -85570,26 +85743,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "67689",
-			"properties": {
-				"number": "67689",
-				"name": "Sengkang Stn Exit C",
-				"road": "Sengkang Sq",
-				"services": [
-					"372",
-					"374"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.895137,
-					1.39071
-				]
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "67691",
 			"properties": {
 				"number": "67691",
@@ -85645,25 +85798,6 @@
 				"coordinates": [
 					103.877445,
 					1.3984935
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "67708",
-			"properties": {
-				"number": "67708",
-				"name": "Opp Fernvale Plains",
-				"road": "Fernvale St",
-				"services": [
-					"SWB"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8804,
-					1.398254
 				]
 			}
 		},
@@ -85819,8 +85953,7 @@
 				"road": "Fernvale Rd",
 				"services": [
 					"374",
-					"679",
-					"SWB"
+					"679"
 				]
 			},
 			"geometry": {
@@ -85847,30 +85980,6 @@
 				"coordinates": [
 					103.8755543,
 					1.396944
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "67759",
-			"properties": {
-				"number": "67759",
-				"name": "Compassvale Int",
-				"road": "Compassvale Rd",
-				"services": [
-					"372",
-					"374",
-					"80",
-					"80A",
-					"86",
-					"87"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8971153,
-					1.3912175
 				]
 			}
 		},
@@ -86535,8 +86644,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.872168,
-					1.402186
+					103.8721945,
+					1.402135
 				]
 			}
 		},
@@ -87322,7 +87431,7 @@
 			"id": "70081",
 			"properties": {
 				"number": "70081",
-				"name": "Opp HDB CP",
+				"name": "Aft Ubi Link",
 				"road": "Ubi Ave 3",
 				"services": [
 					"58",
@@ -87342,7 +87451,7 @@
 			"id": "70089",
 			"properties": {
 				"number": "70089",
-				"name": "HDB CP",
+				"name": "Bef Ubi Link",
 				"road": "Ubi Ave 3",
 				"services": [
 					"58",
@@ -87641,7 +87750,7 @@
 			"id": "70151",
 			"properties": {
 				"number": "70151",
-				"name": "Aft Jln Anggerek",
+				"name": "Bef Jln Anggerek",
 				"road": "Merpati Rd",
 				"services": [
 					"135",
@@ -87667,7 +87776,7 @@
 			"id": "70161",
 			"properties": {
 				"number": "70161",
-				"name": "Opp Mattar Stn Exit A",
+				"name": "Mattar Stn Exit A",
 				"road": "Merpati Rd",
 				"services": [
 					"135",
@@ -88090,7 +88199,7 @@
 			"id": "70281",
 			"properties": {
 				"number": "70281",
-				"name": "Aft Tai Seng Stn",
+				"name": "Tai Seng Stn Exit A/B",
 				"road": "Upp Paya Lebar Rd",
 				"services": [
 					"158",
@@ -89787,8 +89896,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.90747460787432,
-					1.33490332816583
+					103.907588,
+					1.334923
 				]
 			}
 		},
@@ -92303,7 +92412,7 @@
 			"id": "75461",
 			"properties": {
 				"number": "75461",
-				"name": "Reebonz Bldg",
+				"name": "Aft Tampines Nth Dr 1",
 				"road": "Tampines Avenue 11",
 				"services": [
 					"127",
@@ -92324,7 +92433,7 @@
 			"id": "75469",
 			"properties": {
 				"number": "75469",
-				"name": "Opp Reebonz Bldg",
+				"name": "Bef Tampines Nth Dr 1",
 				"road": "Tampines Avenue 11",
 				"services": [
 					"68",
@@ -97684,7 +97793,7 @@
 			"id": "78231",
 			"properties": {
 				"number": "78231",
-				"name": "Opp Blk 482",
+				"name": "Pasir Ris Crest Sec Sch",
 				"road": "Pasir Ris St 41",
 				"services": [
 					"358"
@@ -100063,8 +100172,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.89891621295058,
-					1.31634170548514
+					103.899046,
+					1.316414
 				]
 			}
 		},
@@ -105005,7 +105114,7 @@
 			"id": "84701",
 			"properties": {
 				"number": "84701",
-				"name": "Blk 151",
+				"name": "Bet Blks 150/151",
 				"road": "Kaki Bt Ave 1",
 				"services": [
 					"15",
@@ -110275,7 +110384,7 @@
 			"id": "96189",
 			"properties": {
 				"number": "96189",
-				"name": "Blk 166",
+				"name": "Blk 166 CP",
 				"road": "Simei Rd",
 				"services": [
 					"12",
@@ -113459,7 +113568,7 @@
 			"id": "99181",
 			"properties": {
 				"number": "99181",
-				"name": "Bef S'pore Aviation Ac",
+				"name": "Aft Changi Village Rd",
 				"road": "Telok Paku Rd",
 				"services": [
 					"19",
@@ -113772,7 +113881,7 @@
 			"id": "01121",
 			"properties": {
 				"number": "01121",
-				"name": "Aft Victoria Ln",
+				"name": "Aft Victoria Lane",
 				"road": "Victoria St",
 				"services": [
 					"12",
@@ -114186,7 +114295,7 @@
 			"id": "01421",
 			"properties": {
 				"number": "01421",
-				"name": "Opp Golden Mile Cplx",
+				"name": "Blk 1",
 				"road": "Beach Rd",
 				"services": [
 					"100",
@@ -114208,7 +114317,7 @@
 			"id": "01429",
 			"properties": {
 				"number": "01429",
-				"name": "Golden Mile Cplx",
+				"name": "Aft Crawford St",
 				"road": "Beach Rd",
 				"services": [
 					"100"
@@ -114276,7 +114385,7 @@
 			"id": "01521",
 			"properties": {
 				"number": "01521",
-				"name": "Opp Plaza Parkroyal",
+				"name": "Aft Bussorah St",
 				"road": "Beach Rd",
 				"services": [
 					"100",
@@ -114300,7 +114409,7 @@
 			"id": "01529",
 			"properties": {
 				"number": "01529",
-				"name": "Plaza Parkroyal",
+				"name": "Opp Bussorah St",
 				"road": "Beach Rd",
 				"services": [
 					"100",
@@ -114601,7 +114710,24 @@
 				"name": "The Float @ Marina Bay",
 				"road": "Raffles Ave",
 				"services": [
-					"960"
+					"106",
+					"111",
+					"133",
+					"195",
+					"195A",
+					"36",
+					"36A",
+					"36B",
+					"56",
+					"647",
+					"70M",
+					"77",
+					"857",
+					"960",
+					"960e",
+					"961M",
+					"97",
+					"97e"
 				]
 			},
 			"geometry": {
@@ -115516,8 +115642,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.84687388890413,
-					1.2740788888387
+					103.846903,
+					1.2742335
 				]
 			}
 		},
@@ -118011,7 +118137,7 @@
 			"id": "06151",
 			"properties": {
 				"number": "06151",
-				"name": "Hotel Miramar",
+				"name": "Aft Saiboo St",
 				"road": "Havelock Rd",
 				"services": [
 					"123",
@@ -118033,7 +118159,7 @@
 			"id": "06159",
 			"properties": {
 				"number": "06159",
-				"name": "Opp Hotel Miramar",
+				"name": "Bef Saiboo St",
 				"road": "Havelock Rd",
 				"services": [
 					"123",
@@ -118277,7 +118403,7 @@
 			"id": "07221",
 			"properties": {
 				"number": "07221",
-				"name": "Sri Vadapathira K Tp",
+				"name": "Sri Vadapathira Kaliamman Tp",
 				"road": "S'goon Rd",
 				"services": [
 					"125",
