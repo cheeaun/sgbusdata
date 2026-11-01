@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Bet Blks 405/406 to Bef Khatib Stn",
+		"name": "From Bet Blks 405/406 to Khatib Stn Exit A",
 		"stops": [
 			"59591",
 			"59811",
@@ -9,7 +9,7 @@
 		]
 	},
 	{
-		"name": "From Opp Khatib Stn to Opp Blk 406",
+		"name": "From Opp Khatib Stn Exit A to Opp Blk 406",
 		"stops": [
 			"59049",
 			"59771",
