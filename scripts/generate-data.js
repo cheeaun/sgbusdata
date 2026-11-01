@@ -1,6 +1,7 @@
 const polyline = require('@mapbox/polyline');
 const simplify = require('simplify-js');
 const combineLineStrings = require('./lib/combine-line-strings');
+const oneMapPatterns = require('./lib/one-map-patterns');
 function coords2polyline(coords) {
   // convert lng lat to X Y
   const xyCoords = coords.map((coord) => ({ x: coord[0], y: coord[1] }));
@@ -221,46 +222,9 @@ services
         // First, read from OneMap
         const patchRoute = readFile(`./data/v1/patch/${num}.om.json`);
         const { BUS_DIRECTION_ONE, BUS_DIRECTION_TWO } = patchRoute;
-        if (BUS_DIRECTION_ONE) {
-          const firstStop = BUS_DIRECTION_ONE.find(
-            (s) => s.BUS_SEQUENCE === 1,
-          ).START_BUS_STOP_NUM;
-          const coordinates = BUS_DIRECTION_ONE.reduce((acc, v) => {
-            const line = polyline
-              .decode(v.GEOMETRIES)
-              .map((coords) => coords.reverse());
-            // const line = v.GEOMETRIES;
-            if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
-              line.shift(); // Remove first coord
-            }
-            acc.push(...line);
-            return acc;
-          }, []);
-          patchPatterns.push({
-            firstStop,
-            coordinates,
-          });
-        }
-        if (BUS_DIRECTION_TWO) {
-          const firstStop = BUS_DIRECTION_TWO.find(
-            (s) => s.BUS_SEQUENCE === 1,
-          ).START_BUS_STOP_NUM;
-          const coordinates = BUS_DIRECTION_TWO.reduce((acc, v) => {
-            const line = polyline
-              .decode(v.GEOMETRIES)
-              .map((coords) => coords.reverse());
-            // const line = v.GEOMETRIES;
-            if (acc.length && acc[acc.length - 1].join() === line[0].join()) {
-              line.shift(); // Remove first coord
-            }
-            acc.push(...line);
-            return acc;
-          }, []);
-          patchPatterns.push({
-            firstStop,
-            coordinates,
-          });
-        }
+        [BUS_DIRECTION_ONE, BUS_DIRECTION_TWO].filter(Boolean).forEach((direction) => {
+          patchPatterns.push(...oneMapPatterns(direction));
+        });
       } catch (e) {
         console.error(e);
         // If fails, read from CityMapper
@@ -283,8 +247,15 @@ services
       if (!fauxError) {
         route.forEach((pattern, i) => {
           let theRightPattern = patchPatterns.find(
-            (p) => p.firstStop == pattern.stops[0],
+            (p) => p.stops && p.stops.length === pattern.stops.length &&
+              p.stops.every((stop, index) => stop === pattern.stops[index]),
           );
+          if (!theRightPattern) {
+            const candidates = patchPatterns.filter(
+              (p) => p.firstStop == pattern.stops[0],
+            );
+            if (candidates.length === 1) theRightPattern = candidates[0];
+          }
           if (!theRightPattern) {
             // This means the route might contain 2 patterns
             // But somehow one of them is missing
