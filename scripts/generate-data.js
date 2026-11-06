@@ -1,6 +1,11 @@
 const polyline = require('@mapbox/polyline');
 const simplify = require('simplify-js');
 const combineLineStrings = require('./lib/combine-line-strings');
+const {
+  CUT_OFF_PERCENTAGE,
+  lineDistanceMeters,
+  stopDistanceMeters,
+} = require('./lib/route-distance');
 function coords2polyline(coords) {
   // convert lng lat to X Y
   const xyCoords = coords.map((coord) => ({ x: coord[0], y: coord[1] }));
@@ -20,6 +25,12 @@ const validator = new Validator();
 const stops = readFile('./data/v1/raw/bus-stops.json');
 const stopsDatamall = readFile('./data/v1/raw/bus-stops.datamall.json');
 const services = readFile('./data/v1/raw/bus-services.json');
+const routeStopCoordinates = new Map(
+  stops.map((stop) => [
+    String(stop.name),
+    [stop.coordinates.long, stop.coordinates.lat],
+  ]),
+);
 
 let stopNames = {};
 const stopNamesArr = readFile('./data/v1/patch/bus-stop-names.json');
@@ -33,9 +44,14 @@ const missingRoutesServices = readFile(
 const multilineRoutesServices = readFile(
   './data/v1/patch/patch-multiple-routes.results.json',
 ).map((d) => '' + d.number);
+const cutOffRoutes = readFile(
+  './data/v1/patch/bus-services-routes.cut-off.json',
+);
+const cutOffRoutesServices = cutOffRoutes.map((d) => '' + d.number);
 const faultyRoutesServices = [
   ...missingRoutesServices,
   ...multilineRoutesServices,
+  ...cutOffRoutesServices,
 ];
 
 const missingServices = readFile('./data/v1/patch/missing-services.json');
@@ -164,7 +180,7 @@ services
     const patterns = kmlFile.map((f) => path.parse(f).name);
     const processPatterns = () => {
       patterns.forEach((p, i) => {
-        if (!route[i]) return;
+        if (!route[i] || routesPolylines[num][i] !== undefined) return;
         try {
           const geojson = readFile(
             `./data/v1/raw/services/${type}/${p}.geojson`,
@@ -214,7 +230,133 @@ services
         }
       });
     };
-    if (faultyRoutesServices.includes(num)) {
+    const cutOffPatterns = cutOffRoutes.filter(
+      (cutOffRoute) => cutOffRoute.number === num,
+    );
+    if (cutOffPatterns.length) {
+      const patchPatterns = [];
+      const addOneMapPatterns = (patchRoute) => {
+        ['BUS_DIRECTION_ONE', 'BUS_DIRECTION_TWO'].forEach((directionName) => {
+          const direction = patchRoute[directionName];
+          if (!direction?.length) return;
+          const orderedSegments = [...direction].sort(
+            (a, b) => a.BUS_SEQUENCE - b.BUS_SEQUENCE,
+          );
+          const firstStop = orderedSegments[0].START_BUS_STOP_NUM;
+          const coordinates = orderedSegments.reduce((acc, segment) => {
+            const line = polyline
+              .decode(segment.GEOMETRIES)
+              .map(([latitude, longitude]) => [longitude, latitude]);
+            if (
+              acc.length &&
+              line.length &&
+              acc[acc.length - 1].join() === line[0].join()
+            ) {
+              line.shift();
+            }
+            acc.push(...line);
+            return acc;
+          }, []);
+          patchPatterns.push({ firstStop, coordinates, provider: 'OneMap' });
+        });
+      };
+      const addCityMapperPatterns = (patchRoute) => {
+        patchRoute.routes.forEach((patchService) => {
+          patchService.patterns.forEach((pattern) => {
+            const firstStop =
+              patchRoute.stops[pattern.stop_points[0].id].stop_code;
+            const coordinates = pattern.path.map(([latitude, longitude]) => [
+              longitude,
+              latitude,
+            ]);
+            patchPatterns.push({
+              firstStop,
+              coordinates,
+              provider: 'Citymapper',
+            });
+          });
+        });
+      };
+
+      try {
+        addOneMapPatterns(readFile(`./data/v1/patch/${num}.om.json`));
+      } catch (e) {
+        console.warn(`No OneMap fallback available for ${num}: ${e.message}`);
+      }
+      try {
+        addCityMapperPatterns(readFile(`./data/v1/patch/${num}.cm.json`));
+      } catch (e) {
+        console.warn(`No Citymapper fallback available for ${num}: ${e.message}`);
+      }
+
+      const addFallbackPattern = (candidate, i) => {
+        routesPolylines[num][i] = coords2polyline(candidate.coordinates);
+        routesFeatures.push({
+          type: 'Feature',
+          properties: {
+            number: num,
+            pattern: i,
+          },
+          geometry: {
+            type: 'LineString',
+            coordinates: candidate.coordinates,
+          },
+        });
+        console.log(
+          `${num} ${patterns[i]}: using ${candidate.provider} fallback`,
+        );
+      };
+
+      route.forEach((pattern, i) => {
+        const patternName = patterns[i];
+        const isCutOffPattern = cutOffPatterns.some(
+          (cutOffPattern) => cutOffPattern.numberPattern === patternName,
+        );
+        if (!isCutOffPattern) return;
+
+        const expectedDistance = stopDistanceMeters(
+          pattern.stops,
+          routeStopCoordinates,
+        );
+        if (expectedDistance === null || expectedDistance === 0) {
+          console.warn(
+            `${num} ${patternName}: cannot validate fallback against stop distances`,
+          );
+          return;
+        }
+
+        const candidates = patchPatterns.map((patchPattern) => {
+          const percentage =
+            (lineDistanceMeters([patchPattern.coordinates]) /
+              expectedDistance) *
+            100;
+          const matchesFirstStop =
+            patchPattern.firstStop === pattern.stops[0];
+          console.log(
+            `${num} ${patternName}: ${patchPattern.provider} fallback is ${percentage.toFixed(1)}% of straight-line stop distance${matchesFirstStop ? '' : `; starts at ${patchPattern.firstStop}, expected ${pattern.stops[0]}`}`,
+          );
+          return { ...patchPattern, percentage, matchesFirstStop };
+        });
+        const selectedPattern = candidates.find(
+          (candidate) =>
+            candidate.matchesFirstStop &&
+            candidate.percentage >= CUT_OFF_PERCENTAGE,
+        );
+
+        if (!selectedPattern) {
+          console.warn(
+            `${num} ${patternName}: no matching fallback meets ${CUT_OFF_PERCENTAGE}%; keeping LTA geometry`,
+          );
+          return;
+        }
+
+        addFallbackPattern(selectedPattern, i);
+        console.log(
+          `${num} ${patternName}: fallback validated at ${selectedPattern.percentage.toFixed(1)}%`,
+        );
+      });
+      processPatterns();
+    } else if (faultyRoutesServices.includes(num)) {
       const patchPatterns = [];
       let fauxError = false;
       try {

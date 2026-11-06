@@ -45,6 +45,8 @@ Delete files in `data/v1/raw/services/*`, `data/v1/patch/*.cm.json` and `data/v1
 
 - `patch-missing-routes` - Patch missing routes (failed requests from `fetch-bus-services-route`) by getting fresh route data from [OneMap](https://www.onemap.gov.sg/)/[Citymapper](https://citymapper.com/).
 - `patch-multiline-routes` - Patch multi-line routes (routes that has more than one line, we only need one line here, per pattern) by getting fresh route data from OneMap (again).
+- `check-cut-off-routes` - Detect route lines that may be cut off by comparing their distance with the sum of straight-line distances between consecutive stops. Patterns below 90% are reported to `data/v1/patch/bus-services-routes.cut-off.json` for review; this is a heuristic and does not change route geometry.
+- `patch-cut-off-routes` - Fetch OneMap and Citymapper geometry for detected cut-off services. `generate-data` validates matching fallback lines against stop distances and uses a fallback only if it reaches 90%; otherwise, it keeps the LTA geometry and logs a warning.
 - `patch-bus-stop-names` - Patch bus stop names (some of them are all-uppercase instead of titlecase) by double-checking them on https://svc.simplygo.com.sg/eservice/eguide/bscode_idx.php
 
 ### `npm run generate`

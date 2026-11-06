@@ -1,0 +1,29 @@
+[
+	{
+		"number": "154B",
+		"numberPattern": "154B-1",
+		"name": "From Boon Lay Int to Ngee Ann Poly",
+		"stopCount": 32,
+		"actualDistanceMeters": 3527,
+		"straightLineDistanceMeters": 13448,
+		"percentage": 26.2
+	},
+	{
+		"number": "89A",
+		"numberPattern": "89A-1",
+		"name": "From Aft Punggol Rd to AirFreight Ter Bldg",
+		"stopCount": 37,
+		"actualDistanceMeters": 12351,
+		"straightLineDistanceMeters": 15642,
+		"percentage": 79
+	},
+	{
+		"number": "118A",
+		"numberPattern": "118A-1",
+		"name": "From Punggol Int to ITE Coll East Adm Blk",
+		"stopCount": 21,
+		"actualDistanceMeters": 10692,
+		"straightLineDistanceMeters": 12119,
+		"percentage": 88.2
+	}
+]
