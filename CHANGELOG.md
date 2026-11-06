@@ -1,3 +1,11 @@
+# 6 November 2026
+
+## Routes changed: 3
+
+- `118A` Punggol Int → ITE Coll East Adm Blk
+- `154B` Boon Lay Int → Ngee Ann Poly
+- `89A` Aft Punggol Rd → AirFreight Ter Bldg
+
 # 1 November 2026
 
 ## Stops count change: 5208 ⮕ 5209
